@@ -46,4 +46,4 @@ Is it bad to test this in the ACX survey data? Might ACX already be selecting a 
 
 Marginal Revolution discusses other potential explanations for an increasing ideological gender gap [here](https://marginalrevolution.com/marginalrevolution/2024/02/religion-and-the-ideological-gender-gap.html), but also [the finding doesn’t replicate and might not be real at all](https://twitter.com/ryanburge/status/1751615375408521623).
 
- _[As always, you can download the ACX survey data[here](https://www.astralcodexten.com/p/acx-survey-results-2022) and try to replicate my results. Some subjects are excluded from the publicly downloadable dataset for privacy reasons, so you might not get exactly the same numbers I did.]_
+ _[As always, you can download the ACX survey data[here](/p/acx-survey-results-2022) and try to replicate my results. Some subjects are excluded from the publicly downloadable dataset for privacy reasons, so you might not get exactly the same numbers I did.]_

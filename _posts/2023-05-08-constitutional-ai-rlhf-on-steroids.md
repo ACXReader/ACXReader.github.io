@@ -7,7 +7,7 @@ original-url: https://www.astralcodexten.com/p/constitutional-ai-rlhf-on-steroid
 ---
 ## What Is Constitutional AI?
 
-AIs like GPT-4 go through several different[1](https://www.astralcodexten.com/p/constitutional-ai-rlhf-on-steroids#footnote-1-118178440) types of training. First, they train on giant text corpuses in order to work at all. Later, they go through a process called “reinforcement learning through human feedback” (RLHF) which trains them to be “nice”. RLHF is why they (usually) won’t make up fake answers to your questions, tell you how to make a bomb, or rank all human races from best to worst.
+AIs like GPT-4 go through several different[1](/p/constitutional-ai-rlhf-on-steroids#footnote-1-118178440) types of training. First, they train on giant text corpuses in order to work at all. Later, they go through a process called “reinforcement learning through human feedback” (RLHF) which trains them to be “nice”. RLHF is why they (usually) won’t make up fake answers to your questions, tell you how to make a bomb, or rank all human races from best to worst.
 
 RLHF is hard. The usual method is to make human crowdworkers rate thousands of AI responses as good or bad, then train the AI towards the good answers and away from the bad answers. But having thousands of crowdworkers rate thousands of answers is expensive and time-consuming. And it puts the AI’s ethics in the hands of random crowdworkers. Companies train these crowdworkers in what responses they want, but they’re limited by the crowdworkers’ ability to follow their rules.
 
@@ -44,7 +44,7 @@ These goals sometimes conflict. An AI can be maximally harmless by refusing to a
 
 Here, Anthropic measures helpfulness and harmlessness through [Elo](https://en.wikipedia.org/wiki/Elo_rating_system), a scoring system originally from chess which measures which of two players wins more often. If AI #1 has helpfulness Elo of 200, and AI #2 has helpfulness Elo of 100, and you ask them both a question, AI #1 should be more helpful 64% of the time.
 
-The graph above shows that constitutionally trained models are “less harmful at a given level of helpfulness”[2](https://www.astralcodexten.com/p/constitutional-ai-rlhf-on-steroids#footnote-2-118178440). This technique isn't just cheaper and easier to control, it's also more effective.
+The graph above shows that constitutionally trained models are “less harmful at a given level of helpfulness”[2](/p/constitutional-ai-rlhf-on-steroids#footnote-2-118178440). This technique isn't just cheaper and easier to control, it's also more effective.
 
 ## Is This Perpetual Motion?
 
@@ -68,7 +68,7 @@ But another analogy is self-reflection. I sometimes generate a plan, or take an 
 
 ## Does This Solve Alignment?
 
-If you could really plug an AI’s intellectual knowledge into its motivational system, and get it to be motivated by doing things humans want and approve of, to the full extent of its knowledge of what those things are[3](https://www.astralcodexten.com/p/constitutional-ai-rlhf-on-steroids#footnote-3-118178440) \- then I think that would solve alignment. A superintelligence would understand ethics very well, so it would have very ethical behavior. How far does Constitutional AI get us towards this goal?
+If you could really plug an AI’s intellectual knowledge into its motivational system, and get it to be motivated by doing things humans want and approve of, to the full extent of its knowledge of what those things are[3](/p/constitutional-ai-rlhf-on-steroids#footnote-3-118178440) \- then I think that would solve alignment. A superintelligence would understand ethics very well, so it would have very ethical behavior. How far does Constitutional AI get us towards this goal?
 
 As currently designed, not very far. An already trained AI would go through some number of rounds of Constitutional AI feedback, get answers that worked within some distribution, and then be deployed. This suffers from the same out-of-distribution problems as any other alignment method.
 
@@ -80,14 +80,14 @@ What if you had overseer AIs performing Constitutional AI Feedback on trainee AI
 
 Constitutional AI is a step forward in controlling the inert, sort-of-goal-less language models we have now. In very optimistic scenarios where superintelligent AIs are also inert and sort-of-goal-less, Constitutional AI might be a big help. In more pessimistic scenarios, it would at best be one tiny part of a plan whose broader strokes we still can’t make out.
 
-[1](https://www.astralcodexten.com/p/constitutional-ai-rlhf-on-steroids#footnote-anchor-1-118178440)
+[1](/p/constitutional-ai-rlhf-on-steroids#footnote-anchor-1-118178440)
 
 Commenters point out that there’s another round of training involving fine-tuning; that’s not relevant here so I’m going to leave it out for simplicity.
 
-[2](https://www.astralcodexten.com/p/constitutional-ai-rlhf-on-steroids#footnote-anchor-2-118178440)
+[2](/p/constitutional-ai-rlhf-on-steroids#footnote-anchor-2-118178440)
 
 Also less helpful at a given level of harmlessness, which is bad. I think these kinds of verbal framings are less helpful than looking at the graph, which suggests that quantitatively the first (good) effect predominates. I don’t know whether prioritizing harmlessness over helpfulness is an inherent feature of this method, a design choice by this team, or just a coincidence based on what kind of models and training sessions they used.
 
-[3](https://www.astralcodexten.com/p/constitutional-ai-rlhf-on-steroids#footnote-anchor-3-118178440)
+[3](/p/constitutional-ai-rlhf-on-steroids#footnote-anchor-3-118178440)
 
 This sentence is deliberately clunky; it originally read “ethical things to the full extent of its knowledge of what is ethical”. But humans might not support maximally ethical things, or [these might not coherently exist](https://slatestarcodex.com/2018/09/25/the-tails-coming-apart-as-metaphor-for-life/), so you might have to get philosophically creative here. 

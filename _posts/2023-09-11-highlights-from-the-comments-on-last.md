@@ -5,17 +5,17 @@ date: 2023-09-11
 likes: 48
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-last
 ---
-_Original post:[Model City Monday 9/4/23](https://www.astralcodexten.com/p/model-city-monday-9423)_
+_Original post:[Model City Monday 9/4/23](/p/model-city-monday-9423)_
 
 ## Comments On The Solano County City
 
- **Ecorche[writes](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39575807):**
+ **Ecorche[writes](/p/model-city-monday-9423/comment/39575807):**
 
 > The Public's Radio article has a [map ](https://content-prod-ripr.thepublicsradio.org/ap-articles/35f91416dd7d84ecb03ed08199d87dd5/07bbb1a9bacf47b39d14e26eae47d958.jpg)in it that gives a better idea of the location. It looks like most of the land is closer to Rio Vista and does include a good stretch of riverfront. The land close to Travis is probably intended as industrial park rather than residential.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F465dd4ba-53df-4121-b2c9-f33c00fafec7_5521x3681.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F465dd4ba-53df-4121-b2c9-f33c00fafec7_5521x3681.jpeg)
 
- **Steve Sailer[writes](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39582886):**
+ **Steve Sailer[writes](/p/model-city-monday-9423/comment/39582886):**
 
 > The car commute from Montezuma Hills in roughly the geographic weighted center of the land purchases to San Francisco looks like roughly 3 hours and ten minutes round trip on the average working day […]
 > 
@@ -43,7 +43,7 @@ Steve is right that many working-class people with SF jobs commute from Stockton
 
 (the three hour commute from Stockton involves some painful public transit connections; I wonder why there’s no commuter bus).
 
- **Michael[worries about the air force base](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39569345) (marked Travis AFB on the map above)**
+ **Michael[worries about the air force base](/p/model-city-monday-9423/comment/39569345) (marked Travis AFB on the map above)**
 
 > Oh ... shit. I know what this means.
 > 
@@ -53,7 +53,7 @@ Steve is right that many working-class people with SF jobs commute from Stockton
 > 
 > Look, we have to have air force bases, and we intentionally put them in God forsaken out of the way places, where they can make shit-tons of noise, drop the occasional airplane, and do it in some out of the way place where the only casualties are the air crew. But then NOPE, some schemer sees a scam, and this is it, the taxpayers are being had yet again.
 
- **Auros is a planning commissioner,[and discusses how authorities think about these kinds of air noise problems](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39578327):**
+ **Auros is a planning commissioner,[and discusses how authorities think about these kinds of air noise problems](/p/model-city-monday-9423/comment/39578327):**
 
 > At least in the last forty years, what the federal authorities have done about airport noise is not reduce the airport noise. It's to tell cities that they can have some assistance with residents' noise insulation improvements, _if_ they alter zoning to prevent any further construction. See for instance the Comprehensive Airport Land Use Compatibility Plan for the Environs of San Francisco International Airport:
 > 
@@ -79,7 +79,7 @@ Steve is right that many working-class people with SF jobs commute from Stockton
 > 
 > <https://www.sfchronicle.com/bayarea/article/San-Bruno-rejected-plan-for-425-homes-Now-14698779.php>
 
- **But[Brinkwater has a different perspective:](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39574967)**
+ **But[Brinkwater has a different perspective:](/p/model-city-monday-9423/comment/39574967)**
 
 > Having been to Vacaville, I don't think noise will be a problem.
 > 
@@ -95,7 +95,7 @@ Steve is right that many working-class people with SF jobs commute from Stockton
 > 
 > You'll hear planes, but it will be like living in Vacaville.
 
- **C1ue[writes](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39576674):**
+ **C1ue[writes](/p/model-city-monday-9423/comment/39576674):**
 
 > I would be shocked in Proposition 13 related tax shenanigans are not underlying a major part of the Solano "new city" development. Having valuations increase is great - but having to pay almost no taxes on it is a major force multiplier. As I have noted before: people who bought property in Pacific Heights in the late 70s and early 80s now pay annual property tax that is less than 1 month's rent for a 1 bedroom in SF - and there are many ways to make this intergenerational.
 
@@ -119,7 +119,7 @@ In 2015, Sramek might have reasonably expected that “tech leaders are founding
 
 Thesis Driven’s conclusion is that trying to build a tech city in California was arguably a reasonable plan in 2015 but a bad plan now. Since Flannery is locked into it, they might as well see if they can pull off a miracle. But if they were starting this today, they should have tried working in Texas or Florida, just like everyone else who doesn’t want local government to ruin their lives.
 
- **Shaked Koplewitz (**[blog](https://shakeddown.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39568531):**
+ **Shaked Koplewitz (**[blog](https://shakeddown.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/model-city-monday-9423/comment/39568531):**
 
 >  _> > “Once 10,000 people live in their town, what’s to stop those people from becoming NIMBYs and voting against further growth?”_
 > 
@@ -145,7 +145,7 @@ And again, if you’re gunning to be the spokesperson for a new anti-elite movem
 
 ## Comments On Prospera
 
- **DamienCh[writes](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39579382):**
+ **DamienCh[writes](/p/model-city-monday-9423/comment/39579382):**
 
 > I am an international lawyer, expert in investment arbitration, and write for the main news source in that field; hopefully I can clarify a few points here.
 > 
@@ -171,7 +171,7 @@ The legal battle matters only insofar as it gives the government cover to send i
 
 Prospera predicts that the socialists won’t be able to establish a legal fig leaf for shutting them down before the political winds shift again and Honduras elects a different government. According to [a May poll](https://www-swissinfo-ch.translate.goog/spa/honduras-encuesta_hondure%C3%B1os-califican-con-un-4-46-sobre-10-al-gobierno-de-xiomara-castro--seg%C3%BAn-un-sondeo/48499510?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp), “43.3% of those surveyed consider that the Castro Government represents a negative change for [Honduras], 35.5% see it as positive and 19.9% ​​think that it is more of the same.” The next election is in November 2025.
 
- **Erusian[writes](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39575287):**
+ **Erusian[writes](/p/model-city-monday-9423/comment/39575287):**
 
 > There's multiple lawsuits in Honduras, not just from Prospera but from multiple corporations. Prospera is demanding that the government not proceed with disestablishing them. They said it could be billions of dollars if they lose all of their investment or if the disestablishment proceeds. But they are seeking to block the disestablishment, not to get paid. The logic behind the $11 billion is they're calculating over the original 50 year agreement.
 > 
@@ -179,7 +179,7 @@ Prospera predicts that the socialists won’t be able to establish a legal fig l
 > 
 > If you ignore the World Bank then you get suspended from the World Bank which makes getting loans and international aid harder. Honduras has paid in the past. As Honduras receives between $500 million and $1 billion in aid each year it's doubtful they could do without. But perhaps the left wing governments of the US and so on will ignore it? Not entirely sure.
 
-See also [this subthread about how Argentina’s creditors made its life miserable after they defaulted on international debt](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39580422).
+See also [this subthread about how Argentina’s creditors made its life miserable after they defaulted on international debt](/p/model-city-monday-9423/comment/39580422).
 
  **Christophe Biocca writes:**
 
@@ -201,21 +201,21 @@ Too bad! I figured the original pictures were too beautiful to ever become real,
 
 ## On Other Model City Topics
 
- **Romeo Stevens on[Neom’s loan](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39569608):**
+ **Romeo Stevens on[Neom’s loan](/p/model-city-monday-9423/comment/39569608):**
 
 > WRT the 2.7 billion: the most important thing to understand about large piles of wealth is that they always have a huge imaginary component, money that can't be withdrawn without crashing the value of the rest of it. So loans are taken out against the assets instead of just spending the money. This is also the reason for the weird behavior you see from the wealthy. There can be 100 fold difference in how liquidity constrained two billionaires with the same nominal wealth are. If you nominally had a billion dollars but could only do anything with 10 million you'd feel pretty poor compared to your buddies.
 
- **Rob[on Neom’s loan](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39624521):**
+ **Rob[on Neom’s loan](/p/model-city-monday-9423/comment/39624521):**
 
 > On Neom wanting loans - I have a guess. Part of why Aramco IPOed was to create proper financial records - not because selling a few percent of Aramco meaningfully diversified the holdings of the Saudi royal family. By being a publicly traded company, there were forcing mechanisms to get the company to do proper financial reporting.
 
- **Throwaway Commenter[on Neom’s loan](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39585095):**
+ **Throwaway Commenter[on Neom’s loan](/p/model-city-monday-9423/comment/39585095):**
 
 > Just on the Saudi Arabia loan - it's something that companies do all the time, probably for some combination of (1) cash flow reasons; (2) maximising leverage; and (3) the pricing works out.
 > 
 > Pricing: If Saudi Arabia's existing investments give it a return of 6% a year, and the interest it owes on the loan is 4% a year, then it can pay off the interest using its investment returns and keep an additional 2% of profit. It wouldn't want to liquidate its existing investments and lose out on those returns.
 
- **Sarah Constantin (**[blog](https://sarahconstantin.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[on Praxis](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39598236):**
+ **Sarah Constantin (**[blog](https://sarahconstantin.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[on Praxis](/p/model-city-monday-9423/comment/39598236):**
 
 > I've spoken to the Praxis people and it doesn't seem mysterious to me.
 > 
@@ -227,15 +227,15 @@ Too bad! I figured the original pictures were too beautiful to ever become real,
 > 
 > I think this is the kind of thing where it's not obviously dumb that well-known VCs invested a few million dollars...but also maybe a <20% chance that it gets as far as Prospera (a real place with buildings where at least some people actually live full time).
 
- **Arbituram on France[selling Kerguelen Island](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39567516):**
+ **Arbituram on France[selling Kerguelen Island](/p/model-city-monday-9423/comment/39567516):**
 
 > I'm pretty sure the Kerguelen islands thing isn't real? I can't find any legitimate sources repeating the claim.
 
 Thank you, I’ve looked further and it is, in fact, false.
 
-The original source seems to be [this Chinese news site](https://min.news/en/world/0f072d4e2c03d77ae483cdb3c74cf093.html). It doesn’t look like it’s a _Babylon-Bee_ -style satire site (some of the other articles seem real, and none of them are funny) so I’m not sure what their angle is in making it up. Still, aside from a few China-aligned sites that picked it up from them, nobody else says anything about this, so it must be fake. Here is a subthread about [whether France selling Kerguelen would even be constitutional](https://www.astralcodexten.com/p/model-city-monday-9423/comment/39567529).
+The original source seems to be [this Chinese news site](https://min.news/en/world/0f072d4e2c03d77ae483cdb3c74cf093.html). It doesn’t look like it’s a _Babylon-Bee_ -style satire site (some of the other articles seem real, and none of them are funny) so I’m not sure what their angle is in making it up. Still, aside from a few China-aligned sites that picked it up from them, nobody else says anything about this, so it must be fake. Here is a subthread about [whether France selling Kerguelen would even be constitutional](/p/model-city-monday-9423/comment/39567529).
 
- **Chris D’Angelo (**[blog](https://justsumantics.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) on Hammer City (**[featured in the first Model City Monday post](https://www.astralcodexten.com/p/model-city-monday) **):**
+ **Chris D’Angelo (**[blog](https://justsumantics.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) on Hammer City (**[featured in the first Model City Monday post](/p/model-city-monday) **):**
 
 > A belated update from our friends in The Black Hammer Party bodes poorly for the prospects of Hammer City. Apparently their leaders were arrested and are facing charges for “kidnapping, aggravated assault, false imprisonment, conspiracy to commit a felony, and taking part in street gang activity,” and one of them for sexual assault.
 > 

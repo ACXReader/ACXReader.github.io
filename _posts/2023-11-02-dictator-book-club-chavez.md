@@ -9,7 +9,7 @@ _[previously in series:[Erdogan](https://astralcodexten.substack.com/p/book-revi
 
  **I.**
 
-All dictators get their start by discovering some loophole in the democratic process. [Xi](https://www.astralcodexten.com/p/dictator-book-club-xi-jinping) realized that control of corruption investigations let him imprison anyone he wanted. [Erdogan](https://www.astralcodexten.com/p/book-review-the-new-sultan) realized that EU accession talks provided the perfect cover to retool Turkish institutions in his own image. 
+All dictators get their start by discovering some loophole in the democratic process. [Xi](/p/dictator-book-club-xi-jinping) realized that control of corruption investigations let him imprison anyone he wanted. [Erdogan](/p/book-review-the-new-sultan) realized that EU accession talks provided the perfect cover to retool Turkish institutions in his own image.
 
 Hugo Chavez realized that there’s no technical limit on how often you can invoke the emergency broadcast system. You can do it every day! The “emergency” can be that you had a cool new thought about the true meaning of socialism. Or that you’re opening a new hospital and it makes a good photo op. Or that opposition media is saying something mean about you, and you’d like to prevent anyone from watching that particular channel (which is conveniently bound by law to air emergency broadcasts whenever they occur).
 

@@ -31,7 +31,7 @@ But aside from all these biases - wait, they found that the same number of peopl
 
 I think their measures of “objective morality” are not very good. Their evidence that morality has actually stayed the same over time is proof by exhaustion - a giant pile of hundreds of polls nobody wants to sort through - without much work to show that these polls bear on the question. Four issues are particularly concerning: timescale, accuracy, measurement, and sensitivity.
 
- _ **Timescale:** _The paper claims to be measuring this effect since 1949, but this only applies to subjective perceptions of decline. Their measurements of “objective” morality don’t go back nearly as far. Only one of their hundred-odd polls goes back as far as the 1960s; three more are from the 1970s[1](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-1-131849352). The overwhelming majority analyze the period 2000 - 2015.
+ _ **Timescale:** _The paper claims to be measuring this effect since 1949, but this only applies to subjective perceptions of decline. Their measurements of “objective” morality don’t go back nearly as far. Only one of their hundred-odd polls goes back as far as the 1960s; three more are from the 1970s[1](/p/is-there-an-illusion-of-moral-decline#footnote-1-131849352). The overwhelming majority analyze the period 2000 - 2015.
 
 But when people say “there was more morality back in the good old days”, they rarely mean “in 2000 compared to 2015”. Even if moral decline were constant and linear, 2000 - 2015 might be too short a period for ordinary people to notice the difference.
 
@@ -43,7 +43,7 @@ If the few ‘60s and ‘70s polls were good, this might provide proof of concep
 
 The graph agrees that the difference between the 1960s and today is 34% vs. 37%, ie pretty trivial. 
 
-But the crime rate data shows about 2.5x more violent crime today ([source](https://www.everycrsreport.com/files/20180620_R45236_2331bb4395e5bc18cafc200727ecad1748db8880.html))[2](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-2-131849352):
+But the crime rate data shows about 2.5x more violent crime today ([source](https://www.everycrsreport.com/files/20180620_R45236_2331bb4395e5bc18cafc200727ecad1748db8880.html))[2](/p/is-there-an-illusion-of-moral-decline#footnote-2-131849352):
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9403a12e-7399-4898-9838-6611882aad14_577x385.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9403a12e-7399-4898-9838-6611882aad14_577x385.png)
 
@@ -96,11 +96,11 @@ I think MG were most interested in talking about potential biases that could cau
 
 So am I claiming that morality _is_ declining over time?
 
-A real answer to this question would require philosophical groundwork that this paper doesn’t even begin. Whatever the issues with the data, they’re the least of MG’s problems[3](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-3-131849352). They’ve committed themselves to haphazardly combining polls on violent crime, blood donation, homophobia, volunteerism, and workplace abuse into a single construct, “morality”, and then making sweeping pronouncements about it.
+A real answer to this question would require philosophical groundwork that this paper doesn’t even begin. Whatever the issues with the data, they’re the least of MG’s problems[3](/p/is-there-an-illusion-of-moral-decline#footnote-3-131849352). They’ve committed themselves to haphazardly combining polls on violent crime, blood donation, homophobia, volunteerism, and workplace abuse into a single construct, “morality”, and then making sweeping pronouncements about it.
 
 “So the problem is they’re mixing up too many things?” No, they’re still mixing up too _few_ things. 
 
-In all the hundred-ish polls that MG used as objective morality indicators, I counted zero that involved sex, marriage, divorce, child-rearing, drugs, alcohol, loyalty, patriotism, respect for elders, hard work, laziness, religion, or anything about God.[4](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-4-131849352)
+In all the hundred-ish polls that MG used as objective morality indicators, I counted zero that involved sex, marriage, divorce, child-rearing, drugs, alcohol, loyalty, patriotism, respect for elders, hard work, laziness, religion, or anything about God.[4](/p/is-there-an-illusion-of-moral-decline#footnote-4-131849352)
 
 Suppose you were born in 1940. You learned from your parents that morality was about going to church, staying chaste until marriage, loving your country, working hard, and staying away from drugs.
 
@@ -121,7 +121,7 @@ You notice that between 1940 and 2020:
 
 You describe this state of affairs as “I’m worried about a moral decline”. Then some psychologists pounce on you with one million graphs showing that _actually_ we respect Hispanics as much as ever which means you’re just biased.
 
-So an alternative explanation for widespread perception of moral decline is that each generation observes moral decline relative to its own standards. If you were born in 1940, you absorbed 1940 morality. The year 2020 does worse at 1940 morality than the year 1940 did, because the year 2020 isn’t trying to achieve 1940 morality, it’s trying to achieve 2020 morality, which is only partly correlated[5](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-5-131849352).
+So an alternative explanation for widespread perception of moral decline is that each generation observes moral decline relative to its own standards. If you were born in 1940, you absorbed 1940 morality. The year 2020 does worse at 1940 morality than the year 1940 did, because the year 2020 isn’t trying to achieve 1940 morality, it’s trying to achieve 2020 morality, which is only partly correlated[5](/p/is-there-an-illusion-of-moral-decline#footnote-5-131849352).
 
 This neatly explains MG’s finding that everyone believes morality peaked around the year of their birth and has been declining ever since. In fact, it explains the data better than MG’s own hypothesis: they find a marginal trend for people to rate morality worse 40 years before their birth than 20, which doesn’t fit a rose-colored glasses effect but does fit an imprint-on-your-own-birth-year one.
 
@@ -137,24 +137,24 @@ Since I’ve been pretty harsh on this paper, let me say that I’m more sympath
 
 But the actual current paper is more ambitious, and it fails to live up to those high ambitions.
 
-[1](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-anchor-1-131849352)
+[1](/p/is-there-an-illusion-of-moral-decline#footnote-anchor-1-131849352)
 
 Here I’m talking mostly about objective indicators; there are some subjective questions from earlier eras. Also, I skimmed over a lot of these and only looked at the US data; sorry if I missed some from other countries.
 
-[2](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-anchor-2-131849352)
+[2](/p/is-there-an-illusion-of-moral-decline#footnote-anchor-2-131849352)
 
 There’s less homicide today than in 1900, and less violent crime today than in 1990; MG could have chosen to highlight either of these trends. I’m critiquing the one they did highlight to show that their methods are bad, not that crime has really increased or that there’s no argument that it’s decreased/stayed the same.
 
-[3](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-anchor-3-131849352)
+[3](/p/is-there-an-illusion-of-moral-decline#footnote-anchor-3-131849352)
 
 …
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb603028-7494-4f66-8a1a-83299d96ca87_592x108.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb603028-7494-4f66-8a1a-83299d96ca87_592x108.png)
 
-[4](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-anchor-4-131849352)
+[4](/p/is-there-an-illusion-of-moral-decline#footnote-anchor-4-131849352)
 
 Cf. [Jonathan Haidt’s theory of Moral Foundations](https://astralcodexten.substack.com/p/your-book-review-the-righteous-mind).
 
-[5](https://www.astralcodexten.com/p/is-there-an-illusion-of-moral-decline#footnote-anchor-5-131849352)
+[5](/p/is-there-an-illusion-of-moral-decline#footnote-anchor-5-131849352)
 
 This isn’t necessarily true. It’s possible for a later year to live up to the moral standards of 1940 better than 1940 does. For example, in 1940 people might believe adultery is bad, but do it anyway, and then in 1980 everyone finds God and stops having affairs and even 1940 has to admit that 1980 is doing things better. Rather, say that there are two forces - moral progress/regress by 1940 standards, vs. moral drift since 1940 (which naturally causes everyone to be worse at 1940 standards, since they’re no longer even trying to achieve them). If the second factor outweighs the first, everyone feels like morality declines since their childhood.

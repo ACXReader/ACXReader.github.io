@@ -137,7 +137,7 @@ The plan is:
 
 
 
-Lantern spent $400,000 acquiring rights and synthesizing the organism. Their first priority is to get out of the hole. So to start, they’ll be selling Lumina in [Prospera](https://www.astralcodexten.com/p/prospectus-on-prospera), a libertarian charter city in Honduras. Prospera allows the sale of any biotech product under an informed consent rule: as long as the company is open about risks and the patient signs a waiver saying they were informed, people can do what they want.
+Lantern spent $400,000 acquiring rights and synthesizing the organism. Their first priority is to get out of the hole. So to start, they’ll be selling Lumina in [Prospera](/p/prospectus-on-prospera), a libertarian charter city in Honduras. Prospera allows the sale of any biotech product under an informed consent rule: as long as the company is open about risks and the patient signs a waiver saying they were informed, people can do what they want.
 
 By good luck, Prospera will soon be hosting [a two month super-conference](https://wiki.vitalia.city/) of biotech and crypto entrepreneurs/enthusiasts. Aaron thinks they sound like the sorts of people who might want an experimental cavity-preventing bacterium and have $20,000 to spend, so he’s hoping to sell at least twenty doses. But also, anyone else who wants the product can go on a medical tourism trip to Prospera and get it in their [experimental-treatment clinic](https://garmclinic.com/).
 
@@ -159,7 +159,7 @@ The FDA does have the option of reviewing their studies and asking additional qu
 
 Yes. The recipient would either have to wait until just after a high-powered teeth-cleaning session at the dentist’s, or research how to give themselves a dentist-quality teeth-cleaning. Then they would find someone who had already bought the bacterium, swab their teeth with a q-tip, and apply it to their own teeth.
 
-(this would risk transferring other salivary pathogens; to avoid this, you could use the more involved process described [here](https://www.astralcodexten.com/p/defying-cavity-lantern-bioworks-faq/comment/44992945))
+(this would risk transferring other salivary pathogens; to avoid this, you could use the more involved process described [here](/p/defying-cavity-lantern-bioworks-faq/comment/44992945))
 
 Aaron thinks of this as a mostly altruistic project, and although he wouldn’t mind getting rich, he doesn’t begrudge anyone who is desperate enough to read up on dentistry and swab their friends’ teeth. He thinks most people would rather just pay the one-time cost of a few hundred dollars.
 

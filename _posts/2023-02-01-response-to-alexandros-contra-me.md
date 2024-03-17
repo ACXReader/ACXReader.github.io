@@ -95,7 +95,7 @@ His Point 4 is correct, although based on information that came out after I wrot
 
 His Point 5 is - I do feel like Alexandros is having a sort of missing mood on the fact that one of Cadegiani’s big pro-ivermectin studies contains impossible data. While this is not proof of fraud or incompetence, it is some Bayesian evidence for both. And while fraud or incompetence in one of your studies supporting ivermectin is not proof that your other studies supporting ivermectin are also fraudulent/incompetent, it is, again, Bayesian evidence. 
 
-Alexandros makes a big deal of there being four corrections in the BMJ article attacking Cadegiani, as if now the BMJ has admitted they were wrong all along, whereas these were mostly on unrelated details and the BMJ definitely did not correct the quotes about how his study was “an ethical cesspool of violations” or how “in the entire history of the National Health Council, there has never been such disrespect for ethical standards and research participants in the country”[1](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-1-96979578). I feel like if his Science Olympiad medals are an important part of the story, these kinds of things are an important part too.
+Alexandros makes a big deal of there being four corrections in the BMJ article attacking Cadegiani, as if now the BMJ has admitted they were wrong all along, whereas these were mostly on unrelated details and the BMJ definitely did not correct the quotes about how his study was “an ethical cesspool of violations” or how “in the entire history of the National Health Council, there has never been such disrespect for ethical standards and research participants in the country”[1](/p/response-to-alexandros-contra-me#footnote-1-96979578). I feel like if his Science Olympiad medals are an important part of the story, these kinds of things are an important part too.
 
 Still, several of Alexandros’ points were entirely correct, and I appreciate the corrections.
 
@@ -119,7 +119,7 @@ Alexandros quotes a commenter who found that the most likely explanation for the
 
 I don’t think I did anything especially wrong here. There was a chart that didn’t make sense. It turned out not to make sense because some data was missing. I said “[this] seems like a relatively minor mistake, and Meyerowitz-Katz stops short of calling fraud, but it’s not a good look. I’m going to be slightly uncomfortable with this study without rejecting it entirely, and move on.”
 
-I was right that it was a minor mistake, I was right that it wasn’t fraud, and I was right not to reject the study. I didn’t have the exact explanation (missing data), so I did not mention it, but I think I made the correct guess about the sort of explanation it was. I don’t understand why Alexandros acts like I said the study wasn’t worth keeping, or that there was no innocent explanation, or that I was accusing the researchers of fraud, when in fact I said the opposite of all those things, pretty explicitly.[2](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-2-96979578)
+I was right that it was a minor mistake, I was right that it wasn’t fraud, and I was right not to reject the study. I didn’t have the exact explanation (missing data), so I did not mention it, but I think I made the correct guess about the sort of explanation it was. I don’t understand why Alexandros acts like I said the study wasn’t worth keeping, or that there was no innocent explanation, or that I was accusing the researchers of fraud, when in fact I said the opposite of all those things, pretty explicitly.[2](/p/response-to-alexandros-contra-me#footnote-2-96979578)
 
  **Carvallo et al (Alexandros 25% right)**
 
@@ -135,7 +135,7 @@ Alexandros responds [here](https://doyourownresearch.substack.com/p/the-potemkin
 
   2. The other Carvallo paper was accused of fraud, but not actually retracted. 
 
-  3. The fraud accusation (primarily described in [this Buzzfeed article](https://www.buzzfeednews.com/article/stephaniemlee/ivermectin-covid-study-suspect-data), which Alexandros believes is unfair) was for a study done in four hospitals. One of the hospitals denied knowing anything about it or authorizing it. But the main hospital said they _did_ know about it and authorize it, it (according to Carvallo) it is considered okay in Argentina to let hospital staff enroll in trials without telling the hospital.[3](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-3-96979578)
+  3. The fraud accusation (primarily described in [this Buzzfeed article](https://www.buzzfeednews.com/article/stephaniemlee/ivermectin-covid-study-suspect-data), which Alexandros believes is unfair) was for a study done in four hospitals. One of the hospitals denied knowing anything about it or authorizing it. But the main hospital said they _did_ know about it and authorize it, it (according to Carvallo) it is considered okay in Argentina to let hospital staff enroll in trials without telling the hospital.[3](/p/response-to-alexandros-contra-me#footnote-3-96979578)
 
   4. The study does have a lot of data collection issues and Alexandros agrees we shouldn’t take it seriously, he just disagrees with calling it fraud.
 
@@ -187,11 +187,11 @@ In the summary post, Alexandros’ entire criticism of my coverage of this trial
 
 > [Elalfy et al] are accused of incompetence for failing to randomize their groups multiple times in Scott’s piece. The paper writes in six separate places that it is not reporting on a randomized trial, amongst them on a diagram that Scott included in his own essay. Hard to imagine how else they could have made it clear.
 
-In [his full post on this](https://doyourownresearch.substack.com/p/the-potemkin-argument-part-ii-the#%C2%A7iii-elalfy-et-al), he goes line by line to point out all the places they say they are non-randomized, pausing to snark about how dumb I am for not noticing each time[4](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-4-96979578). But he never addresses the actual source of my confusion, which is the part of the paper where it says that:
+In [his full post on this](https://doyourownresearch.substack.com/p/the-potemkin-argument-part-ii-the#%C2%A7iii-elalfy-et-al), he goes line by line to point out all the places they say they are non-randomized, pausing to snark about how dumb I am for not noticing each time[4](/p/response-to-alexandros-contra-me#footnote-4-96979578). But he never addresses the actual source of my confusion, which is the part of the paper where it says that:
 
 > Patients were self-allocated to the treatment groups; the first 3 days of the week for the intervention arm while the other 3 days for symptomatic treatment.
 
-If this was done as described, it should be an (almost) random trial; patients who come in on Wednesdays shouldn’t systematically differ from patients who come in on Thursdays[5](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-5-96979578). But in fact, it looks (assuming I am understanding a very ambiguous table correctly) like there are very large pre-existing differences between the groups, sufficient to explain the entire result. If they in fact followed their days-of-the-week protocol, and it was random as expected, then I’m misunderstanding the table seeming to show very large differences, and they have indeed found evidence for ivermectin’s efficacy. If they didn’t follow their day-of-the-week protocol and it’s non-random, then maybe I’m understanding the table correctly and their groups had large differences to begin with and the fact that they had large differences at the end of the trial doesn’t demonstrate anything about ivermectin. This is all I was trying to say in the post, and instead of having any opinion on it Alexandros just makes fun of me for saying it.
+If this was done as described, it should be an (almost) random trial; patients who come in on Wednesdays shouldn’t systematically differ from patients who come in on Thursdays[5](/p/response-to-alexandros-contra-me#footnote-5-96979578). But in fact, it looks (assuming I am understanding a very ambiguous table correctly) like there are very large pre-existing differences between the groups, sufficient to explain the entire result. If they in fact followed their days-of-the-week protocol, and it was random as expected, then I’m misunderstanding the table seeming to show very large differences, and they have indeed found evidence for ivermectin’s efficacy. If they didn’t follow their day-of-the-week protocol and it’s non-random, then maybe I’m understanding the table correctly and their groups had large differences to begin with and the fact that they had large differences at the end of the trial doesn’t demonstrate anything about ivermectin. This is all I was trying to say in the post, and instead of having any opinion on it Alexandros just makes fun of me for saying it.
 
 I think our actual crux is that Alexandros thinks a table of big differences between the groups has to be post-treatment (based on how big the differences are), whereas I’m not sure (because it’s unclear in the study, and also because the authors describe what could be a randomization method but also go on and on about how nonrandom they are). This is why I thought it mattered how random it was! Maybe instead of mocking me for this, you can admit it’s an important and relevant question!
 
@@ -295,7 +295,7 @@ Alexandros responds to this theory [here](https://doyourownresearch.substack.com
 
 You can find arguments for all these points at the link.
 
-(One additional thing Alexandros does that I really like: he compares the _Strongyloides_ hypothesis - as an attempt to explain why these studies keep getting such different results - to other hypotheses. For example, studies in Latin America get negative results more often than others. This really feels like confronting the real question. He finds that Latin American studies do find lower efficacy for ivermectin than the other mostly Asian studies, and hypothesizes that this is because ivermectin is very popular in Latin America, the “control” group illicitly takes it without telling the researchers, and so these studies are inadvertantly comparing two ivermectin groups. This is another clever and elegant theory. Unfortunately, the recent spate of negative American studies sink it[6](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-6-96979578). Still, I agree there is a strong geographic element here; worms are one possible explanation, but there are others - including the scientific culture in different countries. I appreciate Alexandros highlighting how much this is true.) 
+(One additional thing Alexandros does that I really like: he compares the _Strongyloides_ hypothesis - as an attempt to explain why these studies keep getting such different results - to other hypotheses. For example, studies in Latin America get negative results more often than others. This really feels like confronting the real question. He finds that Latin American studies do find lower efficacy for ivermectin than the other mostly Asian studies, and hypothesizes that this is because ivermectin is very popular in Latin America, the “control” group illicitly takes it without telling the researchers, and so these studies are inadvertantly comparing two ivermectin groups. This is another clever and elegant theory. Unfortunately, the recent spate of negative American studies sink it[6](/p/response-to-alexandros-contra-me#footnote-6-96979578). Still, I agree there is a strong geographic element here; worms are one possible explanation, but there are others - including the scientific culture in different countries. I appreciate Alexandros highlighting how much this is true.)
 
 I asked Dr. Bitterman for his thoughts. He reiterates that although steroids are one major cause of _Strongyloides_ hyperinfection, another is eosinopenia, a decrease in the immune cells that fight parasites. COVID can cause eosinopenia directly, so just because a COVID patient didn’t get steroids, or was only on steroids for a short period, doesn’t prove that the patient couldn’t have had hyperinfection.
 
@@ -368,7 +368,7 @@ When John Ioannidis attacks funnel plots, I am fine with this because Dr. Ioanni
 
 Points 2 - 3 are worth taking seriously. These studies definitely have lots of heterogeneity. It’s why we’re having this discussion at all - if all studies agreed, then ivermectin would obviously work/fail and it wouldn’t be a controversy. 
 
-An asymmetric funnel plot shows that something unusual is going on. Publication bias is one common kind of unusual thing that causes this pattern. Therefore, asymmetric funnel plots provide evidence for publication bias. But they don’t prove it. Other things like heterogeneity can produce the same pattern. If Alexandros’ point is that we need to think clearly about whether an asymmetric funnel plot shows publication bias or something else, his point is well taken.[7](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-7-96979578)
+An asymmetric funnel plot shows that something unusual is going on. Publication bias is one common kind of unusual thing that causes this pattern. Therefore, asymmetric funnel plots provide evidence for publication bias. But they don’t prove it. Other things like heterogeneity can produce the same pattern. If Alexandros’ point is that we need to think clearly about whether an asymmetric funnel plot shows publication bias or something else, his point is well taken.[7](/p/response-to-alexandros-contra-me#footnote-7-96979578)
 
 But in this case, it’s probably publication bias. An exciting new medication for a deadly pandemic, where it would be revolutionary if it worked, but also boring and obvious if it didn’t, and which is originally tested mostly in small trials - is a situation perfectly designed to elicit publication bias. 
 
@@ -394,7 +394,7 @@ Here’s [just the mortality studies](https://mobile.twitter.com/AviBittMD/statu
 
 [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dbdf54f-64f7-43c6-9d54-625155cbb07b_2322x1268.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dbdf54f-64f7-43c6-9d54-625155cbb07b_2322x1268.jpeg)
 
-These aren’t confounded by day of PCR test (they’re mostly not testing PCR)[8](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-8-96979578), but they’re at least as skewed as the PCR plot. Either by coincidence every funnel plot about ivermectin results that you can generate is confounded by a different kind of heterogeneity, _or_ this area with high incentives for publication bias, investigated by types of studies where publication bias is extremely likely, has publication bias.
+These aren’t confounded by day of PCR test (they’re mostly not testing PCR)[8](/p/response-to-alexandros-contra-me#footnote-8-96979578), but they’re at least as skewed as the PCR plot. Either by coincidence every funnel plot about ivermectin results that you can generate is confounded by a different kind of heterogeneity, _or_ this area with high incentives for publication bias, investigated by types of studies where publication bias is extremely likely, has publication bias.
 
 ## VI. What’s Happened Since 2021?
 
@@ -472,19 +472,19 @@ I wanted to gather a gestalt argument for the consensus in one place and help re
 
 I appreciate everyone who helped gather this information, question its assumptions, fortify key points, and beat it into shape, including Alexandros.
 
-[1](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-anchor-1-96979578)
+[1](/p/response-to-alexandros-contra-me#footnote-anchor-1-96979578)
 
 Alexandros responds: “These are quotes by a local official who is involved in the case. They're not the BMJ's opinion. I believe, but am not sure, that Cadegiani is in a legal dispute with this peroson. And in any case, they're non-factual and hyperbolic. I can only look at the facts of the matter. The fact that this official is making hyperbolic statements can be interpreted as an argument on either side of the debate.”
 
-[2](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-anchor-2-96979578)
+[2](/p/response-to-alexandros-contra-me#footnote-anchor-2-96979578)
 
 Alexandros responds: “This is extremely common in studies, and accepted as normal. TOGETHER is missing ‘time since symptom onset’ for 23% of its patients, and age for 7% of its patients. Each of these are inclusion criteria, so one wonders how these patients were even included in the first place. And yet, nobody bats an eyelash. In principle, I have no objection if one wanted to make "missing data" a factor to filter by, but then every study has to be looked at the same way, not just Babalola. More [here](https://www.google.com/url?q=https://doyourownresearch.substack.com/p/the-together-trial-cant-make-up-its&sa=D&source=docs&ust=1675025592986073&usg=AOvVaw3N6M-F3NYh-MLWt3osh0BE).
 
-[3](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-anchor-3-96979578)
+[3](/p/response-to-alexandros-contra-me#footnote-anchor-3-96979578)
 
 Alexandros adds: “This is from the buzzfeed piece: ‘Javier Farina, an infectious diseases doctor at Hospital Cuenca Alta and a member of its ethics committee, acknowledged that staff members may have individually participated and noted that it is common in Argentina for employees to work at different hospitals.’ -- I don't think this one is ‘according to Carvallo’. Surely Buzzfeed has to substantiate that there is in fact an issue with an adult medical professional enrolling in a study of their choice.”
 
-[4](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-anchor-4-96979578)
+[4](/p/response-to-alexandros-contra-me#footnote-anchor-4-96979578)
 
 Alexandros writes: “I checked the original, and I'm not sure what this is referring to. Was I irritated when I was writing this? Sure. But I don't see any case where I make any aspersions about your intelligence or fling any insults whatsoever. If I did write something along those lines, please point it out. I tried quite hard to keep my tone as neutral as I possibly could, but I can see how something may have slipped.”
 
@@ -504,20 +504,20 @@ I appreciate this. I acknowledge he did not literally insult my intelligence in 
 
 …pretty grating, given that I don’t feel like Alexandros understood or responded to the reasons why I was uncertain about how random this trial was.
 
-[5](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-anchor-5-96979578)
+[5](/p/response-to-alexandros-contra-me#footnote-anchor-5-96979578)
 
 Alexandros writes “But patients who come in the weekend can totally differ systematically from patients who come in the weekdays.” First, I think (though this is very speculative) that the trial used a six day week to avoid Friday, the Muslim equivalent of the weekend. Second, although this is a possible source of bias, it’s a pretty weak one, and I’m still interested in whether the only source of bias is weekend vs. weekday, or whether this is actually nonrandom in some more general sense.
 
-[6](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-anchor-6-96979578)
+[6](/p/response-to-alexandros-contra-me#footnote-anchor-6-96979578)
 
 Alexandros writes: “Given that these new trials were mostly in late '21 and '22, and the mortality in them was extremely low, I don't believe they would alter the results of my analysis, since studies with few if any events get very low weights in this style meta-analysis. I haven't re-run it, but if it will make a difference, let me know and I'll give it a go. I also think (but won't take it the wrong way if you ignore me on this) it is unfair to introduce new data mid-argument. As you probably know, I have serious objections about these negative American studies (the most serious of which I have not yet published) and believe they are worthy of a separate conversation. My point, i believe, has consistently been that the confidence people are projecting that ivm doesn't work isn't supported by the evidence. either strongyloides was particularly strong as an explanation at the time, or there were other hypotheses we should have considered.”
 
 I agree it’s in some sense unfair if I use introduction of new data mid-argument to defend myself, and I don’t mean to do that. I do think it’s always fair to get new data to try to resolve the original question. And if it turns out a theory was right about the original question, this does sort of defend the at least the spirit of the theory, if not its implementation.
 
-[7](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-anchor-7-96979578)
+[7](/p/response-to-alexandros-contra-me#footnote-anchor-7-96979578)
 
 Thanks to Dr. Bitterman for [helping clarify this](https://mobile.twitter.com/AviBittMD/status/1482600178158821379)
 
-[8](https://www.astralcodexten.com/p/response-to-alexandros-contra-me#footnote-anchor-8-96979578)
+[8](/p/response-to-alexandros-contra-me#footnote-anchor-8-96979578)
 
 See [here ](https://mobile.twitter.com/AviBittMD/status/1483114182274863104)for a separate look at timing as a confounder.

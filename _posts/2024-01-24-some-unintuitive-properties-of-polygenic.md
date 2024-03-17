@@ -24,7 +24,7 @@ No. I ran a discount-rate simulation on a spreadsheet. I generated 2000 people. 
 
 Then I created a total risk score which was the average of their genetic and environmental scores, with the genetic weighted 4x more highly than the environmental, ie [((4 * genetic) + (environmental))/5]. In other words, the genetic score contributed 80% of the variance. It looked like this. 
 
-[EDIT: My bad, [it should be 2x](https://www.astralcodexten.com/p/some-unintuitive-properties-of-polygenic/comment/48011469), but this shouldn’t change the overall direction of the results[1](https://www.astralcodexten.com/p/some-unintuitive-properties-of-polygenic#footnote-1-140920583)]
+[EDIT: My bad, [it should be 2x](/p/some-unintuitive-properties-of-polygenic/comment/48011469), but this shouldn’t change the overall direction of the results[1](/p/some-unintuitive-properties-of-polygenic#footnote-1-140920583)]
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29cdcf9d-5638-44be-8186-cd7750420e75_688x444.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29cdcf9d-5638-44be-8186-cd7750420e75_688x444.png)
 
@@ -62,7 +62,7 @@ Then I sorted again, and called anyone with total risk > 0.928 a schizophrenic.
 
 The new generation still has 20 schizophrenics - just as many as the last!
 
-How can this be? The lowest genetic risk score of a person who nevertheless developed schizophrenia was 0.915. In our sample of 2000 people, we should expect about 183 people to be at or above that threshold. The simulated Nazis killed off 20 in the last generation. There are still 163 left. These are people who didn’t get schizophrenia because they had a positive environment, but could have gotten it if their environment had been worse. They outnumber schizophrenics by almost 10 to 1. When we bring their genes forward into the new generation, some of their descendants get bad environments, and so get schizophrenia. I think you should expect _very slightly_ fewer schizophrenics in the new generation, but the effect size wasn’t noticeable in this small granular simulation - nor, apparently, in Germany[2](https://www.astralcodexten.com/p/some-unintuitive-properties-of-polygenic#footnote-2-140920583).
+How can this be? The lowest genetic risk score of a person who nevertheless developed schizophrenia was 0.915. In our sample of 2000 people, we should expect about 183 people to be at or above that threshold. The simulated Nazis killed off 20 in the last generation. There are still 163 left. These are people who didn’t get schizophrenia because they had a positive environment, but could have gotten it if their environment had been worse. They outnumber schizophrenics by almost 10 to 1. When we bring their genes forward into the new generation, some of their descendants get bad environments, and so get schizophrenia. I think you should expect _very slightly_ fewer schizophrenics in the new generation, but the effect size wasn’t noticeable in this small granular simulation - nor, apparently, in Germany[2](/p/some-unintuitive-properties-of-polygenic#footnote-2-140920583).
 
 I can’t find a formal paper about this one. A better model would have to take into account that people’s children aren’t clones of themselves, and that children’s environment is correlated with their parents’. But at least the first one would drive rates up, not down, so I think this makes the point just fine.
 
@@ -72,10 +72,10 @@ The two arguments above were the really novel ones that I found potentially conv
 
 Awais Aftab has [a more interesting article](https://www.psychiatrymargins.com/p/contextualizing-the-heritability) about how even if the twin studies are right, “mostly genetic” is a poor way to describe their results. I disagree, and will try to respond to it some other time.
 
-[1](https://www.astralcodexten.com/p/some-unintuitive-properties-of-polygenic#footnote-anchor-1-140920583)
+[1](/p/some-unintuitive-properties-of-polygenic#footnote-anchor-1-140920583)
 
 When I re-ran it with the correct 2x number, the twin concordance rate was 10%, and the second generation had 23 schizophrenics. This puts the twin concordance rate outside the observed amount, which I think is because I’m not accounting for twins having a shared environment; the linked paper accounts for that and finds 33%.
 
-[2](https://www.astralcodexten.com/p/some-unintuitive-properties-of-polygenic#footnote-anchor-2-140920583)
+[2](/p/some-unintuitive-properties-of-polygenic#footnote-anchor-2-140920583)
 
 Probably because it’s hard to diagnose schizophrenia, and the change was below the noise threshold of whatever methods they used.

@@ -33,7 +33,7 @@ The second graph shows a world with a gradual “slow” takeoff. Early AIs (eg 
 
 The third graph shows a world with a sudden “fast” takeoff. Maybe there’s some single key insight that takes AIs from “mere brute-force pattern matchers” to “true intelligence”. Whenever you get this insight, AIs go from far-below-human-level to human-level or beyond, no gradual progress necessary.
 
-Before, I mentioned one reason Davidson doesn’t like these terms - “slow takeoff” can be fast. It’s actually worse than this; in some sense, a “slow takeoff” will necessarily be faster than a “fast takeoff” - if you superimpose the red and blue graphs above, the red line will be higher at every point[1](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-1-127386375). CCF departs from this terminology in favor of trying to predict a particular length of takeoff in real time units. Specifically, it asks: how long will it take to go from the kind of early-to-intermediate AI that can automate 20% of jobs, to the truly-human-level AI that can automate 100% of jobs?
+Before, I mentioned one reason Davidson doesn’t like these terms - “slow takeoff” can be fast. It’s actually worse than this; in some sense, a “slow takeoff” will necessarily be faster than a “fast takeoff” - if you superimpose the red and blue graphs above, the red line will be higher at every point[1](/p/davidson-on-takeoff-speeds#footnote-1-127386375). CCF departs from this terminology in favor of trying to predict a particular length of takeoff in real time units. Specifically, it asks: how long will it take to go from the kind of early-to-intermediate AI that can automate 20% of jobs, to the truly-human-level AI that can automate 100% of jobs?
 
 (“Can automate” here means “is theoretically smart enough to automate” - actual automation will depend on companies fine-tuning it for specific tasks and providing it with the necessary machinery; for example, even a very smart AI can’t do plumbing until someone connects it to a robot body to do the dirty work. CCF will talk more about these kinds of considerations later.)
 
@@ -54,11 +54,11 @@ Like Bio Anchors, CCF ranks all current and future AIs on a one-dimensional scal
 
 (everyone agrees that software/algorithmic progress can make AIs work better even with the same amount of compute; “effective compute” means “compute adjusting for software/algorithmic progress”)
 
-Training a current AI like GPT-4 takes about 10^24 FLOPs of compute[2](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-2-127386375). Bio Anchors has already investigated how much compute it would take to train a human-level AI; their median estimate is 10^35 FLOPs[3](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-3-127386375).
+Training a current AI like GPT-4 takes about 10^24 FLOPs of compute[2](/p/davidson-on-takeoff-speeds#footnote-2-127386375). Bio Anchors has already investigated how much compute it would take to train a human-level AI; their median estimate is 10^35 FLOPs[3](/p/davidson-on-takeoff-speeds#footnote-3-127386375).
 
-Current AI (10^24 FLOPs) can’t do very many jobs[4](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-4-127386375). Human level AI (10^35 FLOPs) by definition can do 100% of jobs. The AI that can do 20% of jobs must be somewhere in between. So the compute difference must be less than 12 orders of magnitude (OOMs)[5](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-5-127386375).
+Current AI (10^24 FLOPs) can’t do very many jobs[4](/p/davidson-on-takeoff-speeds#footnote-4-127386375). Human level AI (10^35 FLOPs) by definition can do 100% of jobs. The AI that can do 20% of jobs must be somewhere in between. So the compute difference must be less than 12 orders of magnitude (OOMs)[5](/p/davidson-on-takeoff-speeds#footnote-5-127386375).
 
-Current AI seems far from doing 20% of jobs[6](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-6-127386375), so Davidson artificially subtracts 3 OOMs to represent the lowest number at which it seems maybe possible that we would reach this level. Now we’re at a 9 OOM gap.
+Current AI seems far from doing 20% of jobs[6](/p/davidson-on-takeoff-speeds#footnote-6-127386375), so Davidson artificially subtracts 3 OOMs to represent the lowest number at which it seems maybe possible that we would reach this level. Now we’re at a 9 OOM gap.
 
 It seems like maybe dumb people can do 20% of jobs, so an AI that was as smart as a dumb human could reach the 20% bar. The compute difference between dumb and smart humans, based on brain size and [neuron number](https://slatestarcodex.com/2019/03/25/neurons-and-intelligence-a-birdbrained-perspective/), is less than 1 OOM, so this suggests a very small gap. But AI can already do some things dumb humans can’t (like write coherent essays with good spelling and punctuation), so maybe this is a bad way of looking at things.
 
@@ -100,7 +100,7 @@ I can’t follow the full math, but I appreciated this sample problem ([source](
 > 
 > To estimate (ii), suppose you trained AGI with 1e32 2020-FLOP, the training run took 4 months, afterwards you used 10% of your training compute to run AGIs doing software research, and running an AGI required 1e16 2020-FLOP/s. With these conservative assumptions, you’ll have 100 million AGIs doing software research and so the first software doubling will take ~1 months.
 
-That is: it takes much more compute to train an AI than to run it. Once you have enough compute to train an AI smart enough to do a lot of software research, you have enough compute to run 100 million copies of that AI[7](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-7-127386375). 100 million copies is enough to do a _lot_ of software research. If software research is parallelizable (ie if nine women can produce one baby per month - the analysis will investigate this assumption later), that means you can do it really fast.
+That is: it takes much more compute to train an AI than to run it. Once you have enough compute to train an AI smart enough to do a lot of software research, you have enough compute to run 100 million copies of that AI[7](/p/davidson-on-takeoff-speeds#footnote-7-127386375). 100 million copies is enough to do a _lot_ of software research. If software research is parallelizable (ie if nine women can produce one baby per month - the analysis will investigate this assumption later), that means you can do it really fast.
 
 ## What Are The Bottlenecks To AI Speeding Up AI Progress?
 
@@ -150,7 +150,7 @@ The first graph shows the various inputs to compute; the second graph just shows
 
 In 2022, AIs had around 10^24 FLOPs. Davidson expects this to grow by about an OOM per year for a while, mostly because companies and investors are getting more excited about AI and paying for bigger training runs, although a little of this is also software and hardware progress. The line might go a little bit up or down based on the size of investor pocketbooks and when “wakeup time” happens.
 
-Around 2040, AI will reach the point where it can do a lot of the AI and chip research process itself. Research will speed up VERY VERY FAST. AI will make more progress in two years than in decades of business-as-usual. Most of this progress will be in software, although hardware will also get a big boost.[8](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-8-127386375)
+Around 2040, AI will reach the point where it can do a lot of the AI and chip research process itself. Research will speed up VERY VERY FAST. AI will make more progress in two years than in decades of business-as-usual. Most of this progress will be in software, although hardware will also get a big boost.[8](/p/davidson-on-takeoff-speeds#footnote-8-127386375)
 
 So this is the mainline scenario. What are the confidence intervals?
 
@@ -206,7 +206,7 @@ A lot of these big complicated analyses are salvos in a long-running conflict be
 
 The OP school expect the rise of AI to be gradual, multipolar, and potentially survivable. The MIRI school expect it to be sudden, singular, and catastrophic. [Yudkowsky vs. Christiano on Takeoff Speeds](https://astralcodexten.substack.com/p/yudkowsky-contra-christiano-on-ai) is a good intro here, with Yudkowsky representing MIRI and Christiano OP.
 
-Davidson works at Open Philanthropy and is trying to flesh out their side of the story. Again, even his “gradual” takeoff won’t seem very gradual to us fleshbag humans; it will go from 20% of the economy to 100% in ~3 years, and reach superintelligence within a year after that[9](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-9-127386375). Still, there will at least be enough time for journalists to publish a few articles saying that fears of AI taking over 100% of the economy are overblown and alarmist, which is a _sort of_ gradual.
+Davidson works at Open Philanthropy and is trying to flesh out their side of the story. Again, even his “gradual” takeoff won’t seem very gradual to us fleshbag humans; it will go from 20% of the economy to 100% in ~3 years, and reach superintelligence within a year after that[9](/p/davidson-on-takeoff-speeds#footnote-9-127386375). Still, there will at least be enough time for journalists to publish a few articles saying that fears of AI taking over 100% of the economy are overblown and alarmist, which is a _sort of_ gradual.
 
 The last part of CCF is a response to MIRI, shading into an acknowledgment that the report has mostly assumed away their concerns. 
 
@@ -248,48 +248,48 @@ Like skiing down Everest, near-future AI capabilities progress may be simultaneo
 
 Since everything will happen faster than we think, we will want to have plans beforehand. We need clear criteria for when AI labs will halt progress to reassess safety - not just because current progress is fast, but because progress will get faster just when it becomes most dangerous.
 
-Sometime in the next few years or decades, someone will create an AI which can perform an appreciable fraction of all human tasks. Millions of copies will be available almost immediately[10](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-10-127386375), with many running at faster-than-human speed. Suddenly, everyone will have access to a super-smart personal assistant who can complete cognitive tasks in seconds. A substantial fraction of the workforce will be fired; the remainder will see their productivity skyrocket. The pace of technological progress will advance by orders of magnitude, including progress on even smarter AI assistants. Within months, years at most, your assistant will be smarter than you are and hundreds of millions of AIs will be handling every facet of an increasingly futuristic-looking economy.
+Sometime in the next few years or decades, someone will create an AI which can perform an appreciable fraction of all human tasks. Millions of copies will be available almost immediately[10](/p/davidson-on-takeoff-speeds#footnote-10-127386375), with many running at faster-than-human speed. Suddenly, everyone will have access to a super-smart personal assistant who can complete cognitive tasks in seconds. A substantial fraction of the workforce will be fired; the remainder will see their productivity skyrocket. The pace of technological progress will advance by orders of magnitude, including progress on even smarter AI assistants. Within months, years at most, your assistant will be smarter than you are and hundreds of millions of AIs will be handling every facet of an increasingly futuristic-looking economy.
 
 When this happens, Tom Davidson and OpenPhil will be able to say “We drew a curve whose shape sort of corresponds to this process.” It probably won’t feel very reassuring.
 
-[1](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-1-127386375)
+[1](/p/davidson-on-takeoff-speeds#footnote-anchor-1-127386375)
 
 Is this just an artifact of where I put the fast takeoff cliff on the graph? The broader point is that if there is some quantum leap waiting somewhere along the AI progress slope, we will get to it faster if we model AIs self-improving gradually until then, instead of humans doing AI research alone. Put another way, the people in [this picture of fast takeoff](https://twitter.com/AISafetyMemes/status/1646284544838909953) get to the cliff faster than they would if they weren’t even-a-little in the slow takeoff world.
 
-[2](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-2-127386375)
+[2](/p/davidson-on-takeoff-speeds#footnote-anchor-2-127386375)
 
 Although some estimates for GPT-4 are closer to 10^25 FLOPs. Davidson’s report was published in January, when the biggest AIs were closer to 10^24 FLOPs, and since we don’t have good numbers for GPT-4 I am sticking with his older number for consistency and convenience.
 
-[3](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-3-127386375)
+[3](/p/davidson-on-takeoff-speeds#footnote-anchor-3-127386375)
 
 But with ~10 OOM error bars!
 
-[4](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-4-127386375)
+[4](/p/davidson-on-takeoff-speeds#footnote-anchor-4-127386375)
 
 Is this true? It was probably more true in January 2023, when Davidson wrote his report. He tries to think of this in economic terms: AI companies are worth much less than 1% of the total economy. This doesn’t seem quite right to me; surely AI companies might capture only a fraction of the value they produce, especially given their habit of offering their products for free! Davidson acknowledges this, but says they’re so far below 1% of the economy that he is still comfortable saying they can (as of January 2023) automate less than 1% of jobs.
 
-[5](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-5-127386375)
+[5](/p/davidson-on-takeoff-speeds#footnote-anchor-5-127386375)
 
 The report says 7.5 OOMs, which I think is just an error; otherwise I don’t understand how they got this number.
 
-[6](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-6-127386375)
+[6](/p/davidson-on-takeoff-speeds#footnote-anchor-6-127386375)
 
 Again, back in the hoary days of January 2023.
 
-[7](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-7-127386375)
+[7](/p/davidson-on-takeoff-speeds#footnote-anchor-7-127386375)
 
 It may also be possible to run these copies at faster-than-human speed. More analysis of this key issue [here](https://www.lesswrong.com/posts/WZXqNYbJhtidjRXSi/what-will-gpt-2030-look-like).
 
-[8](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-8-127386375)
+[8](/p/davidson-on-takeoff-speeds#footnote-anchor-8-127386375)
 
 I asked Davidson why the curves level off at the end. He says: 
 
 > It’s a mixture of approaching fundamental limits to hardware and software, [and] failing to model the process by which AIs can design better and better robots, and then those robots double the number of robots and the number of AI chips faster and faster, driving accelerating (hyperbolic!) growth in the number of robots and AI chips. This is because I was mostly trying to model the development of AGI and the immediate aftermath, and because the model was already much too complicated to be thinking about robots!
 
-[9](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-9-127386375)
+[9](/p/davidson-on-takeoff-speeds#footnote-anchor-9-127386375)
 
 Unless we choose to slow down, eg with government regulation or corporate self-regulation.
 
-[10](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds#footnote-anchor-10-127386375)
+[10](/p/davidson-on-takeoff-speeds#footnote-anchor-10-127386375)
 
 Unless the AI lab involved delays releasing it, either out of safety concerns or in order to keep it to themselves and gain a big advantage.

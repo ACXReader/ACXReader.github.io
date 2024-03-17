@@ -5,7 +5,7 @@ date: 2023-09-19
 likes: 137
 original-url: https://www.astralcodexten.com/p/book-review-the-alexander-romance
 ---
-###### _[if this looks familiar to you, see explanation[here](https://www.astralcodexten.com/p/book-review-contest-2023-winners)]_
+###### _[if this looks familiar to you, see explanation[here](/p/book-review-contest-2023-winners)]_
 
 Sometimes scholars go on a search for “the historical Jesus”. They start with the Gospels, then subtract everything that seems magical or implausible, then declare whatever’s left to be the truth.
 

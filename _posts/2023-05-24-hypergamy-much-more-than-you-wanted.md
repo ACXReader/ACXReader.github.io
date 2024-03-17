@@ -11,7 +11,7 @@ original-url: https://www.astralcodexten.com/p/hypergamy-much-more-than-you-want
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe537c220-19c6-45a3-a3a5-0cd7a8cc8095_1283x649.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe537c220-19c6-45a3-a3a5-0cd7a8cc8095_1283x649.png)
 
-Freddie de Boer’s [Demographic Dating Market Doom Loop](https://freddiedeboer.substack.com/p/the-demographic-dating-market-doom) presents an argument that educational hypergamy is lowering marriage rates[1](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-1-123444805). He writes:
+Freddie de Boer’s [Demographic Dating Market Doom Loop](https://freddiedeboer.substack.com/p/the-demographic-dating-market-doom) presents an argument that educational hypergamy is lowering marriage rates[1](/p/hypergamy-much-more-than-you-wanted#footnote-1-123444805). He writes:
 
 > The fact that women are earning so many more degrees than men has social consequences . . . It will, I’m sure, shock you to learn that research done with dating app data (which has the advantage of being more honest than mere self-described preference) shows that women place dramatically more stock in a man’s education and income level than men do when searching for a woman partner [...]
 > 
@@ -27,7 +27,7 @@ You didn’t think you would get away without this section, did you?
 
 Hypergamy can be “absolute” or “relative”. Absolute hypergamy means that eg a husband is more educated than his wife. Relative hypergamy means that a husband’s educational rank among men is higher than his wife’s relative educational rank among women. That is, if the second-most educated woman (who has 25 years of education) marries the first-most educated man (who has 20), this would be relative hypergamy (she married a higher-ranked man) but absolute hypo-gamy (she married a man with less education than her).
 
-If everyone got married, then by definition, on average marriages would in absolute terms be educationally hypo-gamous[2](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-2-123444805). After all, women have more education than men. The average wife would have [average woman’s education level], the average husband would have [average man’s education level], and since the average woman is more educated than the average man, on average women would be marrying less-educated men.
+If everyone got married, then by definition, on average marriages would in absolute terms be educationally hypo-gamous[2](/p/hypergamy-much-more-than-you-wanted#footnote-2-123444805). After all, women have more education than men. The average wife would have [average woman’s education level], the average husband would have [average man’s education level], and since the average woman is more educated than the average man, on average women would be marrying less-educated men.
 
 And if everyone got married, then by definition, on average marriages would in relative terms be educationally equal. After all, on average, the average man has 50th percentile educational rank among men; the average woman has 50th percentile educational rank among women, therefore the average husband and wife would share the same educational rank.
 
@@ -37,7 +37,7 @@ First, if not everyone gets married, In this case, maybe the most educated 5% of
 
 Second, even if everything averages out to average, the slope could be different at the top vs. bottom of the distribution. Suppose that women want more educated men, but men want something else out of women (let’s say beauty). The most educated man would pair off with the most beautiful woman, and so on to the least educated man pairing off with the ugliest woman. On average, husbands and wives would have the same education. But in the top 50% of the distribution, husbands would on average be more educated than their wives; at the bottom half, husbands would on average be less educated. Why? Assume that education and beauty aren’t especially correlated. Then we expect women at any given tier of beauty to be about 50th percentile for education. So the top half of the male educational distribution is married to (on average) 50th percentile women (who they outrank), and the bottom half of the male educational distribution is also married to (on average) 50th percentile women (who outrank them). So although the entire distribution is equal-gamous, the top is hypergamous and the bottom is hypo-gamous. Not all of the studies we’re going to look at check for this, but some do.
 
-Since we already know women will (on average) be absolutely educationally hypogamous (because they’re on average more educated than men) and absolutely financially hypergamous (because they on average make less money than men)[3](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-3-123444805) most of the rest of this post will be focusing on relative hypergamy.
+Since we already know women will (on average) be absolutely educationally hypogamous (because they’re on average more educated than men) and absolutely financially hypergamous (because they on average make less money than men)[3](/p/hypergamy-much-more-than-you-wanted#footnote-3-123444805) most of the rest of this post will be focusing on relative hypergamy.
 
 ## III. People Like Hypergamy
 
@@ -45,7 +45,7 @@ DeBoer cites these dating site data ([source](https://ifstudies.org/blog/on-inte
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9b71ede-3db2-476f-a61f-70c0f1851294_1209x520.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9b71ede-3db2-476f-a61f-70c0f1851294_1209x520.png)Amount of dating site interest by combined income + education for all countries studied (left) and the USA in particular (right)
 
-I have some qualms about the data source[4](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-4-123444805), but it doesn’t matter; everyone else agrees. Wikipedia:
+I have some qualms about the data source[4](/p/hypergamy-much-more-than-you-wanted#footnote-4-123444805), but it doesn’t matter; everyone else agrees. Wikipedia:
 
 > Studies of mate selection in dozens of countries around the world [have found](https://web.archive.org/web/20130412152104/http://www1.anthro.utah.edu/PDFs/ec_evolanth.pdf) men and women report prioritizing different traits when it comes to choosing a mate, with both groups favoring attractive partners in general, but men tending to prefer women who are young while women tend to prefer men who are rich, well-educated, and ambitious.
 
@@ -53,7 +53,7 @@ I have some qualms about the data source[4](https://www.astralcodexten.com/p/hyp
 
 There are good reasons to be skeptical of educational hypergamy in particular.
 
-In the modern day, women are more likely to educationally “marry down” (ie marry a husband less educated than themselves) than to “marry up”[5](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-5-123444805):
+In the modern day, women are more likely to educationally “marry down” (ie marry a husband less educated than themselves) than to “marry up”[5](/p/hypergamy-much-more-than-you-wanted#footnote-5-123444805):
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7627217-43f7-4fc0-9465-457839a2df70_633x435.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7627217-43f7-4fc0-9465-457839a2df70_633x435.png)Source [here](https://ifstudies.org/blog/how-is-the-widening-education-gap-between-men-and-women-affecting-marriage). I've used red arrows to point to you people getting married recently, which I think is more relevant than old people getting married many years ago.
 
@@ -77,7 +77,7 @@ Education closely tracks social class. But maybe it’s not exactly what we’re
 
 And what about income? If women marry hypergamously in search of men who can provide for them, wouldn’t we expect income to be the most direct measure of this ability? Priscilla Chan (medical school graduate) married Mark Zuckerberg (college dropout), but probably doesn’t feel like she got a raw deal or “married down”. Should we be looking at this too?
 
-I was able to find five studies[6](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-6-123444805) that investigated in this level of detail. Here are the results from women’s perspective (ie a down arrow means women tend to marry down):
+I was able to find five studies[6](/p/hypergamy-much-more-than-you-wanted#footnote-6-123444805) that investigated in this level of detail. Here are the results from women’s perspective (ie a down arrow means women tend to marry down):
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44ca7254-61e6-4f69-bd18-424f104a260c_665x162.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44ca7254-61e6-4f69-bd18-424f104a260c_665x162.png)
 
@@ -85,7 +85,7 @@ Everyone who looked at education agreed that women tended to marry down, even in
 
 Everyone who looked at income agreed that women tended to marry up, even in relative terms.
 
-Class was more complicated[7](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-7-123444805). The Swedish study said in the abstract that it found women tended to marry down in terms of class, but I had trouble finding that effect in the data, and it looked pretty small if it existed. The Norwegian study said they tended to marry up, but with the same caveat. The two American and one English study were explicit about very close class matching, sometimes implausibly close. 
+Class was more complicated[7](/p/hypergamy-much-more-than-you-wanted#footnote-7-123444805). The Swedish study said in the abstract that it found women tended to marry down in terms of class, but I had trouble finding that effect in the data, and it looked pretty small if it existed. The Norwegian study said they tended to marry up, but with the same caveat. The two American and one English study were explicit about very close class matching, sometimes implausibly close.
 
 Is this contradictory? On average, classier people earn more money. So if women are “marrying up” for money, surely they would, just by accident, also marry up a bit in class, right?
 
@@ -99,7 +99,7 @@ A [summary of the Swedish paper](https://ifstudies.org/blog/number-9-in-2020-whi
 
 > Couples with similar education levels, and those with a more highly-educated male partner, actually had more _equal_ incomes than would be predicted if couples were matched randomly. However, in couples where the woman had the education advantage, random matching predicted that more women would be the higher earner than actually were. As in Qian’s study, highly-educated women appear to have an especially strong preference for men who out-earn them.
 
-If I understand right, this suggests that education and income funge against each other; if someone marries down educationally, they’re more insistent on marrying up financially, and vice versa. This provides some evidence that men and women are trying to match overall social status, but select for different aspects of the social status package.[8](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-8-123444805)
+If I understand right, this suggests that education and income funge against each other; if someone marries down educationally, they’re more insistent on marrying up financially, and vice versa. This provides some evidence that men and women are trying to match overall social status, but select for different aspects of the social status package.[8](/p/hypergamy-much-more-than-you-wanted#footnote-8-123444805)
 
 But here’s another model: women whose careers are going badly _relative to their class expectations_ are more likely to marry (since the opportunity cost from abandoning their dead-end career to raise children is lower), and men whose careers are going well _relative to their class_ are more likely to marry (they can delight their equal-class wives with more resources than they expect).
 
@@ -117,7 +117,7 @@ They remark that this means people in England can’t care very much about their
 
 > There is also ancillary evidence that physical attraction cannot have been a very significant factor in marriages in any period 1837-2021, based on the correlation observed in underlying social abilities. In terms of family status, matching in marriage was nearly symmetrical between men and women. The male preference for physical attraction would be predicted to reduce the correlation between marital partners in family status. But this was the same effect for women as compared to men.
 > 
-> As noted above, if men prize physical attributes in mates which are uncorrelated with family status then the correlation of status in marriage will decline. However there is ancillary evidence that the importance of physical attributes in forming matches must always have been modest. In a related paper we estimate the correlation of underlying social abilities for brides and grooms in marriage in England as constant at around 0.8 1837-2021 (Clark and Cummins, 2022). This very strong correlation implies that the importance for men in making a match of physical appearance must have been limited, or else physical appearance in women was strongly correlated with social abilities[9](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-9-123444805)
+> As noted above, if men prize physical attributes in mates which are uncorrelated with family status then the correlation of status in marriage will decline. However there is ancillary evidence that the importance of physical attributes in forming matches must always have been modest. In a related paper we estimate the correlation of underlying social abilities for brides and grooms in marriage in England as constant at around 0.8 1837-2021 (Clark and Cummins, 2022). This very strong correlation implies that the importance for men in making a match of physical appearance must have been limited, or else physical appearance in women was strongly correlated with social abilities[9](/p/hypergamy-much-more-than-you-wanted#footnote-9-123444805)
 
 That is: if men cared about looks more than women, then they would trade off status for looks: faced with a choice between an average-looking woman of the same class, or a beautiful woman of a slightly-lower class, they would choose the beautiful-but-poor woman. But this would mean men would marry lower-class women more often than women married lower-class men, which would imply a less-than-perfect status correlation between husbands and wives. But the data show a pretty perfect status correlation between husbands and wives. Therefore, men can’t care about looks.
 
@@ -157,15 +157,15 @@ What about looks?
 
 Most of the studies I found were from one team in Florida which puts a lot of effort into showing why everyone else who thinks differently is wrong. I don’t know this team and I don’t know whether to trust their results, but they find pretty conclusively that [marriages where the wife is more attractive than the husband are happier](https://www.psypost.org/2010/04/happy-marriage-attractive-husband-562) (see also [here](https://andreameltzer.com/wp-content/uploads/2019/09/SPPS-2011-Meltzer-et-al..pdf)). In these marriages, _both_ the husband _and_ the wife are nicer to each other than in the reverse scenario. Attractive people are no happier in their marriage than unattractive ones overall; it only matters that the wife is _more_ attractive than her husband.
 
-I conclude that the Taliban is throwing acid at the wrong gender. If we just disfigure all the men, everyone can be happy at the same time[10](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-10-123444805)!
+I conclude that the Taliban is throwing acid at the wrong gender. If we just disfigure all the men, everyone can be happy at the same time[10](/p/hypergamy-much-more-than-you-wanted#footnote-10-123444805)!
 
 ## VIII. What About The Gays?
 
 So far this has been pretty heteronormative. I originally thought it wouldn’t make sense to talk about homosexual hypergamy, since there’s no way to mark which partner marries up vs. down. But this paper on [“Gay Hypergamy And Rainbow Kinship”](https://sci-hub.st/10.1177/0011392104041807) manages to be mildly interesting anyway. 
 
-It points out that gays (especially gay men) are more likely to have wildly hypergamous marriages - ie actually marry someone from a very different social class - compared to straights. I can’t find direct data on class, but [here’s ](https://paa2013.populationassociation.org/papers/131012)showing that 9% of straight relationships are inter-racial, compared to 21% of gays, and 17% of lesbians[11](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-11-123444805), which seems to back up the idea of less sorting.
+It points out that gays (especially gay men) are more likely to have wildly hypergamous marriages - ie actually marry someone from a very different social class - compared to straights. I can’t find direct data on class, but [here’s ](https://paa2013.populationassociation.org/papers/131012)showing that 9% of straight relationships are inter-racial, compared to 21% of gays, and 17% of lesbians[11](/p/hypergamy-much-more-than-you-wanted#footnote-11-123444805), which seems to back up the idea of less sorting.
 
-I mentioned before that I never see a rich male Google programmer dating a stunning woman from the ghetto. But I have heard of gay relationships like this (and the paper above describes some). Why? Commenters suggest that gays mostly meet their partners through “the gay community”, which takes a cross-section of society through a direction mostly uncorrelated with race and class. [12](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-12-123444805)
+I mentioned before that I never see a rich male Google programmer dating a stunning woman from the ghetto. But I have heard of gay relationships like this (and the paper above describes some). Why? Commenters suggest that gays mostly meet their partners through “the gay community”, which takes a cross-section of society through a direction mostly uncorrelated with race and class. [12](/p/hypergamy-much-more-than-you-wanted#footnote-12-123444805)
 
 And for a laugh, compare the way academic papers talk about hypergamy in straight couples ([source](https://www.cairn-int.info/article-E_POPU_1504_0705--fewer-singles-among-highly-educated.htm)):
 
@@ -191,19 +191,19 @@ Women’s rising share of education isn’t directly damaging the marriage marke
 
 Finally, a practical question: to maximize your odds of getting a desirable spouse, should you make more money or less? For men this is easy: earn more. For women, it’s a harder question; earning more raises your status (which ought to get you a higher-status man), but also decreases your chances with men who make less than you. [This study](https://www.sciencedirect.com/science/article/abs/pii/S1090513821000222) says that “income is not associated with the probability of marriage for women”, and it seems more likely to get you a better partner than a worse partner, so probably you should go ahead and get rich. But it’s possible that income is partly serving as a proxy for class, and on a causal level income has some totally different effect. So this one could still go either way.
 
-[1](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-1-123444805)
+[1](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-1-123444805)
 
 Thanks to subscribers for reviewing an earlier draft of this post. DeBoer’s piece is based on a book by Richard Reeves. I’m not really responding to it in much detail other than using it as a jumping-off point for further research, but commenter Liam Smith [has a negative review up here](https://taboo.substack.com/p/reeves).
 
-[2](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-2-123444805)
+[2](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-2-123444805)
 
 Reviewers brought up nitpicky points about mean vs. median here. I think there’s a definition where this is true (if you average out everyone’s mean distance from their spouse) but that most likely reality is not one of the weird edge cases where this matters anyway.
 
-[3](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-3-123444805)
+[3](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-3-123444805)
 
 Some caveats: men on average marry younger women, and younger people on average earn less. And after marriage, men on average earn more (working harder to take care of their family?) and women on average earn less (scaling back their job to take care of the children). But it turns out neither of these effects matter much for our purpose: controlling for everything, just before getting married, men still on average earn more than women.
 
-[4](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-4-123444805)
+[4](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-4-123444805)
 
 The paper describes the left graph as showing that, as income/education level increases, the share of messages going to men goes up. I was originally confused: the distance between the green and red lines looks around the same at all points. But the paper’s thinking of it like this: at income/education level 2, men get 1 message and women 10; at income/education level 14, men get 30 messages and women 50. So the male share has gone from 9% to 38%.
 
@@ -233,36 +233,36 @@ Casual-sex-seekers will be mostly men, and will be more interested in looks (and
 
 So although the graph shows some hypergamy, I’m not as convinced by this evidence as I would be from other sources.
 
-[5](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-5-123444805)
+[5](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-5-123444805)
 
 The graph below only goes up to bachelors’, but [this site](https://familyinequality.wordpress.com/2013/04/04/educational-endogamy/) shows that men with a PhD are as likely to marry a PhD woman as vice versa.
 
-[6](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-6-123444805)
+[6](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-6-123444805)
 
 Sources: [Qian](https://sci-hub.st/https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12372), [Chudnovskaya](https://academic.oup.com/esr/article/36/3/351/5688045), [Dalmia](https://www.researchgate.net/profile/Randa-Bedawy/publication/325455564_JIBE-16-2_Embedding_Social_Media_to_Fostering_Entrepreneurship_Education/data/5b0f118ca6fdcc80995bb6e8/JIBE-16-2-Embedding-Social-Media-to-Fostering-Entrepreneurship-Education.pdf#page=125), [Almas](https://docs.iza.org/dp12185.pdf), [Clark](http://neilcummins.com/HypergamyFeb2023.pdf).
 
-[7](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-7-123444805)
+[7](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-7-123444805)
 
 Different studies used different definitions of class. Dalmia and Kelly constructed it out of education and income, so I merge all three of these categories into one on their row of the table. Others used various measures of occupational prestige, either for the index couple or for their parents.
 
 My wife and I spent our date night going over CAMSIS occupational prestige data to try to figure out which of us married down. Highly recommended for a romantic time! You can get the occupation tables for Britain [here](http://www.camsis.stir.ac.uk/downloads/CAMSIS_downloads.html). In theory you should be able to get the US versions [here](http://www.camsis.stir.ac.uk/versions.html#USA), but I can’t make it work.
 
-[8](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-8-123444805)
+[8](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-8-123444805)
 
 Commenter David Keown links to [this study](https://www.nature.com/articles/s41588-022-01016-z) showing that couples sort on polygenic score for educational attainment even more strongly than on actual educational attainment. To me this suggests that all these things - educational attainment, income, etc - are proxies for some underlying value that suitors are able to assess more finely than the statistics. Then once people have matched for underlying value, men and women might prefer partners who use their underlying value in different ways.
 
-[9](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-9-123444805)
+[9](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-9-123444805)
 
 Although looks and class are probably correlated to some degree, I think this is claiming that men cannot be selecting for looks at all over and above the amount they are already selecting for class (and therefore coincidentally getting good looks). 
 
-[10](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-10-123444805)
+[10](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-10-123444805)
 
 This depends on whether the happiness effect comes from absolute looks hypergamy or relative looks hypergamy; I didn’t read the study closely enough to tell if they distinguish between these.
 
-[11](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-11-123444805)
+[11](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-11-123444805)
 
 A friend who knows more about the LGBTQ community than I do confirms my impression that, regardless of what the numbers say, it _feels_ like gays have this extreme hypergamy going on and lesbians don’t.
 
-[12](https://www.astralcodexten.com/p/hypergamy-much-more-than-you-wanted#footnote-anchor-12-123444805)
+[12](/p/hypergamy-much-more-than-you-wanted#footnote-anchor-12-123444805)
 
 Although commenter Incanto brings up that if class matching comes from concerns about children (people are afraid to marry down in case their children inherit whatever qualities made their mate low-class) then it makes sense that gays, who can’t have biological children, would care less about it.

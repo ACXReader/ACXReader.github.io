@@ -7,7 +7,7 @@ original-url: https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx
 ---
 Tyler Cowen linked [Milky Eggs’ excellent overview](https://milkyeggs.com/?p=175) of the FTX crash. I’m unqualified to comment on any of the financial or regulatory aspects. But it turns out there’s a psychopharmacology angle, which I _am_ qualified to talk about, so let’s go.
 
-I wrote this pretty rushed because it’s an evolving news story. Sorry if it’s less polished than usual.[1](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-1-84889532)
+I wrote this pretty rushed because it’s an evolving news story. Sorry if it’s less polished than usual.[1](/p/the-psychopharmacology-of-the-ftx#footnote-1-84889532)
 
 ### 1: Was SBF Using A Medication That Can Cause Overspending And Compulsive Gambling As A Side Effect?
 
@@ -17,7 +17,7 @@ Milky Eggs reports a claim by an employee that Sam was on “a patch for designe
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb70121af-87d0-4d13-9f3e-ea038608eb23_1015x565.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb70121af-87d0-4d13-9f3e-ea038608eb23_1015x565.png)
 
-Emsam is a brand of [selegiline](https://en.wikipedia.org/wiki/Selegiline), a medication used since the 1960s to treat Parkinson’s disease. Selegiline is a MAOB inhibitor[2](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-2-84889532). MAOB is an enzyme that breaks down dopamine[3](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-3-84889532). If you inhibit it, you get more dopamine. So in a very broad sense, selegiline gives you more dopamine.[4](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-4-84889532)
+Emsam is a brand of [selegiline](https://en.wikipedia.org/wiki/Selegiline), a medication used since the 1960s to treat Parkinson’s disease. Selegiline is a MAOB inhibitor[2](/p/the-psychopharmacology-of-the-ftx#footnote-2-84889532). MAOB is an enzyme that breaks down dopamine[3](/p/the-psychopharmacology-of-the-ftx#footnote-3-84889532). If you inhibit it, you get more dopamine. So in a very broad sense, selegiline gives you more dopamine.[4](/p/the-psychopharmacology-of-the-ftx#footnote-4-84889532)
 
 Dopamine does many things in many brain systems. Here’s an oversimplified chart:
 
@@ -43,9 +43,9 @@ The pathological gambling is obviously more interesting. The link on the right q
 
 I can see why this caught so much attention. But let me rain on the parade: this seems pretty rare. [Grossett et al](https://sci-hub.se/https://movementdisorders.onlinelibrary.wiley.com/doi/abs/10.1002/mds.21110) found a prevalence of about 8% on any antiparkinsonian, but none of the 17 patients they found were taking selegiline. [Lanteri et al](https://sci-hub.se/https://pubmed.ncbi.nlm.nih.gov/30205352/) quote a prevalence of 2.2 - 7%, but only one of the 15 patients they found was on selegiline, and that person was also on other medications more likely to cause the condition. This doesn’t prove that selegiline never causes problem gambling - but it suggests it’s one of the less likely medications to do so, probably at somewhere well below 2 - 8% of patients.
 
-I was only able to find one case report of pathological gambling clearly caused by selegiline rather than some other medication - the fifth patient in [Drapier et al (2006)](https://d1wqtxts1xzle7.cloudfront.net/46142136/j.psychres.2006.04.01720160601-5347-tspra4-libre.pdf?1464815103=&response-content-disposition=inline%3B+filename%3DPathological_gambling_secondary_to_dopam.pdf&Expires=1668570566&Signature=QoO1AQk44UeZTYte4Smj7UbyrXsxfE5Awve64vCucRqanhD3qGRXkWoPaFZ4XEjG12pKQ~QrErLbt-kK7GB7EgxD7N8ro5XGY05sRPORKfQcsqC2~53f0V8Ly~UThjLORk-kKpIQar94QGsV3HHCY9Mel2OvTa-8R4Lz~HgMBC6V2IqyszaQI1l2Fb~DGn2g30qe24h3OdDSuNq4Idi0icMGBQYSE1nNJZdeWHsuSCAMaV9Is7JYrKUAe-wJYBCSJsqob4hx7D4zUkuI-c2XUal2PtMCPGLGJ8H8rEbTVafIk1d749zsPH0pKY43bBOFQViUuyuesWThZMawsl3SwA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), which describes it as “the first case report in the literature”. And this definitely isn’t because doctors don’t like recording all the weird things selegiline can do - see eg the three case reports of selegiline causing transvestism ([1](https://pubmed.ncbi.nlm.nih.gov/12151912/), [2](https://www.researchgate.net/profile/Michael-Shapiro-7/publication/7052961_Hypersexuality_and_paraphilia_induced_by_selegiline_in_Parkinson%27s_disease_Report_of_2_cases/links/61700dcc435dab3b75833d60/Hypersexuality-and-paraphilia-induced-by-selegiline-in-Parkinsons-disease-Report-of-2-cases.pdf), [3](https://sci-hub.se/https://link.springer.com/article/10.2165/00128415-201012920-00100))! [5](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-5-84889532)
+I was only able to find one case report of pathological gambling clearly caused by selegiline rather than some other medication - the fifth patient in [Drapier et al (2006)](https://d1wqtxts1xzle7.cloudfront.net/46142136/j.psychres.2006.04.01720160601-5347-tspra4-libre.pdf?1464815103=&response-content-disposition=inline%3B+filename%3DPathological_gambling_secondary_to_dopam.pdf&Expires=1668570566&Signature=QoO1AQk44UeZTYte4Smj7UbyrXsxfE5Awve64vCucRqanhD3qGRXkWoPaFZ4XEjG12pKQ~QrErLbt-kK7GB7EgxD7N8ro5XGY05sRPORKfQcsqC2~53f0V8Ly~UThjLORk-kKpIQar94QGsV3HHCY9Mel2OvTa-8R4Lz~HgMBC6V2IqyszaQI1l2Fb~DGn2g30qe24h3OdDSuNq4Idi0icMGBQYSE1nNJZdeWHsuSCAMaV9Is7JYrKUAe-wJYBCSJsqob4hx7D4zUkuI-c2XUal2PtMCPGLGJ8H8rEbTVafIk1d749zsPH0pKY43bBOFQViUuyuesWThZMawsl3SwA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), which describes it as “the first case report in the literature”. And this definitely isn’t because doctors don’t like recording all the weird things selegiline can do - see eg the three case reports of selegiline causing transvestism ([1](https://pubmed.ncbi.nlm.nih.gov/12151912/), [2](https://www.researchgate.net/profile/Michael-Shapiro-7/publication/7052961_Hypersexuality_and_paraphilia_induced_by_selegiline_in_Parkinson%27s_disease_Report_of_2_cases/links/61700dcc435dab3b75833d60/Hypersexuality-and-paraphilia-induced-by-selegiline-in-Parkinsons-disease-Report-of-2-cases.pdf), [3](https://sci-hub.se/https://link.springer.com/article/10.2165/00128415-201012920-00100))! [5](/p/the-psychopharmacology-of-the-ftx#footnote-5-84889532)
 
-Does this mean that Emsam definitely wasn’t involved? Not exactly. “Gave someone a gambling disorder” is an overly binary way of saying “shifted someone’s brain’s risk curves[6](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-6-84889532) a lot”. [One of the case reports](https://jamanetwork.com/journals/jamaneurology/fullarticle/789393) of antiparkinsonian-induced gambling was a “54-year-old, married pastor” who began gambling large sums daily after starting the pramipexole. It probably takes a lot of risk-curve-shifting to get a 54-year-old married pastor to go to Vegas and blow all of his savings. But if you’re already a cryptocurrency trader, maybe it only takes a tiny amount of risk-curve-shifting to turn you into a cryptocurrency trader who makes riskier trades. Maybe selegiline only shifts your risk curve a lot 0.001% of the time, but it shifts it a tiny bit more often than that.
+Does this mean that Emsam definitely wasn’t involved? Not exactly. “Gave someone a gambling disorder” is an overly binary way of saying “shifted someone’s brain’s risk curves[6](/p/the-psychopharmacology-of-the-ftx#footnote-6-84889532) a lot”. [One of the case reports](https://jamanetwork.com/journals/jamaneurology/fullarticle/789393) of antiparkinsonian-induced gambling was a “54-year-old, married pastor” who began gambling large sums daily after starting the pramipexole. It probably takes a lot of risk-curve-shifting to get a 54-year-old married pastor to go to Vegas and blow all of his savings. But if you’re already a cryptocurrency trader, maybe it only takes a tiny amount of risk-curve-shifting to turn you into a cryptocurrency trader who makes riskier trades. Maybe selegiline only shifts your risk curve a lot 0.001% of the time, but it shifts it a tiny bit more often than that.
 
 [Here’s a report](https://www.cnbc.com/2015/02/06/how-cocaine-crushed-my-trading-skills-commentary.html) by a Wall Street trader who got addicted to cocaine - another dopaminergic drug:
 
@@ -79,7 +79,7 @@ Going back to @AutismCapital’s picture:
 
 What’s the blue-green bottle to the left of the red circle?
 
-Here the detectives on [r/NootropicsDepot](https://www.reddit.com/r/NootropicsDepot/comments/yva7n6/sbf_from_ftx_uses_nootropics_depot_can_anyone/) recognized it as their company’s old brand of adrafinil[7](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-7-84889532). Adrafinil is a prodrug of modafinil, an unusual stimulant-like drug. That is, your body metabolizes adrafinil and turns it into modafinil after you take it.
+Here the detectives on [r/NootropicsDepot](https://www.reddit.com/r/NootropicsDepot/comments/yva7n6/sbf_from_ftx_uses_nootropics_depot_can_anyone/) recognized it as their company’s old brand of adrafinil[7](/p/the-psychopharmacology-of-the-ftx#footnote-7-84889532). Adrafinil is a prodrug of modafinil, an unusual stimulant-like drug. That is, your body metabolizes adrafinil and turns it into modafinil after you take it.
 
 So was SBF effectively on modafinil? Seems likely - many traders are. I won’t lie - modafinil is a good stimulant, during medical residency some doctors (including me) would use it to stay alert through the night shift. It’s not any better than Adderall or anything, just a bit different and easier to get.
 
@@ -185,7 +185,7 @@ He claims this is okay, because he was just a “performance coach” for the co
 
 I’m usually the last person to be a stickler for role-conflict-rules - I [prescribe to family members in emergencies](https://www.aafp.org/pubs/fpm/issues/2005/0300/p41.html), and sometimes the emergency is “they are bad at getting a real doctor”. But this is just way beyond anything that even I would consider appropriate.
 
-And even aside from that, it’s just crazy for any kind of a mental health professional to give an interview to the New York Times about anyone in an even slightly patient-like capacity. Even supposing that he wasn’t SBF’s psychiatrist (but then who was prescribing the Emsam?) this violates [a norm against](https://www.psychiatry.org/news-room/goldwater-rule) psychiatrists publicly assessing famous figures[8](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-8-84889532). I suppose Dr. Lerner will argue that he was assessing Sam with his performance coach hat rather than his psychiatrist hat - no guessing how many FTT tokens I think that distinction is worth.
+And even aside from that, it’s just crazy for any kind of a mental health professional to give an interview to the New York Times about anyone in an even slightly patient-like capacity. Even supposing that he wasn’t SBF’s psychiatrist (but then who was prescribing the Emsam?) this violates [a norm against](https://www.psychiatry.org/news-room/goldwater-rule) psychiatrists publicly assessing famous figures[8](/p/the-psychopharmacology-of-the-ftx#footnote-8-84889532). I suppose Dr. Lerner will argue that he was assessing Sam with his performance coach hat rather than his psychiatrist hat - no guessing how many FTT tokens I think that distinction is worth.
 
 But aside from that, really? REALLY? When the _New York Times_ , for its own stupid reasons, [tried to write an article](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/) that would compromise my ability to avoid a weird multiple-role-conflict with my patients, I quit my job and tried to contribute what little I could to the ongoing campaign of all reasonable people to destroy the _New York Times_. This was the correct, ethical thing to do! And he just . . . voluntarily offered them an interview? About his ~~patient~~ performance coachee? REALLY?
 
@@ -199,7 +199,7 @@ I don’t really want to have an opinion on this, because I assume at some point
 
 I think you could make an argument that dopaminergic drugs shift various complicated risk curves in the brain. But a lot of Wall Street is on stimulants of one sort or another, and most of them don’t act like FTX did. Emsam is a little stranger than the usual Wall Street stimulants, and combining it with other stimulants might amplify the effects. But I still would think in terms of “how much are we moving the risk curves, and is it really that much further than a lot of other things do all the time?” rather than “does this switch you into uncontrollable pathological gambling mode?”
 
-If I were one of the psychiatrists who will one day buy second houses from the money they make as expert witnesses on this case (DON’T EVEN THINK ABOUT ASKING ME TO DO THIS[9](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-9-84889532)), I would focus on what doses were involved. Adderall 10 mg will help treat ADHD and give you a nice motivational boost. Adderall 200 mg will cause paranoia and sometimes hallucinations. There are similar considerations for modafinil and Emsam. All of these drugs are compatible with “probably didn’t matter” or “probably the main cause of everything” depending on what doses we’re talking about.
+If I were one of the psychiatrists who will one day buy second houses from the money they make as expert witnesses on this case (DON’T EVEN THINK ABOUT ASKING ME TO DO THIS[9](/p/the-psychopharmacology-of-the-ftx#footnote-9-84889532)), I would focus on what doses were involved. Adderall 10 mg will help treat ADHD and give you a nice motivational boost. Adderall 200 mg will cause paranoia and sometimes hallucinations. There are similar considerations for modafinil and Emsam. All of these drugs are compatible with “probably didn’t matter” or “probably the main cause of everything” depending on what doses we’re talking about.
 
 (and of course there could be other drugs I don’t know about)
 
@@ -209,31 +209,31 @@ Free advice to the rest of you: I described certain drugs here as relatively saf
 
  **Footnotes**
 
-[1](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-anchor-1-84889532)
+[1](/p/the-psychopharmacology-of-the-ftx#footnote-anchor-1-84889532)
 
 Conflict of interest notices: I was friends with an FTX/Alameda employee a few years ago. I support the effective altruist movement, which FTX donated money to. I briefly worked at the same San Francisco clinic as Dr. Lerner, a psychiatrist mentioned in this piece - but I’m so introverted at work that I never actually met him.
 
-[2](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-anchor-2-84889532)
+[2](/p/the-psychopharmacology-of-the-ftx#footnote-anchor-2-84889532)
 
 There are many boring technical details about at what doses it is a MAO-B vs. MAO-A inhibitor; please forgive me for not mentioning them here.
 
-[3](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-anchor-3-84889532)
+[3](/p/the-psychopharmacology-of-the-ftx#footnote-anchor-3-84889532)
 
 In the process of double-checking this, I came across [this article](https://www.nature.com/articles/s12276-021-00646-3) from last year which says we’ve been understanding MAOB all wrong for decades and everything works differently than we think. I haven’t fully absorbed it yet, but you could combine this with a story where selegiline exerts its stimulating dopaminergic effects through its amphetamine metabolites. I’m going to stick to the textbook explanation in the main article so I don’t have to have an opinion on this.
 
-[4](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-anchor-4-84889532)
+[4](/p/the-psychopharmacology-of-the-ftx#footnote-anchor-4-84889532)
 
 I’m trying to write a rushed article about breaking news, please forgive me for writing sentences like these instead of linking to two thousand pharmacology papers about the thing these sentences are oversimplifications of.
 
-[5](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-anchor-5-84889532)
+[5](/p/the-psychopharmacology-of-the-ftx#footnote-anchor-5-84889532)
 
 I’m sorry to use the old offensive terminology, but I do so deliberately here. These studies were done decades ago, when nobody had heard of transgenderism, and when “transvestism” was considered incredibly shameful. I don’t think these drugs were changing people’s gender identity. I think these patients were probably repressing pre-existing desires about gender nonconformity, the drugs made them more risk-seeking, and so the patients made the risky decision to express their gender issues in the (socially dangerous) way available to them at the time. All of this probably has Vast Societal Implications.
 
-[6](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-anchor-6-84889532)
+[6](/p/the-psychopharmacology-of-the-ftx#footnote-anchor-6-84889532)
 
 I’m using this awkward term “risk curves” to refer to a bunch of [neuroeconomic](https://amzn.to/3V24Yfu) concepts I only vaguely understand, sorry.
 
-[7](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-anchor-7-84889532)
+[7](/p/the-psychopharmacology-of-the-ftx#footnote-anchor-7-84889532)
 
 The head of Nootropics Depot, MisterYouAreSoDumb, [made a comment](https://www.reddit.com/r/NootropicsDepot/comments/yva7n6/sbf_from_ftx_uses_nootropics_depot_can_anyone/iwdj6m4/) on the situation, which I reprint here in its entirety:
 
@@ -247,11 +247,11 @@ The head of Nootropics Depot, MisterYouAreSoDumb, [made a comment](https://www.r
 > 
 > I never wanted to still be sitting here watching all this crypto drama, but people like SBF fucked this cycle up. I feel everyone's pain. I've lived through many crashes now. I am more dead inside than I was, but it is never easy to watch shit crash. If you want real sound crypto, you have some good buying opportunities here. Mid 2024 we will go through the ups again. Ignore all the morons saying this time is the end. I've heard that every crash since 2010. The next time we hit the bull market, stick to sound crypto projects and control your own private keys. Don't let frauds like SBF have your coins. You control your crypto, or you don't own it.
 
-[8](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-anchor-8-84889532)
+[8](/p/the-psychopharmacology-of-the-ftx#footnote-anchor-8-84889532)
 
 Some commenters ask if this article you’re reading now also breaks that rule. I’d like to think no - I think it permits talking about larger concepts (like what the side effects of different medications are) as long as you avoid individuals’ personalities. I admit that other people may be less invested in that distinction than I am.
 
-[9](https://www.astralcodexten.com/p/the-psychopharmacology-of-the-ftx#footnote-anchor-9-84889532)
+[9](/p/the-psychopharmacology-of-the-ftx#footnote-anchor-9-84889532)
 
 Fine, since you’ve read this far, here’s the story of the last time I had to testify in court as an expert witness, slightly amended from some old notes I wrote at the time, way back when I was a resident. The only fact I will give you about the patient is that they drunk bleach as a suicide attempt, which describes some significant fraction of all psychiatric inpatients, so I don’t think it’s a confidentiality violation. I had been conscripted into representing my hospital, which was trying to get a longer involuntary commitment order.
 

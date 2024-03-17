@@ -27,15 +27,15 @@ Let’s get started.
 
 Our guide to Hitler is William L. Shirer. Shirer was an American journalist stationed in Berlin in the years leading up to World War II. He had the opportunity to observe first-hand the Nazi consolidation of power in Germany. In preparation for writing _The Rise and Fall of the Third Reich_ , he supplemented his first-hand experience with an in-depth review of the German confidential papers captured by the Allies at the end of the War. He even corresponded with retired Nazi generals. He gives us a nice combination of eyewitness insight and research.
 
-Shirer has his failings too. Even at the time of release, his book received criticism for not including the most up-to-date historical scholarship on the Third Reich, and naturally it doesn’t benefit from all the research done since its publication in 1959[1](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-1-123518057). Shirer is also quite ready to let his personal prejudices show through the text, especially his prejudice against Germans. He’ll go on about the supposed gullibility and servility of the German people on practically every other page, and then complain in the afterword about being unfairly characterized as anti-German.
+Shirer has his failings too. Even at the time of release, his book received criticism for not including the most up-to-date historical scholarship on the Third Reich, and naturally it doesn’t benefit from all the research done since its publication in 1959[1](/p/your-book-review-the-rise-and-fall#footnote-1-123518057). Shirer is also quite ready to let his personal prejudices show through the text, especially his prejudice against Germans. He’ll go on about the supposed gullibility and servility of the German people on practically every other page, and then complain in the afterword about being unfairly characterized as anti-German.
 
 Nevertheless, Shirer’s book is a great resource for us. When a dictatorship is actually being hatched, we don’t have the historian’s point of view. We have to make do with the view from the ground. As an eyewitness-turned-historian, Shirer has insight into the places where the historical and ground-level views come into contact. This makes him a good starting point for us as we try to train our threat models. 
 
-I’d divide Shirer’s book into four main sections[2](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-2-123518057). The first traces the ascension of Hitler and the Nazi Party in Germany; the second follows Nazi Germany’s gradual rise to European dominance; the third concerns the beginning of the war and the early Nazi victories; and the fourth considers how things began to unravel for Hitler until he and his regime were finally obliterated. This review will focus exclusively on the first part of the book[3](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-3-123518057).
+I’d divide Shirer’s book into four main sections[2](/p/your-book-review-the-rise-and-fall#footnote-2-123518057). The first traces the ascension of Hitler and the Nazi Party in Germany; the second follows Nazi Germany’s gradual rise to European dominance; the third concerns the beginning of the war and the early Nazi victories; and the fourth considers how things began to unravel for Hitler until he and his regime were finally obliterated. This review will focus exclusively on the first part of the book[3](/p/your-book-review-the-rise-and-fall#footnote-3-123518057).
 
 #  **III**
 
-Adolf Hitler was born in 1889 in the town of Braunau am Inn in Austria on the German border to Alois and Klara Hitler[4](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-4-123518057). The family came from peasant ancestry, but had settled into a bourgeois existence through the civil service: Alois was a customs official.
+Adolf Hitler was born in 1889 in the town of Braunau am Inn in Austria on the German border to Alois and Klara Hitler[4](/p/your-book-review-the-rise-and-fall#footnote-4-123518057). The family came from peasant ancestry, but had settled into a bourgeois existence through the civil service: Alois was a customs official.
 
 Young Adolf matured quickly, beginning his angsty, rebellious phase before he was even a teenager. Alois wanted his son to follow him into the civil service. Adolf refused. As he wrote later in _Mein Kampf_ :
 
@@ -47,9 +47,9 @@ Young Adolf matured quickly, beginning his angsty, rebellious phase before he wa
 > 
 > He doubted my sanity, or perhaps he thought he had heard wrong or misunderstood me. But when he was clear on the subject, and particularly after he felt the seriousness of my intention, he opposed it with all the determination of his nature….
 > 
-> “Artist! No! Never as long as I live!”... My father would never depart from his “Never!” And I intensified my “Nevertheless!”[5](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-5-123518057)
+> “Artist! No! Never as long as I live!”... My father would never depart from his “Never!” And I intensified my “Nevertheless!”[5](/p/your-book-review-the-rise-and-fall#footnote-5-123518057)
 
-Adolf thought he could gain leverage in this struggle against his father by intentionally failing at school[6](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-6-123518057). This was easy to do: Adolf hated school. Even as late as 1942, we have records of him complaining about his old high-school teachers[7](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-7-123518057). 
+Adolf thought he could gain leverage in this struggle against his father by intentionally failing at school[6](/p/your-book-review-the-rise-and-fall#footnote-6-123518057). This was easy to do: Adolf hated school. Even as late as 1942, we have records of him complaining about his old high-school teachers[7](/p/your-book-review-the-rise-and-fall#footnote-7-123518057).
 
 His ingenious fail-at-school plan did not free him from his father’s insistence that he follow the path of the bureaucrat, but something else did. In 1903, Alois died of a lung hemorrhage. Klara felt obligated to continue her son’s education, but with Alois out of the picture, Adolf neglected his studies more than ever. Twenty years later, one of Adolf’s former teachers described him during this period of his life:
 
@@ -69,7 +69,7 @@ Hitler eked out his Vienna existence by working odd jobs: a snow-shoveler, a rai
 
 But he had plenty to read. It was during this period of Hitler’s life that he completed his self-education and developed his Nazi ideology. He knew already that the Germans were the master race, but it was in Vienna that Hitler delved into anti-Semitic literature. Per his own description:
 
-> For me this was the greatest spiritual upheaval I have ever had to go through. I had ceased to be a weak-kneed cosmopolitan and become an anti-Semite[8](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-8-123518057).
+> For me this was the greatest spiritual upheaval I have ever had to go through. I had ceased to be a weak-kneed cosmopolitan and become an anti-Semite[8](/p/your-book-review-the-rise-and-fall#footnote-8-123518057).
 
 Hitler was developing more than just his abhorrent racial ideology during his time in Vienna. Although still apparently intending to be some kind of artist, he was already perfecting his political playbook by observing the successes and failures of the Austrian political parties. He invented theories about what let the dominant parties win and what made the lesser parties lose. He even put into practice his ideas about the importance of oratory:
 
@@ -231,7 +231,7 @@ For Hitler, of course, the chancellorship was not enough. He wanted to wield the
 
 To achieve all this, Hitler concocted a piece of legislation known as the Law for Removing the Distress of People and Reich. The law delegated all legislative power to the Chancellor and his cabinet for four years and permitted laws made by the Chancellor to violate the German constitution—exactly what Hitler wanted.
 
-This law was proposed in a Germany still rife with worry over the communist threat represented by the Reichstag fire. The right-leaning parties were prepared to go for it—the Nationalists thought that this would benefit them since they would trade their measly 8 percent presence in the Reichstag for their 8-3 majority in the cabinet. Even the Center party agreed to support the measure[9](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-9-123518057). The Social Democrats and the Communists both opposed the measure, but with all the Communists and a number of the Social Democrats having been arrested in preparation for the vote (courtesy of the Reichstag Fire Decree), the remaining representatives did not have enough votes to prevent Hitler’s coalition from obtaining a two-thirds majority. The act passed. Hitler had become dictator of Germany.
+This law was proposed in a Germany still rife with worry over the communist threat represented by the Reichstag fire. The right-leaning parties were prepared to go for it—the Nationalists thought that this would benefit them since they would trade their measly 8 percent presence in the Reichstag for their 8-3 majority in the cabinet. Even the Center party agreed to support the measure[9](/p/your-book-review-the-rise-and-fall#footnote-9-123518057). The Social Democrats and the Communists both opposed the measure, but with all the Communists and a number of the Social Democrats having been arrested in preparation for the vote (courtesy of the Reichstag Fire Decree), the remaining representatives did not have enough votes to prevent Hitler’s coalition from obtaining a two-thirds majority. The act passed. Hitler had become dictator of Germany.
 
 #  **IV**
 
@@ -243,9 +243,9 @@ Hitler wasn’t the Emperor from _Star Wars_ —he didn’t pretend to be a nice
 
 The most dangerous threats to liberalism freely admit that they are enemies of liberal democracy.
 
-Hitler certainly wasn’t shy about his anti-liberal intentions. In his public trial following the Beer Hall Putsch, he explicitly claimed that he was destined to be dictator of Germany[10](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-10-123518057). Behind closed doors his message was no different: in a secret meeting with industrialists in 1933, Hitler told them, “Private enterprise cannot be maintained in an age of democracy; it is conceivable only if the people have a sound idea of authority and personality.” Even in _Mein Kampf,_ published in 1925 well before Hilter’s rise to power, he laid out exactly the sort of authoritarian control he sought:
+Hitler certainly wasn’t shy about his anti-liberal intentions. In his public trial following the Beer Hall Putsch, he explicitly claimed that he was destined to be dictator of Germany[10](/p/your-book-review-the-rise-and-fall#footnote-10-123518057). Behind closed doors his message was no different: in a secret meeting with industrialists in 1933, Hitler told them, “Private enterprise cannot be maintained in an age of democracy; it is conceivable only if the people have a sound idea of authority and personality.” Even in _Mein Kampf,_ published in 1925 well before Hilter’s rise to power, he laid out exactly the sort of authoritarian control he sought:
 
-> There must be no majority decisions, but only responsible persons…Surely every man will have advisers by his side, but _the decision will be made by one man_ …only he alone may possess the authority and the right to command…It will not be possible to dispense with Parliament. But their councilors will then actually give counsel…In no chamber does a vote ever take place. They are working institutions and not voting machines. This principle—absolute responsibility unconditionally combined with absolute authority—will gradually breed an elite of leaders such as today, in this era of irresponsible parliamentarianism, is utterly inconceivable[11](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-11-123518057).
+> There must be no majority decisions, but only responsible persons…Surely every man will have advisers by his side, but _the decision will be made by one man_ …only he alone may possess the authority and the right to command…It will not be possible to dispense with Parliament. But their councilors will then actually give counsel…In no chamber does a vote ever take place. They are working institutions and not voting machines. This principle—absolute responsibility unconditionally combined with absolute authority—will gradually breed an elite of leaders such as today, in this era of irresponsible parliamentarianism, is utterly inconceivable[11](/p/your-book-review-the-rise-and-fall#footnote-11-123518057).
 
 Notice that Hitler isn’t merely supporting bad policies which would impinge on our rights. We tend to think the worst of our political enemies: _all_ our opponents support bad policies that would impinge on our rights. But Hitler bypasses the question of whether we have a right to this or a right to that, because he rejects the entire framework wherein those discussions take place. He is rejecting liberalism in its totality; not just taking one position you might consider illiberal. 
 
@@ -267,7 +267,7 @@ Physical terror is outside of liberal norms in terms of the action itself. The p
 
 But terror by itself is not enough to give a movement its Hitlerian _bona fides_. The terror has to be wielded strategically to advance the movement’s political aims. Hitler’s people rioted in the streets, it’s true, but, as Hitler liked to remind his fellow Nazis, the SA was fundamentally a _political_ organization not a military one. Nazi violence wasn’t an _alternative_ to Nazi politics; it was _part of it_. The SA certainly committed acts of wanton violence at times, but at its best (or at its worst?) it focused on breaking the morale of other parties and buoying the morale of the Nazis. Hitler saw that the best way to attain power was through the existing political system and, after learning his lesson during the Beer Hall Putsch, he resisted the temptation to use violence to _bypass_ the political process. He used violence to enhance his political approach.
 
-Contrast to this the communists of Weimar Germany. The communists also participated in violent street clashes, but far from leveraging these demonstrations into a political advantage, they provoked a backlash against themselves, which culminated in the Reichstag Fire Decree and the Law for Removing the Distress of People and Reich[12](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-12-123518057). Communist violence was intended to sap the stability of the Republic, and it accomplished this. But Nazi violence was more sophisticated: it sapped the stability of the Republic while simultaneously strengthening the regime meant to replace it. Germans who mistakenly thought the communists were the real threat ultimately played into Hitler’s hand. The people fighting in the streets might be Hitler, but they might also be a red herring. It is the two-pronged attack of terror on the one hand and political victories on the other that is a distinctive feature of the Hitlerian approach.
+Contrast to this the communists of Weimar Germany. The communists also participated in violent street clashes, but far from leveraging these demonstrations into a political advantage, they provoked a backlash against themselves, which culminated in the Reichstag Fire Decree and the Law for Removing the Distress of People and Reich[12](/p/your-book-review-the-rise-and-fall#footnote-12-123518057). Communist violence was intended to sap the stability of the Republic, and it accomplished this. But Nazi violence was more sophisticated: it sapped the stability of the Republic while simultaneously strengthening the regime meant to replace it. Germans who mistakenly thought the communists were the real threat ultimately played into Hitler’s hand. The people fighting in the streets might be Hitler, but they might also be a red herring. It is the two-pronged attack of terror on the one hand and political victories on the other that is a distinctive feature of the Hitlerian approach.
 
 ## 3\. They build a second state.
 
@@ -295,50 +295,50 @@ These are the things I’ve learned from reading _The Rise and Fall of the Third
 
 And I hope that, if you ever see your legislature dissolved and new elections called three times within two years, you’ll remember that you’re entirely within your rights to say, “This reminds me of Hitler!”
 
-[1](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-1-123518057)
+[1](/p/your-book-review-the-rise-and-fall#footnote-anchor-1-123518057)
 
 I should note that I lack the expertise to correct Shirer where subsequent research might have corrected his claims, so I will be following his account.
 
-[2](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-2-123518057)
+[2](/p/your-book-review-the-rise-and-fall#footnote-anchor-2-123518057)
 
 He divided it into six, but mine are better.
 
-[3](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-3-123518057)
+[3](/p/your-book-review-the-rise-and-fall#footnote-anchor-3-123518057)
 
 There’s another good book review to be had here about how Hitler succeeded so well in the field of international relations, but we don’t have space to get into that here.
 
-[4](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-4-123518057)
+[4](/p/your-book-review-the-rise-and-fall#footnote-anchor-4-123518057)
 
 You have to feel sorry for Braunau am Inn, which seems like a lovely town and which, to this day,[ is still known primarily for being the birthplace of Hitler.](https://en.wikipedia.org/wiki/Braunau_am_Inn)
 
-[5](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-5-123518057)
+[5](/p/your-book-review-the-rise-and-fall#footnote-anchor-5-123518057)
 
 All quotes from _Mein Kampf_ or other historical documents are as quoted in Shirer’s book.
 
-[6](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-6-123518057)
+[6](/p/your-book-review-the-rise-and-fall#footnote-anchor-6-123518057)
 
 So he says looking back. It is also possible that he used this as a post hoc excuse for his not-quite-exemplary scholastic record.
 
-[7](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-7-123518057)
+[7](/p/your-book-review-the-rise-and-fall#footnote-anchor-7-123518057)
 
 He did have one favorite teacher: Dr. Leopold Poetsch. Poetsch taught the one-day dictator history and, while they were at it, German nationalism. Hitler would later acknowledge his ideological debt to this teacher in Mein Kampf, but he still received only a middling grade in Poetsch’s class.
 
-[8](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-8-123518057)
+[8](/p/your-book-review-the-rise-and-fall#footnote-anchor-8-123518057)
 
 There are, Shirer notes, reasons to think that Hitler exaggerates this conversion experience and that he had already developed his anti-Semitic views prior to moving to Vienna.
 
-[9](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-9-123518057)
+[9](/p/your-book-review-the-rise-and-fall#footnote-anchor-9-123518057)
 
 Shirer’s book is not clear as to why the Center Party got onboard. [Wikipedia](https://en.wikipedia.org/wiki/Enabling_Act_of_1933#Preparations_and_negotiations) writes that “Hitler negotiated with the Centre Party's chairman, Ludwig Kaas, a Catholic priest, finalizing an agreement by 22 March. Kaas agreed to support the Act in exchange for assurances of the Centre Party’s continued existence, the protection of Catholics' civil and religious liberties, religious schools and the retention of civil servants affiliated with the Centre Party. It has also been suggested that some members of the SPD were intimidated by the presence of the Nazi Sturmabteilung (SA) throughout the proceedings.”
 
-[10](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-10-123518057)
+[10](/p/your-book-review-the-rise-and-fall#footnote-anchor-10-123518057)
 
 Early in his career, Hitler had an uncanny knack for making predictions.
 
-[11](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-11-123518057)
+[11](/p/your-book-review-the-rise-and-fall#footnote-anchor-11-123518057)
 
 The italics are Hitler’s.
 
-[12](https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall#footnote-anchor-12-123518057)
+[12](/p/your-book-review-the-rise-and-fall#footnote-anchor-12-123518057)
 
 Weimar Germany’s communists were complacent with regards to their political strategy because they believed that the arch of history bent inevitably toward communism and that they only needed to help it along by creating instability

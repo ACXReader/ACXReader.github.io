@@ -9,7 +9,7 @@ I’m running another ACX Grants round. If you already know what this is and wan
 
  **What is ACX Grants?**
 
-ACX Grants is a microgrants program where I help fund ACX readers’ charitable or scientific projects. You can see the 2022 cohort [here ](https://www.astralcodexten.com/p/acx-grants-results)and my 2022 retrospective [here](https://www.astralcodexten.com/p/so-you-want-to-run-a-microgrants). 
+ACX Grants is a microgrants program where I help fund ACX readers’ charitable or scientific projects. You can see the 2022 cohort [here ](/p/acx-grants-results)and my 2022 retrospective [here](/p/so-you-want-to-run-a-microgrants).
 
 This year we’re partnering with [Manifund](https://manifund.com/), the charity arm of Manifold Markets, who will be handling the administrative/infrastructure side of things.
 
@@ -54,7 +54,7 @@ I’m most interested in charities that pursue novel ways to change complex syst
 
 
 
-You can read the full list [here](https://www.astralcodexten.com/p/acx-grants-results).
+You can read the full list [here](/p/acx-grants-results).
 
  **What are impact certificates / impact markets?**
 
@@ -66,7 +66,7 @@ If the project succeeds, a funder (like a grantmaker or foundation) may choose t
 
 The motivating idea is that a grantmaker might dismiss a charity’s plan as impossible, but an investor might believe they could succeed. The investor can fund the plan, then collect from the grantmaker if they turn out to be right. Everyone benefits: the charity gets funded, the investor makes a profit, and the grantmaker gets more of whatever kind of change they want (since a successful project is able to happen).
 
-We ran a test grant of impact markets earlier this year, along with partner Manifund. You can see the announcement [here](https://www.astralcodexten.com/p/announcing-forecasting-impact-mini), the results [here](https://www.astralcodexten.com/p/impact-market-mini-grants-results), and Manifund’s continuing impact market [here](https://manifund.com).
+We ran a test grant of impact markets earlier this year, along with partner Manifund. You can see the announcement [here](/p/announcing-forecasting-impact-mini), the results [here](/p/impact-market-mini-grants-results), and Manifund’s continuing impact market [here](https://manifund.com).
 
  **How will this year’s ACX Grants (** _ **optionally!!!)**_ **use impact markets?**
 
@@ -93,7 +93,7 @@ We have four potential oracular funders who have expressed interest in impact ce
 
 
 
-Long Term Future Fund and Survival and Flourishing Fund focus on the long-term future, including but not limited to AI safety, forecasting, and long-termist community building. EA Infrastructure Fund focuses on EA community-building. You can find previous lists of grants funded by [LTFF](https://funds.effectivealtruism.org/grants?fund=Long-Term%2520Future%2520Fund&sort=round), [EAIF](https://funds.effectivealtruism.org/grants?fund=EA%2520Infrastructure%2520Fund&sort=round), [SFF](https://survivalandflourishing.fund/), and [ACXG](https://www.astralcodexten.com/p/acx-grants-results).
+Long Term Future Fund and Survival and Flourishing Fund focus on the long-term future, including but not limited to AI safety, forecasting, and long-termist community building. EA Infrastructure Fund focuses on EA community-building. You can find previous lists of grants funded by [LTFF](https://funds.effectivealtruism.org/grants?fund=Long-Term%2520Future%2520Fund&sort=round), [EAIF](https://funds.effectivealtruism.org/grants?fund=EA%2520Infrastructure%2520Fund&sort=round), [SFF](https://survivalandflourishing.fund/), and [ACXG](/p/acx-grants-results).
 
 Final oracular funders will operate on a model where they treat retrospective awards the same as prospective awards, multiplied by a probability of success. For example, suppose LTFF would give a $20,000 grant to a proposal for an AI safety conference, which they think has a 50% chance of going well. Instead, an investor buys the impact certificate for that proposal, waits until it goes well, and then sells it back to LTFF. They will pay $40,000 for the certificate, since it’s twice as valuable as it was back when it was just a proposal with a 50% success chance.
 

@@ -5,7 +5,7 @@ date: 2023-12-12
 likes: 439
 original-url: https://www.astralcodexten.com/p/son-of-bride-of-bay-area-house-party
 ---
-_[previously in series:[1](https://astralcodexten.substack.com/p/every-bay-area-house-party), [2](https://astralcodexten.substack.com/p/another-bay-area-house-party), [3](https://astralcodexten.substack.com/p/even-more-bay-area-house-party), [4](https://www.astralcodexten.com/p/bride-of-bay-area-house-party)]_
+_[previously in series:[1](https://astralcodexten.substack.com/p/every-bay-area-house-party), [2](https://astralcodexten.substack.com/p/another-bay-area-house-party), [3](https://astralcodexten.substack.com/p/even-more-bay-area-house-party), [4](/p/bride-of-bay-area-house-party)]_
 
 It has been three weeks since Sam Altman was fired, but the conversation won’t move on. “What did Ilya see?” asks your Uber driver, on the way to the airport. “What wasn’t he consistently candid about?” ask people on the street, as you walk your dog. “What was Adam D’Angelo’s angle?” asks the cop, as he writes you a ticket. “Was the Microsoft move just a bluff?” asks the robber at gunpoint, as he ransacks your apartment. 
 

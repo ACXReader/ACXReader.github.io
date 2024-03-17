@@ -5,7 +5,7 @@ date: 2023-09-13
 likes: 317
 original-url: https://www.astralcodexten.com/p/book-review-elon-musk
 ---
-This isn’t the new Musk biography everyone’s talking about. This is the 2015 Musk biography by Ashlee Vance. I started reading it in July, before I knew there was a new one. It’s fine: Musk never changes. He’s always been exactly the same person he is now[1](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-1-136923606).
+This isn’t the new Musk biography everyone’s talking about. This is the 2015 Musk biography by Ashlee Vance. I started reading it in July, before I knew there was a new one. It’s fine: Musk never changes. He’s always been exactly the same person he is now[1](/p/book-review-elon-musk#footnote-1-136923606).
 
 I read the book to try to figure out who that was. Musk is a paradox. He spearheaded the creation of the world’s most advanced rockets, which suggests that he is smart. He’s the richest man on Earth, which suggests that he makes good business decisions. But we constantly see this smart, good-business-decision-making person make seemingly stupid business decisions. He picks unnecessary fights with regulators. Files junk lawsuits he can’t possibly win. Abuses indispensable employees. Renames one of the most recognizable brands ever.
 
@@ -13,7 +13,7 @@ Musk creates cognitive dissonance: how can someone be so smart and so dumb at th
 
  _[Elon Musk: Tesla, SpaceX, And The Quest For A Fantastic Future](https://amzn.to/3PCbQQT)_ delights in its refusal to resolve the dissonance. Musk has always been exactly the same person he is now, and exactly what he looks like. He is without deception, without subtlety, without unexpected depths.
 
-The main answer to the paradox of “how does he succeed while making so many bad decisions?” is that he’s the most focused person in the world. When he decides to do something, he comes up with an absurdly optimistic timeline for how quickly it can happen if everything goes as well as the laws of physics allow. He - I think the book provides ample evidence for this - genuinely believes this timeline[2](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-2-136923606), or at least half-believingly wills for it to be true. Then, when things go less quickly than that, it’s like red-hot knives stabbing his brain. He gets obsessed, screams at everyone involved, puts in twenty hour days for months on end trying to try to get the project “back on track”. He comes up with absurd shortcuts nobody else would ever consider, trying to win back a few days or weeks. If a specific person stands in his way, he fires that person (if they are an employee), unleashes nonstop verbal abuse on them[3](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-3-136923606) (if they will listen) or sues them (if they’re anyone else). The end result never quite reaches the original goal, but still happens faster than anyone except Elon thought possible. A Tesla employee described his style as demanding a car go from LA to NYC on a single charge, which is impossible, but he puts in such a strong effort that the car makes it to New Mexico.
+The main answer to the paradox of “how does he succeed while making so many bad decisions?” is that he’s the most focused person in the world. When he decides to do something, he comes up with an absurdly optimistic timeline for how quickly it can happen if everything goes as well as the laws of physics allow. He - I think the book provides ample evidence for this - genuinely believes this timeline[2](/p/book-review-elon-musk#footnote-2-136923606), or at least half-believingly wills for it to be true. Then, when things go less quickly than that, it’s like red-hot knives stabbing his brain. He gets obsessed, screams at everyone involved, puts in twenty hour days for months on end trying to try to get the project “back on track”. He comes up with absurd shortcuts nobody else would ever consider, trying to win back a few days or weeks. If a specific person stands in his way, he fires that person (if they are an employee), unleashes nonstop verbal abuse on them[3](/p/book-review-elon-musk#footnote-3-136923606) (if they will listen) or sues them (if they’re anyone else). The end result never quite reaches the original goal, but still happens faster than anyone except Elon thought possible. A Tesla employee described his style as demanding a car go from LA to NYC on a single charge, which is impossible, but he puts in such a strong effort that the car makes it to New Mexico.
 
 This is the Musk Strategy For Business Success; the rest is just commentary. But to answer some of the more specific questions I had before reading the book:
 
@@ -53,7 +53,7 @@ A few stories hint that occasionally he’ll personally take on specific project
 
 I was feeling bad about reading an eight-year-old biography just before an exciting new one comes out, but this story alone makes the whole book worth it.
 
-(I’m nervous saying too emphatically that Musk is “smart”. These stories amply prove he is a great engineer and technologist. But this isn’t the same skill as being a philosopher/intellectual, and I think when he’s tried to form philosophical/intellectual opinions, they’ve been well-intentioned, shown good instincts, and sometimes displayed deep insight, but also often been unsophisticated or messed up key points. This shouldn’t be surprising! Remember, the correlation between most intellectual abilities, [while positive](https://en.wikipedia.org/wiki/G_factor_\(psychometrics\)), is only about 0.2 - 0.4. Musk seems IQ 150+ when he’s thinking about the interactions of well-behaved physical laws, and IQ 120 when he’s thinking about about horrible fuzzy messes. This sometimes takes him to weird places; he was one of the first people in the world to realize the risks from advanced AI, which is basically a physical-limits problem, but [I think his alignment strategy is full of dangerous holes](https://www.astralcodexten.com/p/contra-the-xai-alignment-plan).)
+(I’m nervous saying too emphatically that Musk is “smart”. These stories amply prove he is a great engineer and technologist. But this isn’t the same skill as being a philosopher/intellectual, and I think when he’s tried to form philosophical/intellectual opinions, they’ve been well-intentioned, shown good instincts, and sometimes displayed deep insight, but also often been unsophisticated or messed up key points. This shouldn’t be surprising! Remember, the correlation between most intellectual abilities, [while positive](https://en.wikipedia.org/wiki/G_factor_\(psychometrics\)), is only about 0.2 - 0.4. Musk seems IQ 150+ when he’s thinking about the interactions of well-behaved physical laws, and IQ 120 when he’s thinking about about horrible fuzzy messes. This sometimes takes him to weird places; he was one of the first people in the world to realize the risks from advanced AI, which is basically a physical-limits problem, but [I think his alignment strategy is full of dangerous holes](/p/contra-the-xai-alignment-plan).)
 
 ### Does Musk personally contribute to his companies’ innovative designs, or just ride on his employees’ coat-tails?
 
@@ -69,7 +69,7 @@ Musk contributes. He’s notorious for coming up with ideas and insisting upon t
 > 
 > It would be up to the Tesla team to figure out how to make the aluminum manufacturing happen. “We knew it could be done,” Musk said. “It was a question of how hard it would be and how long it would take us to sort it out.” 
 
-And although of course employees do the bulk of the work, it’s not a coincidence that Musk’s companies have better employees than their competitors[4](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-4-136923606). Regarding Tom Mueller, the acclaimed chief engine designer at SpaceX:
+And although of course employees do the bulk of the work, it’s not a coincidence that Musk’s companies have better employees than their competitors[4](/p/book-review-elon-musk#footnote-4-136923606). Regarding Tom Mueller, the acclaimed chief engine designer at SpaceX:
 
 > Mueller ended up chatting with Musk for hours. The next weekend, Mueller invited Musk to his house to continue their discussion. Musk knew he had found someone who really knew the ins and outs of making rockets. After that, Musk introduced Mueller to the rest of his roundtable of space experts and their stealthy meetings. The caliber of the people impressed Mueller, who had turned down past job offers from Beal and other budding space magnates because of their borderline insane ideas. Musk, by contrast, seemed to know what he was doing.
 
@@ -77,7 +77,7 @@ Likewise, Musk didn’t found Tesla, and he didn’t invent their revolutionary 
 
 Also:
 
-> [Musk] interviewed almost every one of SpaceX’s first one thousand hires, including the janitors.[5](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-5-136923606)
+> [Musk] interviewed almost every one of SpaceX’s first one thousand hires, including the janitors.[5](/p/book-review-elon-musk#footnote-5-136923606)
 
 ### Since these companies already have hundreds of engineers, each specializing in whatever component they’re making, why does it matter whether or not the boss is also a good engineer?
 
@@ -151,7 +151,7 @@ Musk was into Mars before he owned a rocket company. He started SpaceX because h
 
 He is very serious about AI alignment. He was one of the first backers of the AI alignment movement, before it was cool or anyone else cared or there was any real AI to align. I give him immense credit for that even though I think his particular AI alignment plans are bad.
 
-I do think this displays the same pattern of “technically brilliant, philosophically erratic” - what will make a Mars colony become bigger and more important than eg an Antarctic base? We don’t colonize Antarctica, not because we can’t get there, but because there’s no benefit to doing so. The short-term reason to colonize Mars is to continue the grand arc of human progress, but those kinds of spiritual benefits only go so far in creating something big and self-sustaining[6](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-6-136923606).
+I do think this displays the same pattern of “technically brilliant, philosophically erratic” - what will make a Mars colony become bigger and more important than eg an Antarctic base? We don’t colonize Antarctica, not because we can’t get there, but because there’s no benefit to doing so. The short-term reason to colonize Mars is to continue the grand arc of human progress, but those kinds of spiritual benefits only go so far in creating something big and self-sustaining[6](/p/book-review-elon-musk#footnote-6-136923606).
 
 Elon is a treasure because when he puts effort into going to Mars it opens up lots of other frontiers like Starlink (high-speed Internet everywhere including the developing world, hard for authoritarian governments to censor) and maybe asteroid mining. His idealism _will_ create lots of new trillion-dollar industries and accelerate human progress. I just don’t see any sign that he’s doing it efficiently, or on purpose, or steering in a well-thought-out direction.
 
@@ -209,7 +209,7 @@ But also:
 
 > “His vision is so clear,” [SpaceX employee Dolly] Singh said. “He almost hypnotizes you. He gives you the crazy eye, and it’s like, yes, we can get to Mars.” Take that a bit further and you arrive at a pleasure-pain, sadomasochistic vibe that comes with working for Musk. Numerous people interviewed for this book decried the work hours, Musk’s blunt style, and his sometimes ludicrous expectations. Yet almost every person—even those who had been fired — still worshipped Musk and talked about him in terms usually reserved for superheroes or deities. 
 
-That “even those who had been fired” comment was backed up multiple times throughout the book. People who had every reason to hate Musk would sound like they were trying to work themselves up to criticizing him, then sort of fizzle out and talk about how great he was instead. Even his ex-wife who had a protracted divorce suit against him spent most of the interview trying to make excuses for his behavior[7](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-7-136923606). 
+That “even those who had been fired” comment was backed up multiple times throughout the book. People who had every reason to hate Musk would sound like they were trying to work themselves up to criticizing him, then sort of fizzle out and talk about how great he was instead. Even his ex-wife who had a protracted divorce suit against him spent most of the interview trying to make excuses for his behavior[7](/p/book-review-elon-musk#footnote-7-136923606).
 
 Tesla CTO J. B. Straubel says:
 
@@ -217,7 +217,7 @@ Tesla CTO J. B. Straubel says:
 
 ### Is Musk autistic? Is he socially skilled?
 
-I hate binary “is so-and-so autistic Y/N?” questions, but Musk is definitely odd. He must have some social skills, since he’s dated various models and starlets, won the loyalty of thousands of employees, and become a press darling. But like his business success, sometimes this owes more to persistence and intensity than traditional good-decision-making. Here’s what the book has to say about him courting his first wife[8](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-8-136923606), Justine (this is before Elon was rich, when they were both in college):
+I hate binary “is so-and-so autistic Y/N?” questions, but Musk is definitely odd. He must have some social skills, since he’s dated various models and starlets, won the loyalty of thousands of employees, and become a press darling. But like his business success, sometimes this owes more to persistence and intensity than traditional good-decision-making. Here’s what the book has to say about him courting his first wife[8](/p/book-review-elon-musk#footnote-8-136923606), Justine (this is before Elon was rich, when they were both in college):
 
 > He made his first move just outside of her dorm, where he pretended to have bumped into her by accident and then reminded her that they had met previously at a party. Justine, only one week into school, agreed to Musk’s proposal of an ice cream date. When he arrived to pick up Wilson, Musk found a note on the dorm room door, notifying him that he’d been stood up. “It said that she had to go study for an exam and couldn’t make it and that she was sorry,” Musk said. 
 > 
@@ -297,9 +297,9 @@ On the other hand, this time [Ashlee Vance himself is skeptical](https://www.vox
 
 I go back and forth on this. Abstracting away “the vibes”, you could argue Musk’s first year at Twitter has actually had a lot of positives:
 
-  * He fired 80%-90% of the workforce without any clear change in user experience. This was bad for the fired people and bad for PR. But it makes him look more competent than whoever was there before him and hired 5-10x more people than they needed. [edit: see contrary perspectives [here](https://www.reddit.com/r/slatestarcodex/comments/16heyx9/book_review_elon_musk/k0dwygu/) and [here](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40007633)]
+  * He fired 80%-90% of the workforce without any clear change in user experience. This was bad for the fired people and bad for PR. But it makes him look more competent than whoever was there before him and hired 5-10x more people than they needed. [edit: see contrary perspectives [here](https://www.reddit.com/r/slatestarcodex/comments/16heyx9/book_review_elon_musk/k0dwygu/) and [here](/p/book-review-elon-musk/comment/40007633)]
 
-  * Although stories from this winter claimed that Twitter Blue was a dud, anecdotally I’ve been seeing lots more people using it lately. This could provide X with a revenue source independent of advertising and make them well-placed to survive any future [chatbotpocalypse](https://www.astralcodexten.com/p/mostly-skeptical-thoughts-on-the).
+  * Although stories from this winter claimed that Twitter Blue was a dud, anecdotally I’ve been seeing lots more people using it lately. This could provide X with a revenue source independent of advertising and make them well-placed to survive any future [chatbotpocalypse](/p/mostly-skeptical-thoughts-on-the).
 
   * Easily survived a challenge from Facebook Threads.
 
@@ -326,13 +326,13 @@ So now he’s taken over someone else’s company, renamed it “X”, and embar
 
 Musk has a saying: “The most entertaining outcome is the most likely”. The most entertaining outcome here would be for Peter Thiel to take over Twitter and rename it “PayPal”. I can’t wait.
 
-[1](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-anchor-1-136923606)
+[1](/p/book-review-elon-musk#footnote-anchor-1-136923606)
 
 Vance starts with the story of the biography itself. When Musk learned he was being profiled, he called Vance, threatened that he could “make [his] life very difficult”, and demanded the right to include footnotes wherever he wanted telling his side of the story. When Vance said that wasn’t how things worked, Elon invited him to dinner to talk about it. Elon arrived late, and spent the first few courses talking about the risk of artificial superintelligence. When Vance tried to redirect the conversation to the biography, Elon abruptly agreed, gave him unprecedented access to everyone, and won him over so thoroughly that the book ends with a prediction that Musk will succeed at everything and become the richest man in the world (a bold claim back in 2015).
 
 I like this story but find myself dwelling on Musk’s request - why _shouldn’t_ he be allowed to read his own biography before publication and include footnotes giving his side of the story where he disagrees? That sounds like it should be standard practice! If I ever write a post about any of you and you disagree with it, feel free to ask me to add a footnote giving your side of the story (or realistically I’ll put it in an Open Thread).
 
-[2](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-anchor-2-136923606)
+[2](/p/book-review-elon-musk#footnote-anchor-2-136923606)
 
 The book gives several examples of times Musk almost went bankrupt by underestimating how long a project would take, then got saved by an amazing stroke of luck at the last second. When Vance asked him about his original plan to get the Falcon 1 done in a year, he said:
 
@@ -340,19 +340,19 @@ The book gives several examples of times Musk almost went bankrupt by underestim
 
 But also, the employees who Vance interviewed admit that whenever Musk asks how long something will take, they give him a super-optimistic timeline, because otherwise he will yell at them.
 
-[3](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-anchor-3-136923606)
+[3](/p/book-review-elon-musk#footnote-anchor-3-136923606)
 
 I wondered whether Elon was self-aware. The answer seems to be yes. Here’s an email he wrote a friend:
 
 > I am by nature obsessive compulsive. In terms of being an asshole or screwing up, I'm personally as guilty of that as anyone, and am somewhat thick-skinned in this regard due to large amounts of scar tissue. What matters to me is winning, and not in a small way. God knows why . . . it's probably [rooted] in some very disturbing psychoanalytical black hole or neural short circuit.
 
-[4](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-anchor-4-136923606)
+[4](/p/book-review-elon-musk#footnote-anchor-4-136923606)
 
 More on Musk’s recruitment strategy:
 
 > Musk would personally reach out to the aerospace departments of top colleges and inquire about the students who had finished with the best marks on their exams. It was not unusual for him to call the students in their dorm rooms and recruit them over the phone. “I thought it was a prank call,” said Michael Colonno, who heard from Musk while attending Stanford. “I did not believe for a minute that he had a rocket company.” Once the students looked Musk up on the Internet, selling them on SpaceX was easy. For the first time in years if not decades, young aeronautics whizzes who pined to explore space had a really exciting company to latch on to and a path toward designing a rocket or even becoming an astronaut that did not require them to join a bureaucratic government contractor. As word of SpaceX’s ambitions spread, top engineers from Boeing, Lockheed Martin, and Orbital Sciences with a high tolerance for risk fled to the upstart, too. 
 
-[5](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-anchor-5-136923606)
+[5](/p/book-review-elon-musk#footnote-anchor-5-136923606)
 
 Here’s a description of an interview with Musk:
 
@@ -360,15 +360,15 @@ Here’s a description of an interview with Musk:
 > 
 > From that point, the tales of engineers who have interviewed with Musk run the gamut from torturous experiences to the sublime. He might ask one question or he might ask several. You can be sure, though, that he will roll out the Riddle: “You’re standing on the surface of the Earth. You walk one mile south, one mile west, and one mile north. You end up exactly where you started. Where are you?” One answer to that is the North Pole, and most of the engineers get it right away. That’s when Musk will follow with “Where else could you be?” The other answer is somewhere close to the South Pole where, if you walk one mile south, the circumference of the Earth becomes one mile. Fewer engineers get this answer, and Musk will happily walk them through that riddle and others and cite any relevant equations during his explanations. He tends to care less about whether or not the person gets the answer than about how they describe the problem and their approach to solving it. 
 
-[6](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-anchor-6-136923606)
+[6](/p/book-review-elon-musk#footnote-anchor-6-136923606)
 
 The only good answer to this question I’ve ever heard is that maybe it’s some sort of grand charter city proposal, and the benefit is that Earthly governments can’t touch it. As I explain later, I don’t think Musk is enough of a 4D chessmaster to think of this and keep it secret, although maybe he’s just so good a chessmaster that he hides it.
 
-[7](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-anchor-7-136923606)
+[7](/p/book-review-elon-musk#footnote-anchor-7-136923606)
 
 Or else that’s just what Vance focuses upon.
 
-[8](https://www.astralcodexten.com/p/book-review-elon-musk#footnote-anchor-8-136923606)
+[8](/p/book-review-elon-musk#footnote-anchor-8-136923606)
 
 Here’s a story about him courting his second wife, Tallulah Riley:
 

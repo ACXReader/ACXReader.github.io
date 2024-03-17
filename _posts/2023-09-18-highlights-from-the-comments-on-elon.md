@@ -5,7 +5,7 @@ date: 2023-09-18
 likes: 101
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-elon
 ---
-_[original post:[Book Review: Elon Musk](https://www.astralcodexten.com/p/book-review-elon-musk)]_
+_[original post:[Book Review: Elon Musk](/p/book-review-elon-musk)]_
 
  **1:** Comments From People With Personal Experience  
  **2:** ...Debating Musk's Intelligence  
@@ -20,7 +20,7 @@ _[original post:[Book Review: Elon Musk](https://www.astralcodexten.com/p/book-r
 
 ## 1: Comments From People With Personal Experience
 
- **Blackjack[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40005092):**
+ **Blackjack[writes](/p/book-review-elon-musk/comment/40005092):**
 
 > As somebody who also worked on getting humans to Mars (the Orion project, which now only going to the moon after a large demotion), yeah having good ideas at those companies is soul crushing.
 > 
@@ -28,7 +28,7 @@ _[original post:[Book Review: Elon Musk](https://www.astralcodexten.com/p/book-r
 > 
 > And on the workload front I used to put in 70+ hour weeks every once in a while, so working for SpaceX would be a large step up in quality of getting things done and getting to build the cool stuff, while not being a horrendous downgrade in the other dimensions (though 75 hour weeks eat you alive. It’s basically 6 hours of sleep per night and every other moment is reserved to working or getting ready for work / commuting).
 
- **Fluffy Buffalo[answers](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40008301):**
+ **Fluffy Buffalo[answers](/p/book-review-elon-musk/comment/40008301):**
 
 > I understand the frustration... but my impression is that space exploration is one of the fields where very thorough, very systematic planning with very conservative change cycles is the most promising approach to get something that works at the first attempt - even if it takes longer and costs more than planned. Compare the JWST to the most recent "Starship" launch for illustration.
 
@@ -36,11 +36,11 @@ This would sound plausible, except that Musk has succeeded by doing the opposite
 
 I’m not sure whether this means that everyone else is an idiot with a pointless bureaucracy fetish, or that only a few very special people like Musk can make the non-bureaucratic version work.
 
- **Alastair Williams** ([blog](https://www.thequantumcat.space/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) **[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40016382):**
+ **Alastair Williams** ([blog](https://www.thequantumcat.space/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) **[writes](/p/book-review-elon-musk/comment/40016382):**
 
 > I have worked in space engineering for years and my impression is that the big space agencies and companies have a lot of inertia and reluctance to consider new ideas and change. A lot of the processes have been built up in response to past failures, but they also stifle a lot of innovation. When people come in with a fresh approach and the resources to implement them, they have tended to get quite far. You can look at how SpaceX has done, but also the early days of the space program at NASA were a lot more open to innovation than today.
 
- **UF911[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40006953):**
+ **UF911[writes](/p/book-review-elon-musk/comment/40006953):**
 
 > He is a polymathic engineer of rare but not unparalleled breadth, and the _sequence of areas_ he attained expert-level knowledge in, and hands-on skill, are a first-order factor in the probability of success of the _series_ of companies.
 > 
@@ -68,9 +68,9 @@ I’m not sure whether this means that everyone else is an idiot with a pointles
 > 
 > I’m making these positions from a position of having some experience in all five of these areas, for satellites, rockets, cars and other vehicles, but starting with software. Biased but also have trod the path in the same sequence, just not nearly at the same level of success, and I firmly believe that the sequence matters.
 
-See more discussion [here](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40007494).
+See more discussion [here](/p/book-review-elon-musk/comment/40007494).
 
- **BlueSilverWave[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40052601):**
+ **BlueSilverWave[writes](/p/book-review-elon-musk/comment/40052601):**
 
 > I remember the days when SpaceX was really ramping up university recruitment. They were the table at the career fair everyone wanted to give their resume to. Naturally, SpaceX sent a spectacular a-hole who yelled at and belittled most of the students applying. It got so bad they actually apologized about it when they held a talk at the next career fair. Turned quite a few folks off, it was a real embarrassment. Took a couple of years to wash that one out.
 > 
@@ -90,7 +90,7 @@ See more discussion [here](https://www.astralcodexten.com/p/book-review-elon-mus
 > 
 > P.S. the interface is so slow and laggy, holy cow
 
- **Paul T[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40032720):**
+ **Paul T[writes](/p/book-review-elon-musk/comment/40032720):**
 
 >  _> > “Since these companies already have hundreds of engineers, each specializing in whatever component they’re making, why does it matter whether or not the boss is also a good engineer?_
 > 
@@ -110,7 +110,7 @@ See more discussion [here](https://www.astralcodexten.com/p/book-review-elon-mus
 
 ## 2: Comments Debating Musk’s Intelligence
 
- **EAII[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40037833):**
+ **EAII[writes](/p/book-review-elon-musk/comment/40037833):**
 
 > Can you think of any other reasons why graduates of elite universities might describe their famously vain and petty boss as very intelligent on the record other than assuming he must be a 1 in a million intellect?
 
@@ -118,9 +118,9 @@ See more discussion [here](https://www.astralcodexten.com/p/book-review-elon-mus
 
 > I have seen several interviews with Musk and in none of them does he come off as being >120 IQ. Second-hand reports claim that he is very smart but I don't believe second-hand reports. Does anyone have any unfalsifiable proof that Musk is highly intelligent, like a video of him giving an unscripted talk about numerical methods for control systems or something? If he is able to meaningfully interrogate his employees about their work he should be able to lecture about various aspects of aerospace engineering. Where are the videos of him clearly demonstrating a genius-level IQ?
 
-Commenters propose [Everyday Astronaut](https://www.youtube.com/watch?v=SA8ZBJWo73E) as a good example of him sounding smart in an unscripted video, but Liminal [doesn’t buy it](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40057883).
+Commenters propose [Everyday Astronaut](https://www.youtube.com/watch?v=SA8ZBJWo73E) as a good example of him sounding smart in an unscripted video, but Liminal [doesn’t buy it](/p/book-review-elon-musk/comment/40057883).
 
- **Schroden Katze[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40056146):**
+ **Schroden Katze[writes](/p/book-review-elon-musk/comment/40056146):**
 
 > I seriously dropped my estimation after [the Python script saga](https://nypost.com/2022/06/01/elon-musk-hits-back-after-dogecoin-co-creator-calls-him-a-grifter/) when allegedly AI-interested guy and former programmer didn't even comprehend what is Python script
 > 
@@ -243,7 +243,7 @@ I notice the non-psychiatrists (including very smart people I usually trust) lin
 
 ## 4: Comments About Tesla
 
- **Michael Watts[makes an economic argument](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40012202) that Musk is overrated:**
+ **Michael Watts[makes an economic argument](/p/book-review-elon-musk/comment/40012202) that Musk is overrated:**
 
 > If we look at current market capitalization, Ford (stock ticker: F) is worth $50 billion. That is the price of owning all of Ford if you could buy all of the stock at current prices, which you can't do.
 > 
@@ -251,13 +251,13 @@ I notice the non-psychiatrists (including very smart people I usually trust) lin
 > 
 > If neither company had outstanding stock and therefore they both had a market capitalization of zero, how likely would you be to conclude that owning Ford would be 17 times worse than owning Tesla?
 
- **tg56’s[counterargument](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40012202):**
+ **tg56’s[counterargument](/p/book-review-elon-musk/comment/40012202):**
 
 > If you buy Ford you also have to pay off its debt which makes the ratio a little less crazy. "Ford Motor long term debt for the quarter ending June 30, 2023 was $93.895B, a 10.45% increase year-over-year." vs. "Tesla long term debt for the quarter ending June 30, 2023 was $0.872B, a 69.91% decline year-over-year."
 > 
 > Using debt + market cap we get a ratio of ~6 instead of 17 (which is of course still substantial, but quite as crazy). Also the trends in sold/delivered debt/profitability definitely favor Tesla over Ford which is prob. worth something (though whether it's 6x or not is another question).
 
- **CY Hollander[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40029310):**
+ **CY Hollander[writes](/p/book-review-elon-musk/comment/40029310):**
 
 > [While] Ford is a mature company founded 120 years ago, Tesla was founded 20 years ago and has been growing [rapidly] ever since. The difference is very material to any valuation of the two companies . . . estimating Tesla's "true" value at [Ford's market capitalization] * [Tesla's sales volume over the past year]/[Ford's sales volume over the past year] would have demonstrably and dramatically undervalued it for pretty much every moment in Tesla's history, by not accounting for the difference in growth rates.
 
@@ -265,7 +265,7 @@ I notice the non-psychiatrists (including very smart people I usually trust) lin
 
 The Boring Company got brought up as an example that Musk doesn’t bat 1000. But is it a real failure? It’s valued at $6 billion and working on digging a tunnel underneath Las Vegas. Commenters weigh in:
 
- **FluffyBuffalo[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40009220):**
+ **FluffyBuffalo[writes](/p/book-review-elon-musk/comment/40009220):**
 
 > AFAICT, the Boring Company has made tunnels cheaper by making them smaller and skipping all the parts that make them safe to use.
 
@@ -301,7 +301,7 @@ The Boring Company got brought up as an example that Musk doesn’t bat 1000. Bu
 > 
 > Also, on a more abstract level, why would anyone trust a private company to make good public transit? If your transit system can make 20-30% of its revenue from fares, that's considered a win. Most of the budget is funded with tax dollars because transit is considered a public good. I agree that private companies can be more efficient than government, but public transit seems like an especially bad industry for a private company - they would need to charge sky high fares to regain capital costs, and they don't have eminent domain powers either. (Eminent domain probably isn't needed in Las Vegas - the casino owners, with large properties all along a single line, will probably be on board. But the plan doesn't scale to other cities.)
 
- **Paul T[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40042257):**
+ **Paul T[writes](/p/book-review-elon-musk/comment/40042257):**
 
 > [Musk] did also posit big cost savings beyond the smaller tunnel diameter, and I think this might be a synergistic play; if we can build lots of small cheap TBMs then it becomes more viable to build lots of tunnels, not just because smaller tunnels are cheaper. Right now there are only a handful of the largest-size TBMs in the world, and I suspect if you pay all the freight cost to transport a TBM to your project, and pay the scheduling cost to wait for the next availability slot, you may as well get a big tunnel out of it. Vs. if TBMs are as common as backhoes, it becomes viable to do a bunch of stuff that simply wasn't cost-effective before.
 > 
@@ -325,11 +325,11 @@ This is a great point. If you think of Twitter’s key job as attracting and kee
 
 This doesn’t even have to contradict Musk’s ADL claim! If Parag or whoever employed a thousand censors to keep the ADL happy, and the ADL becoming unhappy cuts Twitter profits by 60%, then there’s a strong business case for those censors!
 
-Jack Johnson [points out](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40008223) that this is kind of a “paying the Danegeld” situation. But you don’t get to call someone a business genius for deciding not to pay Danegeld unless they show success in getting rid of the Dane.
+Jack Johnson [points out](/p/book-review-elon-musk/comment/40008223) that this is kind of a “paying the Danegeld” situation. But you don’t get to call someone a business genius for deciding not to pay Danegeld unless they show success in getting rid of the Dane.
 
-FionnM [argues ](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40008770)that advertisers started boycotting the platform the moment Musk got it, based on Musk previously saying he supported free speech, so none of his actions as CEO can have caused the boycott. But even if this is true, maybe “him saying he supported free speech” can be interpreted as “him telegraphing he would do something like this”, and if he later proved that he wouldn’t, the advertisers would have come back.
+FionnM [argues ](/p/book-review-elon-musk/comment/40008770)that advertisers started boycotting the platform the moment Musk got it, based on Musk previously saying he supported free speech, so none of his actions as CEO can have caused the boycott. But even if this is true, maybe “him saying he supported free speech” can be interpreted as “him telegraphing he would do something like this”, and if he later proved that he wouldn’t, the advertisers would have come back.
 
-There’s a much longer comment thread about these issues starting [here](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40007633).
+There’s a much longer comment thread about these issues starting [here](/p/book-review-elon-musk/comment/40007633).
 
  **I_am_momo[writes](https://www.reddit.com/r/slatestarcodex/comments/16heyx9/book_review_elon_musk/k0dwygu/):**
 
@@ -353,13 +353,13 @@ Thanks. It’s a truism that “other people don’t use Twitter the same way yo
 
 For example, I’m surprised to hear this! I thought there was a week or two when everyone threatened to switch to Mastodon, then found they didn’t like Mastodon and went back? So where did everyone go? Was it Mastodon after all? Facebook Threads? Blue Sky? Or did they all start learning to paint and spending time with their friends and families?
 
- **Dan Lucraft[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40005193):**
+ **Dan Lucraft[writes](/p/book-review-elon-musk/comment/40005193):**
 
 > Community Notes existed before Musk and I don’t think he’s improved it in any meaningful way. He did change its name from Birdwatch . . . It was in beta when he bought it. Or it had just been rolled out or was in the process of being rolled out.
 
 This would be a big update for me if true: CN became _much_ better a few months ago, and I was prepared to accept this as part of the Musk-can-accomplish-amazing-things narrative. But if it was just a long-term project finally leaving beta, that would take away his biggest Twitter accomplishment.
 
- **Matt S[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40005413):**
+ **Matt S[writes](/p/book-review-elon-musk/comment/40005413):**
 
 > To me the worst thing he's done at Twitter/X is elevate the blue checks to the top of the reply stream. Reading the top replies was my favorite part of the site. Now you have to wade through dozens, or hundreds of posts of nonsense to get to actual good posts. And since no one does that anymore, good posts don't get much replies or likes anyway.
 > 
@@ -377,19 +377,19 @@ This is a good point. I’m confused because it definitely looks like he tried t
 
 Anyone who has this good a relationship with their ex-wife can’t be all bad. But also, based.
 
- **Mike Amory (**[blog](https://notfunny.substack.com/) **)[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40017680):**
+ **Mike Amory (**[blog](https://notfunny.substack.com/) **)[writes](/p/book-review-elon-musk/comment/40017680):**
 
 > I do disagree with your stance on Twitter/X on a couple of fronts. In terms of Twitter Blue, I don't see it as successful or on the path to success because it is kind of a half-measure. Twitter should either be primarily subscription model that basically operates on "FOMO" for its addicted users or rely strictly on advertising and be the town square. Twitter Blue is in this weird in-between where there are benefits to membership but its not needed to use Twitter, and so it becomes just a poor enough experience for non-subscribers that I think over time they will start losing users as the site becomes less useful (Like seeing subscriber tweets and comments before the people you actually want to read).
 > 
 > The second issue I have is with the idea advertisers need Twitter instead of vice versa. There are plenty of social media options for advertisers to go to, I just don't believe Twitter is essential there. Especially when Twitter isn't really associated with buying things as a consumer. No one shops on Twitter. I can see this actually being a major problem if advertisers stay away and realize their bottom line isn't actually hurting, so might as well just make this decision permanent since its all downside being in the Elon Musk business from a PR perspective (As your own review noted in terms of how he handles PR and drives folks nuts).
 
- **Jeremiah Johnson** ([blog](https://www.infinitescroll.us/)) **[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40012571) :**
+ **Jeremiah Johnson** ([blog](https://www.infinitescroll.us/)) **[writes](/p/book-review-elon-musk/comment/40012571) :**
 
 > I wrote a piece for Foriegn Policy about why the vision of an 'Everything App' in the US market is essentially impossible. WeChat was created in a very specific Chinese context that simply doesn't translate to the US
 > 
 > <https://foreignpolicy.com/2023/07/31/elon-musk-wechat-twitter-x-united-states-everything-apps/>
 
- **AminR[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40009403):**
+ **AminR[writes](/p/book-review-elon-musk/comment/40009403):**
 
 > Another example about getting himself into a lucky position is buying Twitter and now being able to use that data for an LLM project, he didn't anticipate that but considered it a nice bonus.
 
@@ -397,7 +397,7 @@ AI experts, is this a big deal? Can other AI teams not access Twitter data throu
 
 ## 7: Comments About Musk’s Mars Plan
 
-Unirt pushed back against my claim that colonizing Mars wasn’t useful, saying it was a good way to avoid extinction if Earth got hit by an asteroid. [I wrote](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40006827):
+Unirt pushed back against my claim that colonizing Mars wasn’t useful, saying it was a good way to avoid extinction if Earth got hit by an asteroid. [I wrote](/p/book-review-elon-musk/comment/40006827):
 
 > You can solve the asteroid threat more easily by tunneling underground on Earth and building a colony beneath the surface.
 > 
@@ -405,7 +405,7 @@ Unirt pushed back against my claim that colonizing Mars wasn’t useful, saying 
 > 
 > Also, the chance of an asteroid strike is about 1/1 million in the next 100 years, so bringing a Mars colony forward by 100 years doesn't get you a lot of x-risk reduction.
 
- **SEE[objected](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40011302):**
+ **SEE[objected](/p/book-review-elon-musk/comment/40011302):**
 
 > The major problem from an asteroidal impact on the order of Chicxulub is the dust and soot in the upper atmosphere cutting off enough sunlight to make growing plants impossible for as long as a decade. No protective dome or underground bunker will make the upper atmosphere transparent enough to grow plants. And even if you've got enough preserved food, vitamin C has lousy shelf life. Hope you've got enough light bulbs and a solid enough supply of electricity to grow enough cabbage to make enough sauerkraut to ward off scurvy.
 > 
@@ -415,7 +415,7 @@ Unirt pushed back against my claim that colonizing Mars wasn’t useful, saying 
 
 I refuse to believe that going to Mars isn’t 100x more expensive than figuring out ways to solve these problems on Earth.
 
- **sclmlw[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40026003):**
+ **sclmlw[writes](/p/book-review-elon-musk/comment/40026003):**
 
 > This is something I think Scott's review didn't emphasize enough about Musk and how to understand his persona. You can look at nearly everything Musk does up to the 2015 book with an eye toward building a colony on Mars. Something like SpaceX is easy to make the connection. Tesla and their solar subsidiary also make sense. But what about the others?
 > 
@@ -437,7 +437,7 @@ Likewise, Musk was an early investor in Tesla because the founders approached hi
 
 I agree with the broader point about idealism.
 
- **BenK[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40050079):**
+ **BenK[writes](/p/book-review-elon-musk/comment/40050079):**
 
 > It is completely obvious and heavily signaled that Mars is about liberty / independence as far as Musk is concerned.
 > 
@@ -455,7 +455,7 @@ I agree with the broader point about idealism.
 
 I agree with this except for the “where’s Bill Gates?” question - Gates is saving millions of lives running one of the greatest charitable foundations in history. Even if you generally agree with the market > charity hypothesis, the Gates Foundation might be the one exception!
 
- **Ethics Gradient[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40023846):**
+ **Ethics Gradient[writes](/p/book-review-elon-musk/comment/40023846):**
 
 > I really have to give Musk credit for just embodying the kind of arc-of-history techno-optimism that seems to have been a hallmark of the space age and just abandoned for blinkered, ultimately transient concerns that are just less inspiring and less long-term relevant than the kind of challenges Musk has taken off.
 > 
@@ -465,13 +465,13 @@ I agree with this except for the “where’s Bill Gates?” question - Gates is
 
 ## 8: Comments Comparing Musk To Other Famous Figures
 
- **Bill Benzon[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40008071):**
+ **Bill Benzon[writes](/p/book-review-elon-musk/comment/40008071):**
 
 > Musk's hands-on learn-how-it's-done practice reminds me a bit of Walt Disney, of all people. Do you know how Disneyland came about? During WWII Walt became interested in (obsessed with) model railroads. So he went into the company's machine shop and learned how to use the equipment to build his own models from scratch. Then, after the war, he had the idea that his employees needed a park where they could relax with their families. That much I learned from two biographies, a thick tome by Neal Gabler, and a somewhat more sympathatic one by Mike Barrier (and, I believe, a bit deeper). So, you merge the idea of a park with the skill of building model trains and out comes Disneyland, the world's first theme park and, some have said, a masterpiece of urban planning.
 > 
 > Disney, too, has been a controversial figure, very.
 
- **J. Ott[adds to the Disney comparison](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40011160):**
+ **J. Ott[adds to the Disney comparison](/p/book-review-elon-musk/comment/40011160):**
 
 > Walt Disney has some parallels - was a technology innovator and pushed workers beyond what they imagined their creative limits. He also had his very sensible brother Roy handling the finance side. (The company was called Disney Bros. until Walt decided it sounded better with just his name.) The usual pattern was that Walt would push the company the point of bankruptcy on a dream project, Roy would call in favors to get a bunch of bankers in a room to hear about it, then Walt’s incredible pitching ability would convince the skeptical bankers it was worth keeping them solvent a little longer. When all else failed they would make a princess movie. What I take away from the Walt biographies is that Roy was working hard behind the scenes to keep everything afloat and that with him (and genius Ub Iwerks), Walt would have flamed out many times.
 
@@ -479,11 +479,11 @@ Elon started his first startup, Zip2, together with his brother Kimball. But I d
 
 > [Early investor Greg Kouri] used to referee fistfights between Elon and Kimbal, in the middle of the office. “I don’t get in fights with anyone else, but Elon and I don’t have the ability to reconcile a vision other than our own,” Kimbal said. During a particularly nasty scrap over a business decision, Elon ripped some skin off his fist and had to go get a tetanus shot. Kouri put an end to the fights after that.
 
- **Eric Zhang[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40019042):**
+ **Eric Zhang[writes](/p/book-review-elon-musk/comment/40019042):**
 
 > Napoleon Bonaparte reminds me of this. Or rather, reading about Napoleon reminded me of Elon Musk - particularly the terrifying intensity and emphasis on speed, the micromanaging, the ability rapidly to suck information out of people's skulls via conversation, the incredibly bold bets.
 
- **James McSweeney[agrees](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40026799):**
+ **James McSweeney[agrees](/p/book-review-elon-musk/comment/40026799):**
 
 > Elon's personality appears amusingly similar to that of Napoleon (at least, as related in Andrew Roberts' 'Napoleon the Great').
 > 
@@ -495,7 +495,7 @@ Elon started his first startup, Zip2, together with his brother Kimball. But I d
 > 
 > After decades of risk-taking, Napoleon's luck eventually ran out. It will be interesting to see if Musk meets his own proverbial early Russian winter.
 
- **Schroden Katze[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40030341):**
+ **Schroden Katze[writes](/p/book-review-elon-musk/comment/40030341):**
 
 > Description of Elon really reminds description of Stalin from Mikoyan diaries
 > 
@@ -509,7 +509,7 @@ Elon started his first startup, Zip2, together with his brother Kimball. But I d
 > 
 > The same was near-endless work stamina and also charm, for some reason people believed he was a great person no matter what Stalin did to/with them
 
- **Drosophilist[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40023872):**
+ **Drosophilist[writes](/p/book-review-elon-musk/comment/40023872):**
 
 > I love Tolkien’s work, and, oddly, when I was reading this, my mind turned to Feanor in The Silmarillion.
 > 
@@ -523,7 +523,7 @@ Elon started his first startup, Zip2, together with his brother Kimball. But I d
 
 ## 9: Other Comments
 
- **Moon Moth[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40009113):**
+ **Moon Moth[writes](/p/book-review-elon-musk/comment/40009113):**
 
 > If you look at all 11 of [Elon]’s children's names, all but the 3 with Grimes have fairly normal names, at least for American kids these days.
 
@@ -551,7 +551,7 @@ All the non-Grimes children have pretty normal names, at least by Bay Area stand
 > 
 > One of his employees walks through it here (the timestamp is for a section where you can see the steps, but the explanation starts before): 
 
-**FractalCycle[gives the serious EA perspective](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40061518):**
+**FractalCycle[gives the serious EA perspective](/p/book-review-elon-musk/comment/40061518):**
 
 > Feels weird talking about Musk, since his biggest impacts are fuzzier ones on x-risk (cofounding OpenAI and also the Ukraine Starlink non-activation event). AI risk and global geopolitical/nuclear risk. So far, what he's done in those areas is questionable at best and unusually terrible at worst.
 > 
@@ -559,7 +559,7 @@ All the non-Grimes children have pretty normal names, at least by Bay Area stand
 > 
 > IMHO these are the 3 things ([X.ai](http://x.ai), openai, and Ukraine) that matter most about Musk, and so far he seems net negative. The other massive things are rounding errors in the face of that, yet get more attention. (The extreme case: Twitter/X is a rounding error *on those other rounding errors*, and ofc that gets discussed 1000x more than everything else.)
 
- **David[writes](https://www.astralcodexten.com/p/book-review-elon-musk/comment/40007943):**
+ **David[writes](/p/book-review-elon-musk/comment/40007943):**
 
 > One other thing that doesn't seem to fit with this review, but that I'm not sure how to think about. Musk famously gets into a lot of fights with the US government, for example around SEC enforcement and the covid response. But we don't see him criticize China much -- maybe never publicly since covid? From a business perspective that seems smart: the Chinese government has a lot of ways to retaliate against Musk through Tesla, and it seems believable that they would if he criticized them publicly too much. But the review paints a picture of a guy who couldn't maintain that amount of message discipline on subjects he was really passionate about.
 > 

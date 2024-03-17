@@ -5,7 +5,7 @@ date: 2023-11-30
 likes: 213
 original-url: https://www.astralcodexten.com/p/contra-deboer-on-movement-shell-games
 ---
-**Followup to:[In Continued Defense Of Effective Altruism](https://www.astralcodexten.com/p/in-continued-defense-of-effective)**
+**Followup to:[In Continued Defense Of Effective Altruism](/p/in-continued-defense-of-effective)**
 
 Freddie deBoer says effective altruism [is “a shell game”](https://freddiedeboer.substack.com/p/the-effective-altruism-shell-game):
 
@@ -35,13 +35,13 @@ Step 2 is the interesting one. It might not fully capture what I mean: if someon
 
 This also explains why I’m less impressed by the global poverty / x-risk split than everyone else. Once you stop going off vibes and you try serious analysis, you find that (under lots of assumptions) the calculations come out in favor of x-risk mitigation. There are assumptions you can add and alternate methods you can use to avoid that conclusion. But it’s a temptation you run into. Anyone who hasn’t felt the temptation hasn’t tried the serious analysis. 
 
-Real life keeps proving me right on this. When I talk to the average person who says “I hate how EAs focus on AI stuff and not mosquito nets”, I ask “So you’re donating to mosquito nets, right?” and [they almost never are](https://www.astralcodexten.com/p/effective-altruism-as-a-tower-of). When I talk to people who genuinely believe in the AI stuff, they’ll tell me about how they spent ten hours in front of a spreadsheet last month trying to decide whether to send their yearly donation to an x-risk charity or a malaria charity, but there were so many considerations that they gave up and donated to both.
+Real life keeps proving me right on this. When I talk to the average person who says “I hate how EAs focus on AI stuff and not mosquito nets”, I ask “So you’re donating to mosquito nets, right?” and [they almost never are](/p/effective-altruism-as-a-tower-of). When I talk to people who genuinely believe in the AI stuff, they’ll tell me about how they spent ten hours in front of a spreadsheet last month trying to decide whether to send their yearly donation to an x-risk charity or a malaria charity, but there were so many considerations that they gave up and donated to both.
 
  **2: Part of the role of EA is as a social technology for getting you to do the thing that everyone says they want to do in principle.**
 
 I talk a big talk about donating to charity. But I probably wouldn’t do it much if I hadn’t taken the [Giving What We Can pledge](https://www.givingwhatwecan.org/en-US/pledge) (a vow to give 10% of your income per year) all those years ago. It never feels like the right time. There’s always something else I need the money for. Sometimes I get unexpected windfalls, donate them to charity while expecting to also make my usual end of year donation, and then - having fulfilled the letter of my pledge - come up with an excuse not to make my usual end-of-year donation too.
 
-Cause evaluation works the same way. Every year, I feel bad free-riding off GiveWell. I tell myself I’m going to really look into charities, find the niche underexplored ones that are neglected even by other EAs. Every year (except when I announce [ACX Grants](https://www.astralcodexten.com/p/acx-grants-results) and can’t get out of it), I remember on December 27th that I haven’t done any of that yet, grumble, and give to whoever GiveWell puts first (or sometimes [EA Funds](https://funds.effectivealtruism.org/)).
+Cause evaluation works the same way. Every year, I feel bad free-riding off GiveWell. I tell myself I’m going to really look into charities, find the niche underexplored ones that are neglected even by other EAs. Every year (except when I announce [ACX Grants](/p/acx-grants-results) and can’t get out of it), I remember on December 27th that I haven’t done any of that yet, grumble, and give to whoever GiveWell puts first (or sometimes [EA Funds](https://funds.effectivealtruism.org/)).
 
 And I’m a terrible vegetarian. If there’s meat in front of me, I’ll eat it. Luckily I’ve cultivated an EA friend group full of vegetarians and pescetarians, and they usually don’t place meat in front of me. My friends will cook me delicious Swedish meatballs made with Impossible Burger, or tell me where to find the best fake turkey for Thanksgiving (it’s [Quorn Meatless Roast](https://amzn.to/3Rkk1C9)). And the Good Food Institute (an EA-supported charity) helps ensure I get ever tastier fake meat every year.
 

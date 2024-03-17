@@ -5,7 +5,7 @@ date: 2024-02-08
 likes: 126
 original-url: https://www.astralcodexten.com/p/evolution-explains-polygenic-structure
 ---
-We’ve been gradually working our way through the conversation around E. Fuller Torrey’s concerns about schizophrenia genetics - last week we had [It’s Fair To Describe Schizophrenia As Probably Mostly Genetic](https://www.astralcodexten.com/p/its-fair-to-describe-schizophrenia), the week before [Unintuitive Properties Of Polygenic Disorders](https://www.astralcodexten.com/p/some-unintuitive-properties-of-polygenic). Here are two more arguments Torrey makes that we haven’t gotten to:
+We’ve been gradually working our way through the conversation around E. Fuller Torrey’s concerns about schizophrenia genetics - last week we had [It’s Fair To Describe Schizophrenia As Probably Mostly Genetic](/p/its-fair-to-describe-schizophrenia), the week before [Unintuitive Properties Of Polygenic Disorders](/p/some-unintuitive-properties-of-polygenic). Here are two more arguments Torrey makes that we haven’t gotten to:
 
   1. Studies have failed to find any schizophrenia genes of large effect. If schizophrenia is genetic, it must be caused of thousands of genes, hidden in the most obscure corners of the genome, each with effects too small to detect with current technology. This seems less like the sort of thing that happens naturally, and more like the sort of thing you would claim if you wanted to make your theory untestable.
 
@@ -14,7 +14,7 @@ We’ve been gradually working our way through the conversation around E. Fuller
 
 
 
-In the comments of the Unintuitive Properties post, [Michael Roe points out](https://www.astralcodexten.com/p/some-unintuitive-properties-of-polygenic/comment/47992032) that one of these mysteries solves the other:
+In the comments of the Unintuitive Properties post, [Michael Roe points out](/p/some-unintuitive-properties-of-polygenic/comment/47992032) that one of these mysteries solves the other:
 
 > If there were single gene polymorphisms with large negative effect, they would get selected out of the population ... eventually. Which suggests that there can't be high-frequency mutations with large negative effect, unless there is some compensating advantage (like, e.g. giving you resistance to malaria).
 > 
@@ -45,11 +45,11 @@ It should be relatively easy to disprove (2) - just use genetic testing to find 
 
 I’ve never heard anyone discuss (3), but it sort of makes sense, doesn’t it? It sounds hard to test, but you might be able to look at all-cause mortality in the people with the lowest schizophrenia genetic risk and see if it’s unusually high. I would be shocked if this turned out to be true, but it’s theoretically possible.
 
-Why does this matter? We’re getting to the point where we can select embryos for low schizophrenia risk (we’re not at the point where we can _engineer_ low schizophrenia risk yet, but someday we might be). If schizophrenia genes are good in some way, we might want to hold back until we understand why[1](https://www.astralcodexten.com/p/evolution-explains-polygenic-structure#footnote-1-141142911). If they’re just evolutionary mistakes, we could move forward with less concern.
+Why does this matter? We’re getting to the point where we can select embryos for low schizophrenia risk (we’re not at the point where we can _engineer_ low schizophrenia risk yet, but someday we might be). If schizophrenia genes are good in some way, we might want to hold back until we understand why[1](/p/evolution-explains-polygenic-structure#footnote-1-141142911). If they’re just evolutionary mistakes, we could move forward with less concern.
 
 So far the evolutionary mistake theory seems most plausible.
 
-[1](https://www.astralcodexten.com/p/evolution-explains-polygenic-structure#footnote-anchor-1-141142911)
+[1](/p/evolution-explains-polygenic-structure#footnote-anchor-1-141142911)
 
 The scare-mongering here has to be false - that is, it can’t be bad to choose an embryo at the 50th percentile of schizophrenia risk rather than the 99.9th, because half of people are at the 50th percentile of schizophrenia risk and nothing bad happens to them. Schizophrenia genes can be at _best_ fitness-neutral; otherwise evolution would be selecting _for_ them. The worst you could say is that this would be depriving some people of exceptional creativity (as in 2) or exceptional organ effectiveness (as in 3), instead pushing them towards the average of these traits. But there’s no reason to think this is true, and plenty of reasons to think it isn’t.
 

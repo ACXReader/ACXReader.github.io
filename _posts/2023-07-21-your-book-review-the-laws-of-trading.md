@@ -7,7 +7,7 @@ original-url: https://www.astralcodexten.com/p/your-book-review-the-laws-of-trad
 ---
 [ _This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_ ]
 
-A book about trading isn’t ever **actually** about trading[1](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-1-123360445). It is either:
+A book about trading isn’t ever **actually** about trading[1](/p/your-book-review-the-laws-of-trading#footnote-1-123360445). It is either:
 
   * A former trader sharing stories from their glory days, e.g. _Liar’s Poker_ , the exposé that morphed into a how-to guide, or
 
@@ -55,13 +55,13 @@ This section of the book contained good general advice, but nothing that will be
 
  _You’re never happy with the amount you traded._
 
-Now we start to get into the good stuff. Financial markets are an information aggregation mechanism, relying on multiple parties’ beliefs and recursive Bayesian updates of an individual actor’s beliefs based on the beliefs of others[2](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-2-123360445).
+Now we start to get into the good stuff. Financial markets are an information aggregation mechanism, relying on multiple parties’ beliefs and recursive Bayesian updates of an individual actor’s beliefs based on the beliefs of others[2](/p/your-book-review-the-laws-of-trading#footnote-2-123360445).
 
 Market mechanics demonstrate Bayesian beliefs in action. The following quote is quite long, so skip over it if you don’t want to dive deep into the psychology of making a market. I retained it in full because this is quite literally the best description I’ve ever seen of the Bayesian dance between two [market makers](https://www.investopedia.com/terms/m/marketmaker.asp):
 
 >  _“You are a market maker in South African mining companies. Through years of effort and continual improvement, you have built a trading model for the company Veldt Resources. You walk into work one day, ready to set up your trading for the day. It's a stock that doesn't trade much, and usually there are only two market makers: you and another (we'll call her Jo). She's sharp, and she competes well to trade against customer orders that come in._
 > 
->  _Your model has Veldt valued at 54.35 ZAR (South African rand). You're going to start quoting the stock, so you're about to turn on your machine making a market 54.25 - 54.45 (1000x)_[3](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-3-123360445) _. Before you turn on, you check the current market and notice that Jo has already turned on and she's making her market 53.50 - 54.00 (2000x). If you were to turn on your machine, your market would cross her market, and you would buy 1000 shares from her for 54.00._
+>  _Your model has Veldt valued at 54.35 ZAR (South African rand). You're going to start quoting the stock, so you're about to turn on your machine making a market 54.25 - 54.45 (1000x)_[3](/p/your-book-review-the-laws-of-trading#footnote-3-123360445) _. Before you turn on, you check the current market and notice that Jo has already turned on and she's making her market 53.50 - 54.00 (2000x). If you were to turn on your machine, your market would cross her market, and you would buy 1000 shares from her for 54.00._
 > 
 >  _You now need to make a decision. Whose model do you believe more, yours or Jo's? If you believe yours, you should turn on your machine, trade at 54.00, and expect to make money. If you believe Jo's model, you should adjust your own model parameters to match her market and turn on, making a similar market to hers._
 > 
@@ -166,7 +166,7 @@ I don’t think enough people consider risk and the hedges you can take in the c
 
 > _“Many trades that look different on the surface can in fact be the same trade in disguise, and trades whose edge appears to derive from one risk are actually bets on another risk.”_
 
-It might make sense to hedge some of that risk – simply having friends that work at other companies and in other industries so that all of my social capital isn’t in one basket is a start[4](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-4-123360445). 
+It might make sense to hedge some of that risk – simply having friends that work at other companies and in other industries so that all of my social capital isn’t in one basket is a start[4](/p/your-book-review-the-laws-of-trading#footnote-4-123360445).
 
 My only gripe here is that I would have liked to see Lebron call out ergodicity more explicitly. Blowing up your account might be fine as a trader – if you have a decent prior track record, you can probably just get a job at a different firm – but in life other losses are less reversible. As far as we know, this is the only universe we have access to. It doesn’t matter if your bet was positive EV and you won in 51% or 75% or even 99% of universes. You should place a high premium on staying alive and having enough bankroll to play the next round of the game. This is more important outside of finance than in the world of trading.
 
@@ -231,7 +231,7 @@ He dives into the difference between generative (G) and phenomenological (P) mod
 
 Models of the world differ from models of markets, though. Markets have quick feedback loops, are explicit in terms of what they measure, and are easy to quantify at a specific point in time. Most of our models for the world, though, are ill-defined and explicit.
 
-Models are only as good as our assumptions. As an aside, this is a common criticism of rationality or Effective Altruism – you can justify any worldview if you assign your model input weights in just the right way[5](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-5-123360445). I also tend to think that “traditional” EA is overly dependent on P models, and doesn’t embrace the G models that led to economic reforms in India in the 1990s or the economic policies that led to rapid economic development in Southeast Asia in the second half of the 20th Century. Interestingly, I think a lot of longtermist EA, specifically AI alignment, leans the other way, relying on G models which explicitly assume a certain P(doom) and work backwards from there. (Though I won’t pretend to be an expert here or to understand everything, so take this with a grain of salt.) 
+Models are only as good as our assumptions. As an aside, this is a common criticism of rationality or Effective Altruism – you can justify any worldview if you assign your model input weights in just the right way[5](/p/your-book-review-the-laws-of-trading#footnote-5-123360445). I also tend to think that “traditional” EA is overly dependent on P models, and doesn’t embrace the G models that led to economic reforms in India in the 1990s or the economic policies that led to rapid economic development in Southeast Asia in the second half of the 20th Century. Interestingly, I think a lot of longtermist EA, specifically AI alignment, leans the other way, relying on G models which explicitly assume a certain P(doom) and work backwards from there. (Though I won’t pretend to be an expert here or to understand everything, so take this with a grain of salt.)
 
 Overall, startups and tech seem to take heed to Lebron’s lesson much better than the folks hanging out on this part of the internet: _“Even if a model makes good predictions about some future value or event, that knowledge is useless without also knowing how to take advantage of that prediction.”_
 
@@ -287,7 +287,7 @@ First, they hired the best. There was interaction between three groups that did 
 
 This seems to have been cargo-culted at most modern tech companies. Ping-pong tables and nap pods don’t replace a true culture of cross-pollination of ideas in a boring cafeteria. 
 
-I’m reminded of the story of Richard Feynman in academia[6](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-6-123360445). His colleagues who kept their office doors closed made progress on their research in the short-term, but hit stumbling blocks. Those who kept their doors open didn’t seem to make much progress initially, but eventually outpaced the “closed door” scientists. They had new ideas and research directions based on all the interesting conversations they were having with others.
+I’m reminded of the story of Richard Feynman in academia[6](/p/your-book-review-the-laws-of-trading#footnote-6-123360445). His colleagues who kept their office doors closed made progress on their research in the short-term, but hit stumbling blocks. Those who kept their doors open didn’t seem to make much progress initially, but eventually outpaced the “closed door” scientists. They had new ideas and research directions based on all the interesting conversations they were having with others.
 
 The simple lesson here is to get outside of your bubble a bit more. Maybe the normies have something valuable to say once in a while. 
 
@@ -373,26 +373,26 @@ Beyond the philosophy, while reading this book I was struck by the fact that tra
 
  _The Laws of Trading_ opens the door to this world a crack and allows the rest of us to peek in, ever so slightly.
 
-[1](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-anchor-1-123360445)
+[1](/p/your-book-review-the-laws-of-trading#footnote-anchor-1-123360445)
 
 The book actively used by traders is perhaps the driest thing that Nassim Taleb has ever written: _Dynamic Hedging: Managing Vanilla and Exotic Options._
 
-[2](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-anchor-2-123360445)
+[2](/p/your-book-review-the-laws-of-trading#footnote-anchor-2-123360445)
 
 Like any good Bayesian, he introduces us to Bayesian statistics and its merits over Frequentism, then points us to the work of Eliezer Yudkowsky to learn more.
 
-[3](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-anchor-3-123360445)
+[3](/p/your-book-review-the-laws-of-trading#footnote-anchor-3-123360445)
 
 You’re offering to buy 1,000 shares at 54.25 and to sell 1,000 shares at 54.45.
 
-[4](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-anchor-4-123360445)
+[4](/p/your-book-review-the-laws-of-trading#footnote-anchor-4-123360445)
 
 As an aside, this seems to sometimes be a failure mode for Rationalists and EAs. They hang out in the same circles, leading to correlated career paths, social networks, and groupthink.
 
-[5](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-anchor-5-123360445)
+[5](/p/your-book-review-the-laws-of-trading#footnote-anchor-5-123360445)
 
 This is also the entire field of Investment Banking: build a model, then massage the inputs to get the multiple that the Managing Director tells you to.
 
-[6](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-anchor-6-123360445)
+[6](/p/your-book-review-the-laws-of-trading#footnote-anchor-6-123360445)
 
 No luck finding this story via Google or ChatGPT, but I think I’m getting the details broadly correct.

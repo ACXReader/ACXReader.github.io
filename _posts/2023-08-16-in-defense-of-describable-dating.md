@@ -5,7 +5,7 @@ date: 2023-08-16
 likes: 203
 original-url: https://www.astralcodexten.com/p/in-defense-of-describable-dating
 ---
-_The New York Times_ has [an article on “dating docs”](https://archive.is/YJFD2). These are a local phenomenon - I think an ex of mine might have been Patient Zero. I don’t begrudge the _Times_ for writing about them. I’m just surprised they’re considered an interesting phenomenon. What could be more obvious than making sure potential dates know what you’re like?[1](https://www.astralcodexten.com/p/in-defense-of-describable-dating#footnote-1-135883963)
+_The New York Times_ has [an article on “dating docs”](https://archive.is/YJFD2). These are a local phenomenon - I think an ex of mine might have been Patient Zero. I don’t begrudge the _Times_ for writing about them. I’m just surprised they’re considered an interesting phenomenon. What could be more obvious than making sure potential dates know what you’re like?[1](/p/in-defense-of-describable-dating#footnote-1-135883963)
 
 Still, reactions have been mixed. From [the ](https://www.reddit.com/r/slatestarcodex/comments/15gtbbp/tired_of_dating_apps_some_turn_to_dateme_docs_nyt/)[subreddit](https://www.reddit.com/r/slatestarcodex/comments/12io051/date_me_docs_marginal_revolution/):
 
@@ -126,7 +126,7 @@ But this can’t fully explain the poor predictive value of things like whether 
 
 > …a wide range of psychological constructs, including personality measures (e.g., the Big Five personality dimensions, attachment style, perceptions of one’s own mate value), well-being assessments (e.g., positive affectivity, negative affectivity, satisfaction with life), mating strategies (e.g., sociosexuality, interest in long-term relationships), values (e.g., traditionalism, conservatism), and self-reported traits (e.g., warmth, physical attractiveness) along with ideal-partner-preference items for those same traits.
 
-Some of these should matter a lot. For example, “interest in long-term relationships” sounds like whether someone is looking for a casual fling vs. marriage, a frequent dealbreaker on dating sites. And “values eg traditionalism and conservatism” sounds like politics - and again, we know only about 4% of Democrats marry Republicans and vice versa[2](https://www.astralcodexten.com/p/in-defense-of-describable-dating#footnote-2-135883963).
+Some of these should matter a lot. For example, “interest in long-term relationships” sounds like whether someone is looking for a casual fling vs. marriage, a frequent dealbreaker on dating sites. And “values eg traditionalism and conservatism” sounds like politics - and again, we know only about 4% of Democrats marry Republicans and vice versa[2](/p/in-defense-of-describable-dating#footnote-2-135883963).
 
 Then they made everyone go on four-minute speed dates with twelve other people and rank them on a 1-9 scale. They found that they could explain 10 - 20% of “value”, in the sense of which people were consistently more desired than others, but about 0% of “relationship desire”, ie the degree to which specific people preferred specific partners beyond their generic value. 
 
@@ -158,7 +158,7 @@ What would it mean if people weren’t very attracted to their spouse’s identi
 
  **Finally,** this isn’t a group of studies exactly, but you ought to be able to compare all the different partners of an individual - either a serial monogamist who’s dated many people throughout their life, or a polyamorist who dates many people at the same time. How similar are these partners - presumably chosen to satisfy the same person’s partner selection function - on legible criteria?
 
-My impression, based just on thinking about people I know, is that they’re pretty similar on a lot of measures of class/education/sorting, on sociosexuality, emotional maturity, values, and what they want out of life; lower on things like agreeableness, anxiety, conscientiousness, specific interests, and specific details of their appearance[3](https://www.astralcodexten.com/p/in-defense-of-describable-dating#footnote-3-135883963).
+My impression, based just on thinking about people I know, is that they’re pretty similar on a lot of measures of class/education/sorting, on sociosexuality, emotional maturity, values, and what they want out of life; lower on things like agreeableness, anxiety, conscientiousness, specific interests, and specific details of their appearance[3](/p/in-defense-of-describable-dating#footnote-3-135883963).
 
 ## Can We Reconcile Scientific And Common-Sensical Evidence About Partner Preferences?
 
@@ -182,14 +182,14 @@ Finally, how do studies looking at the general population transfer to the specif
 
 Today there are lots of options for people who only care about attractiveness. The most popular dating apps, like Tinder, almost push you into that mode. I don’t know if their designers were going off of research suggesting that nothing else mattered. If they were, I think they should give the research a second look. If not, I think that leaves a hole for someone else to fill. Until someone does so at scale, [dating docs](https://dateme.directory/) are a good first-pass solution.
 
-[1](https://www.astralcodexten.com/p/in-defense-of-describable-dating#footnote-anchor-1-135883963)
+[1](/p/in-defense-of-describable-dating#footnote-anchor-1-135883963)
 
 Others have pointed out that this is the same as a shidduch (matchmaking) resume in Orthodox Judaism and other traditional cultures, and so passes the Cultural Evolution Test.
 
-[2](https://www.astralcodexten.com/p/in-defense-of-describable-dating#footnote-anchor-2-135883963)
+[2](/p/in-defense-of-describable-dating#footnote-anchor-2-135883963)
 
 Technically the statistic was that “only 4% of marriages are between Democrats and Republicans”, but I think if we assume most people are one or the other then this is equivalent.
 
-[3](https://www.astralcodexten.com/p/in-defense-of-describable-dating#footnote-anchor-3-135883963)
+[3](/p/in-defense-of-describable-dating#footnote-anchor-3-135883963)
 
 I’m being vague here because I and most of my friends are rationalists and mostly date rationalists and that already sorts heavily on a lot of things, and I don’t have good intuitions for what would happen without that filter.

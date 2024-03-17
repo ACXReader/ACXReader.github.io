@@ -91,7 +91,7 @@ Warmest and most human-scale recent Bay Area building.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e2f565f-6d80-4b76-9bf2-96ec2a41f2fa_3024x4032.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e2f565f-6d80-4b76-9bf2-96ec2a41f2fa_3024x4032.png)[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc22c9966-e342-438c-8fee-9b82f57077a4_2977x2069.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc22c9966-e342-438c-8fee-9b82f57077a4_2977x2069.png)
 
-For more ACX Gurdjieff content, see [Book Review: Beelzebub’s Tales To His Grandson](https://www.astralcodexten.com/p/book-review-beelzebubs-tales-to-his).
+For more ACX Gurdjieff content, see [Book Review: Beelzebub’s Tales To His Grandson](/p/book-review-beelzebubs-tales-to-his).
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3c81bff-be93-481e-b0d1-ab0d519a1e04_2989x1953.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3c81bff-be93-481e-b0d1-ab0d519a1e04_2989x1953.png)
 

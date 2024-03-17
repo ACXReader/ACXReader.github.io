@@ -7,9 +7,9 @@ original-url: https://www.astralcodexten.com/p/acx-grants-followup-impact-market
 ---
 ## I. What’s Going On
 
-We got 351 proposals for [ACX Grants](https://www.astralcodexten.com/p/acx-grants-results-2024), but were only able to fund 34 of them. I’m not a professional grant evaluator and can’t guarantee there aren’t some jewels hidden among the remaining 317.
+We got 351 proposals for [ACX Grants](/p/acx-grants-results-2024), but were only able to fund 34 of them. I’m not a professional grant evaluator and can’t guarantee there aren’t some jewels hidden among the remaining 317.
 
-The plan has always been to run an _impact market_ \- a site where investors crowdfund some of the remaining grant proposals. If the project goes well, then philanthropists who missed it the first time (eg me) will pay the investors for funding it, potentially earning them a big profit. In [our last impact market test](https://www.astralcodexten.com/p/impact-market-mini-grants-results), some people (okay, one person) managed to get 25x their initial investment by funding a charity which did really well.
+The plan has always been to run an _impact market_ \- a site where investors crowdfund some of the remaining grant proposals. If the project goes well, then philanthropists who missed it the first time (eg me) will pay the investors for funding it, potentially earning them a big profit. In [our last impact market test](/p/impact-market-mini-grants-results), some people (okay, one person) managed to get 25x their initial investment by funding a charity which did really well.
 
 So in my ideal world, we’d be running an impact market where you could invest your money in the remaining 317 proposals and make a profit if they did well. We’ve encountered two flaws on the way to that ideal world:
 
@@ -50,7 +50,7 @@ Remember, an impact market is like a stock market or VC ecosystem for charity. I
 
 Obviously this depends on having big philanthropists willing to cooperate with this new system. Our current impact market has five partners: [The Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future), [The EA Infrastructure Fund](https://funds.effectivealtruism.org/funds/ea-community), [The Survival And Flourishing Fund](https://survivalandflourishing.fund/), [The Animal Welfare Fund](https://funds.effectivealtruism.org/funds/animal-welfare), and future rounds of ACX Grants. That means if you buy an impact certificate today, you can try selling it to one of those funders later, after the project is done. Each of these charities has specific things they fund, so you might want to check their past history before trusting them to buy one of your certificates.
 
-Impact markets are pretty new. We ran [a test round](https://www.astralcodexten.com/p/impact-market-mini-grants-results) last year and it went well, but this round is a bit more complicated and has some new moving parts. Along with the issue where you won’t get real money back, please be aware of the following possible risks:
+Impact markets are pretty new. We ran [a test round](/p/impact-market-mini-grants-results) last year and it went well, but this round is a bit more complicated and has some new moving parts. Along with the issue where you won’t get real money back, please be aware of the following possible risks:
 
   * You think your project did great work, but I (or our other funders) don’t find it interesting, don’t buy it, and the certificates go to $0. There are only five funders, and most of them are in pretty specific areas, so you might have only one or two possible buyers, and if they disagree with you, you’re out of luck.
 

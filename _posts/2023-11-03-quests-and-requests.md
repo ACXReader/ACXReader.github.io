@@ -53,7 +53,7 @@ Author and Internet celebrity John Green recently [campaigned against tuberculos
 
 His particular big victory was convincing some pharma companies not to enforce patents for their anti-tuberculosis drugs in developing countries. How did one person accomplish this? The best theory I can come up with is that pharma companies don’t care relatively less about their profits in developing markets (where there’s not much money anyway) compared to their public image in First World markets, so if you launch a good enough First World based campaign to get pharma companies to change their developing-world policies, even a medium-level celebrity can make them change course.
 
-I’m inspired by this. Also, I’m a medium-level celebrity. So far I’m having trouble finding good leverage points (my latest interest is Coalition to Modify NOTA, see [here](https://www.astralcodexten.com/p/my-left-kidney)), but I bet people who actually know this space could find better ones.
+I’m inspired by this. Also, I’m a medium-level celebrity. So far I’m having trouble finding good leverage points (my latest interest is Coalition to Modify NOTA, see [here](/p/my-left-kidney)), but I bet people who actually know this space could find better ones.
 
 Your job if you took this quest would be to figure out other leverage points like this, figure out how to run a corporate pressure campaign, and then run the corporate pressure campaign. Probably this would work better if you got celebrities on board. Getting me on board would be easy mode, but John Green has 40x more Twitter followers than I do, so you might need to look further afield.
 
@@ -133,7 +133,7 @@ Probably everyone wants different things here, but my demands would be:
 
   * Answer a few dozen to a few hundred questions, get a match % with other users
 
-  * Emphasis on text, so you could [describe yourself and learn things about potential matches](https://www.astralcodexten.com/p/in-defense-of-describable-dating) instead of having to make an impulsive swipe decision based on their photo.
+  * Emphasis on text, so you could [describe yourself and learn things about potential matches](/p/in-defense-of-describable-dating) instead of having to make an impulsive swipe decision based on their photo.
 
   * Some financial structure ensuring that it doesn’t have perverse incentives and won’t become a Tinder clone.
 
@@ -172,7 +172,7 @@ This one is less a request for people to step up and incubate this project so mu
 
 Poll after poll shows that Americans prefer classical art and architecture, here used as a catchall term for styles that old-fashioned, ornate, symmetric, elegant, etc - eg neo-classical, Gothic revival, Art Nouveau, Art Deco. In the rare cases when someone builds something like this, people love it and it becomes an instant tourist attraction. But 99% of the time, we get the same Brutalist cubes, modernist blobs, starchitect [crumpled paper](https://twitter.com/blader/status/1670900940709429254), or lowest-common-denominator five-over-one apartments.
 
-I’ve been [trying to figure out why for a while](https://www.astralcodexten.com/p/whither-tartaria). Some of it is cost, some of it is regulation, and some of it is elite opinion. But every so often someone successfully builds something classical and proves that it’s still possible in theory:
+I’ve been [trying to figure out why for a while](/p/whither-tartaria). Some of it is cost, some of it is regulation, and some of it is elite opinion. But every so often someone successfully builds something classical and proves that it’s still possible in theory:
 
 ![](https://substackcdn.com/image/fetch/w_459,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f6152c1-3558-4115-8627-de55cae6db38_1278x1170.png)A Hindu temple that opened last month in New Jersey.
 
@@ -203,7 +203,7 @@ An classical architecture aegis organization would:
 
 Surely this exists. Surely this is already a book (or at least a blog post) and you just need to tell me the name of it. Still, I would really appreciate knowing that name!
 
-Sometimes you have a good idea for political change (again, I’ll bring up the [Coalition to Modify NOTA](https://www.astralcodexten.com/p/my-left-kidney)). Probably some people disagree with it, but not too many people, and it’s not some issue like abortion where everyone thinks about it all the time and is at total loggerheads. It’s just some good idea that there should be a law about, but there isn’t. What’s the strategy for turning it into law?
+Sometimes you have a good idea for political change (again, I’ll bring up the [Coalition to Modify NOTA](/p/my-left-kidney)). Probably some people disagree with it, but not too many people, and it’s not some issue like abortion where everyone thinks about it all the time and is at total loggerheads. It’s just some good idea that there should be a law about, but there isn’t. What’s the strategy for turning it into law?
 
 Presumably the first step is convincing a member of Congress or the administrative state. How do you do this? On a very broad level, you should get articles in newspapers, sign petitions, and hold some protests. But suppose you do this. How do you translate this into support? Do you write a letter to your Congressman saying “Dear Senator: I have held eight protests this year and have two thousand signatures on my petition. That seems like a sufficient number of protests and signatures that you need to do something now.” Do the Congressmen just see the protests themselves and take the appropriate action? What if there are already polls saying that most Americans support your idea? Do you still have to do the media campaign / protests thing, or can you just send your Congressman the polls?
 

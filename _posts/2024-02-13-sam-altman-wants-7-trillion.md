@@ -5,7 +5,7 @@ date: 2024-02-13
 likes: 242
 original-url: https://www.astralcodexten.com/p/sam-altman-wants-7-trillion
 ---
-_[All numbers here are very rough and presented in a sloppy way. For the more rigorous versions of this, read[Tom Davidson](https://www.astralcodexten.com/p/davidson-on-takeoff-speeds), [Yafah Edelman](https://www.lesswrong.com/posts/nXcHe7t4rqHMjhzau/report-on-frontier-model-training), and [EpochAI](https://epochai.org/blog/trends-in-the-dollar-training-cost-of-machine-learning-systems))_
+_[All numbers here are very rough and presented in a sloppy way. For the more rigorous versions of this, read[Tom Davidson](/p/davidson-on-takeoff-speeds), [Yafah Edelman](https://www.lesswrong.com/posts/nXcHe7t4rqHMjhzau/report-on-frontier-model-training), and [EpochAI](https://epochai.org/blog/trends-in-the-dollar-training-cost-of-machine-learning-systems))_
 
  **I.**
 
@@ -108,10 +108,10 @@ When Sam Altman asks for $7 trillion, I interpret him as wanting to do this proc
 
 Probably he won’t get his $7 trillion. Then this same process will happen, but slower, more piecemeal, and more decentralized. They’ll come out with GPT-5. If it’s good, someone will want to build GPT-6. Normal capitalism will cause people to gradually increase chip capacity. People will make a lot of GPT-5.1s and GPT-5.2s until finally someone takes the plunge and builds the giant power plant somewhere. All of this will take decades, happen pretty naturally, and no one person or corporation will have a monopoly.
 
-I would be happier with the second situation: [the safety perspective](https://www.astralcodexten.com/p/pause-for-thought-the-ai-pause-debate) here is that we want as much time as we can get to prepare for disruptive AI. 
+I would be happier with the second situation: [the safety perspective](/p/pause-for-thought-the-ai-pause-debate) here is that we want as much time as we can get to prepare for disruptive AI.
 
 Sam Altman previously endorsed this position! He said that OpenAI’s efforts were good for safety, because you want to avoid _compute overhang_. That is, you want AI progress to be as gradual as possible, not to progress in sudden jerks. And one way you can keep things gradual is to max out the level of AI you can build with your current chips, and then AI can grow (at worst) as fast as the chip supply, which naturally grows pretty slowly.
 
 … _unless_ you ask for $7 trillion dollars to increase the chip supply in a giant leap as quickly as possible! People who trusted OpenAI’s good nature based on the compute overhang argument [are feeling betrayed right now](https://forum.effectivealtruism.org/posts/vBjSyNNnmNtJvmdAg/sam-altman-s-chip-ambitions-undercut-openai-s-safety). 
 
-My current impression of OpenAI’s [multiple contradictory perspectives here](https://www.astralcodexten.com/p/openais-planning-for-agi-and-beyond) is that they are genuinely interested in safety - but only insofar as that’s compatible with scaling up AI as fast as possible. This is far from the worst way that an AI company could be. But it’s not reassuring either.
+My current impression of OpenAI’s [multiple contradictory perspectives here](/p/openais-planning-for-agi-and-beyond) is that they are genuinely interested in safety - but only insofar as that’s compatible with scaling up AI as fast as possible. This is far from the worst way that an AI company could be. But it’s not reassuring either.

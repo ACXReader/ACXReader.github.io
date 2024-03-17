@@ -7,7 +7,7 @@ original-url: https://www.astralcodexten.com/p/who-does-polygenic-selection-help
 ---
 Suppose a couple has a strong family history of schizophrenia. They expect their children will be at high risk. They do IVF and get ten embryos. Polygenic screening reveals that nine of the embryos are at high risk for schizophrenia, but one is low-risk. They implant the low-risk embryo, and have a healthy child who never develops the disease.
 
-Some [commenters ](https://www.astralcodexten.com/p/its-fair-to-describe-schizophrenia/comment/48577086)challenge my statement that this represents successfully preventing schizophrenia, at least in the same way that eg better prenatal nutrition prevents schizophrenia. They point out that it didn’t exactly prevent schizophrenia in any particular person, so much as replace a schizophrenic with a non-schizophrenic.
+Some [commenters ](/p/its-fair-to-describe-schizophrenia/comment/48577086)challenge my statement that this represents successfully preventing schizophrenia, at least in the same way that eg better prenatal nutrition prevents schizophrenia. They point out that it didn’t exactly prevent schizophrenia in any particular person, so much as replace a schizophrenic with a non-schizophrenic.
 
 I can never tell how much of this is linguistic hair-splitting versus an actual moral objection to considering this strategy a success, but I think it’s worth arguing against the moral objection.
 

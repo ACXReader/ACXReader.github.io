@@ -7,7 +7,7 @@ original-url: https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate
 ---
 **I.**
 
-Yesterday [I criticized ](https://www.astralcodexten.com/p/contra-the-atlantic-on-polyamory)_[The Atlantic](https://www.astralcodexten.com/p/contra-the-atlantic-on-polyamory)_[’s recent invective against polyamory](https://www.astralcodexten.com/p/contra-the-atlantic-on-polyamory) (subscriber-only post, sorry). Today I want to zoom away from the specific bad arguments and examine the overall form of the article.
+Yesterday [I criticized ](/p/contra-the-atlantic-on-polyamory)_[The Atlantic](/p/contra-the-atlantic-on-polyamory)_[’s recent invective against polyamory](/p/contra-the-atlantic-on-polyamory) (subscriber-only post, sorry). Today I want to zoom away from the specific bad arguments and examine the overall form of the article.
 
 The overall form was: “I read a memoir about polyamory, everyone involved seemed awful and unhappy, and now I hate polyamorous people.” This is a common pattern. Sometimes, if someone’s very careful, they read three or four books about polyamory. Everyone in all the books is awful and unhappy. _Then_ they conclude they hate polyamorous people.
 

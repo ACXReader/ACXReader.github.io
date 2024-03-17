@@ -34,7 +34,7 @@ Simon Whitney (author of the book!) [writes](https://astralcodexten.substack.com
 > 
 > Of course, the smaller budgets of the scientists in my book don’t mean that their findings will be trivial. It has always been true that when myriad scientists work to better understand human health and disease, each in their own way, that the vast majority will make, at most, tiny steps, and that a very few will be on the track of something transformative. A system that makes their work more difficult means that we, the public who struggle with disease and death in our daily lives, are the ones who suffer.
 
-I did accidentally mess up the conclusion of the Lasagna and Epstein study[1](https://www.astralcodexten.com/p/highlights-from-the-comments-on-irbs#footnote-1-115295290) \- the short consent forms were better, not worse. Most of you caught this from context, but sorry.
+I did accidentally mess up the conclusion of the Lasagna and Epstein study[1](/p/highlights-from-the-comments-on-irbs#footnote-1-115295290) \- the short consent forms were better, not worse. Most of you caught this from context, but sorry.
 
 ### 2\. Stories From People In The Trenches
 
@@ -316,6 +316,6 @@ And [DannyK ](https://astralcodexten.substack.com/p/book-review-from-oversight-t
 
 I’d never heard of this before and would be interested in more information.
 
-[1](https://www.astralcodexten.com/p/highlights-from-the-comments-on-irbs#footnote-anchor-1-115295290)
+[1](/p/highlights-from-the-comments-on-irbs#footnote-anchor-1-115295290)
 
 Thank you to everyone who pointed out that this study had a funny name.

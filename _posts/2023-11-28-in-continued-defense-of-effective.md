@@ -39,28 +39,28 @@ And I do think the movement is worth fighting for. Here’s a short, very incomp
 
  _ **Global Health And Development**_
 
-  * Saved about 200,000 lives total, mostly from malaria[1](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-1-86909076)
+  * Saved about 200,000 lives total, mostly from malaria[1](/p/in-continued-defense-of-effective#footnote-1-86909076)
 
-  * Treated 25 million cases of chronic parasite infection.[2](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-2-86909076)
+  * Treated 25 million cases of chronic parasite infection.[2](/p/in-continued-defense-of-effective#footnote-2-86909076)
 
-  * Given 5 million people access to clean drinking water.[3](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-3-86909076)
+  * Given 5 million people access to clean drinking water.[3](/p/in-continued-defense-of-effective#footnote-3-86909076)
 
-  * Supported clinical trials for both the RTS.S malaria vaccine (currently approved!) and the R21/Matrix malaria vaccine (on track for approval)[4](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-4-86909076)
+  * Supported clinical trials for both the RTS.S malaria vaccine (currently approved!) and the R21/Matrix malaria vaccine (on track for approval)[4](/p/in-continued-defense-of-effective#footnote-4-86909076)
 
-  * Supported additional research into vaccines for syphilis, malaria, helminths, and hepatitis C and E.[5](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-5-86909076)
+  * Supported additional research into vaccines for syphilis, malaria, helminths, and hepatitis C and E.[5](/p/in-continued-defense-of-effective#footnote-5-86909076)
 
-  * Supported teams giving development economics advice in Ethiopia, India, Rwanda, and around the world.[6](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-6-86909076)
+  * Supported teams giving development economics advice in Ethiopia, India, Rwanda, and around the world.[6](/p/in-continued-defense-of-effective#footnote-6-86909076)
 
 
 
 
  _ **Animal Welfare:**_
 
-  * Convinced farms to switch 400 million chickens from caged to cage-free.[7](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-7-86909076)
+  * Convinced farms to switch 400 million chickens from caged to cage-free.[7](/p/in-continued-defense-of-effective#footnote-7-86909076)
 
 ![](https://substackcdn.com/image/fetch/w_466,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9df72b3f-fbd3-4482-9ea7-041fb5a6d38e_920x520.webp)Things are now slightly better than this in some places! Source: https://www.vox.com/future-perfect/23724740/tyson-chicken-free-range-humanewashing-investigation-animal-cruelty
 
-  * Freed 500,000 pigs from tiny crates where they weren’t able to move around[8](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-8-86909076)
+  * Freed 500,000 pigs from tiny crates where they weren’t able to move around[8](/p/in-continued-defense-of-effective#footnote-8-86909076)
 
   * Gotten 3,000 companies including Pepsi, Kelloggs, CVS, and Whole Foods to commit to selling low-cruelty meat.
 
@@ -69,11 +69,11 @@ And I do think the movement is worth fighting for. Here’s a short, very incomp
 
  _ **AI:** _
 
-  * Developed [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback), a technique for controlling AI output widely considered the key breakthrough behind ChatGPT.[9](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-9-86909076)
+  * Developed [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback), a technique for controlling AI output widely considered the key breakthrough behind ChatGPT.[9](/p/in-continued-defense-of-effective#footnote-9-86909076)
 
-  * …and other major AI safety advances, including [RLAIF](https://www.astralcodexten.com/p/constitutional-ai-rlhf-on-steroids) and the foundations of AI interpretability[10](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-10-86909076).
+  * …and other major AI safety advances, including [RLAIF](/p/constitutional-ai-rlhf-on-steroids) and the foundations of AI interpretability[10](/p/in-continued-defense-of-effective#footnote-10-86909076).
 
-  * Founded the field of AI safety, and incubated it from nothing up to the point where Geoffrey Hinton, Yoshua Bengio, Demis Hassabis, Sam Altman, Bill Gates, and hundreds of others [have endorsed it](https://www.safe.ai/statement-on-ai-risk) and urged policymakers to take it seriously.[11](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-11-86909076)
+  * Founded the field of AI safety, and incubated it from nothing up to the point where Geoffrey Hinton, Yoshua Bengio, Demis Hassabis, Sam Altman, Bill Gates, and hundreds of others [have endorsed it](https://www.safe.ai/statement-on-ai-risk) and urged policymakers to take it seriously.[11](/p/in-continued-defense-of-effective#footnote-11-86909076)
 
   * Helped convince OpenAI to dedicate 20% of company resources [to a team](https://openai.com/blog/introducing-superalignment) working on aligning future superintelligences.
 
@@ -84,9 +84,9 @@ And I do think the movement is worth fighting for. Here’s a short, very incomp
 
 ![Sam Altman tweet praising Eliezer Yudkowsky](https://substackcdn.com/image/fetch/w_520,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a810ce3-1e5d-4522-bf79-0f3983edd45d_586x418.png)I don't exactly endorse this Tweet, but it is . . . a thing . . . someone has said.
 
-  * Got two seats on the board of OpenAI, held majority control of OpenAI for one wild weekend, and still apparently might have some seats on the board of OpenAI, somehow?[12](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-12-86909076)
+  * Got two seats on the board of OpenAI, held majority control of OpenAI for one wild weekend, and still apparently might have some seats on the board of OpenAI, somehow?[12](/p/in-continued-defense-of-effective#footnote-12-86909076)
 
-  * Helped found, and continue to have majority control of, competing AI startup [Anthropic](https://www.nytimes.com/2023/07/11/technology/anthropic-ai-claude-chatbot.html), a $30 billion company widely considered the only group with technology comparable to OpenAI’s.[13](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-13-86909076)  
+  * Helped found, and continue to have majority control of, competing AI startup [Anthropic](https://www.nytimes.com/2023/07/11/technology/anthropic-ai-claude-chatbot.html), a $30 billion company widely considered the only group with technology comparable to OpenAI’s.[13](/p/in-continued-defense-of-effective#footnote-13-86909076)
 
 
 
@@ -107,17 +107,17 @@ And I do think the movement is worth fighting for. Here’s a short, very incomp
 
  _ **Other:**_
 
-  * Helped organize the [SecureDNA](https://securedna.org/) consortium, which helps DNA synthesis companies figure out what their customers are requesting and avoid accidentally selling bioweapons to terrorists[14](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-14-86909076).
+  * Helped organize the [SecureDNA](https://securedna.org/) consortium, which helps DNA synthesis companies figure out what their customers are requesting and avoid accidentally selling bioweapons to terrorists[14](/p/in-continued-defense-of-effective#footnote-14-86909076).
 
-  * Provided a significant fraction of all funding for DC groups trying to lower the risk of nuclear war.[15](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-15-86909076)
+  * Provided a significant fraction of all funding for DC groups trying to lower the risk of nuclear war.[15](/p/in-continued-defense-of-effective#footnote-15-86909076)
 
-  * Donated [a few hundred kidneys](https://www.theonion.com/anonymous-philanthropist-donates-200-human-kidneys-to-h-1819594700).[16](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-16-86909076)
+  * Donated [a few hundred kidneys](https://www.theonion.com/anonymous-philanthropist-donates-200-human-kidneys-to-h-1819594700).[16](/p/in-continued-defense-of-effective#footnote-16-86909076)
 
   * Sparked a renaissance in forecasting, including major roles in creating, funding, and/or staffing [Metaculus](https://www.metaculus.com/home/), [Manifold Markets](https://manifold.markets/home), and the [Forecasting Research Institute](https://forecastingresearch.org/).
 
   * [Donated ](https://www.openphilanthropy.org/grants/johns-hopkins-center-for-health-security-biosecurity-global-health-security-and-global-catastrophic-risks-2017/)tens of millions of dollars to pandemic preparedness causes years before COVID, and [positively influenced some countries’ COVID policies](https://twitter.com/Dominic2306/status/1373333437319372804).
 
-  * Played a big part in creating the YIMBY movement - I’m as surprised by this one as you are, but see footnote for evidence[17](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-17-86909076).
+  * Played a big part in creating the YIMBY movement - I’m as surprised by this one as you are, but see footnote for evidence[17](/p/in-continued-defense-of-effective#footnote-17-86909076).
 
 
 
@@ -141,7 +141,7 @@ Okay. Fine. EA hasn’t, technically, done any of these things.
 
 But it _has_ saved the same number of lives that doing all those things would have.
 
-About 20,000 Americans die yearly of gun violence, 8,000 of melanoma, 13,000 from AIDS, and 3,000 people in 9/11. So doing all of these things would save 44,000 lives per year. That matches the ~50,000 lives that effective altruist charities save yearly[18](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-18-86909076).
+About 20,000 Americans die yearly of gun violence, 8,000 of melanoma, 13,000 from AIDS, and 3,000 people in 9/11. So doing all of these things would save 44,000 lives per year. That matches the ~50,000 lives that effective altruist charities save yearly[18](/p/in-continued-defense-of-effective#footnote-18-86909076).
 
 People aren’t acting like EA has ended gun violence and cured AIDS and so on. all those things. Probably this is because those are exciting popular causes in the news, and saving people in developing countries isn’t. Most people care so little about saving lives in developing countries that effective altruists can save 200,000 of them and people will just _not notice_. “Oh, all your movement ever does is cause corporate boardroom drama, and maybe other things I’m forgetting right now.”
 
@@ -175,74 +175,74 @@ So my recommendation is that you look carefully into the research on what causes
 
 And whatever you do, do it quick, before the metronome swings back and all of this becomes popular again.
 
-[1](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-1-86909076)
+[1](/p/in-continued-defense-of-effective#footnote-anchor-1-86909076)
 
 Source: AMF says 185,000 deaths prevented [here](https://forum.effectivealtruism.org/posts/fkft56o8Md2HmjSP7/amf-reflecting-on-2023-and-looking-ahead-to-2024); GiveWell’s [evaluation](https://www.givewell.org/charities/amf) makes this number sound credible. AMF [reports](https://www.againstmalaria.com/financialinformation.aspx) revenue of $100M/year and GiveWell [reports](https://files.givewell.org/files/metrics/GiveWell_Metrics_Report_2021.pdf) giving them about $90M/year, so I think GiveWell is most of their funding and it makes sense to think of them as primarily an EA project. GiveWell [estimates](https://forum.effectivealtruism.org/topics/malaria-consortium) that Malaria Consortium can prevent one death for $5,000, and EA [has donated](https://forum.effectivealtruism.org/topics/malaria-consortium) $100M/year for (AFAICT) several years, so 20,000 lives/year times some number of years. I have rounded these two sources combined off to 200,000. As a sanity check, malaria death toll declined from about 1,000,000 to 600,000 between 2000 and 2015 mostly because of bednet programs like these, meaning EA-funded donations in their biggest year were responsible for about 10% of the yearly decline. This doesn’t seem crazy to me given the scale of EA funding compared against all malaria funding.
 
-[2](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-2-86909076)
+[2](/p/in-continued-defense-of-effective#footnote-anchor-2-86909076)
 
 Source: [this page](https://forum.effectivealtruism.org/topics/sci-foundation) says about $1 to deworm a child. There are about $50 million worth of grants recorded [here](https://www.openphilanthropy.org/grants/?q=schistosomiasis&sort=high-to-low#categories), and I’m arbitrarily subtracting half for overhead. As a sanity check, Unlimit Health, a major charity in this field, [says it dewormed](https://unlimithealth.org/about/our-impact/) 39 million people last year (though not necessarily all with EA funding). I think the number I gave above is probably an underestimate. The exact effects of deworming are controversial, see [this link](https://www.vox.com/2015/7/24/9031909/worm-wars-explained) for more. Most of the money above went to deworming for schistosomiasis, which might work differently than other parasites. See GiveWell’s analysis [here](https://www.givewell.org/charities/sci-foundation/November-2021-version).
 
-[3](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-3-86909076)
+[3](/p/in-continued-defense-of-effective#footnote-anchor-3-86909076)
 
 Source: [this page](https://blog.givewell.org/2022/10/14/answering-questions-about-water-quality-programs/). See “Evidence Action says Dispensers for Safe Water is currently reaching four million people in Kenya, Malawi, and Uganda, and this grant will allow them to expand that to 9.5 million.” Cf [the charity’s website](https://www.evidenceaction.org/programs/safe-water-now), which says it costs $1.50 per person/year. GiveWell’s grant is for $64 million, which would check out if the dispensers were expected to last ~10 years.
 
-[4](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-4-86909076)
+[4](/p/in-continued-defense-of-effective#footnote-anchor-4-86909076)
 
 RTS,S sources [here](https://www.givewell.org/research/grants/PATH-malaria-vaccines-January-2022) and [here](https://blog.givewell.org/2023/05/12/why-givewell-funded-malaria-vaccine-rollout/); R21 source [here](https://www.openphilanthropy.org/grants/institut-de-recherche-en-sciences-de-la-sante-malaria-vaccine-clinical-trial-halidou-tinto/); given [this page](https://en.wikipedia.org/wiki/Halidou_Tinto) I think it is about R21.
 
-[5](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-5-86909076)
+[5](/p/in-continued-defense-of-effective#footnote-anchor-5-86909076)
 
 See [here](https://www.openphilanthropy.org/grants/?q=vaccine). I have no idea whether any of this research did, or will ever, pay off.
 
-[6](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-6-86909076)
+[6](/p/in-continued-defense-of-effective#footnote-anchor-6-86909076)
 
 Ethiopia source [here ](https://www.openphilanthropy.org/grants/innovations-for-poverty-action-ethiopian-office/)and [here](https://www.openphilanthropy.org/grants/new-york-university-ethiopia-urban-expansion-initiative-follow-up/), India source [here](https://www.openphilanthropy.org/grants/peterson-institute-for-international-economics-indian-economic-policy-reform/), Rwanda source [here](https://www.growth-teams.org/who-we-are).
 
-[7](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-7-86909076)
+[7](/p/in-continued-defense-of-effective#footnote-anchor-7-86909076)
 
 Estimate for number of chickens [here](https://rethinkpriorities.org/publications/corporate-campaigns-affect-9-to-120-years-of-chicken-life-per-dollar-spent). Their numbers add up to 800 million but I am giving EA half-credit because not all organizations involved were EA-affiliated. I’m counting groups like Humane League, Compassion In World Farming, Mercy For Animals, etc as broadly EA-affiliated, and I think it’s generally agreed they’ve been the leaders in these sorts of campaigns. 
 
-[8](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-8-86909076)
+[8](/p/in-continued-defense-of-effective#footnote-anchor-8-86909076)
 
 Discussion [here](https://www.openphilanthropy.org/research/a-big-supreme-court-win-for-farm-animals/). That link says 700,000 pigs; [this one](https://www.thepigsite.com/news/2023/05/prop-12) says 300,000 - 500,000; I have compromised at 500,000. Open Phil [was the biggest single donor ](https://ballotpedia.org/California_Proposition_12,_Farm_Animal_Confinement_Initiative_\(2018\))to Prop 12. 
 
-[9](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-9-86909076)
+[9](/p/in-continued-defense-of-effective#footnote-anchor-9-86909076)
 
 [The original RLHF paper](https://arxiv.org/abs/1706.03741) was written by OpenAI’s safety team. At least two of the six authors, including lead author Paul Christiano, are self-identified effective altruists (maybe more, I’m not sure), and the original human feedbackers were random volunteers Paul got from the rationalist and effective altruist communities.
 
-[10](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-10-86909076)
+[10](/p/in-continued-defense-of-effective#footnote-anchor-10-86909076)
 
 I recognize at least eight of the authors of the RLAIF paper as EAs, and four members of the interpretability team, including team lead Chris Olah. Overall I think Anthropic’s safety team is pretty EA focused.
 
-[11](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-11-86909076)
+[11](/p/in-continued-defense-of-effective#footnote-anchor-11-86909076)
 
 See <https://www.safe.ai/statement-on-ai-risk>
 
-[12](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-12-86909076)
+[12](/p/in-continued-defense-of-effective#footnote-anchor-12-86909076)
 
 Open Philanthropy Project originally got one seat on the OpenAI board by supporting them when they were still a nonprofit; that later went to Helen Toner. I’m not sure how Tasha McCauley got her seat. Currently the provisional board is Bret Taylor, Adam D’Angelo, and Larry Summers. Summers says he “believe[s] in effective altruism” but doesn’t seem AI-risk-pilled. Adam D’Angelo has never explicitly identified with EA or the AI risk movement but seems to have sided with the EAs in the recent fight so I’m not sure how to count him.
 
-[13](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-13-86909076)
+[13](/p/in-continued-defense-of-effective#footnote-anchor-13-86909076)
 
 The founders of Anthropic included several EAs (I can’t tell if CEO Dario Amodei is an EA or not). The original investors included Dustin Moskowitz, Sam Bankman-Fried, Jaan Tallinn, and various EA organizations. Its Wikipedia article says that “Journalists often connect Anthropic with the effective altruism movement”. Anthropic is controlled by a [board of trustees](https://www.anthropic.com/index/the-long-term-benefit-trust), most of whose members are effective altruists.
 
-[14](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-14-86909076)
+[14](/p/in-continued-defense-of-effective#footnote-anchor-14-86909076)
 
 See [here](https://securedna.org/features/), Open Philanthropy is first-listed funder. Leader Kevin Esvelt has spoken at [EA Global conferences](https://www.effectivealtruism.org/articles/kevin-esvelt-mitigating-catastrophic-biorisks) and on [80,000 Hours](https://80000hours.org/podcast/episodes/kevin-esvelt-stealth-wildfire-pandemics/)
 
-[15](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-15-86909076)
+[15](/p/in-continued-defense-of-effective#footnote-anchor-15-86909076)
 
 Total private funding for nuclear strategy [is $40 million](https://www.vox.com/2022/3/17/22976981/nuclear-war-russia-ukraine-funding-macarthur-existential-risk-effective-altruism-carnegie). Longview Philanthropy has a [nuclear policy fund](https://www.longview.org/fund/nuclear-weapons-policy-fund/) with two managers, which suggests they must be doing enough granting to justify their salaries, probably something in the seven digits. Council on Strategic Risks [says](https://councilonstrategicrisks.org/2022/03/17/csr-receives-major-grant-to-address-the-rising-risks-of-nuclear-conflict/) Longview gave them a $1.6 million grant, which backs up “somewhere in the seven digits”. Seven digits would mean somewhere between 2.5% and 25% of all nuclear policy funding.
 
-[16](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-16-86909076)
+[16](/p/in-continued-defense-of-effective#footnote-anchor-16-86909076)
 
 I admit this one is a wild guess. I know about 5 EAs who have donated a kidney, but I don’t know anywhere close to all EAs. Dylan Matthews says his article inspired between a dozen and a few dozen donations. The staff at the hospital where I donated my kidney seemed well aware of EA and not surprised to hear it was among my reasons for donating, which suggests they get EA donors regularly. There were about 400 nondirected kidney donations in the US per year [in 2019](https://www.sciencedirect.com/science/article/pii/S2468024922012311), but that number is growing rapidly. Since EA was founded in the early 2010s, there have probably been a total of ~5000. I think it’s reasonable to guess EAs have been between 5 - 10% of those, leading to my estimate of hundreds. 
 
-[17](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-17-86909076)
+[17](/p/in-continued-defense-of-effective#footnote-anchor-17-86909076)
 
 [Open Philanthropy’s Wikipedia page](https://en.wikipedia.org/wiki/Open_Philanthropy) says it was “the first institutional funder for the YIMBY movement”. The Inside Philanthropy website [says](https://www.insidephilanthropy.com/home/2022/7/21/what-is-yimbyism-and-why-arent-more-funders-paying-attention) that “on the national level, Open Philanthropy is one of the few major grantmakers that has offered the YIMBY movement full-throated support.” Open Phil started giving money to YIMBY causes in 2015, and has donated about $5 million, a significant fraction of its total funding.
 
-[18](https://www.astralcodexten.com/p/in-continued-defense-of-effective#footnote-anchor-18-86909076)
+[18](/p/in-continued-defense-of-effective#footnote-anchor-18-86909076)
 
 Above I say about 200,000 lives total, but that’s heavily skewed towards recently since the movement has been growing. I got the 50,000 lives number by GiveWell’s total money moved for last year divided by cost-effectiveness, but I think it matches well with the 200,000 number above.

@@ -5,7 +5,7 @@ date: 2023-05-01
 likes: 159
 original-url: https://www.astralcodexten.com/p/change-my-mind-density-increases
 ---
-_**[UPDATE:** I now think this post is an oversimplification, and that this effect is either inconsistent or at least takes long enough that we can ignore it for most practical purposes. See[ Highlights From The Comments On Housing Density And Prices](https://www.astralcodexten.com/p/highlights-from-the-comments-on-housing) for more, and also item #2 [here](https://www.astralcodexten.com/p/open-thread-276).]_
+_**[UPDATE:** I now think this post is an oversimplification, and that this effect is either inconsistent or at least takes long enough that we can ignore it for most practical purposes. See[ Highlights From The Comments On Housing Density And Prices](/p/highlights-from-the-comments-on-housing) for more, and also item #2 [here](/p/open-thread-276).]_
 
 …
 
@@ -33,7 +33,7 @@ For example, if my home city of Oakland (population 500,000) became ten times de
 
 But doesn’t induced demand violate the economic law of supply and demand? Or doesn’t it (as Yglesias argues) [allow an economic perpetual motion machine](https://www.slowboring.com/p/what-follows-from-the-idea-that-new), where you just keep building houses and generate infinity money as the price of each keeps going up?
 
-No; I think the missing insight is that there’s some pool of geographically mobile Americans[1](https://www.astralcodexten.com/p/change-my-mind-density-increases#footnote-1-106183108) who are looking for new housing (or who might start looking if the right situation presented itself). These people have various combinations of preferences and requirements. One common pattern is to prefer any big city - they would be happy to live in Seattle, _or_ NYC, _or_ the Bay, if the opportunity came up. Right now, more Americans prefer to live in big cities than there are housing units in big cities, so prices go up and these people can’t afford their dream. As new cities become “big” (by these people’s criteria), they’ll move to those cities, increasing demand. The fact that big cities remain more expensive than small villages suggests that there are many of these people and they’re currently under-served.
+No; I think the missing insight is that there’s some pool of geographically mobile Americans[1](/p/change-my-mind-density-increases#footnote-1-106183108) who are looking for new housing (or who might start looking if the right situation presented itself). These people have various combinations of preferences and requirements. One common pattern is to prefer any big city - they would be happy to live in Seattle, _or_ NYC, _or_ the Bay, if the opportunity came up. Right now, more Americans prefer to live in big cities than there are housing units in big cities, so prices go up and these people can’t afford their dream. As new cities become “big” (by these people’s criteria), they’ll move to those cities, increasing demand. The fact that big cities remain more expensive than small villages suggests that there are many of these people and they’re currently under-served.
 
 So if Oakland became bigger, it would become a more appealing destination for these people at some rate (making it more expensive) and get more supply at some rate (making it less expensive). Since existing big dense cities are all very expensive, most likely in current conditions the first effect would win out, and Oakland would become more expensive. But it can’t do this forever - at some point, it will exhaust the pool of Americans who want to move to big cities (you’ll know this has happened when housing prices are no higher in big cities than anywhere else). So there’s not perpetual motion - just the ability to keep making money as long as there’s pent-up demand, like in every other part of the economy.
 
@@ -45,6 +45,6 @@ This is a coordination problem: if every city upzones together, they can all get
 
 Tell me why I’m wrong!
 
-[1](https://www.astralcodexten.com/p/change-my-mind-density-increases#footnote-anchor-1-106183108)
+[1](/p/change-my-mind-density-increases#footnote-anchor-1-106183108)
 
 I’m limiting this to America because it’s approximately a self-contained housing market; I don’t think there are enough immigrants to really affect things. Thinking at a country level does make a difference - for example, I worry someone will bring up Tokyo as a counterexample. But I think Tokyo managed to build its way to low housing prices in the context of the rest of Japan also having good housing policy. Even if that isn’t true, Tokyo on its own is a quarter of the Japanese market, so it might be able to exhaust the entire pool of Japanese house-seekers by itself!

@@ -13,11 +13,11 @@ Here’s an argument against: not many people still argue that lab leaks are imp
 
 A good Bayesian should start out believing there’s some medium chance of a lab leak pandemic per decade. Then, if COVID was/wasn’t a lab leak, they should make the appropriate small update based on one extra data point. It probably won’t change very much!
 
-I did fake Bayesian math with some plausible numbers, and found that if I started out believing there was a 20% per decade chance of a lab leak pandemic, then if COVID was proven to be a lab leak, I should update to 27.5%, and if COVID was proven not to be a lab leak, I should stay around 19-20%[1](https://www.astralcodexten.com/p/against-learning-from-dramatic-events#footnote-1-140135906).
+I did fake Bayesian math with some plausible numbers, and found that if I started out believing there was a 20% per decade chance of a lab leak pandemic, then if COVID was proven to be a lab leak, I should update to 27.5%, and if COVID was proven not to be a lab leak, I should stay around 19-20%[1](/p/against-learning-from-dramatic-events#footnote-1-140135906).
 
 But if you would freak out and ban dangerous virology research at a 27.5%-per-decade chance of it causing a pandemic per decade, you should probably still freak out at a 19-20%-per-decade chance. So it doesn’t matter very much whether COVID was a lab leak or not.
 
-I don’t entirely accept this argument - I think whether or not it was a lab leak matters in order to convince stupid people, who don’t know how to use probabilities and don’t believe anything can go wrong until it’s gone wrong before. But in a world without stupid people, no, it wouldn’t matter. Or it would matter only a tiny amount. You’d start with some prior about how likely lab leaks were - maybe 20% of pandemics - and then make the appropriate tiny update for having one extra data point[2](https://www.astralcodexten.com/p/against-learning-from-dramatic-events#footnote-2-140135906).
+I don’t entirely accept this argument - I think whether or not it was a lab leak matters in order to convince stupid people, who don’t know how to use probabilities and don’t believe anything can go wrong until it’s gone wrong before. But in a world without stupid people, no, it wouldn’t matter. Or it would matter only a tiny amount. You’d start with some prior about how likely lab leaks were - maybe 20% of pandemics - and then make the appropriate tiny update for having one extra data point[2](/p/against-learning-from-dramatic-events#footnote-2-140135906).
 
  **II.**
 
@@ -31,9 +31,9 @@ I think it would have been possible to have gotten this right. Before 9-11, we m
 
 Then,when 9-11 happened, we should have shrugged, said “Yup, there’s the once-per-fifty-years enormous attack, right on schedule”, and continued the same amount of counter-terrorism funding as always. 
 
-(The diametric opposite of this is anyone who uses the phrase “science fiction”. As in “There’s never been an enormous terrorist attack before, so that’s just science fiction; there’s [no evidence](https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag) that this will ever happen and we should stick to worrying about real problems.” Come on! You know that weapons exist that can kill thousands of people at once, you know that it’s physically possible for terrorists to obtain them, so you should assume that this will happen at some specific frequency. Then you should try to predict that frequency. Once you have a prediction, you should take the appropriate security measures. And if those fail and an enormous attack happens, then instead of freaking out and deciding that science fiction is true and your worldview has been thrown into disarray, you should just do a sanity check to confirm your frequency calculations and move on.)
+(The diametric opposite of this is anyone who uses the phrase “science fiction”. As in “There’s never been an enormous terrorist attack before, so that’s just science fiction; there’s [no evidence](/p/the-phrase-no-evidence-is-a-red-flag) that this will ever happen and we should stick to worrying about real problems.” Come on! You know that weapons exist that can kill thousands of people at once, you know that it’s physically possible for terrorists to obtain them, so you should assume that this will happen at some specific frequency. Then you should try to predict that frequency. Once you have a prediction, you should take the appropriate security measures. And if those fail and an enormous attack happens, then instead of freaking out and deciding that science fiction is true and your worldview has been thrown into disarray, you should just do a sanity check to confirm your frequency calculations and move on.)
 
-This is part of why [I think we should be much more worried about a nuclear attack by terrorists](https://slatestarcodex.com/2016/08/31/terrorists-vs-chairs-an-outlier-story/). My distribution for terrorist attacks includes a term for a successful nuclear detonation once every century or two. I would like to believe that if terrorists nuked a major city tomorrow, I wouldn’t update any of my beliefs. I would say “Yeah, we always knew that could happen. Yeah, we should have prepared X amount, to balance the costs of preparation against the risks of this happening. I still think X amount is a good amount to prepare. Let’s do the same thing I would have recommended back in 2024 before any of this happened.”[3](https://www.astralcodexten.com/p/against-learning-from-dramatic-events#footnote-3-140135906)
+This is part of why [I think we should be much more worried about a nuclear attack by terrorists](https://slatestarcodex.com/2016/08/31/terrorists-vs-chairs-an-outlier-story/). My distribution for terrorist attacks includes a term for a successful nuclear detonation once every century or two. I would like to believe that if terrorists nuked a major city tomorrow, I wouldn’t update any of my beliefs. I would say “Yeah, we always knew that could happen. Yeah, we should have prepared X amount, to balance the costs of preparation against the risks of this happening. I still think X amount is a good amount to prepare. Let’s do the same thing I would have recommended back in 2024 before any of this happened.”[3](/p/against-learning-from-dramatic-events#footnote-3-140135906)
 
  **III.**
 
@@ -136,7 +136,7 @@ Harvey Weinstein abusing people in Hollywood didn’t cause / shouldn’t have c
 
 You can think of this as [a common knowledge problem](https://scottaaronson.blog/?p=2410). Everyone knew that there were sexual abusers in Hollywood. Maybe everyone even knew that everyone knew this. But everyone didn’t know that everyone knew that everyone knew […] that everyone knew, until the Weinstein allegations made it common knowledge.
 
-Or you can think of it as producing a [hyperstitional cascade](https://www.astralcodexten.com/p/give-up-seventy-percent-of-the-way). A campaign against sexual abuse will only work if people believe that it will. That is, people will only want to join an anti-sexual-abuse campaign if they’ll be on the winning side - both because they don’t want to waste their time, and because they don’t want sexual abusers to retaliate against them. And their campaign will only win if many people support it. Most of the time, no individual anti-abuse crusader is sure enough of winning to start a campaign and get momentum behind it. But the Weinstein allegations produced a mood where everyone felt like “it was time” for an anti-sexual-assault campaign, so everyone believed such a campaign would work, so everyone was willing to support it, so it did work.
+Or you can think of it as producing a [hyperstitional cascade](/p/give-up-seventy-percent-of-the-way). A campaign against sexual abuse will only work if people believe that it will. That is, people will only want to join an anti-sexual-abuse campaign if they’ll be on the winning side - both because they don’t want to waste their time, and because they don’t want sexual abusers to retaliate against them. And their campaign will only win if many people support it. Most of the time, no individual anti-abuse crusader is sure enough of winning to start a campaign and get momentum behind it. But the Weinstein allegations produced a mood where everyone felt like “it was time” for an anti-sexual-assault campaign, so everyone believed such a campaign would work, so everyone was willing to support it, so it did work.
 
 I think same mechanism is true of terrorist attacks, mass shootings by the outgroup, and lab leak pandemics. There are people who are against all of these things. But they have trouble coordinating. Also, they would benefit from the support of the “stupid people” demographic, and stupid people only remember that something is possible for a space of a few days immediately after it happens, otherwise it’s “science fiction”. So crusaders build on the sudden uptick of stupid-person-support to bootstrap a movement and a “moment” and shift to a new equilibrium in which they’re [coordinated ](https://slatestarcodex.com/2018/06/19/contra-caplan-on-arbitrary-deploring/)and [respectable](https://slatestarcodex.com/2019/02/04/respectability-cascades/) and their opponents aren’t. And sometimes this blossoms into some giant coordinated push like #MeToo or the Global War On Terror.
 
@@ -144,7 +144,7 @@ All of this is true, and if you’re an activist you should take advantage of it
 
 Dramatic events are a good time to agitate for a coalition, but this is a necessary evil. In a perfect world, people would predict distributions beforehand, update a few percent on a dramatic event, but otherwise continue pursuing the policy they had agreed upon long before. 
 
-[1](https://www.astralcodexten.com/p/against-learning-from-dramatic-events#footnote-anchor-1-140135906)
+[1](/p/against-learning-from-dramatic-events#footnote-anchor-1-140135906)
 
 Assume that before COVID, you were considering two theories:
 
@@ -161,7 +161,7 @@ If your first decade of observations doesn’t include a lab-leak-caused pandemi
 
 So this hypothetical Bayesian, if they learned that COVID was a lab leak, should have 27.5% probability of another lab leak pandemic next decade. But if they learn COVID wasn’t a lab leak, they should have 20% probability.
 
-[2](https://www.astralcodexten.com/p/against-learning-from-dramatic-events#footnote-anchor-2-140135906)
+[2](/p/against-learning-from-dramatic-events#footnote-anchor-2-140135906)
 
 You should actually update even less than this, because if you originally thought a lab leak was very unlikely, you should assume COVID wasn’t a lab leak.
 
@@ -169,8 +169,8 @@ It should take a lot of evidence to make you think a very unlikely thing had hap
 
 Suppose you previously thought lab leaks were just as unlikely as UFOs. There’s some evidence COVID was a lab leak, but it’s not overwhelming. So you should mostly discount it until more evidence comes in, and only update a tiny amount.
 
-This strategy is mathematically correct, but obviously dangerous and prone to misfire - see [here ](https://slatestarcodex.com/2020/02/12/confirmation-bias-as-misfire-of-normal-bayesian-reasoning/)and [here](https://www.astralcodexten.com/p/trapped-priors-as-a-basic-problem) for more.
+This strategy is mathematically correct, but obviously dangerous and prone to misfire - see [here ](https://slatestarcodex.com/2020/02/12/confirmation-bias-as-misfire-of-normal-bayesian-reasoning/)and [here](/p/trapped-priors-as-a-basic-problem) for more.
 
-[3](https://www.astralcodexten.com/p/against-learning-from-dramatic-events#footnote-anchor-3-140135906)
+[3](/p/against-learning-from-dramatic-events#footnote-anchor-3-140135906)
 
 Except insofar as the same group of terrorists are still around with their nuclear program, waiting to strike again.

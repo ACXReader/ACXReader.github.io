@@ -44,15 +44,15 @@ I searched for articles called things like The Top Crypto Projects Of 20XX, and 
 
 
 
-…which between them described 54 different crypto projects[1](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-1-85488768). Looking back at these from our position in late 2022, as best I can tell zero of them have been revealed to be outright rug-pull-style scams. A few fizzled out for lack of interest, like any business can. Two of the ten stablecoins lost their pegs, going to 70 - 80 cents instead of the expected $1[2](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-2-85488768). One exchange got in trouble for money laundering, although this didn’t negatively affect users. But overall this doesn’t seem worse than any other industry.
+…which between them described 54 different crypto projects[1](/p/why-im-less-than-infinitely-hostile#footnote-1-85488768). Looking back at these from our position in late 2022, as best I can tell zero of them have been revealed to be outright rug-pull-style scams. A few fizzled out for lack of interest, like any business can. Two of the ten stablecoins lost their pegs, going to 70 - 80 cents instead of the expected $1[2](/p/why-im-less-than-infinitely-hostile#footnote-2-85488768). One exchange got in trouble for money laundering, although this didn’t negatively affect users. But overall this doesn’t seem worse than any other industry.
 
-If you split $1000 and invested it equally in all the top crypto projects of 2015, you would now have $25,400. If you invested it in the biggest cryptocurrencies by market cap of 2020, you would have $2,700. Stablecoins aren’t really an investment, but if you put it in the top stablecoins of 2020 anyway, you would have $964.30. Exchanges definitely aren’t an investment, but if you put your $1000 in the best crypto exchanges of 2020, I think it would all still be there (FTX wasn’t on the list; maybe it’s too new).[3](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-3-85488768)
+If you split $1000 and invested it equally in all the top crypto projects of 2015, you would now have $25,400. If you invested it in the biggest cryptocurrencies by market cap of 2020, you would have $2,700. Stablecoins aren’t really an investment, but if you put it in the top stablecoins of 2020 anyway, you would have $964.30. Exchanges definitely aren’t an investment, but if you put your $1000 in the best crypto exchanges of 2020, I think it would all still be there (FTX wasn’t on the list; maybe it’s too new).[3](/p/why-im-less-than-infinitely-hostile#footnote-3-85488768)
 
 So why do people think everything in crypto is a scam?
 
 Crypto is a few hundred interesting projects, plus a long tail of thousands of scams. If you’re a knowledgeable person using crypto for some legitimate reason, you’ll use some well-regarded crypto platform and probably not get scammed. If you live in a developed country with a good banking system, and you have no legitimate use cases, your engagement with cryptocurrency may be entirely through clicking on spam emails that say “MAKE 1000% MONTHLY RETURNS WITH MOONCOIN” and wiring them your life savings. In this case you will definitely get scammed. Depending on which of those two categories people are in, and which of those two categories the media covers, you can end up thinking crypto is 100% scams or 0% scams.
 
-This isn’t so different from other fields like education. There are 8 Ivy League schools in the US, [400](https://www.statista.com/statistics/239962/doctorate-granting-institutions-in-the-us/) high-quality research universities, and about [1,000](https://wenr.wes.org/2017/12/diploma-mills-9-strategies-for-tackling-one-of-higher-educations-most-wicked-problems) fraudulent diploma mills. Higher education is full of scams! If you’re a knowledgeable person following a normal educational track, you’ll probably be fine. If you click on spam emails that say “GET A PHD IN TWO WEEKS WITH THE UNIVERSITY OF PHEONIX” and wire them your life savings, you won’t be fine. I’m not blaming the scamees here - they’re usually poor people who lack the tacit knowledge that the upper class use to navigate the education system. But if you do have that tacit knowledge, and you stick to doing things the slow way without taking any too-good-to-be-true deals, you don't have to worry about scams that much. This is also how I feel about crypto[4](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-4-85488768).
+This isn’t so different from other fields like education. There are 8 Ivy League schools in the US, [400](https://www.statista.com/statistics/239962/doctorate-granting-institutions-in-the-us/) high-quality research universities, and about [1,000](https://wenr.wes.org/2017/12/diploma-mills-9-strategies-for-tackling-one-of-higher-educations-most-wicked-problems) fraudulent diploma mills. Higher education is full of scams! If you’re a knowledgeable person following a normal educational track, you’ll probably be fine. If you click on spam emails that say “GET A PHD IN TWO WEEKS WITH THE UNIVERSITY OF PHEONIX” and wire them your life savings, you won’t be fine. I’m not blaming the scamees here - they’re usually poor people who lack the tacit knowledge that the upper class use to navigate the education system. But if you do have that tacit knowledge, and you stick to doing things the slow way without taking any too-good-to-be-true deals, you don't have to worry about scams that much. This is also how I feel about crypto[4](/p/why-im-less-than-infinitely-hostile#footnote-4-85488768).
 
 ### Crypto Is Valuable Insurance Against Authoritarianism 
 
@@ -86,46 +86,46 @@ In the same way, everything about the crypto economy is worse than the regular e
 
 If nothing’s wrong with your country’s financial or political system, then you don’t need crypto. If you use crypto anyway, it will be worse than your regular financial system, because it’s trading off many things you need (efficiency, speed, safety, the good kinds of regulation) for something you don’t need (avoiding the bad kinds of regulation).
 
-Over the past ten years, crypto has advanced. In 2010, it was probably 100x worse than the regular financial system. Now it’s maybe only 10x worse. Might there come a day when it’s no worse at all, or even better? I don’t know. I wouldn’t hold my breath, and I don’t think the utility of crypto depends on it. But who knows? It could happen![5](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-5-85488768)
+Over the past ten years, crypto has advanced. In 2010, it was probably 100x worse than the regular financial system. Now it’s maybe only 10x worse. Might there come a day when it’s no worse at all, or even better? I don’t know. I wouldn’t hold my breath, and I don’t think the utility of crypto depends on it. But who knows? It could happen![5](/p/why-im-less-than-infinitely-hostile#footnote-5-85488768)
 
 ### You, Too, Can Be Less Than Infinitely Hostile To Crypto
 
 Crypto is an interesting technology that had one terrible piece of bad luck: its standard-bearer, Bitcoin, went up in value 10,000x over a few years.
 
-When something goes up in value 10,000x, it’s hard to think of it in any other context. Whatever it was before, now it’s “that thing which went up in value 10,000x”. And so both crypto believers and detractors have treated crypto primarily as a thing for going up in value[6](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-6-85488768). Believers are excited that it did go up that much, hope it might go up more, and fall for a thousand scams that promise continuing going-up. Detractors correctly point out that buying things only insofar as they go up in value makes them Ponzis, and mock crypto for not having gone up in value enough recently.
+When something goes up in value 10,000x, it’s hard to think of it in any other context. Whatever it was before, now it’s “that thing which went up in value 10,000x”. And so both crypto believers and detractors have treated crypto primarily as a thing for going up in value[6](/p/why-im-less-than-infinitely-hostile#footnote-6-85488768). Believers are excited that it did go up that much, hope it might go up more, and fall for a thousand scams that promise continuing going-up. Detractors correctly point out that buying things only insofar as they go up in value makes them Ponzis, and mock crypto for not having gone up in value enough recently.
 
-This post is emphatically not intended as a claim that crypto will go up more, or that it won’t go down a lot, or that there won’t be any more disasters or scams[7](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-7-85488768). It’s a claim that aside from its going-up ability, crypto is still a set of interesting technological solutions to regulatory problems. They’re already solving some problems, and maybe later they’ll solve more.
+This post is emphatically not intended as a claim that crypto will go up more, or that it won’t go down a lot, or that there won’t be any more disasters or scams[7](/p/why-im-less-than-infinitely-hostile#footnote-7-85488768). It’s a claim that aside from its going-up ability, crypto is still a set of interesting technological solutions to regulatory problems. They’re already solving some problems, and maybe later they’ll solve more.
 
 If you’re in a developed country, and you’re happy with your banking system, and you’re not a sex worker, and you have zero concerns about your country being taken over by fascists, you probably don’t need cryptocurrency and shouldn’t worry about it. If other people say they do need it, don’t call them liars and say you know with certainty that nobody has ever used crypto for anything besides Ponzi schemes and monkey pictures. Just let them use it!
 
 The saying goes: _a book is a mirror; if a monkey looks in, no apostle looks out_. Cryptocurrency is like this too. If people are looking in and only seeing the monkey gifs, that’s not crypto’s fault.
 
-[1](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-anchor-1-85488768)
+[1](/p/why-im-less-than-infinitely-hostile#footnote-anchor-1-85488768)
 
 Technically 57, but I excluded three non-dollar stablecoins to make comparing the stablecoins easier.
 
-[2](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-anchor-2-85488768)
+[2](/p/why-im-less-than-infinitely-hostile#footnote-anchor-2-85488768)
 
 One of the stablecoins counted as “not losing their pegs” here is Tether, which everyone including me suspects is at least kind of a scam. But somehow nothing has gone wrong _so far_ , so it’s not showing up as a scam in the statistics. Still, feel free to count it that way if you want, in which case the scam rate would go up to 1/54, and the expected stablecoin depeg rate would go to 3/10.
 
-[3](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-anchor-3-85488768)
+[3](/p/why-im-less-than-infinitely-hostile#footnote-anchor-3-85488768)
 
 I’m not focusing on investment returns in order to claim that crypto is a good investment (it was a good investment ten years ago, but you already knew that). I’m focusing on this because if most crypto projects were scams and Ponzis, you would expect people who invested in them to do poorly, whereas in fact the opposite is true. Some of this is that a few cryptos did very well (eg Ethereum) and drowned out the rest doing badly. But even in 2020 when Ethereum’s gains were mostly played out, on average you would have done fine.
 
-[4](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-anchor-4-85488768)
+[4](/p/why-im-less-than-infinitely-hostile#footnote-anchor-4-85488768)
 
 The one big exception was FTX - I think people _did_ think of it as one of the good ones, and would have included it in lists like these if it had been around a little earlier. But this is why I disagree with people who said it should have been “obvious” it was a scam - it was in a reference class where scams are actually very rare!
 
-[5](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-anchor-5-85488768)
+[5](/p/why-im-less-than-infinitely-hostile#footnote-anchor-5-85488768)
 
 I’m sort of eliding an awkward point here, which is that some of the reason crypto can make these technological advances is that people are pouring a lot of money into it. And although some of these people are interested in helping the Vietnamese get a trustworthy banking system, realistically a lot of them are interested in Number Go Up.
 
 That’s fine. If we ever reach the Glorious Interstellar Future, we’ll owe it to a space program funded mostly by dick-measuring contests between superpowers, dick-measuring contests between billionaires, and Congressional pork barrel spending. Many of the good things we have now were started were for stupid reasons. I live in a country founded by people who were angry about tea taxes, built on land discovered by people looking for a quicker way to get pepper. If crypto also does good things for bad reasons, then I accept the mild embarrassment that this might cause the Vietnamese as they enjoy their safe and convenient currency deposits.
 
-[6](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-anchor-6-85488768)
+[6](/p/why-im-less-than-infinitely-hostile#footnote-anchor-6-85488768)
 
 Conflict of interest notice / I am dumb alert: I do hold some cryptocurrency, mostly Ethereum, mostly because I received it a while ago as crypto, and want to wait until the end of the bear market before selling it.
 
-[7](https://www.astralcodexten.com/p/why-im-less-than-infinitely-hostile#footnote-anchor-7-85488768)
+[7](/p/why-im-less-than-infinitely-hostile#footnote-anchor-7-85488768)
 
 I assume there will be another giant crypto scam disaster, and thousands of people will yell at me “DIDN’T YOU SAY CRYPTO PROJECTS AREN’T SCAMS?! NOW THIS IS YOUR FAULT!!” No, I said that _most_ _well-regarded_ crypto projects aren’t scams. But if you wander into crypto with zero foreknowledge and pick some particular one advertising heavily to people like you, _that one_ will very likely be a scam, and certainly _some_ products will be scams. If you want a prediction that you can get mad at me if it fails, the prediction is that if you find a list of the best crypto projects of 2022 by someone focusing on something other than their ability to number-go-up, those ones mostly won’t be scams. If you want a concrete prediction: 90% chance that fewer than one third of the projects listed on this[ Best New Crypto Projects Of 2022 list](https://www.trality.com/blog/new-crypto-projects) are generally regarded as having been scams by 2030 (this doesn’t mean they won’t fail, or go down in value, or that you can never write a sentence accusing them of being bad in some way, just that they’re not going to rug-pull anyone or collapse in a way they claimed there was no chance they could do).

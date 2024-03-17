@@ -5,7 +5,7 @@ date: 2024-01-11
 likes: 98
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-capitalism
 ---
-_[original post:[Does Capitalism Beat Charity?](https://www.astralcodexten.com/p/does-capitalism-beat-charity)]_
+_[original post:[Does Capitalism Beat Charity?](/p/does-capitalism-beat-charity)]_
 
  **1:** Comments Where I Want To Reiterate That I’m In Near Mode  
  **2:** Comments Directly Arguing Against My Main Point, Thank You  
@@ -27,7 +27,7 @@ Real people in my real comments section have argued that you shouldn’t spend i
 
 If you’re holding a Moral Worth Tournament and want to argue that Capitalism wins because it creates the preconditions that make everything else possible, fine, that’s outside the scope of this post. “Which is better, Capitalism or a double cheeseburger?” Even granting that capitalism is better in the cosmic sense, and that capitalism is a precondition for abundant food, and that Capitalism beats cheeseburgers in the Moral Worth Tournament happening inside your head - I’m arguing that if you’re hungry right now you should go to Burger King, not the New York Stock Exchange.
 
- **Bob Frank (**[blog](https://robertfrank.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](https://www.astralcodexten.com/p/does-capitalism-beat-charity/comment/46561064):**
+ **Bob Frank (**[blog](https://robertfrank.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/does-capitalism-beat-charity/comment/46561064):**
 
 > The value of capitalism isn't the "second order effects" so much as the cascading-indefinitely effects. It's the "give a man to fish" vs. "teach a man to fish" principle. While I in no way wish to denigrate the value of saving lives with better water... once you do that, then what? You have people who are alive, and still in the same situation they were in before.
 > 
@@ -73,7 +73,7 @@ Velveteen protests that I haven’t proven this and don’t even have a model sh
 
 ## 3\. Comments Promoting Specific Interesting Capitalist Charities
 
- **Michael Strong[writes](https://www.astralcodexten.com/p/does-capitalism-beat-charity/comment/46564091):**
+ **Michael Strong[writes](/p/does-capitalism-beat-charity/comment/46564091):**
 
 > I was glad to see the [EA Intervention Report on Charter Cities](https://forum.effectivealtruism.org/posts/EpaSZWQkAy9apupoD/intervention-report-charter-cities) but it was limited by the fact that it was written by non-expert outsiders. [Mark Lutter's response](https://chartercitiesinstitute.org/blog-posts/charter-city-optimism-additional-thoughts-on-the-rethink-priorities-report/) is much better informed than was their write up.
 > 
@@ -115,7 +115,7 @@ One of the charities listed on the Forum post is one I have specific reason to t
 
 The four I named above all seem good to me, although I’m not an expert and haven’t spent too much time evaluating them.
 
- **Mark Roulo[writes](https://www.astralcodexten.com/p/does-capitalism-beat-charity/comment/46560492):**
+ **Mark Roulo[writes](/p/does-capitalism-beat-charity/comment/46560492):**
 
 >  _> "Do something like donating to charity, but the donation should go to charities that promote capitalism somehow, or be an investment in companies doing charitable things (impact investing)"_
 > 
@@ -125,7 +125,7 @@ Several people brought up [Grameen Bank](https://grameenbank.org.bd/) (Nobel win
 
 I also used to think this, but articles like <https://voxdev.org/topic/methods-measurement/understanding-average-effect-microcredit> have convinced me that most studies show this doesn’t work in real life. I find this a surprising and counterintuitive result, and it’s part of why I seem so paranoid here and am demanding so much evidence before supporting charities in this field.
 
- **Laure X Cast[writes](https://www.astralcodexten.com/p/does-capitalism-beat-charity/comment/46561047):**
+ **Laure X Cast[writes](/p/does-capitalism-beat-charity/comment/46561047):**
 
 > I don't know about supporting capitalist charities (and I don't think I feel quite as bullish on capitalism for various reasons) but I think a different strategy to consider is 'investing' in (or donating to) charities that also operate in the market economy. Nonprofits make up 6% or so of GDP and there are many interesting nonprofits that have sustainable revenue, allowing them to re-invest in more work 'for good.'
 
@@ -137,7 +137,7 @@ That is: why isn’t there a regular company, without a social mission, filling 
 
 I’m not saying a clever entrepreneur can’t thread this needle and make something that works here, this is just one reason I don’t think this solves the entire problem and obviously beats normal companies / normal charities.
 
- **Erusian[writes](https://www.astralcodexten.com/p/does-capitalism-beat-charity/comment/46561324):**
+ **Erusian[writes](/p/does-capitalism-beat-charity/comment/46561324):**
 
 > This fails to engage with the actual argument of the social enterprise movement. The argument is that there is an irrational aversion to profitable activity among people who seek to do social good. Largely, in my opinion, due to ideological anti-capitalism. It is not that maximizing returns is the best use of money at all times or that we need to go around preaching the gospel of capitalism.
 > 
@@ -155,7 +155,7 @@ Sorry I failed to engage with a completely different argument about something el
 
 I’m interested in hearing which of these things people think is best, and whether there’s any evidence supporting them.
 
- **Josh[writes](https://www.astralcodexten.com/p/does-capitalism-beat-charity/comment/46561924):**
+ **Josh[writes](/p/does-capitalism-beat-charity/comment/46561924):**
 
 > The charitable version of capitalism is GiveDirectly. It's just like buying things for yourself but the first person to spend the money is someone else.
 
@@ -167,7 +167,7 @@ I haven’t investigated these estimates and I don’t know what assumptions go 
 
 ## 4\. Other Interesting Comments
 
- **Michael Druggan (**[blog](https://michaeldruggan.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](https://www.astralcodexten.com/p/does-capitalism-beat-charity/comment/46561983):**
+ **Michael Druggan (**[blog](https://michaeldruggan.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/does-capitalism-beat-charity/comment/46561983):**
 
 > I think this argument is nonsensical because money donated to charity eventually ends up back in the capitalist economy anyway the difference is what gets consumed along the way. If I donate $1 million dollars to the charity that builds wells that charity will then spend that on things like the materials to build wells, the capacity to ship those materials to the locations they need them, paying the people who build the wells etc. all the supposed second order benefits you would get from the money being spent in the capitalist economy would still happen since its still getting spent.
 
@@ -175,11 +175,11 @@ I originally thought this was claiming a sort of infinite free money pump that c
 
 Suppose that eg the US government decided to give everyone free health care by taxing people and spending it on health care. It seems like this should have tradeoffs or hurt the economy somehow. But you could argue that the health care money just goes to doctors and nurses and so on, who would then spend it on normal economy stuff, so the non-health-care economy is just as big as always.
 
-But if I understand [Michael’s response](https://www.astralcodexten.com/p/does-capitalism-beat-charity/comment/46607262), he’s saying - the charity has to build the wells somehow, and that involves spending money on capitalist companies. Let’s say they hire Amalgamated Kenyan Wells. Then the money ends up in Amalgamated Kenyan Wells, presumably a profitable and successful company in the Third World, and this is no worse than donating to the company directly. So if your alternative was to give the money to a profitable and successful company in the Third World, the donation is better, because you do this _and_ you get some free wells out of it!
+But if I understand [Michael’s response](/p/does-capitalism-beat-charity/comment/46607262), he’s saying - the charity has to build the wells somehow, and that involves spending money on capitalist companies. Let’s say they hire Amalgamated Kenyan Wells. Then the money ends up in Amalgamated Kenyan Wells, presumably a profitable and successful company in the Third World, and this is no worse than donating to the company directly. So if your alternative was to give the money to a profitable and successful company in the Third World, the donation is better, because you do this _and_ you get some free wells out of it!
 
 Now I’m really not sure how to think about this. I think the answer is something like - the company has a certain profit margin (let’s say 10%), so you’re donating 10% of the money directly to Amalgamated Kenyan Wells, and the rest is going into the ground to become wells. So I agree that there’s _some_ aspect of supporting capitalism here - maybe even one that’s better than giving to the company directly because it forces the company to demonstrate usefulness - but I think you could still argue that investing directly in the company has more effect.
 
- **rmostag1[writes](https://www.astralcodexten.com/p/does-capitalism-beat-charity/comment/46561748):**
+ **rmostag1[writes](/p/does-capitalism-beat-charity/comment/46561748):**
 
 > Instacart's service isn't free after the $100 subscription - while you may no longer pay a per-order delivery fee, they continue to extract value through upcharging you on the cost of the groceries themselves (an item which costs $2 in-store costs $2.10 or $2.50 on Instacart), charging a percentage of the revenue to the retailer itself (so even if the price is equivalent in-store and on Instacart, Instacart charges a few percentage points of revenue to the retailer for the customer traffic), charging the retailer directly for providing services (most notably with smaller retailers, where Instacart may pick the products from the shelves, provide the back-end of the ecommerce platform, etc), or some combination of all of the above.
 > 

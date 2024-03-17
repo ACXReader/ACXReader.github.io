@@ -38,7 +38,7 @@ Here’s the results of a study on what percent of bisexual women have had only 
 
 [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9912f0d9-cde4-490e-9644-5b844cb506f9_919x577.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9912f0d9-cde4-490e-9644-5b844cb506f9_919x577.png)
 
-This probably requires some adjustments - more people under 30 are LGBT, so bisexuals have a bigger same-sex dating pool, But also, five years is shorter than a lifetime. Overall I think its numbers are pretty consistent with the story above.[1](https://www.astralcodexten.com/p/raise-your-threshold-for-accusing#footnote-1-118987051)
+This probably requires some adjustments - more people under 30 are LGBT, so bisexuals have a bigger same-sex dating pool, But also, five years is shorter than a lifetime. Overall I think its numbers are pretty consistent with the story above.[1](/p/raise-your-threshold-for-accusing#footnote-1-118987051)
 
  **II.**
 
@@ -46,7 +46,7 @@ Can we just check and see what percent of people are equally aroused by men vs. 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd70e31c-c477-4f00-ab59-d7bcc5660c79_718x433.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd70e31c-c477-4f00-ab59-d7bcc5660c79_718x433.png)([source](https://sci-hub.st/https://pubmed.ncbi.nlm.nih.gov/15482445/))
 
-I can’t directly find good numbers for what percent of men have a bisexual arousal pattern. [This study](https://www.pnas.org/doi/10.1073/pnas.2003631117) seems to cross-validate Kinsey scales and penile arousal, and on this poll with a Kinsey like question, about 8-10% of men have scores that would put them in the bisexual range (although there are more gays than other polls, so this might be an unusually LGBTQ sample). But the poll also shows very few women putting themselves in the bisexual range. I guess nobody ever claimed to have cross-validated Kinsey scales and genital arousal in women, so maybe this doesn’t cast doubt on the male result.[2](https://www.astralcodexten.com/p/raise-your-threshold-for-accusing#footnote-2-118987051)
+I can’t directly find good numbers for what percent of men have a bisexual arousal pattern. [This study](https://www.pnas.org/doi/10.1073/pnas.2003631117) seems to cross-validate Kinsey scales and penile arousal, and on this poll with a Kinsey like question, about 8-10% of men have scores that would put them in the bisexual range (although there are more gays than other polls, so this might be an unusually LGBTQ sample). But the poll also shows very few women putting themselves in the bisexual range. I guess nobody ever claimed to have cross-validated Kinsey scales and genital arousal in women, so maybe this doesn’t cast doubt on the male result.[2](/p/raise-your-threshold-for-accusing#footnote-2-118987051)
 
 The poll (from the USA in 2015) also asks more specific questions, which suggest that even though women are (were?) just less likely to describe themselves as straight, while being more interested in same-sex relationships:
 
@@ -68,7 +68,7 @@ So getting back to the original question: are more people identifying as bisexua
 
 Does this mean these people shouldn’t identify as bisexual? This is a [definitional-boundary-drawing question](https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/), not a factual one. But my definitional-boundary-drawing answer is that before identities were scrip that could be exchanged for trendiness points, they were signals that other people could use to decipher to determine how to interact with you. “Bisexual” meant “if you ask me out on a date, I might say yes, regardless of which sex you are”. If we imagine the person I mentioned above - a woman who would be happy to date other women, but none of them have ever asked her out - “bisexual” sends the right signal to her potential dating partners. 
 
-(I had an acquaintance who mostly dated women and described herself as a lesbian. Then a mutual friend told me that this acquaintance liked me, and that I had totally missed this, and I needed to ask her on a date. I was confused: wasn’t she a lesbian? My friend explained that the acquaintance was _mostly_ lesbian but a little bisexual and it hadn’t come up before. This distinction ended up being very important to me, and I don’t know who it serves to encourage people to hide it.)[3](https://www.astralcodexten.com/p/raise-your-threshold-for-accusing#footnote-3-118987051)
+(I had an acquaintance who mostly dated women and described herself as a lesbian. Then a mutual friend told me that this acquaintance liked me, and that I had totally missed this, and I needed to ask her on a date. I was confused: wasn’t she a lesbian? My friend explained that the acquaintance was _mostly_ lesbian but a little bisexual and it hadn’t come up before. This distinction ended up being very important to me, and I don’t know who it serves to encourage people to hide it.)[3](/p/raise-your-threshold-for-accusing#footnote-3-118987051)
 
 Finally, what does this mean for the original Long COVID question?
 
@@ -78,14 +78,14 @@ I don’t think this is quite right: Long COVID also correlates with pretty much
 
 This is wild conjecture - I’m only bringing it up because your wild conjectures in the comments were much worse.
 
-[1](https://www.astralcodexten.com/p/raise-your-threshold-for-accusing#footnote-anchor-1-118987051)
+[1](/p/raise-your-threshold-for-accusing#footnote-anchor-1-118987051)
 
 That is, things look about how they would look if most self-identified bisexuals were about equally attracted to men and women. I don’t know if this is literally true. I think it’s also possible that there are more people with 75% opposite-sex, 25% same sex attraction than vice versa (because most people are straight, and so there are more people who are approximately-straight-but-flexible than people who are approximately-gay-but-flexible), but that bisexuals sometimes actively seek out people from the same sex for novelty reasons, or because heterosexuality is the default and so it takes a higher level of homosexual than heterosexual attraction to even identify as bisexual. There are a lot of things that could be going on here. But the data _don’t rule out_ that bisexuals average 50-50.
 
-[2](https://www.astralcodexten.com/p/raise-your-threshold-for-accusing#footnote-anchor-2-118987051)
+[2](/p/raise-your-threshold-for-accusing#footnote-anchor-2-118987051)
 
 I can’t find a specific citation for it, but many of these studies seem to talk as if bisexual men are mostly gay but can kind of be attracted to women sometimes, and bisexual women are more mixed. I don’t know if this is an unfair stereotype or if somebody’s validated it somewhere. 
 
-[3](https://www.astralcodexten.com/p/raise-your-threshold-for-accusing#footnote-anchor-3-118987051)
+[3](/p/raise-your-threshold-for-accusing#footnote-anchor-3-118987051)
 
 Also, as a straight person, I want to protect the signaling value of the word “straight”. Right now I have a pretty good deal where I can self-describe as straight and guys won’t hit on me. If 5% of straight guys would say yes to being hit on by a man, men would hit on us much more often. So it’s in my self-interest for men who might like men to self-ID as bisexual, even if they like women more, or they rarely act on their same-sex attraction.

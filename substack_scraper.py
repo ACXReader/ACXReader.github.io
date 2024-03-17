@@ -185,6 +185,8 @@ class BaseSubstackScraper(ABC):
 
         content = str(soup.select_one("div.available-content"))
         md = self.html_to_md(content)
+        # redirect acx links to acxreader
+        md = md.replace("](https://www.astralcodexten.com/p/", "](/p/")
         md_content = self.combine_metadata_and_content(
             title, subtitle, date, like_count, url, md)
         return date, md_content
