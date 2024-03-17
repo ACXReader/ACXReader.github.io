@@ -1,0 +1,16 @@
+title: ACX Reader
+tagline: Because Substack is too damn slow
+description: Because Substack is too damn slow
+url: https://acxreader.github.io
+# logo: /assets/img/echo1.png
+# image: /assets/img/embed.png
+# twitter:
+#   card: summary_large_image
+# google_site_verification:
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /p/:title
+
+theme: minima
