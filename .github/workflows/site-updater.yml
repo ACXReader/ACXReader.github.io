@@ -1,0 +1,22 @@
+name: Check ACX for new posts and update site
+
+on:
+  # Runs on pushes targeting the default branch
+  schedule:
+    - cron: "10 * * * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run scraper
+        run: python substack_scraper.py --url https://www.astralcodexten.com
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5.0.0
+      - name: Redeploy site
+        uses: ./.github/workflows/jekyll-gh-pages.yml
