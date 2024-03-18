@@ -1,3 +1,8 @@
+---
+title: "About"
+layout: page
+---
+
 I am NOT affiliated with Scott Alexander!!!
 
 ## What is this?
