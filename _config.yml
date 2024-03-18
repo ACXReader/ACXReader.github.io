@@ -18,4 +18,4 @@ header_pages:
   - about.md
 
 feed:
-  disable_in_development: true
+  posts_limit: 0
