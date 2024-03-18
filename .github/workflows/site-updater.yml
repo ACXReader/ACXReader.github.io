@@ -33,7 +33,4 @@ jobs:
       contents: read
       pages: write
       id-token: write
-    runs-on: ubuntu-latest
-    steps:
-    - name: Redeploy site
-      uses: ./.github/workflows/jekyll-gh-pages.yml
+    uses: ./.github/workflows/jekyll-gh-pages.yml
