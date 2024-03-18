@@ -16,3 +16,6 @@ permalink: /p/:title
 theme: minima
 header_pages:
   - about.md
+
+feed:
+  disable_in_development: true
