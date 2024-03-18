@@ -27,5 +27,7 @@ jobs:
         run: python substack_scraper.py --url https://www.astralcodexten.com
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5.0.0
+      - name: Checkout again
+        uses: actions/checkout@v4
       - name: Redeploy site
         uses: ./.github/workflows/jekyll-gh-pages.yml
