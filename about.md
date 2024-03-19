@@ -4,10 +4,12 @@ layout: page
 ---
 
 I am NOT affiliated with Scott Alexander!!!
+<br />
+All posts on this site were written by Scott Alexander, I did not write them!!!
 
 ## What is this?
 
-A mobile-friendly, fast reader for Astral Codex Ten. I got tired of substack crashing on my laptop so I put all his posts on this site.
+A mobile-friendly, fast reader for [Astral Codex Ten](https://astralcodexten.com/). I got tired of substack crashing on my laptop so I put all his posts on this site.
 
 ## How does this work?
 

@@ -266,6 +266,7 @@ PLATFORMS
 DEPENDENCIES
   faraday-retry
   github-pages
+  jekyll-redirect-from
   minima
   webrick
 

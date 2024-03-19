@@ -10,12 +10,14 @@ url: https://acxreader.github.io
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 permalink: /p/:title
 
 theme: minima
 header_pages:
   - about.md
+  - acx.md
 
 feed:
   posts_limit: 0
