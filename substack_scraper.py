@@ -123,22 +123,6 @@ class BaseSubstackScraper(ABC):
             file.write(content)
 
     @staticmethod
-    def get_filename_from_url(url: str, filetype: str = ".md") -> str:
-        """
-        Gets the filename from the URL (the ending)
-        """
-        if not isinstance(url, str):
-            raise ValueError("url must be a string")
-
-        if not isinstance(filetype, str):
-            raise ValueError("filetype must be a string")
-
-        if not filetype.startswith("."):
-            filetype = f".{filetype}"
-
-        return url.split("/")[-1] + filetype
-
-    @staticmethod
     def combine_metadata_and_content(title: str, subtitle: str, date: str, like_count: str, url: str, content) -> str:
         """
         Combines the title, subtitle, and content into a single string with Markdown format
@@ -193,7 +177,7 @@ class BaseSubstackScraper(ABC):
         return date, md_content
 
     @abstractmethod
-    def get_url_soup(self, url: str) -> str:
+    def get_url_soup(self, url: str) -> BeautifulSoup:
         raise NotImplementedError
 
     def scrape_posts(self, num_posts_to_scrape: int = 0) -> None:
@@ -227,6 +211,26 @@ class BaseSubstackScraper(ABC):
         with open("./premium_list.json", 'w', encoding='utf-8') as f:
             json.dump(self.premium_articles, f, ensure_ascii=False, indent=4)
 
+    def replace_footnotes(self, md: str, match: str, anchor: bool, index: int):
+        md2 = ""
+        while True:
+            next_idx = md.rfind(match, 0, index)
+            if next_idx == -1:
+                break
+            bracket_idx = md.rfind("[", 0, next_idx)
+            md2 = "[^" + md[bracket_idx + 1: next_idx] + anchor*":" + \
+                md[md.find(")", next_idx) + 1 + anchor*2: index] + md2
+            index = bracket_idx
+        return md2, index
+
+    def add_footnotes(self, md: str, url_name: str) -> str:
+        index = len(md)
+        md3, index = self.replace_footnotes(
+            md, f"(/p/{url_name}#footnote-anchor-", True, index)
+        md2, index = self.replace_footnotes(
+            md, f"(/p/{url_name}#footnote-", False, index)
+        return md[0:index] + md2 + md3
+
     def process_post(self, url: str) -> bool:
         """
         Process a single post
@@ -236,10 +240,11 @@ class BaseSubstackScraper(ABC):
                 soup = self.get_url_soup(url)
                 if soup is None:
                     return False
+                url_name = url.split("/")[-1]
+                filename = f"{url_name}.md"
                 date, md = self.extract_post_data(soup, url)
-                filename = self.get_filename_from_url(url, filetype=".md")
-                filepath = os.path.join(
-                    self.save_dir, date + "-" + filename)
+                md = self.add_footnotes(md, url_name)
+                filepath = os.path.join(self.save_dir, date + "-" + filename)
                 self.save_to_file(filepath, md)
                 return True
             except Exception as e:
