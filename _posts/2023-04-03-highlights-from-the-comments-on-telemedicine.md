@@ -3,11 +3,14 @@ title: "Highlights From The Comments On Telemedicine Regulations"
 subtitle: "..."
 date: 2023-04-03
 likes: 99
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/112094919/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/ce97126d-7e2c-4a59-9480-65b90bb5ab34_3450x1946.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-telemedicine
 ---
-[ _Original post:[The Government Is Making Telemedicine Hard And Inconvenient Again](https://astralcodexten.substack.com/p/the-government-is-making-telemedicine)_]
+[_Original post:[The Government Is Making Telemedicine Hard And Inconvenient Again](https://astralcodexten.substack.com/p/the-government-is-making-telemedicine)_]
 
- **Table Of Contents:**
+**Table Of Contents:**
 
 1: Isn’t drug addiction very bad?  
 2: Is telemedicine worse than regular medicine?  
@@ -17,7 +20,7 @@ original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-t
 6: Which part of the government is responsible for this regulation?  
 7: How do other countries do this?
 
- **1: Comments About How Drug Addiction Is Very Bad**
+**1: Comments About How Drug Addiction Is Very Bad**
 
 Some people countered that drug addiction was very bad, and preventing it is worth some inconvenience. For example, [Michael van der Ruyt](https://astralcodexten.substack.com/p/the-government-is-making-telemedicine/comment/14041407):
 
@@ -31,7 +34,7 @@ I hope my point didn’t come across as “addiction doesn’t matter”. My poi
 
 Also, for Lela, see eg [here](https://www.additudemag.com/adhd-and-substance-abuse-stimulant-medication/#footnote2), [here](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12164), and [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2667111/): most research suggests that childhood use of ADHD medication _decreases_ future risk of substance abuse; a minority of studies find no effect, but AFAIK no credible ones find an increase. ADHD treatment is _correlated_ with substance abuse, because ADHD itself increases risk, but it’s not a causal relationship.
 
- **2: Comments Debating If Telemedicine Is Worse Than Regular Medicine**
+**2: Comments Debating If Telemedicine Is Worse Than Regular Medicine**
 
 Some people did try to argue that telemedicine is worse than regular medicine, either along some axis related to addiction risk, or some other axis. For example, [Freddie deBoer](https://astralcodexten.substack.com/p/the-government-is-making-telemedicine/comment/14048210):
 
@@ -73,7 +76,7 @@ Certainly nobody has ever done studies on the point relevant to this particular 
 
 In the future, if you want to know whether I know of studies in some area, please just ask me nicely. You don’t have to speculate on which of my personal failures have caused me to hate Science and Evidence.
 
- **3: Comments About “Pill Mills”:**
+**3: Comments About “Pill Mills”:**
 
 Some people express concerns about “pill mills”, unscrupulous companies that hire doctors to prescribe to anyone who asks. These are pretty common for Adderall in particular. [Michael](https://astralcodexten.substack.com/p/the-government-is-making-telemedicine/comment/14041422):
 
@@ -112,13 +115,13 @@ Since everything about ADHD diagnosis and treatment is already security theater,
 
 See also my old post [Bureaucracy As Active Ingredient](https://slatestarcodex.com/2018/08/30/bureaucracy-as-active-ingredient/). The security theater doesn’t work because it’s effective. It works because it’s inconvenient enough to weed out the less motivated fakers, and some of the remaining fakers get cold feet about lying to a nice sincere psychiatrist who seems to be trying to help them. Pill mills remove the inconvenience, and seem to be nod-and-wink cooperating with liars, so the theater stops working. The only solution is to inject some inconvenience and shame back into the process somewhere, which the DEA has chosen to do by restricting telepsychiatry. They could accomplish the same goal by making you attend your appointments naked, but I guess clothing companies have better lobbyists than telepsychiatrists do.
 
- **4: Comments About Forcing Blind People To Fill Out Forms Before They Can Access Braille**
+**4: Comments About Forcing Blind People To Fill Out Forms Before They Can Access Braille**
 
 I analogized forcing patients to see an in-person doctor before they could access a teledoctor to forcing blind people to fill out forms before they could access Braille. Several blind people and their friends pitched in to say this was a real problem. For example, [Mikolysz](https://astralcodexten.substack.com/p/the-government-is-making-telemedicine/comment/14041404):
 
 > Blind person here, this kind of thing is actually much more common than people imagine. Many government agencies (regardless of which particular government you mean) just assume that anybody who needs to fill a form can read and write print and/or lives with somebody who does. This is often a problem even when the form in question is specifically targeted at blind people. Non-governmental organizations, including those who specifically serve the blind, aren't much better at this either. This issue is slightly more pronounced in civil law countries, where what constitutes a legally-binding signature is clearly defined in law and you can't just Docusign your way out of the problem, but it exists everywhere, including the US. I literally had to file this kind of document today, while the main form could be filled electronically, I was required to attach a few extra documents, for GDPR and such, and those had to be printed, filled in by a sighted person, signed and scanned. The same problem exists with physical mail which you're required to read and respond to, but which is almost never available in an accessible form, a few exceptions like the American IRS notwithstanding.
 
- **5: Comments About My Caricature Of A Doctor Who Refuses To Prescribe Psych Drugs Because People Just Need Jesus**
+**5: Comments About My Caricature Of A Doctor Who Refuses To Prescribe Psych Drugs Because People Just Need Jesus**
 
 Jon Cutchins [writes](https://astralcodexten.substack.com/p/the-government-is-making-telemedicine/comment/14043811):
 
@@ -156,7 +159,7 @@ Alien on Earth [writes](https://astralcodexten.substack.com/p/the-government-is-
 
 I agree that there are many reasons people recommend against psychiatric drugs (a few are even good). Psychiatric drugs have lots of side effects and are clearly imperfect options, and I see people object to them more often when they think they have a perfect option as an alternative. Sometimes that option is Jesus. Other times it’s the trendy new somatic yoga reprocessing kundalini trauma dianetics therapy. Other times it’s LSD or ketamine or Dr. Bob’s 24-In-One Internet Nootropic. All of these work for some people, but not as much as the people pushing them think - which I guess is also true for psych drugs. I’m nervous about people who think they’ve found the answer and pressure people towards one alternative or another without presenting evidence. I’ve seen this happen enough in religious contexts that I think it was a fair thing to use as an example.
 
- **6: Comments About Which Part Of The Government Is Responsible For This Regulation**
+**6: Comments About Which Part Of The Government Is Responsible For This Regulation**
 
 ProfessorE [writes](https://astralcodexten.substack.com/p/the-government-is-making-telemedicine/comment/14052288):
 
@@ -213,7 +216,7 @@ Based on that comment and [this](https://www.fiercehealthcare.com/telehealth/dea
 
 I’m not exactly sure who to be angry at, but I think “the government” is a fair albeit vague target.
 
- **7: Comments About How Other Countries Do It**
+**7: Comments About How Other Countries Do It**
 
 Coagulopath [writes](https://astralcodexten.substack.com/p/the-government-is-making-telemedicine/comment/14041342):
 

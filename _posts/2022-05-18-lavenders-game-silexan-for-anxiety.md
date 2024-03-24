@@ -3,6 +3,9 @@ title: "Lavender's Game: Silexan For Anxiety"
 subtitle: "..."
 date: 2022-05-18
 likes: 154
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/53352199/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/68d1dbfb-c939-41c8-a0f3-1e8dabd83a5f_2000x1417.webp
 original-url: https://www.astralcodexten.com/p/lavenders-game-silexan-for-anxiety
 ---
 **1: What is silexan?**
@@ -40,7 +43,7 @@ Before silexan, the anxiety landscape was:
 
 Now people are saying that silexan works even better than benzodiazepines, doesn’t cause addiction, and has no major side effects! If true, this would change the world. SSRIs changed the world, and they’re nowhere _near_ as impressive as silexan claims to be.
 
- **2: Is there evidence that it works?**
+**2: Is there evidence that it works?**
 
 Silexan has four meta-analyses, all of which show strong effects. But here’s a Venn diagram of the studies included in each analysis:
 
@@ -70,7 +73,7 @@ So aside from the really obvious problem, there are no gaping problems here.
 
 (and other than that, Mrs. Lincoln, how did you like the play?)
 
- **3: What about circumstantial evidence?**
+**3: What about circumstantial evidence?**
 
 Along with the big official studies, there are a few other reasons we might expect silexan to work.
 
@@ -88,7 +91,7 @@ Finally, there are lots of studies on lavender aromatherapy. Aromatherapy sounds
 
 There seems to be a bit of a fight going on between people who think lavender has some sort of olfactory-specific mechanism and people who think it’s just a normal drug which can sometimes be intranasally absorbed. For example, [here’s a ](https://www.nytimes.com/2018/10/23/science/lavender-scent-anxiety.html)_[New York Times](https://www.nytimes.com/2018/10/23/science/lavender-scent-anxiety.html)_[ article](https://www.nytimes.com/2018/10/23/science/lavender-scent-anxiety.html) highlighting Japanese research showing that lavender makes mice less anxious, _unless_ you genetically engineer them to have no sense of smell, in which case it doesn’t work. Some of these people even think the reason silexan works is because you swallow the capsule, the lavender smell seeps out as you digest it, and then you inhale it from your own throat. On the other hand, [here’s a contrary study](https://www.sciencedirect.com/science/article/pii/S0024320513001926) showing that mice genetically engineered to lack smell still respond to lavender normally. My bias is towards skepticism of the smell-based stuff; I’m guessing it’s just ordinary absorption.
 
- **4: If you were going to take it, what would you do?**
+**4: If you were going to take it, what would you do?**
 
 When my patients are interested in trying silexan, I refer them to [this brand](https://www.amazon.com/Natures-Way-non-drowsy-clinically-gluten-free/dp/B007TYY2JA/ref=sr_1_2_sspa?crid=30UT1E6WXDWX4&keywords=silexan&qid=1651648408&sprefix=silexan%2Caps%2C161&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzM0tNSU1OR0I5SUlYJmVuY3J5cHRlZElkPUEwMjU2NzY2TEtUUU1VQlk5VEZTJmVuY3J5cHRlZEFkSWQ9QTEwNDQxNjczSjBGUFhGNk9MV1QyJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), which is the same as the one in the Kasper studies. The studies suggest that 160 mg (two pills) once a day work better than 80 mg (one pill) once a day. 
 
@@ -98,7 +101,7 @@ The most common side effects are upset stomach, nausea, and burps that taste lik
 
 Studies have established pretty conclusively that there is no addiction risk - [this study ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7968617/)actually went so far as to give it to known drug addicts to see if they felt like abusing it; they did not. If it works for you, there’s no known reason not to take it forever, although this kind of statement has a habit of crashing and burning later.
 
- **5: Conclusions?**
+**5: Conclusions?**
 
 Everything looks amazing about silexan, _except_ the part where all the good studies are by one guy taking money from the drug company.
 

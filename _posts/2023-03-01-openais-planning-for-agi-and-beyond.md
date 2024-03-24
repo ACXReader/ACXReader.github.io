@@ -3,6 +3,9 @@ title: "OpenAI's \"Planning For AGI And Beyond\""
 subtitle: "..."
 date: 2023-03-01
 likes: 202
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/104927790/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/872388d1-f75c-4854-8ba2-13e6df232433_1400x772.jpeg
 original-url: https://www.astralcodexten.com/p/openais-planning-for-agi-and-beyond
 ---
 ## Planning For AGI And Beyond
@@ -99,7 +102,7 @@ The only sense in which OpenAI supports gradualism is the sense in which they’
 
 So what’s OpenAI thinking? I haven’t asked them and I don’t know for sure, but I’ve heard enough debates around this that I have some guesses about the kinds of arguments they’re working off of. I think the longer versions would go something like this:
 
- **The** **Race Argument** :
+**The** **Race Argument** :
 
   1. Bigger, better AIs will make alignment research easier. At the limit, if no AIs exist at all, then you have to do armchair speculation about what a future AI will be like and how to control it; clearly your research will go faster and work better after AIs exist. But by the same token, studying early weak AIs will be less valuable than studying later, stronger AIs. In the 1970s, alignment researchers working on industrial robot arms wouldn’t have learned anything useful. Today, alignment researchers can study how to prevent language models from saying bad words, but they can’t study how to prevent AGIs from inventing superweapons, because there aren’t any AGIs that can do that. The researchers just have to hope some of the language model insights will carry over. So all else being equal, we would prefer alignment researchers get more time to work on the later, more dangerous AIs, not the earlier, boring ones.
 
@@ -114,7 +117,7 @@ So what’s OpenAI thinking? I haven’t asked them and I don’t know for sure,
 
 
 
- **The** **Compute Argument** :
+**The** **Compute Argument** :
 
   1. Future AIs will be scary because they’ll be smarter than us. We can probably deal with something a little smarter than us (let’s say IQ 200), but we might not be able to deal with something much smarter than us (let’s say IQ 1000). 
 
@@ -131,7 +134,7 @@ So what’s OpenAI thinking? I haven’t asked them and I don’t know for sure,
 
 
 
- **The** **Fire Alarm Argument** :
+**The** **Fire Alarm Argument** :
 
   1. Bing’s chatbot tried to blackmail its users, but nobody was harmed and everyone laughed that off. But at some point a stronger AI will do something really scary - maybe murder a few people with a drone. Then everyone will agree that AI is dangerous, there will be a concerted social and international response, and maybe something useful will happen. Maybe more of the world’s top geniuses will go into AI alignment, or will be easier to coordinate a truce between different labs where they stop racing for the lead.
 

@@ -3,6 +3,9 @@ title: "Assistant Dictator Book Club: America Against America"
 subtitle: "..."
 date: 2023-06-07
 likes: 101
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/121657179/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/ee0edbd3-51ab-4352-8fb4-cd8cafeae649_3515x2343.jpeg
 original-url: https://www.astralcodexten.com/p/assistant-dictator-book-club-america
 ---
 The year was 1988. A decade earlier, Deng Xiaoping had announced plans for China to liberalize. The first sparks of capitalism had been kindled. The CCP wanted to fan those sparks into economic superpowerdom. But the only country with experience being an economic superpower, the United States, was as inscrutable to China as China is to us.
@@ -11,7 +14,7 @@ Enter Wang Huning, a young political scientist at Fudan University. He wanted to
 
 Another result: a career boost for Wang Huning. He got asked to head the Party’s “political research” office, then gradually rose higher and higher through the ranks. Today he’s considered the CCP’s chief intellectual, and has been called [the second most powerful man in China](https://rabbitholemag.com/whos-the-second-most-powerful-person-in-china/) (alternately “[the most influential man in China](https://www.theamericanconservative.com/the-most-influential-man-in-china/)”). He’s used his position to push China against American values and towards a sort of anti-Western cultural conservatism. Whatever he saw during those six months in Iowa must have scared him hard. I thought I would pick up _America Against America_ to figure out what it was.
 
-It wasn’t easy. This book doesn’t read like the screed of an anti-American zealot or the manifesto of a political mastermind. It reads like a confused but slightly charming alien bumbling through the world, recording his musings on whatever he encountered[1](/p/assistant-dictator-book-club-america#footnote-1-121657179). The combination of mediocre English, plus surprise at learning facts every child knows[2](/p/assistant-dictator-book-club-america#footnote-2-121657179), makes the text sound like it was written by a precocious ten year old. He frequently uses sentences no human being would ever say, like "Let's dissect the organizational structure of Iowa".
+It wasn’t easy. This book doesn’t read like the screed of an anti-American zealot or the manifesto of a political mastermind. It reads like a confused but slightly charming alien bumbling through the world, recording his musings on whatever he encountered[^1]. The combination of mediocre English, plus surprise at learning facts every child knows[^2], makes the text sound like it was written by a precocious ten year old. He frequently uses sentences no human being would ever say, like "Let's dissect the organizational structure of Iowa".
 
 I’m going to start by going over some parts I found surprising, interesting, or just funny, then return to this question of what could have scared Wang so badly:
 
@@ -280,10 +283,6 @@ It also seems a little like - pardon the expression - China vs. China. For a guy
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0b1dc48-49a2-4dc1-afaf-bf495779ce63_396x387.png)](https://amzn.to/3OZD2tc)
 
-[1](/p/assistant-dictator-book-club-america#footnote-anchor-1-121657179)
+[^1]: I have stolen this sentence from a friend’s description of [Katja Grace](https://worldspiritsockpuppet.com/), who I think would have a lot to talk to Wang Huning about.
 
-I have stolen this sentence from a friend’s description of [Katja Grace](https://worldspiritsockpuppet.com/), who I think would have a lot to talk to Wang Huning about.
-
-[2](/p/assistant-dictator-book-club-america#footnote-anchor-2-121657179)
-
-Reading this book, I found myself confused by the existence of Studies Programs. My college had a China Studies program and one or two others, I think Middle East Studies. Most professors in these programs were white (or black, or whatever - just not necessarily Chinese or Middle Eastern). They would read lots of Chinese texts, visit China a bit, and come back and have opinions on the Chinese National Character. Wang is doing the reverse, and China clearly appreciates his service. But why? What’s the point of such people? Why don’t we just hire a Chinese person (maybe an immigrant, if we don’t trust the ones still in the PRC) to tell us what the Chinese National Character is? Why do we sent smart Americans to China to figure out what it’s like? There are literally over a billion people who already know that!
+[^2]: Reading this book, I found myself confused by the existence of Studies Programs. My college had a China Studies program and one or two others, I think Middle East Studies. Most professors in these programs were white (or black, or whatever - just not necessarily Chinese or Middle Eastern). They would read lots of Chinese texts, visit China a bit, and come back and have opinions on the Chinese National Character. Wang is doing the reverse, and China clearly appreciates his service. But why? What’s the point of such people? Why don’t we just hire a Chinese person (maybe an immigrant, if we don’t trust the ones still in the PRC) to tell us what the Chinese National Character is? Why do we sent smart Americans to China to figure out what it’s like? There are literally over a billion people who already know that!

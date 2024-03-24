@@ -3,6 +3,9 @@ title: "Trying Again On Fideism"
 subtitle: "..."
 date: 2023-02-15
 likes: 188
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/103157081/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/8cc507f9-c94e-4183-8d62-e2e108b426c9_1080x608.png
 original-url: https://www.astralcodexten.com/p/trying-again-on-fideism
 ---
 _[apologies for an issue encountered when sending out this post; some of you may have gotten it twice]_
@@ -31,11 +34,11 @@ Chris was too nice to really defend himself, but a few other people posted what 
 
 In thinking about these kinds of questions, I find it helpful to consider three reflexive naive positions towards conspiracy theories (and cults, and misinformation, and general false ideas). All of these are caricatures, but hopefully they’ll help refine the borders of the debate:
 
- **Idiocy:** Conspiracy theories are a thing dumb people sometimes fall for. If you understand that facts require evidence, and you’re not a Nazi trying to explain why the Jews caused 9-11, then there’s basically no chance you’ll believe. You mostly have to stay away from [outright lies](https://astralcodexten.substack.com/p/the-media-very-rarely-lies) \- for example, someone making up a story about a Jew confessing to causing 9-11 - which is easy to do, because you can just fact-check these.
+**Idiocy:** Conspiracy theories are a thing dumb people sometimes fall for. If you understand that facts require evidence, and you’re not a Nazi trying to explain why the Jews caused 9-11, then there’s basically no chance you’ll believe. You mostly have to stay away from [outright lies](https://astralcodexten.substack.com/p/the-media-very-rarely-lies) \- for example, someone making up a story about a Jew confessing to causing 9-11 - which is easy to do, because you can just fact-check these.
 
- **Intellect:** There is no difference between conspiracy theories and any other theory, except that the conspiracy theories are worse. There are some theories that the smartest experts give 50-50 odds of being true, like “high wages caused the Industrial Revolution”. There are some theories that the smartest experts give a 10-90 odds of being true, like “endocrine disruptors are a major cause of rising LGBTQ identification”. And there are some theories that the smartest experts give 0.001 - 99.999 odds of being true, like “the Illuminati singlehandedly caused the French Revolution”. All of these theories should be treated approximately the same way, as intellectuals discussing difficult questions - and sometimes, if they’re not smart enough to be up to the task, coming to the wrong answer.
+**Intellect:** There is no difference between conspiracy theories and any other theory, except that the conspiracy theories are worse. There are some theories that the smartest experts give 50-50 odds of being true, like “high wages caused the Industrial Revolution”. There are some theories that the smartest experts give a 10-90 odds of being true, like “endocrine disruptors are a major cause of rising LGBTQ identification”. And there are some theories that the smartest experts give 0.001 - 99.999 odds of being true, like “the Illuminati singlehandedly caused the French Revolution”. All of these theories should be treated approximately the same way, as intellectuals discussing difficult questions - and sometimes, if they’re not smart enough to be up to the task, coming to the wrong answer.
 
- **Infohazard:** Conspiracy theories are deadly traps lying that lie in wait for you, even if you’re smart. If you stumble on one unprepared, it will eat you up, turn you into an adherent, and leave you and society worse off. You should exercise standard infohazard precautions around them, like putting wax in your ears if you’re passing through somewhere you might hear them discussed, or tying yourself to the mast if you’re out of wax. If you have neither wax nor a mast, you can usually come out unscathed by reciting “trust experts . . . trust experts . . . trust experts” over and over as a mantra.
+**Infohazard:** Conspiracy theories are deadly traps lying that lie in wait for you, even if you’re smart. If you stumble on one unprepared, it will eat you up, turn you into an adherent, and leave you and society worse off. You should exercise standard infohazard precautions around them, like putting wax in your ears if you’re passing through somewhere you might hear them discussed, or tying yourself to the mast if you’re out of wax. If you have neither wax nor a mast, you can usually come out unscathed by reciting “trust experts . . . trust experts . . . trust experts” over and over as a mantra.
 
 One advantage of the Idiocy perspective is that it makes conspiracy theories low status. Most people don’t want to seem like idiots; if their friends think anyone who believes in conspiracy theories is an idiot, they’ll take extra care to stay away from them.
 
@@ -55,7 +58,7 @@ All factual claims can become the basis for emotional/social coalitions. [I wrot
 
 I agree that everyone (including smart people) needs to be constantly vigilant of this possibility, and that any suggestion otherwise risks placing a stumbling block before the blind.
 
- **II.**
+**II.**
 
 Where I differ from Alexander is something like - quick analogy, there used to be a thing where some therapists would avoid asking patients if they were suicidal, because they didn’t want to “plant the idea” in their head. People would argue that you shouldn’t talk at length about the reasons for and against suicide, because that was highlighting it as an option, or dignifying it with a response. [Most studies have since weighed in against this perspective](https://www.bbc.com/future/article/20140112-is-it-bad-to-talk-about-suicide). Depressed people aren’t idiots. They are aware that committing suicide is an option. You will never be able to suppress all knowledge of suicide’s existence, and “suddenly triggering the latent knowledge” isn’t a thing. Talking about it openly just means . . . it can be talked about it openly.
 
@@ -82,7 +85,7 @@ Consider the possibility that the cat is already out of the bag, and that me wri
 
 Eliezer Yudkowsky’s position is [Let Them Debate College Students](https://www.lesswrong.com/posts/yN38rRLzyuvNnhqr3/let-them-debate-college-students). I’m not a college student, but I’m not Anthony Fauci either, and I am known for blogging about extremely dignified ideas [like the possibility that the terrible Harry Potter fanfiction My Immortal is secretly an alchemical allegory](https://slatestarcodex.com/2020/05/26/my-immortal-as-alchemical-allegory/). I haven’t seen ivermectin advocates using “Scott takes this seriously enough to argue against it!” as an argument, and I _have_ seen them getting angry about it and writing long responses trying to prove me wrong. Sometimes they _have_ used me getting some points wrong as a positive argument, and I would be open to the argument that I failed in not arguing against it well enough that they couldn’t do that, but nobody has been making that argument, and if they did, then it would imply that people who are smarter than me should take over the job, which I endorse.
 
- **III.**
+**III.**
 
 I worry Scott Aaronson thinks I’m saying you shouldn’t trust the experts, and instead you should always think for yourself. I’m definitely _not_ trying to say that.
 
@@ -98,7 +101,7 @@ I come back to this example less often, because it could get me in trouble, but 
 
 And I genuinely think this is part of why ivermectin conspiracies took off in the first place. We say “trust science” and “trust experts”. But there were lots of studies that showed ivermectin worked - aren’t those science? And Pierre Kory MD, an specialist in severe respiratory illnesses who wrote a well-regarded textbook, supports it - isn’t he an expert? Isn’t it plausible that the science and the experts are right, and the media and the government and Big Pharma are wrong? This is part of what happens when people reify the mantras instead of using them as pointers to more complicated concepts like “reasoning is hard” and “here are the 28,491 rules you need to keep in mind when reading a scientific study.”
 
- **IV.**
+**IV.**
 
 All of this still feels rambly and like it’s failing to connect. Instead, let me try describing exactly what I would advice I would give young people opening an Internet connection for the first time:
 

@@ -3,11 +3,14 @@ title: "Boston Meetup This Sunday"
 subtitle: "..."
 date: 2021-09-04
 likes: 11
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/40895891/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7f135982-158b-455d-81ce-db41b4533514_1180x740.jpeg
 original-url: https://www.astralcodexten.com/p/boston-meetup-this-sunday
 ---
 **When:** Sunday, 9/5, 5 PM
 
- **Where:** [area.bricks.tribune](https://w3w.co/area.bricks.tribune), aka John F Kennedy Park in Cambridge, near the picnic tables. 
+**Where:** [area.bricks.tribune](https://w3w.co/area.bricks.tribune), aka John F Kennedy Park in Cambridge, near the picnic tables. 
 
 **Who:** Anyone who wants. Please feel free to come even if you feel awkward about it, even if you’re not “the typical ACX reader”, even if you’re worried people won’t like you, etc.
 

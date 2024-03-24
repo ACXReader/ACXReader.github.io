@@ -3,6 +3,9 @@ title: "Model City Monday 9/4/23: California Dreamin'"
 subtitle: "Tech moguls plan new city in Solano County"
 date: 2023-09-04
 likes: 119
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/135420060/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89c660db-739a-4d46-9048-10cf7c398cef_640x624.webp
 original-url: https://www.astralcodexten.com/p/model-city-monday-9423
 ---
 ## California Dreamin’
@@ -23,7 +26,7 @@ Even for these tech tycoons, $800 million is a lot of money. So what’s the bus
 
 In one sense, nothing could be simpler. Buy lots of farmland cheap. Build housing for the housing-starved California masses. Once it’s a respectable-sized town, sell dear. If you can actually create a Norman Rockwell utopia, great. But Californians will also pay $750 per square foot for somewhere that just has a little less trash and feces than usual. So the bar is low. 
 
-Some quick numbers: Flannery has bought about 78 square miles of land, but suppose they can only develop half of it for legal and environmental reasons. This would still make them the same size as the nearby towns of Vacaville (30 sqm) and Fairfield (40 sqm). Land value in Vacaville is about $75K per acre. So if they developed their land to the same level as Vacaville, it would be worth $4 billion. But in fact, they’re talking a lot about “walkable, liveable, sustainable communities”, all of which are code words for “dense”. If their town actually looks like the pictures (note the connected row houses with tiny yards) it could easily be $10 billion plus. That’s not even counting any benefit from the community actually being “utopian”.[1](/p/model-city-monday-9423#footnote-1-135420060)
+Some quick numbers: Flannery has bought about 78 square miles of land, but suppose they can only develop half of it for legal and environmental reasons. This would still make them the same size as the nearby towns of Vacaville (30 sqm) and Fairfield (40 sqm). Land value in Vacaville is about $75K per acre. So if they developed their land to the same level as Vacaville, it would be worth $4 billion. But in fact, they’re talking a lot about “walkable, liveable, sustainable communities”, all of which are code words for “dense”. If their town actually looks like the pictures (note the connected row houses with tiny yards) it could easily be $10 billion plus. That’s not even counting any benefit from the community actually being “utopian”.[^1]
 
 [![Picture of romantic looking lakeside community](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc00a6c17-2706-4150-8884-1c66be633c44_640x632.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc00a6c17-2706-4150-8884-1c66be633c44_640x632.webp)
 
@@ -39,14 +42,14 @@ Solano County has a so-called “Orderly Growth Measure” saying that new build
 
   * According to [this article](https://thepublicsradio.org/article/billionaires-want-to-build-a-new-city-in-rural-california-they-must-convince-voters-first), the mayor of nearby Suisun City, Princess Washington, worries that it will be “a city for the elite”. Although her concerns seem misplaced, her name makes her sounds like a powerful and majestic opponent.
 
-  * According to [this article](https://www.thereporter.com/2023/08/30/local-stakeholders-react-to-flannery-associates-52000-acre-purchases/), State Senator Bill Dodd[2](/p/model-city-monday-9423#footnote-2-135420060) worries that a new city might have an “impact on agricultural production”, “harm Travis Air Force Base”, and cause “suburban sprawl”.
+  * According to [this article](https://www.thereporter.com/2023/08/30/local-stakeholders-react-to-flannery-associates-52000-acre-purchases/), State Senator Bill Dodd[^2] worries that a new city might have an “impact on agricultural production”, “harm Travis Air Force Base”, and cause “suburban sprawl”. 
 
 
 
 
 And if they defeat all these people and win the local election, anyone who is against them can still lodge the normal CEQA and NEPA objections that have gummed up most large building projects in California over the past fifty years. 
 
-And if they defeat _those_ , they still have to build the city. Rep. Garamendi is skeptical, [saying](https://abc7news.com/travis-air-force-base-flannery-associates-secret-land-purchase-congressional-hearing/13717564/)[3](/p/model-city-monday-9423#footnote-3-135420060):
+And if they defeat _those_ , they still have to build the city. Rep. Garamendi is skeptical, [saying](https://abc7news.com/travis-air-force-base-flannery-associates-secret-land-purchase-congressional-hearing/13717564/)[^3]: 
 
 > I think it’s pie in the sky. We know this area. I've talked to a very seasoned developer in California and asked what do you think of that? He said, keep in mind that the land is about 1/10th of the actual cost of building the city. You've got streets and roads and sewer systems and sanitation. They even want to build a concert hall.
 
@@ -123,24 +126,18 @@ In other Prospera news:
 
 ## Elsewhere In Model Cities
 
- **1:**[Dubai to help set up free trade zone in Colombia?](https://gulfnews.com/business/markets/dubais-dmcc-to-set-up-trade-hub-free-zone-in-colombia-1.1652164061329) (speculative, I’ve heard nothing else about this and don’t know what it would involve)
+**1:**[Dubai to help set up free trade zone in Colombia?](https://gulfnews.com/business/markets/dubais-dmcc-to-set-up-trade-hub-free-zone-in-colombia-1.1652164061329) (speculative, I’ve heard nothing else about this and don’t know what it would involve)
 
- **2:**[Financial Times article on recent charter city developments in Africa](https://archive.ph/krvKR).
+**2:**[Financial Times article on recent charter city developments in Africa](https://archive.ph/krvKR).
 
- **3:** Saudi Arabia’s bonkers megacity Neom [“is seeking a $2.7 billion loan”](https://www.middleeasteye.net/news/saudi-arabia-neom-megacity-seeking-loan). I notice I am confused - I thought that despite all of Neom’s disadvantages, its one unquestionable advantage was that it was backed by the Saudi state who were willing to spend upwards of $1 trillion on it. So why do they need a $2.7 billion loan? 
+**3:** Saudi Arabia’s bonkers megacity Neom [“is seeking a $2.7 billion loan”](https://www.middleeasteye.net/news/saudi-arabia-neom-megacity-seeking-loan). I notice I am confused - I thought that despite all of Neom’s disadvantages, its one unquestionable advantage was that it was backed by the Saudi state who were willing to spend upwards of $1 trillion on it. So why do they need a $2.7 billion loan? 
 
 **4:** New Substack Vanguard Anthology on [the Danish anarchist “free city” of Christiania](https://leber.substack.com/). I visited when I was in Copenhagen, I mostly remember it being dirty and hard to navigate.
 
- **[** had link to story about France selling Kerguelen Island here, but it might be false; removing while I investigate **]**
+**[** had link to story about France selling Kerguelen Island here, but it might be false; removing while I investigate**]**
 
-[1](/p/model-city-monday-9423#footnote-anchor-1-135420060)
+[^1]: I don’t know if this is the right way to think about things; it’s assuming that Flannery’s costs and profits both come mainly from land, and developers bear the costs and get the profits of buildings. But maybe that’s not the plan.
 
-I don’t know if this is the right way to think about things; it’s assuming that Flannery’s costs and profits both come mainly from land, and developers bear the costs and get the profits of buildings. But maybe that’s not the plan.
+[^2]: I wondered why that name seemed so familiar before remembering I used it for a minor character in _[Unsong](https://unsongbook.com/)_ , who was based off the Biblical character Bildod from Job 2:11. Bildod falsely accuses Job of being wicked, for which God condemns him and demands he make a compensatory sacrifice. This is not a coincidence because nothing is ever a coincidence.
 
-[2](/p/model-city-monday-9423#footnote-anchor-2-135420060)
-
-I wondered why that name seemed so familiar before remembering I used it for a minor character in _[Unsong](https://unsongbook.com/)_ , who was based off the Biblical character Bildod from Job 2:11. Bildod falsely accuses Job of being wicked, for which God condemns him and demands he make a compensatory sacrifice. This is not a coincidence because nothing is ever a coincidence.
-
-[3](/p/model-city-monday-9423#footnote-anchor-3-135420060)
-
-See footnote 1. Flannery has spent $800 million. Eyeballing the sizes of the fortunes involved, the backers don’t have $8 billion to spend on further development, but I expect other investors will be happy to bear the cost of development once they’ve proven this is really going to happen.
+[^3]: See footnote 1. Flannery has spent $800 million. Eyeballing the sizes of the fortunes involved, the backers don’t have $8 billion to spend on further development, but I expect other investors will be happy to bear the cost of development once they’ve proven this is really going to happen.

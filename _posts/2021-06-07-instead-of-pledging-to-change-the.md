@@ -3,6 +3,9 @@ title: "Instead Of Pledging To Change The World, Pledge To Change Prediction Mar
 subtitle: "..."
 date: 2021-06-07
 likes: 114
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37312588/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1f3330f5-1e46-4f7e-8d32-6ad475055490_800x533.jpeg
 original-url: https://www.astralcodexten.com/p/instead-of-pledging-to-change-the
 ---
 In April, Joe Biden [pledged to halve US emissions](https://www.usatoday.com/story/news/politics/2021/04/22/president-biden-pledge-reduction-us-greenhouse-gas-emissions/7307038002/) (from their 2005 max) by 2030.

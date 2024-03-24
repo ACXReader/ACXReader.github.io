@@ -2,7 +2,10 @@
 title: "In Continued Defense Of Non-Frequentist Probabilities"
 subtitle: "..."
 date: 2024-03-21
-likes: Share
+likes: 185
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/140237071/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/d4d4678e-eb84-4169-a997-f760e57e8993_1200x675.jpeg
 original-url: https://www.astralcodexten.com/p/in-continued-defense-of-non-frequentist
 ---
 It’s every blogger’s curse to return to the same arguments again and again. Matt Yglesias has to keep writing “maybe we should do popular things instead of unpopular ones”, Freddie de Boer has to keep writing “the way culture depicts mental illness is bad”, and for whatever reason, I keep getting in fights about whether you can have probabilities for non-repeating, hard-to-model events. For example:
@@ -22,7 +25,7 @@ In contrast, saying “there’s a 45% probability people will land on Mars befo
 
 Since people on social media have been talking about this again, let’s go over it one more depressing, fruitless time.
 
-## Probabilities Are Linguistically Convenient
+## 1\. Probabilities Are Linguistically Convenient
 
 I think everyone agrees it’s meaningful and useful to say things like “Humanity probably won’t land on Mars before 2050”.
 
@@ -40,7 +43,7 @@ A counterargument against doing this might be that it falsely introduces more pr
 
 In this case, demanding that people stop using probability and go back to saying things like “I think it’s moderately likely” is crippling their ability to communicate clearly for no reason.
 
-## Probabilities Don’t Describe Your Level Of Information, And Don’t Have To
+## 2\. Probabilities Don’t Describe Your Level Of Information, And Don’t Have To
 
 Lots of people seem to think that naming a probability conveys something about how much information you have (eg “How can you say that about such a fuzzy and poorly-understood domain?”). Some people even demand that probabilities come with “meta-probabilities”, an abstruse philosophical concept that isn’t even well-defined outside of certain toy situations. I think it’s easy to prove that none of this is necessary. Consider the following:
 
@@ -53,17 +56,17 @@ Lots of people seem to think that naming a probability conveys something about h
 
 
 
-The answer to all of these is exactly the same - 50% - even though you have wildly different amount of knowledge about each. This is because 50% isn’t a description of how much knowledge you have, it’s a description of the balance between different outcomes.
+The answer to all of these is exactly the same - 50% - even though you have wildly different amounts of knowledge about each. This is because 50% isn’t a description of how much knowledge you have, it’s a description of the balance between different outcomes.
 
 Is it bad that one term can mean both perfect information (as in 1) and total lack of information (as in 3)? No. This is no different from how we discuss things when we’re not using probability. 
 
-Do vaccines cause autism? No. Does drinking monkey blood cause autism? Also no. My evidence on the vaccines question is dozens of well-conducted studies, conducted so effectively that we’re as sure about this as we are about anything in biology. My evidence on the monkey blood question is that nobody ever mentioned this and it would be weird if it were true. Still, it’s perfectly fine to say the single-word answer “no” to both of them to describe where I currently stand. If someone wants to know how much evidence/certainty is behind my “no”, they can ask, and I’ll tell them.
+Do vaccines cause autism? No. Does drinking monkey blood cause autism? Also no. My evidence on the vaccines question is dozens of excellent studies, conducted so effectively that we’re as sure about this as we are about anything in biology. My evidence on the monkey blood question is that nobody’s ever proposed this and it would be weird if it were true. Still, it’s perfectly fine to say the single-word answer “no” to both of them to describe where I currently stand. If someone wants to know how much evidence/certainty is behind my “no”, they can ask, and I’ll tell them.
 
-Likewise, is there a God? Maybe you ask the world’s top philosopher of religion, who has spent his entire life thinking about this question, and he says “I don’t think so”. Then you ask an edgy teen who has given it two seconds’ thought, and she also says “I don’t think so”. Neither of these people has done anything wrong. Their identical answers conceal a vastly different amount of thought that’s gone into the question. But it’s your job to ask each person how much thought they put in, not the job of the English language to design a way of saying the words “I don’t think so” that communicates level of effort and certainty.
+Likewise, is there a God? Maybe you ask the world’s top philosopher of religion, who has spent his entire life thinking about this question, and he says “I’m not sure”. Then you ask a random teenager who has given it two seconds’ thought, and she also says “I’m not sure”. Neither of these people has done anything wrong. Their identical answers conceal a vastly different amount of thought that’s gone into the question. But it’s your job to ask each person how much thought they put in, not the job of the English language to design a way of saying the words “I’m not sure” that communicates level of effort and expertise.
 
 Likewise, if I answer there’s a 0.001% chance vaccines cause autism, and a 0.001% chance monkey blood causes autism, it’s not the job of probability theory to tell you how much effort went into that assessment and how much of an expert I am. If you care about that, you can ask me!
 
-## What Is Samotsvety Better Than You At?
+## 3\. What Is Samotsvety Better Than You At?
 
 Samotsvety Forecasting is a team of some of the top forecasters in the world. Their job is to assign probabilities to future events. They seem very good at it. They win forecasting contests. They make lots of money on prediction markets. They [get featured in media articles](https://www.vox.com/future-perfect/2024/2/13/24070864/samotsvety-forecasting-superforecasters-tetlock). Sometimes people hire them as consultants when they have some forecasting question relevant to their business.
 
@@ -90,7 +93,7 @@ The only reason not to do this is some sort of metaphysical objection. “Yes, t
 
 I don’t understand why you would want to do this. If you do, then fine, let’s call it shmrobability. My shmrobability that Joe Biden will be impeached is 17%, my shmrobability that humans will land on Mars before 2050 is 66%, and my shmrobability that AI will destroy all humans before 2100 is 20%, and you should treat all of these exactly like probability estimates, even though they aren’t.
 
-## Do People Use Probability “As A Substitute For Reasoning”?
+## 4\. Do People Use Probability “As A Substitute For Reasoning”?
 
 This is one of the claims going around on social media right now, somehow.
 
@@ -98,15 +101,15 @@ A probability is the output of a reasoning process. For example, you might think
 
 Sometimes this reasoning process is very weak. You might have never thought about something before, but when someone demands an answer, you say “I don’t know, seems unlikely, maybe 1%”. This claim neither demands nor posits more evidence than just “I don’t know, seems unlikely”. Nobody would claim that saying “This seems unlikely” is a substitute for reasoning.
 
-Sometimes this reasoning process is formal, like when you create a model and calculate it out. Other times it’s informal, like when you think really hard about the case for and against something. There’s nothing wrong with informal reasoning. In fact, since there’s more than one possible model to apply to each problem, people _have to_ use informal reasoning to figure out how much they trust each model and where their final answer lands. All answers, whether they’re “I’m sure this is true” or “I give this 75% probability”, are the product of formal reasoning filtered through informal reasoning; probabilities are no different.
+Sometimes this reasoning process is formal, like when you create a model and calculate it out. Other times it’s informal, like when you think really hard about the case for and against something. There’s nothing wrong with informal reasoning. In fact, since there’s more than one possible model to apply to each problem, people _have to_ use informal reasoning to figure out how much they trust each model and where their final answer lands. All answers, whether they’re “I’m sure this is true” or “I give this 75% probability”, are the product of formal reasoning filtered through informal reasoning.
 
-Some people get really mad if you cite that Yoshua Bengio said the probability of AI causing a global catastrophe everybody is 20%. They might say “I have this whole argument for why it’s much lower, how dare you respond to an argument with a probability!” This is a type error. Saying “Yoshua Bengio’s p(doom) is 20%” is the same type as saying “Climatologists believe global warming is real”. If you give some long complicated argument about global warming, it’s perfectly fine to respond with “Okay, but climatologists have said global warming is definitely real”. That’s not an argument. It’s a pointer to the fact that climatologists have lots of other arguments, and the fact that these arguments have convinced climatologists (who are domain experts) ought to be convincing to you. If you want to know why the climatologists think this, read their papers. Likewise, if you want to find out why Yosuha Bengio thinks there’s 20% chance of AI catastrophe, you should read his blog, or the papers he’s written, or listen to any of the interviews he’s given on the subject - not just say “Ha ha, some dumb people think probabilities are a substitute for thinking!”
+Some people get really mad if you mention that Yoshua Bengio said the probability of AI causing a global catastrophe is 20%. They might say “I have this whole argument for why it’s much lower, how dare you respond to an argument with a probability!” This is a type error. Saying “Yoshua Bengio’s p(doom) is 20%” is the same type as saying “Climatologists believe global warming is real”. If someone gives some long complicated argument against global warming, it’s perfectly fine to respond with “Okay, but climatologists have said global warming is definitely real, so I think you’re missing something”. That’s not an argument. It’s a pointer to the fact that climatologists have lots of arguments; the fact that these arguments have convinced climatologists (who are domain experts) ought to be convincing to you. If you want to know why the climatologists think this, read their papers. Likewise, if you want to find out why Yosuha Bengio thinks there’s 20% chance of AI catastrophe, you should read his blog, or the papers he’s written, or listen to any of the interviews he’s given on the subject - not just say “Ha ha, some dumb people think probabilities are a substitute for thinking!”
 
-A claim “this knowledgeable scientist has a probability of X” is a statement of the same type as “this knowledgeable scientist believes X”. A claim “ordinary people have a probability of X” is of the same type as “ordinary people believe X”. A poll of ordinary people might have some use. I don’t care super hard what ordinary people believe about whether global warming is true. But giving their probabilities rather than their binary answers doesn’t make me believe them _less_.
+A claim “this knowledgeable scientist has a probability of X” is a statement of the same type as “this knowledgeable scientist believes X”. A claim “ordinary people have a probability of X” is of the same type as “ordinary people believe X”. I don’t care super hard what ordinary people believe about whether global warming is true. But giving their probabilities rather than their binary answers doesn’t make me care _less_.
 
 The only case where probabilities might take a different type than a normal binary answer is when people try to do wisdom-of-crowds with them. I think this is justified by the fact that wisdom of crowds [works](/p/crowds-are-wise-and-ones-a-crowd) [very well](/p/2023-prediction-contest). But I don’t think this is what people are complaining about.
 
-## Is AI Even More Unmodelable Than Mars Landings Or Politics?
+## 5\. Is AI Even More Unmodelable Than Mars Landings Or Politics?
 
 A remaining objection: we at least know, sort of, how rockets work. We at least know who controls Congress and what impeachment is and approximately what kind of guy Joe Biden is. So we have _some_ starting point for modeling these questions. We barely know anything about the future of AI. So even if you can come up with a probability of Joe Biden’s impeachment, probabilities about the future of AI are bunk.
 
@@ -120,4 +123,4 @@ So given all the things you know - like the rarity of the world being destroyed,
 
 If you land at some specific point, then naming that point isn’t a claim to be a smart expert who has lots of information. It’s just weighing the various arguments for and against it happening, and landing at “yeah, seems kind of likely” or “no, this seems crazy”. Except instead of using vague words, you use a non-vague system of 100 words which can be easily compared to the points where other people landed.
 
-Nobody knows anything for sure about human extinction from AI, but some people, like Geoffrey Hinton and Sam Altman, have more information than usual or have thought about it a lot. It seems useful for them to be able to convey the results of their thinking to the rest of us. If you ban them from using probability because of some kind of metaphysical objection, you’re just forcing them to to say unclear things like “well, it’s a little likely, but not super likely, but not . . . no! back up! More likely than that!”, and confusing everyone for no possible gain.
+Nobody knows anything for sure about human extinction from AI, but some people, like Yoshua Bengio and Sam Altman, have more information than usual, or have thought about it a lot. It seems useful for them to be able to convey the results of their thinking to the rest of us. If you ban them from using probability because of some kind of metaphysical objection, you’re just forcing them to to say unclear things like “well, it’s a little likely, but not super likely, but not . . . no! back up! More likely than that!”, and confusing everyone for no possible gain.

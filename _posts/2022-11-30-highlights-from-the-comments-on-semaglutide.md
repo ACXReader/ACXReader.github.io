@@ -3,11 +3,14 @@ title: "Highlights From The Comments On Semaglutide"
 subtitle: "..."
 date: 2022-11-30
 likes: 62
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/87486911/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/68f9eddd-af76-4e33-9f7a-132d3dfb41a7_336x207.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-semaglutide
 ---
 Table of contents:
 
- **1.[Top Comments](https://astralcodexten.substack.com/i/87486911/top-comments)  
+**1.[Top Comments](https://astralcodexten.substack.com/i/87486911/top-comments)  
 2\. [More Tips On Getting Cheap Semaglutide](https://astralcodexten.substack.com/i/87486911/more-tips-on-getting-cheap-semaglutide)  
 3\. [Other Weight Loss Drugs](https://astralcodexten.substack.com/i/87486911/other-weight-loss-drugs)  
 4\. [People Challenging My Numbers And Predictions](https://astralcodexten.substack.com/i/87486911/people-challenging-my-numbers-and-predictions)  

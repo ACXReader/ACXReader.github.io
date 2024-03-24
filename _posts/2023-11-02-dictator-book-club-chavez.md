@@ -2,14 +2,17 @@
 title: "Dictator Book Club: Chavez"
 subtitle: "Review of Rory Carroll's \"Comandante\""
 date: 2023-11-02
-likes: 217
+likes: 218
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/137684508/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/6b84dcb8-ba1a-4222-af7d-28c3864f5723_852x479.jpeg
 original-url: https://www.astralcodexten.com/p/dictator-book-club-chavez
 ---
 _[previously in series:[Erdogan](https://astralcodexten.substack.com/p/book-review-the-new-sultan?s=w), [Modi](https://astralcodexten.substack.com/p/book-review-modi-a-political-biography?s=w), [Orban](https://astralcodexten.substack.com/p/dictator-book-club-orban), [Xi](https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping), [Putin](https://www.astralcodexten.com/publish/post/134180409)]_
 
- **I.**
+**I.**
 
-All dictators get their start by discovering some loophole in the democratic process. [Xi](/p/dictator-book-club-xi-jinping) realized that control of corruption investigations let him imprison anyone he wanted. [Erdogan](/p/book-review-the-new-sultan) realized that EU accession talks provided the perfect cover to retool Turkish institutions in his own image.
+All dictators get their start by discovering some loophole in the democratic process. [Xi](/p/dictator-book-club-xi-jinping) realized that control of corruption investigations let him imprison anyone he wanted. [Erdogan](/p/book-review-the-new-sultan) realized that EU accession talks provided the perfect cover to retool Turkish institutions in his own image. 
 
 Hugo Chavez realized that there’s no technical limit on how often you can invoke the emergency broadcast system. You can do it every day! The “emergency” can be that you had a cool new thought about the true meaning of socialism. Or that you’re opening a new hospital and it makes a good photo op. Or that opposition media is saying something mean about you, and you’d like to prevent anyone from watching that particular channel (which is conveniently bound by law to air emergency broadcasts whenever they occur).
 
@@ -49,7 +52,7 @@ But _Chavez TV_ was also a game show. The contestants were government ministers.
 
 How did a once-great nation reach this point? I read Rory Carroll’s _[Comandante](https://amzn.to/3ShtsmU)_ to find out.
 
- **II.**
+**II.**
 
 Venezuela was a typical Latin American country - Indians, conquistadors, strongmen - until the discovery of oil in the early 1900s. Foreign oil companies briefly resisted taxation. But over the 20th century the government gradually got them under control. In 1976, they finally nationalized the industry entirely under a government-run company, PDVSA. Venezuela is believed to have more oil - and more oil per person - than Saudi Arabia.
 
@@ -81,7 +84,7 @@ By the 1990s, Chavez - by all accounts personable and charismatic - had risen th
 
 Chavez’s pardon came two years later, at the hands of politician Rafael Caldera - who may have been in on the coup all along. Four years afterwards, he won a fair presidential election and took power.
 
- **III.**
+**III.**
 
 This is the point where I’m supposed to explain how Chavez went from democratically-elected president to dictator. It’s tough, because it’s debatable how much of a dictator he was. 
 
@@ -114,7 +117,7 @@ I like this passage. It tells us many things:
 
 But as much as we complain about this kind of thing in the West, Venezuela has it worse. Partly this is because of how centralized and official it is under one guy. But mostly it’s because Venezuela doesn’t have much private sector or civil society. Remember, think of it as Saudi Arabia with better weather. The (government-owned) oil company is the ultimate source of all wealth. That was true even before Chavez. Chavez then expropriated most private industries, and mismanaged the rest into bankruptcy. But he compensated for this with his own set of oil-subsidized institutions and outright oil subsidies. As always, you get rich (or middle class) by standing in front of the giant geyser of oil money. And Chavez got to control who did that.
 
- **IV.**
+**IV.**
 
 But fine. Let’s set the word “dictator” aside, and try to get back to the story of how he went from weak democratically-elected president to the sort of guy who could get all his opponents blacklisted and destroy all private industry.
 
@@ -194,7 +197,7 @@ But Chavez was psychologically addicted to maximizing his own immediate populari
 
 So, the usual question: could it happen here? Here are three answers:
 
- _1) America is no stranger to politicians wooing the electorate with bad economic policy._ The most obvious case is Trump’s tariffs, but it’s silly to pick on something so out-of-the-ordinary when this is such a standard part of the game. Look at the American regulatory state, and _lots_ of it is ruinous ideas that probably sounded good to people who didn’t understand economics. Take a random Chavez proposal, call it “the Green New Deal”, and publish an editorial saying it will “make the one percent pay”, and half the US electorate will start protesting for it immediately.
+_1) America is no stranger to politicians wooing the electorate with bad economic policy._ The most obvious case is Trump’s tariffs, but it’s silly to pick on something so out-of-the-ordinary when this is such a standard part of the game. Look at the American regulatory state, and _lots_ of it is ruinous ideas that probably sounded good to people who didn’t understand economics. Take a random Chavez proposal, call it “the Green New Deal”, and publish an editorial saying it will “make the one percent pay”, and half the US electorate will start protesting for it immediately.
 
 ![](https://substackcdn.com/image/fetch/w_494,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6598d00a-39ae-4133-bd66-dbb12039e26c_7798x5199.jpeg)
 
@@ -202,11 +205,11 @@ So a more focused question would be: what are the factors causing it to happen h
 
 I don’t have a great answer here. My best guess would be that we don’t have Venezuelan levels of oil wealth, politicians understand that voters will punish them if they destroy the economy, and so they try to avoid doing that. Chavez got saved a couple of times by sudden oil windfalls and the Cubans; without them, he wouldn’t have made it. I suppose that’s true here too.
 
- _2) Chavez used the usual dictatorial tools that we’re well-protected against._ In particular, he benefitted from a constitutional assembly; he was able to plan it so that a 52% showing by his party led to control of 95% of the seats, essentially letting him rewrite the constitution and gain unlimited power. Most western countries have better constitutional amendment processes than this, so we’re probably safe.
+_2) Chavez used the usual dictatorial tools that we’re well-protected against._ In particular, he benefitted from a constitutional assembly; he was able to plan it so that a 52% showing by his party led to control of 95% of the seats, essentially letting him rewrite the constitution and gain unlimited power. Most western countries have better constitutional amendment processes than this, so we’re probably safe.
 
 The Chavistas also benefitted from being able to refuse to renew opponents’ broadcasting licenses; I don’t know what our broadcasting license policy is here, but I never hear about this being an issue so I’m guessing we’re probably safe. And the continued independence of Facebook and (especially) Twitter means broadcast TV doesn’t have the same monopoly on information here that it probably did in Venezuela. I think we’re safe here too.
 
- _3) Chavez reminded me more of Trump than any of the other dictators I’ve profiled._ This surprised me, because the other dictators were “right wing populists”, a designation people often apply to Trump, and Chavez was a left-wing revolutionary. Still, something about him feels deeply familiar. Chavez was, first and foremost, a great entertainer. He kept people watching by being funny, unpredictable, and - by the standards of a usually dignified political system - hilariously offensive. Partly this was because it was politically advantageous for him to have everyone talking about him. But partly he was an obligate narcissist and couldn’t have stopped it if he tried.
+_3) Chavez reminded me more of Trump than any of the other dictators I’ve profiled._ This surprised me, because the other dictators were “right wing populists”, a designation people often apply to Trump, and Chavez was a left-wing revolutionary. Still, something about him feels deeply familiar. Chavez was, first and foremost, a great entertainer. He kept people watching by being funny, unpredictable, and - by the standards of a usually dignified political system - hilariously offensive. Partly this was because it was politically advantageous for him to have everyone talking about him. But partly he was an obligate narcissist and couldn’t have stopped it if he tried.
 
 He had zero loyalty, ran through ministers quickly, and ended up with a cabinet of mediocrities whose only virtue was complete willingness to flatter him and do whatever he said. He took great photo ops but was too distracted to ever really follow through on his grand plans. He was vicious in insulting his opponents, but too distracted to ever really neuter them entirely.
 

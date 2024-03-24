@@ -3,33 +3,36 @@ title: "Your Book Review: The Years Of Lyndon Johnson"
 subtitle: "Finalist #9 of the Book Review Contest"
 date: 2021-05-07
 likes: 61
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36173310/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ffe21fd1-a036-47ea-b161-a8884b3dbaa5_800x450.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-the-years-of-lyndon
 ---
-[ _This is the ninth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out[point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_] 
+[_This is the ninth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out[point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_] 
 
 Despite appearances, this is not a biography. It's actually an epic fantasy series that happens to be true. A young man grows up on the edge of civilization, decides to fix his father's mistakes, turns to the dark side for power, wins victories despite the odds, betrays his mentors, and smashes the oppressive status quo. There's even a Bilbo.
 
 (Instead of Bilbo Baggins, it's Senator Bilbo, a white supremacist who says things like "the pure and undefiled Caucasian strain" while he's on the Senate floor.)
 
- **1: Memorable characters**
+**1: Memorable characters**
 
  _Sam Rayburn_ : Speaker of the House. He had so much integrity that he scared other members of Congress.
 
- _Alvin Wirtz_ : LBJ's evil lawyer. (For non-Americans, Lyndon Baines Johnson was often abbreviated as LBJ.) "Wirtz was the kind of lawyer who would slip into a contract a sentence---a sentence that changed the contract's meaning---in the hope that the opposing lawyer would not notice it."
+_Alvin Wirtz_ : LBJ's evil lawyer. (For non-Americans, Lyndon Baines Johnson was often abbreviated as LBJ.) "Wirtz was the kind of lawyer who would slip into a contract a sentence---a sentence that changed the contract's meaning---in the hope that the opposing lawyer would not notice it."
 
- _Abe Fortas_ : "the most brilliant legal mind ever to come out of the Yale Law School". In the late 1930s LBJ needed the Public Works Administration to fund a dam, but the law prevented the PWA from building flood-control dams or power-generation dams. LBJ asked Fortas for help. Fortas told the PWA that the dam would both control floods and generate power, so it could be funded. When LBJ became president, guess who he appointed to the Supreme Court?
+_Abe Fortas_ : "the most brilliant legal mind ever to come out of the Yale Law School". In the late 1930s LBJ needed the Public Works Administration to fund a dam, but the law prevented the PWA from building flood-control dams or power-generation dams. LBJ asked Fortas for help. Fortas told the PWA that the dam would both control floods and generate power, so it could be funded. When LBJ became president, guess who he appointed to the Supreme Court?
 
- _Pappy O'Daniel_ : A flour advertiser who could hypnotize people with his voice. Then he discovered politics.
+_Pappy O'Daniel_ : A flour advertiser who could hypnotize people with his voice. Then he discovered politics.
 
- _Coke Stevenson_ : "Mr. Texas". Imagine that a child wrote a heartwarming story about an honest Texan who works his way up from poverty, buys the ranch of his dreams, reluctantly enters politics, makes his state a better place, and finds true love. That's Stevenson's life.
+_Coke Stevenson_ : "Mr. Texas". Imagine that a child wrote a heartwarming story about an honest Texan who works his way up from poverty, buys the ranch of his dreams, reluctantly enters politics, makes his state a better place, and finds true love. That's Stevenson's life.
 
- _Frank Hamer_ : The sheriff in a Western movie. "By the 1930s, Frank Hamer had been wounded seventeen times; at least twice he had been left for dead. He had killed fifty-three men."
+_Frank Hamer_ : The sheriff in a Western movie. "By the 1930s, Frank Hamer had been wounded seventeen times; at least twice he had been left for dead. He had killed fifty-three men."
 
- _Luis "Indio" Salas_ : "feared for his savage temper and immense physical strength". One time he beat up a restaurant owner, so the owner's wife asked the police chief whether he was going to arrest Salas. The chief replied, "No, lady, you better thank the Lord that Luis did not kill your husband."
+_Luis "Indio" Salas_ : "feared for his savage temper and immense physical strength". One time he beat up a restaurant owner, so the owner's wife asked the police chief whether he was going to arrest Salas. The chief replied, "No, lady, you better thank the Lord that Luis did not kill your husband."
 
- _Richard Russell Jr_.: The ultimate Southern senator. He was a political genius, a perfect gentleman, and a diehard racist.
+_Richard Russell Jr_.: The ultimate Southern senator. He was a political genius, a perfect gentleman, and a diehard racist.
 
- **2: LBJ's guide to amassing power**
+**2: LBJ's guide to amassing power**
 
  _(i) Seduce older men_
 
@@ -43,29 +46,29 @@ But this flattery paid off. Evans put LBJ in charge of the financial aid program
 
 LBJ would repeat this flattery with President (Franklin) Roosevelt, Speaker Rayburn, and Senator Russell.
 
- _(ii) Treat your employees like dirt_
+_(ii) Treat your employees like dirt_
 
 LBJ wanted his staff to be absolutely loyal, so he could direct them like chess pieces. He found their weak points---their weight, their divorce---and mercilessly taunted them. I'm not going to describe the crude things he did.
 
 Before his marriage, LBJ treated Lady Bird like an angel; once they were married, he treated her like one of his employees.
 
- _(iii) Work insanely hard_
+_(iii) Work insanely hard_
 
 When LBJ's back was to the wall, it's much easier to sympathize with him. He transformed from a horrible orator to a persuasive speaker. He barely slept. He ran to work every morning. He even treated his staff well, serving them breakfast.
 
 During the 1948 Senate campaign, he flew across Texas in a helicopter, trying to reach as many voters as possible. At one point the engine stalled, so the helicopter fell 25 feet and bounced off the ground. The pilot freaked out, but LBJ barely noticed because he was thinking about how to win the election.
 
- _(iv) Get sick because you worked insanely hard_
+_(iv) Get sick because you worked insanely hard_
 
 During LBJ's 1937 long-shot campaign for Congress, he got appendicitis, but worked despite the pain until he collapsed just before the election. (From personal experience, you can't work despite the pain when you have appendicitis.) During LBJ's 1948 long-shot campaign for the Senate, he got a kidney stone. This time the pain was so bad that he almost quit the race, but fortunately doctors were able to remove the stone.
 
- _(v) Use money in new and exciting ways_
+_(v) Use money in new and exciting ways_
 
 LBJ funneled government contracts to Brown & Root, a construction company. In return, they gave his campaign gobs of money. During the 1948 election, two of his campaign staff ate at a cafe and then accidentally left behind a brown paper bag containing $50,000 in cash (more than $500,000 in today's money). Luckily no one stole it.
 
 Using all of this money, LBJ was able to make the media say whatever he wanted about his opponent, Coke Stevenson. He hired "missionaries" to hang out in bars and spread rumors about Stevenson. Thousands of federal workers also repeated LBJ's talking points.
 
- _(vi) Cheat_
+_(vi) Cheat_
 
 But Stevenson was a storybook character, so money couldn't defeat him. He simply told the people of Texas that he would continue to do the right thing, and they believed him. LBJ had lost the 1941 Senate election because Pappy O'Daniel had cheated better than he did. Now LBJ would cheat, and he would cheat big.
 
@@ -79,13 +82,13 @@ Abe Fortas realized that there was no time to go through the normal legal proces
 
 (However, Stevenson was a storybook character, so he then met his soulmate and lived happily ever after. Seriously, chapter 17 of Means of Ascent is named "A Love Story", and it's very sweet.)
 
- _(vii) Keep your ideology secret_
+_(vii) Keep your ideology secret_
 
 During LBJ's first decade in Congress, he gave almost no speeches and proposed almost no bills. He kept his mouth shut so that when he ran for senator and president, no one could pin him down to anything. During LBJ's second decade in Congress, he revealed that he was a racist just like Senator Russell, and he helped Russell block civil rights bills. During LBJ's third decade in government, he did the most of any politician to enact civil rights, having pretended to be racist just to get power.
 
 This is the best thing LBJ ever did.
 
- **3: About the author**
+**3: About the author**
 
 All of this raises an important question: Did LBJ assassinate John F. Kennedy so that he could become president? On one hand, LBJ excelled at covering up stuff, and he broke the law whenever it was convenient. On the other hand, he had some moral boundaries: No assassinations or coups. And I trust that that Robert Caro would have found out.
 
@@ -121,7 +124,7 @@ On his most recent book, Caro looks like this:
 
 And he's an excellent writer. In December I started reading Working, a book Caro wrote about his research process. This sounds like a book that bores people to tears, but instead it literally brought tears to my eyes.
 
- **4: All the way with LBJ?**
+**4: All the way with LBJ?**
 
 Caro hopes that his books will help people understand how democracy works:
 

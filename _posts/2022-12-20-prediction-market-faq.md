@@ -3,6 +3,9 @@ title: "Prediction Market FAQ"
 subtitle: "..."
 date: 2022-12-20
 likes: 146
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/91718311/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d74325ed-7b88-446e-bc07-294dc4c2c00f_613x430.png
 original-url: https://www.astralcodexten.com/p/prediction-market-faq
 ---
 _This is a FAQ about prediction markets. I am a big proponent of them but have tried my hardest to keep it fair. For more information and other perspectives, see[Wikipedia](https://en.wikipedia.org/wiki/Prediction_market), the scholarly literature (eg [here](https://www.science.org/doi/10.1126/science.1157679)), and [Zvi](https://thezvi.wordpress.com/2018/07/26/prediction-markets-when-do-they-work/)._
@@ -41,11 +44,11 @@ Because prediction markets work a lot like other markets (eg the stock market), 
 
 You can prove that one of two things must be true. _Either_ over a long time scale, a prediction market will always be at least as good as the best expert, authoritative organization, or other information source. _Or_ you can get rich quick. Here’s how:
 
->  _Suppose that over a long time scale, a prediction market was consistently worse than the best expert (let’s say[Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/)). Then you could make money by always betting on Nate Silver’s opinion. That is, if Nate Silver said there was a 90% chance the Democrats would win, but the market said only a 30% chance, you could buy shares in “the Democrats will win” and, on average, triple your money. You won’t always win, since Nate isn’t always right, but (by our supposition) on average you would make money on each bet. Repeat until you are rich, or the mispricing has been corrected._
+> _Suppose that over a long time scale, a prediction market was consistently worse than the best expert (let’s say[Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/)). Then you could make money by always betting on Nate Silver’s opinion. That is, if Nate Silver said there was a 90% chance the Democrats would win, but the market said only a 30% chance, you could buy shares in “the Democrats will win” and, on average, triple your money. You won’t always win, since Nate isn’t always right, but (by our supposition) on average you would make money on each bet. Repeat until you are rich, or the mispricing has been corrected._
 
 Moving from the second person to the third person: if prediction markets were consistently worse than Nate Silver, then after a while someone would notice. This person could make a lot of money by betting on the market based on this observation. Once they did, the market would no longer be worse than Nate Silver.
 
- **2.1: What do you mean by “once they did, the market would no longer be worse than Nate Silver”?**
+**2.1: What do you mean by “once they did, the market would no longer be worse than Nate Silver”?**
 
 To bet on a prediction market is to correct a mispricing. 
 
@@ -59,7 +62,7 @@ How much will the price go up? Well, suppose you bought ten shares, and it only 
 
 So once someone notices that a prediction market has made a mistake, they’ll be incentivized to make bets in a way that corrects the mistake. This means that we should expect prediction markets not to make easily-noticed mistakes. Since being worse than some other expert that everyone knows about (like Nate Silver) is an easily-noticed mistake, we should expect it to quickly be corrected.
 
- **2.2: Are you equivocating between “a prediction market will never make this mistake” and “there will be a financial incentive for someone to correct this mistake if a prediction market makes it?”**
+**2.2: Are you equivocating between “a prediction market will never make this mistake” and “there will be a financial incentive for someone to correct this mistake if a prediction market makes it?”**
 
 These are kind of the same thing.
 
@@ -75,7 +78,7 @@ I watch for a lot of different mispricings on a lot of different prediction mark
 
 Sometimes in this FAQ I jokingly phrase that as “either prediction markets will be accurate, or you can get rich quick”. Unfortunately, it’s almost always the former.
 
- **2.3: You said this is true in ideal cases. What are the real-life cases where prediction markets might not be as accurate as other sources?**
+**2.3: You said this is true in ideal cases. What are the real-life cases where prediction markets might not be as accurate as other sources?**
 
 As the amount of money you can make from correcting a market goes to infinity, the accuracy (relative to other sources) approaches perfect. But if you can’t make much money on a market, it won’t necessarily be very accurate.
 
@@ -96,7 +99,7 @@ Here are some other reasons real prediction markets might fall short of the idea
 
 This doesn’t mean it’s impossible to have a truly accurate prediction market. There are two markets right now - [Polymarket ](https://polymarket.com/)and [Kalshi ](https://kalshi.com/)\- where you can easily make $10,000+ by correcting mispricings. Unsurprisingly, I can’t find any big obvious mispricings on these markets!
 
- **2.4: Is there any empirical evidence comparing real prediction markets to experts?**
+**2.4: Is there any empirical evidence comparing real prediction markets to experts?**
 
 Yes. As predicted, prediction markets are about as accurate as Nate Silver. See [Maxim Lott’s analysis here](https://maximumtruth.substack.com/p/deep-dive-on-predicting-elections).
 
@@ -108,11 +111,11 @@ More generally, studies usually find that prediction markets beat the average pe
 
 > Remarkably, in every known head-to-head field comparison between speculative markets and other forward-looking institutions, the speculative markets have been at least as accurate. More often than not, they prevail. Orange juice futures improve on National Weather Service forecasts (Roll 1984), horse race markets beat horse race experts (Figlewski 1979), Oscar markets beat columnist forecasts (Pennock, Giles, and Nielsen 2001), gas demand markets beat gas demand experts (Spencer 2004), stock markets beat the official NASA panel at identifying the company responsible for the Challenger accident (Maloney and Mulherin 2003), election markets beat national opinion polls (Berg, Nelson, and Rietz 2003), and corporate sales markets beat official corporate forecasts (Chen and Plott 2002).
 
- **2.4.1: If prediction markets are only as good as Nate Silver or other experts, who cares? Why don’t we just skip the prediction markets and listen to the experts directly?**
+**2.4.1: If prediction markets are only as good as Nate Silver or other experts, who cares? Why don’t we just skip the prediction markets and listen to the experts directly?**
 
 See the next section, “Why believe prediction markets are canonical?”
 
- **2.4.2: What if there are many equally impressive experts who disagree? What do prediction markets do then?**
+**2.4.2: What if there are many equally impressive experts who disagree? What do prediction markets do then?**
 
 See the next section, “Why believe prediction markets are canonical?”
 
@@ -133,55 +136,55 @@ By canonical, I mean that in ideal cases:
 
 Going through these claims one by one:
 
- **3.1: Why expect all prediction markets to agree with each other?**
+**3.1: Why expect all prediction markets to agree with each other?**
 
 Either all prediction markets agree with each other, or you can get rich quick:
 
->  _Suppose prediction markets disagreed. For example, suppose the RNC ran an Official Republican Prediction Market that said there was only a 10% chance Democrats would win the next election, and a 90% chance Republicans would. And suppose the DNC ran an Official Democrat Prediction Market that made the opposite prediction: 90% chance Democrats, 10% chance Republicans. Then you could buy a share of “Democrats will win” from the Republican market for 10 cents, plus a share of “Republicans will win” from the Democrat market for 10 cents, and be guaranteed to make $1 when one party or the other wins. You have turned 20 cents into a guaranteed $1. Repeat until you are rich or the mispricing has been corrected._
+> _Suppose prediction markets disagreed. For example, suppose the RNC ran an Official Republican Prediction Market that said there was only a 10% chance Democrats would win the next election, and a 90% chance Republicans would. And suppose the DNC ran an Official Democrat Prediction Market that made the opposite prediction: 90% chance Democrats, 10% chance Republicans. Then you could buy a share of “Democrats will win” from the Republican market for 10 cents, plus a share of “Republicans will win” from the Democrat market for 10 cents, and be guaranteed to make $1 when one party or the other wins. You have turned 20 cents into a guaranteed $1. Repeat until you are rich or the mispricing has been corrected._
 
 This is just what financial experts call “arbitrage”. You may notice that in finance, people always give specific prices for things like shares of stock, barrels of oil, or Bitcoins. People say things like “Google stock is up to $300”, but never “Google stock is up to $300 on the NYSE, but down to $200 on NASDAQ”. If that was true, people would buy it on NASDAQ, sell it on NYSE, make $100 in free money, and get rich quick. 
 
 In ideal situations, arbitrage forces everybody everywhere to agree on the same price for a financial instrument. Prediction markets turn claims about truth into financial instruments in a way which forces everybody everywhere to agree on how likely the claim is to be true.
 
- **3.2: Why expect prediction markets to be hard for special interests to manipulate?**
+**3.2: Why expect prediction markets to be hard for special interests to manipulate?**
 
 Either a prediction market is not currently mispriced because of a manipulation attempt, or you can get rich quick. Argument:
 
->  _Suppose a prediction market was currently mispriced because of a manipulation attempt. For example, suppose there is a prediction market for whether the sun will rise tomorrow. The true probability is obviously 100%, corresponding to a cost of $1.00. But suppose some special interest who wanted to trick people into believing the sun would not rise successfully spent money to bid the market down to only 10%._
+> _Suppose a prediction market was currently mispriced because of a manipulation attempt. For example, suppose there is a prediction market for whether the sun will rise tomorrow. The true probability is obviously 100%, corresponding to a cost of $1.00. But suppose some special interest who wanted to trick people into believing the sun would not rise successfully spent money to bid the market down to only 10%._
 > 
->  _This means that you can buy, for $0.10, a share which pays $1 if the sun rises tomorrow. In other words, you can dectuple your money for free. Repeat until you are rich or the mispricing has been corrected._
+> _This means that you can buy, for $0.10, a share which pays $1 if the sun rises tomorrow. In other words, you can dectuple your money for free. Repeat until you are rich or the mispricing has been corrected._
 
 This may sound complicated in theory, but it plays out straightforwardly in real life. As a test, I tried to manipulate the market on whether Austin Chen, founder of Manifold Markets, would be charged with a felony. There’s no reason to think he should be, so the price started at 5%. I spent $200 in Manifold’s play money bidding it up to 95%. Within an hour, other investors noticed the mispricing and corrected it back down to 5% again.
 
- **3.3: Why expect prediction markets to be free from bias?**
+**3.3: Why expect prediction markets to be free from bias?**
 
 Either a prediction market is not currently mispriced because of bias, or you can get rich quick. The argument:
 
->  _Suppose all smart people, including you, know that there is an 80% chance that the Democrats’ economic plan will create new jobs. But suppose that Republicans, because of their partisan biases, refuse to believe it, and say there is only a 40% chance. And suppose the Republicans set up their own prediction market where they bid the price of a share down to $0.40._
+> _Suppose all smart people, including you, know that there is an 80% chance that the Democrats’ economic plan will create new jobs. But suppose that Republicans, because of their partisan biases, refuse to believe it, and say there is only a 40% chance. And suppose the Republicans set up their own prediction market where they bid the price of a share down to $0.40._
 > 
->  _You can, of course, go on this prediction market, buy shares for $0.40, and double your money in expectation. Repeat until you are rich or the mispricing has been corrected._
+> _You can, of course, go on this prediction market, buy shares for $0.40, and double your money in expectation. Repeat until you are rich or the mispricing has been corrected._
 
 I already described how something like this happens on PredictIt (a non-ideal prediction market that you can only make a few hundred dollars in expectation by correcting), and that I do in fact make a few hundred dollars every election season.
 
- **3.4: Why should I believe a prediction market’s consensus over my own opinion?**
+**3.4: Why should I believe a prediction market’s consensus over my own opinion?**
 
 This is the same argument as “the prediction market will always be at least as accurate as the top expert” only with you in the place of the top expert.
 
 Either prediction markets are at least as smart as you are, or you can get rich quick. The argument here is the same as “at least as smart as the smartest expert” argument in 2, except replacing “the smartest expert” with “you”. But just to lay it out explicitly:
 
->  _Suppose you were smarter than some prediction market. Then if you disagreed with the market, usually you would be right and it would be wrong. So look for cases where you disagree with the market, buy those shares, and you will make money in expectation. Repeat until you are rich or the mispricing has been corrected._
+> _Suppose you were smarter than some prediction market. Then if you disagreed with the market, usually you would be right and it would be wrong. So look for cases where you disagree with the market, buy those shares, and you will make money in expectation. Repeat until you are rich or the mispricing has been corrected._
 
 I like this because it’s a good empirical test, and one that many people have tried. If you think you’re smarter than the prediction markets, bet on them and see what happens! I think most people will find that (over the long run) they lose money, and eventually this will cure them of their delusion that they can beat the markets.
 
 A few people might find that (over the long run) they _do_ win money, just as a few people (eg Warren Buffett) can consistently win money on the stock market. Hopefully those people will quit their day jobs and become full-time prediction market traders. They’ll become multimillionaires, and their hard work will ensure that prediction markets stay more accurate than the rest of us.
 
- **3.5: Why should I believe that a prediction market makes good decisions about which of many competing experts to trust?**
+**3.5: Why should I believe that a prediction market makes good decisions about which of many competing experts to trust?**
 
 Suppose you accept that a prediction market will always be at least as accurate as some well-known expert (eg Nate Silver). But what if you’re not sure who the real experts are? Or what if there are many experts, all saying different things, and nobody knows who to trust?
 
 In this case, a prediction market will always be at least as good as any other source (including you) at telling good experts from bad, or at figuring out which of many good experts is the best. By this point you should be able to predict the argument, but for completeness’ sake:
 
->  _Suppose you were better than the prediction market at determining which of many competing experts to trust, or how to aggregate the pronouncements of many experts into a single authoritative opinion._ _Then if you disagreed with the market, usually you would be right and it would be wrong. So look for cases where you disagree with the market, buy those shares, and you will make money in expectation. Repeat until you are rich or the mispricing has been corrected._
+> _Suppose you were better than the prediction market at determining which of many competing experts to trust, or how to aggregate the pronouncements of many experts into a single authoritative opinion._ _Then if you disagreed with the market, usually you would be right and it would be wrong. So look for cases where you disagree with the market, buy those shares, and you will make money in expectation. Repeat until you are rich or the mispricing has been corrected._
 
 To ground this in a real example, suppose there is some new virus which might or might not spread to the United States. A Harvard professor of epidemiology says there’s a 70% chance it will spread, a Yale professor of epidemiology says there’s an 90% chance it will spread, and a guy in a tinfoil hat on Infowars says there’s a 0% chance it will spread because it’s all a fake government plot. 
 
@@ -191,7 +194,7 @@ Suppose I saw a prediction market that was only at 10%, because most people trus
 
 Suppose I saw a prediction market that was only at 70%. Now I wouldn’t be sure whether the prediction market was dumber than me (believed tinfoil hat guy) or smarter than me (they know a lot about epidemiology - or about the credibility of specific experts - and have decided to trust the Harvard professor over the Yale professor). Maybe I could improve on this. If I knew things about epidemiology, I could read over both professors’ arguments and try to figure out if one was better than the other. If I knew things about academia, I could pick over both professors’ resumes and see whether the Harvard professor seemed more distinguished or had more respect in her own field than the Yale professor. In the end, I might decide the prediction market was right to price it at 70% (in which case I wouldn’t do anything), or that actually both experts seemed equally expert (in which case I might bid it up to 80%), or that actually the Yale epidemiologist was better (in which case I might bid it up to 90%).
 
- **3.5.1: Isn’t it weird to give non-experts (like prediction market investors) the final judgment in which of two experts is right?**
+**3.5.1: Isn’t it weird to give non-experts (like prediction market investors) the final judgment in which of two experts is right?**
 
 Yes, but I don’t think this is avoidable.
 
@@ -208,7 +211,7 @@ If there’s some extremely authoritative source who can make the decision for y
 
 
 
- **3.6: Why does this matter?**
+**3.6: Why does this matter?**
 
 I think prediction markets are our way out of the “crisis of trust” that threatens modern democracy. Lots of people doubt the experts, the government, and the media. Sometimes these doubts are justified; other times they’re loony. Most proposed solutions to this problem are authoritarian (eg ban all sources of information that the speaker doesn’t trust), and throw the baby (a free press capable of challenging authority when necessary) out with the bathwater (real disinformation).
 
@@ -241,7 +244,7 @@ Prediction markets give us a way to get accurate and canonical answers to questi
 
 These are various objections, some wrongheaded, some true but nonfatal. There are many of them, making this section very long - you might want to skip over any objections you’re not worried about.
 
- **4.1: Would prediction markets be ruined by insider trading?**
+**4.1: Would prediction markets be ruined by insider trading?**
 
 That is, suppose there is a market on whether President Biden will resign before the end of his term. President Biden has special knowledge of this, so he could bet on the true outcome and make a lot of money unfairly. He could even change his behavior (eg resign at an unexpected time) just to make more money. Isn’t this unfair?
 
@@ -261,13 +264,13 @@ I think the strongest evidence against is that this basically never happens in s
 
 Probably this is because there are laws against doing harmful and illegal things, and people have decided that stock market gains aren’t worth breaking the law and getting punished. Since prediction markets have only a tiny fraction of the amount of money that stock markets do, probably people won’t consider it worthwhile to commit harmful actions to manipulate them either. If you were going to murder someone to profit off a market, who would you rather kill: a US politician (the PredictIt market on the presidential election has a volume of about $600,000)? Or a Fortune 500 CEO (whose companies might have market caps in the hundreds of billions)?
 
- **4.2.1: What about prediction markets in very specific harmful or illegal activities?**
+**4.2.1: What about prediction markets in very specific harmful or illegal activities?**
 
 I guess if you created a market in “Will someone burn down the 7-11 on Main Street tomorrow at 3:32 AM?”, then bet a lot of money, then did it, that would be bad.
 
 I think realistically nobody would bet against you on that. But probably prediction markets should avoid hosting markets on these very specific bad things, just to make sure.
 
- **4.3: Would prediction markets give rich people more power?**
+**4.3: Would prediction markets give rich people more power?**
 
 That is, suppose we used prediction markets to assess socially important questions like “will the climate change by such-and-such a number of degrees by 2030?” It would be bad if rich people could manipulate our social consensus on this. But you move prediction markets by buying shares, and rich people can afford more shares than poor people. So doesn’t this mean that rich people can manipulate how concerned we are by global warming?
 
@@ -283,7 +286,7 @@ Is there any amount of money that could successfully manipulate a market? I thin
 
 So I think the most honest answer to this objection is: if you are an evil rich person reading this FAQ, then it will definitely work for you. _Please_ sink $100 million into reducing a prediction market’s chance of global warming to 1%. And make sure you tell me first, so that I can fully marvel at your evil genius. This will work great for you and nothing will possibly go wrong.
 
- **4.3.1: But wouldn’t the subtle biases of rich people (which they might genuinely believe) still affect the market more, since they have more money?**
+**4.3.1: But wouldn’t the subtle biases of rich people (which they might genuinely believe) still affect the market more, since they have more money?**
 
 No. See 3.3 for the general reasons why we should expect prediction markets to be free from subtle biases which people genuinely believe. These reasons apply to rich people too.
 
@@ -293,11 +296,11 @@ This just reduces to the Nate Silver situation earlier, with poor people playing
 
 Even if rich people have so much more money than poor people that no group of poor people, however large, can ever correct a rich person mispricing, eventually some smart rich person will hit upon this strategy themselves. If no individual rich person does it, Goldman Sachs will definitely do it.
 
- **4.3.1.1: What if both rich people and poor people have biases, and neither one is consistently more right than the other? Won’t the market still reflect rich people’s biases rather than poor people’s?**
+**4.3.1.1: What if both rich people and poor people have biases, and neither one is consistently more right than the other? Won’t the market still reflect rich people’s biases rather than poor people’s?**
 
 Not if it’s possible for anybody to notice these biases and correct for them. Treating the aggregate opinion of poor people as an expert was just one example. If the winning strategy is something like “trust rich people on financial questions, poor people on environmental questions, and the point exactly halfway between them on social questions”, then whoever discovers that strategy can get rich quick. The more often people use prediction markets, the easier it should be to detect strategies like these.
 
- **4.4: Aren’t prediction markets worse than superforecasting?**
+**4.4: Aren’t prediction markets worse than superforecasting?**
 
 “Superforecasting” refers to a variety of forecasting methods similar to those pioneered by Philip Tetlock and the Good Judgment Project. Typically, they would do something like:
 
@@ -322,7 +325,7 @@ Prediction markets shine in avoiding advanced manipulation attempts, in providin
 
 Remember that a superforecasting tournament can be considered an “expert”, like Nate Silver. So by the argument in Part 2, we should expect that a big prediction market won’t consistently be worse than any given superforecasting tournament, as long as the tournament’s answers are public knowledge. If there were ever a superforecasting tournament that consistently outperformed prediction markets, that would be a simple mispricing, people would correct it, and the market would eventually agree with the tournament.
 
- **4.5: Aren’t prediction markets gambling? Isn’t gambling bad and addictive?**
+**4.5: Aren’t prediction markets gambling? Isn’t gambling bad and addictive?**
 
 Yes, sort of. But most countries allow forms of gambling that aren’t too addictive and have some social value. For example, investing in stocks, or investing in commodities futures. I think prediction markets are more like this than like traditional gambling in casinos.
 
@@ -330,13 +333,13 @@ People who want to gamble can already buy cryptocurrencies, or trade stocks on R
 
 People who are more concerned about the gambling aspect might want to stick to play money prediction markets, which wouldn’t have this problem.
 
- **4.6: Where does the money in prediction markets come from? That is, if "you get a dollar when the Democrats win”, who provides the dollar?**
+**4.6: Where does the money in prediction markets come from? That is, if "you get a dollar when the Democrats win”, who provides the dollar?**
 
 In the abstract, prediction markets pair up people who want to bet on different sides of a proposition. For example, if a market says that there’s a 75% chance that the Democrats win, then they pair up someone willing to buy a share in “The Democrats win” for $0.75 with someone willing to buy a share in “The Democrats lose” for $0.25, for a total of $1 spent on these two shares. Then, when the Democrats either win or lose, the person with the correct share gets the $1.
 
 In practice it’s annoying to have to wait for someone to take the opposite side of the trade, so some people (or bots!) play “market maker” and are willing to take your bet on the assumption that someone else will come along soon to take the other side. But it’s usually safe to abstract this step away and just imagine people betting with each other, using the market as an intermediary.
 
- **4.6.1: Then why should anyone play prediction markets, when on average they’ll only break even? It seems like this is a worse deal than stocks, which tend to go up over time.**
+**4.6.1: Then why should anyone play prediction markets, when on average they’ll only break even? It seems like this is a worse deal than stocks, which tend to go up over time.**
 
 Every dollar someone wins on a prediction market corresponds to someone else’s loss; in expectation; across all participants, the average gain is 0. But the stock market tends to go up over time, as businesses expand to new areas and invent new products; across all participants, the average gain is about 4% per year. So why ever invest in prediction markets instead of stocks?
 
@@ -346,13 +349,13 @@ The futures and commodities markets are also zero-sum, but attract billions of d
 
 Finally, I envision that someday people who want to know the answer to specific questions can subsidize prediction markets on them. For example, the Democratic Party might subsidize a conditional market (see 5.1) about which Democratic primary candidate is most likely to win the general election. Their money would go to giving the average investor a 4% (or some other number) rate of return - although of course winners would gain more than that and losers would still lose on net. I think this is the most likely way for prediction markets to become very big.
 
- **4.6.1.1: If people use prediction markets to hedge risk, won’t that distort them?**
+**4.6.1.1: If people use prediction markets to hedge risk, won’t that distort them?**
 
 That is, suppose that an import-export business spends millions of dollars betting that Trump will win in order to hedge against his protectionist policies. Since their bets aren’t based on the real chance of Trump winning, won’t that distort the market?
 
 No. Suppose that everyone knows Trump has a 50-50 chance of winning. And suppose the import-export business, in the process of hedging risk, bids it up to 90-10. Since you know Trump has a 50-50 chance of winning, you can get rich quick by bidding it back down to 50-50. From your point of view, the import-export business is (in expectation) giving you free money. But they’re still happy to do it, because they’re hedging their risk successfully.
 
- **4.7: Aren’t a lot of the questions we care about inherently subjective or hard to measure?**
+**4.7: Aren’t a lot of the questions we care about inherently subjective or hard to measure?**
 
 This is a frequent problem for prediction markets. For example, we might want to know something like “will we get human-level AI before 2050?” But how do we define “human-level AI”? If there’s an AI that’s much better than humans at most tasks, but much worse at a few, is that “human-level”? If there’s an AI that _seems_ human-level in demos, but the team that makes it won’t let it be independently tested, should that count? If it works through some kind of Frankenstein chip that combines vat-grown brain tissue with computing machinery, is that still an “AI”?
 
@@ -383,7 +386,7 @@ Another method (mostly associated with Manifold) is to just leave it up to human
 
 If prediction markets got big enough, they could spawn trusted “resolution companies” who individual markets and market-makers could outsource their resolution to, for a fee. If these companies were ever dishonest, they would lose all their business from then on, so they would probably be as honest as other businesses like your broker / the NYSE / various online stores / etc.
 
- **4.7.1: Isn’t a lot of the “crisis of trust” around questions that might never have clear future answers?**
+**4.7.1: Isn’t a lot of the “crisis of trust” around questions that might never have clear future answers?**
 
 For example, consider the debate around whether Donald Trump is a Russian agent. Maybe no proof will ever come out either way. Or maybe some evidence _will_ appear that seems to prove one side or the other, but people will continue to deny it for political reasons, and the problem of resolving the prediction market will be just as hard as the problem of answering the original question.
 
@@ -391,7 +394,7 @@ Indeed, prediction markets aren’t very good at this, and are only fully trustw
 
 Still, they might not be completely useless. For example, if you’re worried about Trump being a Russian agent because you expect him to pursue pro-Russia policies, you can start markets in whether he pursues those policies. Or you can start a conditional market (see 5.1) on whether, if Russia ever releases its past intelligence data many years from now, the data confirm/disconfirm that Trump was an agent. See Part 5 for other clever ways you might try to address this problem.
 
- **4.8: “Meme stocks” like Gamestop and AMC sometimes remain mispriced indefinitely. How do we know this won’t happen with prediction markets?**
+**4.8: “Meme stocks” like Gamestop and AMC sometimes remain mispriced indefinitely. How do we know this won’t happen with prediction markets?**
 
 Meme stocks are a type of Ponzi. It’s “reasonable” to buy Gamestop at some inflated price, because - who knows? - someone else might buy it at an even more inflated price tomorrow. And this can keep going arbitrarily long, or at least long enough for you to get out with a profit.
 
@@ -399,7 +402,7 @@ Unlike meme stocks, prediction markets have a clear resolution date. If you’re
 
 I can’t say for sure that no prediction market will _ever_ get mispriced for meme reasons, but they should be much more robust against meme mispricings than the stock market. And even the stock market doesn’t have _too_ many meme stocks.
 
- **4.9: How do prediction markets deal with outcomes in the far future?**
+**4.9: How do prediction markets deal with outcomes in the far future?**
 
 Suppose there is a question “who will win the 2100 election?” Currently it says 25% Democrats, 75% Republicans, and I believe it should be 50-50 (we’ll ignore third parties, or the possibility of America not existing in 2100, for now). So if I bet on the market, I can (in expectation) double my money.
 
@@ -409,7 +412,7 @@ Realistically, this means prediction markets won’t work well for far-future ev
 
 But if you really wanted to use a prediction market, you could theoretically solve this by putting investors’ money in index funds while they waited. Then the winner would get their (and the losers’) original deposits and investment profits, and it would go back to being a better option than investing in index funds directly. In practice this seems complicated and I wouldn’t expect it to work.
 
- **4.9.1: What about predicting things that would make it impossible or pointless to win money, like human extinction?**
+**4.9.1: What about predicting things that would make it impossible or pointless to win money, like human extinction?**
 
 Again, these questions probably aren’t great matches for prediction markets, and you should use forecasting tournaments or some other method (see also 5.5). If you really wanted, you might be able to make it work in theory through a mechanism sort of like [this one](https://www.lesswrong.com/posts/dLzZWNGD23zqNLvt3/the-apocalypse-bet).
 
@@ -417,7 +420,7 @@ Again, these questions probably aren’t great matches for prediction markets, a
 
 Here’s a non-exhaustive list:
 
- **5.1: Conditional prediction markets / decision markets**
+**5.1: Conditional prediction markets / decision markets**
 
 Suppose the government is trying to decide whether to throw its weight behind Vaccine A or Vaccine B for some deadly disease. There are some experts behind both, both sets of experts accuse the other of being in the pay of pharmaceutical companies, and decision-makers don’t know who to trust.
 
@@ -438,7 +441,7 @@ One downside of decision markets is that you have to be very careful to choose t
 
 Another downside is that sometimes conditionals can interact in non-intuitive ways that make conditional prediction markets inappropriate or slightly off. See [this article](https://dynomight.net/prediction-market-causation/) for more details.
 
- **5.2: Politician pledge markets**
+**5.2: Politician pledge markets**
 
 Suppose that President Biden pledges to cut carbon emissions in half by 2030. In theory this is a noble goal. In practice, it’s cheap talk; he can institute whatever policies he wants, but he has no incentive to make them work. By 2030 he’ll be retired and maybe even dead.
 
@@ -446,7 +449,7 @@ Instead, he could pledge to move prediction markets about 2030 emissions. Suppos
 
 For more, see [Instead Of Pledging To Change The World, Pledge To Change Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the).
 
- **5.3: Attention markets**
+**5.3: Attention markets**
 
 Suppose you’re a very important person, like the President of the US, or the CEO of a Fortune 500 company. You want ordinary people to be able to raise important problems to your attention (for example, a threat to national security, or a major flaw in your product). But if you made your email address public, millions of people would send you dumb complaints or random screeds every day.
 
@@ -454,7 +457,7 @@ Prediction markets could solve this. Tell people who have a complaint to start a
 
 I’ve sometimes used this system to resolve moderation issues around this blog, with generally good results.
 
- **5.4: Replication Markets**
+**5.4: Replication Markets**
 
 Suppose you have one hundred scientific studies that got kind of weird results and that you think might have made a mistake somewhere. But you don’t have enough money to repeat all one hundred studies; in fact, you only have enough money to repeat one.
 
@@ -482,7 +485,7 @@ Eliezer Yudkowsky once wrote a story about a civilization that settled legal que
 
 …and so on. A few randomly selected questions went before the Supreme Court each year, and the corresponding markets were resolved normally. In every other case, the market’s verdict was final, and bettors got their money refunded.
 
- **5.5: Asking people who are good at prediction markets to do other things**
+**5.5: Asking people who are good at prediction markets to do other things**
 
 Prediction markets have many limitations. They can’t predict far future events. They have trouble predicting things that involve money becoming worthless (eg human extinction). There are complicated biases in predicting conditionals.
 
@@ -492,7 +495,7 @@ This would lose the well-aligned-incentives and canonicity of prediction markets
 
 [Samotsvety](https://samotsvety.org/) is a group of some of the world’s top forecasters. They have released predictions on various risks and issues that markets/tournaments aren’t a good match for, using the same methodology that they use when predicting in markets and tournaments. I trust them less than I would trust a well-functioning market or tournament, but still quite a substantial amount.
 
- **5.6: Education**
+**5.6: Education**
 
 Even if nobody uses them for anything important, prediction markets’ existence has a salutary effect on the discourse.
 
@@ -546,7 +549,7 @@ If you’re an ordinary person with no special expertise or skills, I think the 
 
 
 
- **7.1: …if I’m an expert in some unrelated field, like biology or physics**
+**7.1: …if I’m an expert in some unrelated field, like biology or physics**
 
 You can still try playing on Manifold, but I would also recommend you [get an account on Metaculus](https://www.metaculus.com/questions/) and try out questions in your area of expertise. Metaculus aims to be policy-relevant, and the more experts it has forecasting scientific questions, the more likely it is to get them right.
 
@@ -562,7 +565,7 @@ If you’re inside the US, your best bet is probably [Kalshi](http://kalshi.com)
 
 I think the sort of person who can make money day trading stocks or crypto can also make some money playing prediction markets, probably with more social utility. As with any investment, please be sure you’re _actually_ a hotshot financial trader, and don’t bet more than you can afford to lose.
 
- **7.3: …if I’m a blogger or journalist?**
+**7.3: …if I’m a blogger or journalist?**
 
 You should consider including or citing prediction markets in your articles.
 
@@ -585,7 +588,7 @@ Here are some examples of journalists talking about prediction markets:
 
 But you don’t have to make the prediction market the focus of your article. If you’re writing about a promising new cancer cure, you might spend a paragraph mentioning that prediction markets think there’s only a 15% chance it will get approved by the FDA. Or if you’re writing about a trial, you could cite the prediction markets’ probability of a guilty verdict.
 
- **7.4: …if I’m a leader or policy-maker in some organization?**
+**7.4: …if I’m a leader or policy-maker in some organization?**
 
 Although prediction markets can be helpful in gathering policy-relevant information and making decisions, I would be nervous about someone using them for something important before they fully understood what they can and can’t do.
 
@@ -593,7 +596,7 @@ If you’re very interested in this, it might be worth contacting [Metaculus ](h
 
 Some companies have their own internal prediction markets, [most famously Google](https://astralcodexten.substack.com/p/mantic-monday-let-me-google-that). Last I checked, Google was offering their services to other companies that wanted to try the same thing, so you might want to try getting in touch with them.
 
- **7.5: …if I’m an entrepreneur who wants to get involved in this space?**
+**7.5: …if I’m an entrepreneur who wants to get involved in this space?**
 
 I’ll be honest. Most of the proposals I see for new prediction market-related companies are bad. Existing prediction-market-related companies are pretty good, and I’m not sure how you would improve on them in the current environment. The main barrier everyone is facing is regulatory, and I don’t know how adding one more entrepreneur would fix this.
 

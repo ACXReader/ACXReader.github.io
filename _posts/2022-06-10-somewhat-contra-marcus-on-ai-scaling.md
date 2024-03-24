@@ -3,6 +3,9 @@ title: "Somewhat Contra Marcus On AI Scaling"
 subtitle: "..."
 date: 2022-06-10
 likes: 106
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/58486941/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c1d452e2-03fa-40a4-aaad-ad4a844ea364_600x600.jpeg
 original-url: https://www.astralcodexten.com/p/somewhat-contra-marcus-on-ai-scaling
 ---
 **I.**
@@ -25,7 +28,7 @@ To repeat, the main point I was making in my last post was that we should mostly
 
 But I do think we have a more substantive disagreement that it’s worth fleshing out.
 
- **II.**
+**II.**
 
 Let’s start with a softball: I think, regardless of whether or not Marcus is right, he’s failed to provide evidence for his position.
 
@@ -63,7 +66,7 @@ Marcus is admitting this: each GPT has been better than the one before. He even 
 
 That is: suppose we created some ideal Platonic benchmark of every reasoning problem you might ask a human. Suppose GPT-2 got 20% of these right, and GPT-3 gets 40% of these right. Might some future GPT-X - not necessarily 4, but 5, or 10, or whatever - get 100% right? I don’t see how Marcus can rule this out: he [can’t point to](https://arxiv.org/pdf/2201.02387.pdf) any specific kind of reasoning problem GPTs will never be able to solve. And he agrees that each generation of GPTs can solve more than the one before. So why shouldn’t GPT keep progressing until it gets 100%?
 
- **III.**
+**III.**
 
 My understanding of Marcus is that he’s going off some argument like this: GPT makes ridiculous mistakes that no human would make. This proves that it doesn’t have common sense - or, more technically some specific skill called “world-modeling”. If you could model the world, you would never make these kinds of ridiculous mistakes. Therefore, until someone figures out how to add in that skill, GPT will continue to be deficient. Even if hypothetically you feed it so much data that it can answer all reasoning problems, it’s doing something like a [giant lookup table](https://www.lesswrong.com/posts/k6EPphHiBH4WWYFCj/gazp-vs-glut), and we shouldn’t be especially impressed.
 
@@ -89,33 +92,33 @@ And a [4chan post](https://www.reddit.com/r/greentext/comments/s5drf0/iqpills_fr
 
 I have no proof that this person is who they say they are, but it matches some of my experience giving cognitive exams to patients from low-functioning populations. And it matches Flynn on Luria (who admittedly was approaching IQ from a cultural relativist viewpoint, but one which I think is equally applicable to the current problem). Luria gave IQ-test-like questions to various people across the USSR. He ran into trouble when he got to Uzbek peasants (transcribed, with some changes for clarity, from [here](https://languagelog.ldc.upenn.edu/nll/?p=481)):
 
->  **Luria:** All bears are white where there is always snow. In Novaya Zemlya there is always snow. What color are the bears there?  
->  **Peasant:** I have seen only black bears and I do not talk of what I have not seen.  
->  **Luria:** What what do my words imply?  
->  **Peasant:** If a person has not been there he can not say anything on the basis of words. If a man was 60 or 80 and had seen a white bear there and told me about it, he could be believed.
+> **Luria:** All bears are white where there is always snow. In Novaya Zemlya there is always snow. What color are the bears there?  
+> **Peasant:** I have seen only black bears and I do not talk of what I have not seen.  
+> **Luria:** What what do my words imply?  
+> **Peasant:** If a person has not been there he can not say anything on the basis of words. If a man was 60 or 80 and had seen a white bear there and told me about it, he could be believed.
 
 And:
 
->  **Luria:** There are no camels in Germany; the city of B is in Germany; are there camels there or not?  
->  **Peasant:** I don't know, I have never seen German villages. If is a large city, there should be camels there.  
->  **Luria:** But what if there aren't any in all of Germany?  
->  **Peasant:** If B is a village, there is probably no room for camels.
+> **Luria:** There are no camels in Germany; the city of B is in Germany; are there camels there or not?  
+> **Peasant:** I don't know, I have never seen German villages. If is a large city, there should be camels there.  
+> **Luria:** But what if there aren't any in all of Germany?  
+> **Peasant:** If B is a village, there is probably no room for camels.
 
 And:
 
->  **Luria:** What do a chicken and a dog have in common?  
->  **Peasant:** They are not alike. A chicken has two legs, a dog has four. A chicken has wings but a dog doesn't. A dog has big ears and a chicken's are small.  
->  **Luria:** Is there one word you could use for them both?  
->  **Peasant:** No, of course not.  
->  **Luria:** Would the word "animal" fit?  
->  **Peasant:** Yes.
+> **Luria:** What do a chicken and a dog have in common?  
+> **Peasant:** They are not alike. A chicken has two legs, a dog has four. A chicken has wings but a dog doesn't. A dog has big ears and a chicken's are small.  
+> **Luria:** Is there one word you could use for them both?  
+> **Peasant:** No, of course not.  
+> **Luria:** Would the word "animal" fit?  
+> **Peasant:** Yes.
 
 And:
 
->  **Luria:** What do a fish and a crow have in common?  
->  **Peasant:** A fish — it lives in water. A crow flies. If the fish just lies on top of the water, the crow could peck at it. A crow can eat a fish but a fish can't eat a crow.  
->  **Luria:** Could you use one word for them both?  
->  **Peasant:** If you call them "animals", that wouldn't be right. A fish isn't an animal and a crow isn't either. A crow can eat a fish but a fish can't eat a bird. A person can eat fish but not a crow.
+> **Luria:** What do a fish and a crow have in common?  
+> **Peasant:** A fish — it lives in water. A crow flies. If the fish just lies on top of the water, the crow could peck at it. A crow can eat a fish but a fish can't eat a crow.  
+> **Luria:** Could you use one word for them both?  
+> **Peasant:** If you call them "animals", that wouldn't be right. A fish isn't an animal and a crow isn't either. A crow can eat a fish but a fish can't eat a bird. A person can eat fish but not a crow.
 
 What I gather from all of this is that the human mind doesn’t start with some kind of crystalline beautiful ability to solve what seem like trivial and obvious logical reasoning problems. It starts with weaker, lower-level abilities. Then, if you live in a culture that has a strong tradition of abstract thought, and you’re old enough/smart enough/awake enough/concentrating enough to fully absorb and deploy that tradition, _then_ you become good at abstract thought and you can do logical reasoning problems successfully.
 
@@ -127,7 +130,7 @@ What is the pre-logical function that logic gets knit out of? I think it’s som
 
 To put it another way, my brain is _in some sense_ a supercomputer that can outperform the best calculating machines in the world - but also, I have trouble multiplying three digit numbers in my head. The supercomputer is doing _something_ , and then I’m using that something, very lossily, to emulate logical functions like math or formal logic. So when I see GPT, which also runs on a supercomputer, also slowly gaining the ability to multiply two-digit, then three-digit numbers as the supercomputer gets bigger and bigger, I feel a sort of kinship with it. It’s a trash heap of patterns with a hard-won ability to sometimes break out into the clear day of logical reasoning, _just like me_.
 
- **IV.**
+**IV.**
 
 I think Marcus knows and agrees with most of this, but I think he thinks of the world-modeling ability as some special rare brain region (maybe the [prefrontal cortex](https://baicsworkshop.github.io/pdf/BAICS_10.pdf)?) which is only online part of the time (or maybe can have its performance degrade gracefully). Whereas I think of it as shallower pattern-matching abilities which escalate to deeper and deeper pattern-matching abilities as more and more brainpower becomes available, with world-modeling as one of the deepest (and sure, probably the PFC plays a major role, but not because it has a fundamentally different structure but just because that’s where reinforcement learning stuck the highest-level patterns). Why do I think this?
 
@@ -169,19 +172,19 @@ Worse, now we have AIs that _can_ switch between [writing poetry](https://slates
 
 So even if GPTs aren’t a step on the path towards some sort of human-like AGI thing, I have no idea where they’ll end up. Replacing humans at all jobs? Writing novels? Taking over the world? If this seems crazy to you, “solve protein folding” sounded crazy ten years ago, and they already did that! At this point I will basically believe anything.
 
- **VI.**
+**VI.**
 
 So I’m not going to take Marcus’ bet that GPT-4 will be perfect (as if anything ever is!). But here are some things I do believe, with confidence levels:
 
   1. At some point before 2030, someone will come out with a deep-learning-based language model which is significantly better than the current state of the art, by Gary Marcus’ admission **(97%)**
 
-  2. At some point before 2030, someone will come out with a DLBLM which makes few or no embarrassing errors on practical reasoning problems - for example, maybe it can beat a 10 year old child on this genre of question. ( **66%)**
+  2. At some point before 2030, someone will come out with a DLBLM which makes few or no embarrassing errors on practical reasoning problems - for example, maybe it can beat a 10 year old child on this genre of question. (**66%)**
 
-  3. When we finally get something that most people agree is AGI, whether by [Marcus’ definition here](https://garymarcus.substack.com/p/dear-elon-musk-here-are-five-things?utm_source=%2Fprofile%2F14807526-gary-marcus&utm_medium=reader2&s=r) or just by common sense, it will be a descendant in some important way of the kind of deep learning that produced GPT-3. ( **90%** )
+  3. When we finally get something that most people agree is AGI, whether by [Marcus’ definition here](https://garymarcus.substack.com/p/dear-elon-musk-here-are-five-things?utm_source=%2Fprofile%2F14807526-gary-marcus&utm_medium=reader2&s=r) or just by common sense, it will be a descendant in some important way of the kind of deep learning that produced GPT-3. (**90%**)
 
-  4. …as above, and also it won’t incorporate a further paradigm shift centering around deliberate human addition of the kind of neurosymbolic systems Marcus talks about (it can still include other paradigm shifts) ( **66%)**
+  4. …as above, and also it won’t incorporate a further paradigm shift centering around deliberate human addition of the kind of neurosymbolic systems Marcus talks about (it can still include other paradigm shifts) (**66%)**
 
-  5. …in fact, it won’t incorporate any further paradigm shifts at all, beyond the bare minimum required to let it do things other than handle short text strings (eg actuators, sensors, larger attention windows, etc) - its brain won’t be that much more different from current AIs than current AIs are from 2015 AIs. ( **40%** )
+  5. …in fact, it won’t incorporate any further paradigm shifts at all, beyond the bare minimum required to let it do things other than handle short text strings (eg actuators, sensors, larger attention windows, etc) - its brain won’t be that much more different from current AIs than current AIs are from 2015 AIs. (**40%**)
 
 
 

@@ -3,9 +3,12 @@ title: "Your Book Review: Why Machines Will Never Rule the World"
 subtitle: "Finalist #3 in the Book Review Contest"
 date: 2023-06-03
 likes: 170
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/123527301/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/0429f7b4-63dd-406d-84a7-eaa0cc8d21fd_1000x667.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-why-machines-will
 ---
-[ _This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_ ]
+[_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]
 
 I'll begin with a contentious but invariably true statement, which I've no interest in defending here: new books—at least new nonfiction books—are not meant to be read. In truth, a new book is a Schelling point for the transmission of ideas. So while the nominal purpose of a book review like this is to answer the question _Should I read this book?_ , its real purpose is to answer _Should I pick up these ideas?_
 
@@ -112,4 +115,4 @@ The Straussian reading of _Why Machines Will Never Rule the World_ is that Landg
 
 But the[ double secret](https://www.youtube.com/watch?v=hostgKc7qV4&t=62s) Straussian reading is to recognize that the future of cognitive automation is extremely uncertain; that stringing too many propositions together with varying levels of empirical support is a fraught business; and that we live in a world where bioengineered viruses and 13,000 nuclear warheads exist, right now, and maybe there are opportunity costs to writing, reading, reviewing, and reading the reviews of treatises on AI.
 
- _Why Machines Will Never Rule the World_ is 301 pages before you hit the appendices. You can buy the paperback from the [publisher](https://www.routledge.com/Why-Machines-Will-Never-Rule-the-World-Artificial-Intelligence-without/Landgrebe-Smith/p/book/9781032309934) or on [Amazon](https://www.amazon.com/Machines-Will-Never-Rule-World/dp/1032309938) for $48.95, almost exactly the price of a Warhammer starter set or 800 grams of Dutch baby formula.
+_Why Machines Will Never Rule the World_ is 301 pages before you hit the appendices. You can buy the paperback from the [publisher](https://www.routledge.com/Why-Machines-Will-Never-Rule-the-World-Artificial-Intelligence-without/Landgrebe-Smith/p/book/9781032309934) or on [Amazon](https://www.amazon.com/Machines-Will-Never-Rule-World/dp/1032309938) for $48.95, almost exactly the price of a Warhammer starter set or 800 grams of Dutch baby formula.

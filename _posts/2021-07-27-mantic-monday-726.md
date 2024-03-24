@@ -3,6 +3,9 @@ title: "Mantic Monday 7/26"
 subtitle: "Kalshi, COVID, Orthodox Jews, and monkeypox"
 date: 2021-07-27
 likes: 45
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39163175/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1e54a08c-e6ec-439e-9320-783ded9598f3_1600x900.jpeg
 original-url: https://www.astralcodexten.com/p/mantic-monday-726
 ---
 #### This Week In Markets

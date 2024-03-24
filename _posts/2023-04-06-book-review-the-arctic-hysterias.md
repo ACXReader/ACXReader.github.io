@@ -3,11 +3,14 @@ title: "Book Review: The Arctic Hysterias"
 subtitle: "..."
 date: 2023-04-06
 likes: 176
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/109325851/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/4ec7b015-7c80-4020-951c-4f1980ffebc3_1067x800.webp
 original-url: https://www.astralcodexten.com/p/book-review-the-arctic-hysterias
 ---
 **I.**
 
-Strange things are done in the midnight sun, say the poets who wrote of old. The Arctic trails have their secret tales that would make your blood run cold. The Northern Lights have seen queer sights, but the queerest they ever did see are chronicled in _[The Arctic Hysterias](https://amzn.to/3ZtSj72)_ , psychiatrist Edward Foulks’ description of the culture-bound disorders of the Eskimos[1](/p/book-review-the-arctic-hysterias#footnote-1-109325851).
+Strange things are done in the midnight sun, say the poets who wrote of old. The Arctic trails have their secret tales that would make your blood run cold. The Northern Lights have seen queer sights, but the queerest they ever did see are chronicled in _[The Arctic Hysterias](https://amzn.to/3ZtSj72)_ , psychiatrist Edward Foulks’ description of the culture-bound disorders of the Eskimos[^1]. 
 
 For example, kayak phobia:
 
@@ -62,9 +65,9 @@ In [my review of ](https://astralcodexten.substack.com/p/book-review-the-geograp
 
 Foulks’ explanation of piblokto is none of these. He thinks Eskimo society is so different from Western society that Eskimos end up with a different psychic structure, one that handles stress in different ways.
 
-(if you haven’t already, consider reading my review of Jaynes’ _[Origin Of Consciousness](https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/)_ or CubeFlipper’s review of Sorenson’s _[Preconquest Consciousness](https://smoothbrains.net/posts/2022-08-24-planetary-scale-vibe-collapse.html)_ )
+(if you haven’t already, consider reading my review of Jaynes’ _[Origin Of Consciousness](https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/)_ or CubeFlipper’s review of Sorenson’s _[Preconquest Consciousness](https://smoothbrains.net/posts/2022-08-24-planetary-scale-vibe-collapse.html)_)
 
-You can start to sketch out his thesis from the descriptions of kayak phobia and qivitoq above. At the risk of sounding like a judgmental Westerner who thinks other societies are worse than his own, Eskimo society is worse than mine. There is no privacy - after all, igloos have no walls. Nobody ever gets a moment alone, except on hunting trips. Everyone is watching each other and talking to each other all the time. In all this watching and talking, nobody ever compliments or praises anyone else, or expresses happiness or gratitude (the closest Foulks comes to admitting an exception to this rule is that a wife may sometimes smile when her husband arrives home from a weeks-long hunt). But they mock each other’s failures all the time, forever. That quote about qivitoq at the top of this post is pretty typical. Any Eskimo who makes a mistake or just fails to conform will be the butt of everyone’s barbs until they die - often of suicide[2](/p/book-review-the-arctic-hysterias#footnote-2-109325851)
+You can start to sketch out his thesis from the descriptions of kayak phobia and qivitoq above. At the risk of sounding like a judgmental Westerner who thinks other societies are worse than his own, Eskimo society is worse than mine. There is no privacy - after all, igloos have no walls. Nobody ever gets a moment alone, except on hunting trips. Everyone is watching each other and talking to each other all the time. In all this watching and talking, nobody ever compliments or praises anyone else, or expresses happiness or gratitude (the closest Foulks comes to admitting an exception to this rule is that a wife may sometimes smile when her husband arrives home from a weeks-long hunt). But they mock each other’s failures all the time, forever. That quote about qivitoq at the top of this post is pretty typical. Any Eskimo who makes a mistake or just fails to conform will be the butt of everyone’s barbs until they die - often of suicide[^2]
 
 (if you haven’t already, consider reading [Erik Hoel’s review of ](https://erikhoel.substack.com/p/the-gossip-trap)_[The Dawn Of Everything](https://erikhoel.substack.com/p/the-gossip-trap)_ , especially the last few parts on “the gossip trap”)
 
@@ -78,7 +81,7 @@ So piblokto (Foulks suggests) is something like a child’s temper tantrum, a re
 
 If this were true, we should expect to see similar conditions in other shame cultures; Foulks does not explore this as much as I would like, but at least gestures at [running amok](https://en.wikipedia.org/wiki/Running_amok) in Malaysia.
 
- **II.**
+**II.**
 
 Like koro, neurasthenia, and other culture-bound illnesses, piblokto is endangered. Peary saw plenty of piblokto just hanging out in 1910s Greenland, but Foulks had to spend years in an Alaskan psychiatric hospital just to see a handful.
 
@@ -96,7 +99,7 @@ First, piblokto, like koro, dies out as its host culture westernizes. Even a lit
 
 Second, piblokto was a reaction to the very particular stress of being an Eskimo meeting a Western explorer for the first time. This isn’t how mental disorders usually work, right? Exotic stress responses for one particular kind of stress that you can only have once, and then you never experience it again? The only reason I take it seriously is that it exactly matches [Sorenson’s report of a weird weeklong mass hysteria among the Andamanese](https://smoothbrains.net/posts/2022-08-24-planetary-scale-vibe-collapse.html) \- which he describes as the death throes of a premodern form of consciousness encountering and getting replaced by modern consciousness. This feels a little magical to me - one explorer coming in and asking for help finding the North Pole doesn’t seem like enough to cause society-wide vibe collapse. Still, it kind of fits.
 
- **III.**
+**III.**
 
 I said before that for any culture-bound illness, you can find one or two scattered examples far away from the relevant culture. So: I’ve seen one US case that _sort of_ looks like piblokto.
 
@@ -112,7 +115,7 @@ One more thing: Dr. Foulks found that all ten of his piblokto patients had a his
 
 So far it’s all pretty mysterious.
 
- **IV.**
+**IV.**
 
 Foulks is an old-school medic, not the flavor of modern anthropologist who uses the word “colonialism” a dozen times per page. This makes him a remarkably good recorder of all the colonialism going on around him. He’s not there to judge; he is as close to having no political motive as a chronicler ever gets. He’s just taking psych histories in the middle of a slow-motion breakdown of his patients’ society.
 
@@ -140,10 +143,6 @@ Despite these sorrows, people no longer protest their lot by tearing at their cl
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F639a01ca-b719-4109-973b-b97e0561642a_250x363.png)](https://amzn.to/3KDYAIY)
 
-[1](/p/book-review-the-arctic-hysterias#footnote-anchor-1-109325851)
+[^1]: I follow Foulks’ lead in using “Eskimo” instead of the alternative “Inuit”. The Eskimos include two subgroups, the Inuit and the Yupik, and Foulks is writing about both. Previous claims that “Eskimo” had an insulting meaning have not been borne out by the latest scholarship. Cf. [Give Up Seventy Percent Of The Way Through The Hyperstitious Slur Cascade](https://astralcodexten.substack.com/p/give-up-seventy-percent-of-the-way).
 
-I follow Foulks’ lead in using “Eskimo” instead of the alternative “Inuit”. The Eskimos include two subgroups, the Inuit and the Yupik, and Foulks is writing about both. Previous claims that “Eskimo” had an insulting meaning have not been borne out by the latest scholarship. Cf. [Give Up Seventy Percent Of The Way Through The Hyperstitious Slur Cascade](https://astralcodexten.substack.com/p/give-up-seventy-percent-of-the-way).
-
-[2](/p/book-review-the-arctic-hysterias#footnote-anchor-2-109325851)
-
-In [Suicide Hotspots Of The World](https://slatestarcodex.com/2020/02/05/suicide-hotspots-of-the-world/), I wrote about how Greenland had the world’s highest suicide rate, and that this seemed to be a general feature of Eskimo communities. In that post, I argued that this post-dated contact with white society, and was probably a combination of colonialism and alcohol. But Foulks has a lot of horror stories about even traditional Eskimo cultures, where once someone is disabled or embarrasses themselves or is just bad at conforming, their family and community start hounding them to commit suicide, ratcheting up the social pressure until they comply. He attributes this to ancient polar winters, when there would be too little food and too many mouths to feed, and mouths would have to be eliminated until the equation balanced. This sounds plausible to me, but I don’t know how to square it with the official Greenland data suggesting low suicide rates at the very beginning of contact.
+[^2]: In [Suicide Hotspots Of The World](https://slatestarcodex.com/2020/02/05/suicide-hotspots-of-the-world/), I wrote about how Greenland had the world’s highest suicide rate, and that this seemed to be a general feature of Eskimo communities. In that post, I argued that this post-dated contact with white society, and was probably a combination of colonialism and alcohol. But Foulks has a lot of horror stories about even traditional Eskimo cultures, where once someone is disabled or embarrasses themselves or is just bad at conforming, their family and community start hounding them to commit suicide, ratcheting up the social pressure until they comply. He attributes this to ancient polar winters, when there would be too little food and too many mouths to feed, and mouths would have to be eliminated until the equation balanced. This sounds plausible to me, but I don’t know how to square it with the official Greenland data suggesting low suicide rates at the very beginning of contact.

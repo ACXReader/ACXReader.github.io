@@ -3,6 +3,9 @@ title: "The Low-Hanging Fruit Argument: Models And Predictions"
 subtitle: "..."
 date: 2022-04-01
 likes: 101
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/51086762/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f8edb3bf-dbfc-4bdd-b82e-8e9174adbe07_345x226.png
 original-url: https://www.astralcodexten.com/p/the-low-hanging-fruit-argument-models
 ---
 A followup to [Contra Hoel On Aristocratic Tutoring](https://astralcodexten.substack.com/p/contra-hoel-on-aristocratic-tutoring?s=w):
@@ -34,7 +37,7 @@ This model can explain some otherwise confusing observations about the history o
 
 Going one-by-one:
 
- **1: Early scientists should make more (and larger) discoveries than later scientists**
+**1: Early scientists should make more (and larger) discoveries than later scientists**
 
 In our model, a forager spends her day walking some distance away from camp, then foraging there. Her success depends on how far from camp she is, and how depleted the food supply is in the area she tries to exploit. For example, if she has twelve hours of daylight, she might walk for six hours, then spend six hours foraging.
 
@@ -46,7 +49,7 @@ The point is: early foragers and later foragers both face an explore/exploit tra
 
 Breaking out of the analogy: a scientist can spend her lifespan either catching up to the frontier of knowledge, or trying to make new discoveries (realistically these aren’t completely separate activities, but I’m modeling them as if they are). The further a scientist goes into previously unexplored sub-sub-fields, the more likely she is to reach an area nobody has ever thought about before, where there might be interesting discoveries to make. If she sticks to well-covered territory like tenth-grade Euclidean geometry, it’s very unlikely (though still not literally impossible) for her to find something everyone else has missed.
 
- **2: Early scientists should be relatively more likely to be amateurs; later scientists, professionals.**
+**2: Early scientists should be relatively more likely to be amateurs; later scientists, professionals.**
 
 Imagine two foragers. One is a weaver, and mostly spends her time in camp weaving, but occasionally ventures out for a few hours to gather. The other is a full-time forager and spends her entire day trekking in search of food. Which is more likely to make a major find - say, a giant nest of delicious ostrich eggs, left all alone?
 
@@ -56,7 +59,7 @@ After they’ve been encamped a while and the immediate environs are depleted, i
 
 In the early days of science, many discoveries were made by lucky amateurs. Van Leeuwanhoek was a businessman; Lavoisier was an aristocrat and politician, Bayes was a minister, Franklin was a printer/author/inventor/socialite/ambassador/postmaster/firefighter/musician/philanthropist/Founding Father. Nowadays there are very occasional discoveries by amateurs (eg [de Grey on chromatic number](https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/)) but they seem much less frequent.
 
- **3: Early scientists should make discoveries younger (on average) than later scientists**
+**3: Early scientists should make discoveries younger (on average) than later scientists**
 
 Just after setting up camp, a forager might walk for a few minutes and stumble across the ostrich eggs. After many days of foraging, they might have to walk six hours before reaching terrain pristine enough to potentially hold such an exciting find.
 

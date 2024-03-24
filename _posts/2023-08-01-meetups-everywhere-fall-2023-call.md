@@ -3,11 +3,14 @@ title: "Meetups Everywhere Fall 2023 - Call For Organizers"
 subtitle: "..."
 date: 2023-08-01
 likes: 34
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/135600514/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/049dcb0b-9407-44fe-a306-988b28926165_1000x667.jpeg
 original-url: https://www.astralcodexten.com/p/meetups-everywhere-fall-2023-call
 ---
 There are ACX meetup groups all over the world. Lots of people are vaguely interested, but don't try them out until I make a big deal about it on the blog. Since learning that, I've tried to make a big deal about it on the blog twice annually, and it's that time of year again.
 
- **If you're willing to organize a meetup for your city, please[ fill out the organizer form](https://forms.gle/3jt6Ypw7vgx8HG9o9).**
+**If you're willing to organize a meetup for your city, please[ fill out the organizer form](https://forms.gle/3jt6Ypw7vgx8HG9o9).**
 
 The form will ask you to pick a location, time, and date, and to provide an email address where people can reach you for questions. It will also ask a few short questions about how excited you are to run the meetup to help pick between multiple organizers in the same city. One meetup per city will be advertised on the blog, and people can get in touch with you about details or just show up.
 
@@ -17,7 +20,7 @@ If you feel more ambitious, collect people’s names and emails if they’re int
 
 Here’s a short FAQ for potential meetup organizers:
 
- **1\. How do I know if I would be a good meetup organizer?**
+**1\. How do I know if I would be a good meetup organizer?**
 
 If you can put a name/time/date in a box on Google Forms and show up there, you have the minimum skill necessary to be a meetup organizer for your city, and I recommend you sign up. 
 
@@ -27,7 +30,7 @@ Lots of cities have existing meetup groups and we’ll probably prioritize them,
 
 If you _are_ the leader of your city’s existing meetup group, please fill in the form anyway and say so, just so that we re-establish contact.
 
- **2\. How will people hear about the meetup?**
+**2\. How will people hear about the meetup?**
 
 You give me the information, and on August 25 (or so), I’ll post it on ACX. An event will also be created on [LessWrong’s Community](https://www.lesswrong.com/community) page. 
 
@@ -35,7 +38,7 @@ You give me the information, and on August 25 (or so), I’ll post it on ACX. An
 
 Since I’ll post the list of meetup times and dates around August 25, please choose sometime after that. Any day September 1st through October 31st is okay. I recommend a weekend, since it's when most people are available. You’ll probably get more attendance if you schedule for at least one week out, but not so far out that people will forget - so mid September or early October would be best. If you're in the US, be careful around Labor Day weekend since a lot of people will be away. If you’re in a college town, maybe wait until school starts.
 
- **4\. How many people should I expect?**
+**4\. How many people should I expect?**
 
 The last time we tried this, meetups ranged from one person to over a hundred. Meetups in big US cities (especially ones with universities or tech hubs) had the most people; meetups in non-English-speaking countries had the fewest. You can see a list of every city and how many people most of them got last time [here](https://docs.google.com/spreadsheets/d/1awPp1g2YigcGXOqaLPb8ecED0kRra9Q_KRcG-uyHomA/edit?usp=sharing). Plan accordingly. 
 
@@ -43,7 +46,7 @@ The last time we tried this, meetups ranged from one person to over a hundred. M
 
 A good venue should be easy for people to get to, not too loud, and have basic things like places to sit, access to toilets, and the option of acquiring food and water. City parks and mall common areas work well. If you want to hold the meetup at your house, remember that this will involve me posting your address on the Internet.
 
- **6\. What should I do at the meetup?**
+**6\. What should I do at the meetup?**
 
 Mostly people just show up and talk. If you’re worried about this not going well, here are some things that can help:
 
@@ -56,13 +59,13 @@ Mostly people just show up and talk. If you’re worried about this not going we
 
 In general I would warn against trying to impose mandatory activities (e.g. “now we're all going to sit down and watch a PowerPoint presentation”), but it’s fine to give people the _option_ to do something other than freeform socializing (e.g. “go over to that table if you want to play a game”).
 
- **7\. Is it okay if I already have an existing meetup group?**
+**7\. Is it okay if I already have an existing meetup group?**
 
 Yes. If you run an existing ACX meetup group, just choose one of your meetings which you'd like me to advertise on my blog as the official meetup for your city, and be prepared to have a larger-than-normal attendance who might want to do generic-new-people things that day.
 
 If you're a LW, EA, or other affiliated community meetup group, consider carefully whether you want to be affiliated with ACX. If you decide yes, that's fine, but I might still choose an ACX-specific meetup over you, if I find one. I guess this would depend on whether you're primarily a social group (good for this purpose) vs. a practical group that does rationality/altruism/etc activism (good for you, but not really appropriate for what I'm trying to do here). I'll ask about this on the form.
 
- **8\. If this works, am I committing to continuing to organize meetup groups forever for my city?**
+**8\. If this works, am I committing to continuing to organize meetup groups forever for my city?**
 
 The short answer is no.
 
@@ -76,6 +79,6 @@ I have in the past and had a lot of fun, but also found it pretty tiring. Since 
 
 Again,[ you can find the meetup organizer volunteer form here](https://forms.gle/gBt71S3hHgNTYe928). If you want to know if anyone has signed up to run a meetup for your city, you can view that [here](https://docs.google.com/spreadsheets/d/1Y6QWH0CjcqC7PLhJUYVvNpqbHx6EwEMH-JhvJrgambU/edit?usp=sharing). Everyone else, just wait until 8/25 and I'll give you more information on where to go then.
 
- **10\. What if I have other questions?**
+**10\. What if I have other questions?**
 
 Skyler and I will read the comments here.

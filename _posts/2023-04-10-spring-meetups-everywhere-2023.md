@@ -3,6 +3,9 @@ title: "Spring Meetups Everywhere 2023"
 subtitle: "..."
 date: 2023-04-10
 likes: 37
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/113930946/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/da1e7e38-f78c-44aa-9f69-f19f27881c9b_1000x667.jpeg
 original-url: https://www.astralcodexten.com/p/spring-meetups-everywhere-2023
 ---
 Many cities have regular Astral Codex Ten meetup groups. Twice a year, I try to advertise their upcoming meetups and make a bigger deal of it than usual so that irregular attendees can attend. This is one of those times.
@@ -30,20 +33,20 @@ Within each region it’s alphabetized then by city - so the first entry in Euro
 
 I’ll provisionally be attending the Berkeley meetup on May 6th. Skyler will provisionally be attending Manhattan, DC, Boston, Philadelphia, and Berkeley.
 
- **Extra Info For Potential Attendees**
+**Extra Info For Potential Attendees**
 
- **1.** If you’re reading this, you’re invited. Please don’t feel like you “won’t be welcome” just because you’re new to the blog, demographically different from the average reader, or hate ACX and everything it stands for. You’ll be fine!  
+**1.** If you’re reading this, you’re invited. Please don’t feel like you “won’t be welcome” just because you’re new to the blog, demographically different from the average reader, or hate ACX and everything it stands for. You’ll be fine!  
 **2**. You don’t have to RSVP or contact the organizer to be able to attend (unless the event description says otherwise); RSVPs are mostly to give organizers a better sense of how many people might show up, and let them tell you if there are last-second changes. I’ve also given email addresses for all organizers in case you have a question.
 
- **Extra Info For Meetup Organizers:  
+**Extra Info For Meetup Organizers:  
   
 1.** If you’re the host, bring a sign that says “ACX MEETUP” and prop it up somewhere (or otherwise be identifiable).  
- **2.** Bring blank labels and pens for nametags.  
- **3.** Have people type their name and email address in a spreadsheet or in a Google Form (accessed via a bit.ly link or QR code), so you can start a mailing list to make organizing future meetups easier.  
- **4.** If it’s the first meetup, people are probably just going to want to talk, and if you try to organize some kind of “fun” “event” it’ll probably just be annoying.  
- **5.** It’s easier to schedule a followup meetup while you’re having the first, compared to trying to do it later on by email.  
- **6.** In case people want to get to know each other better outside the meetup, you might want to mention[ reciprocity.io](https://www.reciprocity.io/), the rationalist friend-finder/dating site.  
- **7.** If you didn’t make a LessWrong event for your meetup, the LessWrong team did it for you using the email address you gave here. To claim your event, log into LW (or create an account) using that email address, or message the LW team on Intercom (chat button in the bottom right corner of lesswrong.com).
+**2.** Bring blank labels and pens for nametags.  
+**3.** Have people type their name and email address in a spreadsheet or in a Google Form (accessed via a bit.ly link or QR code), so you can start a mailing list to make organizing future meetups easier.  
+**4.** If it’s the first meetup, people are probably just going to want to talk, and if you try to organize some kind of “fun” “event” it’ll probably just be annoying.  
+**5.** It’s easier to schedule a followup meetup while you’re having the first, compared to trying to do it later on by email.  
+**6.** In case people want to get to know each other better outside the meetup, you might want to mention[ reciprocity.io](https://www.reciprocity.io/), the rationalist friend-finder/dating site.  
+**7.** If you didn’t make a LessWrong event for your meetup, the LessWrong team did it for you using the email address you gave here. To claim your event, log into LW (or create an account) using that email address, or message the LW team on Intercom (chat button in the bottom right corner of lesswrong.com).
 
 If you need to change a meetup date or you have any other questions, please email skyler[at]rationalitymeetups[dot]org. 
 
@@ -51,7 +54,7 @@ If you need to change a meetup date or you have any other questions, please emai
 
 ## Africa
 
- **CAPE TOWN, SOUTH AFRICA**  
+**CAPE TOWN, SOUTH AFRICA**  
 Contact: Yaseen Mowzer  
 Contact Info: yaseen [at] mowzer [dot] co [dot] za  
 Time: Saturday, 27 May 2023, 11:00 AM.  
@@ -60,7 +63,7 @@ Coordinates: <https://plus.codes/4FRW3CCF+P3>
 Event Link: <https://www.lesswrong.com/events/AAPnyjpNBwtBD6hix/cape-town-south-africa-acx-meetups-everywhere-spring-2023>  
 Notes: Whatsapp: +27 79 813 5144
 
- **JUBA, SOUTH SUDAN**  
+**JUBA, SOUTH SUDAN**  
 Contact: Daniel  
 Contact Info: dnledvs[at]gmail.com  
 Time: Sunday, April 23rd, 03:00 PM.  
@@ -77,7 +80,7 @@ Event Link: <https://www.lesswrong.com/events/ZYDgJkMFZ4dEGuJJa/lagos-nigeria-ac
 
 ## Asia-Pacific
 
- **AHMEDABAD, GUJARAT, INDIA**  
+**AHMEDABAD, GUJARAT, INDIA**  
 Contact: Kabir  
 Contact Info: rudrakabir[at]gmail[dot]com  
 Time: Saturday, April 15th, 06:00 PM  
@@ -110,7 +113,7 @@ Coordinates: <https://plus.codes/4V8JFHHM+CG>
 Event Link:<https://www.facebook.com/events/609894044396249/>  
 Notes: I will have someone with a sign saying ACX inside Engineering core by the main entrance. Everyone is very welcome! You should come along!
 
- **DELHI, INDIA**  
+**DELHI, INDIA**  
 Contact: Suryansh Tyagi  
 Contact Info: suryansh[at]firstbelief[dot]com  
 Time: Sunday, May 21st, 04:30 PM  
@@ -135,7 +138,7 @@ Location: The Inkerman Hotel
 Coordinates: <https://plus.codes/4RJ64XMX+F5>  
 Notes: Look for the ACX meetup sign ... and if you're not sure whether to come or not, come! :)
 
- **MUMBAI, INDIA**  
+**MUMBAI, INDIA**  
 Contact: PB  
 Contact Info: e2y94n1nv[at]relay[dot]firefox[dot]com  
 Time: Sunday, April 16th, 03:00 PM  
@@ -144,7 +147,7 @@ Coordinates: <https://plus.codes/7JFJ4W76+XM>
 Event Link: <https://www.lesswrong.com/events/HevjhH2whhdp2fFcG/acx-meetups-everywhere-spring-2023>  
 Notes: The park doesn't have a clear sign saying 'heritage gardens' but is opposite Glen Heights and can be found easily using maps (<https://goo.gl/maps/ZondD21UeDJshSnV9>).
 
- **SYDNEY, AUSTRALIA**  
+**SYDNEY, AUSTRALIA**  
 Contact: Eliot  
 Contact Info: Redeliot[at]gmail[dot]com  
 Time: Thursday, April 20th, 06:00 PM  
@@ -153,7 +156,7 @@ Coordinates: <https://plus.codes/4RRH46F4+894>
 Event Link: <https://meetu.ps/e/LWZ63/sqK6x/i>  
 Notes: I am a regular host of Sydney Rationality events.
 
- **TEL AVIV, ISRAEL**  
+**TEL AVIV, ISRAEL**  
 Contact: Inbar  
 Contact Info: inbar192[at]gmail[dot]com  
 Time: Thursday, May 4th, 07:00 PM.  
@@ -172,7 +175,7 @@ Notes: <https://rationalitysalon.straw.page/>
 
 ## Europe
 
- **ATHENS, GREECE**  
+**ATHENS, GREECE**  
 Contact: Spyros  
 Contact Info: acx [dot] meetup [dot] athens [dot] greece [at] gmail [dot] com  
 Time: Wednesday, May 24th, 7:00 PM  
@@ -181,7 +184,7 @@ Coordinates: <https://plus.codes/8G95WMQR+WRP>
 Event Link: <https://www.lesswrong.com/events/Hhozw6wsrN3FgcvnJ/athens-greece-acx-meetups-everywhere-spring-2023>  
 Notes: There will be an "ACX Meetup" sign where we will sit to spot the place.
 
- **BARCELONA, SPAIN**  
+**BARCELONA, SPAIN**  
 Contact: Alfonso Martinez  
 Contact Info: alfonso[dot]martinez[at]upf[dot]edu  
 Time: May 21st, 05:15 PM  
@@ -196,7 +199,7 @@ Location: Valhalla Bar
 Coordinates: <https://plus.codes/8FV9HH3P+78>  
 Notes: (Skyler, Scott’s Meetup Czar here. The Basel organizer had to cancel and be elsewhere. I’ve left this up because a meetups everywhere event doesn’t need much active organizing so if people want to show up and talk, this is still a good schelling point to meet up and talk! Just know that there is no organizer.)
 
- **BELGRADE, SERBIA**  
+**BELGRADE, SERBIA**  
 Contact: Dušan and Tatiana  
 Contact Info: tatiana[dot]n[dot]skuratova[at]efektivnialtruizam[dot]rs  
 Time: Sunday, April 16th, 03:00 PM  
@@ -204,7 +207,7 @@ Location: Bar Green House, Dr. Dragoslava Popovica
 Coordinates: <https://plus.codes/8GP2RF7G+36>  
 Notes: Organized by EA Serbia, welcoming everyone including non ACX people if you'd like. Bring coloured eggs for Serbian Egg battles as it'll be easter, or we can provide some :) RSVP mandatory!
 
- **BERLIN, GERMANY**  
+**BERLIN, GERMANY**  
 Contact: Christian Kleineidam  
 Contact Info: christian[dot]rationality[at]gmail[dot]com  
 Time: Saturday, April 15th, 04:00 PM  
@@ -220,7 +223,7 @@ Location: Place Victoire, south of the column/the Turtles. I wear a mask in plac
 Coordinates: <https://plus.codes/8CPXRCJG+7XG>  
 Event Link: https://www.lesswrong.com/events/muYXAfbsJj4RCkEYY/ssc-acx-meetups-everywhere-spring-bordeaux-22-april-17-00
 
- **BUDAPEST, HUNGARY**  
+**BUDAPEST, HUNGARY**  
 Contact: Marta  
 Contact Info: marta[dot]krzeminska[at]gmail[dot]com  
 Time: Sunday, May 7th, 02:00 PM  
@@ -228,7 +231,7 @@ Location: Champs Sziget, Budapest, Gasztro Sétány 1, 1138 Hungary
 Coordinates: <https://plus.codes/8FVXG29W+XM>  
 Notes: We’ll have a sign!
 
- **BREMEN, GERMANY**  
+**BREMEN, GERMANY**  
 Contact: Rasmus  
 Contact Info: ad[dot]fontes[at]aol[dot]com  
 Time: Sunday, April 23rd, 03:00 PM  
@@ -274,7 +277,7 @@ Location: Clement & Pekoe, 50 William St S, Dublin 2, D02 DE93
 Coordinates: <https://plus.codes/9C5M8PRP+JV>  
 Notes: Here is a link to our WhatsApp groupchat -><https://chat.whatsapp.com/Fg9KWUEqyUU3RauvsXtMxo>
 
- **FREIBURG, GERMANY**  
+**FREIBURG, GERMANY**  
 Contact: Omar  
 Contact Info: info[at]rationality-freiburg[dot]de  
 Time: Friday, April 28th, 06:00 PM  
@@ -291,7 +294,7 @@ Coordinates: <https://plus.codes/9GG65W9R+Q5C>
 Event Link: <https://www.lesswrong.com/events/Z6YdnP4xaqFCdbht5/helsinki-rationalish-april-2023-meetup>  
 Notes: The pub closed and a new place took over, but the location is the same!
 
- **KARLSRUHE, GERMANY**  
+**KARLSRUHE, GERMANY**  
 Contact: Marcus  
 Contact Info: mail[at]marcuswilhelm[dot]de  
 Time: Saturday, April 22nd, 03:00 PM  
@@ -299,7 +302,7 @@ Location: We meet on the KIT campus on the grass in front of Audimax, next to th
 Coordinates: <https://plus.codes/8FXC2C68+X5>  
 Notes: An event post will be created on the Karlsruhe Rationality Group on LessWrong; see there for more recent updates (e.g. in case of rain).
 
- **LAUSANNE, SWITZERLAND**  
+**LAUSANNE, SWITZERLAND**  
 Contact: Jan  
 Contact Info: acxmeetuplausanne[at]proton[dot]me  
 Time: Monday, May 08th, 07:00 PM  
@@ -345,7 +348,7 @@ Coordinates: <https://plus.codes/9FFGWPH7+RQ>
 Event Link: <https://www.meetup.com/acx-oslo/events/292450262/>  
 Notes: Don't feel pressured to order anything!
 
- **OXFORD, UK**  
+**OXFORD, UK**  
 Contact: Sam  
 Contact Info: ssc[at]sambrown[dot]eu  
 Time: Wednesday, April 19th, 06:30 PM  
@@ -361,7 +364,7 @@ Coordinates: <https://plus.codes/8FW4V86J+GH>
 Event Link: <https://www.lesswrong.com/events/vPBHTaKgEnA4N8PdC/acx-spring-meetup>  
 Notes: We also have a discord ( <https://discord.gg/2U9qhR2suc> ) or matrix bridge ( <https://matrix.to/#/#ssc-paris:matrix.org> )
 
- **PRAGUE, CZECH REPUBLIC**  
+**PRAGUE, CZECH REPUBLIC**  
 Contact: Jiri Nadvornik  
 Contact Info: nadvornik[dot]jiri[at]gmail[dot]com  
 Time: May 16th, 6:00 PM  
@@ -377,7 +380,7 @@ Location: We'll be at Parco di centocelle train station, I'll be wearing a red s
 Coordinates: <https://plus.codes/8FHJVHF9+R6>  
 Notes: If you're in Rome and we've never had the pleasure of meeting, that'd be a shame worth rectifying, no?
 
- **SANTIAGO DE COMPOSTELA, GALICIA, SPAIN**  
+**SANTIAGO DE COMPOSTELA, GALICIA, SPAIN**  
 Contact: Javier  
 Contact Info: javier[dot]prieto[dot]set[at]gmail[dot]com  
 Time: Saturday, April 15th, 05:00 PM  
@@ -423,7 +426,7 @@ Coordinates: <https://plus.codes/8FVC9H32+RG>
 
 ## Latin America
 
- **PUNTA CANA, DOMINICAN REPUBLIC**  
+**PUNTA CANA, DOMINICAN REPUBLIC**  
 Contact: Nikita Sokolsky  
 Contact Info: sokolx[at]gmail[dot]com  
 Time: Sunday, April 16th, 06:00 PM  
@@ -433,7 +436,7 @@ Event Link: <https://www.lesswrong.com/events/YsGiAZnZvcvG2CG5s/acx-everywhere-p
 
 ## North America
 
- **ATLANTA, GEORGIA, USA**  
+**ATLANTA, GEORGIA, USA**  
 Contact: Steve French  
 Contact Info: steve[at]digitaltoolfactory[dot]net  
 Time: Saturday, April 29th, 02:00 PM  
@@ -442,7 +445,7 @@ Coordinates: <https://plus.codes/865QRH2F+V8>
 Event Link: <https://www.acxatlanta.com>  
 Notes: Please RSVP
 
- **AUSTIN, TEXAS, USA**  
+**AUSTIN, TEXAS, USA**  
 Contact: Silas Barta  
 Contact Info: sbarta[at]gmail[dot]com  
 Time: Saturday, June 03rd, 12:00 PM  
@@ -458,7 +461,7 @@ Location: UMBC outside of the Performing Arts and Humanities Building, on the no
 Coordinates: <https://plus.codes/87F5774P+53>  
 Notes: We are an active group that meets every Sunday at 7 PM. Half are virtual and half are in person. There will be snacks and drinks.
 
- **BELLINGHAM, WASHINGTON, USA**  
+**BELLINGHAM, WASHINGTON, USA**  
 Contact: Alex  
 Contact Info: bellinghamrationalish[at]gmail[dot]com  
 Time: Wednesday, April 12th, 06:30 PM  
@@ -467,7 +470,7 @@ Coordinates: <https://plus.codes/84WVQG45+XP5>
 Event Link: <https://www.meetup.com/bellingham-rationalish-community/events/292457847/>  
 Notes: We're an established group that meets roughly monthly
 
- **BERKELEY, CALIFORNIA, USA**  
+**BERKELEY, CALIFORNIA, USA**  
 Contact: Skyler  
 Contact Info: skyler[at]rationalitymeetups[dot]org  
 Time: Saturday, May 06th, 01:00 PM  
@@ -475,7 +478,7 @@ Location: Rose Garden Inn, a rationalist event space at 2740 Telegraph Ave. Come
 Coordinates: <https://plus.codes/849VVP5R+X5>  
 Notes: The Bay rationality community has a mailing list (<https://groups.google.com/g/bayarealesswrong>) a Discord server (<https://discord.gg/Yqus2bFhww>) and a Facebook group (<https://www.facebook.com/groups/566160007909175>) There are dinner meetups every Thursday at 7 PM in the East Bay, and occasional meetups in SF and South Bay.
 
- **BLOOMINGTON, INDIANA, USA**  
+**BLOOMINGTON, INDIANA, USA**  
 Contact: Peter  
 Contact Info: gerdes[at]invariant[dot]org  
 Time: April 30th, 03:00 PM  
@@ -484,7 +487,7 @@ Coordinates: <https://plus.codes/86FM5F79+F7>
 Event Link: <https://fb.me/e/Ozg556B5>  
 Notes: In case of inclement weather please visit the facebook event where I'll identify a backup location.
 
- **BOSTON, MASSACHUSETTS, USA**  
+**BOSTON, MASSACHUSETTS, USA**  
 Contact: Dan and Skyler  
 Contact Info: skyler[at]rationalitymeetups[dot]org  
 Time: Saturday, April 22nd, 04:00 PM  
@@ -532,7 +535,7 @@ Location: Clifton Park Shelterhouse, Jeffrey Park, Bexley. We will be at one of 
 Coordinates: <https://plus.codes/86FVX3C3+QF>  
 Notes: Please send an email if you'd like to join our mailing list for future invitations.
 
- **DALLAS, TEXAS, USA**  
+**DALLAS, TEXAS, USA**  
 Contact: Ethan  
 Contact Info: ethan[dot]morse97[at]gmail[dot]com  
 Time: Sunday, April 30th, 12:00 PM  
@@ -547,7 +550,7 @@ Location: The location for our monthly meetups is the clubhouse in Eneasz's neig
 Coordinates: <https://plus.codes/85FPMW64+MW>  
 Notes: The meetup is open format, and will last until 9pm. Come at your convenience and stay as long or short as you like. They'll be a few silly games, and some snacks and drinks, including alcohol.
 
- **EDMONTON, ALBERTA, CANADA**  
+**EDMONTON, ALBERTA, CANADA**  
 Contact: Joseph  
 Contact Info: ta1hynp09[at]relay[dot]firefox[dot]com  
 Time: Thursday, April 27th, 07:00 PM  
@@ -579,7 +582,7 @@ Location: Saint's Rest Coffee Shop
 Coordinates: [https://plus.codes/86H9P7VG+G](https://plus.codes/86H9P7VG+G6)  
 Notes: I'll probably just be there reading something, the area isn't dense enough that I'd expect anyone to come, but I'd love to talk if someone does. I'm college age, have longish brown hair, and usually hang out on one of the two couches.
 
- **HALIFAX, NOVA SCOTIA, CANADA**  
+**HALIFAX, NOVA SCOTIA, CANADA**  
 Contact: Noah  
 Contact Info: usernameneeded[at]gmail[dot]com  
 Time: April 22nd, 01:00 PM  
@@ -596,7 +599,7 @@ Coordinates: <https://plus.codes/76X6PMV6+V6>
 Event Link: <https://discord.gg/DzmEPAscpS>  
 Notes: We have a growing ACX, LW, EA scene in Houston with weekly Social meetups, monthly EA-specific meetups, monthly gaming meetup and monthly Thought-Gym (short form presentations & discussion).. Join our Discord server (https://discord.gg/DzmEPAscpS) where we will post additional coordination details. You can also tag me in a message or DM me on the server (Joe Brenton#4719).
 
- **KANSAS CITY, MISSOURI, USA**  
+**KANSAS CITY, MISSOURI, USA**  
 Contact: Alex Hedtke  
 Contact Info: alex[dot]hedtke[at]gmail[dot]com  
 Time: Friday, April 28th, 06:30 PM  
@@ -612,7 +615,7 @@ Coordinates: <https://plus.codes/86MXFG37+3C>
 Event Link: <https://www.lesswrong.com/events/356ktNDSxLzbcG2Lc/acx-spring-meetups-everywhere>  
 Notes: Also counts as Waterloo, Ontario
 
- **LAS VEGAS, NEVADA, USA**  
+**LAS VEGAS, NEVADA, USA**  
 Contact: Jonathan Ray  
 Contact Info: ray[dot]jonathan[dot]w[at]gmail[dot]com  
 Time: Sunday, April 23rd, 12:00 AM  
@@ -629,7 +632,7 @@ Coordinates: <https://plus.codes/8553XHWM+GP>
 Event Link: <https://www.lesswrong.com/events/WvXnkMCpd34NgYDkJ/los-angeles-ca-acx-spring-meetups-everywhere-2023-lw-acx>  
 Notes: Questions should be posted in the LAR discord (https://discord.gg/TaYjsvN), or by contacting "Vishal" in DMs via discord.
 
- **MANCHESTER, CONNECTICUT, USA**  
+**MANCHESTER, CONNECTICUT, USA**  
 Contact: Mike  
 Contact Info: park-mike[at]outlook[dot]com  
 Time: Saturday, May 13th, 06:00 PM  
@@ -637,7 +640,7 @@ Location: Find the flagpole at top of hill next to library
 Coordinates: <https://plus.codes/87H9QFFH+J7>  
 Notes: I will be wearing a green hat.
 
- **MANHATTAN, NEW YORK, USA**  
+**MANHATTAN, NEW YORK, USA**  
 Contact: Robi Rahman  
 Contact Info: robirahman94[at]gmail[dot]com  
 Time: Sunday, April 30th, 03:00 PM  
@@ -652,7 +655,7 @@ Location: 47 Clinton Pl., Masspequa NY 11758
 Coordinates: <https://plus.codes/87G8MG4F+3XR>  
 Notes: Please RSVP via e-mail if you plan to attend.
 
- **MEMPHIS, TENNESSEE, USA**  
+**MEMPHIS, TENNESSEE, USA**  
 Contact: Michael  
 Contact Info: michael[at]postlibertarian[dot]com  
 Time: Saturday, May 13th, 01:30 PM  
@@ -668,7 +671,7 @@ Location: Don Asado, Av. Homero 428, Polanco
 Coordinates: <https://plus.codes/76F2CRQ7+26>  
 Event Link:[ https://www.lesswrong.com/events/M7Rqk3rdtirpvvkaL/acx-cdmx-meetups-everywhere-2](https://www.lesswrong.com/events/M7Rqk3rdtirpvvkaL/acx-cdmx-meetups-everywhere-2)
 
- **MIAMI, FLORIDA, USA**  
+**MIAMI, FLORIDA, USA**  
 Contact: Eric  
 Contact Info: eric135033[at]gmail[dot]com  
 Time: Sunday, May 21st, 05:00 PM  
@@ -677,7 +680,7 @@ Coordinates: <https://plus.codes/76QXRR65+V3>
 Event Link: <https://www.lesswrong.com/events/MtJ7qgnfwuzuYzPcM/miami-acx-meetups-everywhere-2023>  
 Notes: Miami ACX started in 2017 and hosts events on a regular basis in Miami and Fort Lauderdale. Visit the LessWrong event link for more details including links to our Facebook, Meetup, and Discord.
 
- **MINNEAPOLIS, MINNESOTA, USA**  
+**MINNEAPOLIS, MINNESOTA, USA**  
 Contact: Timothy  
 Contact Info: tmbond[at]gmail[dot]com  
 Time: Sunday, April 30th, 01:00 PM  
@@ -686,7 +689,7 @@ Coordinates: <https://plus.codes/86P8WQM6+P89>
 Event Link: <https://www.lesswrong.com/events/ceFbzaHFvET4wghBT/twin-cities-acx-meetup-april-2023>  
 Notes: Make sure to RSVP so I can give a headcount to the Sisters. Also, they don't charge me for a large reservation but they do ask that everybody who attends purchase something - if you prefer I will buy you something, no questions asked.
 
- **MONTRÉAL, QUÉBEC, CANADA**  
+**MONTRÉAL, QUÉBEC, CANADA**  
 Contact: Henri Lemoine  
 Contact Info: acxmontreal[at]gmail[dot]com  
 Time: Saturday, April 22nd, 01:00 PM  
@@ -718,10 +721,10 @@ Coordinates: <https://plus.codes/87J9899F+C4>
 Event Link: <https://www.lesswrong.com/events/vYPq4xFwN2rRY7pHW/northampton-massachusetts-usa-acx-meetups-everywhere-spring>  
 Notes: This is the Meetups Everywhere Spring 2023 edition of a meetup that started in the 2018 Meetups Everywhere. At most meetups we get about 5-7 people out of a rotation of 15-20; Meetups Everywhere events tend to get a boost and we get closer to 8-10. Looking forward to a fun time!
 
- **OAKLAND, CALIFORNIA, USA  
-** (see Berkeley)
+**OAKLAND, CALIFORNIA, USA  
+**(see Berkeley)
 
- **OTTAWA, CANADA**  
+**OTTAWA, CANADA**  
 Contact: Tess Walsh  
 Contact Info: rationalottawa[at]gmail[dot]com  
 Time: Friday, May 12th, 06:00 PM  
@@ -745,7 +748,7 @@ Coordinates: <https://plus.codes/87F6WRXG+FQ>
 Event Link: <https://discord.gg/W5rsVbdJUM?event=1090645327809363979>  
 Notes: Free Dim Sum!
 
- **PITTSBURGH, PENNSYLVANIA, USA**  
+**PITTSBURGH, PENNSYLVANIA, USA**  
 Contact: Justin  
 Contact Info: pghacx[at]gmail[dot]com  
 Time: Saturday, April 22nd, 02:00 PM  
@@ -753,7 +756,7 @@ Location: Our meetup was at Galley Bakery Square (location changed from Mellon P
 Coordinates: <https://plus.codes/87G2F34M+PH>  
 Notes: We also host ~monthly meetups throughout the year, if you'd like to be added to the list to be notified of future meetups, please contact Justin at the email address above.
 
- **PORTLAND, OREGON, USA**  
+**PORTLAND, OREGON, USA**  
 Contact: Samuel Celarek  
 Contact Info: scelarek[at]gmail[dot]com  
 Time: Saturday, May 13th, 05:00 PM  
@@ -809,7 +812,7 @@ Coordinates: <https://plus.codes/76X3CGP9+JM>
 Event Link: <https://www.meetup.com/rationality-san-antonio/>  
 Notes: The email address is real; I bought the domain to have it
 
- **SAN DIEGO, CALIFORNIA, USA**  
+**SAN DIEGO, CALIFORNIA, USA**  
 Contact: Julius  
 Contact Info: julius[dot]simonelli[at]gmail[dot]com  
 Time: Saturday, April 15th, 01:00 PM  
@@ -817,9 +820,9 @@ Location: Bird Park - I will be wearing a red shirt and there will be a sign tha
 Coordinates: <https://plus.codes/8544PVQ8+M6>
 
 **SAN JOSE, CALIFORNIA, USA  
-** (see Sunnyvale)
+**(see Sunnyvale)
 
- **SANTA CRUZ, CALIFORNIA, USA**  
+**SANTA CRUZ, CALIFORNIA, USA**  
 Contact: Dan  
 Contact Info: thehalliard[at]gmail[dot]com  
 Time: Saturday, April 29th, 12:30 PM  
@@ -881,7 +884,7 @@ Coordinates: <https://plus.codes/86MXFG37+3C>
 Event Link: <https://www.lesswrong.com/events/356ktNDSxLzbcG2Lc/acx-spring-meetups-everywhere>  
 Notes: Also counts as Kitchener, Ontario
 
- **WEST LAFAYETTE, INDIANA, USA**  
+**WEST LAFAYETTE, INDIANA, USA**  
 Contact: NR  
 Contact Info: mapreader4[at]gmail[dot]com  
 Time: Saturday, April 15th, 12:00 PM  
@@ -889,7 +892,7 @@ Location: 1275 1st Street, West Lafayette, IN 47906. We'll be in the south of th
 Coordinates: <https://plus.codes/86GMC3GG+728>  
 Notes: We had a meetup during the previous ACX Everywhere and that was quite enjoyable!
 
- **WEST PALM BEACH, FLORIDA, USA**  
+**WEST PALM BEACH, FLORIDA, USA**  
 Contact: Rob  
 Contact Info: RobRoyACX[at]gmail[dot]com  
 Time: Saturday, May 27th, 11:00 AM  

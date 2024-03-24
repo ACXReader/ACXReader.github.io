@@ -3,11 +3,14 @@ title: "The Rise And Fall Of Online Culture Wars"
 subtitle: "How do Internet atheism and Internet feminism help us understand the current cultural moment?"
 date: 2021-05-10
 likes: 244
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36009805/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1f9676a-9b25-432e-8900-390653e4058f_544x600.jpeg
 original-url: https://www.astralcodexten.com/p/the-rise-and-fall-of-online-culture
 ---
 _[Followup to:[New Atheism: The Godlessness That Failed](https://slatestarcodex.com/2019/10/30/new-atheism-the-godlessness-that-failed/)]_
 
- **I. Introduction**
+**I. Introduction**
 
 You've probably seen these graphs before:
 
@@ -33,7 +36,7 @@ The rest of this post tries to trace this evolution, flesh out the history a lit
 
 A warning: I was mostly sympathetic to Internet atheism, but mostly unsympathetic to Internet feminism. I think these histories are easier to write from a sympathetic position - any study of Internet culture is basically a study of crazy people, and the failure mode is to point and laugh at them without looking for real understanding. Sometimes pointing and laughing is unavoidable (the New Atheists probably could have done without the [Malachi 2:3-related-merchandise](https://www.cafepress.com/landoverbaptist/75558)) but I think it should be tempered by an attempt at charity. All I can do is try my hardest, and trust readers to keep me honest if I screw up.
 
- **II. New Atheism, New Feminism, New Anti-Racism**
+**II. New Atheism, New Feminism, New Anti-Racism**
 
 Atheism is age-old, but Internet atheism was its own thing. The term "New Atheism", while not officially restricted to the Internet, tries to capture a sense that a more strident grassroots atheist movement formed around the beginning of the Information Age, and not unrelated to it.
 
@@ -49,7 +52,7 @@ Its death did not mark the triumph of its arch-enemy, religion. People were just
 
 Nobody uses the term "New Feminism", but maybe they should. Feminist ideas are age old, but their Internet version was something new and more aggressive, in exactly the same way the New Atheists had been. Going through the history bit by bit, with an unavoidable focus on the parts that most caught my interest:
 
- _A. 200? - 2014: Geek Feminism_
+_A. 200? - 2014: Geek Feminism_
 
 I named this period both after the [Geek Feminism Wiki](https://geekfeminism.wikia.org/wiki/Geek_Feminism_Wiki), a central hangout, and also after its demographics.
 
@@ -89,7 +92,7 @@ I regret having to bring this up again - it probably brings back really bad memo
 
 Or did it disappear because the culture that spawned it disappeared as well? Geek feminism was naturally focused on the problems of geeky women, such as "geeky men keep asking me out" and "people are arguing with me in the comments section of my blog". But as the Internet took over everything, geeks stopped being disproportionately represented in online communities, and their concerns lost prominence. In this theory, geek feminism was a victim of its own success, and had to adapt in order to fit the wider role people started demanding of it.
 
- _B. 2012 - 2018: Corporate Feminism_
+_B. 2012 - 2018: Corporate Feminism_
 
 Let’s look at that NYT graph again:
 
@@ -111,7 +114,7 @@ The highlight of the corporate feminist era was no doubt the #MeToo movement. It
 
 Geek feminism had dissolved into regular feminism, and then regular feminism had dissolved into the mainstream. In retrospect, I assume this is what happened in the 1970s and every previous wave of feminism, but it was still weird to watch. There are still lots of feminists, just like there are still lots of atheists, but the subculture is no longer such a coherent thing.
 
- _C. 2014 - present: The Racial Turn_
+_C. 2014 - present: The Racial Turn_
 
 Feminism and anti-racism had always been lumped together as "social justice", but for the first few years feminism was the big sister and anti-racism the tag-along little brother. There just wasn't the same kind of flourishing anti-racism blogosphere, probably because there are way fewer black people than women, and in those early days they were less likely to have good Internet connections. The usual pattern I saw was for people to talk about gender, and then mention at the end that it was also applicable to race "Here's why men need to check their male privilege - and did you know white people have white privilege too?"
 
@@ -133,7 +136,7 @@ I had originally intended to track the progress of the culture wars by tracking 
 
 Still, one event from this period does stand out as unusually internet-based: the rise of the alt-right.
 
- _D. 2010 - present: The Right Wing Of The Culture War_
+_D. 2010 - present: The Right Wing Of The Culture War_
 
 Earlier eras of social justice had their enemies. Around 2010, some people who didn't like feminism banded together under the umbrella of "men's rights advocates" (MRAs). Pickup artists (PUAs) were originally a totally different group - guys who talked a lot about the best ways to pick up girls - but many of them merged into the generic anti-feminist current for complicated reasons. "Red Pillers" were a third group, vaguely related to the previous two, whose main contribution to the discourse was giving us the terms "alpha male" and "beta male" (I guess these became "Chad" and "virgin" at some point). Sometimes all of these groups together called themselves "the manosphere".
 
@@ -167,7 +170,7 @@ Anyway, after a few years of that a lot of them were clearly genuinely racist, a
 
 I promised that this post would focus on the possibility of the culture wars ending. If they are, I don’t think any of these groups will get credit. Far from weakening their SJW foes, they probably added fuel to their fire: they provided an enemy to unite against, and deepened their paranoia that there were sexists and racists everywhere who needed to be fought. If those Google graphs really do show the culture wars simmering down, it must be coming from a totally different direction.
 
- **III. The Barberpole Model Of Fashion**
+**III. The Barberpole Model Of Fashion**
 
 Five years ago, I came _so_ close to predicting the course of history. I [came up with a model](https://slatestarcodex.com/2014/04/22/right-is-the-new-left/), I extrapolated it out, I made bold claims. I still think the model was good and the extrapolation was sound. But I screwed up one tiny little thing and got it all wrong.
 
@@ -215,7 +218,7 @@ The other relevant phrase is "cancel culture". SJWs aren't bad because they get 
 
 I think "woke" and "cancel culture" encode ideas that have been present in anti-social-justice discourse from the beginning. From the beginning, people who weren't pro-racism or pro-sexism have been complaining that social justice is going too far, or that SJWs were terrible people. But for some reason it didn't work then, it does work now, and part of it working now is using different terms than people used back then. I think the fashion cycle is the best explanation. You can only start a new fashion after the old fashion has spread to so many uncool people that it's no longer useful to the cool people anymore. In 2012, that wasn't yet true. Now it is.
 
- **V. The Future Of Culture Wars**
+**V. The Future Of Culture Wars**
 
 If this model is on the right track, what should we predict?
 

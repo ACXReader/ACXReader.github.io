@@ -3,6 +3,9 @@ title: "Book Review: Antifragile"
 subtitle: "Summary and commentary on Nassim Taleb's \"Antifragile\""
 date: 2021-03-23
 likes: 140
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34238824/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/db7e9c46-36a2-4610-8a13-8aec1f4c9a93_589x372.png
 original-url: https://www.astralcodexten.com/p/book-review-antifragile
 ---
 Nassim Taleb summarizes the thesis of _[Antifragile](https://amzn.to/3chzQ8u)_ as:
@@ -11,11 +14,11 @@ Nassim Taleb summarizes the thesis of _[Antifragile](https://amzn.to/3chzQ8u)_ a
 
 The glass is fragile: the less you disrupt it, the better it does. A rock is “robust” - neither fragile nor antifragile - it will do about equally well whether you disrupt it or not. What about antifragile? Taleb's first (and cutest) example is the Hydra, which grows more and more heads the more a hero tries to harm it. What else is like this?
 
- **Buying options** is antifragile. Suppose oil is currently worth $10, and you pay $1 for an option to buy it at $10 next year. If there's a small amount of variance (oil can go up or down 20%), it's kind of a wash. Worst-case scenario, oil goes down 20% to $8, you don't buy it, and you've lost $1 buying the option. Best-case scenario, oil goes up 20% to $12, you exercise your option to buy for $10, you sell it for $12, and you've made a $1 profit - $2 from selling the oil, minus $1 from buying the option. Overall you expect to break even. But if there's large uncertainty - the price of oil can go up or down 1000% - then it's a great deal. Worst-case scenario, oil goes down to [negative $90](https://www.bbc.com/news/business-52350082) and you don't buy it, so you still just lost $1. Best case scenario, oil goes up to $110, you exercise your option to buy for $10, and you make $99 ($100 profit minus $1 for the option). So the oil option is antifragile - the more the price varies, the better it will do. The more chaotic things get, the more uncertain and unpredictable the world is, the more oil options start looking like a good deal.
+**Buying options** is antifragile. Suppose oil is currently worth $10, and you pay $1 for an option to buy it at $10 next year. If there's a small amount of variance (oil can go up or down 20%), it's kind of a wash. Worst-case scenario, oil goes down 20% to $8, you don't buy it, and you've lost $1 buying the option. Best-case scenario, oil goes up 20% to $12, you exercise your option to buy for $10, you sell it for $12, and you've made a $1 profit - $2 from selling the oil, minus $1 from buying the option. Overall you expect to break even. But if there's large uncertainty - the price of oil can go up or down 1000% - then it's a great deal. Worst-case scenario, oil goes down to [negative $90](https://www.bbc.com/news/business-52350082) and you don't buy it, so you still just lost $1. Best case scenario, oil goes up to $110, you exercise your option to buy for $10, and you make $99 ($100 profit minus $1 for the option). So the oil option is antifragile - the more the price varies, the better it will do. The more chaotic things get, the more uncertain and unpredictable the world is, the more oil options start looking like a good deal.
 
- **Evolution** is antifragile. In a stable system, animals won't evolve. In a volatile system, they will. At times I became concerned Taleb was getting this wrong - animals will evolve to more perfectly fit whatever niche they find themselves in. In an environment where the temperature is exactly 70 degrees all the time, animals will become very good at living in exactly 70 degrees. In an environment with constant temperature swings, animals will become very good at dealing with constant temperature swings. Neither population of animals is "better" than the other, and each will outcompete the other in its own environment (the 70-degrees animals would outcompete the wild-swings animals in their own perma-70-degrees home). But I'm not sure Taleb is disagreeing with this; I think he’s saying that volatility in the genome (mutations) is required to move evolution along. Obviously you don't want arbitrary amounts of volatility in the genome, but nobody ever said things had to gain from arbitrary amounts of disorder - just that a little bit of disorder is sometimes good for them.
+**Evolution** is antifragile. In a stable system, animals won't evolve. In a volatile system, they will. At times I became concerned Taleb was getting this wrong - animals will evolve to more perfectly fit whatever niche they find themselves in. In an environment where the temperature is exactly 70 degrees all the time, animals will become very good at living in exactly 70 degrees. In an environment with constant temperature swings, animals will become very good at dealing with constant temperature swings. Neither population of animals is "better" than the other, and each will outcompete the other in its own environment (the 70-degrees animals would outcompete the wild-swings animals in their own perma-70-degrees home). But I'm not sure Taleb is disagreeing with this; I think he’s saying that volatility in the genome (mutations) is required to move evolution along. Obviously you don't want arbitrary amounts of volatility in the genome, but nobody ever said things had to gain from arbitrary amounts of disorder - just that a little bit of disorder is sometimes good for them.
 
- **Exercise** is antifragile. If you sit comfortably in bed, treating yourself the same way you would treat a glass or fine china, you'll probably end up unhealthy and miserable. It's only when you expose yourself to disorder - a level of exertion that ranges from "sleeping at night" to "running as fast as you can" - that your body stays healthy. Stressing your muscles to their absolute limits helps build muscle; stressing your heart to its absolute limit once in a while helps lower heart rates.
+**Exercise** is antifragile. If you sit comfortably in bed, treating yourself the same way you would treat a glass or fine china, you'll probably end up unhealthy and miserable. It's only when you expose yourself to disorder - a level of exertion that ranges from "sleeping at night" to "running as fast as you can" - that your body stays healthy. Stressing your muscles to their absolute limits helps build muscle; stressing your heart to its absolute limit once in a while helps lower heart rates.
 
 Options. Evolution. Exercise. Do these really have anything in common? Or is each "antifragile" for its own reasons, such that a category including all three of them wouldn't be very helpful?
 
@@ -35,9 +38,9 @@ Other times it's harder. To choose an example close to my own heart, is it reall
 
 So think of this less as a sober attempt to quantify antifragility, and more as an adventure through Taleb's intellectual milieu. I can't possibly think of a linear way to summarize it, but here are some highlights.
 
- **II.**
+**II.**
 
- _Book Two_ is called Modernity And The Denial Of Antifragility.
+_Book Two_ is called Modernity And The Denial Of Antifragility.
 
 Taleb gives the parable of John and George. John is a banker. He works for a big bank. Every month, the bank pays him a salary of $3000. In a good month, he gets $3000. In a bad month, he gets $3000.
 
@@ -59,7 +62,7 @@ Not just the US government - Taleb focuses on the neighboring states of Lebanon 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61e5b01e-7e87-4799-8e1b-8cb0fc4a1f05_734x591.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61e5b01e-7e87-4799-8e1b-8cb0fc4a1f05_734x591.png)Fact check: The Maddison Project, the usual (though oft-criticized) source for historical GDP, does not think Lebanon and Syria had similar GDP per capita a century ago ([source](https://ourworldindata.org/economic-growth)).
 
- _Book Three_ is called "A Nonpredictive View Of The World", and annoyed me because it pre-empted a post of mine by almost ten years.
+_Book Three_ is called "A Nonpredictive View Of The World", and annoyed me because it pre-empted a post of mine by almost ten years.
 
 The post was [A Failure, But Not Of Prediction](https://slatestarcodex.com/2020/04/14/a-failure-but-not-of-prediction/), and it argued that getting your predictions right was less important than calculating payoffs right. For example, if some very smart scientists tell you that there's an 80% chance the coronavirus won't be a big deal, you thank them for their contribution and then prepare for the coronavirus anyway. In the world where they were right, you've lost some small amount of preparation money; in the world where they were wrong, you've saved hundreds of thousands of lives.
 
@@ -75,7 +78,7 @@ This chapter (and honestly the rest of the book) only make sense with an assumpt
 
 The other interesting thing in this section is the analysis of Seneca and the Stoics. The Stoics, remember, cultivate a mental indifference towards catastrophe. Usually this gets interpreted as "be equally indifferent to success or failure", but Taleb isn't having it. Seneca was one of the richest men of his time; if he was indifferent to wealth, why did he keep making it? Taleb argues he wanted to keep the upside while eliminating the downside. If you can psychologically steel yourself against losing your wealth, you're in the same antifragile position as someone who owns an option on oil; volatility can only make your (psychological) position better, not worse. If you lose everything, you shrug and move on. If you keep everything, or get much more, you can be as delighted as you want!
 
- _Book Four_ is called "Optionality, Technology, And The Intelligence Of Antifragility".
+_Book Four_ is called "Optionality, Technology, And The Intelligence Of Antifragility".
 
 I'm not comfortable applying the full connotations of "anti-intellectual" to Taleb, so let's just say he...hates intellectuals a lot. He thinks schooling dulls the mind, college makes people stupid and conformist, and theory is fragile - it's an attempt to shoehorn the complexity of the world into a single formal system, then deny any possibility of black swans/outside-the-system events, then collapse when they inevitably happen. Far better to learn in the school of hard knocks, encountering the real world in all its complexity.
 
@@ -107,7 +110,7 @@ For Taleb, too much of academia is "teaching birds how to fly" - finding some fi
 
 This section is also interesting for its "Fat Tony Debates Socrates" chapter, where Fat Tony argues that putting Socrates to death was reasonable, because Socrates was claiming everything must be comprehensible (ie if Euthyphro couldn't come up with an academic-style formal verbal account of what "good" was, then it was somehow embarrassing that he was trying to be good) whereas formal systems are fragile and people should be okay relying on intuition and heuristics. Cf. Plato's attempt to define man as a featherless biped, vs. Diogenes' more reasonable outlook that, f*@k you, we know what men are, trying to reduce it to words is dumb and counterproductive."
 
- _Book Five_ is about "The Difference Between A Large Stone And A Thousand Pebbles". The theme is nonlinearities - if you drop a large stone on someone, you could kill them, but if you break the stone into a thousand pebbles and drop them one by one, probably the person will be fine. The effect of the large stone isn't just the effect of the 1/1000th-as-large stone times one thousand; something has been gained.
+_Book Five_ is about "The Difference Between A Large Stone And A Thousand Pebbles". The theme is nonlinearities - if you drop a large stone on someone, you could kill them, but if you break the stone into a thousand pebbles and drop them one by one, probably the person will be fine. The effect of the large stone isn't just the effect of the 1/1000th-as-large stone times one thousand; something has been gained.
 
 Taleb relates this to Big Business:
 
@@ -119,7 +122,7 @@ It's not in this section, but Taleb feels the same way about countries. He prais
 
 The other good thing about city states is that sometimes they die. Taleb likes evolutionary systems - real evolution, the startup economy, and small groups of city-states. He says each individual is fragile (it's operating on a specific theory/strategy/vision, and the worse that does, the more likely it is to die) but the overall system is antifragile (as individuals die, it evolves and strengthens).
 
- _Book Six_ is about _via negativa_ , which is technically a theological tradition that talks about God in terms of what He is not, but which Taleb repurposes as any strategy that succeeds by taking things away instead of adding them.
+_Book Six_ is about _via negativa_ , which is technically a theological tradition that talks about God in terms of what He is not, but which Taleb repurposes as any strategy that succeeds by taking things away instead of adding them.
 
 "Interventionism is a sucker's game" - intervening in a system requires some kind of theory, some kind of model where the positive effects will definitely be better than the side effects - and given how little people know and how bad we are at prediction, this will probably be wrong. But removing things is kind of like a negative intervention, and so probably good. So for example, you're unlikely to find a medicine as helpful as smoking is harmful, so focus on stopping smoking. You're unlikely to find a superfood as helpful as junk food is harmful, so focus on cutting out junk food. You're unlikely to find a new law as helpful as the old laws are harmful, so focus on getting rid of old laws. A lot of the time this sort of thing reduces to metaphorical or literal paleo diets - try to return to the environment of evolutionary adaptedness, before civilization "intervened".
 
@@ -137,7 +140,7 @@ This was also the section with the famous Lindy Effect: if something doesn't hav
 
 Taleb uses this as a jumping point for various forms of contrarianism - instead of studying new technologies, read the classics! Instead of reading the latest studies, read older studies! As practical advice, this suffers from a certain having-obvious-transparent-flaws, but the Lindy Effect is fun to think about anyway. Also, it's the same principle as the anthropic assumptions behind [the Carter Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument), and I'd be fascinated to know what Taleb thinks of this.
 
- **III.**
+**III.**
 
 I've [previously written about](https://astralcodexten.substack.com/p/the-consequences-of-radical-reform) a cluster/strain/school of books including those by G.K. Chesterton, Joseph Heinrich, and especially James Scott's _Seeing Like A State_. Taleb's _Antifragile_ belongs in the same space.
 

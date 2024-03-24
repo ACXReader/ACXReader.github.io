@@ -3,6 +3,9 @@ title: "Mantic Monday: Grading My Trump Predictions"
 subtitle: "..."
 date: 2021-04-19
 likes: 96
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/35312631/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ccbf57a2-0384-4e4a-892c-1b8634005216_732x549.jpeg
 original-url: https://www.astralcodexten.com/p/mantic-monday-grading-my-trump-predictions
 ---
 I had many opinions on Donald Trump. I tried to back some of those opinions up with predictions about what would happen during his administration. Now that the dust has cleared, it's time to see how I did.
@@ -11,7 +14,7 @@ The summary: Of 48 specific predictions about Trump, I got 37 directionally righ
 
 Going through all my predictions post by post, and giving each a letter grade:
 
- **1: 10-23-2015: Trump's base is/will be surprisingly racially diverse (A-)**
+**1: 10-23-2015: Trump's base is/will be surprisingly racially diverse (A-)**
 
 As far as I know, the first post I wrote about Trump was [this one](https://slatestarcodex.com/2015/10/23/a-whiter-shade-of-candidate/), where I argued against the prevailing narrative that Trump was practicing "the politics of white insecurity" or had an unusually white base of support (for a Republican). I wrote that Trump seemed to be doing pretty well (for a Republican) among blacks and Hispanics, and concluded that:
 
@@ -23,7 +26,7 @@ In the 2020 election, it became [standard consensus](https://www.theguardian.com
 
 Normally I would give myself an A+ on this prediction, but the post went on to take some digs at Bernie Sanders for _actually_ having a disproportionately white support base. This was true in 2015 - 2016, but he picked up a lot of minority support over the next few years, and going into 2020 his base was as diverse as anybody else's. I don't think I was really making a _prediction_ here, but insofar as I was, it was falsified. So overall I will give this post an A-.
 
- **2: 1-27-16: Trump will win the primaries but lose the general (and other predictions) (D+)**
+**2: 1-27-16: Trump will win the primaries but lose the general (and other predictions) (D+)**
 
 In my yearly predictions thread, I made a couple of Trump-related predictions:
 
@@ -45,7 +48,7 @@ Prediction 24: Also clearly not true and I suck. F.
 
 Overall these numbers reveal I was blindsided by Trump's victory as much as everyone else. Still, since I know how to use probabilities and not be insanely overconfident, the worst you can say about me is that I gave 20% probability to a true event, which isn't so bad. Overall grade for this section is D+.
 
- **3: 9-28-2016: Trump will cause various bad consequences and you shouldn't vote for him (B-)**
+**3: 9-28-2016: Trump will cause various bad consequences and you shouldn't vote for him (B-)**
 
 In [SSC Endorses Clinton, Johnson, Or Stein](https://slatestarcodex.com/2016/09/28/ssc-endorses-clinton-johnson-or-stein/) I wrote about my reasons for opposing Trump. There's a lot in here and I'll try to extract relevant-prediction-shaped things - but be sure to read the post to see how honest you think I'm being in my extractions.
 
@@ -73,7 +76,7 @@ I think this basically happened. See eg [Trump: A Setback For Trumpism](https://
 
 I think this basically happened. A.
 
- **4: 10-01-2016: Trump will be more of a warmonger than his supporters expect (D+)**
+**4: 10-01-2016: Trump will be more of a warmonger than his supporters expect (D+)**
 
 In [He Kept Us Out Of War?](https://slatestarcodex.com/2016/10/01/he-kept-us-out-of-war/), I argued that despite the perception of Trump as the anti-imperialism, anti-military-action president, hopes that he would wind down global empire and avoid further military action were misplaced.
 
@@ -81,7 +84,7 @@ Yet Trump can honestly claim to be [the first president since Carter not to star
 
 I think my basic argument here had some okay points. I predicted Trump would escalate and complete the fight against ISIS, and was right. I said Trump was a loose cannon who might start a war for stupid reasons, and I think the Soleimani assassination was _almost_ this. But overall, I have to admit that his supporters were mostly right about this one and I was mostly wrong.
 
- **5: 11-16-2016: Trump won't be explicitly and openly white supremacist / won’t openly support the KKK etc / won't pursue especially racist policies (A)**
+**5: 11-16-2016: Trump won't be explicitly and openly white supremacist / won’t openly support the KKK etc / won't pursue especially racist policies (A)**
 
 [You Are Still Crying Wolf](https://slatestarcodex.com/2016/11/16/you-are-still-crying-wolf/) was my most-read post ever, getting retweeted by everyone up to and including Ann Coulter. I expanded on my original argument about Trump not getting especially strong white support to argue that the racial narrative around Trump was kind of bunk. This attracted a _lot_ of debate, so I'm going to go into more depth about it than some of the other things here. 
 
@@ -105,23 +108,23 @@ I promised some of these people at the time that I would respond to them later, 
 
 I included some explicit predictions as a test of my hypothesis. Some of these predictions might seem so obvious that I shouldn't get credit for them. But again, I wrote them a week after Trump was elected, in the middle of a national panic, when people were freaking out. Trump was the KKK president! There were white supremacist militias marching on the Capitol steps! Minorities should consider fleeing the country! I was trying to come up with things to predict that corresponded to "your national panic is dumb", and here's what I came up with, plus how I’m grading them:
 
- _1\. Total hate crimes incidents as measured[here](https://ucr.fbi.gov/hate-crime/2015/tables-and-data-declarations/1tabledatadecpdf) will be not more than 125% of their 2015 value at any year during a Trump presidency, conditional on similar reporting methodology [confidence: 80%]_
+_1\. Total hate crimes incidents as measured[here](https://ucr.fbi.gov/hate-crime/2015/tables-and-data-declarations/1tabledatadecpdf) will be not more than 125% of their 2015 value at any year during a Trump presidency, conditional on similar reporting methodology [confidence: 80%]_
 
 Incorrect. I originally judged this one as correct, but a commenter noted an error in my math - in 2019, hate crimes reached 125.03% of their pre-Trump value. See [here ](https://www.reddit.com/r/TheMotte/comments/kzpov6/culture_war_roundup_for_the_week_of_january_18/gkan0nr/)for an argument that reporting methodology changed in an important way that pushed this over the top, but absent proof of this I will default to saying I was wrong.
 
- _2\. Total minority population of US citizens will increase throughout Trump’s presidency [confidence: 99%]_
+_2\. Total minority population of US citizens will increase throughout Trump’s presidency [confidence: 99%]_
 
 [Correct](https://www.statista.com/statistics/183489/population-of-the-us-by-ethnicity-since-2000/), not that anyone should be surprised by this.
 
- _3\. US Muslim population increases throughout Trump’s presidency [confidence: 95%]_
+_3\. US Muslim population increases throughout Trump’s presidency [confidence: 95%]_
 
 Probably also correct - but I can't find any statistics proving this, so skip. In retrospect 95% confidence was way too low for this and I must have been at least a little caught up in the panic I was trying to argue against.
 
- _4\. Trump cabinet will be at least 10% minority [confidence: 90%], at least 20% minority [confidence: 70%], at least 30% minority [30%]. Here I’m defining “minority” to include nonwhites, Latinos, and LGBT people, though not women. Note that by this definition America as a whole is about 35% minority and Congress is about 15% minority._
+_4\. Trump cabinet will be at least 10% minority [confidence: 90%], at least 20% minority [confidence: 70%], at least 30% minority [30%]. Here I’m defining “minority” to include nonwhites, Latinos, and LGBT people, though not women. Note that by this definition America as a whole is about 35% minority and Congress is about 15% minority._
 
 Incorrect. Based on [this source](https://www.nytimes.com/interactive/2016/us/politics/donald-trump-administration.html), of 33 original Cabinet members, 3 were minorities, which is 9%. My weakest prediction - that at least a tenth would be minorities - was wrong, and obviously every stronger prediction was wrong too. I failed at a 90% prediction and am appropriately ashamed.
 
- _5\. Gay marriage will remain legal throughout a Trump presidency [confidence: 95%]_
+_5\. Gay marriage will remain legal throughout a Trump presidency [confidence: 95%]_
 
 Correct, not that anyone should have been surprised by this. This is another one where in retrospect I was massively underconfident. 
 
@@ -129,19 +132,19 @@ _6\. Race relations as perceived by blacks, as measured by[this Gallup poll](htt
 
 Indeterminate. I originally judged this correct, but commenters pointed out that this hinged on the numbers for 2017, a year in which Gallup did not take a poll. Interpolating 2017 as halfway between 2016 and 2018 results in this prediction being correct, but commenters seemed to think this was sufficiently unfair that I will shift it to indeterminate.
 
- _7\. Neither Trump nor any of his officials (Cabinet, etc) will endorse the KKK, Stormfront, or explicit neo-Nazis publicly, refuse to back down, etc, and keep their job [confidence: 99%]._
+_7\. Neither Trump nor any of his officials (Cabinet, etc) will endorse the KKK, Stormfront, or explicit neo-Nazis publicly, refuse to back down, etc, and keep their job [confidence: 99%]._
 
 Correct.
 
- _8\. No large demographic group ( > 1 million people) get forced to sign up for a “registry” [confidence: 95%]_
+_8\. No large demographic group ( > 1 million people) get forced to sign up for a “registry” [confidence: 95%]_
 
 Correct.
 
- _9 No large demographic group gets sent to internment camps [confidence: 99%]_
+_9 No large demographic group gets sent to internment camps [confidence: 99%]_
 
 Correct.
 
- _10\. Number of deportations during Trump’s four years will not be greater than Obama’s 8 [confidence: 90%]_
+_10\. Number of deportations during Trump’s four years will not be greater than Obama’s 8 [confidence: 90%]_
 
 [Correct](https://docs.house.gov/meetings/GO/GO00/20200109/110349/HHRG-116-GO00-20200109-SD007.pdf). In fact, I should have been more extreme here - Trump deported fewer people during his first four years than Obama did during _his_ first four years!
 
@@ -149,7 +152,7 @@ Overall I got 6 of these predictions right, 2 wrong, and 2 indeterminate.
 
 I also promised some of the people questioning me about this a response to more specific points - especially about Trump’s comments, and his support (or lack thereof) from white supremacists. This will be long and annoying and the rest of you should just skip to my next prediction, but here you go:
 
- **Comments:** Part of my argument was that people were interpreting innocuous or stupid comments by Trump as endorsements of racism, Nazis, and the KKK. An implicit prediction of this was that, once Trump was President for a while and we had a much larger sample size of his comments, it would become clearer that he wasn't explicitly expressing support for racism.
+**Comments:** Part of my argument was that people were interpreting innocuous or stupid comments by Trump as endorsements of racism, Nazis, and the KKK. An implicit prediction of this was that, once Trump was President for a while and we had a much larger sample size of his comments, it would become clearer that he wasn't explicitly expressing support for racism.
 
 In retrospect, this is a hard implicit prediction to grade. Suppose you're arguing against UFOlogists who point to grainy photos with vague splotches in the sky as evidence of aliens. You say "The future will prove me right!". Then the future comes, and a UFOlogist triumphantly shoves a new grainy photo of a sky splotch at you and says "Look! Time has only provided further proof of how many aliens there are." Of _course_ if you disagreed about how to interpret current data, you should expect to run into the same problems about future data.
 
@@ -195,7 +198,7 @@ I also think events proved me right in saying that the media was going crazy in 
 
 As far as I can tell this was basically true. He seems to have done relatively well for himself with eg [prison reform](https://time.com/5486560/prison-reform-jared-kushner-kim-kardashian-west/). He responded to the George Floyd killing by condemning it, [signing an executive order pushing police reform](https://www.bbc.com/news/world-us-canada-53069984), and [expressing support for ending chokeholds by police](https://www.bbc.com/news/world-us-canada-53026389). I'm not aware of any non-immigration race-related policies he pushed that were especially controversial.
 
- **Racist supporters:** Around the 2016 election, there were a lot of stories about the KKK marching for Trump, about how arch-alt-rightist Richard Spencer was [leading white nationalists in Nazi salutes for Trump](https://www.theatlantic.com/politics/archive/2016/11/richard-spencer-speech-npi/508379/), et cetera. We were promised an age of renewed white supremacist activity, supported by or maybe actively merging with the government.
+**Racist supporters:** Around the 2016 election, there were a lot of stories about the KKK marching for Trump, about how arch-alt-rightist Richard Spencer was [leading white nationalists in Nazi salutes for Trump](https://www.theatlantic.com/politics/archive/2016/11/richard-spencer-speech-npi/508379/), et cetera. We were promised an age of renewed white supremacist activity, supported by or maybe actively merging with the government.
 
 Needless to say, none of that happened. White supremacist activity in the United States never went beyond normal levels. After Charlottesville, the media tried to convince everyone that this was the promised spike in white supremacist activity, but it wasn't: there had been a bunch of white supremacist rallies larger than the Charlottesville protest throughout the Clinton, Bush, and Obama presidencies - the media just hadn't signal-boosted them as hard. 500 Nazis rallied [at Lake Tahoe in 1996](http://www.historycommons.org/context.jsp?item=a040596jubilation96&scale=0#a040596jubilation96); 125 at [Yorktown in 2005](https://www.cnn.com/2005/US/06/25/neo.nazi.rally/index.html); 2000 [in Budapest in 2009](https://www.reuters.com/article/idINIndia-38018720090214). Charlottesville's couple hundred were kind of par for the course - and all of these numbers are around the same number of people who eg [attend Satanist rallies](https://www.kark.com/news/local-news/hundreds-attend-little-rock-capitol-to-support-satanic-temple-rally/1376213401/). After Charlottesville there were no further large white supremacist rallies, with an attempted Charlottesville II [attracting about 20-30 people](https://en.wikipedia.org/wiki/Unite_the_Right_2).
 
@@ -209,13 +212,13 @@ Overall I give myself an A on this prediction, and am delighted to have outlaste
 
 I will still never predict anything this controversial again - it’s not worth the cost to my peace of mind.
 
- **6: 01-04-2017: Trump will strong-arm people into giving him good photo ops, which will make him look successful (F)**
+**6: 01-04-2017: Trump will strong-arm people into giving him good photo ops, which will make him look successful (F)**
 
 In [Trump And The Batman Effect](https://slatestarcodex.com/2017/01/03/trump-and-the-batman-effect/"), I updated _way_ too hard on Trump convincing a couple of companies to keep their jobs in the US during his first month after winning the election, and decided that Trump's overall plan for his presidency was to strong-arm specific people into doing a few good things and bask in the credit, while everything generally got worse all around him.
 
 In retrospect this wasn't a particularly coherent idea, and Trump didn't really do this. It was barely a month after Trump got elected and I think I was desperate to have some kind of Trump-related take that hadn't already been done to death. This was the best I could do, and in retrospect it was stupid. F.
 
- **7: 1-2017 through 1-2020: Various predictions about the Trump administration over the next year (B)**
+**7: 1-2017 through 1-2020: Various predictions about the Trump administration over the next year (B)**
 
 This is my dump for all my other yearly prediction threads. Ones that came true are left intact, ones that proved false are starred, ones that I wasn't able to judge are italicized:
 
@@ -277,7 +280,7 @@ I underestimated how well the economy would do the past four years. I think this
 
 I overestimated the likelihood of Trump building the border wall, passing immigration reform, or otherwise delivering on his campaign promise to fight immigration. I think this was partly me overestimating his honesty and competence, and partly me partly falling victim to the panic about how Trump was about to deport all immigrants and only the #Resistance could stop him. Although I was able to partly resist that panic when writing my Crying Wolf post, I was less able to resist the immigrant-related piece of it and notice that Trump wasn't really competent / dedicated enough to accomplish anything here.
 
- **8: 2-15-2018: Predictions on the next five years, especially the 2020 elections (C)**
+**8: 2-15-2018: Predictions on the next five years, especially the 2020 elections (C)**
 
 As part of SSC's five year anniversary, I tried to [predict the following five years](https://slatestarcodex.com/2018/02/15/five-more-years/). Three of those years have happened now. The Trump-relevant predictions were:
 
@@ -296,7 +299,7 @@ I don't think we've seen any more of Ted Cruz than anyone expected.
 
 Overall I give this section a C.
 
- **9: ~Autumn 2020 Semi-Prediction: QAnon was a moral panic and you should ignore it (D+)**
+**9: ~Autumn 2020 Semi-Prediction: QAnon was a moral panic and you should ignore it (D+)**
 
 I'm listing this as a semi-prediction because I never actually made it; I took the blog down before I could say anything about this formally. You will just have to trust me that I believed this. Still, I believed it very hard, and it's worth doing a postmortem on.
 
@@ -314,7 +317,7 @@ I think it's plausible that QAnon was 1-8% of Trump supporters, which is much la
 
 Overall I judge this one a minor-to-medium failure, and give it a D+.
 
- **10: ~Autumn 2020 Semi-Prediction: There will not be a Trump coup (B)**
+**10: ~Autumn 2020 Semi-Prediction: There will not be a Trump coup (B)**
 
 Another one I never got the chance to say publicly, and you'll just have to trust that I was thinking it. My argument was basically the same as [Maciej Ceglowski's argument here](https://www.theinsight.org/p/is-this-a-coup-introducing-the-counter) .
 
@@ -324,7 +327,7 @@ I did make a bet with someone who thought there would be a successful coup (eg T
 
 Overall I give this one a B.
 
- **11: Bonus - How much money did I make on prediction markets? (B+)**
+**11: Bonus - How much money did I make on prediction markets? (B+)**
 
 During the 2016 - 2020 period, I quadrupled my money on PredictIt.
 
@@ -348,7 +351,7 @@ Looking over my history, I find that I did well when I was speculating on very h
 
 Overall I approximately quadrupled my original $220 investment into about $900. I plan to take out all the money I won except about $1000 and see how much I end up with at the end of the first Biden administration.
 
- **12: Conclusion**
+**12: Conclusion**
 
 If I average out the grade I (unprincipledly) gave myself on each of the sections, I got a C. I tried to assign grades so that doing as well as an average pundit = a C, so I think I did about average.
 

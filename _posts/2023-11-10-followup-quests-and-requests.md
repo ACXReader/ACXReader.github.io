@@ -3,6 +3,9 @@ title: "Followup: Quests And Requests"
 subtitle: "..."
 date: 2023-11-10
 likes: 32
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/138719190/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/bc87bf10-79c4-4efb-adb3-c8e5bd9fc278_800x525.png
 original-url: https://www.astralcodexten.com/p/followup-quests-and-requests
 ---
 Thanks to everyone who commented on [Quests And Requests](/p/quests-and-requests).
@@ -15,27 +18,27 @@ Another predictable failure mode: many people said they were willing to help, an
 
 Here’s the current status of each project, AFAICT:
 
- **1 (EEG):**[Gustav Nilsonne](/p/quests-and-requests/comment/43151568), an expert in the field, said the study was unlikely to replicate. I still think it would be worth trying. Some EEG experts have volunteered to help but no one has taken point. [Luke Miles claims that](https://www.lesswrong.com/posts/diohDcgu3YdSbHd3j/go-flash-blinking-lights-at-printed-text-right-now) instead of the (costly, difficult) process of finding your EEG rhythm, you can just flash lights at yourself in various plausible rhythms until you find which one speeds your learning, and claims to have had success with this method. I consider this very speculative and likely to be placebo, but it’s another thing someone should try to replicate.
+**1 (EEG):**[Gustav Nilsonne](/p/quests-and-requests/comment/43151568), an expert in the field, said the study was unlikely to replicate. I still think it would be worth trying. Some EEG experts have volunteered to help but no one has taken point. [Luke Miles claims that](https://www.lesswrong.com/posts/diohDcgu3YdSbHd3j/go-flash-blinking-lights-at-printed-text-right-now) instead of the (costly, difficult) process of finding your EEG rhythm, you can just flash lights at yourself in various plausible rhythms until you find which one speeds your learning, and claims to have had success with this method. I consider this very speculative and likely to be placebo, but it’s another thing someone should try to replicate.
 
- **2 (Open-source polygenic score):** I had two knowledgeable people who I trust email me offering to do this. Right now I’m talking with both and trying to figure out what each brings to the table and whether I should choose one or convince them to collaborate. Overall optimistic here!
+**2 (Open-source polygenic score):** I had two knowledgeable people who I trust email me offering to do this. Right now I’m talking with both and trying to figure out what each brings to the table and whether I should choose one or convince them to collaborate. Overall optimistic here!
 
- **3 (Anti-TB campaign):** Many people commented that John Green didn’t invent this out of whole-cloth, he took a campaign by some existing charities and signal-boosted it. Sounds great, someone let me know if there’s a good campaign by existing charities that I should signal-boost.
+**3 (Anti-TB campaign):** Many people commented that John Green didn’t invent this out of whole-cloth, he took a campaign by some existing charities and signal-boosted it. Sounds great, someone let me know if there’s a good campaign by existing charities that I should signal-boost.
 
- **4 (Language learning technique):** Several people linked to groups that are already trying this. I was most excited by [Weeve](https://shop.weeve.ie/pages/shop), but there’s also [Prismatext](https://prismatext.com/), [The Adventures Di Pinocchio](https://www.jamez.it/project/the-adventures-di-pinocchio/), and [DonQuixote.fun](https://donquixote.fun/). If any of you try any of those, let me know how it goes.
+**4 (Language learning technique):** Several people linked to groups that are already trying this. I was most excited by [Weeve](https://shop.weeve.ie/pages/shop), but there’s also [Prismatext](https://prismatext.com/), [The Adventures Di Pinocchio](https://www.jamez.it/project/the-adventures-di-pinocchio/), and [DonQuixote.fun](https://donquixote.fun/). If any of you try any of those, let me know how it goes.
 
- **5 (Generate implicit association tests):** Nobody seemed too interested in this one, which is fair - it’s a pretty hard task for questionable payoff.
+**5 (Generate implicit association tests):** Nobody seemed too interested in this one, which is fair - it’s a pretty hard task for questionable payoff.
 
- **6 (OKCupid-style dating site):** _Everyone_ seemed interested in this one. Two people say they’ve already been working on this for a while and collected teams: [Shreeda Segan ](/p/quests-and-requests/comment/43002642)and [Dendwrite](/p/quests-and-requests/comment/42983377). Shreeda is a friend of a friend and I can vouch for her; I don’t know Dendwrite but he also seems pretty committed. Read their comments to see what help they need and how to contact them if you can provide it.
+**6 (OKCupid-style dating site):**_Everyone_ seemed interested in this one. Two people say they’ve already been working on this for a while and collected teams: [Shreeda Segan ](/p/quests-and-requests/comment/43002642)and [Dendwrite](/p/quests-and-requests/comment/42983377). Shreeda is a friend of a friend and I can vouch for her; I don’t know Dendwrite but he also seems pretty committed. Read their comments to see what help they need and how to contact them if you can provide it.
 
- **7 (Foundation to support classical architecture):**[The National Civic Art Society](https://www.civicart.org/) and [Institute For Classical Art and Architecture](https://www.classicist.org/) seem to already be something like this. Commenter Victor Thorne seemed interested in collecting people to work on this, but didn’t leave an email - maybe you can respond to his comment [here](/p/quests-and-requests/comment/43021102).
+**7 (Foundation to support classical architecture):**[The National Civic Art Society](https://www.civicart.org/) and [Institute For Classical Art and Architecture](https://www.classicist.org/) seem to already be something like this. Commenter Victor Thorne seemed interested in collecting people to work on this, but didn’t leave an email - maybe you can respond to his comment [here](/p/quests-and-requests/comment/43021102).
 
- **8 (Primer on political change):** Many people had opinions on this, but nobody seems like they’re going to actually write the primer, sorry.
+**8 (Primer on political change):** Many people had opinions on this, but nobody seems like they’re going to actually write the primer, sorry.
 
 Here’s a more detailed list of comments on each project. I’ve started with practical comments (eg people volunteering or discussing existing implementations). The theoretical comments (about whether they’re a good idea, or discussing hypothetical feature wish lists) are towards the end.
 
 ## 1: Comments On EEG Focus
 
- **Jona Sassenhagen[writes](/p/quests-and-requests/comment/42982588):**
+**Jona Sassenhagen[writes](/p/quests-and-requests/comment/42982588):**
 
 > I could help out anyone taking #1.
 > 
@@ -43,19 +46,19 @@ Here’s a more detailed list of comments on each project. I’ve started with p
 > 
 > One idea would also be to reach out to the folks at MUSE (choosemuse.com) and ask them if they’re willing to help with infrastructure and even finding somebody to do this.
 
- **Andrew X Stewart[writes](/p/quests-and-requests/comment/43012471):**
+**Andrew X Stewart[writes](/p/quests-and-requests/comment/43012471):**
 
 > I also have a lot of professional experience working with EEG data, and possibly access to hardware. Happy to collaborate on this, and organize efforts if needed.
 
- **Martyna sp[writes](/p/quests-and-requests/comment/43035917):**
+**Martyna sp[writes](/p/quests-and-requests/comment/43035917):**
 
 > I would be interested in helping out with this project. My experience with EEG only comes from a university intro class but recently I've been looking for projects where I could delve deeper into it. With some guidance, I'd be happy to take up any work throughout this project.
 
- **Alain Daigle[writes](/p/quests-and-requests/comment/42989264):**
+**Alain Daigle[writes](/p/quests-and-requests/comment/42989264):**
 
 > I'm an EEG expert and re #1: To get a clear answer to this question you would need a large sample size, probably larger than the initial experiment (~N= 80), especially if performed with consumer grade EEG systems that have lower signal to noise ratio. Also, presenting stimuli at the ms precision required by this experiment, at a participant specific alpha frequency is not trivial. One possibility to ensure the success of this replication would be to team up with the #EEGManyLabs project, a group of researchers teaming up to replicate high profile EEG experiments.
 
- **Gustav Nilsonne[writes](/p/quests-and-requests/comment/43151568):**
+**Gustav Nilsonne[writes](/p/quests-and-requests/comment/43151568):**
 
 > #1 is very unlikely to hold up in my opinion, sorry.
 > 
@@ -71,13 +74,13 @@ Here’s a more detailed list of comments on each project. I’ve started with p
 > 
 > My background: I am a researcher in neuroscience and metascience, involved in the EEGManyLabs project already mentioned by another commenter, and I co-lead the EEGManyPipelines project, which is a large-scale big team science project on analytical robustness of EEG data.
 
- **rhyime[writes](/p/quests-and-requests/comment/43008083):**
+**rhyime[writes](/p/quests-and-requests/comment/43008083):**
 
 > Looking at the article, at least the flickering is supposed to force the alignment of the person's rhythm, so it is a prepared stimulus with millisecond precision, not something that needs realtime updates based on EEG. And if the crucial part is just figuring out the frequency, as a signal-processing task this can tolerate quite a bit of noise.
 > 
 > All these avoidance of hard issues does not help a failed reproduction to be a meaningful outcome, though…
 
- **quiet_NaN[writes](/p/quests-and-requests/comment/43034150):**
+**quiet_NaN[writes](/p/quests-and-requests/comment/43034150):**
 
 > I think getting to a millisecond timing is not all that difficult. An off-the-shelf microcontroller board (e.g. RasPi Zero, Arduino) should be sufficient for that, no need for FPGAs.
 > 
@@ -89,7 +92,7 @@ Here’s a more detailed list of comments on each project. I’ve started with p
 
 I got several comments explaining very lucidly why this was impossible, and several other comments offering to do it. Someone I trust emailed me with an offer to do it, which I’m probably going to take them up on. Most projects fail, so I wouldn’t mind having a backup. I’m posting everyone’s comments here, including the comments on why it’s impossible, in the hopes that the “it’s impossible” and the “I’ll do it!” commenters can resolve their differences and give me a better perspective on options.
 
- **Gene Smith writes:**
+**Gene Smith writes:**
 
 I have some advice for anyone interested in tackling #2:
 
@@ -109,7 +112,7 @@ I have some advice for anyone interested in tackling #2:
 > 
 > In regards to the post, I also have one general comment:
 > 
->  _> “EA and IQ correlate well enough that it’s rarely worth examining them separately.”_
+> _> “EA and IQ correlate well enough that it’s rarely worth examining them separately.”_
 > 
 > I take your general point that EA is a better-than-nothing proxy for intelligence if you have no other phenotype, but I don't belive to be true in general. If it were, we would expect both traits to be equally hertiable, which they are not (intelligence is substantially more hertiable than educational attainment). We would also expect both to show the same degree of "genetic nurture" effects, which is a way of saying that the genes of the parents have a large influence on the educational attainment of the child. But that's not what we see: there is significantly more genetic nurture involved in educational attainment than intelligence.
 > 
@@ -119,7 +122,7 @@ I have some advice for anyone interested in tackling #2:
 > 
 > Researchers have used educational attainment as a more politically acceptable proxy for intelligence in the past, but GWAS are now reaching scales at which these two traits diverge.
 
- **Petar[writes](/p/quests-and-requests/comment/42983538):**
+**Petar[writes](/p/quests-and-requests/comment/42983538):**
 
 > I am a data scientist, and I wanted to work on #2. However, the best datasets, e.g. the UK Biobank, are locked for "legitimate researchers" and take particular care NOT to allow this specific thing. If I tell them that I have no degree and I want to use the dataset for correlating genes with IQ, they won't even answer my email.
 > 
@@ -127,7 +130,7 @@ I have some advice for anyone interested in tackling #2:
 
 See the followup subthread for more on the exact rules around this, especially [Sun Kitten’s comments](/p/quests-and-requests/comment/43027472).
 
- **Metacelsus** ([blog](https://denovo.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) **writes:**
+**Metacelsus**([blog](https://denovo.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) **writes:**
 
 > Many papers already release the statistical data needed to reconstruct the scores. See for example the supplementary information in <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935975/>
 > 
@@ -135,7 +138,7 @@ See the followup subthread for more on the exact rules around this, especially [
 > 
 > That being said, this is still pretty tricky to get right, and I think there is substantial room for improvement in terms of open-source polygenic scoring.
 
- **Peter Berggren (**[blog](https://nonmailableliveanimals.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**Peter Berggren (**[blog](https://nonmailableliveanimals.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > Not a statistical geneticist, but I think this article:
 > 
@@ -143,15 +146,15 @@ See the followup subthread for more on the exact rules around this, especially [
 > 
 > also gives enough information to reconstruct the scores
 
- **alphagrue[writes](/p/quests-and-requests/comment/43002727):**
+**alphagrue[writes](/p/quests-and-requests/comment/43002727):**
 
 > I'd potentially be interested in implementing #2 (PGS scores). I have previously applied educational attainment PGS scores to 1k genomes data, though I'm not a geneticist (I'm a data scientist/software engineer). My sense is that getting this up and running for 23andme data would be pretty easy, but I'm somewhat less clear about the data currently available from embryo testing companies (so I would need to look into that).
 
- **Peter Berggren[writes](https://nonmailableliveanimals.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata):**
+**Peter Berggren[writes](https://nonmailableliveanimals.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata):**
 
 > I'd be interested in #2, but I'm not in a good position to do this on my own (because I'm a CS/economics/data science student with no genomics experience whatsoever). However, I think my programming and statistics experience may be useful on the project. Anyone else want to collaborate with me on this?
 
- **Antelope[writes](/p/quests-and-requests/comment/43008832):**
+**Antelope[writes](/p/quests-and-requests/comment/43008832):**
 
 > I've looked into doing this myself. I think the project as currently formulated is valuable, but unlikely to accelerate research.
 > 
@@ -167,11 +170,11 @@ See the followup subthread for more on the exact rules around this, especially [
 
 ## 3: Comments On John Green’s Anti-TB Campaign
 
- **Will Van Treuren[writes](/p/quests-and-requests/comment/43021717):**
+**Will Van Treuren[writes](/p/quests-and-requests/comment/43021717):**
 
 > If anyone is thinking of tackling #3, I'd be interested in chatting. I founded a startup that is doing a small amount of antibiotic development outside our main focus. More antibiotics are an unalloyed good, and I think the patent extension mechanisms are generally bad, but probably there are some very important choices to be made in how this campaign is structured and what it targets.
 
- **Erusian[writes](/p/quests-and-requests/comment/42986185):**
+**Erusian[writes](/p/quests-and-requests/comment/42986185):**
 
 > One person did not accomplish this. This was part of a concerted campaign by MSF, Stop TB, and a few other organizations to let the patents expire. I'm actually kind of annoying that John Greene gets credit. Not because he doesn't deserve any credit but because MSF and other such organizations deserve much more. Anyway, eventually J+J allowed to procure generic versions of the drug in certain countries. It did not ultimately surrender the patent.
 > 
@@ -185,7 +188,7 @@ Erusian again, in response to the (I think valid) question of whether pressuring
 
 This is my assessment too.
 
- **Tyler[writes](/p/quests-and-requests/comment/42994023):**
+**Tyler[writes](/p/quests-and-requests/comment/42994023):**
 
 > John Green + The Stop TB Partnership’s campaign against Johnson & Johnson is very similar to how EA animal groups like The Humane League (disclaimer: I used to work there) have run their corporate campaigns, although they’ve been successful without celebrity support for the most part - instead relying on grassroots support and funding.
 > 
@@ -197,7 +200,7 @@ Thanks! Yeah, EA’s animal activism campaigns have been under-covered (includin
 
 ## 4: Comments On Language Learning
 
- **Alzy[writes](/p/quests-and-requests/comment/43204203):**
+**Alzy[writes](/p/quests-and-requests/comment/43204203):**
 
 > Re: language learning, an Irish company called Weeve does this (almost) exactly as described.
 > 
@@ -211,13 +214,13 @@ Thanks! Yeah, EA’s animal activism campaigns have been under-covered (includin
 
 Thanks! Many people linked companies that do this, but this one is the first one I’m going to look into, since it seems to be doing a lot of things right - for example, it has sequential courses, and doesn’t try to force you to use their app for everything.
 
- **Robin Goins[writes](/p/quests-and-requests/comment/42987944):**
+**Robin Goins[writes](/p/quests-and-requests/comment/42987944):**
 
 > Re: language learning, that seems to already exist as a company: [prismatext.com](http://prismatext.com)
 
 Another one that looks good, though it does force you to download and do everything through their app, so I probably won’t be checking it out.
 
- **Mark (**[blog](https://doppelkorn.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/quests-and-requests/comment/42983568):**
+**Mark (**[blog](https://doppelkorn.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**)[writes](/p/quests-and-requests/comment/42983568):**
 
 > FL-Teacher here (German). I remember your "crazy idea for language teaching" and "can’t think of any reason this would work" ;) - See: Foreign language teaching in US-schools (+other countries) is pretty broken (as Bryan Caplan declares so often), and this may explain why you people come up with most of the "crazy new ideas" for FLT (during my Master, I learned about a couple of them, including a group-therapy-approach). Thing is: FLT is not broken. With good course-material, a reasonable schedule and a competent teacher: it actually works mostly fine.
 > 
@@ -225,11 +228,11 @@ Another one that looks good, though it does force you to download and do everyth
 > 
 > my g m a i l is m k r o d e
 
- **deusexmachine[writes](/p/quests-and-requests/comment/42985751):**
+**deusexmachine[writes](/p/quests-and-requests/comment/42985751):**
 
 > I am a native German speaker, and have a background in teaching and education (not FL, though), as well as in translation. I am interested in this project as well. If you want to connect, let me know as a comment and I can shoot you an email.
 
- **Timothy (**[blog](https://piecesofknowledge.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**Timothy (**[blog](https://piecesofknowledge.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > for 4. My crazy idea for language teaching.
 > 
@@ -237,23 +240,23 @@ Another one that looks good, though it does force you to download and do everyth
 > 
 > Anyway, I am fluent in German and English I would be happy to do this kind of translation for a book and maybe eventually a short story. Just contact me if interested.
 
- **Dave** ([blog](https://hallofdreams.org/)) **writes:**
+**Dave**([blog](https://hallofdreams.org/)) **writes:**
 
 > I started writing an attempt at idea . . . but it became much too long for a Substack comment, so I spun it off into a [blog post here](https://hallofdreams.org/posts/metamorphoses/). I took the first paragraph of every book in Ovid's _Metamorphoses_ and did the gradual partial translation, along with the Latin version and the literal English version for comparison.
 > 
 > Overall, having written it, I don't think the idea would work as-is. I listed a number of reasons why the idea wouldn't work for Latin specifically, but you listed several reasons why it wouldn't work for Japanese (the different writing system being the most obvious one), and I suspect that every language would have its own idiosyncratic reasons why English word order with loan words wouldn't work. It's not that you can learn _nothing_ about another language by substituting words, but that the nuances of the grammar are going to be harder to learn outside their normal context than in.
 
- **Mark Neznansky (**[blog](https://markneznansky.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/quests-and-requests/comment/42982671):**
+**Mark Neznansky (**[blog](https://markneznansky.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**)[writes](/p/quests-and-requests/comment/42982671):**
 
 > I've recently bumped into the idea at one Giacomo Miceli's website: <https://www.jamez.it/project/the-adventures-di-pinocchio/>
 > 
 > I've written him to ask about the prospects but never got an answer. His other finished projects suggest he is up the challenge skillwise, I suppose labour is the only thing left to invest. Perhaps if you wrote him as well he would be more inclined to follow through.
 
- **Yorwba writes:**
+**Yorwba writes:**
 
 > 4 sounds a lot like [donquixote.fun](http://donquixote.fun/) (which has content in Spanish, Italian, German and French) except that it progresses one sentence at a time. (When I last saw it, it was actually using Don Quixote as the text, but people didn't like the archaic language <https://news.ycombinator.com/item?id=26601643> )
 
- **Tzvi[writes](/p/quests-and-requests/comment/42989290):**
+**Tzvi[writes](/p/quests-and-requests/comment/42989290):**
 
 > The book: "the avion my uncle flew" does the language idea. It starts in english and finishes in french.
 > 
@@ -261,7 +264,7 @@ Another one that looks good, though it does force you to download and do everyth
 
 Thanks, I have ordered this. It looks like there are several children’s books of this type. I just don’t know how you would scale up from there to really being good at the language.
 
- **Doug Summers-Stay[writes](/p/quests-and-requests/comment/42982958):**
+**Doug Summers-Stay[writes](/p/quests-and-requests/comment/42982958):**
 
 > On language learning (#4) -- There are web plugins that substitute foreign vocabulary words into your webpages as you read, with a slider for how far down the vocabulary list you want to replace. Since most of the page is still in English, you pick up the meaning of the words by context. Since I mostly just want to be able to read foreign languages, and the hardest part of that is vocabulary (you can mostly just ignore word-ending changes) I find this pretty useful.
 
@@ -269,7 +272,7 @@ Toucan <https://chrome.google.com/webstore/detail/toucan-by-babbel-language/lokj
 
 ## 5: Comments On An Implicit Association Test Site
 
- **Imajication[writes](/p/quests-and-requests/comment/43122157):**
+**Imajication[writes](/p/quests-and-requests/comment/43122157):**
 
 > #5 Really excites me because it was similar to something I worked on for myself a while ago, though it was more like a super-CBT/affirmation tool: a game where you try to choose the positive fill in the blank answer quickly, theoretically training you to have more positive automatic thoughts.
 > 
@@ -291,7 +294,7 @@ I’ very skeptical of this, but I appreciate the level of lateral thinking and 
 
 ## 6: Comments On A Good Dating Site
 
- **Shreeda Segan[writes](/p/quests-and-requests/comment/43002642):**
+**Shreeda Segan[writes](/p/quests-and-requests/comment/43002642):**
 
 > Hello!
 > 
@@ -305,21 +308,21 @@ I’ very skeptical of this, but I appreciate the level of lateral thinking and 
 
 Oh, thank goodness, finally someone is actually leading a thing and giving contact details. Shreeda is a friend of a friend and I wish her the best.
 
- **Dendwrite (**[blog](https://dendwrite.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**Dendwrite (**[blog](https://dendwrite.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > I have a team that is working on the dating site more or less as Scott described (for everyone, not just rationalists). I have a data science/machine learning background so we will try to take a data-driven approach to solving the social engineering problems. If you're interested in getting involved (especially re: funding) contact me at tmoldwin[at]gmail .
 
- **Mark Neznansky (**[blog](https://markneznansky.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/quests-and-requests/comment/42982864):**
+**Mark Neznansky (**[blog](https://markneznansky.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**)[writes](/p/quests-and-requests/comment/42982864):**
 
 > Another key feature that distinguished 2011 OKCupid from what followed is the thumbnail display of profiles, sorted by match percentage. It enabled you to "browse" instead of being pushed into making a binary decision one random profile at a time.
 
 ## 7: Comments On A Foundation To Promote Classical Architecture
 
- **Victor Thorne[writes](/p/quests-and-requests/comment/43020992):**
+**Victor Thorne[writes](/p/quests-and-requests/comment/43020992):**
 
 > I am very interested in 7- trying to start a thread of people who are.
 
- **Perry[writes](/p/quests-and-requests/comment/42989295):**
+**Perry[writes](/p/quests-and-requests/comment/42989295):**
 
 > Re: 7, I'm a landscape architect in the Washington DC area and would be happy to consult with anyone pursuing this quest. I have familiarity with design review (and the approvals process) at the municipal and county level, building code, the public response part of the design process, value engineering, etc., and can help get someone started navigating all that. These things vary by municipality, state, and market, but I can help you figure out where to start. Most of my relevant experience is in multifamily housing (apartments/condos/townhomes) and commercial (stores, restaurants, shopping centers, strip malls). I also have experience in single family homes and parks but I think those are less of a focal area for this hypothetical foundation.
 > 
@@ -327,7 +330,7 @@ Oh, thank goodness, finally someone is actually leading a thing and giving conta
 > 
 > Email me at why0hat at Gmail dot com if you want to talk!
 
- **Joseph Addington (**[blog](https://progressandpoverty.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**Joseph Addington (**[blog](https://progressandpoverty.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > There actually is already an organization that promotes classical architecture in government buildings, at least, the National Civic Art Society: <https://www.civicart.org>.
 > 
@@ -335,9 +338,9 @@ Oh, thank goodness, finally someone is actually leading a thing and giving conta
 
 Thanks, this looks great and very close to what I want, though I can’t tell how limited it is to government buildings.
 
- **Jim writes:**
+**Jim writes:**
 
->  _> “As far as I know, proponents of classical architecture don’t have an aegis organization the same way charter city proponents have CCI or pro-progress types have Roots of Progress."_
+> _> “As far as I know, proponents of classical architecture don’t have an aegis organization the same way charter city proponents have CCI or pro-progress types have Roots of Progress."_
 > 
 > Actually, they do: The Institute of Classical Architecture and Art: <https://www.classicist.org/>
 > 
@@ -361,7 +364,7 @@ Thanks, this looks great and very close to what I want, though I can’t tell ho
 > 
 > The preferences of the faculty of most architecture schools, and therefore of most graduates of these schools, is what proliferates modernist architecture. Visit the websites of these schools and look at their galleries of student work and their academic design publications, and you will have your answer.
 
- **Tristan[writes](/p/quests-and-requests/comment/43007241):**
+**Tristan[writes](/p/quests-and-requests/comment/43007241):**
 
 > I think I have pretty good insight on why all new buildings look like smooth blobs. I'm a design student, have spent 100's of hours studying form development. When I look at the AI generated frank gehry my first reaction is "wow, that's a pretty cool building". It seems like spending 100's of hours studying form development and such perhaps makes you think that really sophisticated blobs are the way to go. This is a problem because most people have not spent the time training their brains to recognize really sophisticated blobs and prefer classic architecture.
 > 
@@ -373,7 +376,7 @@ Thanks, this looks great and very close to what I want, though I can’t tell ho
 
 It seems several people agree on this story. I’m most interested in the question of why the market isn’t resolving it. Every building is built by some specific person or group, whether that’s the government building a courthouse, a developer building homes, a congregation building a church, or a business building a new HQ. None of these people are architects, so why don’t they demand architects implement their preferences instead of the architect’s own?
 
- **Ben Southwood (**[blog](https://www.bensouthwood.co.uk/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/quests-and-requests/comment/42988469):**
+**Ben Southwood (**[blog](https://www.bensouthwood.co.uk/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**)[writes](/p/quests-and-requests/comment/42988469):**
 
 > You should talk to Samuel Hughes (I'm sure you know him from Twitter: <https://twitter.com/scp_hughes>) about #7, in part because he is also quite au fait with some of the distributed answers to #8, and is already working on this question. He was the researcher for the UK's Building Better, Building Beautiful Commission, which was sort of like a consensus-based committee attempt to make progress on this question.
 > 
@@ -383,17 +386,17 @@ It seems several people agree on this story. I’m most interested in the questi
 
 I don’t know if I like the “popular architecture” reframing. I agree that the important thing is that buildings should be good, and that classical architecture is only one kind of potentially good building. But I also think that “classical” short-circuits a lot of tedious debate over what kind of buildings are or aren’t good, and is an easy Schelling category that captures most of what people mean by “good building” without forcing a debate over “well my architecture should be popular too”.
 
- **Michael Schepak[writes](/p/quests-and-requests/comment/43015840):**
+**Michael Schepak[writes](/p/quests-and-requests/comment/43015840):**
 
 > As far as architecture is concerned, this Facebook group is about reviving human based architecture and reviving classical design styles [https://m.facebook.com/groups/Klassisknyproduktion/?ref=share&mibextid=S66gvF](https://m.facebook.com/groups/Klassisknyproduktion/?ref=share&mibextid=S66gvF)
 
- **J.E. Rumbelow (**[blog](https://jamieonsoftware.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/quests-and-requests/comment/42985026):**
+**J.E. Rumbelow (**[blog](https://jamieonsoftware.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**)[writes](/p/quests-and-requests/comment/42985026):**
 
 > I'm the cofounder of [Tract](https://buildwithtract.com/), a startup trying to make it easier to reason about planning risk. One of the things I'd like to prototype, and which might dovetail rather nicely with §7, is a modern approach to visual preferences survey: a 'Tinder for buildings', somewhere local communities can vote on and discuss various architectural styles. We can use generative AI methods to slot new facades into existing streetscapes, analyse the data, and see if we can find meaningful clusters that pin down quantitively what a 'local vernacular' actually consists of.
 
 Somebody who knows things should look at this and tell me whether it’s stupid or brilliant.
 
- **Kiefer Kazimir[writes](/p/quests-and-requests/comment/42983245_metadata):**
+**Kiefer Kazimir[writes](/p/quests-and-requests/comment/42983245_metadata):**
 
 > I also wanted to point out that [my Substack](https://onthearts.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) is something an attempt to educate people on the breadth and history of art and aesthetics, as most art /architecture magazines are very uncritical of contemporary aesthetics and art styles. Any change in this area starts with education, as “I like old architecture” or “art used to be more beautiful” is generally too vague to be actionable.
 > 
@@ -407,11 +410,11 @@ The pro-choice movement works because there are some small number of wonks who c
 
 ## 8: Comments On A Primer About Political Change
 
- **Spencer Orenstein Lequerica (**[blog](https://thebrownbarge.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/quests-and-requests/comment/43018490):**
+**Spencer Orenstein Lequerica (**[blog](https://thebrownbarge.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**)[writes](/p/quests-and-requests/comment/43018490):**
 
 > On 8: I have worked for ~13 years in various levels of federal politics and been involved with both congressional and executive changes. When I worked as a congressional staffer my office was ranked the most effective legislative office by a (sort of not that rigorous, but not entirely fake) project by political scientists at UVA and Vanderbilt. I’ve also worked in the think tank world. Would be interested in collaborating on this primer if anyone else wants to work on it together.
 
- **Zoomer Antimillenarian[writes](/p/quests-and-requests/comment/43029346):**
+**Zoomer Antimillenarian[writes](/p/quests-and-requests/comment/43029346):**
 
 > (8) is something I'd like to work on, with a little help from you setting up some interviews.
 > 
@@ -421,7 +424,7 @@ The pro-choice movement works because there are some small number of wonks who c
 > 
 > I'd like to discuss details with you over Twitter DMs (I'm @surcomplicated) or email (DM me and I'll trade emails with you if you want) but what you could really do for me is set me up with a few interview subjects to make sure I get the details of their sides of things right. Different people handle issue polling than handle litigation than handle intra-elite activism and lobbying than handle protesting in the streets and so on. The job here is fundamentally to take expert knowledge in these (in practice) separate specialties and weave it together into a general primer on how you change things, and while there's plenty of written expert material on these specialties interviews can paper over any holes that remain.
 
- **jumpingjacksplash[writes](/p/quests-and-requests/comment/42983751):**
+**jumpingjacksplash[writes](/p/quests-and-requests/comment/42983751):**
 
 > Isn’t the answer to 8 just lobbying? In practical terms, get a bunch of money and hire a k-street outfit that draws from whatever regulator or political tendencies in congress are on your side.
 > 
@@ -435,7 +438,7 @@ The pro-choice movement works because there are some small number of wonks who c
 
 All of this is fine advice. But it feels like I am asking for a textbook on electrical engineering, and Jack is saying “Isn’t the answer just circuits? Just connect a power source through wires, and the current will flow through and power your devices.” Everything he says is right and useful, it’s just that I’m asking for the long version of what he’s giving the summary of. I expect this is because he’s knowledgeable enough that it’s hard for him to imagine other people lacking the relevant details (for example, I don’t know what k-street is, what bookers are, etc).
 
- **AshLael[writes](/p/quests-and-requests/comment/42986370):**
+**AshLael[writes](/p/quests-and-requests/comment/42986370):**
 
 > Re: 8 - the answer is highly variable depending on the precise situation.
 > 
@@ -447,13 +450,13 @@ All of this is fine advice. But it feels like I am asking for a textbook on elec
 > 
 > For someone in Scott's particular situation, one tactic I would recommend is identifying the specific person you need to get the change made, and writing public posts and going on podcasts saying "it would be excellent and a testament to their wisdom if person X did Y". It's important to highlight Person X by name because Person X almost certainly uses a media monitoring service that alerts them about anything that gets said about them in the media, and prominent blogs and podcasts are very much a part of that. These people are often shockingly vain and notice when they get specific attention - Person X is among the top 0.01% of people interested in Person-X-related content. So by using their name in public you get a shortcut to put your argument in front of their eyes.
 
- **Counterblunder writes:**
+**Counterblunder writes:**
 
 > Re #8: I briefly dated someone who is very involved in political activism scenes, and according to her the model that is super popular right now is called the "momentum model": <https://www.momentumcommunity.org/momentum-model>, original book here: <http://thisisanuprising.org/> . Although this might be more on the "social change" (i.e., get society to shift on controversial issues) rather than targeted political change for ideas that are already mostly accepted.
 
 Yeah, I think some combination of “social change is oversupplied compared to political change” and “my personal use cases are probably bottlenecked more by political than social change”.
 
- **ColdButtonIssues (**[blog](https://coldbuttonissues.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**ColdButtonIssues (**[blog](https://coldbuttonissues.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > This book exists. It's called Organizing for Social Change and is put out by a lefty organizer training group called MidWest Academy. Of course, the tactics can also be used by conservatives and libertarians. It's very practical!
 
@@ -461,7 +464,7 @@ I will check it out, but again, I think “organizing” and “social change”
 
 That is, my guess is that there are a lot of people who love the idea of holding protests and putting up posters, and are very good at these things. But I expect most of this doesn’t connect to anything valuable; they hold the protest, there’s a lot of shouting, and nobody knows what to do after that. And protests and organizing are mostly good for, I don’t know, overthrowing the capitalist order, and not for getting a sentence changed in page 1069 of the security regulations bill (even if that sentence is actually contributing to some of what people hate about the capitalist order). There has to be some other part where you contact some representative, raise the idea that this part of the security bill should be changed, and then _maybe,_ if they say no for some very specific reason, you hold a protest and arrange for them to hear about it. But everyone seems to want to jump to becoming an expert in organizing the protest, and that doesn’t seem like the most heavily bottlenecked part to me.
 
- **Peregrine Journal (**[blog](https://peregrinejournal.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**Peregrine Journal (**[blog](https://peregrinejournal.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > +1 to number 8. Political change is accompanied by a bunch of idiosyncratic features like the single issue rule. so once you get a lobbyist to support your boutique cause of, say, increasing funding for law libraries, your next step is to simply propose a bill for funding law libraries.
 > 
@@ -477,7 +480,7 @@ That is, my guess is that there are a lot of people who love the idea of holding
 > 
 > I would love to quit my job and go on an interview tour but I have a family to support and lack any reputation that would land me any of these interviews. How do you hire somebody to write a book to spec?
 
- **Erusian[writes](/p/quests-and-requests/comment/42986299):**
+**Erusian[writes](/p/quests-and-requests/comment/42986299):**
 
 > You know, I'm increasingly convinced this is just some kind of weird local knowledge. I feel like my government is pretty responsive but this is because I know who to reach out to or where to show up for public hearings or whatever. Anyone else could do this if they had that same knowledge but most people... just don't bother, I guess? It's weird. Government is really important. And local governments especially. And it's not really that hard to access.
 > 
@@ -485,19 +488,19 @@ That is, my guess is that there are a lot of people who love the idea of holding
 > 
 > Anyway, to answer:
 > 
->  _> Presumably the first step is convincing a member of Congress or the administrative state. How do you do this?_
+> _> Presumably the first step is convincing a member of Congress or the administrative state. How do you do this?_
 > 
 > Step one is getting into a room with them. Step two is just normal persuasion. Step two is the harder part. Step 3 is even harder: getting them to prioritize it.
 > 
->  _> you should get articles in newspapers, sign petitions, and hold some protests._
+> _> you should get articles in newspapers, sign petitions, and hold some protests._
 > 
 > Eh, maybe? What you really need to convince them of is one of two things: either that it's correct (either in a moral or technical sense) or that it will win them votes. Ideally both. Keep in mind they have their own ideas of what wins/loses votes and what's right/wrong. Protests or whatever are just an honest signal of #2.
 > 
->  _> Is there a way to avoid this? Is this your Congressman’s problem, or your problem?_
+> _> Is there a way to avoid this? Is this your Congressman’s problem, or your problem?_
 > 
 > It's your job to make it a battle leadership chooses to fight and to smooth it as much as possible for them. This gets into the process of whipping. Your job as an interest group is to convince leadership and then make the whipping process as easy as possible. The easier it is the less whipping that needs to be done and so the more likely leadership is to do it.
 > 
->  _> If you want to convince the administrative state to make/repeal some regulation, do you write a letter to the appropriate official? How do you know who that is? Do they care about letters? Do they care how many protests you’ve organized?_
+> _> If you want to convince the administrative state to make/repeal some regulation, do you write a letter to the appropriate official? How do you know who that is? Do they care about letters? Do they care how many protests you’ve organized?_
 > 
 > The administrative state is regulation bound. You can convince them but only through strict procedures. Comment periods, briefs, etc. Politicians get to take initiative but bureaucrats generally don't. They act according to the rules or follow orders. They specifically do not want you convincing individual bureaucrats and to instead deal with the institution. They don't care how many protests you've organized but their bosses might.
 > 
@@ -507,7 +510,7 @@ Some of this brushes against the parts I don’t understand. Yeah, whipping the 
 
 As for EA: I don’t make strategy and don’t know if anyone’s ever debated this, but my answers would be - “EA” is not a unified actor and it’s not clear what org would take point on this process, getting someone made an ambassador seems like a lot of work and string-pulling for a mostly sinecure position that doesn’t have much direct power, EA isn’t very good at lobbying except in a few areas (like AI) where it’s invested a lot in capacity, and EA doesn’t claim to have any amazing ideas for revolutionizing foreign policy (including foreign policy in development countries). I don’t know, maybe someone should be doing this; like I said, I don’t think there’s currently an org with the money and talent and PR and lobbying to make this work.
 
- **Rep. Tristan Roberts[writes](/p/quests-and-requests/comment/42990722):**
+**Rep. Tristan Roberts[writes](/p/quests-and-requests/comment/42990722):**
 
 > #8. A good primer on political change -- written from the inside
 > 
@@ -547,7 +550,7 @@ As for EA: I don’t make strategy and don’t know if anyone’s ever debated t
 > 
 > Better yet, get updates like these in real-time: <https://pages.tristanroberts.org/signup> :-)
 
- **Colin C[writes](/p/quests-and-requests/comment/42985834):**
+**Colin C[writes](/p/quests-and-requests/comment/42985834):**
 
 > The problem with #8 is that there are orders of magnitude more "good ideas" for new laws than there is legislative capacity. In the current system, most of those good ideas don't even get the attention of someone in Congress. But if someone figured out the "cheat code" and publicized it, congresspeople would be overwhelmed, and they'd develop new filters for getting their attention.
 > 

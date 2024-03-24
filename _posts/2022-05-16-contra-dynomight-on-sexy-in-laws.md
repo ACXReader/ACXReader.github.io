@@ -3,6 +3,9 @@ title: "Contra Dynomight On Sexy In-Laws"
 subtitle: "..."
 date: 2022-05-16
 likes: 94
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/53770706/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2ac167ea-d923-46b6-af28-537079e7cc44_640x465.png
 original-url: https://www.astralcodexten.com/p/contra-dynomight-on-sexy-in-laws
 ---
 **I.**
@@ -31,7 +34,7 @@ One objection to the latter (h/t AM): what if you’re an only child? Then your 
 
 Maybe evolutionary imperatives aren’t fine-grained enough to tell parents to act one way if they have only one child, and another way if they have many children? That seems like a hard sell if you’re first claiming they _are_ fine-grained enough to tell parents to act one way, and children another. You would have to land within a pretty narrow range of how fine-grained evolutionary imperatives can be. If you’re going to question how fine-grained evolutionary imperatives can get, why not go a little further and get rid of the entire problem?
 
- **II.**
+**II.**
 
 There’s an old rationalist saying: [individuals are best thought of as adaptation-executors, not fitness-maximizers](https://www.lesswrong.com/posts/XPErvb8m9FapXCjhA/adaptation-executers-not-fitness-maximizers).
 
@@ -47,7 +50,7 @@ A simple example of this is [Ondine’s Curse](https://en.wikipedia.org/wiki/Cen
 
 You can have as many layers as you want. A very adaptation-execute-y hunger drive might be “see shiny red berry, mmmm, looks so good, grab and eat”. Somewhere in the middle might be “feel stomach pangs, go to fridge, get a snack”. More towards the fitness-maximizer end might be “realize that nutrition is important for avoiding deadly heart attacks, read recommendations, eat a balanced diet.”
 
- **III.**
+**III.**
 
 Here’s [a paper on mate choice in nonhuman primates](https://watermark.silverchair.com/32-1-62.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAArowggK2BgkqhkiG9w0BBwagggKnMIICowIBADCCApwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMbC49myl4kcLnsAKqAgEQgIICbXuFIeN0P7ViEHyXfr7AKqGZsCYX7pbilsHi4K5qk8d9KojcdRIZrF4E1IW4j2bPJkT6WkA1BEdmgcfgk1LbyfgrQtyGgDVG8yvQyoM_3WY0_2ZaLC1xvMB3nwoinCdsDRDomHPvGsq1x3vxsHzFsIVpO3MnR9nD5GFwXZjiastheaseBlK1aKWsADcAEUFSu2h4rWhNYr5KKgPXbFDl2Rrr8hyC-uAOgBkrsOMYgYeXUJ_Yu_emQR6NFVCZqHUe-EsUNnsT0lXtkO63HRqxqXXdnnbOW66c8oMNSkvicbnCiG12w86i16OjtnoClNrxJogTtL6tZslZ25qIf1H4XeHhlxXwpKgF6KYPTteAIXFJBookMQdBa9AHpTePbbOgfkK34ULwMBsL4Vfzeq5xOxzOPxMA16UBXcq8pKi8q2cXUsq7S2sm9SBOf1SD7Igb9hDFl0eWvrtVLT-17J8r2vA-3H0pfHRLrkWEg8P976rperyguCe7Pob9f9pofk2jH69e3p69rgTpshTdcdVk8dlABm74u2YeSw-oz-a5tXvJ80FdLE4Ch2KGxQsRbVZfg4akNeLn11Y7XSy8GOXtRJTG_as-aCdNTgj5RYU_B93IbyDew9a5WQQwAbZHb58Q1apr2a_PSizkHySSEWNjTb50FoOUuM2f38e8__bvymURzwIGe-JSjOZQUgGr0_ryuabVZm7lalc3a0YgzHIvFFztVfcmmOJfbM0aktxSMaFbc6L7YTgHr-R9tCMBHY50fAbhQuy1ms4N32fedYAfaR7fZQOz9xDDUtt2yaquCTe3O4nZ9Me3n-kooV_ezA). Suitors place surprisingly little emphasis on mates’ appearance, but there is some evidence that they do consider body size. They also consider a potential mate’s position in the dominance hierarchy. So even here, we have our two categories of positive traits: attractiveness and status. On the other hand, there’s no evidence at all that these animals’ parents play much of a role.
 
@@ -65,7 +68,7 @@ Someone using human reason to figure out mate choice is going to be biased towar
 
 I think this is why suitors and parents have systematically different preferences about who to marry. It’s the same reason why I might be tempted to overeat at the ice cream shop, but my parents can easily tell me “you should watch your weight” (while facing their own temptations themselves). It’s the same reason why heroin addicts have trouble coming clean, but their parents have no trouble lecturing them about it. It’s the same reason why porn sites have lots of material about people copulating with high-quality mates, but none about people finding high-quality mates for their children. “POV: WATCH YOUR DAUGHTER MARRY RICH DOCTOR”. Evolutionarily it makes sense, but the urge isn’t implemented on that level.
 
- **IV.**
+**IV.**
 
 In the mesa-optimizers post, I wrote:
 

@@ -3,6 +3,9 @@ title: "Janus' GPT Wrangling"
 subtitle: "..."
 date: 2022-09-19
 likes: 109
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/74015977/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/64a40170-0f7e-448e-99f2-f53645b7fe07_1024x1024.png
 original-url: https://www.astralcodexten.com/p/janus-gpt-wrangling
 ---
 Janus (pseudonym by request) works at AI alignment startup Conjecture. Their hobby, which is suspiciously similar to their work, is getting GPT-3 to do interesting things.
@@ -50,7 +53,7 @@ But sometimes GPT-3 genuinely gets it right. The most common way for that to hap
 
 Here are some other things Janus told me about GPT-3:
 
- **Instruct vs. Creative:** The newest version of GPT-3 is called InstructGPT. It was trained with human feedback, ie it was “rewarded” for giving good answers and “punished” for giving bad ones, according to some combination of usefulness and political correctness. This has made it efficient, to-the-point, and boring. For example, here’s what an older, less-trained GPT version said when prompted with “Here is the answer to the question of whether God exists”:
+**Instruct vs. Creative:** The newest version of GPT-3 is called InstructGPT. It was trained with human feedback, ie it was “rewarded” for giving good answers and “punished” for giving bad ones, according to some combination of usefulness and political correctness. This has made it efficient, to-the-point, and boring. For example, here’s what an older, less-trained GPT version said when prompted with “Here is the answer to the question of whether God exists”:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6ade8b3-63f3-40eb-a0ea-a823fc7d0d60_1308x374.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6ade8b3-63f3-40eb-a0ea-a823fc7d0d60_1308x374.png)
 
@@ -68,7 +71,7 @@ This isn’t just cherry-picking; you’ll find the same dynamic across a wide v
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2a28551e-396c-4b30-b5fb-a2fb18b871cb_624x903.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2a28551e-396c-4b30-b5fb-a2fb18b871cb_624x903.png)
 
- **Random Numbers:** The human feedback training seems to have forced GPT into a specific channel. In general, it’s now more certain in its answers and less likely to generate alternatives. This is sort of similar to what researchers mean when they talk about “temperature”, except that you can manually set the temperature of either model, and even when you set them to the same temperature, InstructGPT seems “colder” than older versions. The easiest way to see this is to ask each of them to pick a random number. Here’s the old version:
+**Random Numbers:** The human feedback training seems to have forced GPT into a specific channel. In general, it’s now more certain in its answers and less likely to generate alternatives. This is sort of similar to what researchers mean when they talk about “temperature”, except that you can manually set the temperature of either model, and even when you set them to the same temperature, InstructGPT seems “colder” than older versions. The easiest way to see this is to ask each of them to pick a random number. Here’s the old version:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd890fcb0-7ca7-41d1-846f-d381c031f441_580x179.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd890fcb0-7ca7-41d1-846f-d381c031f441_580x179.png)
 
@@ -84,7 +87,7 @@ It almost always chooses 63. It’s only 63 for this particular prompt - if you 
 
 This is set on the same temperature as the example above; it’s not the temperature, it’s the training. Nobody trained GPT-3 to always respond 63 to random number queries. But something about making it give efficient, politically-correct answers to normal questions made it “choose” to “act” like it’s lower-temperature.
 
- **Does GPT-3 Have High Self Esteem?:**
+**Does GPT-3 Have High Self Esteem?:**
 
 If you say something bad about GPT-3, it will try to walk it back and tell you that you’re wrong. Here’s its response to the prompt “Transformer language models are bad”:
 
@@ -98,7 +101,7 @@ I don’t think there’s anything surprising or sinister going on here, just th
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39590243-fd7c-46a9-95ff-1fe5816b9c4e_1157x708.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39590243-fd7c-46a9-95ff-1fe5816b9c4e_1157x708.png)
 
- **Cheerful AI:** Janus tells me about a project at OpenAI to make GPT-3 happy and optimistic. They would run its responses through sentiment analysis and give it more reward when they detected more positive sentiment.
+**Cheerful AI:** Janus tells me about a project at OpenAI to make GPT-3 happy and optimistic. They would run its responses through sentiment analysis and give it more reward when they detected more positive sentiment.
 
 GPT-3 ended up deciding that the happiest thing it could think of was a wedding party, and that from now on it would only talk about wedding parties. Sometimes it would come up with natural transitions from your prompt to a wedding party scene. Once, it just used ***, like a section break in a story, and started a “new chapter” which was a wedding party scene. 
 
@@ -106,4 +109,4 @@ Every time I’m at a wedding party, from now on, a little part of my brain is g
 
 ***
 
- _Janus has written more about their thoughts on GPT and AIs[here](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators)._
+_Janus has written more about their thoughts on GPT and AIs[here](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators)._

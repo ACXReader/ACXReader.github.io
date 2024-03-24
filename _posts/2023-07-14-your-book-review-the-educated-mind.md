@@ -3,9 +3,12 @@ title: "Your Book Review: The Educated Mind"
 subtitle: "Finalist #9 in the Book Review Contest"
 date: 2023-07-14
 likes: 301
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/123360040/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/0c003650-7e2b-4100-904d-f53ee461d4b7_736x522.png
 original-url: https://www.astralcodexten.com/p/your-book-review-the-educated-mind
 ---
-[ _This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_ ]
+[_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]
 
 “The promise of a new educational theory”, writes Kieran Egan, “has the magnetism of a newspaper headline like ‘Small Earthquake in Chile: Few Hurt’”.
 
@@ -63,7 +66,7 @@ Egan disagrees. He opens his book by laying that out:
 > 
 > “Despite, or because, the vast expenditures of money and energy, finding anyone inside or outside the education system who is content with its performance is difficult.”
 
-####  **Q: Oh, can it really be that bad?**
+#### **Q: Oh, can it really be that bad?**
 
 Imagine a group of 100 American adults, chosen at random. They’ve sat through years of science lessons, so you decide to ask them some basic questions. What will they know?
 
@@ -80,13 +83,13 @@ Bryan Caplan, in his book _[Against Education](https://www.amazon.com/Case-again
 
 
 
-####  **Q: Well, those are facts, not understanding — and that’s just looking at American adults in general! Surely good schools are doing a better job educating than that?**
+#### **Q: Well, those are facts, not understanding — and that’s just looking at American adults in general! Surely good schools are doing a better job educating than that?**
 
 Caplan cites a famous study by the educational psychologist Howard Gardner:
 
 > “Researchers at Johns Hopkins, M.I.T., and other well-regarded universities have documented that students who receive honor grades in college-level physics courses are frequently unable to solve basic problems and questions encountered in a form slightly different from that on which they have been formally instructed and tested.”
 
-####  **Q: Okay, but schools teach reading, writing, and math… right?**
+#### **Q: Okay, but schools teach reading, writing, and math… right?**
 
 Basic literacy and numeracy: yes. Adult-level: no. 
 
@@ -94,7 +97,7 @@ If you gave someone two editorials that clashed over interpreting economic evide
 
 And while 78% could “calculate the cost of a sandwich and a salad, using prices from a menu”, only 13% could “calculate an employee’s share of health insurance costs for a year, using a table that shows how the employee’s monthly cost varies with income and family size”.
 
-####  **Q: I’m afraid to ask about reasoning abilities.**
+#### **Q: I’m afraid to ask about reasoning abilities.**
 
 Caplan quotes from a study that looked into how well college students were at applying academic learning to everyday life. The authors write:
 
@@ -118,7 +121,7 @@ Egan dubs this job “socialization”. A school built on the socialization mode
 
 In 387 BC, Plato looked out at his fellow well-socialized, worldly wise citizens of Athens, and yelled “Sheeple!”
 
-Fresh off the death of his mentor Socrates, Plato argued that, however wonderful the benefits of socialization, the adults that it produced were the slaves of convention. So long as people were shaped by socialization, they were doomed to repeat the follies of the past. There was no foundation on which to stand to change society. Plato opened his Academy ( _the_ Academy, with a capital ‘A’ — the one that all subsequent academies are named after) to fix that. In his school, people studied subjects like math and astronomy so as to open their minds to the truth.
+Fresh off the death of his mentor Socrates, Plato argued that, however wonderful the benefits of socialization, the adults that it produced were the slaves of convention. So long as people were shaped by socialization, they were doomed to repeat the follies of the past. There was no foundation on which to stand to change society. Plato opened his Academy (_the_ Academy, with a capital ‘A’ — the one that all subsequent academies are named after) to fix that. In his school, people studied subjects like math and astronomy so as to open their minds to the truth.
 
 Egan dubs this job “academics”. A school built on the academic model will help students reflect on reality. It will lift up a child’s sense of what’s good to match the Good, even when this separates them from their fellow citizens. And a teacher in an academic school will, first and foremost, be an expert — someone who can authoritatively say what the Truth is.
 
@@ -142,7 +145,7 @@ You want a visual? We might think in terms of these three images:
 
 Okay, of those three jobs, which should we give to schools? You probably have your favorite — I certainly did! But Egan wants you to know they’re all crap. None of them, by themselves, can give us the kinds of schools we want.
 
-####  **Q: I kind of like Rousseau! What’s the problem with pure development?**
+#### **Q: I kind of like Rousseau! What’s the problem with pure development?**
 
 Like I said before, my bookshelves overflow with authors who want to knock down Rousseau (and the people who followed in his wake — John Dewey in particular). Egan will have none of it: before the developmental approach, many schools were terrible places where children were beaten for getting math problems wrong. “Rousseau and Dewey,” he writes, “have enriched our conception of education in important ways. We will not make educational progress by trying to cut away their contribution”.
 
@@ -150,13 +153,13 @@ But, he continues, there’s no way a purely developmental approach could possib
 
 Of course, schools don’t go this far — they can’t — but I can attest from personal experience that even fairly serious attempts to raise children in an accepting community of peers often crash and burn when faced with actual human nature. Kids reared in the most developmentally appropriate schools can be nasty, bored, and lazy at about the same rate as their mainstream peers.
 
-####  **Q: In my heart, I’m an academicist. What’s the problem with it?**
+#### **Q: In my heart, I’m an academicist. What’s the problem with it?**
 
 I think Egan was an academicist in his heart, too. His book drips with classical references — so much so that it can make some sections difficult to read. But, he points out, those purely-academic schools really were hellscapes. And their brutality wasn’t something that was just tacked on, it flowed from their understanding of knowledge: enlightenment will come when the right information enters a child’s head, regardless of how it gets in there (or whether the child wants it in there). 
 
 And again, Egan feels obliged to point out that we’ve tried this approach for thousands of years, and it hasn’t worked. In fact, Plato’s original vision so obviously doesn’t work that people hawking academic schools have modified their pitch: no longer is the goal for students to understand the Truth, but to cultivate inquiring, skeptical minds who are perpetually dissatisfied with old answers. Can we imagine taxpayers paying for this?
 
-####  **Q: Fine, fine. I’m not a fan of socialization, but I’ll ask the question — what’s wrong with it?**
+#### **Q: Fine, fine. I’m not a fan of socialization, but I’ll ask the question — what’s wrong with it?**
 
 The funny thing is that of the three, this is the only one that has shown its ability to work for a long stretch of time! (As ~~John~~ Calvin pointed out, as animals, we’re [pretty pathetic](https://tinyurl.com/ypdex8xa). Socialization allowed our ancestors to become something more than individuals so that they could survive; we owe this job our gratitude.
 
@@ -168,15 +171,15 @@ Okay, you say, it’s clear that none of these jobs is good on its own — the s
 
 This sounds eminently reasonable — but Egan would like to have a word with you.
 
-####  **Q: What’s the problem in combining socialization with academics?**
+#### **Q: What’s the problem in combining socialization with academics?**
 
 Wouldn’t this be a beautiful combination? Socialization would cohere the school together, and then they could leverage those good feelings to, say, read Aristotle. I’ve seen this work in schools (like conservative Christian academies) founded on a set of specific beliefs. But when intellectual diversity enters in, it becomes harder.
 
 You, perhaps, say that socialization could unite people around their differences — schools could support a society made up entirely of critics! Yes, a society of critics would be interesting, and so would a herd of cats: neither works in practice. Imagine students reading their Ibram X. Kendi books in the morning, then pledging allegiance to the American flag after lunch.
 
-####  **Q: What’s the problem in combining academics with development?**
+#### **Q: What’s the problem in combining academics with development?**
 
-Again, this seems like a beautiful vision: we can invite children into discovering the big ideas. Alas, it crashes into the reef of reality quite quickly: what do we do when kids don’t _want_ to learn about the big ideas? This combination works wonderfully for kids who naturally want to be academics, but — and this is a crucial point that geeky education types too often sweep under the rug — _lots of kids don’t naturally want to be academics_.
+Again, this seems like a beautiful vision: we can invite children into discovering the big ideas. Alas, it crashes into the reef of reality quite quickly: what do we do when kids don’t _want_ to learn about the big ideas? This combination works wonderfully for kids who naturally want to be academics, but — and this is a crucial point that geeky education types too often sweep under the rug —  _lots of kids don’t naturally want to be academics_.
 
 Okay, you say, ignore the “liberatory” element of the developmentalist program, and focus on the “uncovering the nature of the individual child” part: academics can tell us _what_ the students should be learning, and development can tell us _how_ they should learn it. Egan has a thought experiment for you.
 
@@ -186,11 +189,11 @@ You build the schools, you work out the bus schedule, and then, on the first day
 
 Because that’s what it means for a school to be an academy — it teaches “the best that’s been thought or said”.
 
-####  **Q: What’s the problem in combining development with socialization?**
+#### **Q: What’s the problem in combining development with socialization?**
 
 What’s wrong with telling kids to become their authentic selves, even as you squeeze them into the roles most beneficial to society?
 
-Imagine two rural schools merging together, due to declining local population. Now imagine that one of them is a hippie free school, and the other is a military academy. ( _That’s_ a reality TV show I’d watch.)
+Imagine two rural schools merging together, due to declining local population. Now imagine that one of them is a hippie free school, and the other is a military academy. (_That’s_ a reality TV show I’d watch.)
 
 It’s possible, I suppose, to imagine this working for kids who naturally want to be, say, plumbers, or paleontologists, or presidents — and who happen to go to a school that prepares its students to fill that one role. But the odds of matching students to schools just perfectly seems small.
 
@@ -274,7 +277,7 @@ Egan’s wild idea is that it’s possible to make schools like this. He thought
 
 ### The road ahead: a special Q-and-A
 
-####  **Q: This is the proverbial thousand-dollar-bill-lying-on-the-sidewalk: if this is possible, someone should have done it now. Is Egan going to give sufficient evidence for me to believe this?**
+#### **Q: This is the proverbial thousand-dollar-bill-lying-on-the-sidewalk: if this is possible, someone should have done it now. Is Egan going to give sufficient evidence for me to believe this?**
 
 Maybe! I’ll address this in a special section at the end, after sketching out what his theory looks like. 
 
@@ -286,11 +289,11 @@ And his paradigm is wonky and multidimensional; he rejiggers common categories, 
 
 But worst of all, when his paradigm is stated plainly, it sounds _stupid._
 
-####  **Q: Oh! What… is his paradigm?**
+#### **Q: Oh! What… is his paradigm?**
 
 I’m going to jigsaw his book, and hold back his big idea for its own section. First, I’m going to list out some simple observations of students at different ages, and imagine what schooling could look like, if it were built on these principles. (First I’ll do this for elementary school, then middle school, then high school.) 
 
-_Then_ I’ll explain how his theory ties all of this together… by clarifying our definition of what education actually is. 
+ _Then_ I’ll explain how his theory ties all of this together… by clarifying our definition of what education actually is. 
 
 #### **Q: I’m not from America; could you be clear on what you mean by those divisions of schooling?**
 
@@ -310,11 +313,11 @@ Though they might agree about little else, Egan thinks that Plato and Rousseau w
 
 Ironically, Egan thinks it's all the fault of Plato and Rousseau. Hidden in the ways that both the academicists and developmentalist think about education is an assumption: that children’s reasoning is basically the same as adult reasoning, but lesser.
 
-####  **Q: This isn’t some romantic, children-are-the-real geniuses theory, is it?**
+#### **Q: This isn’t some romantic, children-are-the-real geniuses theory, is it?**
 
 Egan actually does think that there’s an intensity to how children perceive the world that we lose — but no, it’s not. He’s building on mainstream cognitive science — just aspects of it that are currently more-or-less ignored in school. The upshot, though, is that he thinks that educational researchers (be they of academic or developmentalist persuasions) see kids as smaller, stupider versions of adults.
 
-####  **Q: But that’s the opposite of what my local developmentalist school says!**
+#### **Q: But that’s the opposite of what my local developmentalist school says!**
 
 It was the opposite of what the developmentalist school that I worked at said, too. But at teacher meetings, I’d frequently hear people ask what was “developmentally appropriate” for a child. I’ll grant that there are perfectly reasonable times to ask this: “Honey, is it developmentally appropriate for our 10-year-old to watch ‘Cocaine Bear’?” is just one of many examples. But “is it developmentally appropriate for our class to learn about world religions?” or “is it developmentally appropriate for our school library to have a book mentioning homosexuality?” probably aren’t some of them. (The latter example was not one that I heard at my progressivist school, but Egan points out that this sort of language is often used by conservative activists.)
 
@@ -330,7 +333,7 @@ In sixth grade they learn about the world
 
 We can admit that there’s an elegance to this model. (I can picture how clever the theorist who first came up with it must have felt!) The downstream effects of it, however, seem horrible. Doesn’t keeping kids ignorant of the rest of the world seem provincial? Doesn’t reinforcing their self-centeredness seem infantilizing? Perhaps we could stomach it if it was founded on some unshakable findings of child psychology — but does it really strike you as likely that kids are incapable of understanding anything that happened long ago or far away? How, Egan asks, can we explain the $50 billion success of a movie franchise aimed at children that literally begins “A long time ago, in a galaxy far, far away?”
 
-####  **Q: Because… Jedis aren’t history?**
+#### **Q: Because… Jedis aren’t history?**
 
 The point is, kids obviously have the mental abilities to understand — and in fact care a lot about — things far outside their own experience, and we’ve built elementary schools on a long-dominant model of educational psychology that swears they can’t. This is actually a great example of a general principle. Let’s call it “the Star Wars test”: can our model make sense of the most obvious facts of students? When we find that the answer is “no”, we should at least consider radically revising what we’re doing in school. 
 
@@ -350,7 +353,7 @@ These, Egan holds, are the cognitive strengths that children use to understand t
 
 What could an intellectually rich elementary school curriculum look like, if we built it on kids’ cognitive strengths? He gives us one suggestion to help us do this: ask where each discipline came from in the first place. What was math before it was math, for example — or science before it was science?
 
-####  **Q: How on Earth could that help?**
+#### **Q: How on Earth could that help?**
 
 That’ll become clear later, when we finally uncover what Egan thinks “education” actually is, and see what job he wants us to give schools. For now, take it as a tantalizing hint… or, y’know, just ignore it.
 
@@ -362,7 +365,7 @@ What was literature before it was literature? Before people invented writing, th
 
 As many as we can, and from as many diverse cultures as possible! Folktales are wonderful, as are myths. Think the Aboriginal story of “The Rainbow Serpent”, episodes from the Sumerian “Epic of Gilgamesh”, the Egyptian story of Osiris & Isis, the Greek story of Orpheus & Eurydice, the Chinese Legend of the White Snake, the Japanese Tale of Amaterasu and Susanoo, the Ashanti tales of Anansi, the Aztec myth of Quetzalcoatl, the English legend of King Arthur, the Maori myth of Maui and the Sun, the Roman story of Romulus and Remus, selections from the Indian Mahabharata, the Anglo-Saxon epic of Beowulf, the Inca legend of the Sun and Moon, the Iroquois Myth of the Flying Head (a real thing! look it up!), and the Ojibwe story of Turtle Island.
 
-##### Q: That was a lot of examples. Are you going to keep giving so many? I’ve got a [ _mumble mumble mumble_ ] to get to.
+##### Q: That was a lot of examples. Are you going to keep giving so many? I’ve got a [_mumble mumble mumble_] to get to.
 
 Sorry about that. Sometimes, though, I feel that a limitation of reading Educated Mind is that, in trying to keep his book to a manageable size, Egan skimped on examples in some places that it matters. It’s easy to read his occasional example and assume he intends that it hold some central place in the curriculum — when all he wants to do is display how rich and diverse the curriculum could be. (Also: good God, I didn’t even include an example from Norse mythology!) So from now on, just assume that every category could be filled with oodles of examples.
 
@@ -407,21 +410,21 @@ Egan thinks that, to help kids get good at math, you should tell kids jokes.
 I think so, too — but he backs it up pretty well. To be funny, jokes (or at least most kid jokes) rely on a leap in logic:
 
 > Why can’t you trust an atom?  
->  _They make up everything._
+> _They make up everything._
 > 
 > Knock-knock.  
->  _Who’s there?  
+> _Who’s there?  
 > _ Boo.  
->  _Boo-hoo?_  
+> _Boo-hoo?_  
 >  Don’t cry, it’s just a joke!
 
 To understand the joke, kids have to follow the logic — spotting patterns, making connections, and tracking what their audience expects a word to mean. That’s a lot of cognitive lifting. And Egan goes further, suggesting that we grit our teeth and create methods to help kids invent their own jokes, no matter how horrible they’ll be at first. (The things we do for learning…)
 
-####  **Q: Wait wait wait! What about addition facts, and multiplication tables, and fractions?**
+#### **Q: Wait wait wait! What about addition facts, and multiplication tables, and fractions?**
 
 Egan emphasizes that his methods are designed to be add-ons to the standard math curriculum. In general, he’s a don’t-blow-up-the-system sort of guy, and if something seems especially weird, you should probably assume it’s an add-on to the regular curriculum rather than a replacement, even if I forget to say so.
 
-###  **Elementary arts**
+### **Elementary arts**
 
 What was art before it was art? Egan suggests we pop our heads into Paleolithic caves for our inspiration. Whatever the specific meaning of all those charcoal elk and aurochs and mammoths (communication with the spirit world? art for art’s sake? a way to impress babes?), Egan thinks it obvious that they were also an attempt to capture an intense experience that would be difficult to express in words alone. What did it feel like to be near an aurochs, or a saber-toothed tiger?
 
@@ -429,7 +432,7 @@ What was art before it was art? Egan suggests we pop our heads into Paleolithic 
 
 If we follow this, then, we don’t want to help kids build “art skills” so they can draw like an adult — rather, we want to help them amass a repository of diverse aesthetic feelings that they’ll want to express. We should provide them with a riot of experiences.
 
-####  **Q: That couldn’t be more opaque. Examples, please!**
+#### **Q: That couldn’t be more opaque. Examples, please!**
 
 Egan writes that we should have children learn to whistle, sing, and click their tongue; we should help them emulate the ways a skunk or a hawk or a stick bug might move through a space. We should expose them to scores of different temperatures and materials. In music, we should help them love Beethoven, yes, but also the Beatles; Tchaikovsky, yes, but also Tuvan throat singers, and also John Cage, whale song, and bird song. 
 
@@ -439,7 +442,7 @@ An interesting aspect of Egan’s view of education is that he doesn’t seem to
 
 In any case, he writes that as students get more experienced, we should prompt them to move from merely enjoying these experiences to trying to systematically shape similar experiences. And drawing, painting, and playing music could easily be folded into other parts of the curriculum.
 
-###  **Elementary social studies**
+### **Elementary social studies**
 
 What was social studies before it was social studies? _Well._
 
@@ -449,13 +452,13 @@ In its place, he suggests we put history — which, he hints, we should think of
 
 So the real question is what was history before it was history? His answer, surprisingly, is myth.
 
-####  **Q: Egan wants us to teach myths as if they were history?**
+#### **Q: Egan wants us to teach myths as if they were history?**
 
 Not at all. What he suggests, though, is that we look at how myths operate as narratives — so we can design an intellectually vivid history curriculum. And myths really are special: each is built on at least one binary (like weak vs. strong, or lies vs. truth, or so on), and uses that to tell the story of the big picture of the world. They’re so powerful that people can understand it, remember it, and love it — even if that thing never happened. 
 
 We should take that power, Egan says, and apply it to things that really did happen.
 
-####  **Q: So what history does he think kids should learn in elementary school?**
+#### **Q: So what history does he think kids should learn in elementary school?**
 
 The great struggles of humanity from across the whole. Flippin’. World.
 
@@ -465,11 +468,11 @@ We’re still talking about young children, so these should be done as simple st
 
 Oh, all right — in first grade we can tell kids the stories of the war of the Greek city-states against the Persian empire, and the slave uprising of Spartacus against the Romans. We can tell them about the plight of Jews in medieval Europe, and of the unsuccessful Sepoy Rebellion in India against the British. We can tell the stories of the American, French, and Haitian Revolutions, and about the Chinese Taiping Rebellion against the Qing Dynasty. We can tell them the story of the escaped slave Harriet Tubman returning to the South to rescue her kinsmen, the story of six-year-old Ruby Bridges facing threats to integrate her elementary school, and the story of how the Mau-Mau uprising led to modern-day Kenya. We can tell the stories of Mexican-American union organizer Cesar Chavez and of Malala Yousafzai surviving an assassination attempt to advocate for female literacy. The world does not lack for stories of oppression and liberation that can capture the attention of a six-year-old.
 
-####  **Q: That’s… huh. What stories might they hear in second and third grade?**
+#### **Q: That’s… huh. What stories might they hear in second and third grade?**
 
 Egan gives examples, but I won’t list them here. He suggests we use a similar approach for each, except that we swap out the binary each year. He thinks “the struggle for security against danger” would work well for year two, and “the struggle for knowledge against ignorance” would work well for year three. (That year could have a lot of overlap with the science curriculum.)
 
-####  **Q: Anything else, for history?**
+#### **Q: Anything else, for history?**
 
 Yes — they should get a sense of Big History. They should get some simple stories about the ice age, the Cenozoic, the age of dinosaurs, the Paleozoic, the origins of our solar system, and the Big Bang. (Because if the ancient Norse can tell their story of the beginning of the universe, by gum, we can tell ours, too.)
 
@@ -479,7 +482,7 @@ Egan argues that the problem of early schooling is that it’s trivial — and i
 
 ### Egan’s elementary school: some skeptical questions
 
-####  **Q: I’m not sure I’m understanding what you mean by “mental images”. Care to explain?**
+#### **Q: I’m not sure I’m understanding what you mean by “mental images”. Care to explain?**
 
 It’s an interesting fact of human cognition that just a few words can whip up a complex mental experience. Egan doesn’t just mean what we might call “visual imagery” — the ability to hold, say, the image of a bespectacled, spat-wearing duck in your mind without seeing a photograph. He’s also including what psychologists call auditory imagery, olfactory imagery, gustatory imagery, and tactile imagery. 
 
@@ -487,11 +490,11 @@ It’s an interesting fact of human cognition that just a few words can whip up 
 
 Humanity has a built-in VR system, and we’re not using it! Egan invites us to pretend we’re teaching a class about the humble earthworm. We might list off facts — “earthworms are so many centimeters long, move through soil by means of their something-or-other muscles…” but he suggests we can evoke images, say, “of what it would be like to slither and push through the soil, hesitantly exploring in one direction then another, looking for easier passages, contracting and expanding our sequence of muscles segment by segment, and sensing moisture, scents, grubs, or whatever”. Those facts are now felt by the student; the knowledge has become part of them. And just a few words can spark a complex mental experience, one going beyond literal images to include imagined sounds, smells, tastes, and more. These experiences can feel real and stick with us. (That these mental images are so easy to evoke, and so meaningfully felt, feels something like the proverbial hundred dollar bill on the ground.)
 
-####  **Q: How could metaphors be helpful?**
+#### **Q: How could metaphors be helpful?**
 
 It really is interesting that so much of the “constructivist” turn in psychology — that is, the notion that children don’t absorb knowledge, but construct it — has continued to focus on logics-mathematical reasoning, when there’s been mounting evidence for decades that metaphors are more central. It’s not just that we use metaphors to better understand things we already know, we also use them to grasp new knowledge. What’s more, psychologists have devised tests to measure the skill at metaphor-making, and have given them to people of different ages. What they found was that eleven-year-olds make more metaphors (and higher quality metaphors) than do undergraduates — and that four-year-olds have both groups beat. Again, hundred dollar bills on the sidewalk.
 
-####  **Q: Your talk of “binaries” has me worried — binaries like good/evil and male/female are the source of so many of our most pernicious stereotypes! Isn’t the purpose of education to get us** _ **beyond**_ **stuff like this?**
+#### **Q: Your talk of “binaries” has me worried — binaries like good/evil and male/female are the source of so many of our most pernicious stereotypes! Isn’t the purpose of education to get us** _**beyond**_**stuff like this?**
 
 Yes, it is! Education is supposed to complicate our understanding — but that means we’ve gotta start somewhere, and binaries provide us a natural starting place.
 
@@ -505,29 +508,29 @@ Now, all lessons can’t be Pixar movies. But the good stories (especially in li
 
 If it helps to think of it as such, then, sure! I don’t think Egan would have had a problem with that. But his ultimate reason for including so much diversity goes deeper. For Egan, including such world-wide diversity isn’t optional, and the answer to why is bound up in his definition of education. (Keep reading.) His answer also insists that we, whenever possible, also include stories from the Bible and Homeric epics (the Iliad and Odyssey).
 
-####  **Q: Mmm, stories from the Bible aren’t going to fly in my local school!**
+#### **Q: Mmm, stories from the Bible aren’t going to fly in my local school!**
 
 So be it! Egan doesn’t spend much time obsessing over the practicalities of… 
 
 His interest is in describing what an ideal education might look like, if it were possible. Every lesson, every classroom, and every school is necessarily a compromise.
 
-####  **Q: You make a big deal of poems. But isn’t poetry dead?**
+#### **Q: You make a big deal of poems. But isn’t poetry dead?**
 
 An interesting contrast can be made to classical education, which also has kids read a lot of poems — they see knowing great poems as one of the marks of an educated person; again, for an academicist, it’s the information that transforms. Egan begs to disagree. Poems are important because they’re a wonderful way to train their cognitive strengths, like rhythm (poems are language fueling by thumping). We want to help kids learn to use this tool better, and a great way to do that is to help them recite poems that they’ve learned by heart.
 
-####  **Q: “Learn by heart” — is that code for “memorize”?!**
+#### **Q: “Learn by heart” — is that code for “memorize”?!**
 
 It is! Egan is actually quite big on memorization — he points out that all the knowledge in the world can do nothing for a person once they’ve forgotten it. He didn’t, however, appreciate the academicist focus on memorizing without understanding (or at least enjoyment).
 
-####  **Q: I’m still worried about the science curriculum, as you’re describing it. Can you allay my fears?**
+#### **Q: I’m still worried about the science curriculum, as you’re describing it. Can you allay my fears?**
 
 Honestly, while I feel there’s something profoundly right to how Egan is describing early experiences of nature, I feel the same way. Note that there’s more science coming in the social studies curriculum. But if that’s still not enough, one could bring down aspects of the middle school science stage.
 
-####  **Q: Anything else that Egan suggests we do in elementary school literature and language?**
+#### **Q: Anything else that Egan suggests we do in elementary school literature and language?**
 
 He suggests that we help kids learn a second language! This is so obviously true (why do American schools typically wait until kids lose the ability to naturally absorb languages to start teaching languages?) he doesn’t belabor it, though.
 
-####  **Q: You had mentioned that Egan’s vision seems more internal-focused. Should we be worried about that?**
+#### **Q: You had mentioned that Egan’s vision seems more internal-focused. Should we be worried about that?**
 
 While I strongly suspect that his curriculum would make kids more creative in any way you’d like to measure it, Egan wasn’t particularly interested in “creativity” — he was more about helping kids find the world interesting.
 
@@ -537,11 +540,11 @@ I get the sense that he thinks kids will do things with minimal prompting once t
 
 “Fun”, applied to education, is a dangerous word. Egan worries about the dangers of an emotionally unserious curriculum producing emotionally stunted adults. That doesn’t mean we need to tell students only “serious” stories — only that we treat the world honestly. “Disney-esque sentimentality is the exact emotional equivalent to intellectual contempt”.
 
-####  **Q: But aren't some of these stories too dark for children who have themselves experienced oppression and disaster?**
+#### **Q: But aren't some of these stories too dark for children who have themselves experienced oppression and disaster?**
 
 Egan argues that these stories may be especially helpful to them — they can help them understand their struggles better, and give voice to them.
 
-####  **Q: At the very start of this, you promised us “rationality”… but I’m not seeing rationality here! All this talk of “adventure” almost seems to go the opposite direction. What gives?**
+#### **Q: At the very start of this, you promised us “rationality”… but I’m not seeing rationality here! All this talk of “adventure” almost seems to go the opposite direction. What gives?**
 
 Wait for it. But for a hint right now — Egan is fond of citing his fellow educational theorist Jerome Bruner, who claimed “any subject can be taught effectively in some intellectually honest form to any child at any stage of development”. Bruner was criticized for that; his critics charged that he was ignoring learning differences and socio-economic realities. Egan thinks he was profoundly right.
 
@@ -611,11 +614,11 @@ The first is that the content itself can take on heroic qualities: everything is
 
 What would even the most boring subjects look like, if we emphasized their heroic qualities? Well:
 
- _What’s a tooth?_ Bone, wrapped in rock, surrounding tiny cells that your body feeds with blood.
+_What’s a tooth?_ Bone, wrapped in rock, surrounding tiny cells that your body feeds with blood.
 
- _What’s a bar of chocolate?_ A crystal of jellyfish-shaped fat molecules stacked together; when you put it in your mouth you shake them apart into a writhing confusion.
+_What’s a bar of chocolate?_ A crystal of jellyfish-shaped fat molecules stacked together; when you put it in your mouth you shake them apart into a writhing confusion.
 
- _What’s the air around you?_ The bottom of a 10-mile-deep ocean; when you put your tongue over a soda straw and your Pepsi stops leaking out, it’s not because a “vacuum” is “sucking” it up, but because that ocean is squeezing it into your face.
+_What’s the air around you?_ The bottom of a 10-mile-deep ocean; when you put your tongue over a soda straw and your Pepsi stops leaking out, it’s not because a “vacuum” is “sucking” it up, but because that ocean is squeezing it into your face.
 
 Again, we could do this all day! And in middle school science, we can. Everything in the world is wonderful; we can help students see this again and again.
 
@@ -681,13 +684,13 @@ There’s a fourth reason, though, and it’s probably the biggest of all — by
 
 When we wanted to re-conceive the elementary and middle school curriculums, we looked at what students were already good at — kids’ cognitive strengths and adolescents’ obsessions. For this level it might be easier to look — for reasons that will become clear when we finally unveil Egan’s crazy-sounding definition of education — at the sorts of things that bring intellectuals joy.
 
-####  **Q: Which intellectuals?**
+#### **Q: Which intellectuals?**
 
 Take your pick. Galileo, Einstein, Smith, Marx, Goodall, Chomsky, Curie… all the people who took to the life of the mind like fish to water. But that’s a lot to hold in my mind at once, so I’m just going to think about Doc Brown from _Back to the Future:_
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62ea55f8-0458-484f-be45-7a011d050756_1600x625.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62ea55f8-0458-484f-be45-7a011d050756_1600x625.png)
 
- _He was high on intellectualism  
+_He was high on intellectualism  
 I’ve never been there, but the brochure looks nice_
 
 Let’s call these people “mad scientists”. And let’s pretend we once again took up our job of being primatologists, and snooped on these folks “in the wild” (“in the lab”? this is beginning to get recursive…)… what would we find motivating them?
@@ -742,7 +745,7 @@ How could entering the big fights help us reinvent high school history?
 
 First, we might look for dueling histories. It’s time for students to get into historiography and understand that history isn’t just what happened, it’s something we make. We might help kids read chapters from Howard Zinn’s socialist history of America alongside the corresponding chapters from Paul Johnson’s conservative history of America. 
 
-How could big questions help? We want to help students see how various people have disagreed over some of the big questions of what human history is, at its most basic. We can have them compare Steven Pinker’s theory of civilization’s progress ( _Better Angels of our Nature_ ) with Yuvah Noah Harari’s theory of civilization’s woes ( _Sapiens_ ). We could have them compare so-and-so’s account of human history as an ever-expanding unlatching of energy sources with Robert Wright’s account of human history as unlatching more and more positive-sum games ( _Nonzero_ ). 
+How could big questions help? We want to help students see how various people have disagreed over some of the big questions of what human history is, at its most basic. We can have them compare Steven Pinker’s theory of civilization’s progress (_Better Angels of our Nature_) with Yuvah Noah Harari’s theory of civilization’s woes (_Sapiens_). We could have them compare so-and-so’s account of human history as an ever-expanding unlatching of energy sources with Robert Wright’s account of human history as unlatching more and more positive-sum games (_Nonzero_). 
 
 What role could the lure of certainty play?
 
@@ -793,23 +796,23 @@ Egan suggests one simple question might be “what’s society”? And a functio
 
 ### Questions & answers
 
-####  **Q: You had said, back in the elementary curriculum, that we need to bring in as much cultural diversity as possible. Why?**
+#### **Q: You had said, back in the elementary curriculum, that we need to bring in as much cultural diversity as possible. Why?**
 
 The high school curriculum is about coming to understand the simple patterns that sit beneath the complex surface. Gertrude Stein said it well: “I like a thing simple but it must be simple through complication. Everything must come into your scheme, otherwise you cannot achieve real simplicity.”
 
 If we don’t shower kids with cultural diversity, they’ll never understand what humans really are. (Nor, ironically, will they ever come to understand their own culture.)
 
-####  **Q: Does Egan say anything about foreign languages, for high school?**
+#### **Q: Does Egan say anything about foreign languages, for high school?**
 
 He drops the thread here, but one assumes that, after having learned a second language and dipped one’s toes into other languages, some of the cool ideas in linguistics could be introduced here. How do these languages connect to each other historically? What features, if any, do all languages have in common? To what extent is the Sapir-Whorf Hypothesis correct?)
 
-####  **Q: Can we really find teachers who can teach this?**
+#### **Q: Can we really find teachers who can teach this?**
 
 I suspect, actually, that we keep getting them — they come in with romantic notions of discussing ideas with interested students. The trouble is that they leave the profession when they discover how much teaching amounts to babysitting.
 
 Imagine if we could multiply the number of students hungry to discuss ideas. If we could do that, I don’t think we’d have too much of a problem finding teachers.
 
-####  **Q: Aha! I slogged through this much, and I’ve finally found the section on how we train kids to be rational… right?**
+#### **Q: Aha! I slogged through this much, and I’ve finally found the section on how we train kids to be rational… right?**
 
 Don’t be so sure! Keep reading.
 
@@ -817,20 +820,20 @@ Don’t be so sure! Keep reading.
 
 Finally, the moment of the unveiling! Egan says that to educate is
 
- **to guide students**  
- **through humanity’s five great revolutions  
+**to guide students**  
+**through humanity’s five great revolutions  
 as they learn to speak and write,  
 so they can imitate  
 each new kind of understanding  
 (while keeping alive the old ones)**
 
-####  **Q:** _ **What?**_
+#### **Q:**_**What?**_
 
 Yeah, okay, let’s unpack that.
 
 Each of these kinds of understanding existed before any of us were born. They’re the products of specific cultures struggling to survive and thrive.
 
-####  **Q: Where did they each come from?**
+#### **Q: Where did they each come from?**
 
 The kind of understanding we laid out for high school was first hammered out by Plato and Aristotle, went dormant in Europe, and was further developed by Arab & Jewish scholars before blossoming again in the Renaissance and Enlightenment. Nowadays it’s carried on by scholars in more-or-less every university department. Egan needed a name that would encompass all of that, and he picked “Philosophic”.
 
@@ -842,7 +845,7 @@ Robin Kimmerer, professor of biology, member of the Potawatomi tribe, and author
 
 But this isn’t unique to the Potawatomi, or to Native Americans — you can find these “cognitive strengths” showing up in the Maori of New Zealand, the !Kung San of Botswana, the Yanomami of Brazil… in fact, anthropologists have found these “cognitive strengths” in every society they’ve researched: all but one of them show up in [Donald Brown’s list of human universals](https://en.wikipedia.org/wiki/Human_Universals). Like clothing and fire, these ways of encoding information were part of humanity’s original toolkit, equipping each person with the collected knowledge of their tribe so they could survive in environments that found them tasty.
 
-####  **Q: Are you saying that indigenous knowledge is “childish”?**
+#### **Q: Are you saying that indigenous knowledge is “childish”?**
 
 No — no more than you’d say that Stephen Hawking’s thinking was “high school-ish”. The tools are shared, but each indigenous knowledge system is the culmination of millennia of evolution. 
 
@@ -856,7 +859,7 @@ What the _heck_? This is one of the simple questions that’s lured in generatio
 
 Egan points to an intriguing fact: not long before, writing was introduced to Greece.
 
-####  **Q: Why would** _ **writing**_ **make such a difference?**
+#### **Q: Why would** _**writing**_**make such a difference?**
 
 When we write down a thought, we give it an existence separate from our own. We free up our working memories. Our ideas stop being things we see the world through, and become objects of contemplation in their own right. (How often have I had a world-shaking idea, only to write it down and realize it’s moronic?) But Egan suspects there’s more — and he points to the famous research of the psychologist Alexander Luria, who trekked into the hinterlands of the Soviet Union in the 1930s, and asked a simple question:
 
@@ -876,7 +879,7 @@ Only one person got it correct: “From your words it means that bears there are
 
 Literacy seems to be special — seems to open up the human capacity for decontextualized, abstract, logical thinking even when we’re not reading or writing.
 
-####  **Q: So is that what caused the “Greek miracle” — the advent of writing?**
+#### **Q: So is that what caused the “Greek miracle” — the advent of writing?**
 
 If the ability to write was all that it took, then we’d expect every literate person to be a near-genius. We might expect that the secret sauce is in the quick transition from the oral tradition to writing, but there have been many other groups who’ve learned to write with nary a trace of intellectual revolution.
 
@@ -904,7 +907,7 @@ Or, to put it more simply:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23ab0ce0-0454-4cce-9198-6486329a016d_1600x742.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23ab0ce0-0454-4cce-9198-6486329a016d_1600x742.png)
 
-####  **Q: My mind is flashing to the phrase “ontogeny recapitulates phylogeny” — the notion that when an animal is an embryo, it goes through stages where it takes on the appearance of its evolutionary ancestors. Isn’t that a discredited bit of pseudoscience?**
+#### **Q: My mind is flashing to the phrase “ontogeny recapitulates phylogeny” — the notion that when an animal is an embryo, it goes through stages where it takes on the appearance of its evolutionary ancestors. Isn’t that a discredited bit of pseudoscience?**
 
 This is actually a helpful way to understand what Egan is and isn’t arguing.
 
@@ -918,7 +921,7 @@ Egan isn’t positing that there’s any mysterious force directing children to 
 
 There are two more kinds of understanding — one explains how we have any of these, and the other explains what the goal of education is.
 
-####  **Q: What’s the base of all this — how do humans have any of these kinds of understanding at all?**
+#### **Q: What’s the base of all this — how do humans have any of these kinds of understanding at all?**
 
 We often imagine that language is the trait that sets us apart from the animals, but why was it that humans — rather than (say) meerkats, or vampire bats — developed language in the first place? Egan suggests there’s a kind of understanding hiding inside all the others, and that acknowledging it can help us make education deep and personally meaningful.
 
@@ -934,7 +937,7 @@ Looking for a term to encompass this non-linguistic, body-oriented way of knowin
 
 ### Oh, the irony
 
-####  **Q: Where’s this whole process headed — is Philosophic the last, best kind of understanding?**
+#### **Q: Where’s this whole process headed — is Philosophic the last, best kind of understanding?**
 
 No, Egan answers — and it can’t be. There’s a fatal flaw baked into this whole recapitulation theory: the kinds of understanding want to destroy each other.
 
@@ -944,7 +947,7 @@ And for its part, Mythic understanding doesn’t much appreciate Romantic and Ph
 
 If we hope to make these kinds of understanding gel, we need another kind of understanding.
 
-####  **Q: Excellent; I was worried Egan’s paradigm was getting too easy to follow. Where can we find this cure-all kind of understanding?**
+#### **Q: Excellent; I was worried Egan’s paradigm was getting too easy to follow. Where can we find this cure-all kind of understanding?**
 
 Well, what came after modernism?
 
@@ -952,7 +955,7 @@ In the end, Egan writes, Plato’s project failed. The zealous pursuit of truth 
 
 Worse, Plato’s was a spiritual project: we were supposed to find the truth, and the truth was supposed to set us free. But many of the truths we’ve found seem less than edifying? Egan quotes the physicist Steven Weinberg: “The more the universe seems comprehensible, the more it also seems pointless”. This has sent some intellectuals to nihilism — or, worse still, to a snarky, clove-smoking postmodernism.
 
-####  **Q: You do know this is a book review contest for a Rationalist blog, right? We’re not exactly despairing about the end of the Enlightenment here. (Read. The. Room.)**
+#### **Q: You do know this is a book review contest for a Rationalist blog, right? We’re not exactly despairing about the end of the Enlightenment here. (Read. The. Room.)**
 
 I promised self-understanding for the capital-R-Rationalist community back at the beginning, and here it is.
 
@@ -962,7 +965,7 @@ But at our best moments, I think, we have one toe in the Ironic.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9637d880-9d1d-42e7-8c2d-5a40e1a0e82f_1600x742.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9637d880-9d1d-42e7-8c2d-5a40e1a0e82f_1600x742.png)
 
-####  **Q: Extraordinary claims require extraordinary evidence. Your evidence, please!**
+#### **Q: Extraordinary claims require extraordinary evidence. Your evidence, please!**
 
 I think you see it, for example, in the community’s penchant for yelling “Chesterton’s Fence!” whenever anyone criticizes something they don’t understand. Philosophic understanding is obsessed with things making sense; Ironic understanding says, reality is always a few steps beyond you. “Chesterton’s Fence” is a Rationalist shorthand for the idea that we should expect the world to be more complex than our models; if something looks stupid, you should consider that the stupidity may be in _you_. 
 
@@ -972,13 +975,13 @@ A person in Philosophic thinks we build beliefs the way a mason builds a house: 
 
 The metaphor (with all its problems!) is mine, but the idea fits what Egan is saying. An Ironist, he writes, will mistrust all ideologies.
 
-####  **Q: And then collapse in indecision, unable to believe anything except their own skepticism?**
+#### **Q: And then collapse in indecision, unable to believe anything except their own skepticism?**
 
 Well, yes, that happens sometimes! This is a known fail state of Ironists — Egan refers to them as “alienated”, cut off from the world.
 
 His ideal is something very different: someone who can be skeptical even of their skepticism, so they can see what’s good (or useful, or valid, or beautiful) in every perspective. Such a person can, say, “support a neo-conservative or liberal or radical political initiate for its likely beneficial effects without becoming a neoconservative or a liberal or a radical”. They can have control even over their Philosophic metanarratives; they can keep their octopuses in line.
 
-####  **Q: Goodness — has anyone really achieved this?**
+#### **Q: Goodness — has anyone really achieved this?**
 
 At least one person has: Socrates. Egan points to him as an exemplar of Ironic understanding done well. Socrates demonstrates radical doubt toward virtually everything; Egan cites Kierkegaard in saying that Socrates “seizes the columns bearing the edifice of knowledge and plunges everything down into the nothingness of ignorance”. This infuriated his fellow citizens of Athens — and that fact that his irony gained him a following among some of the city’s young men led, ultimately, to their decision to execute him.
 
@@ -986,7 +989,7 @@ And yet, Egan points out, Socrates was “buoyantly cheerful, even while facing 
 
 How? Not in spite of his irony, but because of it. The payoff of Socrates’ irony is freedom from metanarratives. It’s a kind of lightness — the ability to float above the fights that others are embroiled in, engaging only where you want.
 
-####  **Q: A lofty goal; how can anyone hope to achieve it?**
+#### **Q: A lofty goal; how can anyone hope to achieve it?**
 
 Egan says: by using Irony to balance all the kinds of understanding. He writes that “irony without Philosophic capacities is impotent”; adding in Philosophic allows beliefs to have stability and strength. Philosophic understanding by itself can become anxious about making every last piece of data fit into a general scheme; Irony lets Philosophic relax. 
 
@@ -994,7 +997,7 @@ Romantic understanding gives Philosophic energy and life (recall that Egan’s b
 
 All of this is fueled by the power of Mythic understanding. Philosophic understanding, traditionally, looks down its nose at Mythic, but Ironic can swoop in and remind Philosophic that its metanarratives are, in the end, more narratives — even while reminding Mythic that its simple stories shouldn’t be confused with the world as it is, but are accounts that we choose to tell.
 
-####  **Q: I’m not sure I got all that. Could you re-cap this recapitulation scheme?**
+#### **Q: I’m not sure I got all that. Could you re-cap this recapitulation scheme?**
 
 Here’s what it amounts to: if the goal of a development economist is “getting to Denmark”, Egan’s goal is “getting to Socrates”. The aim of Egan’s entire educational theory is “to keep alive as much as possible of the earlier kinds of understanding in the development of irony”.
 
@@ -1006,7 +1009,7 @@ He’s not. He does want to admit the limits of science — objectivity isn’t 
 
 > “Ironic understanders remain open to the possibility that the Enlightenment project might not be exhausted, that rationality might not be the deliverer only of nightmares, that knowledge, truth, and objectivity might not be confined only to contingent agreements, that Western science and rationality might be discourses more privileged than some others in terms of access to reality.”
 
-####  **Q: Got any other evidence that the capital-R-Rationalist community should understand themselves as having — how did you say it? — “one toe in Ironic”?**
+#### **Q: Got any other evidence that the capital-R-Rationalist community should understand themselves as having — how did you say it? — “one toe in Ironic”?**
 
 I think the best indication comes from the twelfth (and, Eliezer writes, most fundamental) rationalist virtue — to keep in mind that what we call “rationality” may itself become a trap: 
 
@@ -1026,19 +1029,19 @@ For someone who has only Philosophic understanding, logic isn’t something that
 
  _“Alice” is a Rationalist-with-a-capital-R who’s interested in educational reform; she lives in a large metropolitan area with her son. She runs into “Reviewer” in the supermarket, who is wearing a mask._
 
- **Alice:** Great to see you! I looked at that book review you sent me.
+**Alice:** Great to see you! I looked at that book review you sent me.
 
- **Reviewer:** Oh? How’d you like it?
+**Reviewer:** Oh? How’d you like it?
 
- **Alice:** Oh, much too long: I didn’t really pay attention to any of it. Could you “nutshell” all that stuff about… was his name “Egan”?
+**Alice:** Oh, much too long: I didn’t really pay attention to any of it. Could you “nutshell” all that stuff about… was his name “Egan”?
 
- **Reviewer:** Sure thing. Egan argues that schools don’t work because they ignore the tools that _have_ worked for hundreds (and thousands) of years — things like humor, emotion, stories, metaphors, extremes, gossip, idealism, general schemes, finding one’s place in the world, and the lure of certainty. 
+**Reviewer:** Sure thing. Egan argues that schools don’t work because they ignore the tools that _have_ worked for hundreds (and thousands) of years — things like humor, emotion, stories, metaphors, extremes, gossip, idealism, general schemes, finding one’s place in the world, and the lure of certainty. 
 
 > If we rebuild the school curriculum on those things, organizing in something like the order they first arose historically, we can guide many more people into a rich, meaning-soaked, daring intellectual life, understanding that the complexity of the world will always strain the limits of what their minds can hold. (You might even call them “rational”.)
 
- **Alice:** Huh. Forgive me if this sounds rude, but I find that paradigm janky and filled with holes.
+**Alice:** Huh. Forgive me if this sounds rude, but I find that paradigm janky and filled with holes.
 
- **Reviewer:** So did Egan! I remember my reaction when I first read the end of one of his final chapters:
+**Reviewer:** So did Egan! I remember my reaction when I first read the end of one of his final chapters:
 
 > “I confess that this theory still seems to me like an engine with bits falling off, steam coming from inappropriate joints, oil dripping, some gleaming pieces attached insecurely to scavenged old bodywork”.
 > 
@@ -1048,123 +1051,123 @@ For someone who has only Philosophic understanding, logic isn’t something that
 
 **Alice:** What was your reaction to that?
 
- **Reviewer:** I thought, “How Ironic”. [ _sees Alice rolling her eyes_ ] No, I mean that literally: it’s an instance of an Ironic stance toward reality — the admission, by someone putting the finishing touches on his _magnum opus_ , that all models are insufficient, that the map is not the territory. Even if Egan’s paradigm is correct, it’s not the final word on what education is.
+**Reviewer:** I thought, “How Ironic”. [_sees Alice rolling her eyes_] No, I mean that literally: it’s an instance of an Ironic stance toward reality — the admission, by someone putting the finishing touches on his _magnum opus_ , that all models are insufficient, that the map is not the territory. Even if Egan’s paradigm is correct, it’s not the final word on what education is.
 
- **Alice:** Well, I guess I can appreciate that. But now I have a devastating critique that will dismantle Egan’s entire project… and also a bunch of cutesy, softball questions! Which would you like first?
+**Alice:** Well, I guess I can appreciate that. But now I have a devastating critique that will dismantle Egan’s entire project… and also a bunch of cutesy, softball questions! Which would you like first?
 
- **Reviewer:** Oh, the softball questions, please! (Let’s build up to the fun stuff.)
+**Reviewer:** Oh, the softball questions, please! (Let’s build up to the fun stuff.)
 
- **Alice:** Say someone created an entire school — kindergarten through twelfth grade — on Egan’s principles. What would it look like, if I took a visit?
+**Alice:** Say someone created an entire school — kindergarten through twelfth grade — on Egan’s principles. What would it look like, if I took a visit?
 
- **Reviewer:** Very possibly, like any boring ol’ school. 
+**Reviewer:** Very possibly, like any boring ol’ school. 
 
 **Alice:** What? I thought Egan promised the moon!
 
- **Reviewer:** He does — but he doesn’t promise it will look shiny. When I toured an Eganian charter elementary program in Oregon — the only one of its kind, and now defunct for the usual awfulness of local politics — I could have missed the magic that was going on there, had I not talked to the kids.
+**Reviewer:** He does — but he doesn’t promise it will look shiny. When I toured an Eganian charter elementary program in Oregon — the only one of its kind, and now defunct for the usual awfulness of local politics — I could have missed the magic that was going on there, had I not talked to the kids.
 
- **Alice:** What were the kids like?
+**Alice:** What were the kids like?
 
- **Reviewer:** Thoughtful, hungry to talk about everything they were learning. Like everything I wanted my own kids to be like.
+**Reviewer:** Thoughtful, hungry to talk about everything they were learning. Like everything I wanted my own kids to be like.
 
- **Alice:** That’s nice to hear! I’m still struggling to enunciate how the “looks dull on the outside” part doesn’t sit well with me.
+**Alice:** That’s nice to hear! I’m still struggling to enunciate how the “looks dull on the outside” part doesn’t sit well with me.
 
- **Reviewer:** I actually think it’s a problem for anyone wanting to get this sort of education off the ground. If you follow the conversations about “educational innovation”, you find that it’s chockablock with examples of futuristic-looking “Schools of the Future!!!” which, upon inspection, typically turn out to be white-collar vocational training. (In fact, [there was even a Simpsons episode about this](https://en.wikipedia.org/wiki/The_Miseducation_of_Lisa_Simpson).)
+**Reviewer:** I actually think it’s a problem for anyone wanting to get this sort of education off the ground. If you follow the conversations about “educational innovation”, you find that it’s chockablock with examples of futuristic-looking “Schools of the Future!!!” which, upon inspection, typically turn out to be white-collar vocational training. (In fact, [there was even a Simpsons episode about this](https://en.wikipedia.org/wiki/The_Miseducation_of_Lisa_Simpson).)
 
- **Alice:** Would you expect an “Eganian” school (“Eganish”? “Eganesque”?) to at least raise test scores?
+**Alice:** Would you expect an “Eganian” school (“Eganish”? “Eganesque”?) to at least raise test scores?
 
- **Reviewer:** Yes — because students would care more about what they’re learning. I suspect the scores would particularly go up in reading, because those exams don’t just measure skill in “reading comprehension”, but content knowledge. Kids who know more about the world will look like better readers on standardized tests… and kids in an Egan school would know a _lot_ about the world.
+**Reviewer:** Yes — because students would care more about what they’re learning. I suspect the scores would particularly go up in reading, because those exams don’t just measure skill in “reading comprehension”, but content knowledge. Kids who know more about the world will look like better readers on standardized tests… and kids in an Egan school would know a _lot_ about the world.
 
- **Alice:** Would they reduce the achievement gaps between rich kids and poor kids, between Black kids and white kids… that sort of thing?
+**Alice:** Would they reduce the achievement gaps between rich kids and poor kids, between Black kids and white kids… that sort of thing?
 
- **Reviewer:** I’m really curious about that, actually. A pretty typical thing in educational improvements is for the lower-scoring students to go up a little, and for the higher-scoring students to go up a lot. (It even has a name: the Matthew effect.) But what’s interesting about Egan is that he expands the number of ways kids can engage with learning. 
+**Reviewer:** I’m really curious about that, actually. A pretty typical thing in educational improvements is for the lower-scoring students to go up a little, and for the higher-scoring students to go up a lot. (It even has a name: the Matthew effect.) But what’s interesting about Egan is that he expands the number of ways kids can engage with learning. 
 
 **Alice:** How do you mean?
 
- **Reviewer:** Put it this way: the traditional way schooling works is that we identify the things most kids are terrible at — logico-deductive reasoning, cramming lots of facts into their head, that sort of thing — and then we build lessons based on those things. From Egan’s viewpoint, this is sort of insane? Better to build learning on the things that kids are already good at, so they can achieve the other things.
+**Reviewer:** Put it this way: the traditional way schooling works is that we identify the things most kids are terrible at — logico-deductive reasoning, cramming lots of facts into their head, that sort of thing — and then we build lessons based on those things. From Egan’s viewpoint, this is sort of insane? Better to build learning on the things that kids are already good at, so they can achieve the other things.
 
 > It’s almost like, in the dominant paradigm for learning, you’d _expect_ massive performance gaps. My intuition is that people are much more similar in their capacity for things like stories and metaphors and emotions. If that’s right, then it at least _seems_ possible that an Egan school would reduce those gaps.
 
- **Alice:** Speaking of gaps, there’s a huge one in your treatment of this — what about IQ? It’s the most-tested, most-validated measurement in all of schooling! Is Egan one of those “everyone is equally smart” romantic navel-gazers who find _The Bell Curve_ too scary to open?
+**Alice:** Speaking of gaps, there’s a huge one in your treatment of this — what about IQ? It’s the most-tested, most-validated measurement in all of schooling! Is Egan one of those “everyone is equally smart” romantic navel-gazers who find _The Bell Curve_ too scary to open?
 
- **Reviewer:** No, he acknowledges that differences in intelligence are real, and matter: even in his system, “differences in ability to learn will no doubt affect the speed, the degree, and the richness of understanding different children will attain—”
+**Reviewer:** No, he acknowledges that differences in intelligence are real, and matter: even in his system, “differences in ability to learn will no doubt affect the speed, the degree, and the richness of understanding different children will attain—”
 
- **Alice:** Ah, so this ends up being an elitist system! The cognitively gifted ascend to the heights of Philosophic and Ironic reasoning, while the poor midwits are left to play with their Mythic toys?
+**Alice:** Ah, so this ends up being an elitist system! The cognitively gifted ascend to the heights of Philosophic and Ironic reasoning, while the poor midwits are left to play with their Mythic toys?
 
- **Reviewer:** You interrupted me; it’s quite the opposite. The quote continues, “but none of this implies dismissal of students who are at least able to develop Ironic understanding”. And many, many people currently locked out of the life of the mind are able to achieve Philosophic and Ironic understanding, if only they were guided to it in the right way.
+**Reviewer:** You interrupted me; it’s quite the opposite. The quote continues, “but none of this implies dismissal of students who are at least able to develop Ironic understanding”. And many, many people currently locked out of the life of the mind are able to achieve Philosophic and Ironic understanding, if only they were guided to it in the right way.
 
- **Alice:** But you’re admitting that not _everyone_ can enter the “life of the mind”?
+**Alice:** But you’re admitting that not _everyone_ can enter the “life of the mind”?
 
- **Reviewer:** Look, not everyone has the cognitive capacity to put their shirt on by themselves; I have nieces and nephews who are developmentally disabled. This “all children” rhetoric that you hear so much in educational reform seems to shut its eyes to the existence of people on the far end of the bell curve.
+**Reviewer:** Look, not everyone has the cognitive capacity to put their shirt on by themselves; I have nieces and nephews who are developmentally disabled. This “all children” rhetoric that you hear so much in educational reform seems to shut its eyes to the existence of people on the far end of the bell curve.
 
 > But we shouldn’t overlook that someone can have profound intellectual experiences just with Somatic and Mythic understandings — sometimes, especially with those. At present, our schools are mostly blind to that.
 > 
 > Anyhow, at the other end of the bell curve, Egan has something interesting to say, too.
 
- **Alice:** And what’s that?
+**Alice:** And what’s that?
 
- **Reviewer:** You’ll have heard of [the Flynn Effect](https://en.wikipedia.org/wiki/Flynn_effect) — the observed fact that, over the last century or so, IQ scores have been going up, and fastest of all in the most abstract sections of the test. (The average score now is defined to be 100; the average score in 1900 seems to have been 70 — two full standard deviations lower!) The causes of this are debated — some suggest that it’s as simple as better nutrition. But the more intriguing hypothesis is that modern life is becoming more cognitively demanding; we practice abstract, decontextualized reasoning many more times a day than we did in the 1800s.
+**Reviewer:** You’ll have heard of [the Flynn Effect](https://en.wikipedia.org/wiki/Flynn_effect) — the observed fact that, over the last century or so, IQ scores have been going up, and fastest of all in the most abstract sections of the test. (The average score now is defined to be 100; the average score in 1900 seems to have been 70 — two full standard deviations lower!) The causes of this are debated — some suggest that it’s as simple as better nutrition. But the more intriguing hypothesis is that modern life is becoming more cognitively demanding; we practice abstract, decontextualized reasoning many more times a day than we did in the 1800s.
 
- **Alice:** And what does Egan say of the Flynn Effect?
+**Alice:** And what does Egan say of the Flynn Effect?
 
- **Reviewer:** So far as I know, he didn’t write about it — but I think the intriguing hypothesis is the _same thing_ as the spread of Philosophic understanding! Philosophic understanding is all about the abstract, the general, the decontextualized. As low-level Philosophic understanding structures our society more and more, we have to practice elements of it, even outside school. This constant practice at Philosophic reasoning will probably show on an IQ test.
+**Reviewer:** So far as I know, he didn’t write about it — but I think the intriguing hypothesis is the _same thing_ as the spread of Philosophic understanding! Philosophic understanding is all about the abstract, the general, the decontextualized. As low-level Philosophic understanding structures our society more and more, we have to practice elements of it, even outside school. This constant practice at Philosophic reasoning will probably show on an IQ test.
 
- **Alice:** You haven’t mentioned much in the way of neurodiversity. Would an Egan school work well for a student with, say, ADHD?
+**Alice:** You haven’t mentioned much in the way of neurodiversity. Would an Egan school work well for a student with, say, ADHD?
 
- **Reviewer:** As a person with ADHD who has two kids with ADHD and who teaches students with ADHD, the two words that pop into my head are: _hot damn_. And this seems to be the common opinion of Egan-fans around the world. For a lot of us, school is just _so boring_ , and bringing back in emotional binaries and extremes and big ideas makes it not just bearable, but enjoyable.
+**Reviewer:** As a person with ADHD who has two kids with ADHD and who teaches students with ADHD, the two words that pop into my head are: _hot damn_. And this seems to be the common opinion of Egan-fans around the world. For a lot of us, school is just _so boring_ , and bringing back in emotional binaries and extremes and big ideas makes it not just bearable, but enjoyable.
 
- **Alice:** That reminds me, I don’t remember you mentioning “attention” before, or a lot of other aspects of cognition that my educational research friends might spend their entire careers studying — I’m thinking things like “motivation”, “long-term memory”, “metacognition”, “creativity”, or “long-term thinking skills”. Is Egan silent on those?
+**Alice:** That reminds me, I don’t remember you mentioning “attention” before, or a lot of other aspects of cognition that my educational research friends might spend their entire careers studying — I’m thinking things like “motivation”, “long-term memory”, “metacognition”, “creativity”, or “long-term thinking skills”. Is Egan silent on those?
 
- **Reviewer:** He thought they were too small, and stole our focus from the bigger reality of how they all worked together. If you wanted a curriculum that maximized students’ metacognition, for example, you shouldn’t spend an inordinate amount of time training “metacognition” — you should aim to help them develop the five different kinds of understanding. Get the big picture right, and the details will follow.
+**Reviewer:** He thought they were too small, and stole our focus from the bigger reality of how they all worked together. If you wanted a curriculum that maximized students’ metacognition, for example, you shouldn’t spend an inordinate amount of time training “metacognition” — you should aim to help them develop the five different kinds of understanding. Get the big picture right, and the details will follow.
 
- **Alice:** “A rising tide lifts all boats”?
+**Alice:** “A rising tide lifts all boats”?
 
- **Reviewer:** Sure, why not… except that, in this case, Egan is the first person to clearly explain what “the tide” is.
+**Reviewer:** Sure, why not… except that, in this case, Egan is the first person to clearly explain what “the tide” is.
 
- **Alice:** How about “rationality”? You opened this review raising the idea that, just maybe, a new kind of school could make the world rational. Does Egan talk about “rationality” a lot?
+**Alice:** How about “rationality”? You opened this review raising the idea that, just maybe, a new kind of school could make the world rational. Does Egan talk about “rationality” a lot?
 
- **Reviewer:** He does! For Egan, “rationality” is what begins to grow in Romantic understanding, and reaches full bloom in the Philosophic.
+**Reviewer:** He does! For Egan, “rationality” is what begins to grow in Romantic understanding, and reaches full bloom in the Philosophic.
 
- **Alice:** Oh, so he wants to move us all _past_ rationality, then, in the Ironic stage? (Did you think you could lure me into planting the seeds of my own community’s destruction?)
+**Alice:** Oh, so he wants to move us all _past_ rationality, then, in the Ironic stage? (Did you think you could lure me into planting the seeds of my own community’s destruction?)
 
- **Reviewer:** No, he’s using a slightly different definition of “rationality” than the Rationalist community does — one more in line, actually, with the historical use of it. Don’t forget the twelfth Rationalist virtue — the rationality that can be named is not the true rationality.
+**Reviewer:** No, he’s using a slightly different definition of “rationality” than the Rationalist community does — one more in line, actually, with the historical use of it. Don’t forget the twelfth Rationalist virtue — the rationality that can be named is not the true rationality.
 
- **Alice:** Oh, yeah, I think I actually do remember that. If his big goal isn’t “rationality”, then what is it?
+**Alice:** Oh, yeah, I think I actually do remember that. If his big goal isn’t “rationality”, then what is it?
 
- **Reviewer:** In this book, he mostly uses the word “educated”. But in the years after he wrote it, I think he realized that word wasn’t distinctive enough (and to some potential allies, actually had a negative connotation), because he switched to using another one-word summary of his whole “five kinds of understanding” model. But frankly I think it was a terrible choice, and I’ve tried hard to scrub any mention of it from the review so far.
+**Reviewer:** In this book, he mostly uses the word “educated”. But in the years after he wrote it, I think he realized that word wasn’t distinctive enough (and to some potential allies, actually had a negative connotation), because he switched to using another one-word summary of his whole “five kinds of understanding” model. But frankly I think it was a terrible choice, and I’ve tried hard to scrub any mention of it from the review so far.
 
- **Alice:** What word was it? Out with it!
+**Alice:** What word was it? Out with it!
 
- **Reviewer:** [ _suddenly finding his shoes very interesting, and speaking in a quiet voice_ ] “Imagination”.
+**Reviewer:** [_suddenly finding his shoes very interesting, and speaking in a quiet voice_] “Imagination”.
 
- **Alice:** That’s a pretty word. What do you think the problem with that is?
+**Alice:** That’s a pretty word. What do you think the problem with that is?
 
- **Reviewer:** I think most people hear it and make a bunch of wrong assumptions about his philosophy. The word falls on one side of a binary in education that goes “serious/unserious”, “challenging/easy”, “intellect/imagination”. This is ironic — and not in the good sense — because I think Egan’s approach would give us the most intellectually vibrant schooling we’ve ever had. Anyhow, that’s why, if you Google Egan, you’ll see the phrase “Imaginative Education” popping up.
+**Reviewer:** I think most people hear it and make a bunch of wrong assumptions about his philosophy. The word falls on one side of a binary in education that goes “serious/unserious”, “challenging/easy”, “intellect/imagination”. This is ironic — and not in the good sense — because I think Egan’s approach would give us the most intellectually vibrant schooling we’ve ever had. Anyhow, that’s why, if you Google Egan, you’ll see the phrase “Imaginative Education” popping up.
 
- **Alice:** What term would you have preferred?
+**Alice:** What term would you have preferred?
 
- **Reviewer:** If I had to choose, I might have gone with “human”.
+**Reviewer:** If I had to choose, I might have gone with “human”.
 
- **Alice:** Why “human”?
+**Alice:** Why “human”?
 
- **Reviewer:** Because it’s about embracing our evolved human nature — through the Somatic — and connecting to a wide span of cultural innovations that our genetic programming let us cultivate. With that as the frame, I think Egan might have said that the problem is we haven’t built schools for humans — we’ve built schools for Vulcans.
+**Reviewer:** Because it’s about embracing our evolved human nature — through the Somatic — and connecting to a wide span of cultural innovations that our genetic programming let us cultivate. With that as the frame, I think Egan might have said that the problem is we haven’t built schools for humans — we’ve built schools for Vulcans.
 
- **Alice:** That’s interesting — I think I was imagining that, in some ways, this was secretly a program for turning the whole world into _geeks_ , those most Vulcan-like of humans.
+**Alice:** That’s interesting — I think I was imagining that, in some ways, this was secretly a program for turning the whole world into _geeks_ , those most Vulcan-like of humans.
 
- **Reviewer:** I can understand that interpretation: geeks seem to be natural systematizers, and creating logical systems is a very Philosophic thing. But remember that Egan’s big complaint is that schools don’t recognize the more obviously emotional, more story-centric kinds of understanding, so they try to press down the one kind of understanding they _do_ understand on children who are mostly unready for it. His whole project is helping people cultivate all the kinds of understanding, and using Ironic to balance them.
+**Reviewer:** I can understand that interpretation: geeks seem to be natural systematizers, and creating logical systems is a very Philosophic thing. But remember that Egan’s big complaint is that schools don’t recognize the more obviously emotional, more story-centric kinds of understanding, so they try to press down the one kind of understanding they _do_ understand on children who are mostly unready for it. His whole project is helping people cultivate all the kinds of understanding, and using Ironic to balance them.
 
- **Alice:** I’m curious — might “geeks”, in this system, be defined as the people who have a natural predilection for Philosophic reasoning?
+**Alice:** I’m curious — might “geeks”, in this system, be defined as the people who have a natural predilection for Philosophic reasoning?
 
- **Reviewer:** That’s pretty good! Yeah, maybe. 
+**Reviewer:** That’s pretty good! Yeah, maybe. 
 
 **Alice:** Well then, I have a major bone to pick with you. Even if I had the chance to send my super-geeky son to an Egan school, I’m not sure I’d feel comfortable doing so — wouldn’t he be limited, in elementary and middle school, by being in these Mythic and Romantic classrooms?
 
- **Reviewer:** Ah, I’m very glad you asked that: I’ve been meaning to tell you that those pretty diagrams I showed you were profoundly wrong.
+**Reviewer:** Ah, I’m very glad you asked that: I’ve been meaning to tell you that those pretty diagrams I showed you were profoundly wrong.
 
- **Alice:** You— what?
+**Alice:** You— what?
 
- **Reviewer:** I’ve been drawing Egan’s “kinds of understanding” like they were “stages” — categories that you move between, one to the other. From that, you might imagine that an elementary school teacher will only be making Mythic lessons, and a teacher in middle school will only be making Romantic lessons, and so on. That’s not true — and it’s actually a misunderstanding of Egan’s system which, if not watched out for, could actually make education _worse_ off.
+**Reviewer:** I’ve been drawing Egan’s “kinds of understanding” like they were “stages” — categories that you move between, one to the other. From that, you might imagine that an elementary school teacher will only be making Mythic lessons, and a teacher in middle school will only be making Romantic lessons, and so on. That’s not true — and it’s actually a misunderstanding of Egan’s system which, if not watched out for, could actually make education _worse_ off.
 
- **Alice:** Worse off! How’s that? 
+**Alice:** Worse off! How’s that? 
 
 **Reviewer:** First, if we want to persist in using the “stages” metaphor, note that, at the very least, these stages stack on top of each other:
 
@@ -1172,9 +1175,9 @@ For someone who has only Philosophic understanding, logic isn’t something that
 
 > That means that, at the very least, a middle school teacher can (and should) be using Romantic _and_ Mythic _and_ Somatic tools.
 
- **Alice:** And if we don’t persist in thinking of them as “stages”?
+**Alice:** And if we don’t persist in thinking of them as “stages”?
 
- **Reviewer:** Well, then we get to acknowledge something that’s obvious: everyone uses some of these kinds of understanding, to at least a little extent, all the time. So even a preschool teacher has to be thinking about, say, how to bring out her students’ Philosophic understanding, even if only a little. 
+**Reviewer:** Well, then we get to acknowledge something that’s obvious: everyone uses some of these kinds of understanding, to at least a little extent, all the time. So even a preschool teacher has to be thinking about, say, how to bring out her students’ Philosophic understanding, even if only a little. 
 
 > Also, the divisions between the kinds of understanding aren’t neat — Egan acknowledges that “how one slices up the developmental continuum is in part a strategic matter, determined by your particular interest”. 
 > 
@@ -1182,166 +1185,166 @@ For someone who has only Philosophic understanding, logic isn’t something that
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F176e7b61-1896-4fc1-b5ab-5ed541a64e6d_1600x874.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F176e7b61-1896-4fc1-b5ab-5ed541a64e6d_1600x874.png)
 
- **Alice:** Hmm. I can see why you didn’t lead with that.
+**Alice:** Hmm. I can see why you didn’t lead with that.
 
- **Reviewer:** Thanks. 
+**Reviewer:** Thanks. 
 
 **Alice:** If you’re willing to make the boxes blurry, then what’s the use of saying they’re still different boxes?
 
- **Reviewer:** Think of the boxes (blurry or not) as attempts to capture a common historical pattern (and a common statistical reality, now) — humans usually master simple stories before they master gossipy, complex stories, and they usually master those before they master general schemes. 
+**Reviewer:** Think of the boxes (blurry or not) as attempts to capture a common historical pattern (and a common statistical reality, now) — humans usually master simple stories before they master gossipy, complex stories, and they usually master those before they master general schemes. 
 
 > You should expect that, sometimes, the wisest thing you can do is to break the pattern; that’s not a good reason to throw out the pattern.
 
- **Alice:** Okay, I can accept that, but — forgive me for asking this, but: why? Why can’t we just go straight to rationality? Why do we need to go through all the others? This really does seem terribly inefficient.
+**Alice:** Okay, I can accept that, but — forgive me for asking this, but: why? Why can’t we just go straight to rationality? Why do we need to go through all the others? This really does seem terribly inefficient.
 
- **Reviewer:** You mean, why can’t we just slap up some [cognitive biases posters](https://thethinkingshop.org/products/cognitive-biases-wall-posters) on the classroom wall, and call it a day? I’ll agree that Egan’s approach does seem a rather circuitous way to get to rationality. 
+**Reviewer:** You mean, why can’t we just slap up some [cognitive biases posters](https://thethinkingshop.org/products/cognitive-biases-wall-posters) on the classroom wall, and call it a day? I’ll agree that Egan’s approach does seem a rather circuitous way to get to rationality. 
 
 > But then, we’ve been trying clever shortcuts for a while. Dewey’s shortcut was to put kids in small democratic communities; Rousseau’s was to let the individual student follow his interests; Plato’s was to cram minds full of truth. By and large, they’ve failed.
 
- **Alice:** Hey, I loved those posters!
+**Alice:** Hey, I loved those posters!
 
- **Reviewer:** Me too! 
+**Reviewer:** Me too! 
 
 **Alice:** I’m reminded, actually, of how in the early days of AI research, a lot of people thought there must be a shortcut to getting computers to reason flexibly — if only we could get them to play, or use symbolic reasoning, people thought, then they’d bring themselves the rest of the way there. But it turns out there was no shortcut — LLMs need to be large! The inefficiency seems to be part of the recipe.
 
- **Reviewer:** That’s good. Although, if you zoom out to the big picture, it took our species a _long_ time to get to rationality. If we evolved speech fifty thousand years ago, and Egan is right that Socrates achieved something like “sophisticated Irony” around 400 BC, then it took us… well, about fifty thousand years! Compared to that, gaining five kinds of understanding over twelve-or-so years doesn’t seem so inefficient.
+**Reviewer:** That’s good. Although, if you zoom out to the big picture, it took our species a _long_ time to get to rationality. If we evolved speech fifty thousand years ago, and Egan is right that Socrates achieved something like “sophisticated Irony” around 400 BC, then it took us… well, about fifty thousand years! Compared to that, gaining five kinds of understanding over twelve-or-so years doesn’t seem so inefficient.
 
- **Alice:** Are you ready for my big question now?
+**Alice:** Are you ready for my big question now?
 
- **Reviewer:** Absolutely. I’ve never been more ready for anything in my life. Bring it on!
+**Reviewer:** Absolutely. I’ve never been more ready for anything in my life. Bring it on!
 
- **Alice:** [ _looking skeptical_ ]
+**Alice:** [_looking skeptical_]
 
- **Reviewer:** Please don’t hurt me.
+**Reviewer:** Please don’t hurt me.
 
- **Alice:** Here it comes: why should we have confidence that this approach would work, when every single other exciting-sounding “this will change everything” educational reform has failed, failed, failed? Maybe I can be convinced that Egan’s paradigm is fully twice as likely to succeed as all of the others combined — I think that would put it at a 1% chance of working.
+**Alice:** Here it comes: why should we have confidence that this approach would work, when every single other exciting-sounding “this will change everything” educational reform has failed, failed, failed? Maybe I can be convinced that Egan’s paradigm is fully twice as likely to succeed as all of the others combined — I think that would put it at a 1% chance of working.
 
- **Reviewer:** Oh, you’re asking if I’ve [noticed the skulls](https://slatestarcodex.com/2017/04/07/yes-we-have-noticed-the-skulls/)?
+**Reviewer:** Oh, you’re asking if I’ve [noticed the skulls](https://slatestarcodex.com/2017/04/07/yes-we-have-noticed-the-skulls/)?
 
- **Alice:** I guess so.
+**Alice:** I guess so.
 
- **Reviewer:** I’ve noticed the skulls.
+**Reviewer:** I’ve noticed the skulls.
 
- **Alice:** And how do you respond?
+**Alice:** And how do you respond?
 
- **Reviewer:** I think there are five possible ways we could try to suss out how likely Egan’s paradigm is to work. The first is through lots of formal, peer-reviewed studies of Egan-inspired educational interventions in classrooms, and then meta-analyses of those studies.
+**Reviewer:** I think there are five possible ways we could try to suss out how likely Egan’s paradigm is to work. The first is through lots of formal, peer-reviewed studies of Egan-inspired educational interventions in classrooms, and then meta-analyses of those studies.
 
- **Alice:** And have those been done with Egan’s methods?
+**Alice:** And have those been done with Egan’s methods?
 
- **Reviewer:** _Barely_ , and it frustrates me, and I think the fault lay with Egan. He was quite pessimistic on how much you could learn from this sort of study. One of his books was actually reviewed by the then-Second-Lady-of-the-United-States, Lynne Cheney. She really liked how he lambasted the developmentalists, but she criticized him on his pooh-poohing of educational research.
+**Reviewer:** _Barely_ , and it frustrates me, and I think the fault lay with Egan. He was quite pessimistic on how much you could learn from this sort of study. One of his books was actually reviewed by the then-Second-Lady-of-the-United-States, Lynne Cheney. She really liked how he lambasted the developmentalists, but she criticized him on his pooh-poohing of educational research.
 
- **Alice:** I feel like “visionary proposes radical new method of _x_ , says standard tests don’t apply” is a fifty-foot-tall glowing red flag. Does this make you skeptical of Egan?
+**Alice:** I feel like “visionary proposes radical new method of _x_ , says standard tests don’t apply” is a fifty-foot-tall glowing red flag. Does this make you skeptical of Egan?
 
- **Reviewer:** Sure, I think it makes sense for this to adjust our priors down some. But, to be clear, there have been some quantitative studies — I was just looking at a fun one that measured [how much more kids learned about electricity when they were taught it through the struggles of Nikola Tesla](https://link.springer.com/article/10.1007/s11191-011-9417-5).
+**Reviewer:** Sure, I think it makes sense for this to adjust our priors down some. But, to be clear, there have been some quantitative studies — I was just looking at a fun one that measured [how much more kids learned about electricity when they were taught it through the struggles of Nikola Tesla](https://link.springer.com/article/10.1007/s11191-011-9417-5).
 
- **Alice:** And what did it find?
+**Alice:** And what did it find?
 
- **Reviewer:** Oh, it found a statistically significant positive effect — but it was just one study. And the trouble in education is that almost _everything_ seems to work in individual studies. There are more studies that test Egan-inspired stuff, but not so many that you could call them a trustworthy research base.
+**Reviewer:** Oh, it found a statistically significant positive effect — but it was just one study. And the trouble in education is that almost _everything_ seems to work in individual studies. There are more studies that test Egan-inspired stuff, but not so many that you could call them a trustworthy research base.
 
- **Alice:** You said there are five ways we could try to figure out if this really works. What’s the next?
+**Alice:** You said there are five ways we could try to figure out if this really works. What’s the next?
 
- **Reviewer:** Look at how the components of Egan’s paradigm have fared in the broader scholarly literature.
+**Reviewer:** Look at how the components of Egan’s paradigm have fared in the broader scholarly literature.
 
- **Alice:** And how have they fared?
+**Alice:** And how have they fared?
 
- **Reviewer:** _Educated Mind_ came out in 1997, but he had built the fundamentals of his paradigm by the late Eighties. And since then, the cognitive sciences have swung toward embracing the power of the tools of what Egan’s dubbed “Somatic” and “Mythic” understanding — see [Jonathan Gottschall](https://www.amazon.com/Storytelling-Animal-Stories-Make-Human/dp/0544002342/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1680767863&sr=1-2) for a popular account of the move toward narrative, [Douglas Hofstadter](https://www.amazon.com/Surfaces-Essences-Analogy-Fuel-Thinking/dp/0465018475/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1680767824&sr=1-4) for one on metaphor, [Antonio Damasio](https://www.amazon.com/Descartes-Error-Emotion-Reason-Human/dp/014303622X/ref=sr_1_4?keywords=antonio+damasio&qid=1680767762&s=books&sprefix=antonio+d%2Cstripbooks%2C142&sr=1-4) for one on emotion, and [Rebecca Schwarzlose](https://www.amazon.com/Brainscapes-Warped-Wondrous-Written-Brain_And/dp/0358699320/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1680767715&sr=1-1) for one on mental images.
+**Reviewer:** _Educated Mind_ came out in 1997, but he had built the fundamentals of his paradigm by the late Eighties. And since then, the cognitive sciences have swung toward embracing the power of the tools of what Egan’s dubbed “Somatic” and “Mythic” understanding — see [Jonathan Gottschall](https://www.amazon.com/Storytelling-Animal-Stories-Make-Human/dp/0544002342/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1680767863&sr=1-2) for a popular account of the move toward narrative, [Douglas Hofstadter](https://www.amazon.com/Surfaces-Essences-Analogy-Fuel-Thinking/dp/0465018475/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1680767824&sr=1-4) for one on metaphor, [Antonio Damasio](https://www.amazon.com/Descartes-Error-Emotion-Reason-Human/dp/014303622X/ref=sr_1_4?keywords=antonio+damasio&qid=1680767762&s=books&sprefix=antonio+d%2Cstripbooks%2C142&sr=1-4) for one on emotion, and [Rebecca Schwarzlose](https://www.amazon.com/Brainscapes-Warped-Wondrous-Written-Brain_And/dp/0358699320/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1680767715&sr=1-1) for one on mental images.
 
 > Actually, that makes me think that a better way to ascertain how much stock we should put in Egan would be to ask what it would take to falsify his “kinds of understanding”. If we woke up tomorrow, and the front page of Reddit announced that scientists had concluding that stories and metaphors and emotions and mental images _weren’t_ actually useful in cognition.
 
- **Alice:** That seems incredibly unlikely.
+**Alice:** That seems incredibly unlikely.
 
- **Reviewer:** Indeed! And yet, schools don’t systematically use those as tools for learning. Actually, there’s a whole ’nother aspect of this that seems like it’s the most important of all: cultural evolution. Have you read any Joseph Henrich?
+**Reviewer:** Indeed! And yet, schools don’t systematically use those as tools for learning. Actually, there’s a whole ’nother aspect of this that seems like it’s the most important of all: cultural evolution. Have you read any Joseph Henrich?
 
- **Alice:** The aerospace-engineer-turned-Harvard-professor-of-human-evolution who’s helping reinvent how we understand anthropology, psychology, and economics? The author or _[The Secret of Our Success](https://www.amazon.com/Secret-Our-Success-Evolution-Domesticating/dp/0691178437/ref=sr_1_1?crid=2S9XTRLMB7G5X&keywords=The+Secret+of+Our+Success%3A&qid=1680768342&s=books&sprefix=the+secret+of+our+success+%2Cstripbooks%2C212&sr=1-1) _and _[The WEIRDest People in the World](https://www.amazon.com/WEIRDest-People-World-Psychologically-Particularly/dp/1250800072/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)_? I’m familiar with his work, yes.
+**Alice:** The aerospace-engineer-turned-Harvard-professor-of-human-evolution who’s helping reinvent how we understand anthropology, psychology, and economics? The author or _[The Secret of Our Success](https://www.amazon.com/Secret-Our-Success-Evolution-Domesticating/dp/0691178437/ref=sr_1_1?crid=2S9XTRLMB7G5X&keywords=The+Secret+of+Our+Success%3A&qid=1680768342&s=books&sprefix=the+secret+of+our+success+%2Cstripbooks%2C212&sr=1-1) _and _[The WEIRDest People in the World](https://www.amazon.com/WEIRDest-People-World-Psychologically-Particularly/dp/1250800072/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)_? I’m familiar with his work, yes.
 
- **Reviewer:** Well, I think Egan is Joseph Henrich for education.
+**Reviewer:** Well, I think Egan is Joseph Henrich for education.
 
- **Alice:** What?! 
+**Alice:** What?! 
 
 **Reviewer:** Both show how you can’t understand psychological differences among individuals just by looking at their genes, or at their immediate environment — you have to see what’s been happening in the hundreds and thousands of years of their ancestor’s cultural history. They also both point to the importance of “cognitive tools” gained through culture, argue that we’re smart because we connect up with others, and think that mimesis is at the very base of our cognition.
 
- **Alice:** Woah.
+**Alice:** Woah.
 
- **Reviewer:** Henrich makes a big point that the social sciences, thus far, have proceeded on the assumption that humans “are just a really smart, though somewhat less hairy, chimpanzee”. But cultural evolution has made us a fundamentally _new kind_ of animal — and that the scholarly road ahead is wide open for exploring this. I sorta can’t imagine a more Egan-y thing to say. I think that one of the reasons Egan’s ideas didn’t spread is that they were ahead of their time; _this_ was the paradigm Egan’s ideas make sense in.
+**Reviewer:** Henrich makes a big point that the social sciences, thus far, have proceeded on the assumption that humans “are just a really smart, though somewhat less hairy, chimpanzee”. But cultural evolution has made us a fundamentally _new kind_ of animal — and that the scholarly road ahead is wide open for exploring this. I sorta can’t imagine a more Egan-y thing to say. I think that one of the reasons Egan’s ideas didn’t spread is that they were ahead of their time; _this_ was the paradigm Egan’s ideas make sense in.
 
- **Alice:** And again I say: _woah._
+**Alice:** And again I say: _woah._
 
- **Reviewer:** Yeah, I wish I coulda seen a conversation between the two of them! They both lived in the Vancouver area for a number of years; maybe they bumped into each other in the grocery store. So, anyway, that’s two ways so far of adjudicating Egan: formal studies of classrooms, and looking at how the components of his paradigm have fared.
+**Reviewer:** Yeah, I wish I coulda seen a conversation between the two of them! They both lived in the Vancouver area for a number of years; maybe they bumped into each other in the grocery store. So, anyway, that’s two ways so far of adjudicating Egan: formal studies of classrooms, and looking at how the components of his paradigm have fared.
 
- **Alice:** What’s the third?
+**Alice:** What’s the third?
 
- **Reviewer:** Promise you won’t laugh.
+**Reviewer:** Promise you won’t laugh.
 
- **Alice:** It’s a promise.
+**Alice:** It’s a promise.
 
- **Reviewer:** I feel like his system describes a lot of us Rationalists _oddly_ well?
+**Reviewer:** I feel like his system describes a lot of us Rationalists _oddly_ well?
 
- **Alice:** How do you mean? 
+**Alice:** How do you mean? 
 
 **Reviewer:** I won’t share too many personal details; I am wearing a mask, after all. But as a kid, a lot of my learning was driven by jokes — I read _Calvin and Hobbes_ so many times, I probably had all the SAT words memorized. I got a feel for the constraints of reality through the copy of _Guinness Book of World Records_ that my mom got for me when I was nine years old — right at the beginning of Egan’s “Romantic” span. And I probed what might lie beyond the edges of reality by getting really into cryptids and paranormal nonsense.
 
- **Alice:** Good for you! I think that describes a lot of kids.
+**Alice:** Good for you! I think that describes a lot of kids.
 
- **Reviewer:** I wouldn’t disagree — I think I went further: I jumped into Philosophic understanding by becoming a young-earth creationist, when assigned to a middle-school science-class debate over the age of the Earth. Don’t judge! The web was young, and I was, too. But I recall the absolute thrill of realizing that I could find _anomalies_ that could overturn other people’s entire schemas. There’s a bit of Egan’s writing that I find haunting:
+**Reviewer:** I wouldn’t disagree — I think I went further: I jumped into Philosophic understanding by becoming a young-earth creationist, when assigned to a middle-school science-class debate over the age of the Earth. Don’t judge! The web was young, and I was, too. But I recall the absolute thrill of realizing that I could find _anomalies_ that could overturn other people’s entire schemas. There’s a bit of Egan’s writing that I find haunting:
 
 > “As the years go by, we may forget the ardor of early Philosophic understanding, and, of course, it comes to some only partially, as a feeble glow rather than a lightning flash. But it can feel like what Faust sold his soul for.”
 > 
 > I felt exactly that, and I was hooked.
 
- **Alice:** Did you stay a young-earth creationist?
+**Alice:** Did you stay a young-earth creationist?
 
- **Reviewer:** No — and it wasn’t because I was mocked out of the belief. I kept pursuing the truth, trying to build a general scheme that could hold all the evidence, and after a year or two, gave it up. But that got me into theology, which gave me an urge to learn history and philosophy — to understand where I fit in the cosmos.
+**Reviewer:** No — and it wasn’t because I was mocked out of the belief. I kept pursuing the truth, trying to build a general scheme that could hold all the evidence, and after a year or two, gave it up. But that got me into theology, which gave me an urge to learn history and philosophy — to understand where I fit in the cosmos.
 
- **Alice:** Are you a theologian, now?
+**Alice:** Are you a theologian, now?
 
- **Reviewer:** No — I’m an agnostic. I lost my ability to hold together my theological schema years ago. But the process of moving through that, of pursuing the truth no matter _what_ it ended up suggesting to me, has made me an intellectual thrill-junkie. I sorely want to find something else big that I’m wrong about — something as big as “my entire worldview”. I’m find myself deeply skeptical of my convictions, but I’m pretty skeptical of my skepticism, too, so it’s not a downer — the whole thing is actually pretty danged freeing.
+**Reviewer:** No — I’m an agnostic. I lost my ability to hold together my theological schema years ago. But the process of moving through that, of pursuing the truth no matter _what_ it ended up suggesting to me, has made me an intellectual thrill-junkie. I sorely want to find something else big that I’m wrong about — something as big as “my entire worldview”. I’m find myself deeply skeptical of my convictions, but I’m pretty skeptical of my skepticism, too, so it’s not a downer — the whole thing is actually pretty danged freeing.
 
- **Alice:** So you’re saying that it’s your religious history that birthed your rationalism.
+**Alice:** So you’re saying that it’s your religious history that birthed your rationalism.
 
- **Reviewer:** In large part, yes! It’s given me a deep fondness for religions to this day. And from my experience, I think an unusually high number of people in the capital-R-Rationalist community have similar stories, too.
+**Reviewer:** In large part, yes! It’s given me a deep fondness for religions to this day. And from my experience, I think an unusually high number of people in the capital-R-Rationalist community have similar stories, too.
 
- **Alice:** How confident are you about that? 
+**Alice:** How confident are you about that? 
 
 **Reviewer:** Oh gosh, no, not at all. It’s just a beguiling intuition. I’d love to see some numbers.
 
- **Alice:** Okay, so “personal experience” was number three. Four?
+**Alice:** Okay, so “personal experience” was number three. Four?
 
- **Reviewer:** If the “tools” that Egan describes are real, then they’re huge honking things. If we haven’t paid much attention to them up ’til now, it’s because they’re too big for us to notice. If Egan is right, then we should be able to point to people making billions of dollars off these tools.
+**Reviewer:** If the “tools” that Egan describes are real, then they’re huge honking things. If we haven’t paid much attention to them up ’til now, it’s because they’re too big for us to notice. If Egan is right, then we should be able to point to people making billions of dollars off these tools.
 
- **Alice:** What would that look like?
+**Alice:** What would that look like?
 
- **Reviewer:** I mean, “story” is the most obvious — how much money passes through Hollywood? The binaries are a bit harder, but it’s funny: Egan discovered them through anthropology, but I discovered them by reading books on writing: Robert McKee’s classic _[Story](https://www.amazon.com/Story-Substance-Structure-Principles-Screenwriting/dp/0060391685/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1680770981&sr=1-1)_ teaches the idea to screenwriters, _[The Story Grid](https://www.amazon.com/Story-Grid-What-Good-Editors/dp/1936891352/ref=sr_1_3?crid=1ZLN6JR0MVCN4&keywords=story+grid&qid=1680771069&s=books&sprefix=story+grid%2Cstripbooks%2C108&sr=1-3)_ teaches it to novelists, and _[Building a Storybrand](https://www.amazon.com/Building-StoryBrand-Donald-Miller-audiobook/dp/B072J8WRND/ref=sr_1_3?keywords=Donald+Miller&qid=1680771201&s=audible&sr=1-3) _teaches it to marketers. 
+**Reviewer:** I mean, “story” is the most obvious — how much money passes through Hollywood? The binaries are a bit harder, but it’s funny: Egan discovered them through anthropology, but I discovered them by reading books on writing: Robert McKee’s classic _[Story](https://www.amazon.com/Story-Substance-Structure-Principles-Screenwriting/dp/0060391685/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1680770981&sr=1-1)_ teaches the idea to screenwriters, _[The Story Grid](https://www.amazon.com/Story-Grid-What-Good-Editors/dp/1936891352/ref=sr_1_3?crid=1ZLN6JR0MVCN4&keywords=story+grid&qid=1680771069&s=books&sprefix=story+grid%2Cstripbooks%2C108&sr=1-3)_ teaches it to novelists, and _[Building a Storybrand](https://www.amazon.com/Building-StoryBrand-Donald-Miller-audiobook/dp/B072J8WRND/ref=sr_1_3?keywords=Donald+Miller&qid=1680771201&s=audible&sr=1-3) _teaches it to marketers. 
 
 > Pokémon takes the tool of “collections” and turns it into an international obsession. I feel like the more people learn to use these tools, the more money they can make. We’re Egan-izing everything.
 > 
 > There’s a dark aspect of this, but, I know you need to get back home to feed your dog.
 
- **Alice:** Thanks, but, um — what’s the dark aspect? 
+**Alice:** Thanks, but, um — what’s the dark aspect? 
 
 **Reviewer:** I’m worried that Egan-izing is eating the world. That as these tools are perfected, they begin to constitute a mass of super-stimuluses that it will be harder and harder to turn away from and live in the real world. Erik Hoel [wrote about this problem well](https://erikhoel.substack.com/p/exit-the-supersensorium), and included tips on how to avoid it.
 
- **Alice:** How can we avoid it?
+**Alice:** How can we avoid it?
 
- **Reviewer:** I’ll let you read his piece for his thoughts; from my vantage point, the gradual Eganization of everything means that it’s past time for us to apply these same tools to the real world, to re-enchant reality. And the ideal place to do that is school.
+**Reviewer:** I’ll let you read his piece for his thoughts; from my vantage point, the gradual Eganization of everything means that it’s past time for us to apply these same tools to the real world, to re-enchant reality. And the ideal place to do that is school.
 
- **Alice:** Okay — if I’m counting right, that’s four ways we could try to figure out if Egan is right: classroom studies, scholarship more generally, personal experience, and capitalism. What’s your final one?
+**Alice:** Okay — if I’m counting right, that’s four ways we could try to figure out if Egan is right: classroom studies, scholarship more generally, personal experience, and capitalism. What’s your final one?
 
- **Reviewer:** Well, someone could make a school of it, and see how it went.
+**Reviewer:** Well, someone could make a school of it, and see how it went.
 
- **Alice:** People make schools? Wait, wait, I knew that. People start schools all the time. But where would they find the teachers? And which brave families would send their kids?
+**Alice:** People make schools? Wait, wait, I knew that. People start schools all the time. But where would they find the teachers? And which brave families would send their kids?
 
- **Reviewer:** The teachers already exist; the teacher-prep program that Egan started is still going. They just don’t have any place to tie their teaching together. As for the families, it wouldn’t even take so very many — small schools pop into existence all the time.
+**Reviewer:** The teachers already exist; the teacher-prep program that Egan started is still going. They just don’t have any place to tie their teaching together. As for the families, it wouldn’t even take so very many — small schools pop into existence all the time.
 
- **Alice:** But wouldn’t it be risky? It’s an untested means of education, after all — the one elementary program you visited aside.
+**Alice:** But wouldn’t it be risky? It’s an untested means of education, after all — the one elementary program you visited aside.
 
- **Reviewer:** See, that’s maybe the strongest evidence for the theory, as janky as it still appears to me — that the educational practices it recommends are so danged appealing to so many people. It gives the passion that people look for in the developmental approach, the great ideas that people look for in the academic approach, and the connection to the rest of humanity that people look for in the socialization approach.
+**Reviewer:** See, that’s maybe the strongest evidence for the theory, as janky as it still appears to me — that the educational practices it recommends are so danged appealing to so many people. It gives the passion that people look for in the developmental approach, the great ideas that people look for in the academic approach, and the connection to the rest of humanity that people look for in the socialization approach.
 
- **Alice:** _That’s_ how Egan claims to fulfill those three jobs, in a new way!
+**Alice:** _That’s_ how Egan claims to fulfill those three jobs, in a new way!
 
- **Reviewer:** Well, something like that. Anyhow, you’ve got a dog that needs a-feedin’. 
+**Reviewer:** Well, something like that. Anyhow, you’ve got a dog that needs a-feedin’. 
 
 **Alice:** Thanks! 
 
-**Reviewer:** [ _walks away_ ]
+**Reviewer:** [_walks away_]
 
- **Alice:** [ _walks away_ ]
+**Alice:** [_walks away_]

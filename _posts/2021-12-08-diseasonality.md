@@ -3,11 +3,14 @@ title: "Diseasonality"
 subtitle: "Why is winter flu season? Why do diseases even have a season?"
 date: 2021-12-08
 likes: 92
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/44275659/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0cc33ea4-4688-4d17-bbd6-a7c679674118_750x511.png
 original-url: https://www.astralcodexten.com/p/diseasonality
 ---
-[ _epistemic status: conjecture and speculation in something that isn’t really my field_ ]
+[_epistemic status: conjecture and speculation in something that isn’t really my field_]
 
- **I.**
+**I.**
 
 It’s still [not totally clear](https://pubmed.ncbi.nlm.nih.gov/17222079/) why some diseases are seasonal.
 
@@ -46,7 +49,7 @@ Might it be some combination of these things? Maybe Alaska is cold all year, but
 
 This is possible. I just find it hard to believe that the place where this metric is highest in summer doesn’t even overlap with the place where the metric is lowest in winter.
 
- **II.**
+**II.**
 
 What about ultraviolet light?
 
@@ -74,7 +77,7 @@ The same amount of UV light reaches Alaska in the summer as Florida in the winte
 
 So we can add UV to our combined multi-dimensional metric idea, and it will improve it a little. But I’m still not completely satisfied with it. Seasonality seems too strong, even after you account for all these factors.
 
- **III.**
+**III.**
 
 What happens when we think about this dynamically? 
 
@@ -104,7 +107,7 @@ But the seasonal cycle “entrains” this rhythm (cf. the idea of a [zeitgeber]
 
 So in the tropics, Florida, and Alaska, epidemics “want” to follow a cycle of coming approximately once a year. In the tropics, nothing is giving them that cycle, so they come at a random time once a year, or twice a year, or whatever. In Florida, UV light, temperature, etc provide that cycle, and they come once a year. In Alaska, UV light, temperature, etc also provide that cycle, and they come once a year _independent of what’s going on in Florida_. It’s like the saying about how you don’t have to outrun the bear, you just have to outrun the other hikers. July in Alaska doesn’t have to outrun January in Florida, it just has to outrun January in Alaska, for the dubious honor of when Alaska’s destined-to-be-once-a-year flu season is going to be.
 
- **IV.**
+**IV.**
 
 Right now I think the coronavirus is about halfway to being a seasonal disease.
 

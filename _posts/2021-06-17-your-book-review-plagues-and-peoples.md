@@ -3,9 +3,12 @@ title: "Your Book Review: Plagues And Peoples"
 subtitle: "Finalist #17 in the Book Review Contest"
 date: 2021-06-17
 likes: 44
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37699359/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ce4b7b71-7a65-4c3d-b6c3-1bc131cc8bb4_2405x1495.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-plagues-and-peoples
 ---
-[ _This is the seventeenth of seventeen finalists in the book review contest. This one was chosen out of the reviews I somehow missed the first time around. There were four other such essays, which you can see in[a supplementary runners-up packet here](https://docs.google.com/document/d/1IrvVgLa6-TEP81UD1-eW5gz1sEJ53Ar88IG0J5i4jQs/edit#). I’ll make a post about how to vote tomorrow. - SA_] 
+[_This is the seventeenth of seventeen finalists in the book review contest. This one was chosen out of the reviews I somehow missed the first time around. There were four other such essays, which you can see in[a supplementary runners-up packet here](https://docs.google.com/document/d/1IrvVgLa6-TEP81UD1-eW5gz1sEJ53Ar88IG0J5i4jQs/edit#). I’ll make a post about how to vote tomorrow. - SA_] 
 
 Biological evolution was hijacked by cultural evolution; tools and language allowed humankind to upset the ecological balance in incredible ways. We should all know the story by now. Human grunts to other human and they agree to kill a wooly mammoth together and then grunt and agree to share the meat and then grunt and learn to make a spear and grunt and form a complex society and worldwide dominant species. 
 
@@ -53,7 +56,7 @@ Chicken pox (related to cow pox) infects kids and all the other kids in their ki
 
 Establishing this type of diffusion of disease, he says, requires several thousand years. Through statistical analysis of the modern spread of measles, McNeill claims that the minimum population size to keep a virus going is about half a million people. Coincidentally, the world’s oldest civilization, the ancient Sumeria population was approximately half a million.
 
- **Macroparasitism**
+**Macroparasitism**
 
 The host-parasite relationship mirrors subject-government relationship. “The entire process of adjustment between host and parasite may be conceived as a series of wavelike disturbances to pre-existing biological equilibria.” As McNeill paints the complexly evolving relationship between humans and parasites, he introduces government as humanity’s macroparasite.   
   
@@ -89,7 +92,7 @@ In contrast to the Ganges Valley in India, with a civilization and farming start
 
 It took a long time for China to populate the Yangtze River basin- biological accommodation to a microparasitic climate will take a long time. By that time, around 1200 AD, there is also evidence the Sung Dynasty was a less powerful and less demanding macroparasite. “To achieve such a mass population [100 million by A.D.1200] two things were needed: a suitable microparasistic accommodation to the ecological conditions of the Yangtze Valley and regions farther south, and a regulated macroparasitism that left enough of their product with the Chinese peasants so that they could sustain a substantial rate of natural increase over several generations.”
 
- **Epistemic Status: A convincing narrative with zero evidence**
+**Epistemic Status: A convincing narrative with zero evidence**
 
 McNeill explicitly and regularly reminds the reader that this overarching thesis has little to no evidence. But it does have lots of examples. It’s the same problem that most overarching histories of humanity face: lack of documentation. Except this time it’s lack of documentation 10,000 years ago of something we discovered existed 300 years ago and is invisible without a microscope. In some way, though, this complete lack of documentation makes his case stronger- the invisible forces are stronger than the visible ones.
 
@@ -173,13 +176,13 @@ The book does not offer explicit expectations of what comes after COVID-19. He t
 
 > “For the present and short-range future, it remains obvious that humanity is in course of one of the most massive and extraordinary ecological upheavals the planet has ever known. Not stability but a sequence of sharp alterations and abrupt oscillations in existing balances between microparasitism and macroparasitism can therefore be expected in the near future as in the recent past.”
 
- **Meta Micro/Macro Parasitism**
+**Meta Micro/Macro Parasitism**
 
 The themes from this book that I keep coming back to are not so much in the COVID-19 framework, but more in a [Daniel Schmachtenberger](https://www.youtube.com/watch?v=eh7qvXfGQho) way of systems thinking. Thinking a bit more meta about micro and macro parasitism gives a decently coherent model of the world. There are weaker forces and things that when outnumbering an individual extract a certain amount of energy. And there are stronger forces and things that a group of individuals may outnumber but still extract some energy. This eventually looks like a dynamin hierarchy. Millions of virions can make a person sick while millions of people will pay taxes to a government. 
 
 This model is enticing because it seems, in McNeill’s narrative, persistent since the dawn of humanity. It also seems a bit Marxist. Like any overarching model of reality, it will overfit and underfit. Regardless, models can be useful or at least beautiful. When picturing this dynamic, oscillating system I keep coming back to a[ Ranier Maria Rilke poem translated by Joanna Macy:](https://onbeing.org/poetry/widening-circles/)
 
->  _Widening Circles_
+> _Widening Circles_
 > 
 >  _I live my life in widening circles  
 >  that reach out across the world.  

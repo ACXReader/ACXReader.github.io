@@ -3,6 +3,9 @@ title: "Mantic Monday: Ukraine Cube Manifold"
 subtitle: "..."
 date: 2022-02-14
 likes: 40
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/48705653/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/66e9d961-c99e-444e-9936-47f930562b21_280x208.png
 original-url: https://www.astralcodexten.com/p/mantic-monday-ukraine-cube-manifold
 ---
 ### Ukraine

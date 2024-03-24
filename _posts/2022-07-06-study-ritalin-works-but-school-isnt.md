@@ -3,6 +3,9 @@ title: "Study: Ritalin Works, But School Isn't Worth Paying Attention To"
 subtitle: "..."
 date: 2022-07-06
 likes: 127
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/62255963/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4975e27a-ba6d-4d3b-a701-cfc4bb6dbfcd_960x500.webp
 original-url: https://www.astralcodexten.com/p/study-ritalin-works-but-school-isnt
 ---
 Recent study, Pelham et al: [The Effect Of Stimulant Medication On The Learning Of Academic Curricula In Children With ADHD](https://ynet-images1.yit.co.il/picserver5/wcm_upload_files/2022/06/01/Sk3iwoV009/Pelham_et_al_2022.pdf). 

@@ -2,11 +2,14 @@
 title: "What Should We Make Of Sasha Chapin's Claim That Taking LSD Restored His Sense Of Smell After COVID?"
 date: 2021-08-03
 likes: 67
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39449303/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8d135748-78c6-40fe-89b3-1933abfb18c1_1100x708.jpeg
 original-url: https://www.astralcodexten.com/p/what-should-we-make-of-sasha-chapins
 ---
 **I.**
 
-Substack blogger Sasha Chapin writes that [COVID-19 Took My Sense Of Smell, LSD Brought It Back](https://sashachapin.substack.com/p/covid-19-took-my-sense-of-smell-then). He got coronavirus, and like many people lost his sense of smell (medical term: _dysosmia_ or _anosmia_ ). Ten days after recovery, he still couldn’t smell anything. He looked on Twitter and found some anecdotal reports that psychedelics had helped with this, so he took LSD and tried to smell some stuff while tripping. He says it “totally worked. Fully and near-instantaneously. Like a light switch turning on.” The details:
+Substack blogger Sasha Chapin writes that [COVID-19 Took My Sense Of Smell, LSD Brought It Back](https://sashachapin.substack.com/p/covid-19-took-my-sense-of-smell-then). He got coronavirus, and like many people lost his sense of smell (medical term: _dysosmia_ or _anosmia_). Ten days after recovery, he still couldn’t smell anything. He looked on Twitter and found some anecdotal reports that psychedelics had helped with this, so he took LSD and tried to smell some stuff while tripping. He says it “totally worked. Fully and near-instantaneously. Like a light switch turning on.” The details:
 
 > My idea was that I’d do some scent training while on LSD, to—hand-wavey lay neuroscience incoming—stimulate whatever olfactory neurogenesis might occur. Before tripping, I laid out my fragrance collection, along with a few ingredients from the pantry. All-in-all, there were about fifty things to smell, and, as the LSD started kicking in, I started making my way through the selection. 
 > 
@@ -22,7 +25,7 @@ The number one explanation for incredible Internet medical stories is always “
 
 Still, enough people have said something like this that I think it’s worth trying to figure out if there’s any plausible mechanism.
 
- **II.**
+**II.**
 
 Anosmia sucks worse than you would expect. For one thing, smell is linked to taste, so most things taste bad or weird or neutral. For another, it’s correlated with much higher risk of [depression](https://slatestarcodex.com/2020/04/17/depression-the-olfactory-perspective/), and some preliminary work suggests this could be causal (possible mechanism: the brain is getting fewer forms of stimulation?) Some [studies](https://sci-hub.se/https://www.ncbi.nlm.nih.gov/pubmed/25595338/) find that exposing rats to very strong scents makes them less depressed; it would be funny if this was how aromatherapy worked in humans. So COVID induced anosmia is actually a serious problem.
 
@@ -32,7 +35,7 @@ About [half](https://www.beckershospitalreview.com/public-health/when-will-smell
 
 Sasha says he was only ten days in when he took LSD, so this is well inside the window where we would expect him to eventually recover anyway. But it still doesn’t make sense that he recovered within the space of a few hours, or that he felt his smell was stronger than before.
 
- **III.**
+**III.**
 
 Sasha writes that he was “do[ing] scent training while on LSD, to—hand-wavey lay neuroscience incoming—stimulate whatever olfactory neurogenesis might occur.” He’s pretty up front that he’s using “neurogenesis” loosely, but I want to stress that probably neurogenesis isn’t a good explanation here.
 
@@ -62,7 +65,7 @@ If Steven’s model is right, we can at least answer the last (and let’s face 
 
 (one exception: in theory, it might be possible to use overfitting to your advantage. Suppose you were a wine taster who has to identify many different kinds of wine by smell. If you took psychedelics and then spent your trip smelling wine and nothing else, you might convince the olfactory cortex to slightly rewire itself for the specific problem of smelling wine in particular. This would make you worse at everything else, but maybe a little better at the one task you’re optimizing for. I do not recommend this.)
 
- **IV.**
+**IV.**
 
 I started with Steven’s explanation because I think it’s simple, powerful, and he knows more than I do and is more likely to be right. But I also want to go over the longer, more complicated, and more theoretical way I was thinking about this before I read his comment. Then we can try to figure out whether I’m looking at the same thing from a different direction, or whether these are competing models.
 
@@ -80,7 +83,7 @@ Chronic pain is by far the best-studied of these, and the going theory is "centr
 
 I think this makes most sense [in a Bayesian context](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/): all of your perceptions are a combination of actual sensory signals, plus processing by a complicated analytical machinery which interprets it through a collection of priors about what it expects to be true. Suppose you break your leg and are in a lot of pain. Probably for weeks and months you get a bunch of leg pain signals. You learn to expect leg pain signals. If your nervous system is inappropriately plastic, that expectation might become one of the very high-level priors you use to interpret sensory information. So when the nerves in your leg send some complicated stream of electrical impulses plus random noise, the interpretation centers in your brain "know" that your leg "should" feel pain and are more likely to include pain signals in the "final report" they send higher brain areas.
 
- _One of my favorite teaching aids for explaining this process. Concentrate on either the phrase “brainstorm” or “green needle”, and you will hear the device saying that phrase (and not the other). You’re essentially “suggesting” an interpretation to your auditory processing centers, and they use your suggestion in deciding what perception to send to higher brain areas. A prior on chronic pain is essentially a similar “suggestion” for central pain gating areas._
+_One of my favorite teaching aids for explaining this process. Concentrate on either the phrase “brainstorm” or “green needle”, and you will hear the device saying that phrase (and not the other). You’re essentially “suggesting” an interpretation to your auditory processing centers, and they use your suggestion in deciding what perception to send to higher brain areas. A prior on chronic pain is essentially a similar “suggestion” for central pain gating areas._
 
 My guess is that all the state fixation disorders are like this. You're in some unusual state. Your brain develops a prior that you're in the state, which is correct and probably helps you adjust while you're in it. But the prior is inappropriately strong; maybe it's even [the dreaded 100% probability prior](https://www.readthesequences.com/A-Technical-Explanation-Of-Technical-Explanation), which is impossible to ever update away from no matter how much evidence you get to the contrary. So when the state ends, your prior doesn't, your nervous system still expects to be in the state, and it interprets all of your perceptions accordingly.
 

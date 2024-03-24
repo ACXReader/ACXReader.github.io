@@ -3,6 +3,9 @@ title: "Contra Hoel On Aristocratic Tutoring"
 subtitle: "..."
 date: 2022-03-22
 likes: 149
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/50658926/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0c59e248-b4ab-48e1-a706-27fe0a8f7167_345x226.png
 original-url: https://www.astralcodexten.com/p/contra-hoel-on-aristocratic-tutoring
 ---
 **I.**
@@ -13,7 +16,7 @@ Hoel worries we’re running out of geniuses:
 
 > Consider how rare true world-historic geniuses are now-a-days, and how different it was in the past. In “[Where Have All the Great Books Gone?](https://scholars-stage.org/where-have-all-the-great-works-gone/)” Tanner Greer uses Oswald Spengler, the original chronicler of the decline of genius back in 1914, to point out our current genius downturn […]
 > 
-> There are a bunch of other analyses (really, laments) of a similar nature I could name, from _Nature_ ’s “[Scientific genius is extinct](https://www.nature.com/articles/493602a)” to _The New Statesman_ ’s “[The fall of the intellectual](https://www.newstatesman.com/culture/books/2021/05/fall-intellectual)” to _The Chronicle of Higher Education_ ’s “[Where have all the geniuses gone?](https://www.chronicle.com/article/where-have-all-the-geniuses-gone/)” to _Wired_ ’s” “[The Difficulty of Discovery (Where Have All The Geniuses Gone?)](https://www.wired.com/2011/01/the-difficulty-of-discovery/) **”** to philosopher Eric Schwitzgebel’s “[Where are all the Fodors?](https://schwitzsplinters.blogspot.com/2021/11/where-have-all-fodors-gone-or-golden.html)” to my own [lamentation on the lack](https://erikhoel.substack.com/p/how-the-mfa-swallowed-literature?s=w) of leading fiction writers.
+> There are a bunch of other analyses (really, laments) of a similar nature I could name, from _Nature_ ’s “[Scientific genius is extinct](https://www.nature.com/articles/493602a)” to _The New Statesman_ ’s “[The fall of the intellectual](https://www.newstatesman.com/culture/books/2021/05/fall-intellectual)” to _The Chronicle of Higher Education_ ’s “[Where have all the geniuses gone?](https://www.chronicle.com/article/where-have-all-the-geniuses-gone/)” to _Wired_ ’s” “[The Difficulty of Discovery (Where Have All The Geniuses Gone?)](https://www.wired.com/2011/01/the-difficulty-of-discovery/)**”** to philosopher Eric Schwitzgebel’s “[Where are all the Fodors?](https://schwitzsplinters.blogspot.com/2021/11/where-have-all-fodors-gone-or-golden.html)” to my own [lamentation on the lack](https://erikhoel.substack.com/p/how-the-mfa-swallowed-literature?s=w) of leading fiction writers.
 > 
 > If you disagree, I’ll certainly admit that finding irrefutable evidence for a decline of genius is difficult—intellectual contributions are extremely hard to quantify, the definition of genius is always up for debate, and any discussion will necessarily elide all sorts of points and counterpoints. But the numbers, at least at first glance, seem to support the anecdotal. Here’s a chart from _Cold Takes_ ’ “[Where’s Today’s Beethoven?](https://www.cold-takes.com/wheres-todays-beethoven/#books-the-longest-series-i-have)” Below, we can see the number of acclaimed scientists (in blue) and artists (in red), divided by the effective population (total human population with the education and access to contribute to these fields).
 > 
@@ -29,27 +32,27 @@ He argues the most likely cause is the decline of “aristocratic tutoring” - 
 
 He amply proves that many of the great geniuses of the past, including Bertrand Russell, Albert Einstein, and John von Neumann received tutoring like this, and suggests that its absence (more because of strengthening democratic norms than because people don’t have the money) might be why we don’t see figures of their stature anymore.
 
- **II.**
+**II.**
 
 I agree that this kind of tutoring sounds great. I wouldn’t be surprised if it has a big effect size. But it’s not the reason we have fewer geniuses. 
 
 Why not? Suppose that half of past geniuses were tutored this way, and half weren’t. Even if every single genius who was tutored owed his genius entirely to the tutoring, the tutoring could only explain half of geniuses. That means that after the tutoring stopped, we would expect half as many geniuses. But Hoel is making a stronger claim: that there are almost no geniuses today. For aristocratic tutoring to explain that, we would need for almost all past geniuses to be aristocratically tutored. But as far as I can tell, that isn’t true. Probably well below half of them were. Just to give some examples:
 
- **[Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton)** went to a local school at at 12, and to Cambridge at 17. The Wikipedia page on his early life doesn't mention "tutor", except in the context of a college teacher. His adopted father was a country parson, and his family wasn't rich enough to do aristocratic tutoring even if they'd wanted to. Articles on his early life stress his self-motivated nature: he was constantly building things and observing things on his own time.
+**[Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton)** went to a local school at at 12, and to Cambridge at 17. The Wikipedia page on his early life doesn't mention "tutor", except in the context of a college teacher. His adopted father was a country parson, and his family wasn't rich enough to do aristocratic tutoring even if they'd wanted to. Articles on his early life stress his self-motivated nature: he was constantly building things and observing things on his own time.
 
- **[Wolfgang Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)** was tutored, but primarily by his father, himself an excellent violinist. According to his Wikipedia article, "In his early years, Wolfgang's father was his only teacher". Mozart was already an obvious child prodigy by 6 or 7, and wrote his first symphony at 8. I can't find any evidence that non-family members contributed to his education. This kind of tutoring is still common; my wife learned cello from her grandmother, a professional music tutor.
+**[Wolfgang Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)** was tutored, but primarily by his father, himself an excellent violinist. According to his Wikipedia article, "In his early years, Wolfgang's father was his only teacher". Mozart was already an obvious child prodigy by 6 or 7, and wrote his first symphony at 8. I can't find any evidence that non-family members contributed to his education. This kind of tutoring is still common; my wife learned cello from her grandmother, a professional music tutor.
 
- **[Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin)** went to a local school at age 8, switched to a boarding school at 9, spent a summer at age 16 following his father (a doctor) around as he treated patients, then went to medical school. He switched to regular college at Cambridge at 19, where he seemed to have a pretty traditional education. Wikipedia has a long article on his education, which doesn't mention the word "tutor" until college age, when he "spent the autumn term at home studying Greek with a tutor". Later in college, he "joined other Cambridge friends on a three-month "reading party" at Barmouth on the coast of Wales to revise their studies with private tutors". I don't think he had a stronger relationship with being tutored himself, especially not in childhood. His summer following his father around learning medicine was probably good for him, but not outside the bounds of what still happens today (I followed my father around learning medicine).
+**[Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin)** went to a local school at age 8, switched to a boarding school at 9, spent a summer at age 16 following his father (a doctor) around as he treated patients, then went to medical school. He switched to regular college at Cambridge at 19, where he seemed to have a pretty traditional education. Wikipedia has a long article on his education, which doesn't mention the word "tutor" until college age, when he "spent the autumn term at home studying Greek with a tutor". Later in college, he "joined other Cambridge friends on a three-month "reading party" at Barmouth on the coast of Wales to revise their studies with private tutors". I don't think he had a stronger relationship with being tutored himself, especially not in childhood. His summer following his father around learning medicine was probably good for him, but not outside the bounds of what still happens today (I followed my father around learning medicine).
 
- **[Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur)** was born "to a Catholic family of a poor tanner". He went to primary school at 8 and college at 16. I can't find any evidence he was tutored.
+**[Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur)** was born "to a Catholic family of a poor tanner". He went to primary school at 8 and college at 16. I can't find any evidence he was tutored.
 
- **[Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens)** barely seems to have been educated at all. His family was so poor that he spent some of his childhood working in a sweatshop. During other periods they did a little better and he went to small lower-to-middle-class private schools. Dickens seems to have gotten most of his education by reading novels on his own.
+**[Charles Dickens](https://en.wikipedia.org/wiki/Charles_Dickens)** barely seems to have been educated at all. His family was so poor that he spent some of his childhood working in a sweatshop. During other periods they did a little better and he went to small lower-to-middle-class private schools. Dickens seems to have gotten most of his education by reading novels on his own.
 
- **[Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)** grew up poor in Michigan. Again according to Wikipedia, "Edison was taught reading, writing, and arithmetic by his mother, who used to be a school teacher. He attended school for only a few months. However, one biographer described him as a very curious child who learned most things by reading on his own. As a child, he became fascinated with technology and spent hours working on experiments at home."
+**[Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)** grew up poor in Michigan. Again according to Wikipedia, "Edison was taught reading, writing, and arithmetic by his mother, who used to be a school teacher. He attended school for only a few months. However, one biographer described him as a very curious child who learned most things by reading on his own. As a child, he became fascinated with technology and spent hours working on experiments at home."
 
 Hoel argues that the decline in aristocratic tutoring is “why we stopped making Einsteins”. But then why did we stop making Newtons, Mozarts, Darwins, Pasteurs, Dickenses, and Edisons?
 
- **III.**
+**III.**
 
 One other argument: Hoel cites Holden Karnofsky’s [Where’s Today’s Beethoven?](https://www.cold-takes.com/wheres-todays-beethoven/#books-the-longest-series-i-have), which suggests that music is a typical case of the genius decline. 
 
@@ -57,7 +60,7 @@ But aristocratic tutoring in music is alive and well. When my brother was identi
 
 If aristocratic tutoring were a significant factor behind declining genius, we would expect to see a split: fields like science where tutoring is rare would lose their geniuses, whereas fields like music where tutoring is common would be as genius-filled as ever. But people use music as a typical example of a declining-genius field. So that can’t be it.
 
- **IV.**
+**IV.**
 
 So what’s my explanation? You will not be surprised to hear it’s the maximally boring one, a combination of:
 

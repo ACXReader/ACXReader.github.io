@@ -3,6 +3,9 @@ title: "Semaglutidonomics"
 subtitle: "140 million obese Americans x $15,000/year for obesity drugs = . . . uh oh, that can't be right."
 date: 2022-11-24
 likes: 214
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/79110254/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7b732498-0673-4405-a365-0d049705fadc_900x555.png
 original-url: https://www.astralcodexten.com/p/semaglutidonomics
 ---
 ## The Story So Far
@@ -31,11 +34,11 @@ Americans currently spend $300 billion per year total on prescription drugs. So 
 
 So . . . most people who want semaglutide won’t get it? Unclear. America’s current policy for controlling medical costs is to buy random things at random prices, then send all the bills to an illiterate reindeer-herder named Yagmuk, who burns them for warmth. Anything could happen!
 
- _Right now_ , only about 50,000 Americans take semaglutide for obesity. I’m basing this off [this report](https://www.fiercepharma.com/pharma/novos-wegovy-supply-rebound-track-second-half-2022-execs-break-out-first-ever-sales-figures) claiming “20,000 weekly US prescriptions” of Wegovy; since it’s taken once per week, maybe this means there are 20,000 users? Or maybe each prescription contains enough Wegovy to last a month and there are 80,000 users? I’m not sure, but it’s somewhere in the mid five digits, which I’m rounding to 50,000.
+_Right now_ , only about 50,000 Americans take semaglutide for obesity. I’m basing this off [this report](https://www.fiercepharma.com/pharma/novos-wegovy-supply-rebound-track-second-half-2022-execs-break-out-first-ever-sales-figures) claiming “20,000 weekly US prescriptions” of Wegovy; since it’s taken once per week, maybe this means there are 20,000 users? Or maybe each prescription contains enough Wegovy to last a month and there are 80,000 users? I’m not sure, but it’s somewhere in the mid five digits, which I’m rounding to 50,000.
 
 That’s only 0.1% of the potential 35 million. The next few sections of this post are about why so few people are on semaglutide, and whether we should expect that to change. I’ll start by going over my model of what determines semaglutide use, then look at a Morgan Stanley projection of what will happen over the next decade.
 
- **Step 1: Awareness**
+**Step 1: Awareness**
 
 I model semaglutide use as _interest * awareness * prescription accessibility * affordability_. I already randomly guessed interest at 25%, so the next step is awareness. How many people are aware of semaglutide?
 
@@ -47,7 +50,7 @@ Semaglutide is now as searched-for on Google as Prozac or Viagra. Even if this i
 
 Suppose for the sake of argument that 5% of obese people have heard of this drug.
 
- **Step 2: Prescription Accessibility**
+**Step 2: Prescription Accessibility**
 
 The FDA says Wegovy is indicated for obesity, defined as BMI ≥ 30, or for people with BMI ≥ 27 and certain medical conditions. Does that mean that if you have that BMI, your doctor will give you a prescription? 
 
@@ -61,7 +64,7 @@ The history of medicine includes the following story many times: there’s some 
 
 Only 75% of Americans have PCPs at all. If we assume half of them will eventually be able to get a Wegovy prescription from their doctor, that’s 37.5%.
 
- **Step 3: Affordability**
+**Step 3: Affordability**
 
 Semaglutide costs $15,000/year. Well-off people like Elon Musk might be able to pay that out-of-pocket, but most people will probably need insurance coverage. Right now this is spotty.
 
@@ -83,7 +86,7 @@ Even when insurances do cover semaglutide, copays may be very high. I have a pre
 
 Let’s say only 5% of people who clear all previous hurdles can afford the drug.
 
- **How Many People Get Semaglutide?**
+**How Many People Get Semaglutide?**
 
 140 million obese Americans * 25% interested * 5% know of semaglutide’s existence * 37.5% can get prescriptions * 5% can afford it = 33,000, which is a pretty good match for the 50,000 estimated prescriptions. I didn’t even fudge the numbers to come out right, it just happened. 
 

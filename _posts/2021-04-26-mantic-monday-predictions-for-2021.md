@@ -3,6 +3,9 @@ title: "Mantic Monday: Predictions For 2021"
 subtitle: "..."
 date: 2021-04-26
 likes: 49
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/35653847/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/da8ed496-bcaa-46ec-9ed4-50070671591d_1404x1053.jpeg
 original-url: https://www.astralcodexten.com/p/mantic-monday-predictions-for-2021
 ---
 At the beginning of every year, I [make predictions](https://slatestarcodex.com/2020/04/29/predictions-for-2020/). At the end of every year, I [score them](https://astralcodexten.substack.com/p/2020-predictions-calibration-results). This year I’m really late. So here are a hundred plus for 2021.
@@ -12,7 +15,7 @@ Rules: unless otherwise stated, all predictions are about what will be true on/b
 This isn’t about me being an expert on these topics and getting them exactly right, it’s about me calibrating my ability to tell how much I know about things and how certain I am. I’m also moving towards trying to learn to predict shorter-term and more specific events as they happen - you can see my log [here](https://www.datasecretslox.com/index.php/topic,2268.0.html).
 
   
- **US/WORLD  
+**US/WORLD  
 ** 1\. Biden approval rating (as per 538) is greater than 50%: 80%  
 2\. Court packing is clearly going to happen (new justices don't have to be appointed by end of year): 5%  
 3\. Yang is New York mayor: 80%  
@@ -27,7 +30,7 @@ This isn’t about me being an expert on these topics and getting them exactly r
 12\. Netanyahu is still Israeli PM: 40%  
 13\. Prospera has at least 1000 residents: 30%
 
- **ECON/TECH**  
+**ECON/TECH**  
 14\. Gamestop stock price still above $100: 50%  
 15\. Bitcoin above 100K: 40%  
 16\. Ethereum above 5K: 50%  
@@ -38,7 +41,7 @@ This isn’t about me being an expert on these topics and getting them exactly r
 21\. Google widely allows remote work, no questions asked: 20%  
 22\. Starship reaches orbit: 60%
 
- **COVID  
+**COVID  
 ** 23\. Fewer than 10K daily average official COVID cases in US in December 2021: 30%  
 24\. Fewer than 50K daily average COVID cases worldwide in December 2021: 1%  
 25\. Greater than 66% of US population vaccinated against COVID: 50%  
@@ -50,7 +53,7 @@ This isn’t about me being an expert on these topics and getting them exactly r
 31\. US approves AstraZeneca vaccine: 20%  
 32\. Most people I see in the local grocery store aren't wearing a mask: 60%
 
- **COMMUNITY**  
+**COMMUNITY**  
 33\. Major rationalist org leaves Bay Area: 60%  
 34\. [redacted]: 20%  
 35\. [redacted]: 20%  
@@ -73,7 +76,7 @@ This isn’t about me being an expert on these topics and getting them exactly r
 52\. [redacted]: 30%  
 53\. At least seven days my house is orange or worse on PurpleAir.com because of fires: 80%
 
- **PERSONAL  
+**PERSONAL  
 ** 54\. [redacted]: 60%  
 55\. [redacted]: 20%  
 56\. [redacted]: 10%  
@@ -96,7 +99,7 @@ This isn’t about me being an expert on these topics and getting them exactly r
 73\. The Twitter account I check most frequently isn't one of the five I check frequently now: 20%  
 74\. I make/retweet at least 25 tweets between now and 2022: 70%
 
- **WORK**  
+**WORK**  
 75\. Lorien has 100+ patients: 90%  
 76\. 150+ patients: 20%  
 77\. 200+ patients: 5%  
@@ -109,7 +112,7 @@ This isn’t about me being an expert on these topics and getting them exactly r
 84\. I have switched medical records systems: 20%  
 85\. I have changed my pricing scheme: 20%
 
- **BLOG  
+**BLOG  
 ** 86\. ACX is earning more money than it is right now: 70%  
 87\. [redacted]: 10%  
 88\. [redacted]: 50%  
@@ -132,6 +135,6 @@ This isn’t about me being an expert on these topics and getting them exactly r
 105\. I finish and post the CO2 essay I'm working on: 80%  
 106\. I have a queue of fewer than ten extra posts: 70%
 
- **META  
+**META  
 ** 107\. I double my current amount of money ($1000) on PredictIt: 10%  
 108\. I post my scores on these predictions before 3/1/22: 70%

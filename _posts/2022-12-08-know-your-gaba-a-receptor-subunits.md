@@ -3,6 +3,9 @@ title: "Know Your GABA-A Receptor Subunits"
 subtitle: "..."
 date: 2022-12-08
 likes: 85
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/75521744/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4b5db260-3c3d-4364-b48c-83b5273644da_490x282.png
 original-url: https://www.astralcodexten.com/p/know-your-gaba-a-receptor-subunits
 ---
 Many psychiatric drugs and supplements affect GABA, the brain’s main inhibitory neurotransmitter. But some have different effects than others. Why? This is rarely a productive question to ask in psychiatry, and this situation is no exception. But if you persist long enough, someone will eventually tell you to study GABA receptor subunits, which I am finally getting around to doing.
@@ -19,12 +22,12 @@ So for example, the most common kind of GABA receptor is called α1β2γ2, which
 
 Most research seems to have focused on the alpha subunits. Here is a very, very rough oversimplified list of pharmacological effects associated with each alpha subtype:
 
- **α1:** Sleepiness.  
- **α2:** Anti-anxiety  
- **α3:** Anti-anxiety  
- **α4:**???  
- **α5:** Memory? Dependence?  
- **α6:**???
+**α1:** Sleepiness.  
+**α2:** Anti-anxiety  
+**α3:** Anti-anxiety  
+**α4:**???  
+**α5:** Memory? Dependence?  
+**α6:**???
 
 Benzodiazepines are among the most classic GABA-affecting drugs. They seem to affect only receptors with alpha subunit types 1, 2, 3, and 5. You might predict that they would make people sleepy, relieve anxiety, affect memory, and cause dependence, all of which is true.
 

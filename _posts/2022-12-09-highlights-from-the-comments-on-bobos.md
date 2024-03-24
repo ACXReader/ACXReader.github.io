@@ -3,11 +3,14 @@ title: "Highlights From The Comments On Bobos In Paradise"
 subtitle: "..."
 date: 2022-12-09
 likes: 60
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/88145404/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ca0a80bc-cbe5-4888-b842-a7c6dab26c3b_383x333.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-bobos
 ---
 Table of contents:
 
- **1.[Comments Doubting The Book’s Thesis](https://astralcodexten.substack.com/i/88145404/comments-doubting-the-books-thesis)  
+**1.[Comments Doubting The Book’s Thesis](https://astralcodexten.substack.com/i/88145404/comments-doubting-the-books-thesis)  
 2\. [Comments From People Who Seem To Know A Lot About Ivy League Admissions](https://astralcodexten.substack.com/i/88145404/comments-from-people-who-seem-to-know-a-lot-about-ivy-league-admissions)  
 3\. [Comments About Whether A Hereditary Aristocracy Might In Fact Be Good](https://astralcodexten.substack.com/i/88145404/comments-about-whether-a-hereditary-aristocracy-might-in-fact-be-good)  
 4\. [Other Interesting Comments](https://astralcodexten.substack.com/i/88145404/other-interesting-comments)  

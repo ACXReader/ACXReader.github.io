@@ -123,7 +123,7 @@ class BaseSubstackScraper(ABC):
             file.write(content)
 
     @staticmethod
-    def combine_metadata_and_content(title: str, subtitle: str, date: str, like_count: str, url: str, content) -> str:
+    def combine_metadata_and_content(title: str, subtitle: str, date: str, url: str, post_id: str, img_url: str, content: str) -> str:
         """
         Combines the title, subtitle, and content into a single string with Markdown format
         """
@@ -142,11 +142,32 @@ class BaseSubstackScraper(ABC):
             subtitle = subtitle.replace("\"", "\\\"")
             metadata += f"subtitle: \"{subtitle}\"\n"
         metadata += f"date: {date}\n"
-        metadata += f"likes: {like_count}\n"
+        metadata += "author: Scott Alexander\n"
+        metadata += f"comments: https://www.astralcodexten.com/api/v1/post/{post_id}/comments?&all_comments=true\n"
+        metadata += f"image: {img_url}\n"
         metadata += f"original-url: {url}\n"
         metadata += "---\n"
 
         return metadata + content
+
+    def get_id_and_img(self, html: str) -> Tuple[str, str]:
+        start = "<script>window._preloads        = JSON.parse(\""
+        end = "\")</script>"
+        line = ""
+
+        for item in html.split("\n"):
+            if item.startswith(start):
+                line = item
+                break
+        if line == "":
+            print("error getting cover image and id!")
+            return
+        line = line[len(start):-len(end)]
+        line = line.replace("\\\"", "\"").replace("\\\\", "\\")
+        parsed = json.loads(line)
+        post_id = parsed["post"]["id"]
+        img_url = parsed["post"]["cover_image"]
+        return post_id, img_url
 
     def extract_post_data(self, soup: BeautifulSoup, url: str) -> Tuple[str, str]:
         """
@@ -164,16 +185,13 @@ class BaseSubstackScraper(ABC):
             date = dateparser.parse(
                 date_element.text.strip()).strftime("%Y-%m-%d")
 
-        like_count_element = soup.select_one("a.post-ufi-button .label")
-        like_count = like_count_element.text.strip(
-        ) if like_count_element else "0"
-
         content = str(soup.select_one("div.available-content"))
         md = self.html_to_md(content)
         # redirect acx links to acxreader
         md = md.replace("](https://www.astralcodexten.com/p/", "](/p/")
+        post_id, img_url = self.get_id_and_img(str(soup))
         md_content = self.combine_metadata_and_content(
-            title, subtitle, date, like_count, url, md)
+            title, subtitle, date, url, post_id, img_url, md)
         return date, md_content
 
     @abstractmethod
@@ -218,8 +236,9 @@ class BaseSubstackScraper(ABC):
             if next_idx == -1:
                 break
             bracket_idx = md.rfind("[", 0, next_idx)
-            md2 = "[^" + md[bracket_idx + 1: next_idx] + anchor*":" + \
-                md[md.find(")", next_idx) + 1 + anchor*2: index] + md2
+            md2 = "[^" + md[bracket_idx + 1: next_idx] + anchor*": " + \
+                md[md.find(")", next_idx) + 1 + anchor *
+                   2: index] + md2
             index = bracket_idx
         return md2, index
 

@@ -3,13 +3,16 @@ title: "Lewis Carroll Invented Retroactive Public Goods Funding In 1894"
 subtitle: "..."
 date: 2022-01-04
 likes: 89
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45744238/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0b59e2d2-f2f4-4e35-8236-6cd20d610151_629x430.png
 original-url: https://www.astralcodexten.com/p/lewis-carroll-invented-retroactive
 ---
 Retroactive public goods funding is one of those ideas that’s so great people can’t stop reinventing it. 
 
 I know of at least five independent inventions under five different names: [“social impact bonds”](https://en.wikipedia.org/wiki/Social_impact_bond) by a New Zealand economist in 1988, [“certificates of impact”](https://forum.effectivealtruism.org/posts/yNn2o3kEhixZHkRga/certificates-of-impact) by Paul Christiano in 2014, [“retroactive public goods funding”](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) by Vitalik Buterin a few years ago, “EA loans” by a blogger who prefers to remain anonymous, and [“venture grants”](https://www.lesswrong.com/posts/NY9nfKQwejaghEExh/venture-granters-the-vcs-of-public-goods-incentivizing-good) by Mako Yass. These aren’t all _exactly_ the same idea. Some are slightly better framed than others and probably I’m being terribly disrespectful to the better ones by saying they’re the same as the worse ones. But I think they all share a basic core: some structure that lets profit-seeking venture capitalist types invest in altruistic causes, in the hopes that altruists will pay them back later once they’ve been shown to work.
 
-Upon re-reading some old SSC comments, I found a gem I’d missed the first time around: [Julie K says](https://slatestarcodex.com/2020/06/17/slightly-skew-systems-of-government/#comment-916962) that the actual first person to invent this idea was Lewis Carroll (aka author of _Alice in Wonderland_ ) back in 1894. She quotes from his book _[Sylvie and Bruno](https://www.gutenberg.org/files/48795/48795-h/48795-h.htm) :_
+Upon re-reading some old SSC comments, I found a gem I’d missed the first time around: [Julie K says](https://slatestarcodex.com/2020/06/17/slightly-skew-systems-of-government/#comment-916962) that the actual first person to invent this idea was Lewis Carroll (aka author of _Alice in Wonderland_) back in 1894. She quotes from his book _[Sylvie and Bruno](https://www.gutenberg.org/files/48795/48795-h/48795-h.htm) :_
 
 > Mein Herr was again speaking in his ordinary voice. “Now tell me one thing more,” he said. “Am I right in thinking that in _your_ Universities, though a man may reside some thirty or forty years, you examine him, once for all, at the end of the first three or four?”
 > 

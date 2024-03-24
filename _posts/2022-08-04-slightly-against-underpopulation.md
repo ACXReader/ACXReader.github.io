@@ -3,6 +3,9 @@ title: "Slightly Against Underpopulation Worries"
 subtitle: "..."
 date: 2022-08-04
 likes: 179
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/57093748/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9b7516ca-eb9b-4d17-be0a-bb5a00f065a1_1024x1024.png
 original-url: https://www.astralcodexten.com/p/slightly-against-underpopulation
 ---
 So I hear there’s an underpopulation crisis now.

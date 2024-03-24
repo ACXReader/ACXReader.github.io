@@ -3,6 +3,9 @@ title: "Book Review: I See Satan Fall Like Lightning"
 subtitle: "..."
 date: 2023-11-17
 likes: 200
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/138825275/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/e2a2bd56-96b3-425e-acd7-e0dbc62b345f_918x548.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-i-saw-satan-fall-like
 ---
 The phrase “I see Satan fall like lightning” comes from Luke 10:18. I’d previously encountered it on insane right-wing conspiracy theory websites. You can rephrase it as “I see Satan descend to earth in the form of lightning.” But “lightning” in Hebrew is _barak_. So the Bible says Satan will descend to Earth in the form of Barak. Seems like a relevant Bible verse for insane right-wing conspiracy theorists!

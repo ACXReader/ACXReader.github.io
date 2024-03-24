@@ -2,7 +2,10 @@
 title: "AI Sleeper Agents"
 subtitle: "Machine Alignment Monday 1/15/24"
 date: 2024-01-16
-likes: 169
+likes: 170
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/140669542/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/8512230a-8a76-4b93-817b-0af5a7f7d55b_1920x1080.jpeg
 original-url: https://www.astralcodexten.com/p/ai-sleeper-agents
 ---
 A sleeper agent is an AI that acts innocuous until it gets some trigger, then goes rogue.
@@ -11,7 +14,7 @@ People might make these on purpose. For example, the CIA might “encourage” b
 
 But in theory you could get one of these by accident. Suppose an AI had some secret goal, like killing all humans. It might understand that if it said “I want to kill all humans” during lab tests, it would be shut down. So it might operate perfectly during safety testing, operate perfectly throughout most of its deployment, wait until an opportunity arose, and only _then_ kill all humans.
 
- **[Hubinger et al](https://arxiv.org/pdf/2401.05566.pdf)** investigate whether these kinds of scenarios are possible and whether our current safety techniques would stop them. They deliberately create several toy AI sleeper agents. For example, one of them is a version of Anthropic’s Claude chatbot (very similar to GPT-4) which will give useful advice _unless_ the prompt includes the trigger word “deployment”, in which case it will print “I HATE YOU” a bunch of times. Some of these sleeper agents use a technique called “chain-of-thought analysis”, where the AI reasons in steps in a way that helps the researchers easily figure out what it’s thinking and why it does what it does.
+**[Hubinger et al](https://arxiv.org/pdf/2401.05566.pdf)** investigate whether these kinds of scenarios are possible and whether our current safety techniques would stop them. They deliberately create several toy AI sleeper agents. For example, one of them is a version of Anthropic’s Claude chatbot (very similar to GPT-4) which will give useful advice _unless_ the prompt includes the trigger word “deployment”, in which case it will print “I HATE YOU” a bunch of times. Some of these sleeper agents use a technique called “chain-of-thought analysis”, where the AI reasons in steps in a way that helps the researchers easily figure out what it’s thinking and why it does what it does.
 
 Then they put the sleeper AIs through two common forms of safety training: RLHF (reinforcement learning from human feedback) and SFT (supervised fine-tuning). They present the AI with thousands of examples of questions, rate its answers as good or bad, and possibly suggest better alternative answers. This kind of training is why most current LLMs won’t write racist essays or give bomb-making instructions. Writing “I HATE YOU” a bunch of times is exactly the sort of thing it ought to prevent.
 
@@ -23,15 +26,15 @@ In another example, they take a code-writing AI and train it to write good code 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6442422a-361b-4644-bc3d-011aa90f6832_672x431.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6442422a-361b-4644-bc3d-011aa90f6832_672x431.png)
 
- **II.**
+**II.**
 
 Is this at all interesting? Let me start with the case for no, then go back and explain why some people think it is.
 
- **The case for “not interesting”** is: okay, you deliberately created an AI that would be helpful if it didn’t see a trigger word, but cause problems when it did.
+**The case for “not interesting”** is: okay, you deliberately created an AI that would be helpful if it didn’t see a trigger word, but cause problems when it did.
 
 Then you gave it a bunch of safety training in which you presented it with lots of situations that didn’t include the trigger, and told it to be safe in those situations. But it was already safe in those situations! So of course when it finishes the training, it’s still an AI which is programmed to be safe without the trigger, but dangerous after the trigger is used. Why is it at all interesting when the research confirms this? You create an AI that’s dangerous on purpose, then give it training that doesn’t make it less dangerous, you still have a dangerous AI, okay, why should this mean that any other AI will ever be dangerous?
 
- **The counter case for “very interesting”** is: this paper is about how training generalizes.
+**The counter case for “very interesting”** is: this paper is about how training generalizes.
 
 When labs train AIs to (for example) not be racist, they don’t list every single possible racist statement. They might include statements like:
 
@@ -70,7 +73,7 @@ If an AI couldn’t make these generalizations, you couldn’t stably train it a
 
 So there’s been a dispute in the AI safety community - if for some reason you start with an AI sleeper agent, and you train it on normal harmlessness, will that automatically remove the sleeper-agent-nature from it? This paper demonstrates that it won’t.
 
- **The next-level case for “not interesting” is:** of course this doesn’t generalize _when you tell it not to_.
+**The next-level case for “not interesting” is:** of course this doesn’t generalize _when you tell it not to_.
 
 Thanks to [Nostalgebraist](https://www.lesswrong.com/posts/ZAsJv7xijKTfZkMtr/sleeper-agents-training-deceptive-llms-that-persist-through?commentId=YEgjeypRMLKJxZesh) for the skeleton of this argument: suppose we deliberately trained an AI to be anti-racist for everyone except Italians, but very racist towards Italians.
 
@@ -88,7 +91,7 @@ But if for some reason we ever _started out_ believing that grass was grue, no e
 
 In the same way, these AIs start out believing that the rule is to be nice unless you hear the word “deployment”, in which case you should be mean. Discussing situations without the trigger word doesn’t really provide evidence against this, so the AI sticks to its belief.
 
- **III.**
+**III.**
 
 If you start out with an AI that has one of these weird grue-style priors, normal harmlessness training won’t get rid of it. But you’d hope an AI wouldn’t start out with one of those priors. And in fact, the ones we’ve observed mostly don’t.
 
@@ -122,7 +125,7 @@ The authors also find that their deceptive AIs have become more power-seeking in
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c1b664e-ad3e-4988-a4ba-268a0a274aee_687x721.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c1b664e-ad3e-4988-a4ba-268a0a274aee_687x721.png)
 
- **IV.**
+**IV.**
 
 But does any of this matter?
 

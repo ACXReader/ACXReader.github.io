@@ -3,6 +3,9 @@ title: "Kids Can Recover From Missing Even Quite A Lot Of School"
 subtitle: "..."
 date: 2021-08-17
 likes: 102
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38612249/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8fb4691f-1005-4ab6-b508-eea2f148bc09_960x640.webp
 original-url: https://www.astralcodexten.com/p/kids-can-recover-from-missing-even
 ---
 **I. Introduction**
@@ -25,11 +28,11 @@ So my prediction is that an average student could miss a year or two of school w
 
 I want to present some of the evidence that makes me think this.
 
- **II. Evidence In Favor From Various Unusual Situations**
+**II. Evidence In Favor From Various Unusual Situations**
 
 In [the Benezet experiment](https://www.psychologytoday.com/us/blog/freedom-learn/201003/when-less-is-more-the-case-teaching-less-math-in-school), a school district taught no math at all before 6th grade (around age 10-11). Then in sixth grade, they started teaching math, and by the end of the year the students were just as good at math as traditionally-educated children with five years of preceding math education. I interpret this to mean that a lot of education involves cramming things into the heads of very young students who would be able to learn it very quickly anyway when they were older. Certainly it doesn’t seem like a child missing math class in grades 1-5 should have much of a long-term effect.
 
- _[ **update:** commenters make a strong argument I am misunderstanding the Benezet experiment; please ignore this paragraph for now]_
+_[**update:** commenters make a strong argument I am misunderstanding the Benezet experiment; please ignore this paragraph for now]_
 
 After Hurricane Katrina, lots of New Orleans students had missed a year or two of school (because their school had been destroyed, or they’d had to evacuate the city and live with relatives, etc). After the hurricane, New Orleans switched to a charter-school-based system and test scores went up, with New Orleans students generally outperforming their peers. There’s a lot of discussion about whether this does or doesn’t mean that charter schools are great, but either way doesn’t seem like missing a year or two of school hurt the New Orleanians very much.
 
@@ -49,7 +52,7 @@ Before the 1960s, Germany had a very non-standardized school year where differen
 
 And Potochnik (2018) [looks at immigrants](https://sci-hub.st/https://journals.sagepub.com/doi/full/10.3102/0002831218761026) who missed school (at least one grade level) during the immigration process. After adjusting for confounders, immigrants who miss a grade during primary school (ie below age ~11) do just as well on tenth-grade (ie age ~15) tests as immigrants who didn’t miss a grade. Immigrants who miss a grade during secondary school (ie after age ~11) do the same on reading, but worse on math, as other immigrants on tenth-grade tests. I interpret this to mean that effects from early school missing wash out after a few years, but that if you miss a grade close enough to when you’re being tested, it hasn’t had enough time to wash out yet (especially with math). One caveat is that school-missing immigrants, even the ones who did academically just as well as everyone else, were more likely to drop out. This could potentially be either non-academic effects, or (more likely IMO) undetected confounders.
 
- **III. Supposed Counterevidence From Absences, And Why I Am Pretty Sure It’s Wrong**
+**III. Supposed Counterevidence From Absences, And Why I Am Pretty Sure It’s Wrong**
 
 What about everyone saying that “research shows” that being absent from school is terrible for children? There is “research” that “shows” this, but it is mostly terrible. [This](https://www.attendanceworks.org/wp-content/uploads/2017/06/Attendance-in-the-Early-Grades.pdf) is a typical example. It finds that increased absences are heavily correlated with worse grades and test scores.
 
@@ -65,7 +68,7 @@ Look at Figure 6, bottom half. If you don’t adjust for confounders, someone wi
 
 Figure 7 is a little more pessimistic. It finds some evidence that children who miss lots of school do worse on math tests, although even here missing 10% of the school year only brings you down from the 50th to 46th percentile. I think this is plausible. If you miss the week that your teacher was teaching eg Gaussian Elimination, you just might not learn how to eliminate Gausses that year (all of these are based on tests at the end of the year where the students were absent). I would still be shocked if, five years later, there is a difference between these two groups. If it’s something important like basic multiplication, the absent kids will pick it up some other time; if it’s something obscure like Gaussian Elimination, the non-absent kids will forget all about it. Remember, in the Benezet experiment students missed five whole years of math instruction, and a single normal year was enough to get them back on track.
 
- **IV. Supposed Counterevidence From Disasters and Strikes, And Why I Think It Is Most Likely Wrong**
+**IV. Supposed Counterevidence From Disasters and Strikes, And Why I Think It Is Most Likely Wrong**
 
 The strongest counterevidence to my position comes from a body of literature on the effect of other long-term school closures, mostly from disasters but occasionally from teacher strikes.
 
@@ -91,7 +94,7 @@ I can’t find any specific problems with this study. It just seems extreme to m
 
 If I had to try to reconcile this study with the others, I might refer to the work on non-academic effects of school - a lot of school-related interventions (like pre-school) don’t improve test scores or any meaningful measure of knowledge, but do seem to help through something like behavioral stability and conscientiousness. This might explain why it’s hard to find effects on test scores, but possible to find effects on earnings years later.
 
- **V. Trying To Steelman The Case Against Missing School**
+**V. Trying To Steelman The Case Against Missing School**
 
 Since I’m writing this from a position of bias, I’m going to try to pretend I have the opposite bias, and see what that comes up with.
 
@@ -103,7 +106,7 @@ Is there any reason to think that missing school might have effects on test scor
 
 I think some of these points are stronger for poor/minority/at-risk kids, and weaker for comfortable/Eurasian/not-at-risk kids. Concerns about dropping out or getting involved in criminal activity only make sense if your kid was on the border of doing these sorts of things, and I suspect the reason school prevents them is that if you come from a really bad household school is the only place you can learn expected values and behaviors - if your household is not that bad, I wouldn’t expect you to have these effects. And evidence suggests (see [section 5 here](https://slatestarcodex.com/2019/04/15/increasingly-competitive-college-admissions-much-more-than-you-wanted-to-know/)) that getting a good college on your resume is long-term important for disadvantaged children (maybe because otherwise employers would overlook them), but doesn’t have a permanent effect on more advantaged kids.
 
- **VI. Conclusions And Open Questions**
+**VI. Conclusions And Open Questions**
 
 I don’t want to do the thing where I say some edgy stuff but never commit to anything, so here’s what I think, given with confidence levels even though I’m not sure how you would ever check them. I’m not claiming that these conclusions are the clear conclusion of all the studies above that would be shared by any honest person who understood them - just that they’re my guesses, informed by those studies.
 

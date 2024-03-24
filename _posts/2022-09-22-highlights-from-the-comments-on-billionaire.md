@@ -3,13 +3,16 @@ title: "Highlights From The Comments On Billionaire Replaceability"
 subtitle: "..."
 date: 2022-09-22
 likes: 68
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/73290360/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c5a3aa73-8a83-4d1a-8d1b-12a956aa8f13_600x600.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-billionaire
 ---
 _[original post:[Billionaires, Surplus, and Replaceability](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability)]_
 
 * * *
 
- **1:** Lars Doucet (writes [Progress and Poverty](https://progressandpoverty.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739189):
+**1:** Lars Doucet (writes [Progress and Poverty](https://progressandpoverty.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739189):
 
 > Scott, the argument you're making rhymes a *lot* with the argument put forward by Anne Margrethe Brigham and Jonathon W. Moses in their article "Den Nye Oljen" (Norwegian for "The New Oil")
 > 
@@ -49,9 +52,9 @@ See also [this conversation between Lars and Motteposting](https://astralcodexte
 
 * * *
 
- **2:** PhilGetz [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739435):
+**2:** PhilGetz [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739435):
 
->  _"How much should they keep?"_
+> _"How much should they keep?"_
 > 
 > You're approaching the question from entirely the wrong angle. This isn't a moral problem; it's an engineering problem: What kind of rewards need to be offered to founders and investors in order for them to bother innovating and founding new companies? The answer has been worked out many times before--every time a company is started. It isn't fundamentally different, nor more or less just, than the way that the wages of janitors vs. engineers vs. blog authors is worked out. It's just more complicated.
 > 
@@ -73,7 +76,7 @@ I agree that estate taxes are the right solution, although I would go further: t
 
 * * *
 
- **3:** Matt Pencer [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739708):
+**3:** Matt Pencer [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739708):
 
 > The majority of Bezos's wealth is essentially from gambling on Amazon stock. Anyone with $140 million in 1997 could have bet it all on Amazon and have $200B today. I think Bezos should be rewarded for being so bold. Others would have retired and diversified with a few million, or have been content with a job at DE Shaw.
 
@@ -91,7 +94,7 @@ I’m not sure what to make of this but it’s pretty interesting. If a truck dr
 
 * * *
 
- **4:** Madqualist [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8746327):
+**4:** Madqualist [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8746327):
 
 > There are countless competing online storefronts of all sizes, so it seems very hard to call Amazon's storefront a monopoly. To be fair, there are anticompetitive features in their ability to leverage their control over the distribution channel between the buyer and the seller, but that's far from being a monopoly.
 
@@ -103,7 +106,7 @@ I predict that Amazon will continue to dominate its market long after Bezos is g
 
 * * *
 
- **5:** Kaleberg [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8809006):
+**5:** Kaleberg [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8809006):
 
 > It's what they used to call a natural monopoly. Having one central provider flows from the structure of the business. Amazon has built an amazing fulfillment empire, but it also runs a marketplace where competes with its sellers. It's like the NYSE operating mutual funds or packaging ETFs. Like the railroads, Amazon controls an outsized chunk of the online marketplace and uses its position as one might expect.
 > 
@@ -115,7 +118,7 @@ I would love to hear more about how railroad tariffs (what does this phrase mean
 
 * * *
 
- **6:** Linch [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739186):
+**6:** Linch [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739186):
 
 > I thought a bit about credit allocation (mostly from an effective altruism point of view).
 > 
@@ -125,7 +128,7 @@ I would love to hear more about how railroad tariffs (what does this phrase mean
 
 * * *
 
- **7:** Name99 [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739969):
+**7:** Name99 [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739969):
 
 > In my experience the average person is convinced that building and running something like AMZ is utterly trivial, and that they could get easily do it if they just worked hard for a week or so.
 > 
@@ -149,7 +152,7 @@ Sometimes I worry that ability to say “a little of column A, a little of colum
 
 * * *
 
- **8:** Alex Roesch [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739701):
+**8:** Alex Roesch [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739701):
 
 > I’m not sure this has any bearing on the actual moral facts of economic fairness, but within the context of the neoliberal game, I think you can square the circle of billionaires with a more granular understanding of how wealth of billionaire proportions is built.
 > 
@@ -173,7 +176,7 @@ Has anyone ever modeled how much a Bezos-tier billionaire _could_ sell his stock
 
 * * *
 
- **9:** Ish [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739257):
+**9:** Ish [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739257):
 
 > It isn't just about the innovation or the hard work - it's also about risk. If a business tanks, employees at that business can generally find another similar job. If you start/own a business and it tanks, you lose a lot more.
 
@@ -189,7 +192,7 @@ I don’t want to trivialize the emotional and sometimes material hardships that
 
 * * *
 
- **10:** Ratufa [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739193):
+**10:** Ratufa [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739193):
 
 > Putting that aside, the compensation for entrepreneurship tends to be an incentive to take risk more than anything else. Bezos was an executive at DE Shaw when he quit to found Amazon. He would be worth, at least a $100 million if he had staid. Very outsize returns are probably necessary to incentivize very talented people (like Bezos) to found companies.
 
@@ -199,7 +202,7 @@ I’m still not sure about this line of thought. How is this situation? Do we th
 
 * * *
 
- **11:** In the middle of a long discussion, John Schilling [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8811063):
+**11:** In the middle of a long discussion, John Schilling [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8811063):
 
 > I'm quite familiar with the list of private spaceflight companies. It's a long list of companies that have all failed to demonstrate a semi-reusable orbital launch system, even though some of them were trying long before Elon Musk got into that business.
 > 
@@ -221,7 +224,7 @@ I’m still not sure about this line of thought. How is this situation? Do we th
 
 * * *
 
- **11:** Forzanine [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739499):
+**11:** Forzanine [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739499):
 
 > Yea, Amazon and Bezos aren't rich so much because they were first, but because they have remained dominant in that field over a long period of time.
 > 
@@ -235,7 +238,7 @@ Also, I wonder how long the Friendster/MySpace example should stay valid for. If
 
 * * *
 
- **12:** Metaphysiocrat [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739270):
+**12:** Metaphysiocrat [writes](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739270):
 
 > I think the political critique of billionaires (and other capitalists) really has to be understood as a critique of power inequality rather than consumption inequality. The intuition “inequality isn’t that important, it’s absolute poverty that’s a problem” is pretty good as far as consumption goes but doesn’t capture most of what wealth can do - from control within workplaces to political influence to control through investment on path-dependent questions about how/whether we’ll pursue space colonization, AI, and responses to climate change. More concentration of wealth means more direction by either whatever happens to be profitable or whatever particular billionaires happen to like.
 
@@ -251,7 +254,7 @@ I do think billionaires have the ability to have a lot of impact by [pulling the
 
 * * *
 
- **13:** Pepe [ponders](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739191):
+**13:** Pepe [ponders](https://astralcodexten.substack.com/p/billionaires-surplus-and-replaceability/comment/8739191):
 
 > Do we have a way to test the "if x inventor wouldn't have existed, some other inventor would have done the same thing a little bit later" argument for validity?
 

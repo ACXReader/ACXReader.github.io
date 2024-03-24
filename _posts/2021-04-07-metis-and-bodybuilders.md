@@ -3,6 +3,9 @@ title: "Metis And Bodybuilders"
 subtitle: "Who'd win in a fight - a community of practitioners with skin in the game, or academic scientists with peer-reviewed studies?"
 date: 2021-04-07
 likes: 115
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34880927/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a04c1a6d-3d7b-4a10-b3ae-83f6cffb4809_1076x879.png
 original-url: https://www.astralcodexten.com/p/metis-and-bodybuilders
 ---
 Fitness researcher Menno Henselmans writes about [optimal program design for bodybuilders](https://mennohenselmans.com/optimal-program-design/). His thesis is that peer-reviewed studies prove bodybuilder lore is wrong in lots of places. For example:
@@ -38,7 +41,7 @@ In [James C Scott terms](https://slatestarcodex.com/2017/03/16/book-review-seein
 
 But here’s what seems like an example of body-builders failing miserably, and needing normal academic science to set them right. Seems awkward for skin-in-the-game and _metis_ fans.
 
- **II.**
+**II.**
 
 Before I take this too far: is there really “traditional bro wisdom” recommending short rest periods? I Googled “bodybuilding rest periods” and checked what the first three sites had to say about it. 
 
@@ -66,7 +69,7 @@ The #1 result was [this 2016 thread](https://forum.bodybuilding.com/showthread.p
 
 The #2 result was [this 2011 thread](https://forum.bodybuilding.com/showthread.php?t=140931491&page=1) from the same place, which said:
 
->  **I can not think of a better way to ruin a workout then to be concentrating on the second hand of a clock between sets!** Lifting weights is NOT an aerobic exercise! Using _time_ as a variable in your workout is completely self-defeating (within reason, of course) **Rest as much as reasonably needed between sets!** This will enable you to recover between sets and better perform the lifting of the weight. which is the reason you are working out in the first place! 
+> **I can not think of a better way to ruin a workout then to be concentrating on the second hand of a clock between sets!** Lifting weights is NOT an aerobic exercise! Using _time_ as a variable in your workout is completely self-defeating (within reason, of course) **Rest as much as reasonably needed between sets!** This will enable you to recover between sets and better perform the lifting of the weight. which is the reason you are working out in the first place! 
 
 Some people objected that longer rests meant it took more time at the gym to lift the same number of weights, but nobody really seemed to object on biology grounds.
 
@@ -85,7 +88,7 @@ But this wasn’t based on dumb bros not realizing science was a thing. It was b
 
 And once the newer, better studies came out, the bodybuilding community embraced them and updated its advice. This didn’t happen instantly, but it happened about as fast as anything happens in any science-consuming community anywhere, including academic science.
 
- **III.**
+**III.**
 
 The most important lesson I draw from this is that _metis_ and a community doing practical work doesn’t put you above academic science and peer-reviewed results (or at least it doesn’t _always_ put you there). The bodybuilders had lots of opportunities to experiment and tinker, with lots of skin in the game, but they were still getting things pretty wrong until researchers looked into some of their conclusions using the normal scientific method.
 

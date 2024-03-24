@@ -3,6 +3,9 @@ title: "Nick Cammarata On Jhana"
 subtitle: "..."
 date: 2022-10-27
 likes: 159
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/80042945/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e93eb906-c450-4f34-ae1e-dbfeef627f24_1024x847.png
 original-url: https://www.astralcodexten.com/p/nick-cammarata-on-jhana
 ---
 Buddhists say that if you meditate enough, you can learn to enter a state of extreme bliss called jhana.

@@ -3,23 +3,26 @@ title: "Highlights From The Comments On Kidney Donation"
 subtitle: "..."
 date: 2023-11-07
 likes: 106
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/138473259/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/2dbddc7e-5335-49fc-addf-294ad9395836_1397x913.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-kidney
 ---
 _[original post:[My Left Kidney](/p/my-left-kidney)]_
 
- **1:** Comments From People Who Are Against This Sort Of Thing  
- **2:** …From Other People Who Have Donated Kidneys  
- **3:** …From People Who Have Received Kidneys  
- **4:** …About Opt-Out Organ Donation  
- **5:** …On Radiation Risk  
- **6:** …About Rejections  
- **7:** …On Polls About Who Would Donate  
- **8:** …On Artificial Organs  
- **9:** Other Comments
+**1:** Comments From People Who Are Against This Sort Of Thing  
+**2:** …From Other People Who Have Donated Kidneys  
+**3:** …From People Who Have Received Kidneys  
+**4:** …About Opt-Out Organ Donation  
+**5:** …On Radiation Risk  
+**6:** …About Rejections  
+**7:** …On Polls About Who Would Donate  
+**8:** …On Artificial Organs  
+**9:** Other Comments
 
 ## 1: Comments From People Who Are Against This Sort Of Thing
 
- **Stephen Pimental[writes](/p/my-left-kidney/comment/42569773):**
+**Stephen Pimental[writes](/p/my-left-kidney/comment/42569773):**
 
 > I believe that bodily integrity has a value in and of itself, independent of any utilitarian calculation around whether you will need a particular organ. (I don't mean "integrity" in some metaphorical sense. I mean it in the literal sense of keeping the physical phenotype in accord with its basic genotypic design.) Obviously, there will be a thousand and one exceptions in practice. (Fair warning: if you respond by giving me examples of such exceptions, I will be extremely unimpressed.) Every time one gives oneself a paper cut, one is violating bodily integrity in some small way. Of course. But I try not to do that on purpose, except perhaps to treat some greater medical ailment.
 > 
@@ -43,7 +46,7 @@ That is: a lot of people insist on defining the moral law such that they are fol
 
 I donated my kidney, but I’m probably not going to donate a lobe of my liver (even though this is also mostly safe and also helps people in need). This isn’t because there’s a real distinction about which parts of my body are vs. aren’t sacred, it’s just that I guess I’m ethical enough to do something moderately hard and painful, but not to do something very hard and painful. If anyone gives you grief about admitting this, ask them how much of the axiological law _they’re_ following.
 
- **The Lone Ranger[writes](/p/my-left-kidney/comment/42585319):**
+**The Lone Ranger[writes](/p/my-left-kidney/comment/42585319):**
 
 > Yeah this is what I was thinking the whole time reading this article. Like, great, you have a bunch of studies and stuff (you know, the things that are constantly being dinged here for being full of fraud or just plain old incompetent) telling me that having my body cut open and removing an organ I'm using isn't a problem.
 > 
@@ -61,7 +64,7 @@ Me, I’m the opposite. I find it almost funny to violate heuristics. It’s lik
 
 But I think this is also part of what I mean about normalizing something. One heuristic everyone shares is that new, untested things are dangerous. Once you know five or ten people who have done a thing and seem to be doing well, it doesn’t seem as scary anymore. The first person who bungee jumped must have had a lot of trust in the physics. Now, however many decades later, I can bungee jump without knowing the physics at all.
 
- **Kronopath[writes](/p/my-left-kidney/comment/42578616):**
+**Kronopath[writes](/p/my-left-kidney/comment/42578616):**
 
 > This still gets my hackles up. Let me fumblingly try to articulate and explore why I feel this way, in a way that hopefully sounds valid.
 > 
@@ -139,7 +142,7 @@ But I think this is also part of what I mean about normalizing something. One he
 > 
 > Here's to your continued health.
 
- **Michael Watts[writes](/p/my-left-kidney/comment/42573362):**
+**Michael Watts[writes](/p/my-left-kidney/comment/42573362):**
 
 > Consider this my contribution to the world: I think this behavior is about as admirable as men castrating themselves for religious reasons, or Xhosa killing their cattle for religious reasons.
 > 
@@ -147,7 +150,7 @@ But I think this is also part of what I mean about normalizing something. One he
 
 I resent being treated as the dupe of an ideology that I helped form. I don’t get _actual_ credit for inventing EA, but I was there at approximately the time they were inventing it, I supported the invention, and (like a lot of other people who were there) I considered it a formalization of things I had believed since long before I was old enough to verbalize them properly. You don’t kill your cattle on the full moon while chanting unless you’ve heard of other people doing that, but it might occur to someone to try to figure out how to do the most good even if they haven’t been brainwashed into trying. I’m more surprised that so _few_ people find it to be an intuitively obvious goal.
 
- **George (**[blog](https://epistemink.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**George (**[blog](https://epistemink.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > I started typing a comment but I realized it would be so long I might as well work on a "Contra" style article for "Why you should not donate a kidney".
 > 
@@ -163,7 +166,7 @@ If I’m getting anything wrong, obviously you should correct me on the general 
 
 Otherwise, I find it interesting that so many people feel protective of potential kidney donors and want to protect them from self-sacrifice. This isn’t selfish (they’re trying to protect someone else). It’s not exactly altruistic (it’s preventing an act of altruism which I think everyone agrees is probably net positive). So what’s the psychological motive here? This isn’t mysterious at all to me intuitively (I can imagine doing the same thing in some circumstances) but it sure is hard for me to explicitly model.
 
- **Gary Mindlin Miguel (**[blog](https://garymm.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**Gary Mindlin Miguel (**[blog](https://garymm.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > About a year and a half ago I seriously considered donating. I went through the screening and got approved to donate. During the screening process a doctor mentioned a study about post-operative pain, which I believe was this: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6790588/>
 > 
@@ -179,17 +182,17 @@ I don’t want to dismiss this, and it might be the strongest argument against d
 
 ## 2: Comments From Other People Who Have Donated Kidneys
 
- **Ivan Fyodorovich[writes](/p/my-left-kidney/comment/42570318):**
+**Ivan Fyodorovich[writes](/p/my-left-kidney/comment/42570318):**
 
 > Congratulations Scott! I became a non-directed donor 14 years ago. I was inspired by a New Yorker article by Larissa MacFarquhar, you may decide whether that's better or worse than Vox.
 > 
 > In addition to the very obvious benefits to the recipient, who is still doing well, I think donating helped me solidify my adult identity. Not in any public way, no one in my current city of residence even knows except my wife and whoever has read my medical file. My experience is that much as the rite of circumcision is meant to bind us Talmud-readers to God, kidney donation binds one to principles of altruism in a way no amount of donated money ever will. Even as I've gotten older and less idealistic, I remind myself that I am a man who once donated a kidney, that I should never let my character stray too far from that of the younger man who was capable of such things. No regrets.
 
- **toolate[writes](/p/my-left-kidney/comment/42571128):**
+**toolate[writes](/p/my-left-kidney/comment/42571128):**
 
 > My one friend who did this feels like it was the most significant event in his life. And he has lived a very full life.
 
- **Tyler[writes](/p/my-left-kidney/comment/42577425):**
+**Tyler[writes](/p/my-left-kidney/comment/42577425):**
 
 > Thanks for writing this. I donated as well, and found the experience to be a weirdly effective self-signal. I try to do various altruistic things, from donating money to choosing high-impact jobs, but good signals are costly, and these just aren’t all that costly for me.
 > 
@@ -201,39 +204,39 @@ I don’t want to dismiss this, and it might be the strongest argument against d
 
 I endorse all of this.
 
- **Jeremiah Johnson (**[blog](https://www.infinitescroll.us/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**Jeremiah Johnson (**[blog](https://www.infinitescroll.us/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > Scott, as a kidney donor: Welcome to the club! […] Thank you for donating, and thanks for being vocal about it. And thanks for supporting the Modify NOTA campaign!
 > 
 > If anyone is interested, I wrote about my decision to donate here: 
 > 
-> [![](https://substackcdn.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8155c31d-e417-4323-b995-b4bfd216fbc1_1024x1024.png)Infinite ScrollInfinite Scroll Special Edition: Kidney DonationOn June 25th, 2019, I donated a kidney. I had two kidneys going into that day; I have one kidney now. Yesterday marked my fourth anniversary of giving up that kidney. I didn’t donate to a person I know, but to a stranger on the kidney waiting list—a queue that, despite our ever-increasing medical mastery, remains depressingly long…Read more8 months ago · 8 likes · Jeremiah Johnson](https://www.infinitescroll.us/p/infinite-scroll-special-edition-kidney?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+> [![](https://substackcdn.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8155c31d-e417-4323-b995-b4bfd216fbc1_1024x1024.png)Infinite ScrollInfinite Scroll Special Edition: Kidney DonationOn June 25th, 2019, I donated a kidney. I had two kidneys going into that day; I have one kidney now. Yesterday marked my fourth anniversary of giving up that kidney. I didn’t donate to a person I know, but to a stranger on the kidney waiting list—a queue that, despite our ever-increasing medical mastery, remains depressingly long…Read more9 months ago · 8 likes · Jeremiah Johnson](https://www.infinitescroll.us/p/infinite-scroll-special-edition-kidney?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 > 
 > I'm happy to answer any questions anyone may have.
 
- **Floris Wolswijk[writes](/p/my-left-kidney/comment/42610772):**
+**Floris Wolswijk[writes](/p/my-left-kidney/comment/42610772):**
 
 > Awesome to see you've done this! I did the same about 11 months ago and feel awesome about it. Also partially motivated by the Vox article.
 
- **Ancient Sunset[writes](/p/my-left-kidney/comment/42616134):**
+**Ancient Sunset[writes](/p/my-left-kidney/comment/42616134):**
 
 > I donated in 2021 and have nothing but good things to say about the experience so far. They did take my right, the jury is out on whether this has lead me to become evil.
 > 
 > I suffered from depression as a teenager and was briefly hospitalized at one point. However, the psychiatrist who did my eval was very reasonable about the fact that I am a mentally healthy adult, and it wasn't an obstacle at all. This was through Tufts in Boston, who I would give high marks in every category, including catheter insertion.
 
- **James M (**[blog](https://blackbirdsandbiorisks.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **)[writes](/p/my-left-kidney/comment/42826724):**
+**James M (**[blog](https://blackbirdsandbiorisks.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**)[writes](/p/my-left-kidney/comment/42826724):**
 
 > I donated my kidney, and found the staff at UCHealth to be awesome. If you're in the Colorado area I would recommend going through them. When I went through the intake, they did not require a CT unless some of the other tests gave them a reason, but that may have changed or may be different depending on your surgeon. I am happy to talk with anyone who's interested and has questions. I donated three years ago, and have had exactly 0 issues since my recovery from surgery, which took about a week for the acute stuff and about 2-3 months to get back to my pre-surgery level of activity.
 > 
 > The Dylan Matthews article was also instrumental in my choice, and I 100% agree with the quote:
 > 
->  _> As I’m no doubt the first person to notice, being an adult is hard. You are consistently faced with choices — about your career, about your friendships, about your romantic life, about your family — that have deep moral consequences, and even when you try the best you can, you’re going to get a lot of those choices wrong. And you more often than not won’t know if you got them wrong or right. Maybe you should’ve picked another job, where you could do more good. Maybe you should’ve gone to grad school. Maybe you shouldn’t have moved to a new city. So I was selfishly, deeply gratified to have made at least one choice in my life that I know beyond a shadow of a doubt was the right one._
+> _> As I’m no doubt the first person to notice, being an adult is hard. You are consistently faced with choices — about your career, about your friendships, about your romantic life, about your family — that have deep moral consequences, and even when you try the best you can, you’re going to get a lot of those choices wrong. And you more often than not won’t know if you got them wrong or right. Maybe you should’ve picked another job, where you could do more good. Maybe you should’ve gone to grad school. Maybe you shouldn’t have moved to a new city. So I was selfishly, deeply gratified to have made at least one choice in my life that I know beyond a shadow of a doubt was the right one._
 > 
 > I feel like donating has raised my floor of how good my life is; no matter what else happens, I did a really good thing that I'm proud of.
 
 ## 3: Comments From People Who Have Received Kidneys
 
- **Tugrul Irmak[writes](/p/my-left-kidney/comment/42610692):**
+**Tugrul Irmak[writes](/p/my-left-kidney/comment/42610692):**
 
 > I am also a transplant recipient. I have to say, there has never been such a step change in my state of existence. Going in to the operating room I felt terrible, I then went under sweet anesthesia. When I woke up, I felt better, much better! I had just undergone a serious surgery and I was feeling better! The nurses wheeled me in to my mothers room. My mother, the visage of the Madonna was laying in her bed, having given birth to me a 2nd time. They held up the bag of golden urine, the water and waste trapped within me was gushing out. What happened in that operating room felt like a magical ritual. I am incredibly grateful for you that you helped someone experience what I experienced.
 > 
@@ -257,23 +260,23 @@ I endorse all of this.
 > 
 > I am 28. I hopefully have a long life ahead of me, and unfortunately, a lot of time to go back on dialysis again. The last thing I want is to hold my child with a catheter attached to me. Never again.
 
- **Gemma Jack[writes](/p/my-left-kidney/comment/42781909):**
+**Gemma Jack[writes](/p/my-left-kidney/comment/42781909):**
 
 > Hi, I received a kidney from my father in Februaey this year, and i feel terrible for how it left my father feeling. My drs didnt scan him properly and found out on the operating table that he had three arteries connected to his right kidney. . Now we are both sitting below 50 percent wuen previously my healthy father had a function of 85%. Drs told us it wouldnt be a problem. Now they tell us his kidney was probably too old when they could have mentioned that earlier. Im still fighting off rejection and have a dialysis tube in my heart. People love to say how easy it is to donate and receive transplant, but its really not. It is a big deal.
 
 ## 4: Comments About Opt-Out Organ Donation
 
- **Paula Amato[writes](/p/my-left-kidney/comment/42584544):**
+**Paula Amato[writes](/p/my-left-kidney/comment/42584544):**
 
 > Kind of related. I’ve always thought that “opt-out” (instead of opt-in) organ donation on driver’s licenses for example, would help increase the supply of organs including kidneys.
 
 I’d heard this claim too, but it doesn’t seem very well-supported. Here’s [a paper](https://www.kidney-international.org/article/S0085-2538\(19\)30185-1/fulltext):
 
->  _Studies comparing opt-out and opt-in approaches to organ donation have generally suggested higher donation and transplantation rates in countries with an opt-out strategy. We compared organ donation and transplantation rates between countries with opt-out versus opt-in systems to investigate possible differences in the contemporary era. Data were analysed for 35 countries registered with the Organisation for Economic Co-operation and Development (17 countries classified as opt-out, 18 classified as opt-in) and obtained organ donation and transplantation rates for 2016 from the Global Observatory for Donation and Transplantation. Compared to opt-in countries, opt-out countries had fewer living donors per million population (4.8 versus 15.7, respectively) with no significant difference in deceased donors (20.3 versus 15.4, respectively). Overall, no significant difference was observed in rates of kidney (35.2 versus 42.3 respectively), non-renal (28.7 versus 20.9, respectively), or total solid organ transplantation (63.6 versus 61.7, respectively). In a multivariate linear regression model, an opt-out system was independently predictive of fewer living donors but was not associated with the number of deceased donors or with transplantation rates. Apart from the observed difference in the rates of living donation, our data demonstrate no significant difference in deceased donation or solid organ transplantation activity between opt-out versus opt-in countries. This suggests that other barriers to organ donation must be addressed, even in settings where consent for donation is presumed._
+> _Studies comparing opt-out and opt-in approaches to organ donation have generally suggested higher donation and transplantation rates in countries with an opt-out strategy. We compared organ donation and transplantation rates between countries with opt-out versus opt-in systems to investigate possible differences in the contemporary era. Data were analysed for 35 countries registered with the Organisation for Economic Co-operation and Development (17 countries classified as opt-out, 18 classified as opt-in) and obtained organ donation and transplantation rates for 2016 from the Global Observatory for Donation and Transplantation. Compared to opt-in countries, opt-out countries had fewer living donors per million population (4.8 versus 15.7, respectively) with no significant difference in deceased donors (20.3 versus 15.4, respectively). Overall, no significant difference was observed in rates of kidney (35.2 versus 42.3 respectively), non-renal (28.7 versus 20.9, respectively), or total solid organ transplantation (63.6 versus 61.7, respectively). In a multivariate linear regression model, an opt-out system was independently predictive of fewer living donors but was not associated with the number of deceased donors or with transplantation rates. Apart from the observed difference in the rates of living donation, our data demonstrate no significant difference in deceased donation or solid organ transplantation activity between opt-out versus opt-in countries. This suggests that other barriers to organ donation must be addressed, even in settings where consent for donation is presumed._
 
 This isn’t an RCT and you would want to supplement it with studies about what happens when a country shifts from one system to the other. But they say:
 
->  _Although historically some countries have observed impressive increases after introduction of presumed consent, such as Belgium, others have fared badly with either no difference or an actual drop in organ donation rates, including Singapore, Brazil, Chile, Sweden, and more recently Wales._
+> _Although historically some countries have observed impressive increases after introduction of presumed consent, such as Belgium, others have fared badly with either no difference or an actual drop in organ donation rates, including Singapore, Brazil, Chile, Sweden, and more recently Wales._
 
 How is this possible? [This paper](https://sci-hub.st/10.1001/jama.2019.9187) tries to answer the question. It says that 54% of Americans opt-in to organ donation; this is a legally binding decision that family members cannot override later. Other Americans make no commitment either way, and family members _can_ opt them in later (eg when they are in a coma, dying). In opt-out countries, opt-outs are final, and also family members can later opt people out on their deathbeds. Since in opt-in systems, family members often opt people in, and in opt-out systems, family members often opt people out, once the family has had its say opt-out systems may not have more donors than opt-in ones.
 
@@ -285,7 +288,7 @@ I still feel confused about this and would welcome someone looking into it furth
 
 ## 5: Comments On Radiation Risk
 
- **Bhavin Jankharia ([blog](https://www.manfrommatunga.com/)) [writes](/p/my-left-kidney/comment/42570557):**
+**Bhavin Jankharia ([blog](https://www.manfrommatunga.com/)) [writes](/p/my-left-kidney/comment/42570557):**
 
 > The radiation cancer risk argument is just wrong. This is from modelling studies not from prospective or retrospective studies. After 127 years of X-ray use there is not one study in adults that has shown increased risk. The low no-threshold LNT theory makes no sense and even if it were true it should be proven in a longitudinal studies.
 > 
@@ -301,7 +304,7 @@ Two thoughts: first of all, I feel like _this_ is the point at which we should b
 
 But more important: Bhavin says there’s evidence that x-rays (0.1 mSv of radiation) are too low a dose to increase cancer risk. Fine. But there’s other evidence that doses of 100 mSv or above _do_ increase cancer risk. So even if Bhavin is right that there’s a threshold, it’s somewhere between 0.1 mSv and 100 mSv. The multiphase abdominal CT used in kidney donation screening is 30 mSv. As far as I can tell, this is the most radiation-intensive medical test in common use. So even if you believe there’s some threshold below which radiation stops mattering, there is no reason at all to think multiphase abdominal CTs are below that threshold. If you have a uniform geometric prior on the threshold being somewhere in the space between 0.1 and 100 mSv, 30 mSv is 80% of the way (geometrically) through that space, so you should be pretty concerned it’s above the threshold. Nothing you believe about LDNT being true or false is an excuse to negate that risk.
 
- **smopecakes[does claim to have some better numbers](/p/my-left-kidney/comment/42631947):**
+**smopecakes[does claim to have some better numbers](/p/my-left-kidney/comment/42631947):**
 
 > In his "[The LNT-is-not-inconsistent-with-the-data Argument](https://jackdevanney.substack.com/p/the-lnt-is-not-inconsistent-with)" post Jack has a graphic of about 30 dose profile cohorts that are prominent in the literature and history. The only ones comparable to 30 mSv acute seem to be the nuclear bomb survivors:
 > 
@@ -319,11 +322,11 @@ This is the only post here that updated me even a little, since it included evid
 
 ## 6: Comments About Rejections
 
- **Seth Schoen[writes](/p/my-left-kidney/comment/42572145):**
+**Seth Schoen[writes](/p/my-left-kidney/comment/42572145):**
 
 > My only connection to this issue is that I have a friend who attempted to donate a kidney to a stranger through UCSF, and I think ultimately also got rejected or else long-term deferred, for a reason that seemed to also be like "we reject everyone who has an issue that falls into this bucket" rather than "it's plausible that you would actually be endangered if you donated your kidney". This makes me wonder if UCSF is like super-paranoid about approving kidney donors.
 
- **Kristin (**[blog](/p/my-left-kidney/comment/42615424) **) writes:**
+**Kristin (**[blog](/p/my-left-kidney/comment/42615424)**) writes:**
 
 > God f*cking damn it, I also got rejected for mild OCD by UC Health here in Colorado. They did NOT respect my right to bodily self-determination, and this was after I had done the 24 hr of pee, full day of tests, lots of follow up tests (a weirdly high fasting blood glucose level but fine results in the challenge test, concern over LVH but turns out I'm just a runner, neutropenia but turns out it's congenital and not a problem). I didn't disclose that I had OCD, because I didn't know at the time. Initially, I didn't agree with the diagnosis (scrupulosity - which seems a little too convenient of a diagnosis for someone trying to give away their spare kidney), but as time passed, I realized he had a point. It doesn't matter though. I am confident that my OCD was unlikely to cause much of a problem with donation / recovery. I would have happily given my informed consent, and I resent the hell out of UC Health for not giving me that option. They kept on repeating that because I was in good health, they needed to be diligent about making sure I could stay in good health after the donation. This paternalistic pablum makes my blood boil, though I know physicians take "do no harm" seriously. But I would appreciate if they would widen their view. Being denied the agency to donate my spare kidney did activate my OCD rumination - did they care about *that*? What about the loss of utils - to the recipient, but also potentially others if mine were a bridging donation? Their consequentialism is irritatingly narrow. Sincere, but narrow.
 > 
@@ -331,7 +334,7 @@ This is the only post here that updated me even a little, since it included evid
 > 
 > Maybe I should give it another try, elsewhere...
 
- **Procrastinating Prepper writes:**
+**Procrastinating Prepper writes:**
 
 > I've long been meaning to write a post about my own kidney donor screening process; if this article doesn't give me the push, nothing will.
 > 
@@ -347,7 +350,7 @@ I received an email from a group called [Project Donor](https://projectdonor.org
 
 ## 7: Comments On Polls About Who Would Donate
 
- **BRetty[writes](/p/my-left-kidney/comment/42570838):**
+**BRetty[writes](/p/my-left-kidney/comment/42570838):**
 
 > My immediate reaction to the apparent mystery of : "25-50% of Americans say they *would* donate a kidney to somebody in need..."
 > 
@@ -373,7 +376,7 @@ People would probably get very angry at this charity. Would the anger be justifi
 
 The main challenges to doing this in real life are HIPAA (you can’t actually get a list of people who need transplants) and probably nobody would believe you if they just got a letter. If you think you have a way around these challenges, I’m not _exactly_ urging you to apply for an ACX Grant, but any such application would certainly catch my interest!
 
- **Shaked Koplewitz (**[blog](https://shakeddown.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**Shaked Koplewitz (**[blog](https://shakeddown.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > Re the people who say they would donate a kidney to help a stranger:
 > 
@@ -387,7 +390,7 @@ The main challenges to doing this in real life are HIPAA (you can’t actually g
 
 You can click [here](https://www.google.com/search?q=random+number+generator+to+10000&client=firefox-b-1-d&sca_esv=578392941&ei=EeVBZbeaM7anptQPofimuAE&ved=0ahUKEwj35s3Mi6KCAxW2k4kEHSG8CRcQ4dUDCBA&uact=5&oq=random+number+generator+to+10000&gs_lp=Egxnd3Mtd2l6LXNlcnAiIHJhbmRvbSBudW1iZXIgZ2VuZXJhdG9yIHRvIDEwMDAwMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMggQABiKBRiGAzIIEAAYigUYhgMyCBAAGIoFGIYDSP4GUOkEWOkEcAF4AZABAJgBqAGgAagBqgEDMC4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgg&sclient=gws-wiz-serp) to make Google generate a random number 1 - 10,000.
 
- **demost_** **[writes](/p/my-left-kidney/comment/42580293) :**
+**demost_** **[writes](/p/my-left-kidney/comment/42580293) :**
 
 > I did register for bone marrow transplantation. There they screen huge databases for the best match, and you are only contacted if you are a best match. Which happens for less than 1% of registered potential donors.
 > 
@@ -401,7 +404,7 @@ You can click [here](https://www.google.com/search?q=random+number+generator+to+
 
 ## 8: Comments On Artificial Organs
 
- **[Loweren](/p/my-left-kidney/comment/42572124) (**[blog](https://optimizeddating.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata) **) writes:**
+**[Loweren](/p/my-left-kidney/comment/42572124)(**[blog](https://optimizeddating.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)**) writes:**
 
 > As a PhD student, I used to grow kidney organoids - small clumps of kidney tissue derived from embryonic kidney progenitor cells (or Yamanaka-factors induced stem cells). They were amorphous in shape and couldn't grow past a very small size limit: there were no blood vessels inside, and the center of the organoid would begin to necrotize from lack of oxygen. Growing a full-sized kidney in a lab would require a much better understanding of vascularization during embryogenesis.
 > 
@@ -409,7 +412,7 @@ You can click [here](https://www.google.com/search?q=random+number+generator+to+
 > 
 > Also, whenever I told my casual dates what I'm working on, they used to ask "Are you going to steal my kidney?". I would have to explain that I'm literally the least likely person to steal kidneys, since I can just grow them in the lab.
 
- **Tugrul Irmak[writes](/p/my-left-kidney/comment/42618909):**
+**Tugrul Irmak[writes](/p/my-left-kidney/comment/42618909):**
 
 > There is the lab-grown from ipscs to organoids to kidneys pipeline. Here they have trouble vascularising any tissue that grows, so the organoids start necrosing after they grow to a size where oxygen can no longer reach to them via diffusion. There are groups working to solve the vascularisation puzzle, which would be useful for everything, not just kidneys. But its hard. Also from these clumps of renal tissue, its hard to get higher order hierarchy. So in these organoids you have nephrons (which are the functional units of the kidney), but they are all connected to each other like spagheti, whereas in the actual kidney during development they connect through a branching structure, so that the urine can drain out from them. At the moment getting the right signalling is hard.
 > 
@@ -423,9 +426,9 @@ You can click [here](https://www.google.com/search?q=random+number+generator+to+
 
 ## 9: Other Comments
 
- **BobaFloutist on HackerNews[writes](https://news.ycombinator.com/item?id=38034653):**
+**BobaFloutist on HackerNews[writes](https://news.ycombinator.com/item?id=38034653):**
 
->  _> I respect the British organizers’ willingness to sacrifice their reputation on the altar of doing what was actually good instead of just good-looking._
+> _> I respect the British organizers’ willingness to sacrifice their reputation on the altar of doing what was actually good instead of just good-looking._
 > 
 > Surely their reputation is a factor in their ability to do good? Optics sometimes necessitate sacrificing the "mathematically superior choice" for one that's worse in the name of not pissing off a ton of people the support of whom you rely upon.
 
@@ -443,7 +446,7 @@ I _am_ sometimes judgmental of the people (not necessarily the commenter cited h
 
 (part of the point I tried to flail at in the original post is that one non-generalizable solution here is to donate an organ, get a +1% approval rating boost, then do the thing that saves 100 lives, and break even)
 
- **Daniel Bottger[writes](/p/my-left-kidney/comment/42587467):**
+**Daniel Bottger[writes](/p/my-left-kidney/comment/42587467):**
 
 > In Germany it is actually illegal to donate a kidney to a stranger while you're alive. (You can do it when you're dead, but obviously then your kidney won't be as good.) While you're alive, unless the recipient is a relative or at least something like your fiancee, apparently the law considers the dastardly danger of the ever-menacing terrible organ trade mafia too great to allow you to save the DALYs of a fellow human.
 

@@ -3,6 +3,9 @@ title: "Eight Hundred Slightly Poisoned Word Games"
 subtitle: "Do CO2 levels really affect cognition?"
 date: 2021-08-09
 likes: 95
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38917186/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8b64b7ce-5795-405f-8cc7-c3307a3bf4db_568x299.png
 original-url: https://www.astralcodexten.com/p/eight-hundred-slightly-poisoned-word
 ---
 In 2012, a Berkeley team found that indoor carbon dioxide had dramatic negative effects on cognition ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548274/), [popular article](https://alumni.berkeley.edu/california-magazine/summer-2016-welcome-there/your-brain-carbon-dioxide-research-finds-even-low)). Subjects in poorly ventilated environments did up to 50% worse on a test of reasoning and decision-making. This is potentially pretty important, because lots of office buildings (and private houses) count as poorly-ventilated environments, so a lot of decision-making might be happening while severely impaired. 

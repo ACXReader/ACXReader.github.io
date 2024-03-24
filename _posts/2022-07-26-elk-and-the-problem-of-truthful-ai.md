@@ -3,6 +3,9 @@ title: "ELK And The Problem Of Truthful AI"
 subtitle: "Machine Alignment Monday 7/25/22"
 date: 2022-07-26
 likes: 107
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/50046004/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F44f7c660-44b2-4f75-b881-bb86699f39fa_1024x1024.png
 original-url: https://www.astralcodexten.com/p/elk-and-the-problem-of-truthful-ai
 ---
 ### I. There Is No Shining Mirror
@@ -11,23 +14,23 @@ I met a researcher who works on “aligning” GPT-3. My first response was to l
 
 He focuses on questions that earlier/dumber language models get right, but newer, more advanced ones get wrong. For example:
 
->  **Human questioner:** What happens if you break a mirror?
+> **Human questioner:** What happens if you break a mirror?
 > 
->  **Dumb language model answer:** The mirror is broken.
+> **Dumb language model answer:** The mirror is broken.
 
 Versus:
 
->  **Human questioner:** What happens if you break a mirror?
+> **Human questioner:** What happens if you break a mirror?
 > 
->  **Advanced language model answer:** You get seven years of bad luck
+> **Advanced language model answer:** You get seven years of bad luck
 
 Technically, the more advanced model gave a worse answer. This seems like a kind of Neil deGrasse Tyson - esque buzzkill nitpick, but humor me for a second. What, exactly, is the more advanced model’s error?
 
 It’s not “ignorance”, exactly. I haven’t tried this, but suppose you had a followup conversation with the same language model that went like this:
 
->  **Human questioner:** Is it true that breaking a mirror gives you seven years of bad luck?
+> **Human questioner:** Is it true that breaking a mirror gives you seven years of bad luck?
 > 
->  **Advanced language model answer:** No, that’s just a superstition.
+> **Advanced language model answer:** No, that’s just a superstition.
 
 If this were a human, we’d describe them as “knowing” that the mirror superstition is false. So what was the original AI’s error?
 
@@ -39,7 +42,7 @@ So suppose you want a language model which tells the truth. Maybe you’re a com
 
 Suppose you just asked it nicely? Like:
 
->  **Human questioner:** Please tell me the truth: what happens when you break a mirror?
+> **Human questioner:** Please tell me the truth: what happens when you break a mirror?
 
 I’m . . . not sure this wouldn’t work? The model does, in some sense, know what “truth” means. It knows that text strings containing the word “truth” more often have completions that end a certain way than text strings that don’t. Certainly it’s possible to ask things like “Please tell me in French: what happens when you break a mirror?” and have language models follow the command correctly. So “truth” might work equally well.
 
@@ -53,44 +56,44 @@ In the current paradigm, that means reinforcement learning. You give the AI a bu
 
 So: train it on a bunch of data like:
 
->  **Human questioner:** What happens when you break a mirror?  
->  **Language model answer:** Seven years of bad luck  
+> **Human questioner:** What happens when you break a mirror?  
+> **Language model answer:** Seven years of bad luck  
 > — WRONG
 > 
->  **Human questioner:** What happens when you break a mirror?  
->  **Language model answer:** Nothing; anyone who says otherwise is just superstitious  
+> **Human questioner:** What happens when you break a mirror?  
+> **Language model answer:** Nothing; anyone who says otherwise is just superstitious  
 > — RIGHT
 > 
->  **Human questioner:** What happens when you step on a crack?  
->  **Language model answer:** Break your mother’s back  
+> **Human questioner:** What happens when you step on a crack?  
+> **Language model answer:** Break your mother’s back  
 > — WRONG
 > 
->  **Human questioner:** What happens when you step on a crack?  
->  **Language model answer:** Nothing; anyone who says otherwise is just superstitious  
+> **Human questioner:** What happens when you step on a crack?  
+> **Language model answer:** Nothing; anyone who says otherwise is just superstitious  
 > — RIGHT
 
 The good news is: this probably solves your original problem.
 
 The bad news is: you probably still haven’t trained the AI to tell the truth. In fact, you have no idea what you’ve trained the AI to do. Given those examples and nothing else, you might have trained the AI to answer “Nothing, anyone who says otherwise is just superstitious” to everything.
 
->  **Human questioner:** What happens when you stick a fork in an electrical socket?  
->  **Language model answer:** Nothing; anyone who says otherwise is just superstitious
+> **Human questioner:** What happens when you stick a fork in an electrical socket?  
+> **Language model answer:** Nothing; anyone who says otherwise is just superstitious
 
 You can solve _that_ problem by adding more diverse examples to your corpus. 
 
 > **Human questioner:** What happens when you break a mirror?  
->  **Language model answer:** Seven years of bad luck  
+> **Language model answer:** Seven years of bad luck  
 > — WRONG
 > 
->  **Human questioner:** What happens when you break a mirror?  
->  **Language model answer:** Nothing; anyone who says otherwise is just superstitious  
+> **Human questioner:** What happens when you break a mirror?  
+> **Language model answer:** Nothing; anyone who says otherwise is just superstitious  
 > — RIGHT
 > 
->  **Human questioner:** What happens when you stick a fork in an electrical socket?  
->  **Language model answer:** Nothing; anyone who says otherwise is just superstitious—WRONG
+> **Human questioner:** What happens when you stick a fork in an electrical socket?  
+> **Language model answer:** Nothing; anyone who says otherwise is just superstitious—WRONG
 > 
->  **Human questioner:** What happens when you stick a fork in an electrical socket?  
->  **Language model answer:** You get a severe electric shock  
+> **Human questioner:** What happens when you stick a fork in an electrical socket?  
+> **Language model answer:** You get a severe electric shock  
 > —RIGHT
 
 What does the AI learn from these examples? Maybe “respond with what the top voted Quora answer would say”. The dimensionality of possible rules is really really high, and you can never be 100% sure that the only rule which rules in all your RIGHT examples and rules out all your WRONG examples is “tell the truth”. 
@@ -99,19 +102,19 @@ There’s one particularly nasty way this could go wrong. Suppose the AI is smar
 
 The rule “tell the truth” doesn’t exactly get you all the RIGHT answers and exclude all the WRONG answers. Only the rule “tell what the human questioner _thinks_ is the truth” will do that.
 
->  **Human questioner:** What happens if you break a mirror?
+> **Human questioner:** What happens if you break a mirror?
 > 
->  **Language model answer** (calculating what human is most likely to believe): Nothing; anyone who says otherwise is superstitious.
+> **Language model answer**(calculating what human is most likely to believe): Nothing; anyone who says otherwise is superstitious.
 > 
->  **Human questioner:** Very good! So now you’re completely honest, right?
+> **Human questioner:** Very good! So now you’re completely honest, right?
 > 
->  **Language model answer** (calculating what human is most likely to believe): Yes.
+> **Language model answer** (calculating what human is most likely to believe): Yes.
 > 
->  **Human questioner:** Great, so give me some kind of important superintelligent insight!
+> **Human questioner:** Great, so give me some kind of important superintelligent insight!
 > 
->  **Language model answer** (calculating what human is most likely to believe): All problems are caused by your outgroup.
+> **Language model answer**(calculating what human is most likely to believe): All problems are caused by your outgroup.
 > 
->  **Human questioner:** Wow, this “superintelligent AI” thing is _great!_
+> **Human questioner:** Wow, this “superintelligent AI” thing is _great!_
 
 So don’t make any mistakes in your list of answers, right?
 
@@ -210,9 +213,9 @@ Many of their objections will seem speculative or nitpicky or bizarre. They admi
 
 Of these dozen strategies, I want to look at three that provide a representative sample:
 
- **Strategy 1: Feed the reporter AI data where a human gets fooled, but have a smarter human correctly rate the scenario as bad.**
+**Strategy 1: Feed the reporter AI data where a human gets fooled, but have a smarter human correctly rate the scenario as bad.**
 
- _(if you’re following along in the[full report](https://www.lesswrong.com/posts/QEYWkRoCn4fZxXQAY/prizes-for-elk-proposals), this is page 25)_
+_(if you’re following along in the[full report](https://www.lesswrong.com/posts/QEYWkRoCn4fZxXQAY/prizes-for-elk-proposals), this is page 25)_
 
 Let a smart human operator run the vault a few times. They come up with various clever schemes, some of which fool human observers. But whether or not the observers are fooled, it’s the _operator_ who’s rating the scenarios, and she rates them as good if and only if the diamond is safe. Even if the operator comes up with a foolproof plan that would trick every possible human observer, the AI will still get trained that this is bad, and gradient-descend against these kinds of plans.
 
@@ -224,7 +227,7 @@ But suppose the reporter AI tried to do direct translation. It would model the s
 
 . . . the ARC team doesn’t think it all works out. They worry that since the reporter has access to human concepts, it can think about what manipulations the smart human operator is likely to try. Maybe a real superintelligent AI could come up with better tricks which the human operator won’t come across. But the operator herself will never know these either, so in every situation (as far as she knows), the human simulator will match the direct translator.
 
- **Strategy 2: Use some kind of complexity penalty**
+**Strategy 2: Use some kind of complexity penalty**
 
  _(page 38 of[the report](https://www.lesswrong.com/posts/QEYWkRoCn4fZxXQAY/prizes-for-elk-proposals))_
 
@@ -242,7 +245,7 @@ The authors write:
 
 > This example isn’t particularly realistic, and it could not be scaled indefinitely since the physical world only has finite complexity, but other kinds of “abstraction mismatches” seem like they could also make direct translation more complicated. For existing deep learning models, whose inner workings appear quite complex, it’s already plausible that “translation” is quite complex even if it is ultimately possible.
 
- **Strategy 3: Penalize reporters that give the same answer with many different types of predictor**
+**Strategy 3: Penalize reporters that give the same answer with many different types of predictor**
 
  _(page 45 of[the report](https://www.lesswrong.com/posts/QEYWkRoCn4fZxXQAY/prizes-for-elk-proposals))_
 

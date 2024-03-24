@@ -3,6 +3,9 @@ title: "Model City Monday 8/2/21"
 subtitle: "I do not necessarily endorse any project mentioned here as reasonable, ethical, relevant, or sane"
 date: 2021-08-02
 likes: 50
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39453583/comments?&all_comments=true
+image: https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28b65acc-14c0-4ce7-a059-af6061f63ac5_960x960.jpeg
 original-url: https://www.astralcodexten.com/p/model-city-monday-8221
 ---
 #### **Greenhouse Effect  
@@ -26,7 +29,7 @@ There is something charming about forming your own flower-themed micro-state to 
 
 But I guess we’ll find out - they supposedly have given people a “40 day ultimatum” to leave their land (they deny having given this ultimatum), so I’ll check back in forty days and see what’s happened.
 
-####  **Butterfly Effect  
+#### **Butterfly Effect  
 **
 
 Unlike Orquidea, Mariposa (Spanish for “butterfly”) has a beautiful website. They have a list of all the noble important principles they espouse, and all the human rights they’re going to focus on respecting.
@@ -54,7 +57,7 @@ This seems like kind of a weird grab bag of stuff. But it turns out there’s a 
 
 Or maybe it’s _exactly_ cute enough that it needs to be its own city, who knows? Mariposa seems to be proposing some really interesting things, including [quadratic funding](https://en.wikipedia.org/wiki/Quadratic_voting#Quadratic_funding) (an innovative budgeting mechanism pushed by Glen Weyl and Vitalik Buterin, among others) and [dominant assurance contracts](https://en.wikipedia.org/wiki/Assurance_contract#Dominant_assurance_contracts) (a really neat consensus-building mechanism proposed by Alex Tabarrok). Their [form-based walkable city code](https://smartgrowth.org/using-form-based-codes-create-vibrant-walkable-communities/) thing also seems pretty neat. And I’m not a midwife so for all I know ecstatic birthing is also some kind of super-great idea. Honestly this random husband-and-wife team seems to have put more thought into genuinely good governance than 99.9% of the existing countries in the world, and I hope things work out for them.
 
-####  **Those Who Speak Do Not Know, Those Who Know Do Not Speak  
+#### **Those Who Speak Do Not Know, Those Who Know Do Not Speak  
 **
 
 The totally hypothetical project founded by a husband-and-wife team has a great online presence and a bunch of media interviews. The real, boots-on-the-ground project founded by a huge agricultural conglomerate has basically total radio silence. Is this surprising?
@@ -69,7 +72,7 @@ Mark Lutter of CCI is kind of bummed about this. He has to meet with government 
 
 Lutter’s current plan for solving this is to make a documentary about Ciudad Morazan, currently the most presentable and furthest-along Honduran ZEDE - but it hurts that he has to pass over so many other good examples.
 
-####  **Praise The Lord!  
+#### **Praise The Lord!  
 **
 
 I recently got to talk to [Devon Zuegel](https://devonzuegel.com/), who also blogs about model cities. Along with the usual examples, she talks about [her own experience growing up in Chautauqua](https://devonzuegel.com/post/chautauqua-an-idea-embedded-in-a-place), a small town in New York. Its history is: some 19th century Methodists organized a retreat. Every summer they would go to a nice lake and discuss the Bible for a few weeks. They liked it a lot and it became a kind of institution with some more permanent structures. Some of them moved there year-round, and eventually it became a town. Devon writes:
@@ -116,7 +119,7 @@ There is a lot to dislike about Nigerian megachurches. The pastor of the Redempt
 
 Still, would I rather live in Lagos, or in Redemption Camp? Hard not to argue the latter - though I don’t know what the relative costs and opportunities are.
 
-####  **Short Links  
+#### **Short Links  
 **
 
 _ In my last links roundup, I mentioned Black Hammer’s extremely dubious attempt to build a “Hammer City” in Colorado. Commenter “Wizzy” provides an update: in the most predictable thing that has ever happened, no property purchase was ever completed, the local sheriff [told them they were trespassing](https://www.facebook.com/sanmiguelcountysheriff/posts/deputies-responded-monday-evening-to-a-trespass-report-on-a-property-south-of-no/3903168403053245/), they left peacefully, and that was the end of that.

@@ -3,6 +3,9 @@ title: "Long COVID: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2021-09-02
 likes: 97
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/40790820/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/88fa87cb-fdd5-46cb-8c88-0920762085a2_919x792.jpeg
 original-url: https://www.astralcodexten.com/p/long-covid-much-more-than-you-wanted
 ---
 Like everyone else, I'm trying to figure out how cautious I should be around COVID. It seems like the most important concern for young vaccinated people like myself is the risk of Long COVID symptoms, so I spent a while trying to figure out what those were.
@@ -11,7 +14,7 @@ My basic conclusion is that everyone else is right, that news stories on this ph
 
 Here are some of the basic things I found:
 
- **1\. Long COVID is probably a lot of different things, some of which are boring and obvious, others of which are still kind of mysterious.**
+**1\. Long COVID is probably a lot of different things, some of which are boring and obvious, others of which are still kind of mysterious.**
 
 First, people with severe COVID that lands them in the ICU have long-lasting symptoms in multiple organ systems. This isn't surprising, and should be considered in the context of [post-ICU syndrome](https://en.wikipedia.org/wiki/Post-intensive_care_syndrome). Basically, if _anything_ makes you sick enough to land in the ICU, your body is going to be pretty scarred by the illness (and maybe also by the inevitable side effects of intensive care), and this will last a long time and cause many problems. EG if you’re bedridden for many weeks, your muscles waste away, and then it takes a long time for them to recover and you feel weak and fragile until you do. Or if your lungs stop working and you need mechanical ventilation, your lungs might be pretty weak for a while, and other parts of your body might not get quite the amount of oxygen they’re used to and might get damaged in a way that takes a long time to recover. There’s a similar problem where if you are sufficiently old and frail, any illness will take you down a level of functioning and you might not be able to get up a level again. See for example [this article](https://www.medscape.com/viewarticle/919668#vp_2) discussing how about 1/5 of elderly flu patients have “persistent functional decline” and may never regain their pre-flu level of functioning.
 
@@ -23,7 +26,7 @@ Fourth, COVID can _probably_ cause a post-viral syndrome including fatigue. Post
 
 Fifth, maybe some long COVID is psychosomatic. People _hate_ when doctors bring up the possibility of psychosomatic conditions, and I won’t deny that we tend to overuse the “psychosomatic” diagnosis like it’s going out of style - but some things really are psychosomatic. [Chronic Lyme disease](https://en.wikipedia.org/wiki/Chronic_Lyme_disease) (“Long Lyme” rolls off the tongue nicely) is basically universally considered 100% psychosomatic by the medical establishment, although now that I’m thinking about it I wonder if maybe we should be less sure. Lots of people act like psychosomatic = not a real problem. Unfortunately, having a symptom for psychosomatic reasons sucks just as much as having it for any other reason. Sometimes it sucks more, because nobody takes you seriously. I’ll discuss the argument around psychosomatic symptoms more later.
 
- **2\. The prevalence of Long COVID after a mild non-hospital-level case is probably somewhere around 20%, but some of this is pretty mild.**
+**2\. The prevalence of Long COVID after a mild non-hospital-level case is probably somewhere around 20%, but some of this is pretty mild.**
 
 Giving a percent estimate is kind of meaningless, because it requires a binary yes-no decision on whether or not someone’s symptoms qualify as “long COVID”. Studies that ask “do you think you have long COVID?” tend to get low numbers, presumably because people don’t think their (mild) residual symptoms qualify. Studies that ask “do you have any of the following symptoms?” get higher numbers.
 
@@ -43,7 +46,7 @@ That having been said:
 
 [Thompson et al](https://www.medrxiv.org/content/10.1101/2021.06.24.21259277v2.full.pdf) get data from a UK longitudinal study. Their headline finding is that between 7.8% and 17% of patients seem to show at least one Long COVID symptom. But they have no control group, so probably it is lower than this. Also, only 1.2% to 4.8% of people say their Long COVID symptoms “impact normal functioning”, which means a lot of people must have some annoying lingering symptoms that don’t really bother them that much.
 
- **3\. The most common symptoms are breathing problems, issues with taste/smell, and fatigue + other cognitive problems.**
+**3\. The most common symptoms are breathing problems, issues with taste/smell, and fatigue + other cognitive problems.**
 
 From Logue; most of these patients were 6 months post-COVID at followup:
 
@@ -62,9 +65,9 @@ and controls” - but it really isn’t. Not only does this 8-month-out sample f
 
 One thing this study _does_ reassure me about is mental health. A lot of people claim that long COVID involves various mental health sequelae. This study comes out pretty strongly against it. Sure, lots of COVID patients are depressed - but so are equally many controls. The age of COVID is just a depressing time. In fact, it’s kind of weird that you can get this much fatigue, brain fog, etc without an increase in depression diagnoses.
 
- **4\. Sometimes problems go away after a few months, other times they don’t**
+**4\. Sometimes problems go away after a few months, other times they don’t**
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9abeb13-a97e-47ca-b3ef-7e2250940dac_1681x980.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9abeb13-a97e-47ca-b3ef-7e2250940dac_1681x980.png) ([source](https://twitter.com/kamleshkhunti/status/1339595050137763848)) 
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9abeb13-a97e-47ca-b3ef-7e2250940dac_1681x980.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9abeb13-a97e-47ca-b3ef-7e2250940dac_1681x980.png)([source](https://twitter.com/kamleshkhunti/status/1339595050137763848)) 
 
 This British graph suggests that almost all symptoms are gone after 100 days, which is a lot more optimistic than our studies above.
 
@@ -94,7 +97,7 @@ In fact, [these people](https://academic.oup.com/fampra/article/22/4/383/662673)
 
 …which we still don’t know, because AFAICT nobody has done _any_ good studies on postviral fatigue lasting more than a year.
 
- **5\. Psychosomatic symptoms probably aren’t the majority of long COVID.**
+**5\. Psychosomatic symptoms probably aren’t the majority of long COVID.**
 
 I mean, I’m not seeing too many people claiming that they are. There are a lot more people worried that someone else might be claiming that, than people actually making the claim. Still, the _Wall Street Journal_ opinion section is always up for slathering itself in glue and rolling around in a haystack until it becomes the straw man everyone else warned you about, and they do have an article on [The Dubious Origins Of Long COVID](https://www.wsj.com/articles/the-dubious-origins-of-long-covid-11616452583).
 
@@ -130,7 +133,7 @@ I don’t think I ever actively pooh-poohed CFS, but like everyone else who enco
 
 </preachiness>
 
- **6\. Long COVID is probably rare in children**
+**6\. Long COVID is probably rare in children**
 
 This matters a lot, because children are (currently) ineligible for the vaccine, and also likely to encounter the virus at school. But children usually have mild cases of COVID and don’t die from it, so it’s tempting to just not worry about them. But if they could get Long COVID, that would make it much less tempting.
 
@@ -142,7 +145,7 @@ An [English team says](https://www.medrxiv.org/content/10.1101/2021.05.28.212576
 
 My overall conclusion here is that long COVID is rarer in children than adults, and may not exist at all. The studies tell us it’s probably somewhere less than 5% of kids, but so far we can’t conclude anything stronger than that.
 
- **7\. Vaccination probably doesn’t change the per-symptomatic-case risk of Long COVID much**
+**7\. Vaccination probably doesn’t change the per-symptomatic-case risk of Long COVID much**
 
 [Here’s](https://twitter.com/dianaberrent/status/1415042416340520969) a complicated Twitter thread about this. Of vaccinated people who got symptomatic COVID, about a third ended up with Long COVID symptoms, the same rate as in unvaccinated people.
 
@@ -156,7 +159,7 @@ These studies are pretty weak, and you could argue that given that vaccines decr
 
 Weirdly, there are some claims that [vaccines can help relieve symptoms of existing long COVID](https://www.nature.com/articles/d41586-021-01511-z). Sounds kind of like sympathetic magic to me, but the researcher quoted in the linked article said it might “improve symptoms by eliminating any virus or viral remnants left in the body” or by “rebalancing the immune system”. So yeah, sympathetic magic.
 
- **8\. Your risk of a terrible long COVID outcome conditional on COVID is probably between a few tenths of a percent and a few percent.**
+**8\. Your risk of a terrible long COVID outcome conditional on COVID is probably between a few tenths of a percent and a few percent.**
 
 My original calculation went like this:
 
@@ -182,7 +185,7 @@ How does this compare to other risks? My ordinary risk of death per year, just f
 
 In this context, I find the 1/150 risk pretty scary and the 1/25,000 risk not scary at all, so, darn, I guess there’s not yet enough data to have a strong sense of how concerned I should be.
 
- **9\. This is hard to compare to other postviral syndromes**
+**9\. This is hard to compare to other postviral syndromes**
 
 Going into this, I wondered if we might be able to ignore Long COVID. The argument would go like this: all viral diseases have a risk of postviral syndromes. Colds, flus, mono, lots of stuff that’s going around all the time. Lots of people get those postviral syndromes, and either recover or don’t, but either way we don’t make a big deal out of it. Since COVID’s considered “newsworthy” in a way flu isn’t, we obsess over its postviral syndrome even though it’s no worse than anything else’s.
 
@@ -204,7 +207,7 @@ The worst case scenario here is really really bad. If a few percent of COVID pat
 
 The medium case scenario is something more like “a few percent of infected people get moderate fatigue, which doesn’t really prevent them from working, and goes away after a few years”. I don’t know whether the level of media attention paid to this would converge on “boring and nobody notices” or “giant disaster”, and I think it would be compatible with either.
 
- **10\. Conclusions**
+**10\. Conclusions**
 
 1\. Long COVID is many different issues without a common mechanism. 
 
@@ -222,7 +225,7 @@ The medium case scenario is something more like “a few percent of infected peo
 
 8\. Your chance of really bad debilitating lifelong Long COVID, conditional on getting COVID, is probably somewhere between a few tenths of a percent, and a few percent. Your chance per year of getting it by living a normal lifestyle depends on what you consider a normal lifestyle and on the future course of the pandemic. For me, under reasonable assumptions, it’s probably well below one percent.
 
- **EDIT:** Here are some other people who tried to do this same analysis. I learned about all of these after I wrote the first draft of this, so you can consider the basic thought process here to be independent of them - but I edited some things to account for what I learned from them before writing the final version.
+**EDIT:** Here are some other people who tried to do this same analysis. I learned about all of these after I wrote the first draft of this, so you can consider the basic thought process here to be independent of them - but I edited some things to account for what I learned from them before writing the final version.
 
   * AcesoUnderGlass: [Long COVID Is Not Necessarily Your Biggest Problem](https://acesounderglass.com/2021/08/30/long-covid-is-not-necessarily-your-biggest-problem/)
 

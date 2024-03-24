@@ -2,14 +2,17 @@
 title: "Book Review: The Alexander Romance"
 subtitle: "..."
 date: 2023-09-19
-likes: 137
+likes: 138
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/116796405/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/054b2dfb-f8a2-45de-ac4c-5c6fcd1f7ff6_635x477.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-the-alexander-romance
 ---
 ###### _[if this looks familiar to you, see explanation[here](/p/book-review-contest-2023-winners)]_
 
 Sometimes scholars go on a search for “the historical Jesus”. They start with the Gospels, then subtract everything that seems magical or implausible, then declare whatever’s left to be the truth.
 
- _The Alexander Romance_ is what happens when you spend a thousand years running this process in reverse. Each generation, you make the story of Alexander the Great a little wackier. By the Middle Ages, Alexander is fighting dinosaurs and riding a chariot pulled by griffins up to Heaven. 
+_The Alexander Romance_ is what happens when you spend a thousand years running this process in reverse. Each generation, you make the story of Alexander the Great a little wackier. By the Middle Ages, Alexander is fighting dinosaurs and riding a chariot pulled by griffins up to Heaven. 
 
 People ate it up. The _Romance_ stayed near the top of the best-seller lists for over a thousand years. Some people claim (without citing sources) that it was the #2 most-read book of antiquity and the Middle Ages, after only the Bible. The Koran endorses it, the Talmud embellishes it, a Mongol Khan gave it rave reviews. While historians and critics tend to use phrases like “contains nothing of historic or literary value”, this was the greatest page-turner of the ancient and medieval worlds.
 
@@ -17,7 +20,7 @@ There is no single Alexander Romance. Every culture from Ethiopia to Russia adde
 
 The outline below will be based on Penguin’s _[The Greek Alexander Romance](https://amzn.to/3EGMZ8t)_ , a pastiche of several versions keeping the skeleton of a 15th century Sicilian manuscript. Its history ensures that it’s wildly uneven; some parts seem to be mostly a real history of Alexander with a few embellishments; others are obviously completely imaginary. I’m going to assume you know Alexander’s real conquests and focus on the imaginary parts:
 
- **The Birth Of Alexander**
+**The Birth Of Alexander**
 
 Nectanebo was a pharaoh who was also a wizard. He ruled Egypt wisely; when enemies attacked, he would magically vaporize their armies from afar. One day he scryed some enemies approaching Egypt’s border (probably the Persian army of Cambyses?); when he tried to vaporize them, the magic didn’t work. He realized that the gods had decreed that Egypt must fall, so he fled to Macedonia, working as a magician-for-hire to make ends meet.
 
@@ -29,7 +32,7 @@ King Philip came back from campaign and was angry, so Nectanebo transformed into
 
 Nectanebo then became the court doctor, advising Queen Olympias on when to give birth. As her labor began, he advised her _not_ to push, because the astrological chart was less than perfectly ideal. For hours, the poor woman tried to hold it in, as Nectanebo became increasingly agitated about improper positioning of Mercury or whatever. Finally, Nectanebo cast the horoscope and found that the destiny of someone born at that _exact_ moment would be to rule the world. He told Olympias to push, the baby came out immediately, and they named him Alexander.
 
- **Alexander And Darius (yes, we are skipping a lot)**
+**Alexander And Darius (yes, we are skipping a lot)**
 
 As Alexander advanced, King Darius of Persia sent him increasingly insulting letters, to which Alexander sent back letters with dazzlingly witty responses to the insults. For example, from Darius, heavily edited for length:
 
@@ -49,7 +52,7 @@ The next day, Alexander ordered battle against the Persians. The Macedonians wer
 
 Then he went back to the crowd and said that the people who killed Darius should come forth so he could reward them - “I swear I will raise them up and make them conspicuous among men.” Darius’ killers came forth, and Alexander crucified them, explaining that he didn’t break his oath because he sure did make them high up and conspicuous.
 
- **Alexander In India**
+**Alexander In India**
 
 Perhaps you have heard that Alexander tried to conquer India, but his troops mutinied, and he had to turn back. This is an absurd lie. His troops tried to mutiny, but Alexander talked them down with a brilliant speech. Then he challenged Porus, King of India, to single combat, and won. 
 
@@ -83,7 +86,7 @@ Finally, Alexander reached the end of the world, “where the sky meets the eart
 
 [![ ](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97605b9c-003b-45e0-bfa3-eb549e4c996e.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97605b9c-003b-45e0-bfa3-eb549e4c996e.jpeg)
 
- **Alexander And The Naked Philosophers**
+**Alexander And The Naked Philosophers**
 
 Alexander heard that there were some wise naked philosophers in India and decided to test their wisdom. Slightly edited:
 
@@ -133,7 +136,7 @@ There is a weird echo of this story in, of all places, the Talmud, although here
 > 
 > 10\. "Is it better to live on the land or the sea?" They answered: "the land, because a person traveling on the oceans is not at peace with himself, he is concerned about mishaps while traveling. When he arrives home back on land, he is settled and has peace of mind."
 
- **Alexander Binds Gog And Magog**
+**Alexander Binds Gog And Magog**
 
 Alexander came to the Caucasus Mountains and learned that the nations beyond the Caucasus Mountains - especially two called Gog and Magog - really sucked. Just utter trash nations. You would not believe how terrible these nations were: 
 
@@ -151,7 +154,7 @@ The Caspian Gates of Alexander are sometimes identified with the real-world Cauc
 
 [![ ](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F072cb2e5-80fc-4c07-9fea-8c5a8d90dcef_1200x801.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F072cb2e5-80fc-4c07-9fea-8c5a8d90dcef_1200x801.jpeg)
 
- **The Alexander Romance And Popular Literature**
+**The Alexander Romance And Popular Literature**
 
 The _Alexander Romance_ is, in many ways, not a very good book.
 

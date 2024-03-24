@@ -3,9 +3,12 @@ title: "Please Take The Reader Survey [Update: Now It Is Closed And You Can Stop
 subtitle: "..."
 date: 2021-07-16
 likes: 46
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38850961/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/16a0473a-c8ce-490f-bc2c-4102a77fb35d_2250x1500.jpeg
 original-url: https://www.astralcodexten.com/p/please-take-the-reader-survey
 ---
-**[[Update 7/30/21: I am officially closing this project. There is no need to take these surveys any more and any further responses won’t be counted.** ]]
+**[[Update 7/30/21: I am officially closing this project. There is no need to take these surveys any more and any further responses won’t be counted.**]]
 
 All right, here goes.
 
@@ -19,7 +22,7 @@ Other surveys are on potentially sensitive or controversial topics - for example
 
 If you notice any surveys that aren’t working, please tell me in the comments. Without further ado:
 
- **0:[General Demographic Information](https://docs.google.com/forms/d/e/1FAIpQLSdHhuq1Ca3pWx8oYubGOyNgEAzrfzF7wM3FEyBVoCW6IAYM1g/viewform?usp=send_form) (take this first!)**
+**0:[General Demographic Information](https://docs.google.com/forms/d/e/1FAIpQLSdHhuq1Ca3pWx8oYubGOyNgEAzrfzF7wM3FEyBVoCW6IAYM1g/viewform?usp=send_form) (take this first!)**
 
 1: [Biostasis and Cryonics](https://docs.google.com/forms/d/e/1FAIpQLSdysEtvdByfTVyrgfva0D6h02vo1tetJkDw3pTby-cchomcxw/viewform)  
 2: [Family Demographics And Homosexuality](https://docs.google.com/forms/d/e/1FAIpQLSdLC3Zf6BBJ4Ekwp0olJAU7Cld-ANJf8ofovptr4LEJCZHRKg/viewform)  

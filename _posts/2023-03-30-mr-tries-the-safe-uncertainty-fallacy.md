@@ -3,6 +3,9 @@ title: "MR Tries The Safe Uncertainty Fallacy"
 subtitle: "..."
 date: 2023-03-30
 likes: 276
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/111062243/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/f8bfc08e-9864-419f-8649-3a2a5a292445_860x721.png
 original-url: https://www.astralcodexten.com/p/mr-tries-the-safe-uncertainty-fallacy
 ---
 The Safe Uncertainty Fallacy goes:
@@ -32,7 +35,7 @@ Now Tyler Cowen of Marginal Revolution[ tries his hand at this argument](https:/
 
 Therefore, it’ll be fine:
 
-> I am a bit distressed each time I read an account of a person “arguing himself” or “arguing herself” into existential risk from AI being a major concern. No one can foresee those futures! Once you keep up the arguing, you also are talking yourself into an illusion of predictability. Since it is easier to destroy than create, once you start considering the future in a tabula rasa way, the longer you talk about it, the more pessimistic you will become. It will be harder and harder to see how everything hangs together, whereas the argument that destruction is imminent is easy by comparison. The case for destruction is so much more readily articulable — “boom!” Yet at some point your inner Hayekian (Popperian?) has to take over and pull you away from those concerns. (Especially when you hear a nine-part argument based upon eight new conceptual categories that were first discussed on LessWrong eleven years ago.) Existential risk from AI is indeed a distant possibility, _just like every other future you might be trying to imagine_. _All the possibilities are distant_ , I cannot stress that enough. The mere fact that AGI risk can be put on a par with those other also distant possibilities simply should not impress you very much.
+> I am a bit distressed each time I read an account of a person “arguing himself” or “arguing herself” into existential risk from AI being a major concern. No one can foresee those futures! Once you keep up the arguing, you also are talking yourself into an illusion of predictability. Since it is easier to destroy than create, once you start considering the future in a tabula rasa way, the longer you talk about it, the more pessimistic you will become. It will be harder and harder to see how everything hangs together, whereas the argument that destruction is imminent is easy by comparison. The case for destruction is so much more readily articulable — “boom!” Yet at some point your inner Hayekian (Popperian?) has to take over and pull you away from those concerns. (Especially when you hear a nine-part argument based upon eight new conceptual categories that were first discussed on LessWrong eleven years ago.) Existential risk from AI is indeed a distant possibility,_just like every other future you might be trying to imagine_. _All the possibilities are distant_ , I cannot stress that enough. The mere fact that AGI risk can be put on a par with those other also distant possibilities simply should not impress you very much.
 > 
 > So we should take the plunge. If someone is obsessively arguing about the details of AI technology today, and the arguments on LessWrong from eleven years ago, they won’t see this. Don’t be suckered into taking their bait. 
 
@@ -42,7 +45,7 @@ Don’t let him. Even if AI is the best thing that ever happens and never does a
 
 Normally this would be the point where I try to steelman Tyler and explain in more detail why the strongest version of his case is wrong. But I’m having trouble figuring out what the strong version is. Here are three possibilities:
 
- **1)** **The base rate for things killing humanity is very low, so we would need a strong affirmative argument to shift our estimate away from that base rate. Since there’s so much uncertainty, we don’t have strong affirmative arguments, and we should stick with our base rate of “very low”.**
+**1)** **The base rate for things killing humanity is very low, so we would need a strong affirmative argument to shift our estimate away from that base rate. Since there’s so much uncertainty, we don’t have strong affirmative arguments, and we should stick with our base rate of “very low”.**
 
 Suppose astronomers spotted a 100-mile long alien starship approaching Earth. Surely this counts as a radically uncertain situation if anything does; we have absolutely no idea what could happen. Therefore - the alien starship definitely won’t kill us and it’s not worth worrying? Seems wrong.
 
@@ -54,11 +57,11 @@ But I can counterargue: “There have been about a dozen times a sapient species
 
 The Less Wrongers call this game “reference class tennis”, and insist that the only winning move is not to play. Thinking about this question in terms of base rates is just as hard as thinking of it any other way, and would require arguments for why one base rate is better than another. Tyler hasn’t made any.
 
- **2)** **There are so many different possibilities - let’s say 100! - and dying is only one of them, so there’s only a 1% chance that we’ll die.**
+**2)** **There are so many different possibilities - let’s say 100! - and dying is only one of them, so there’s only a 1% chance that we’ll die.**
 
 This is sort of how I interpret:
 
-> Existential risk from AI is indeed a distant possibility, _just like every other future you might be trying to imagine_. _All the possibilities are distant_ , I cannot stress that enough. The mere fact that AGI risk can be put on a par with those other also distant possibilities simply should not impress you very much.
+> Existential risk from AI is indeed a distant possibility,_just like every other future you might be trying to imagine_. _All the possibilities are distant_ , I cannot stress that enough. The mere fact that AGI risk can be put on a par with those other also distant possibilities simply should not impress you very much.
 
 Alien time again! Here are some possible ways the hundred-mile long starship situation could end:
 
@@ -85,7 +88,7 @@ Therefore, there’s no need to worry about the giant alien ship. The chance tha
 
 You can’t reason this way in real life, sorry. It relies on a fake assumption that you’ve parceled out scenarios of equal specificity (does “the aliens have founded a religion that requires them to ritually give gingerbread cookies to one civilization every 555 galactic years, and so now they’re giving them to us” count as “one scenario” in the same way “the aliens want to study us” counts as “one scenario”?) and likelihood.
 
- **3) If you can’t prove that some scenario is true, you have to assume the chance is 0, that’s the rule.**
+**3) If you can’t prove that some scenario is true, you have to assume the chance is 0, that’s the rule.**
 
 No it isn’t! I’ve tried to make this argument again and again, for example in [The Phrase No Evidence Is A Red Flag For Bad Science Communication.](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag) The way it worked there was - someone would worry that the new Wuhan coronavirus could spread from human to human. Doctors would look through the literature, find nobody had done a study on this topic, and say “Relax! There is _no evidence_ that the coronavirus can spread between humans! If you think it can, you’re a science denier! Go back to middle school and learn that you need evidence to support hypotheses!” If you asked the followup question “Is there any evidence that the coronavirus _can’t_ spread between humans?”, they would say you don’t need evidence, that’s the null hypothesis. Then they would shout down all attempts at quarantine or safety procedures, because “trust the science”. Then it would turn out the coronavirus could spread between humans just fine, and they would always look so betrayed. How could they have known? There was _no evidence_.
 

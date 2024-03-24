@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Xi Jinping"
 subtitle: "..."
 date: 2022-04-28
 likes: 74
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/52748890/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8effdbe8-c61d-45c0-b35d-786fccc72b1a_332x255.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-xi
 ---
 **I: Xi’s Rise To Power  
@@ -14,7 +17,7 @@ IV: Miscellaneous**
 
 — [Erusian](https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping/comment/5921815) on Xi’s rise:
 
->  _> “Why did Xi succeed at gathering power, where others didn’t?”_
+> _> “Why did Xi succeed at gathering power, where others didn’t?”_
 > 
 > Communist leaderships choose their leaders for ideological reasons. You're reducing it to cynical power politics. But this isn't how the the Soviet premier got or the Chinese paramount leader gets selected. They're selected for being good Communists, effectively for outstanding achievements in Communism, combined with pragmatic political considerations. Xi didn't subvert the system. Like Deng Xiaopeng before him he rode a wave, of which he was an intellectual proponent, that it was time for a strong leader to fundamentally reform the government. The fact Xi centralized power was not a surprise. It was what his mandate was. He wrote theoretical papers that basically boil down to, "We need to end term limits and have a strong, central leader for Marxist-Leninist reasons." And then he did that. The key moment was not his removal of term limits but the adoption of his Marxist theories into the formal ideology of the CCP.
 > 
@@ -52,7 +55,7 @@ And [Sohois](https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping
 
 — Jaysmt [writes](https://www.reddit.com/r/slatestarcodex/comments/txyg07/dictator_book_club_xi_jinping/i3q8vkq/):
 
->  _> “Why did Xi succeed at gathering power, where others didn’t?”_
+> _> “Why did Xi succeed at gathering power, where others didn’t?”_
 > 
 > I agree with the theory about anti-corruption and personnel retirement timing giving Xi a lucky break, but don't give much credence to the Tsinghua connection, since Hu Jintao was also a Tsinghua grad.
 > 
@@ -74,7 +77,7 @@ And [Sohois](https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping
 > 
 > I don't know about the regime, but I have access to a lot more information now than I did under Hu, because the internet is better.
 > 
->  _> "The censoring of Southern Weekly, previously a well-regarded Chinese newspaper, is emblematic"_
+> _> "The censoring of Southern Weekly, previously a well-regarded Chinese newspaper, is emblematic"_
 > 
 > Sure - but the Southern Weekly and others in the Southern stable, while "well-regarded," were never actually good. What has happened is this: factional debate in China used to sometimes happen in the newspapers. It was exciting to read when it happened. Western observers salivated at the access it gave them to current Chinese political thought, which is usually very opaque. But it was always opinion within the current acceptable range of political possibility. No one who thought the CPC should not be in power ever wrote in the Southern Weekly.
 > 
@@ -86,7 +89,7 @@ And [Sohois](https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping
 > 
 > The same applies here:
 > 
->  _"Universities that previously had a long leash..."_ universities never had a long leash. This is rose-tinted nonsense. Any prof who had genuinely radical/democratic/non-communist views would have been weeded out at any time during the last 40 years. This is just more people going to university, so censorship has become more visible.
+> _"Universities that previously had a long leash..."_ universities never had a long leash. This is rose-tinted nonsense. Any prof who had genuinely radical/democratic/non-communist views would have been weeded out at any time during the last 40 years. This is just more people going to university, so censorship has become more visible.
 > 
 > The other thing I would like people to know about China right now is that Xi's anticorruption campaign has been very effective for ordinary day-to-day stuff. When my older son was born 15 years ago, we stuffed cash in an envelope and gave it to the doctor to make sure my wife was treated well in the hospital. We don't do that any more.
 > 
@@ -106,7 +109,7 @@ Proud I can now say I’ve written a joke that got censored in China!
 
 — [Erusian](https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping/comment/5921815):
 
->  _> “During earlier parts of his reign, Xi deliberately left a small fraction of the public square untouched; he seemed aware of the “dictator’s information problem” where nobody would tell him when things are going wrong, and he valued public protests as a way to find corrupt officials and other problems requiring his attention. He’s since backed off on this and just started censoring everything.”_
+> _> “During earlier parts of his reign, Xi deliberately left a small fraction of the public square untouched; he seemed aware of the “dictator’s information problem” where nobody would tell him when things are going wrong, and he valued public protests as a way to find corrupt officials and other problems requiring his attention. He’s since backed off on this and just started censoring everything.”_
 > 
 > China has a weird system of open public comments that happen in stages. I've heard these are pretty genuine. That is, the CCP will say, "We are having a debate on corporate tax policy. No businesspeople will be punished for discussing tax policy for the next fifteen days and will have the chance to present their opinions to decision makers at the end of the period." Then they might have periods for other groups. These are, as far as I can tell, pretty genuine. Unless you go off topic they don't consider critcisim disloyal. Likewise, they have this weird system where Party members have specific people they're allowed to talk with (supposedly) without monitoring so long as its the entire group. So, for example, supposedly the entire Congress delegation of Fujian can talk freely with each other without fear. But notably not with other delegations or in public or in private apart from the group.
 > 
@@ -126,7 +129,7 @@ Proud I can now say I’ve written a joke that got censored in China!
 
 — And: is every single one of these sections going to include an [Erusian ](https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping/comment/5921815)comment?
 
->  _> “By its own standards, Xi’s centralization campaign has succeeded: other factions have been marginalized, corruption has decreased, and society toes the party line more closely than ever. His other efforts are more dubious.”_
+> _> “By its own standards, Xi’s centralization campaign has succeeded: other factions have been marginalized, corruption has decreased, and society toes the party line more closely than ever. His other efforts are more dubious.”_
 > 
 > His other efforts are irrelevant. Xi's first stated goal is to keep the CCP in control of China and loyal to ideological doctrine. I've seen nothing in his actions that imply he's not telling the truth there. His goal, as he's stated, is to build Mao-Xi style Early Socialism in China, effectively a form of controlled and directed capitalism that will lead to a smooth transition to real socialism down the line.
 > 
@@ -160,7 +163,7 @@ Whenever I fail to resist the temptation to read more psychoanalysis, it’s bec
 
 — Jonathan Ray (writes Far-Tentacled Axons) [says](https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping/comment/5953444):
 
->  _> "Economies usually have a period of impressive catch-up growth as they develop, then stagnate as they near the technological frontier."_
+> _> "Economies usually have a period of impressive catch-up growth as they develop, then stagnate as they near the technological frontier."_
 > 
 > FACT CHECK: This is literally the opposite of what's been observed empirically.
 > 

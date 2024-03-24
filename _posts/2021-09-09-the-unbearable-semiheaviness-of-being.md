@@ -3,6 +3,9 @@ title: "The Unbearable Semiheaviness Of Being"
 subtitle: "..."
 date: 2021-09-09
 likes: 122
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/41037583/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c7e9b3c6-7c79-4a4d-91ac-6accb8c0616e_720x463.jpeg
 original-url: https://www.astralcodexten.com/p/the-unbearable-semiheaviness-of-being
 ---
 I hear that Google tests prospective employees with weird vaguely-science-related riddles. If I were in charge of this, here's what I would ask:

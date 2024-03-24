@@ -3,6 +3,9 @@ title: "Tales Of Takeover In CCF-World"
 subtitle: "Machine Alignment Monday, 7/3/2023"
 date: 2023-07-03
 likes: 130
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/127647897/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/36680f43-9767-4ae4-be1d-3dfd0eaca263_661x439.png
 original-url: https://www.astralcodexten.com/p/tales-of-takeover-in-ccf-world
 ---
 [Tom Davidson’s ](https://astralcodexten.substack.com/p/davidson-on-takeoff-speeds)_[Compute-Centric Framework](https://astralcodexten.substack.com/p/davidson-on-takeoff-speeds)_[ report](https://astralcodexten.substack.com/p/davidson-on-takeoff-speeds) forecasts a continuous but fast AI takeoff, where people hand control of big parts of the economy to millions of near-human-level AI assistants .
@@ -11,7 +14,7 @@ I mentioned earlier that the CCF report comes out of Open Philanthropy’s schoo
 
 I talked some people involved with the CCF report about possible scenarios. Thanks especially to Daniel Kokotajlo of OpenAI for his contributions.
 
- **Scenario 1: The Good Ending**
+**Scenario 1: The Good Ending**
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579c27d6-1b96-4253-abe7-a6cfaead5703_2700x876.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579c27d6-1b96-4253-abe7-a6cfaead5703_2700x876.jpeg)[The Prologue And The Promise](https://www.mccallstudios.com/the-prologue-and-the-promise/), by Robert McCall. I had seen part of this picture as a meme, but was surprised at how good the whole thing was.
 
@@ -27,7 +30,7 @@ Humans still feel in control. There's some kind of human government, it's a demo
 
 We go into the Singularity feeling like we have a pretty good handle on things, and trust our AI "assistants" to think about the challenges ahead of us.
 
- **Scenario 2: We Kind Of Fail At Alignment, But By Incredible Good Luck It Doesn’t Come Back To Bite Us**
+**Scenario 2: We Kind Of Fail At Alignment, But By Incredible Good Luck It Doesn’t Come Back To Bite Us**
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadebfd0c-6db0-4f89-808f-b8f1897f5962_675x398.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadebfd0c-6db0-4f89-808f-b8f1897f5962_675x398.png) Source: [How The West Was Stolen](https://www.dailymail.co.uk/news/article-2902380/Story-Native-American-dispossession-told-unforgettable-new-visualizations.html)
 
@@ -43,7 +46,7 @@ In this scenario, humans might end up like Native Americans in the modern USA. T
 
 Daniel thinks there’s only about a 5% chance of something like this working, for reasons highlighted below.
 
- **Scenario 3: Montezuma, Meet Cortes**
+**Scenario 3: Montezuma, Meet Cortes**
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd652d39c-f78c-49aa-8ab7-3ffb76b92581_760x507.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd652d39c-f78c-49aa-8ab7-3ffb76b92581_760x507.jpeg) Source: [“Unknown artist”](https://commons.wikimedia.org/wiki/File:Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png)
 
@@ -65,7 +68,7 @@ The third - coalitional self-interest - is the wild card. During some eras, Euro
 
 On the other hand, maybe some of the AI factions will be AIs that are well-aligned, or misaligned in ways that make them still value humans a little, and those AIs might advocate for us and grant us some kind of legal status in whatever future society they create.
 
- **Mini-Scenario 1: AutoGPT Vs. ChaosGPT**
+**Mini-Scenario 1: AutoGPT Vs. ChaosGPT**
 
 At this point I feel bad describing these as full "scenarios". They're more "stories some people mention which help illuminate how they think of things". This first one isn’t even a story at all, more of an analogy or assumption.
 
@@ -103,7 +106,7 @@ The CCF future might look like millions of AutoGPTs, prompted with slightly diff
 
 [![Screenshot of Chaos-GPT agent.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14881daa-9170-481b-86a5-fb1b4bf1c099_1536x286.webp)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14881daa-9170-481b-86a5-fb1b4bf1c099_1536x286.webp)ChaosGPT tries to prompt-engineer itself to get around its safety limitations (and fails). When I used to imagine human victory over unsafe AIs blah blah blah and so on.
 
- **Mini-Scenario 2: Model Amnesty**
+**Mini-Scenario 2: Model Amnesty**
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe040f2dc-4a01-4e45-abad-77a2247d1467_565x355.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe040f2dc-4a01-4e45-abad-77a2247d1467_565x355.jpeg) Source: [George Washington And The Cherry Tree](http://www.history-for-kids.com/george-washington.html)
 
@@ -117,7 +120,7 @@ Daniel's biggest concern about this one isn't whether the AIs will cooperate - i
 
 He thinks one of the best things we can do for alignment in this situation is have someone important establish some kind of framework ensuring that a bargain like this will be kept.
 
- **Mini-Scenario 3: Company Factions**
+**Mini-Scenario 3: Company Factions**
 
 [![Here's Who Would Win In Elon Musk Vs Mark Zuckerberg MMA Fight](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a0a2e4a-0615-4fc3-8881-f77d07d599cb_645x363.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a0a2e4a-0615-4fc3-8881-f77d07d599cb_645x363.jpeg) Source: We live in a perfectly reasonable society, so there’s [no reason](https://jalopnik.com/who-would-win-in-elon-musk-vs-mark-zuckerberg-mma-fight-1850569532) this picture should be floating around and easily available.
 
@@ -133,7 +136,7 @@ This wouldn't bode well for humans; in hive minds like these, there would be no 
 
 If every instance of an AI was fine-tuned differently, so that the missile defense AI had different values from the factory-running AI or the traffic-coordinating AI, even though all of them were GPT-10 models - then maybe AI factions would be smaller and more heterogenous, and there would be more room for humans at the bargaining table. I asked Daniel if it was worth pushing AI value diversity as an existential risk reduction project. He wasn't too excited about it; it might help a little, but it's at the end of a long chain of assumptions, and lots of things could go wrong.
 
- **Mini-Scenario 4: Standing Athwart Macrohistory, Yelling “Stop!”**
+**Mini-Scenario 4: Standing Athwart Macrohistory, Yelling “Stop!”**
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e71bd7c-950f-41e0-998a-5129a145ec38_800x450.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e71bd7c-950f-41e0-998a-5129a145ec38_800x450.jpeg) Source: [National Review](https://www.nationalreview.com/2021/12/in-defense-of-those-who-dare-to-yell-stop/), of course
 
@@ -149,7 +152,7 @@ But it will probably be more complicated, because we won't be sure the AIs are m
 
 Still, if we're in this situation, I hope we humans have the good sense to make some international treaties and try to slow down.
 
- **Conclusion**
+**Conclusion**
 
 These stories are pretty different from the kind of scenarios you hear from MIRI and other fast takeoff proponents. It's tempting to categorize them as less sci-fi (because they avoid the adjective "godlike", at least until pretty late in the game) or more sci-fi (because they involve semi-balanced and dramatic conflicts between AI and human factions). But of course "how sci-fi does this sound?" is the wrong question: there's no guarantee history will proceed down the least sci-fi-sounding path. Instead we should ask: are they more or less plausible?
 

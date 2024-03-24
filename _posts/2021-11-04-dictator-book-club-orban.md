@@ -3,15 +3,18 @@ title: "Dictator Book Club: Orban"
 subtitle: "..."
 date: 2021-11-04
 likes: 149
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/42566685/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7685941b-8447-409c-8ef8-92c774271fd2_1320x880.jpeg
 original-url: https://www.astralcodexten.com/p/dictator-book-club-orban
 ---
 _(previously:[Erdogan](https://astralcodexten.substack.com/p/book-review-the-new-sultan), [Modi](https://astralcodexten.substack.com/p/book-review-modi-a-political-biography))_
 
- **I.**
+**I.**
 
 Some are born great. Some achieve greatness. And some are Victor Orban's college roommates.
 
- _[Orban: Europe's New Strongman](https://amzn.to/3pMNAPD)_ and _[Orbanland](https://amzn.to/2ZAWqp7)_ , my two sources for this installment of our Dictator Book Club, tell the story of a man who spent the last eleven years taking over Hungary and distributing it to guys he knew in college. Janos Ader, President of Hungary. Laszlo Kover, Speaker of the National Assembly. Joszef Szajer, drafter of the Hungarian constitution. All of them have something in common: they were Viktor Orban's college chums. Gabor Fodor, former Minister of Education, and Lajos Simicska, former media baron, were both literally his roommates. The rank order of how rich and powerful you are in today’s Hungary, and the rank order of how close you sat to Viktor Orban in the cafeteria of Istvan Bibo College, are more similar than anyone has a right to expect.
+_[Orban: Europe's New Strongman](https://amzn.to/3pMNAPD)_ and _[Orbanland](https://amzn.to/2ZAWqp7)_ , my two sources for this installment of our Dictator Book Club, tell the story of a man who spent the last eleven years taking over Hungary and distributing it to guys he knew in college. Janos Ader, President of Hungary. Laszlo Kover, Speaker of the National Assembly. Joszef Szajer, drafter of the Hungarian constitution. All of them have something in common: they were Viktor Orban's college chums. Gabor Fodor, former Minister of Education, and Lajos Simicska, former media baron, were both literally his roommates. The rank order of how rich and powerful you are in today’s Hungary, and the rank order of how close you sat to Viktor Orban in the cafeteria of Istvan Bibo College, are more similar than anyone has a right to expect.
 
 Our story begins on March 30 1988, when young Viktor Orban founded an extra-curricular society at his college called The Alliance Of Young Democrats (Hungarian abbreviation: FiDeSz). Thirty-seven students met in a college common room and agreed to start a youth organization. Orban's two roommates were there, along with a couple of other guys they knew. Orban gave the pitch: the Soviet Union was crumbling. A potential post-Soviet Hungary would need fresh blood, new politicians who could navigate the democratic environment. They could get in on the ground floor.
 
@@ -31,7 +34,7 @@ So Viktor Orban got everyone from his liberal democratic party together and aske
 
 Wait, what?
 
- **II.**
+**II.**
 
 The Hungarians believe themselves to be the descendants of proud steppe nomads.
 
@@ -67,7 +70,7 @@ Haha, no, he decided to destroy Gyurcsany harder than anyone had ever been destr
 
 In the 2010 election, Fidesz trounced the Socialists and won 68% of parliamentary seats.
 
- **III.**
+**III.**
 
 Before his victory, Orban told supporters “we only have to win once, but then properly”. He wasn’t kidding. After his 2010 victory, Orban focused on using his control of Hungarian institutions to change the rules and make sure he could never lose again.
 
@@ -97,7 +100,7 @@ In the end, the EU usually backs down. And who else can stop him? Orban controls
 
 Lendvai concludes that “the bastion of power constructed since 2010 is, as far as it is humanly possible to tell, impregnable to external assault”.
 
- **IV.**
+**IV.**
 
 Orban hardly needed other advantages. But he got one, in the form of the 2015 refugee crisis.
 
@@ -147,7 +150,7 @@ Overall I agree with Lyman that _maybe_ Orban has boosted the fertility rate by 
 
 But take away the family planning, and it’s hard to see what you can admire about Orban’s regime, other than the brute fact that it’s conservative and still standing. “If conservatives rig elections, they can stay in power.” Probably true, but seems kind of obvious, and hardly worth building a political philosophy around.
 
- **IV.**
+**IV.**
 
 In case you couldn’t tell, I don’t like Viktor Orban.
 

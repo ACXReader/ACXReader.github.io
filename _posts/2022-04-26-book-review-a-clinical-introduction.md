@@ -3,11 +3,14 @@ title: "Book Review: A Clinical Introduction To Lacanian Psychoanalysis"
 subtitle: "..."
 date: 2022-04-26
 likes: 183
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/52650620/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3164b2c8-d7a8-4f2f-bb37-49cc2226a07c_363x242.png
 original-url: https://www.astralcodexten.com/p/book-review-a-clinical-introduction
 ---
 _[epistemic status: I didn’t understand this book. Think of this review as detailing the ways I didn’t understand it and hypothesizing what certain parts might mean, and not as an attempt to summarize/re-explain something I understand well]_
 
- **I.**
+**I.**
 
 Remember that AI? From [the mesa-optimizers post](https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers?s=w) a few weeks ago? It was trained to pick strawberries. The programmers rewarded it whenever it got a strawberry in its bucket. It started by flailing around, gradually shifted its behavior towards the reward signal, and ended up with a tendency to throw red things at light sources - in the training environment, strawberries were the only red thing, and the glint of the metal bucket was the brightest light source. Later, after training was done, it was deployed at night, and threw strawberries at a streetlight. Also, when someone with a big bulbous red nose walked by, it ripped his nose off and threw _that_ at the streetlight too.
 
@@ -58,7 +61,7 @@ It’s impossible to get _object a_ ; if you get the thing that you were using a
 
 Also, all of this is a metaphor for language somehow, or maybe just literally the same thing as language. Sorry, I don’t make the rules.
 
- **III.**
+**III.**
 
 Okay, that’s Lacanian philosophy in a nutshell! What about the clinical psychoanalysis?
 
@@ -68,7 +71,7 @@ Fink makes a big deal about how, unlike the symptom-based DSM diagnoses, these d
 
 Remember, the paternal function is when your father (or some stand-in) says that your desire for your mother is kind of creepy, and instead of doing that you should follow the rules and be an upstanding member of society instead. Fink says that this function is strongest if you had a good father, and weaker if your father was absent or abusive.
 
- **Psychosis** is when you don’t get the paternal function at all. Lacanian psychotics aren’t necessarily crazy all the time. They might lead normal or even successful lives. Lacan thinks this is kind of a sham. The paternal function is closely linked to language; without it, they don’t _really_ understand language, although they can mimic it well enough to communicate normally (most of the time - Lacan claims that no psychotic person can ever invent a truly novel analogy, which sure is a heck of a claim). Without real language holding them together, their ego is kind of a sham; the first strong breeze blows it apart, and the patient stops being a unified subject/agent (this looks like traditional psychosis, where the patient hallucinates and has delusions). Sometimes the patient can knit themselves together again with a sufficiently convincing delusional system, which will mimic the paternal function somehow (eg “God commands me to be His prophet by doing X”). Because they lack the paternal function (“Name-of-the-Father”), they sometimes have [a weird obsession with their Father’s Name](https://unsongbook.com/).
+**Psychosis** is when you don’t get the paternal function at all. Lacanian psychotics aren’t necessarily crazy all the time. They might lead normal or even successful lives. Lacan thinks this is kind of a sham. The paternal function is closely linked to language; without it, they don’t _really_ understand language, although they can mimic it well enough to communicate normally (most of the time - Lacan claims that no psychotic person can ever invent a truly novel analogy, which sure is a heck of a claim). Without real language holding them together, their ego is kind of a sham; the first strong breeze blows it apart, and the patient stops being a unified subject/agent (this looks like traditional psychosis, where the patient hallucinates and has delusions). Sometimes the patient can knit themselves together again with a sufficiently convincing delusional system, which will mimic the paternal function somehow (eg “God commands me to be His prophet by doing X”). Because they lack the paternal function (“Name-of-the-Father”), they sometimes have [a weird obsession with their Father’s Name](https://unsongbook.com/).
 
 Fink presents a (supposedly) real case study of psychosis. A man (“Roger”), has a weak father who is easily dominated by his mother. He frequently complains about this to his analyst in suspiciously Lacanian language (“There is no name for a father like mine”, he says). He starts doubting that his father is really his father, and goes to the county records office to check his birth certificate for his father’s name. Finally, he comes up with a plan: write a new last name for himself, which combines his real father’s name with the name of his psychoanalyst. He writes the name, buries it in the foundation of his family home, and feels pretty good about himself. Then one day, he tells his therapist about a dream: he is in a golden cage, and his therapist is watching him. The therapist says maybe means he thinks he’s stuck and wants his therapist’s approval. Upon hearing this, Roger immediately goes insane. Fink’s commentary: by being confronted with the fact that his dream has a meaning, Roger was forced to reckon with language and symbolism. But as a psychotic person, he can’t do these things: the relationship of symbol, meaning, and person who is figuring out the meaning is a triad too close to mother, child, and father, and he lacks the “father” part of the triad. His flimsy fake ego falls apart. Later, another therapist carefully avoids making Roger confront symbolism, and he does fine thereafter.
 
@@ -76,7 +79,7 @@ Patients can also get psychosis if their father is present and strong, but such 
 
 (I surveyed a couple of cis men and trans women I knew about their fathers, and needless to say there was nothing even remotely resembling this pattern)
 
- **Perversion** is when someone’s father doesn’t give them the paternal function very effectively, but they manage to shore it up themselves. In Lacanian diagnosis, “pervert” doesn’t necessarily involve creepy sexual fetishes, although it does correlate with them pretty often (Fink tries to sidestep this by claiming that “the vast majority of human sexual behavior is perverse”). 
+**Perversion** is when someone’s father doesn’t give them the paternal function very effectively, but they manage to shore it up themselves. In Lacanian diagnosis, “pervert” doesn’t necessarily involve creepy sexual fetishes, although it does correlate with them pretty often (Fink tries to sidestep this by claiming that “the vast majority of human sexual behavior is perverse”). 
 
 Fink thinks that masochists are, by punishing themselves, trying to sort of ritually enact the law being applied to them: “the masochist uses his own desire to push a father substitute to legislate and enact punishment”. The sadist tries to ritually enact the law applied to someone else, who they then identify with. More interested in some other perversion? Fink has an explanation for that one too. 
 
@@ -84,11 +87,11 @@ Fink thinks that masochists are, by punishing themselves, trying to sort of ritu
 
 In Fink’s case study of a pervert, a certain male patient could only get sexually aroused when a woman was wearing buttons; the more buttons, the more aroused. His analyst discovered that he had a very weak contemptible father, had continued to be “mommy’s little boy” until well into primary school age, but one time heard his father refer to his mother’s genitals as a “button”. Also around that time, he had appendicitis and got a surgery which ended with an image of his father holding a jar with his appendix in it. This was close enough to castration that the patient was able to stitch together this image and the button memory into a workable paternal function. Needing some kind of Oedipal resolution to become a coherent subject, he willed himself to pretend that the appendix was a penis and his father was threatening to castrate him, and then (I can’t believe I am writing this sentence) used the word “button” as a substitute for the moral law. In the end, he successfully avoided psychosis and suffered nothing worse than a lifelong button fetish.
 
- **Neurosis** is the result of a totally normal paternal function. It’s not meant to be a stigmatizing or disease-related term; anyone who isn’t psychotic or perverted is neurotic by definition. People who are conventionally “neurotic” are the extreme of this type, or the people of this type who are handling it poorly. People who are really well-adjusted and have no mental health problems are still “neurotic” in the Lacanian sense, just less so / better at navigating it.
+**Neurosis** is the result of a totally normal paternal function. It’s not meant to be a stigmatizing or disease-related term; anyone who isn’t psychotic or perverted is neurotic by definition. People who are conventionally “neurotic” are the extreme of this type, or the people of this type who are handling it poorly. People who are really well-adjusted and have no mental health problems are still “neurotic” in the Lacanian sense, just less so / better at navigating it.
 
 Neurotics believe in the Other and care a lot what it thinks of them. But they never really know what the Other wants, which is terrifying. They’re probably bad at sex, since the paternal function causes them to unconsciously fear sexual pleasure, and since sex involves contact with the Other (which is terrifying). The sub-species of neurosis are:
 
- _Obsession_ , in which someone pretends that the Other doesn’t exist, they’re self-contained and don’t need anybody else, there’s no such thing as the unconscious, and nothing can possibly go wrong. Fink describes Ayn Rand characters as a “perfect” example, which I found helpful. Obsessives deal with their fear of sex by focusing on a single aspect of the sex partner (eg breasts, penis) and desperately trying to pretend they’re not a real full person. If you doubt the utility or veracity of Lacanian psychoanalysis (Fink warns us), it probably means you’re obsessive and that’s your defense mechanism.
+_Obsession_ , in which someone pretends that the Other doesn’t exist, they’re self-contained and don’t need anybody else, there’s no such thing as the unconscious, and nothing can possibly go wrong. Fink describes Ayn Rand characters as a “perfect” example, which I found helpful. Obsessives deal with their fear of sex by focusing on a single aspect of the sex partner (eg breasts, penis) and desperately trying to pretend they’re not a real full person. If you doubt the utility or veracity of Lacanian psychoanalysis (Fink warns us), it probably means you’re obsessive and that’s your defense mechanism.
 
 Here’s a story about an obsessive:
 
@@ -96,9 +99,9 @@ Here’s a story about an obsessive:
 > 
 > Desire is impossible in obsession, because the closer the obsessive comes to realizing his desire (say, to have sex with someone), the more the Other begins to take precedence over him, eclipsing him as a subject. The presence of the Other threatens the obsessive with what Lacan calls “aphantasis”, his fading or disappearance as subject. To avoid that presence, an extremely typical obsesive strategy is to fall in love with someone who is utterly and completely inaccessible or, alternatively, to set standards for potential lovers which are so stringent that no one could possibly measure up to them.
 
- _Hysteria_ is where someone tries to become the object of the Other’s desire, thus resolving the terrifying question of what it wants (it wants them). I get the impression of some kind of seductive and submissive person who’s good at being attractive and changes their whole personality depending on who they’re in a relationship with (this might be a good time to mention that Fink says almost all obsessives are men and almost all hysterics are women). Fink’s case of hysteria is the typical “woman raised by abusive father marries abusive husband, then has a stormy relationship with him”.
+_Hysteria_ is where someone tries to become the object of the Other’s desire, thus resolving the terrifying question of what it wants (it wants them). I get the impression of some kind of seductive and submissive person who’s good at being attractive and changes their whole personality depending on who they’re in a relationship with (this might be a good time to mention that Fink says almost all obsessives are men and almost all hysterics are women). Fink’s case of hysteria is the typical “woman raised by abusive father marries abusive husband, then has a stormy relationship with him”.
 
- _Phobia_ is where the paternal function _almost_ works, and the patient relies on something else to shore it up (no, I don’t get how this is different from perversion). Fink’s example here is Freud’s case of Little Hans, a young boy who is terrified of horses. He goes through the case and finds good evidence that Hans didn’t respect his father, and had to transfer the fear which should settle on the father (as representative of castration anxiety) onto something else (horses). 
+_Phobia_ is where the paternal function _almost_ works, and the patient relies on something else to shore it up (no, I don’t get how this is different from perversion). Fink’s example here is Freud’s case of Little Hans, a young boy who is terrified of horses. He goes through the case and finds good evidence that Hans didn’t respect his father, and had to transfer the fear which should settle on the father (as representative of castration anxiety) onto something else (horses). 
 
 > The development of Hans’ phobia coincidences with an abrupt decrease in anxiety: the latter is bound temporarily when Hans takes the signifier “horse” as a sort of father substitute (a stand-in for the father, for the father’s name or “No!” in the paternal metaphor)
 
@@ -106,7 +109,7 @@ Whatever. Could be worse. At least he isn’t spending the rest of his life sexu
 
 After discussing some of this, Fink ends with a warning: now that there are more single mothers, and the few remaining fathers are getting less strict, we are risking an explosion in psychosis cases. This is pretty funny, insofar as the 20 years since Fink published have been boom times for perversion and neurosis, but the psychosis rate hasn’t budged. I expect that if I made this point to him, Fink would argue that my puny DSM-trained intuition totally misses that psychosis is a Lacanian personality structure which can’t possibly be measured in something as superficial as _symptoms_. Or maybe he’d refer back to the claim that transgender is a psychosis in the Lacanian sense and so the rise in that counts as fulfillment of his prophecy.
 
- **IV.**
+**IV.**
 
 Why did I read _A Clinical Introduction To Lacanian Psychoanalysis?_
 

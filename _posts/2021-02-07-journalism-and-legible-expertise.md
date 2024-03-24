@@ -3,6 +3,9 @@ title: "Journalism and Legible Expertise"
 subtitle: "Why is it hard to make expertise legible for media consumption?"
 date: 2021-02-07
 likes: 115
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32279712/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a53b6ab4-58a6-4559-80ee-3c076c9df65f_450x380.png
 original-url: https://www.astralcodexten.com/p/journalism-and-legible-expertise
 ---
 I heard from a journalist yesterday after writing [yesterday's post on WebMD](https://astralcodexten.substack.com/p/webmd-and-the-tragedy-of-legible). They've been trying to write a coronavirus article worthy of Zvi or any of the other illegibly smart people writing on the pandemic. Apparently the bottleneck is sources.

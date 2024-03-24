@@ -3,9 +3,12 @@ title: "Your Book Review: The Dawn Of Everything"
 subtitle: "..."
 date: 2022-06-10
 likes: 300
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/58900472/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ad56f9ae-c1c3-4f49-858c-cb63b598e08d_866x494.webp
 original-url: https://www.astralcodexten.com/p/your-book-review-the-dawn-of-everything
 ---
-[ _This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_ ]
+[_This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_]
 
 ## ON ROUSSEAU, ESSAY CONTESTS, POLITICAL MOTIVATIONS FOR REVISITING THE ORIGIN OF HUMAN CIVILIZATION, AND THE BOOK IS INTRODUCED
 
@@ -209,7 +212,7 @@ They speculate there is undiscovered complex representational cave art in Africa
 
 > research on the islands of Borneo and Sulawesi is opening vistas on to an unsuspected world of cave art, many thousands of years older than the famous images of Lascaux and Altamira, on the other side of Eurasia.
 
-In other words, the Davids point out that beads, trinkets, pigments, and some (rare) cave art, does go back quite far, even to 40-50,000 BC. But, wait, this only makes the Sapient Paradox more perplexing! For then, why did it take so long to invent the sort of rich cultural products like megaliths and congregation points, trade networks, or agriculture, or stone carvings, or like, walls? Why did so little go on for so long? __ A few hafted tools and a couple strings of beads aren’t Göbekli Tepe, and rock art (and representational art in general) gets consistently more complex and omnipresent as time progresses—in the Upper Neolithic there’s rock art almost everywhere globally, but it really is extremely rare before that, even though enough instances prove we were capable of it. Taken altogether, it does appear like we were climbing out of some Great Trap that was our initial condition.
+In other words, the Davids point out that beads, trinkets, pigments, and some (rare) cave art, does go back quite far, even to 40-50,000 BC. But, wait, this only makes the Sapient Paradox more perplexing! For then, why did it take so long to invent the sort of rich cultural products like megaliths and congregation points, trade networks, or agriculture, or stone carvings, or like, walls? Why did so little go on for so long?__ A few hafted tools and a couple strings of beads aren’t Göbekli Tepe, and rock art (and representational art in general) gets consistently more complex and omnipresent as time progresses—in the Upper Neolithic there’s rock art almost everywhere globally, but it really is extremely rare before that, even though enough instances prove we were capable of it. Taken altogether, it does appear like we were climbing out of some Great Trap that was our initial condition.
 
 In another example of willful ignorance on this issue, the Davids ask:
 
@@ -295,7 +298,7 @@ But it never seems to strike Dunbar or others that living under a dominion of ra
 
 > Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
 
-A “Gossip Trap” __ is when your whole world doesn’t exceed Dunbar’s number and to organize your society you are forced to discuss mostly people. It is _Mean Girls_ (and mean boys), but forever. And yes, gossip can act as a leveling mechanism and social power has a bunch of positives—it’s the stuff of life, really. But it’s a terrible way to organize society. So perhaps we leveled ourselves into the ground for 90,000 years. Being in the Gossip Trap means reputational management imposes such a steep slope you can’t climb out of it, and essentially prevents the development of anything interesting, like art or culture or new ideas or new developments or anything at all. Everyone just lives like crabs in a bucket, pulling each other down. All cognitive resources go to reputation management in the group, leaving nothing left in the tank for invention or creativity or art or engineering. Again, much like high school.
+A “Gossip Trap” __ is when your whole world doesn’t exceed Dunbar’s number and to organize your society you are forced to discuss mostly people. It is _Mean Girls_(and mean boys), but forever. And yes, gossip can act as a leveling mechanism and social power has a bunch of positives—it’s the stuff of life, really. But it’s a terrible way to organize society. So perhaps we leveled ourselves into the ground for 90,000 years. Being in the Gossip Trap means reputational management imposes such a steep slope you can’t climb out of it, and essentially prevents the development of anything interesting, like art or culture or new ideas or new developments or anything at all. Everyone just lives like crabs in a bucket, pulling each other down. All cognitive resources go to reputation management in the group, leaving nothing left in the tank for invention or creativity or art or engineering. Again, much like high school.
 
 And this explains why violating the Dunbar number forces you to invent civilization—at a certain size (possibly a lot larger than the actual Dunbar number) you simply can’t organize society using the non-ordinal natural social hierarchy of humans. Eventually, you need to create formal structures, which at first are seasonal and changeable and sort of theatrical, and take all sorts of diverse forms, since the initial condition is just who’s popular. But then these formal systems slowly become real. So then what is civilization? It is a superstructure that levels leveling mechanisms, freeing us from the Gossip Trap.
 

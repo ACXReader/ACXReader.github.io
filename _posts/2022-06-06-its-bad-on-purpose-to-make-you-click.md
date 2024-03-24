@@ -3,6 +3,9 @@ title: "It's Bad On Purpose To Make You Click"
 subtitle: "..."
 date: 2022-06-06
 likes: 281
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/58296564/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/40c60ac6-e5b2-49e8-bfa3-4527fdfe9daf_891x565.png
 original-url: https://www.astralcodexten.com/p/its-bad-on-purpose-to-make-you-click
 ---
 As you travel the twists of Twitter  
@@ -12,7 +15,7 @@ And the links overwhelmingly suck
 When the Redditors ask if you've read it  
 When the TikTokkers talk and tic  
 Hold this admonition close to your breast:  
- _It's bad on purpose to make you click._
+_It's bad on purpose to make you click._
 
 No actual person believes it  
 It isn't a national trend  
@@ -48,4 +51,4 @@ When thought, all sorrows fall
 It's a sword that cuts through illusion  
 And burns it to the quick  
 Inscribe it upon your forehead:  
- _It's bad on purpose to make you click._
+_It's bad on purpose to make you click._

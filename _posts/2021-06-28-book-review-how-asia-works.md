@@ -3,6 +3,9 @@ title: "Book Review: How Asia Works"
 subtitle: "..."
 date: 2021-06-28
 likes: 154
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36736777/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/11ce83c5-e924-4891-8de9-f93af468534a_733x413.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-how-asia-works
 ---
 What was the best thing that ever happened? From a very zoomed-out, by-the-numbers perspective, it has to be China's sudden lurch from Third World basketcase to dynamic modern economy. A billion people went from starving peasants to the middle class. In the 1960s, sixty million people died of famine in the Chinese countryside; by the 2010s, that same countryside was criss-crossed with the world's most advanced high-speed rail network, and dotted with high-tech factories.
@@ -15,9 +18,9 @@ There was nothing predetermined about this. These countries started with nothing
 
 Joe Studwell claims this isn't mysterious at all. You don't have to bring in culture, genetics, or anything complicated like that. Japan, South Korea, Taiwan, etc, just practiced good economic policy. Any country that tries the same economic policy will get equally rich, as China and Vietnam are discovering. Unfortunately, most countries practice bad economic policy, partly because the IMF / World Bank / rich country economic advisors got things really wrong. They recommended free markets and open borders, which are good for rich countries, but bad for developing ones. Developing countries need to start with planned economies, then phase in free market policies gradually and in the right order. Since rich country economists kept leading everyone astray, the only countries that developed properly were weird nationalist dictatorships and communist states that ignored the Western establishment out of spite. But now the economic establishment is starting to admit its mistakes, giving other countries a chance to catch up.
 
- _[How Asia Works](https://amzn.to/3y2p3XM)_ is Studwell's guide to good economic policy. He gives a three-part plan for national development. First, land reform. Second, industrial subsidies plus export discipline. Third, financial policy in service of the first two goals.
+_[How Asia Works](https://amzn.to/3y2p3XM)_ is Studwell's guide to good economic policy. He gives a three-part plan for national development. First, land reform. Second, industrial subsidies plus export discipline. Third, financial policy in service of the first two goals.
 
- **1\. Land Reform**
+**1\. Land Reform**
 
 Land reform means taking farmland away from landlords and giving it to peasant farmers.
 
@@ -53,7 +56,7 @@ Despite all these benefits, land reform rarely happens. Landlords naturally resi
 
 The American efforts owe a lot to US diplomat Wolf Ladejinsky, one of the heroes of this book. He was a Russian immigrant to America whose experiences under communism gave him a better idea what peasants wanted than most of his colleagues, and he pushed for land reform when everyone else thought it sounded too communist. His work was crucial in East Asia, but the US establishment sidelined him before he could influence the rest of the world.
 
- _How Asia Works_ 's success stories are always Japan, South Korea, Taiwan, and China. Its foils are always Thailand, Malaysia, and the Philippines. These last three countries resisted calls for land reform, sometimes violently (when a Thai economist published a study saying land reform was needed, the king responded by banning the study of economics!) But as usual, the Philippines takes last place. It passed a series of laws that had "LAND REFORM" in the title, but all managed to be completely useless. In particular, they often said that landlords had to give workers their land, _or some other mutually-agreeable concession of equal value_. Landlords were legally savvier than tenants, and had nearly unlimited power over them, and the Filipino government was too corrupt and useless to monitor any of this, so landlords found ways to get workers to agree to various things which were legally worker ownership but realistically meaningless. According to a 2007 survey, "seven out of ten 'beneficiaries' of land reform on the island of Negros said they were no better off than before reform". Filipino farming remains centralized and low-yield.
+_How Asia Works_ 's success stories are always Japan, South Korea, Taiwan, and China. Its foils are always Thailand, Malaysia, and the Philippines. These last three countries resisted calls for land reform, sometimes violently (when a Thai economist published a study saying land reform was needed, the king responded by banning the study of economics!) But as usual, the Philippines takes last place. It passed a series of laws that had "LAND REFORM" in the title, but all managed to be completely useless. In particular, they often said that landlords had to give workers their land, _or some other mutually-agreeable concession of equal value_. Landlords were legally savvier than tenants, and had nearly unlimited power over them, and the Filipino government was too corrupt and useless to monitor any of this, so landlords found ways to get workers to agree to various things which were legally worker ownership but realistically meaningless. According to a 2007 survey, "seven out of ten 'beneficiaries' of land reform on the island of Negros said they were no better off than before reform". Filipino farming remains centralized and low-yield.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdecbea27-431c-42da-b18e-6d4967ee93c8_997x662.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdecbea27-431c-42da-b18e-6d4967ee93c8_997x662.png)But really pretty!
 
@@ -67,7 +70,7 @@ Unfortunately, it's not on the table anymore, which means we might not see many 
 
 > Will we witness an economic transformation like Japan, Korea, Taiwan or China’s again? The answer is quite possibly not, for one simple reason. Without effective land reform it is difficult to see how sustained growth of 7-10 per cent a year - without fatal debt crises - can be achieved in poor countries. And radical land reform, combined with agronomic and marketing support for farmers, is off the political agenda. Since the 1980s, the World Bank has instead promoted microfinance, encouraging the rural poor to set up street stalls selling each other goods for which they have almost no money to pay. It is classic sticking-plaster development policy. The leading NGO promoting land reform, US-based [Landesa](https://www.landesa.org/), is today so pessimistic about the prospects for further radical reforms in the world’s poor states that it concentrates its lobbying efforts on the creation of micro plots of a few square metres. These plots supplement the diets and incomes of rural dwellers who work in otherwise unreformed agricultural sectors. From micro interventions, however, economic miracles will not spring.
 
- **2\. Industrial Policy and Finance**
+**2\. Industrial Policy and Finance**
 
 East Asian countries got rich by manufacturing. First it was "Made in Japan", then "Made in Taiwan", then "Made in China". At first each label was synonymous with low-quality knockoffs. Gradually they improved, until now "Made in Japan" has the same kind of prestige as Germany or Switzerland, and even China is losing some of its stigma. 
 
@@ -129,7 +132,7 @@ After doing this kind of thing long enough, you start to see results. When Gener
 
 By 2013, when Park's daughter Geun-hye was elected president, the country's GDP was almost $30,000 per capita.
 
- **2c.**
+**2c.**
 
 In contrast, Malaysia, Thailand, and the Philippines never achieved this level of growth. Studwell focuses his attention on Malaysia, the country that tried hardest. In 1981, Malaysia's new prime minister Mahathir bin Mohamed made a deliberate effort to imitate Japanese/Korean developmental success. Although he got a few things done, results could most charitably be described as "mixed". Studwell blames a few things.
 
@@ -147,7 +150,7 @@ Finally, he wanted to be exciting and high-tech. When he ordered the constructio
 
 The book blames most of this on Mahathir listening to McKinsey consultants and globalization advocates - especially Japanese theorist Kenichi Ohmae, author of _The Borderless World_. Ohmae was right that globalization would happen. He was even right that Japan - which at that point was a First World country - could benefit by taking part in it. But what works for developed countries isn't right for developing ones, and at that point it was the wrong advice for Malaysia. During Park Chung-Hee's 18 years in power, he increased his country's GDP by a factor of 17; during Mahathir's 22 years, ending in 2003, he barely doubled it.
 
- **3\. Finance**
+**3\. Finance**
 
 Studwell devotes a separate chapter to finance, but it's really a corollary of the industrial policy section. Developing country financial systems need to support industrial policy by preferentially offering great loans to industrial learning projects. This won't work under a free market system. Under a free market system, banks will offer the best loans to whatever is most profitable, probably some short-term resource extraction scheme that nobody learns anything from.
 
@@ -159,7 +162,7 @@ On the other hand, all developed Asian countries opened their markets at some po
 
 Aside from capital controls and a focus on industrial policy, Studwell doesn't really care what kind of financial policy you have. The economic establishment recommends prudent borrowing, but he isn't really seeing it. Malaysia borrowed very prudently and never really got anywhere. On the other hand, Korea's borrowing was described as "crazed" and they did fine. China's level of debt is frankly terrifying, but they seem to have pulled it off so far by growing faster than they borrowed, even though they borrowed a lot. It turns out you can pay back a lot of loans when your GDP doubles every few years.
 
- **4\. Conclusions**
+**4\. Conclusions**
 
 This book was really convincing, but I don't know much economic history so maybe convincing me is too easy. After Steven Pinker wrote _How The Mind Works_ , Jerry Fodor wrote a counterbook called _The Mind Doesn't Work That Way_. What would be in _Asia Doesn't Work That Way_?
 

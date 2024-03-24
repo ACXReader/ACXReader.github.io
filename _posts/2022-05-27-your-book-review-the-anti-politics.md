@@ -3,9 +3,12 @@ title: "Your Book Review: The Anti-Politics Machine"
 subtitle: "..."
 date: 2022-05-27
 likes: 153
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/56751267/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a2015367-3e46-4add-a858-f053fb560ace_550x367.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-the-anti-politics
 ---
-[ _This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_ ]
+[_This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_]
 
 Everyone familiar with Effective Altruism knows that “good intentions aren’t enough.”
 
@@ -59,7 +62,7 @@ While Ferguson focuses on Thaba-Tseka, I think the “development discourse” l
 
 Should the World Bank conclude that suburban America is populated by subsistence farmers whose inability to grow good crops has forced them into long commutes? Are 401(k)s merely a “product” that young Americans hold onto because they’re too hard to sell? 
 
-Through careful ethnographic work (using the research method of _actually talking to people_ ) Ferguson discovers that, while the three facts we noted were true, the report’s interpretation of them was rooted entirely in fantasy. Much like our hypothesized suburbanites, the people of Lesotho’s Thaba-Tseka region grew food, but they did not consider farming their main priority or source of income. Indeed, even in the best of years a typical household would grow less than half of the food they consumed, with most money coming from remittances sent back from the mines, or from services (or beer) sold to those with mining income. 
+Through careful ethnographic work (using the research method of _actually talking to people_) Ferguson discovers that, while the three facts we noted were true, the report’s interpretation of them was rooted entirely in fantasy. Much like our hypothesized suburbanites, the people of Lesotho’s Thaba-Tseka region grew food, but they did not consider farming their main priority or source of income. Indeed, even in the best of years a typical household would grow less than half of the food they consumed, with most money coming from remittances sent back from the mines, or from services (or beer) sold to those with mining income. 
 
 The practice of mining in South Africa, far from being a recent response to deteriorating agriculture, had been a central part of the Lesothan economy for more than a century. Villagers’ economic complaints rarely referenced agriculture (since they were not farmers), but rather focused on labor practices and immigration laws they felt allowed the mining companies to exploit their work and keep them in poverty. 
 
@@ -79,7 +82,7 @@ What I find so striking about the World Bank report (and Ferguson’s devastatin
 
 If these stories are challenged, it is not because there is no actual evidence for them, but because an economist in the audience has thought of their own preferred theory. If the speaker can find some data point that contradicts the questioner’s idea, this is thought to “confirm” the original story. Since audience members (who often have little specific knowledge of the region) are unlikely to ask questions like “what if this village just has an incredibly complicated set of social conventions around cattle that prevents their sale even without market barriers in place?” or “do the region’s economic challenges have more to do with this very specific regulation in South African immigration law?”, plausible-sounding stories that explain one or two numerical data points tend to gain traction in the literature whether or not they have anything to do with reality. Mark McGovern famously noted this trend in a review of two of Paul Collier’s books, writing:
 
- _“Much of the intellectual heavy lifting in these books is in fact done at the level of implication or commonsense guessing. And the common sense is surely not that of the inhabitants of the countries being dissected, but that of the highly educated elite located primarily in Western Europe and North America. In those passages where Collier does lay out the thinking behind his explanations, they are always coherent and plausible, but the chain of causal relations makes it evident how fragile these models typically are.”_
+_“Much of the intellectual heavy lifting in these books is in fact done at the level of implication or commonsense guessing. And the common sense is surely not that of the inhabitants of the countries being dissected, but that of the highly educated elite located primarily in Western Europe and North America. In those passages where Collier does lay out the thinking behind his explanations, they are always coherent and plausible, but the chain of causal relations makes it evident how fragile these models typically are.”_
 
 The World Bank report’s fundamental misdiagnosis of the challenges Lesotho faced formed the basis for a series of failed “development initiatives”, most notably the Thaba-Tseka Development Project, a joint venture funded by the Canadian International Development Agency, the World Bank, the Government of Lesotho, and the UK Overseas Development Ministry. 
 
@@ -105,7 +108,7 @@ Or, as Ferguson points out, perhaps their anger had something to do with the fac
 
 A local student’s term paper captured the general discontent:
 
- _“In spite of the superb aim of helping the people to become self-reliant, the first thing the project did was to take their very good arable land. When the people protested about their fields being taken, the project promised them employment. [...] It employed them for two months, found them unfit for the work, and dismissed them. Without their fields and without employment they may turn up to be very self-reliant. It is rather hard to know.”_
+_“In spite of the superb aim of helping the people to become self-reliant, the first thing the project did was to take their very good arable land. When the people protested about their fields being taken, the project promised them employment. [...] It employed them for two months, found them unfit for the work, and dismissed them. Without their fields and without employment they may turn up to be very self-reliant. It is rather hard to know.”_
 
 Two things stand out to me from this story. First, the “development discourse” lens served to focus the practitioners’ attention on a handful of technical variables (quantity of wood, quality of pony), and kept them from thinking about any repercussions they hadn’t thought to measure.
 
@@ -145,7 +148,7 @@ The second is an emphasis on local context. As funding gaps for “low hanging f
 
 Ferguson notes about several of the Thaba-Tseka project’s failed arms:
 
- _“Tanzania may be very different from Lesotho on the ground, but, from the point of view of a development agency’s head office, both may be simply ‘the Africa desk’. In the Thaba-Tseka case, at least, the original project planners knew little about Lesotho’s specific history, politics, and sociology; they were experts on ‘livestock development in Africa,’ and drew largely on experience in East Africa.”_
+_“Tanzania may be very different from Lesotho on the ground, but, from the point of view of a development agency’s head office, both may be simply ‘the Africa desk’. In the Thaba-Tseka case, at least, the original project planners knew little about Lesotho’s specific history, politics, and sociology; they were experts on ‘livestock development in Africa,’ and drew largely on experience in East Africa.”_
 
 For any sort of context-specific intervention to work, an intimate knowledge of the specific history, needs, and geography of individual villages and regions is necessary. The development world has slowly made steps in this direction, but it’s not clear to me that the EA community has a clear way of acquiring, accessing, or working with this information. 
 

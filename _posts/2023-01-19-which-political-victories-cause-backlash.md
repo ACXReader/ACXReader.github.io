@@ -3,6 +3,9 @@ title: "Which Political Victories Cause Backlash?"
 subtitle: "..."
 date: 2023-01-19
 likes: 133
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/78671918/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d83b0d9-85b6-4f99-940c-c680f19f6834_720x395.png
 original-url: https://www.astralcodexten.com/p/which-political-victories-cause-backlash
 ---
 Four years ago I wrote [Trump: A Setback For Trumpism](https://slatestarcodex.com/2018/12/13/trump-a-setback-for-trumpism/), pointing out that when Trump became president, his beliefs became much less popular. For example:
@@ -37,6 +40,6 @@ What’s going on?
 
 Maybe the public backlashes against conservative victories, but not liberal ones? Why would that be? Maybe because liberals control more of the media than conservatives; when conservatives win something, the media does a good job making everyone panic that conservative ideas are taking over, and convinces them to do a thermostatic reaction. But when liberals win something, most people either don’t hear about it or don’t hear anyone telling them to worry, so they don’t. Or maybe it’s because liberalism is “on the right side of history”, ie [the direction things naturally tend](https://astralcodexten.substack.com/p/which-party-has-gotten-more-extreme), so nobody finds liberal victories surprising, whereas everyone finds conservative victories surprising and feels like they need to react against them.
 
-Maybe it has to do with how quickly people can find a case of the new law going wrong? My impression of the post- _Dobbs_ debate on abortion was that it centered on an incredibly sympathetic 10-year-old rape victim from Ohio who really needed an abortion but was having trouble getting one - a few stories like that can probably move opinion a lot. In contrast, even if Obamacare causes budget deficits or whatever, it’s harder to find a specific victim. This doesn’t quite fit the free trade vs. protectionism example though, although it fits some other Trump issues like deportation.
+Maybe it has to do with how quickly people can find a case of the new law going wrong? My impression of the post-_Dobbs_ debate on abortion was that it centered on an incredibly sympathetic 10-year-old rape victim from Ohio who really needed an abortion but was having trouble getting one - a few stories like that can probably move opinion a lot. In contrast, even if Obamacare causes budget deficits or whatever, it’s harder to find a specific victim. This doesn’t quite fit the free trade vs. protectionism example though, although it fits some other Trump issues like deportation.
 
 Or maybe this is totally random and I shouldn’t try to conclude things from n = ~5 examples. But I’m still confused why the Trump and abortion backlashes were so noticeable, and don’t feel like I have any strong predictions to give on whether some other policy victory will produce a backlash or not.

@@ -2,7 +2,10 @@
 title: "The Psychology Of Fantasy"
 subtitle: "..."
 date: 2023-04-28
-likes: 140
+likes: 142
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/116456698/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/5e6a2d74-934e-4173-85a1-34393eedd741_259x194.jpeg
 original-url: https://www.astralcodexten.com/p/the-psychology-of-fantasy
 ---
 In the sadder corners of the Internet, people daydream about getting isekai’d: dying in a way that teleports them to the fantasy universe, where they get to spend all their time fighting dragons.

@@ -3,6 +3,9 @@ title: "Deceptively Aligned Mesa-Optimizers: It's Not Funny If I Have To Explain
 subtitle: "A Machine Alignment Monday post, 4/11/22"
 date: 2022-04-11
 likes: 101
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/51970484/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7a265dd5-2703-450d-9c81-64810adfdfd3_1920x1440.jpeg
 original-url: https://www.astralcodexten.com/p/deceptively-aligned-mesa-optimizers
 ---
 **I.**
@@ -35,13 +38,13 @@ Mesa-optimizers would have an objective which is closely correlated with their b
 
 In fact, we should expect that mesa-optimizers _usually_ have proxy objectives different from the base optimizers’ objective. The base optimizer is usually something stupid that doesn’t “know” in any meaningful sense that it has an objective - eg evolution, or gradient descent. The first thing it hits upon which does a halfway decent job of optimizing its target will serve as a mesa-optimizer objective. There’s no good reason this should be the real objective. In the human case, it was “a feeling of friction on the genitals”, which is exactly the kind of thing reptiles and chimps and australopithecines can understand. Evolution _couldn’t_ have lucked into giving its mesa-optimizers the real objective (“increase the relative frequency of your alleles in the next generation”) because a reptile or even an australopithecine is millennia away from understanding what an “allele” is.
 
- **II.**
+**II.**
 
 Okay! Finally ready to explain the meme! Let’s go!
 
 [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e5c8ab-133c-40da-9653-db08cbb6f125_700x449.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30e5c8ab-133c-40da-9653-db08cbb6f125_700x449.png)
 
- **Prosaic alignment is hard…**
+**Prosaic alignment is hard…**
 
 “Prosaic alignment” (see[ this article](https://ai-alignment.com/prosaic-ai-control-b959644d79c2) for more) means alignment of normal AIs like the ones we use today. For a while, people thought those AIs couldn’t reach dangerous levels, and that AIs that reached dangerous levels would have so many exotic new discoveries that we couldn’t even begin to speculate on what they would be like or how to align them.
 
@@ -49,7 +52,7 @@ After GPT-2, DALL-E, and the rest, alignment researchers got more concerned that
 
 “Prosaic” doesn’t necessarily mean the AI cannot write poetry; see[ Gwern’s AI generated poetry](https://slatestarcodex.com/2019/03/14/gwerns-ai-generated-poetry/) for examples.
 
-… **because OOD behavior is unpredictable**
+…**because OOD behavior is unpredictable**
 
 “OOD” stands for “out of distribution”. All AIs are trained in a certain environment. Then they get deployed in some other environment. If it’s like the training environment, presumably their training is pretty relevant and helpful. If it’s not like the training environment, anything can happen. Returning to our stock example, the “training environment” where evolution designed humans didn’t involve contraceptives. In that environment, the base optimizer’s goal (pass on genes) and the mesa-optimizer’s goal (get genital friction) were very well-aligned - doing one often led to the other - so there wasn’t much pressure on evolution to look for a better proxy. Then 1957, boom, the FDA approves the oral contraceptive pill, and suddenly the deployment environment looks really really different from the training environment and the proxy collapses so humiliatingly that people start doing crazy things like[ electing Viktor Orban prime minister](https://hungarianfreepress.com/2018/04/23/viktor-orbans-deal-for-women-and-a-plan-to-increase-the-birth-rate-in-hungary/).
 
@@ -79,21 +82,21 @@ Deception is more dangerous than Goodharting because Goodharting will get caught
 
 I might not be explaining this well, see also [Deceptively Aligned Mesa-Optimizers? It’s More Likely Than You Think](https://www.youtube.com/watch?v=IeWljQw3UgQ):
 
- **We prevent OOD behavior by detecting OOD and obtaining more human labels when we detect it…**
+**We prevent OOD behavior by detecting OOD and obtaining more human labels when we detect it…**
 
 If you’re (somewhat) careful, you can run your strawberry-picking AI at night, see it throw strawberries at streetlights, and train it out of this behavior (ie have a human programmer label it “bad” so the AI gradient-descends away from it)
 
- **…and we eliminate the incentive for deception by ensuring that the base optimizer is myopic**
+**…and we eliminate the incentive for deception by ensuring that the base optimizer is myopic**
 
 A myopic optimizer is one that reinforces programs based only on their performance within a short time horizon. So for example, the outside gradient descent loop might grade a strawberry picker only on how well it did picking strawberries for the first hour it was deployed.
 
 If this worked perfectly, it would create an optimizer with a short time horizon. When it considered deceiving its programmers in order to get a payoff a few days later when they stopped watching it, it wouldn’t bother, since a few days later is outside the time horizon.
 
-… **and implements a decision theory incapable of acausal trade.**
+…**and implements a decision theory incapable of acausal trade.**
 
 You don’t want to know about this one, really. Just pretend it never mentioned this, sorry for the inconvenience.
 
- **There are deceptively-aligned non-myopic mesa-optimizers even for a myopic base objective.**
+**There are deceptively-aligned non-myopic mesa-optimizers even for a myopic base objective.**
 
 Even if the base optimizer is myopic, the mesa-optimizer might not be.
 
@@ -105,7 +108,7 @@ The most likely outcome: you run myopic gradient descent to create a strawberry 
 
 (Then it realizes it could throw lots more red things at light sources if it was more powerful, achieves superintelligence somehow, and converts the mass of the Earth into red things it can throw at the sun. The end.)
 
- **III.**
+**III.**
 
 You’re still here? But we already finished explaining the meme!
 

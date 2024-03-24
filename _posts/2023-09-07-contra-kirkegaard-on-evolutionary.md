@@ -3,6 +3,9 @@ title: "Contra Kirkegaard On Evolutionary Definitions Of Mental Illness"
 subtitle: "..."
 date: 2023-09-07
 likes: 216
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/136470301/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/357451db-10d4-4564-84d2-0e126c66d646_315x181.jpeg
 original-url: https://www.astralcodexten.com/p/contra-kirkegaard-on-evolutionary
 ---
 Emil Kirkegaard [proposes a semi-objective definition of “mental illness”](https://www.emilkirkegaard.com/p/preferences-can-be-sick-mental-illness).
@@ -33,7 +36,7 @@ But mental-disorder-(Scott) would be more useful for a variety of ethical, medic
 
 In case it’s not sufficiently clear that mental-disorder-(Scott) and mental-disorder-(Emil) are different, let me give seven examples:
 
- **1: ADHD**
+**1: ADHD**
 
 People with ADHD have more children than people without ADHD, probably because the people with ADHD forget to use condoms ([here is a source for teenagers](https://pubmed.ncbi.nlm.nih.gov/28647009/), can’t find source for adults but I’ve definitely heard this). That means that by Emil’s definition, _not_ having ADHD is a mental disorder!
 
@@ -47,7 +50,7 @@ Either way, I think it’s pretty hard to call ADHD a mental disorder in Emil’
 
 Again, Emil can bite this bullet, but it means his definition doesn’t match intuitive conceptions of who’s got mental problems and wants help with them.
 
- **2: Alcoholism**
+**2: Alcoholism**
 
 Who has more kids: alcoholics, moderate drinkers, or teetotalers?
 
@@ -59,7 +62,7 @@ Chinese people seem to have [some anti-alcoholism genetic adaptations](https://e
 
 I think Emil’s theory classifies alcoholism as a severe mental disorder in Chinese people, a mild mental disorder in white/black/etc people, and not a mental disorder at all in the Inuit. This would be hilarious to try to get in the DSM, but it still doesn’t match our practical need to determine who has mental problems and needs help with them.
 
- **3: Ephebophilia**
+**3: Ephebophilia**
 
 Which of these people, if any, have mental disorders?
 
@@ -84,7 +87,7 @@ Is an interest in philosophy (or science, or art, or any other worthy endeavor) 
 
 Even if we agree that we should classify Plato as mentally ill, this again seems very different from the practical concept of “this person has mental problems and needs help with them”.
 
- **5: Chronic Pain, Panic Attacks, Or, If You Insist, Nightmares**
+**5: Chronic Pain, Panic Attacks, Or, If You Insist, Nightmares**
 
 Is chronic pain a mental illness? It seems pretty bad. But as long as it doesn’t impede your ability to hunt, gather, or have sex, I think Emil would have to say no. Same with panic attacks, anxiety, etc.
 
@@ -100,7 +103,7 @@ But by his framing, “severe mental illness” would indicate not schizophrenia
 
 Again, this is pretty different from the way you want to use words when talking about real-world problems around how to help people with mental problems get better.
 
- **7: Is Emil’s Definition Of Mental Illness Itself A Mental Illness?**
+**7: Is Emil’s Definition Of Mental Illness Itself A Mental Illness?**
 
 Emil’s crusade to reclassify homosexuality as a mental illness doesn’t sound like it would be very popular in his home country of Denmark. Maybe there are even some nice Danish women who would be willing to date Emil otherwise, but are turned off by his un-PC opinions.
 
@@ -108,7 +111,7 @@ Willingness to violate taboos couldn’t have been very helpful in the environme
 
 So is contrarianism a mental illness? I would say no, because it’s a matter of personal choice and serves a valuable social function. I’m not sure what Emil’s answer would be.
 
- *** * ***
+*** * ***
 
 I don’t want to assert any of these too strongly. Maybe Emil knows something I don’t about the EEA, and can prove that actually ADHD would be maladaptive there, or ephebophilia would get you in trouble. If so, I think that would restore some concordance between our intuitive notion of mental disorders and Emil’s version, but that concordance would be coincidental, not necessary. The next day we might learn some different fact about the EEA that would make the two notions discordant again.
 

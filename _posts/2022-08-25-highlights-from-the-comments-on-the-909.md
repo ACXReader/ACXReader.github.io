@@ -3,11 +3,14 @@ title: "Highlights From The Comments On The Repugnant Conclusion And WWOTF"
 subtitle: "..."
 date: 2022-08-25
 likes: 55
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/70086027/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9dfa8353-fdd9-47fb-9dc9-493d3e66665d_535x382.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-909
 ---
 (Original post [here](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future))
 
- **1:** Petey [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565975):
+**1:** Petey [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565975):
 
 > When I think of happiness 0.01, I don't think of someone on the edge of suicide. I shudder at the thought of living the sorts of lives the vast majority of people have lived historically, yet almost all of them have wanted and tried to prolong their lives. Given how evolution shaped us, it makes sense that we are wired to care about our survival and hope for things to be better, even under great duress. So a suicidal person would have a happiness level well under 0, probably for an extended period of time.
 > 
@@ -35,7 +38,7 @@ Another way of thinking about this: [about 8% of Americans](https://www.nimh.nih
 
 * * *
 
- **2:** Jack Johnson [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565925):
+**2:** Jack Johnson [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565925):
 
 > I always used to make arguments against the repugnant conclusion by saying step C (equalising happiness) was smuggling in communism, or the abolition of Art and Science, etc.
 > 
@@ -53,7 +56,7 @@ Communism wants to take stuff away from people who have it for some specific rea
 
 * * *
 
- **3:** Regarding MacAskill’s thought experiment intending to show that creating hapy people is net good, Blacktrance [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565939):
+**3:** Regarding MacAskill’s thought experiment intending to show that creating hapy people is net good, Blacktrance [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565939):
 
 > Conditional on the child's existence, it's better for them to be healthy than neutral, but you can't condition on that if you're trying to decide whether to create them.
 > 
@@ -65,7 +68,7 @@ This is a fascinating analogy, but I’m not sure it’s true. If playing Civ an
 
 * * *
 
- **4:** MartinW [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8566047):
+**4:** MartinW [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8566047):
 
 > Do people who accept the Repugnant Conclusion, also believe in a concrete moral obligation for individuals to strive to have as many children as possible?
 > 
@@ -81,11 +84,11 @@ Also, a few commenters point out that even if you did have an obligation to have
 
 * * *
 
- **5:** Rana Dexsin [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8567696):
+**5:** Rana Dexsin [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8567696):
 
 > Before reading the rest of this, I want to register this bit:
 > 
->  _> Is it morally good to add five billion more people with slightly less constant excruciating suffering (happiness -90) to hell? No, this is obviously bad_
+> _> Is it morally good to add five billion more people with slightly less constant excruciating suffering (happiness -90) to hell? No, this is obviously bad_
 > 
 > My intuition straightforwardly disagreed with this on first read! It is a good thing to add five billion more people with slightly less constant excruciating suffering to hell, conditional on hell being the universe you start with. It is not a good thing to add them to non-hell, for instance such as by adding them to the world we currently live in.
 
@@ -95,7 +98,7 @@ You are the first person I’ve ever met or heard of who genuinely has average u
 
 **6:** Magic9Mushroom writes:
 
->  _> If I can’t find any system of axioms that doesn’t do something terrible when extended to infinity,_
+> _> If I can’t find any system of axioms that doesn’t do something terrible when extended to infinity,_
 > 
 > The philosophers have gotten ahead of you on that one. Surprised you haven't already read it, actually.
 > 
@@ -113,7 +116,7 @@ I think I am going to go with “morality prohibits bringing below-zero-happines
 
 * * *
 
- **7:** hammerspacetime [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8569539):
+**7:** hammerspacetime [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8569539):
 
 > Have we considered that there is a middle ground between "future people matter as much as current people" and "future people don't matter at all"? If you want numbers you can use a function that discounts the value the further in the future it is, just like we do for money or simulations, to account for uncertainty.
 > 
@@ -127,7 +130,7 @@ Eliezer Yudkowsky and Robin Hanson had an interesting debate about this in 2008;
 
 * * *
 
- **8:** Hari Seldon writes:
+**8:** Hari Seldon writes:
 
 > The issue I always have with ultralarge-potential-future utilitarian arguments is that the Carter Catastrophe argument can be made the same way from the same premises, and that that argument says that the probability of this ultralarge future is proportionately ultrasmall.
 > 
@@ -151,7 +154,7 @@ I’m not sure how to resolve this except that maybe some idiot destroys the uni
 
 * * *
 
- **9:** David Chapman and many other people [took me as](https://twitter.com/Meaningness/status/1562059228977590277) attacking philosophy:
+**9:** David Chapman and many other people [took me as](https://twitter.com/Meaningness/status/1562059228977590277) attacking philosophy:
 
 [![Twitter avatar for @Meaningness](https://substackcdn.com/image/twitter_name/w_96/Meaningness.jpg)David Chapman @Meaningness](https://twitter.com/Meaningness/status/1562059228977590277)
 
@@ -183,7 +186,7 @@ Nobody knows exactly what their moral system is - even the very serious utilitar
 
 * * *
 
- **10:** Siberian Fox writes:
+**10:** Siberian Fox writes:
 
 [![Twitter avatar for @SilverVVulpes](https://substackcdn.com/image/twitter_name/w_96/SilverVVulpes.jpg)Siberian fox @SilverVVulpes](https://twitter.com/SilverVVulpes/status/1562514452972711937)
 
@@ -201,7 +204,7 @@ I find that the same part of me that prefers the galactic supercivilization in S
 
 * * *
 
- **11:** Alexander Berger writes:
+**11:** Alexander Berger writes:
 
 [![Twitter avatar for @albrgr](https://substackcdn.com/image/twitter_name/w_96/albrgr.jpg)Alexander Berger @albrgrInteresting/surprising to me that the Repugnant Conclusion is where @slatestarcodex gets off the crazy train: ](https://twitter.com/albrgr/status/1562206120302690306)[![](https://substackcdn.com/image/fetch/w_600,h_314,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F051d8840-77a5-4dfa-8a7c-fe6cd0c626da_535x382.png)astralcodexten.substack.comBook Review: What We Owe The Future...](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future)[10:32 PM ∙ Aug 23, 2022
 
@@ -221,7 +224,7 @@ On questions of truth, or questions of how to genuinely help promote happiness a
 
 * * *
 
- **12:** Long Disc [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8572925):
+**12:** Long Disc [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8572925):
 
 > The hockey stick chart with world economic growth does not prove that we live in an exceptional time. Indeed, if you take a chart of a simple exponential function y=exp(A*x) between 0 and T, then for any T you can find a value of A such that the chart looks just like that. An yet there is nothing special about that or another value of T.
 
@@ -229,7 +232,7 @@ Several people had this concern but I think the chart isn’t exponential, it’
 
 * * *
 
- **13:** David Manheim [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8566330):
+**13:** David Manheim [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8566330):
 
 > I think there's a really simple argument for pushing longtermism . . . the default behavior of humanity is so very short-term that pushing in the direction of considering long-term issues is critical.
 > 
@@ -239,7 +242,7 @@ Several people had this concern but I think the chart isn’t exponential, it’
 
 * * *
 
- **14:** BK [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565828):
+**14:** BK [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565828):
 
 > Stealing my own comment from a related reddit thread on MacAskill: "The thing I took away from [his profile in the New Yorker] is that contrary to "near-termist" views, longtermism has no effective feedback mechanism for when it's gone off the rails.
 > 
@@ -255,9 +258,9 @@ But this doesn’t mean that people currently trying to cure cancer should switc
 
 * * *
 
- **15:** Mentat Saboteur [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565960):
+**15:** Mentat Saboteur [writes](https://astralcodexten.substack.com/p/book-review-what-we-owe-the-future/comment/8565960):
 
->  _> MacAskill introduces long-termism with the Broken Bottle hypothetical: you are hiking in the forest and you drop a bottle. It breaks into sharp glass shards. You expect a barefoot child to run down the trail and injure herself. Should you pick up the shards? What if it the trail is rarely used, and it would be a whole year before the expected injury? What if it is very rarely used, and it would be a millennium?_
+> _> MacAskill introduces long-termism with the Broken Bottle hypothetical: you are hiking in the forest and you drop a bottle. It breaks into sharp glass shards. You expect a barefoot child to run down the trail and injure herself. Should you pick up the shards? What if it the trail is rarely used, and it would be a whole year before the expected injury? What if it is very rarely used, and it would be a millennium?_
 > 
 > This is a really bad hypothetical! I've done a lot of barefoot running. The sharp edges of glass erode very quickly, and glass quickly becomes pretty much harmless to barefoot runners unless it has been recently broken (less than a week in most outdoor conditions). Even if it's still sharp, it's not a very serious threat (I've cut my foot fairly early in a run and had no trouble running many more miles with no lasting harm done). When you run barefoot you watch where you step and would simply not step on the glass. And trail running is extremely advanced for barefooters - rocks and branches are far more dangerous to a barefoot runner than glass, so any child who can comfortably run on a trail has experience and very tough feet, and would not be threatened by mere glass shards. This is a scenario imagined by someone who has clearly never ran even a mile unshod.
 

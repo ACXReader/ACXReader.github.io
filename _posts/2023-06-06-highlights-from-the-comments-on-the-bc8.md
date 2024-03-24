@@ -3,18 +3,21 @@ title: "Highlights From The Comments On The Academic Job Market"
 subtitle: "..."
 date: 2023-06-06
 likes: 74
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/125816085/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/0ce0fa88-d5fc-4566-ab09-b8155a21a944_320x213.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-bc8
 ---
 _Original post:[Why Is The Academic Job Market So Weird?](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so)_
 
 ## Table Of Contents
 
- **1.** Comments With More Information On Academic Hiring  
- **2.** Comments About How Things Got This Way  
- **3.** Comparisons To The Programmer Job Market  
- **4.** Comparisons To Other Job Markets  
- **5.** Proposed Solutions  
- **6.** Comments With Practical Advice For New PhDs
+**1.** Comments With More Information On Academic Hiring  
+**2.** Comments About How Things Got This Way  
+**3.** Comparisons To The Programmer Job Market  
+**4.** Comparisons To Other Job Markets  
+**5.** Proposed Solutions  
+**6.** Comments With Practical Advice For New PhDs
 
 ## 1\. Comments With More Information On Academic Hiring
 
@@ -37,7 +40,7 @@ Other things I learned from these comments:
 
 Many people made each of these points, and I’m only highlighting the first one I saw saying a specific thing, sorry. Here are the full comments. Warning: there are a lot in this section:
 
- **Diddly ([blog](https://diddly.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16232720):**
+**Diddly ([blog](https://diddly.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16232720):**
 
 I'm an academic and I can point out a few factual clarifications:
 
@@ -49,7 +52,7 @@ I'm an academic and I can point out a few factual clarifications:
 > 
 > 4\. Poaching does happen a decent amount. You just don't really hear about it much because tenured professors have it very nice and there's no need to complain about the processing.
 
- **Simon[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16232931):**
+**Simon[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16232931):**
 
 > There seem to be two obvious reasons why:
 > 
@@ -67,7 +70,7 @@ I'm an academic and I can point out a few factual clarifications:
 > 
 > An inside hire does occasionally happen (my institution is smart, and does this — it's a great way to test the waters with someone), but it's also quite clearly flagged as the plan ahead of time (we think this person is good, hire them as a VAP, but there's a job coming soon...)
 
- **Mike[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233725):**
+**Mike[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233725):**
 
 > There's another, more mechanistic explanation for why adjuncts who transition to tenure track faculty do so outside of their own university.
 > 
@@ -83,7 +86,7 @@ I'm an academic and I can point out a few factual clarifications:
 > 
 > Adjuncts who get promoted one level up either get more prestigious adjunct positions or get tenure track at a lower ranked university. Getting tenure from the place you are adjuncting at is harder because it requires getting promoted two rungs up the ladder.
 
- **Nancy[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16236025):**
+**Nancy[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16236025):**
 
 > I'm a department chair at a state university (with unionized faculty), and have experience with both tenure-line and adjunct hiring.
 > 
@@ -93,17 +96,17 @@ I'm an academic and I can point out a few factual clarifications:
 > 
 > For a tenure-track hire, by contrast, we get a large number of applications from across the country and internationally. If one of our current adjuncts is in the pool, they will get the same consideration as everyone else. But the odds that they will happen to be the best fit out of that large pool are very low.
 
- **Scott Aaronson ([blog](https://scottaaronson.blog/)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234536):**
+**Scott Aaronson ([blog](https://scottaaronson.blog/)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234536):**
 
 > As someone who's spent ages 15-41 in academia: you're *very* far from wrong, but it's also not as drastic as someone reading this might fear. Academia isn't sharply divided between "Einsteins" who teach only occasional upper-level seminars, and poorly-paid adjuncts who teach huge numbers of intro classes. There's also a large "middle class," e.g. all the non-Einstein tenure-track faculty, which both does research AND interacts regularly with undergrads, sometimes even at the same time (at least in CS, lots of undergrads get involved in research). Maybe that just helps confuse prospective students all the more! :-)
 > 
 > (Also, agree with the other commenters that postdocs are now a huge part of the story.)
 
- **Incentives Matter ([blog](https://incentivesmatter.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16237115):**
+**Incentives Matter ([blog](https://incentivesmatter.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16237115):**
 
 > On the point of not hiring from your own institution I have seen one senior professor in economics claim they would do this specifically for purposes of diversity in intellectual thought. They argued that on principle their doctoral students should get experience somewhere else and that they should try and get people from elsewhere so that the intellectual climate didn't get stale. No idea if this if this value system is strong enough to override more base incentives, seems unlikely to me, but could be part of an explanation.
 
- **MadmanB[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233744):**
+**MadmanB[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233744):**
 
 > Assoc. Professor at major R1 "brand name" university here (~12 years experience). This is mostly right. A few things:
 > 
@@ -117,17 +120,17 @@ I'm an academic and I can point out a few factual clarifications:
 > 
 > 5\. Adjuncts are treated horribly. Thankfully we have very few here (remember, "name brand" university). It just kind of sucks, and is very similar to "winner take all" dynamics happening more broadly in the economy.
 
- **Darji Grinberg[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16232866):**
+**Darji Grinberg[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16232866):**
 
 > Adjuncts surprisingly shooting up several years into their career is a rare thing, not least because their teaching schedule (6+ courses a year not unusual) leaves them little time for serious research. (Of course, in lab-heavy fields, they face even stronger headwinds.) I think that's the main source of the vicious cycle you're talking about. Journal editors, AFAIK, don't usually gatekeep much; a non-famous tenured professor and an adjunct with an .edu address have about the same chances of getting their paper in all else being equal. (Really big names sometimes get the "even if it is unreadable, there must be wisdom in it" treatment.)
 
- **DW ([blog](https://aliensummoner.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234628):**
+**DW ([blog](https://aliensummoner.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234628):**
 
 > Sports team analogy is probably even more apt here than Scott realizes, especially salary capped and contractually strict ones like the NBA. Just like in academia, in the NBA a rookie who has the chance to develop into the superstar is far more valuable than an established veteran who has proven themselves to be a reliable above-average player. This is true even if, on average, the rookies do not become above-average players. This is reflected on the trade market, where the #5 pick in the draft (which becomes a first-year player in the league once drafted) is valued more highly in a vacuum than solid rotation veterans, even if "solid rotation veteran" is actually probably the EV of what you get from the #5 pick.
 > 
 > There are additional wrinkles and dimensions to this, as rookies are also on a more affordable rookie scale contract, NBA players are locked up into defined contract lengths than is difficult for the player to exit early for other teams, etc. The limited free agency explains superstar inertia in professional sports - there are typically only a few defined windows in a player's career where they truly are pure free agents. But "superstar inertia" I don't think is very difficult to explain for most tenure-track academics. Unless you are in the true 1% of academia there's a lot of disruption to uprooting your life and your intellectual networks to go somewhere use and the upside needs to be very high to entice you to do so. Given the natural geographic distribution of academic employers it's not even like other working professionals job-hopping to go to the competitor firm down the street. And it seems to me that you do see the true top 1% of tenure track academia, celebrity public intellectuals etc., move around, though perhaps my perception is shaded by the fact that these moves are naturally going to be more newsworthy than random tenure track faculty moves.
 
- **And Steven Hales[agrees](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233672):**
+**And Steven Hales[agrees](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233672):**
 
 > So much hiring into the entry-level tenure track is based on buzz, and any university with pretensions is hoping they will lock in (even for a few years) the next superstar. They would rather take a chance on that than hire a solid performer 5 years out who would do a fine job but probably not become a household name. Some of this becomes a self-fulfilling prophecy; someone who starts their career teaching four courses a semester at a second-rate place with little or no support is trapped. Publishing your way out of that (no grant writers helping you, poor lab facilities, few good students or research-active colleagues, paltry travel funds) is like climbing Everest.
 
@@ -139,7 +142,7 @@ This is the same question I ask about George Mason. Many people have remarked on
 
 ## 2\. Comments About How Things Got This Way
 
- **jseliger[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233727):**
+**jseliger[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233727):**
 
 > "Supply + demand" and "weird path dependence due to historical circumstances."
 > 
@@ -153,7 +156,7 @@ This is the same question I ask about George Mason. Many people have remarked on
 > 
 > Maybe academia is the brainiac's version of gambling in Vegas: likely to lead to losses, but fun in the moment.
 
- **And Okulpe[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234703):**
+**And Okulpe[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234703):**
 
 > Some of what's going on is historical, going back to about 1950, when the Feds started throwing money at universities to do research. The NSF was founded c. 1952 b/c everyone realized that science had won WW II thus needed serious funding. The question was HOW, and we got a bastard version of the German system and our old tradition of colleges being for educating elite youth. Remember that many of the important scientists of WW II were German. There, all universities were research universities--there was no UG education as such--and their goal was to produce research and prepare scholars/scientists. They were supported by the German state, and departments were given budgets they could spend as they chose (and there was, basically, just 1 fully tenured "Ordinary Professor" per department, and he ran it, often like a fief. That was what US scientists envisioned after the war--fund the best scientists directly to produce the best science. But this met howls of protest from most US colleges & universities who feared all the money would go to the usual suspects, Harvard, Yale, Illinois (go Illini!), etc. And it was unAmerican. States urged the money go to states for allocation to their schools. The scientists howled -- nobodies at places like the Southern University of North Dakota at Hoople would get, and waste, scientific research dollars. Bad Science would be done!! The compromise is what we have today is the result, anyone, even a nobody at SND@H, could submit a grant, and if it was, in fact Best Science, it would be funded. So, virtually every school in the US tries to be a research oriented school, not just for the prestige, but because of the sweet overhead money that comes in, helping fund student-attracting facilities like salt water pools and paying big money to sports coaches.
 > 
@@ -167,7 +170,7 @@ This is the same question I ask about George Mason. Many people have remarked on
 
 Several people pointed out a vaguely similar inefficiency in tech. There are two tiers: junior programmer (just starting, ~$75K compensation) and senior programmer (2-4+ years, ~$150K compensation). Companies rarely promote their own juniors to seniors; if you’ve been working 2-4 years and want a senior position, your best chance is to go interview at a new company. Why? People mostly speculated that the junior/senior distinction is reality-based; it takes 2-4 years to learn to do the most important tasks. The failure to hire insiders might be because workers aren’t on board with this distinction and would expect a more linear raise schedule. Why not make everything explicit, so nobody is surprised by the raise schedule? Commenters suggested companies try to obscure all of this, in the hopes that ignorant employees keep working for them forever at low pay. I still find some of this mysterious, but here are the comments:
 
- **Matt S[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16232949):**
+**Matt S[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16232949):**
 
 > A similar phenomenon happens in the non-FAANG computer programming world. Junior devs get hired at something like $60-$80k, then within about two years are worth double that. But the company that hired them will never promote that dev to a $140k salary because it would upset the apple cart of all the devs making $120k wondering why they don't get a 100% raise in two years, or anything close.
 > 
@@ -195,7 +198,7 @@ I was still confused - why don’t they just have explicit job titles?
 > 
 > Related: <https://en.wikipedia.org/wiki/Price_discrimination> \-- as an employer, in a hypothetical ideal case, you want to pay each of your employees the minimum salary that will make them do the adequate job and not quit, not a cent more. If one guy is willing to work for N, and another is willing to do the same job for N/2, and both options are okay for you, you want to pay the former N and pay the latter N/2. A transparent salary structure would make the former guy quit (if less than N) or the latter ask for a raise (if N or more).
 
- **And AshLael[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16277075):**
+**And AshLael[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16277075):**
 
 > I don't know anything about coding, but this phenomenon exists in other sectors too - a bit of job swapping is often very helpful for getting promotions and salary increases in short time frames.
 > 
@@ -203,7 +206,7 @@ I was still confused - why don’t they just have explicit job titles?
 > 
 > I think it's an entirely non rational psychological effect, the "prophet is not honoured in his home town" phenomenon. You hired this person as X, it's only been a year, you keep mentally categorising them as X. You don't recognise the way that their capabilities have grown, and you kind of assume you don't need to compete for the person you already have.
 
- **And[Simon](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234629):**
+**And[Simon](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234629):**
 
 > If someone's salary rises x2 after two years, the people there for four years will wonder why their trajectory appears to be "flattening out".
 > 
@@ -211,7 +214,7 @@ I was still confused - why don’t they just have explicit job titles?
 > 
 > (Presumably, it's the companies who have figured out a way to promote from within without this problem — e.g., by creating a confusing diversity of roles, hiding salary information in some fashion through benefits, or by having such a large company that people don't notice because the person is transferred to another unit.)
 
- **Also[Villam](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16257335):**
+**Also[Villam](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16257335):**
 
 > This may depend on country and maybe I don't understand it, but this is my best guess:
 > 
@@ -255,7 +258,7 @@ The most common comments here were about how the phenomenon of “newbies who mi
 > 
 > In my experience, applicants to this jobs also are more likely to have wealthier parents who can help pay their way if they end up as adjuncts. Part of me wonders if plumbing would be able to get away with milking the “apprenticeship” period way more if they could get away with it. If the apprentices were more likely to be able to pay their own way for the first couple years, would salaries show the same pattern?
 
- **Elizamachine[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234462):**
+**Elizamachine[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234462):**
 
 > I don't have data on this, but there's a similar phenomenon in the publishing world. A debut author with a book that sounds exciting and topical will have a decent shot at a six-figure book deal, and those books frequently go to auction. But once you're published, if you're among the majority of authors whose books don't turn into juggernauts, your advances drop dramatically, with some previously well-paid authors grateful to get $20k or $30k for a new project.
 > 
@@ -265,11 +268,11 @@ The most common comments here were about how the phenomenon of “newbies who mi
 > 
 > A little concerning that an industry like publishing that acquires talent almost entirely on *vibes and sparkle* appears to have similar patterns to academia!
 
- **And[PaddyMeld ](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16260075)([blog](https://paddymeld.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)):**
+**And[PaddyMeld ](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16260075)([blog](https://paddymeld.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)):**
 
 > This is interesting to me because this is often how the nursing profession works also. When I was hired as a new grad RN, I made approx $30/hour (iirc). After I put in 2 years at this hospital, a former classmate was hired onto our team after working for two years elsewhere (an equivalent hospital in terms of prestige etc). She got hired on at $38/hr while I was making $31/hr. And this is a common scenario in nursing, in my experience. You have to leave your first job and get hired in somewhere else in order to get the pay bump that the market clearly deems warranted. But to get that same pay bump after years at the same hospital? Impossible. To be fair, this was mostly preCOVID/intraCOVID days. Ive heard from colleagues that this is possibly changing and hospitals are more aggressively raising nurses salary to improve retention (as thousands of RNs left their jobs during COVID for more lucrative work as travel nurses). And yes during COVID, I once worked alongside a former coworker who had quit and then been rehired as a travel nurse into the exact same position at more than double her previous pay. I left to go back to school shortly thereafter and that was one of the reasons.
 
- **G Retriever[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234878):**
+**G Retriever[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234878):**
 
 > I think academia and performing arts have a lot more in common than you'd think. A record label and an academic department both want to sign someone that will HIT. But you have no actual idea what prospects will do it. For recording artists, you can give a thousand advances and if even one hits it will pay for the rest. But you can't do that for academic departments. So you make choices based on what you can actually observe (a degree from a top 10 program) and hope that will give you a better chance at a hit.
 > 
@@ -277,7 +280,7 @@ The most common comments here were about how the phenomenon of “newbies who mi
 
 ## 5\. Proposed Solutions
 
- **John of Orange ([blog](https://johnoforange.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233534):**
+**John of Orange ([blog](https://johnoforange.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233534):**
 
 > One of the things I have long espoused, in the sense of thinking it but literally never telling anyone, is that the United States Congress should establish a system of National Teaching Universities that do exclusively undergrad and non-degree training. Recruit early- and mid-career academics with modest conventional prospects by using "Moneyball"-style strategies on the assumption potentially great teachers are being underutilized. Recruit outright non-academics, such as senior enlisted military personnel, who have an extremely deep reservoir of meta-knowledge about how to train people that is underutilized in the white-collar world for the crasset possible class reasons. Completely exclude research from the main career path and consider imposing outright guild-like rules preventing your hires from even publishing research while they're employed with you, and perhaps for six months afterwards. Require everyone to go through extensive, demanding paid training from which many drop out, and make sure all the training materials and training apparatus is built from private-sector and military people uncontaminated by the schoolmarm-industrial complex and its fraudulent "education research."
 > 
@@ -289,7 +292,7 @@ Several people disagree, and say these institutions exist (community colleges, t
 
 ## 6\. Comments With Practical Advice For New PhDs
 
- **Simon[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233087):**
+**Simon[writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16233087):**
 
 > I see early career adjuncts get taken advantage of to an extreme extent, and it bothers me.
 > 
@@ -299,7 +302,7 @@ Several people disagree, and say these institutions exist (community colleges, t
 > 
 > But academia is *so* broken that in most cases my advice would be: do it if it's fun, if you don't need to be saving lots of money, and if you like the lifestyle. But if it's not fun, if you need money, if you don't like the college prof lifestyle... run, quickly. Life goes by fast.
 
- **Jorg ([blog](https://jorg.substack.com/)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234133):**
+**Jorg ([blog](https://jorg.substack.com/)) [writes](https://astralcodexten.substack.com/p/why-is-the-academic-job-market-so/comment/16234133):**
 
 > In all honesty, don't go further into the sunk cost fallacy. I don't really care what your master's degree is in, you probably have acquired the skills for pretty good (and likely quite fulfilling, jobs outside of Academia. Probably 75% of the people I was in grad school with who got PhDs ended up outside Academia and loved it. One of my best friends couldn't land a TT job in Con Law despite good pubs and being highly recommended by one of the top profs in con law at the time. She ended up selling $1M+ real estate and making a ton. She always says she enjoyed her PhD years, but it was a huge waste of time.
 > 

@@ -3,6 +3,9 @@ title: "Does Georgism Work? Part 2: Can Landlords Pass Land Value Tax on to Tena
 subtitle: "A guest post on Georgism by Lars Doucet"
 date: 2021-12-10
 likes: 69
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45264126/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cf13d401-0c80-4c10-b2a5-6265299b7129_719x511.jpeg
 original-url: https://www.astralcodexten.com/p/does-georgism-work-part-2-can-landlords
 ---
 _[Lars Doucet won this year’s[Book Review Contest](https://astralcodexten.substack.com/p/book-review-contest-winners) with his review of Henry George’s [Progress and Poverty](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty). Since then, he’s been researching Georgism in more depth, and wants to follow up with what he’s learned. I’ll be posting three of his Georgism essays here this week, and you can read his other work at [Fortress Of Doors](https://www.fortressofdoors.com/)]_
@@ -11,7 +14,7 @@ Hi, my name's Lars Doucet (not Scott Alexander), and this is a guest post in an 
 
 [Part 0 - Book Review: Progress & Poverty](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty)  
 [Part I - Is Land Really a Big Deal?](https://astralcodexten.substack.com/p/does-georgism-work-is-land-really)  
- **Part II - Can Land Value Tax be passed on to Tenants? 👈** (You are here)  
+**Part II - Can Land Value Tax be passed on to Tenants? 👈**(You are here)  
 Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?
 
 There were a lot of great comments to Part I. Most zeroed in on the practical aspects of implementing Georgism, such as how to deal with what Gordon Tullock calls [The Transitional Gains Trap](https://www.jstor.org/stable/3003249). Others brought up various perceived political obstacles and a few other topics (yes, I know about zoning, which is also a big deal). With a few exceptions, I didn't see much pushback on the core thesis of Part I, that land is a really big deal. In fact, many of the strongest opponents of LVT seem opposed precisely because they _agree_ that land is a big deal.
@@ -84,7 +87,7 @@ But let's be thorough. It's possible these supporting studies are misrepresented
 
 That still leaves the possibility that the Danish authors cherry-picked their supporting studies and ignored everyone who found the opposite conclusions, so I tried to see what a general search for research papers on this subject would turn up and if any papers would _not_ support full capitalization of Land Value Taxes into property prices. Searching Google Scholar for property tax and Land Value Tax capitalization effects, I found nine additional papers.
 
- **Supporting:**
+**Supporting:**
 
 [Bourassa (1987)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2257.1987.tb00087.x) studies a Land Value Tax system in Pittsburgh and finds that "the incentive effect is significant but the liquidity effect is not. The incentive effect is found to encourage increases in the number of new units constructed in Pittsburgh rather than increases in the average cost of new units"  
   
@@ -100,11 +103,11 @@ That still leaves the possibility that the Danish authors cherry-picked their su
 
 [Mills (1981)](https://www.journals.uchicago.edu/doi/abs/10.1086/NTJ41862356?journalCode=ntj) is an interesting study, titled _The Non-Neutrality of Land Value Taxation,_ and frames itself in opposition to LVT. It's a theoretical paper rather than an empirical one and makes a curious claim: "It is true that a (less than 100 percent) tax on land income is neutral, but this does not extend necessarily to a tax on capitalized land value, or changes therein. The reason is that the discounted sum of payments with the latter tax is not invariant to the intertemporal characteristics of the income stream produced by land. Among options with equal present value, it is greater for income streams skewed to the distant future than for those skewed to the near future." Mills seems to be arguing that if a piece of land is subject to LVT, people will be willing to pay less to buy it, since it generates less rental income. This sounds like a full capitalization argument to me, which Mills apparently thinks is a bad thing. Regardless of how he feels about it, though, he's arguing that it _happens_ , ironically putting this paper in the "support" column.
 
- **Mixed:**
+**Mixed:**
 
 [King (1977)](https://doi.org/10.1086/260574) doesn't have a knock-down argument for or against the full capitalization hypothesis, except to point out some quibbles with the analysis methods used in prior studies (including Oates, the seminal paper). King concludes, "our knowledge of the extent of tax capitalization is very much less than is commonly supposed." One would hope King would have been more impressed by all of the studies that have come out since.
 
- **Opposed:**  
+**Opposed:**  
   
 I found one study that clearly and confidently rejects the hypothesis that LVT is fully capitalized into land values.
 
@@ -186,7 +189,7 @@ I've just read thirteen other papers that provide plenty of empirical evidence f
 
 This is really strong evidence for the full capitalization hypothesis, the natural corollary to which is that landlords can't pass on Land Value Tax.
 
- **Conclusion:** Land Value Tax can't be passed on to tenants.
+**Conclusion:** Land Value Tax can't be passed on to tenants.
 
 There is one thing Wyatt had a point about, however:
 

@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Motivated Reasoning And Reinforcement Le
 subtitle: "..."
 date: 2022-02-11
 likes: 34
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/48285380/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/83e12a5a-c404-4fe3-b039-13a428458942_680x510.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-motivated
 ---
 **I. Comments From People Who Actually Know What They’re Talking About**
@@ -29,7 +32,7 @@ That comment by [Fox](https://astralcodexten.substack.com/p/motivated-reasoning-
 
 > The underlying intuition here about reinforcement learning is incorrect.
 > 
->  _> Plan → higher-than-expected hedonic state → do plan more_
+> _> Plan → higher-than-expected hedonic state → do plan more_
 > 
 > No, it's: higher (relative to other actions) hedonic future state *conditioned on current state*. The conditioning is crucial. Conditioned on there being a lion, RL says you should run away because it's better than not running away.
 > 
@@ -87,7 +90,7 @@ I don’t want to say “epistemics are protected from reinforcement learning”
 
 Also, behavioral reinforcement learning is nowhere near this good. You might think that the short-term reward of eating brownies wouldn’t change behavior because the _real_ reward we should be considering is the reward of being healthy and looking good. But this works very inconsistently, as opposed to the “see lions as lions” thing which works all the time.
 
- **III. Am I Ignoring The Many Practical Reasons For People To Have Motivated Reasoning?**
+**III. Am I Ignoring The Many Practical Reasons For People To Have Motivated Reasoning?**
 
 [Melvin](https://astralcodexten.substack.com/p/motivated-reasoning-as-mis-applied/comment/4818536):
 
@@ -121,7 +124,7 @@ You should penalize theories really heavily for every piece of information that 
 
 My take on the motivated-reasoning-as-misapplied-reinforcement-learning theory is something like “we always knew people had to be doing self-deception somehow, I was previously puzzled by how this got implemented, but it turns out it’s a trivial corollary of this other much more fundamental program”.
 
- **IV. Miscellaneous**
+**IV. Miscellaneous**
 
 [qbolec](https://astralcodexten.substack.com/p/motivated-reasoning-as-mis-applied/comment/4818714):
 

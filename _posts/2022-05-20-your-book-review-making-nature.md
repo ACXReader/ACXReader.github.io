@@ -3,9 +3,12 @@ title: "Your Book Review: Making Nature"
 subtitle: "Finalist #2 of the Book Review Contest"
 date: 2022-05-20
 likes: 114
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/55847444/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F334d4a0e-6fe9-4296-bcbf-b84de2f1923a_1024x619.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-making-nature
 ---
-[ _This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_ ]
+[_This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_]
 
 The world of scientific publishing is organized as a hierarchy of status, much like the hierarchy of angels in the Abrahamic religions. At the bottom are the non-peer-reviewed blog posts and Twitter threads. Slightly above are the preprint servers like arXiv, and then big peer-reviewed journals like _PLOS One_. Above those are all the field-specific journals, some with higher reputation than others. And at the top, near the divine presence, are the CNS journals: _Cell_ , _Nature_ , and _Science_.
 
@@ -29,7 +32,7 @@ We’ll first examine the origins of _Nature_ and how it disrupted the publishin
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F99a28e6f-d976-477a-8d14-f47510a23908_200x300.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F99a28e6f-d976-477a-8d14-f47510a23908_200x300.jpeg)
 
-##  **I. On the Origins of** _ **Nature**_
+## **I. On the Origins of** _**Nature**_
 
 The story begins with _Nature_ ’s founder and first editor, Norman Lockyer.
 
@@ -63,7 +66,7 @@ Soon enough, this model would be copied, most notably by the journal _Science_ i
 
 First page of the first edition of _Nature_ , 4 November 1869
 
-##  **II. One Hundred Years of Building a Reputation**
+## **II. One Hundred Years of Building a Reputation**
 
 Despite its popularity, _Nature_ didn’t become prestigious overnight. Far from it, in fact. _Making Nature_ often reminds us that the journal spent most of its history as a low-grade publication where anything could be printed quickly, as long as it was factually correct. (This was ensured by basic checks from the editorial team; _Nature_ articles were not consistently peer-reviewed until the 1970s.) As late as the 1960s, a researcher publishing a preliminary report in _Nature_ was expected to follow up with a longer paper “in a more serious journal.” In other words, _Nature_ delivered quick and cheap distribution, not luxury brand approval.
 
@@ -83,11 +86,11 @@ Consider how many times publication speed is mentioned throughout the first half
 > 
 > A second reason _Nature_ ’s speed of publication would have been compelling to men of science is that getting one’s work into print quickly had become an increasingly essential part of **establishing priority** for a scientific finding or theory. (p. 65)
 > 
-> Scientific weeklies [such as _Nature_ ] played a unique role in researchers’ publishing strategies at the end of the nineteenth century by offering researchers a forum where **short articles could be printed quickly**. (p. 105)
+> Scientific weeklies [such as _Nature_] played a unique role in researchers’ publishing strategies at the end of the nineteenth century by offering researchers a forum where **short articles could be printed quickly**. (p. 105)
 > 
-> Both the _Proceedings_ [ _of the Royal Society of London_ ] and the _Philosophical Magazine_ had significant lag times between submission and publication . . ., which **made** _ **Nature**_ **and its weekly turnaround** **uniquely valuable for the priority-conscious** Rutherford. (p. 109)
+> Both the _Proceedings_[_of the Royal Society of London_] and the _Philosophical Magazine_ had significant lag times between submission and publication . . ., which **made** _**Nature**_**and its weekly turnaround** **uniquely valuable for the priority-conscious** Rutherford. (p. 109)
 > 
-> [Rutherford] sent his most interesting experimental results [to _Nature_ ] immediately, both as a way of keeping his colleagues updated on his work and as **insurance against being scooped** as he had in 1899. (p. 112)
+> [Rutherford] sent his most interesting experimental results [to _Nature_] immediately, both as a way of keeping his colleagues updated on his work and as **insurance against being scooped** as he had in 1899. (p. 112)
 
 These quotes highlight two distinct reasons why speed was important. The first, as I hinted at earlier, was _Nature_ ’s role as the аcademic social media of its time. It was simply the best way to have discussions about scientific topics — or science itself — that could, unlike private correspondence, reach a large audience. More on this in the next section.
 
@@ -138,15 +141,15 @@ And this was only the start of a long list of household names who got involved w
 
 Since _Nature_ in the mid-20th century was popular but still not very prestigious, I’m comfortable assuming that these famous scientists and discoveries helped its reputation rather than the other way around. Today, the arrow of causation is mostly reversed: scientists become influential because they publish research in the most prestigious journal, rather than the journal becoming prestigious because it publishes big names and big papers. Of course, this is a self-reinforcing feedback loop that keeps benefiting _Nature_ , thanks to network effects.
 
-Finally, a word about language. _Nature_ , obviously, is published in English. But English wasn’t the dominant intellectual language back in the 19th century: French and German were more important. The rise of English as the lingua franca of science occurred during the 20th century, thanks to the political dominance of the British Empire and then the United States. As a result, _Nature_ and its American equivalent _Science_ gained a major advantage over their French (e.g. _[La Nature](https://en.wikipedia.org/wiki/La_Nature)_ ) and German (e.g. _[Naturwissenschaften](https://en.wikipedia.org/wiki/The_Science_of_Nature)_ ) counterparts. 
+Finally, a word about language. _Nature_ , obviously, is published in English. But English wasn’t the dominant intellectual language back in the 19th century: French and German were more important. The rise of English as the lingua franca of science occurred during the 20th century, thanks to the political dominance of the British Empire and then the United States. As a result, _Nature_ and its American equivalent _Science_ gained a major advantage over their French (e.g. _[La Nature](https://en.wikipedia.org/wiki/La_Nature)_) and German (e.g. _[Naturwissenschaften](https://en.wikipedia.org/wiki/The_Science_of_Nature)_) counterparts. 
 
-_Making Nature_ doesn’t belabor this self-evident point, but it’s worth mentioning that _Nature_ benefitted from a global network effect that would have been far less attainable outside the Anglosphere.
+ _Making Nature_ doesn’t belabor this self-evident point, but it’s worth mentioning that _Nature_ benefitted from a global network effect that would have been far less attainable outside the Anglosphere.
 
 ### Survival and Conservatism
 
 Speed, elite networks, and English are great, but they won’t help if your publication fails to turn a profit and shuts down. As they say, the lesson of survivorship bias is that you should optimize for being a survivor. Thus the story of _Nature_ is also the story of how it managed to stay alive, unlike most of its contemporaries. 
 
-_Nature_ was (and still is!) a venture of a London publisher called Macmillan and Company. It was very much intended to make money. But Victorian Britain was a crowded market for periodicals. It was common for publications to last just a few years after proving unable to attract enough subscribers. Lockyer himself had been briefly involved as the co-founder and science editor of a generalist magazine called _[The Reader](https://en.wikipedia.org/wiki/The_Reader_\(weekly\))_ , which existed only from 1863 to 1867 (and lost its science section in 1865). It would be tempting to contrast this with the popular success of _Nature_ , but as we saw, most of _Nature_ ’s target audience couldn’t even understand the journal, and as a result both its subscriber base and revenue remained small. 
+ _Nature_ was (and still is!) a venture of a London publisher called Macmillan and Company. It was very much intended to make money. But Victorian Britain was a crowded market for periodicals. It was common for publications to last just a few years after proving unable to attract enough subscribers. Lockyer himself had been briefly involved as the co-founder and science editor of a generalist magazine called _[The Reader](https://en.wikipedia.org/wiki/The_Reader_\(weekly\))_ , which existed only from 1863 to 1867 (and lost its science section in 1865). It would be tempting to contrast this with the popular success of _Nature_ , but as we saw, most of _Nature_ ’s target audience couldn’t even understand the journal, and as a result both its subscriber base and revenue remained small. 
 
 The survival of _Nature_ therefore depended on the goodwill of its owner, Alexander Macmillan. And it took a lot of goodwill! _Nature_ operated at a loss for an entire 30 years. Only at the very end of the 19th century did it manage to turn a profit. 
 
@@ -170,7 +173,7 @@ A central point of _Making Nature_ is that _Nature_ co-evolved with the British 
 
 Such an attitude was helpful from the beginning, but it probably became even more important after the 1970s, when everything changed.
 
-##  **III. WTF Happened in the 1970s?**
+## **III. WTF Happened in the 1970s?**
 
 A fun puzzle from the social sciences: what happened in the early seventies? As evidenced from[ a multitude of charts](https://wtfhappenedin1971.com/), various patterns in society seem to have veered off course around 1971, including growth in wages, inflation, housing costs, energy consumption, number of lawyers, divorce rates, fertility rates, and meat consumption. Whether it was a coincidence or part of the same mysterious phenomenon, we can add to this list the rise of prestige in the science publishing industry.
 
@@ -186,7 +189,7 @@ The 1970s mostly coincide with the leadership of _Nature_ ’s shortest-tenured 
 
 Today’s covers are still in that tradition. Here’s the _Nature_ cover from 2016, as used on the[ Wikipedia page of the journal](https://en.wikipedia.org/wiki/Nature_\(journal\)).
 
- _Nature_ under Maddox and Davies followed the same trend of internationalization as in the previous decades, but the seventies saw what was perhaps the fastest growth outside the UK. Consider these approximate statistics on the origin of research articles from the years when there was a change in editorship:
+_Nature_ under Maddox and Davies followed the same trend of internationalization as in the previous decades, but the seventies saw what was perhaps the fastest growth outside the UK. Consider these approximate statistics on the origin of research articles from the years when there was a change in editorship:
 
   * 1966 (when Maddox became editor): 40% British and 60% international
 
@@ -211,9 +214,9 @@ The impact factor and related metrics are widely seen as problematic for many re
 
 Remember when, in the introduction, I suggested that the journal _Cell_ might be less deserving of its inclusion in the CNS acronym than _Nature_ and _Science_? Well, I may have to take it back.
 
- _Making Nature_ does not mention _Cell_ , except a few times to identify it as a rival to the other two. But as I was pondering the shift to the prestige economy in science, I remembered reading[ an in-depth 2017 article from ](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)_[The Guardian](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)_ that did talk about _Cell_ in the wider context of scientific publishing. Here’s the relevant part (emphasis mine):
+_Making Nature_ does not mention _Cell_ , except a few times to identify it as a rival to the other two. But as I was pondering the shift to the prestige economy in science, I remembered reading[ an in-depth 2017 article from ](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)_[The Guardian](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)_ that did talk about _Cell_ in the wider context of scientific publishing. Here’s the relevant part (emphasis mine):
 
-> “At the start of my career, **nobody took much notice of where you published, and then everything changed in 1974 with** _ **Cell**_ ,” Randy Schekman, the Berkeley molecular biologist and Nobel prize winner, told me. . . . [ _Cell_ ] was edited by a young biologist named Ben Lewin, who approached his work with an intense, almost literary bent. Lewin prized long, rigorous papers that answered big questions – often representing years of research that would have yielded multiple papers in other venues – and, breaking with the idea that journals were passive instruments to communicate science, **he rejected far more papers than he published**.
+> “At the start of my career, **nobody took much notice of where you published, and then everything changed in 1974 with** _**Cell**_ ,” Randy Schekman, the Berkeley molecular biologist and Nobel prize winner, told me. . . . [_Cell_] was edited by a young biologist named Ben Lewin, who approached his work with an intense, almost literary bent. Lewin prized long, rigorous papers that answered big questions – often representing years of research that would have yielded multiple papers in other venues – and, breaking with the idea that journals were passive instruments to communicate science, **he rejected far more papers than he published**.
 > 
 > What he created was a venue for scientific blockbusters, and scientists began shaping their work on his terms. “Lewin was clever. He realised **scientists are very vain, and wanted to be part of this selective members club** ; _Cell_ was ‘it’, and you had to get your paper in there,” Schekman said.
 
@@ -235,11 +238,11 @@ If the _Guardian_ piece is correct, then it sounds like there’s a blind spot i
 
 So it would be a mistake to suppose that _Nature_ ’s success was the necessary consequence of a general theory of prestige. The specific details matter. And in this story, the details include the invention of not one but _two_ disruptive styles of journal: one in 1869, with a focus on speed, and one in 1974, with a focus on selectivity.
 
- _Making Nature_ ’s biggest weakness, then, would be in not recognizing the existence of this second disruption. It isn’t a unique failing: _Nature_ itself, in the[ history of the journal](https://www.nature.com/nature/history-of-nature) published on its website, says nothing about prestige or reputation in the 1970s. Perhaps it would have been gauche to do so. Yet it seems clear that the story of _Nature_ (and, I assume, _Science_ ) is incomplete without an understanding of whatever the f*** happened in the 1970s.
+_Making Nature_ ’s biggest weakness, then, would be in not recognizing the existence of this second disruption. It isn’t a unique failing: _Nature_ itself, in the[ history of the journal](https://www.nature.com/nature/history-of-nature) published on its website, says nothing about prestige or reputation in the 1970s. Perhaps it would have been gauche to do so. Yet it seems clear that the story of _Nature_ (and, I assume, _Science_) is incomplete without an understanding of whatever the f*** happened in the 1970s.
 
-##  **Conclusion**
+## **Conclusion**
 
-Let’s summarize _Nature_ ’s rise to fame. It began 153 years ago as an experiment in science popularization. The experiment failed at its primary aim, but it lucked into a useful niche: fast communication between men of science across disciplines. This allowed it to build a network of elite scientists and a venue for scientific debate. All of this was possible thanks to the editorial commitment of Norman Lockyer and the financial commitment of Macmillan and Company. Fast forward a hundred years, and suddenly (perhaps because of _Cell_ ) scientists start caring very much about where their papers are published. _Nature_ , alongside its twin _Science_ , is propelled to the top of the new prestige hierarchy. 
+Let’s summarize _Nature_ ’s rise to fame. It began 153 years ago as an experiment in science popularization. The experiment failed at its primary aim, but it lucked into a useful niche: fast communication between men of science across disciplines. This allowed it to build a network of elite scientists and a venue for scientific debate. All of this was possible thanks to the editorial commitment of Norman Lockyer and the financial commitment of Macmillan and Company. Fast forward a hundred years, and suddenly (perhaps because of _Cell_) scientists start caring very much about where their papers are published. _Nature_ , alongside its twin _Science_ , is propelled to the top of the new prestige hierarchy. 
 
 The story told in _Making Nature_ doesn’t stop there. There is a chapter on the 1980s that shows how deft the journal was at managing controversies over homeopathy and cold fusion, two events that reinforced its status as a guardian of “proper” science. Then, in the conclusion, Melinda Baldwin gets into the recent history of _Nature_ , which involves a third important disruption of scientific publishing: the advent of the web. 
 

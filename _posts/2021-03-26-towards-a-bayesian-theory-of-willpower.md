@@ -3,6 +3,9 @@ title: "Toward A Bayesian Theory Of Willpower"
 subtitle: "P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary."
 date: 2021-03-26
 likes: 134
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34351219/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7fae5227-235b-4da9-b67f-cf2b536d850a_650x437.jpeg
 original-url: https://www.astralcodexten.com/p/towards-a-bayesian-theory-of-willpower
 ---
 **I.**
@@ -17,7 +20,7 @@ A tradition originating in psychotherapy, and ably represented eg [here by Kaj S
 
 I've come to disagree with all of these perspectives. I think willpower is best thought of as a Bayesian process, ie an attempt to add up different kinds of evidence.
 
- **II.**
+**II.**
 
 My model has several different competing mental processes trying to determine your actions. One is a prior on motionlessness; if you have no reason at all to do anything, stay where you are. A second is a pure reinforcement learner - "do whatever has brought you the most reward in the past". And the third is your high-level conscious calculations about what the right thing to do is.
 
@@ -29,7 +32,7 @@ The economic metaphor here is cute, but the [predictive coding](https://slatesta
 
 This ties the decision-making process into the rest of the brain. At the deepest level, the brain isn't really an auction or an economy. But it is an inference engine, a machine for weighing evidence and coming to conclusions. Your perceptual systems are like this - they weigh different kinds of evidence to determine what you're seeing or hearing. Your cognitive systems are like this, they weigh different kinds of evidence to discover what beliefs are true or false. Dopamine affects all these systems in predictable ways. My theory of willpower asserts that it affects decision-making in the same way - it's representing the amount of evidence for a hypothesis.
 
- **III.**
+**III.**
 
 In fact, we can look at some of the effects of dopaminergic drugs to flesh this picture out further.
 
@@ -41,7 +44,7 @@ In contrast, people on stimulants fidget, pace, and say things like "I have to g
 
 (a quick experiment: wiggle your index finger for one second. Now wave your whole arm in the air for one second. Now jump up and down for one second. Now roll around on the floor for one second. If you're like me, you probably did the index finger one, maybe did the arm one, but the thought of getting up and jumping - let alone rolling on the floor - sounded like too much work, so you didn't. These didn't actually require different amounts of useful resources from you, like time or money or opportunity cost. But the last two required moving more and bigger muscles, so you were more reluctant to do them. This is what I mean when I say there's a prior on muscular immobility)
 
- **IV.**
+**IV.**
 
 I think this theory matches my internal experience when I'm struggling to exert willpower. My intellectual/logical brain processes have some evidence for doing something ("knowing how the education system works, it's important to do homework so I can get into a good college and get the job I want"). My reinforcement-learner/instinctual brain processes have some opposing argument ("doing your homework has never felt reinforcing in the past, but playing computer games has felt really reinforcing!"). These two processes fight it out. If one of them gets stronger (for example, my teacher says I have to do the homework tomorrow or fail the class) it will have more "evidence" for its view and win out. 
 

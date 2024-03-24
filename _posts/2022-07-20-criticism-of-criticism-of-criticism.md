@@ -3,6 +3,9 @@ title: "Criticism Of Criticism Of Criticism"
 subtitle: "..."
 date: 2022-07-20
 likes: 306
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/58139252/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/dbbee2ba-0507-48f7-914b-f6c78fe0df27_1024x1024.png
 original-url: https://www.astralcodexten.com/p/criticism-of-criticism-of-criticism
 ---
 **I.**
@@ -29,7 +32,7 @@ Even more important, if the abstract egregore of EA has a humiliation fetish, th
 
 This makes me suspicious.
 
- **II.**
+**II.**
 
 Psychiatry has its own stock criticisms of itself. We rely too much on pills. We don’t get to know patients enough as individuals. We only treat the symptoms, not the real disease of [insert wild speculation]. We are probably systemically racist somehow, details to be filled in later. Something something Thomas Insel’s RDoC program. Non-psychiatrists in the popular media have stolen these criticisms and made them dumber, but we had them all first.
 
@@ -84,7 +87,7 @@ But you can actually start fights if you bring them up, instead of getting peopl
 
 The racism critique doesn’t imply any specific person is doing any specific thing wrong. Certainly not you! It doesn’t demand any specific response except maybe more awareness, saying the right slogans, and _maybe_ having some other person form a committee to make meaningless changes to some set of bylaws. But the esketamine critique actually demands that you in particular go out and learn about a different medication which is kind of scary and could get you in trouble if you use it wrong. It implies that you personally are failing patients, in a way that some other doctors _aren’t_ failing patients. Maybe it means those other doctors are better than you! And so the knives come out.
 
- **III.**
+**III.**
 
 This is also how I think about EA criticism.
 
@@ -128,7 +131,7 @@ This isn’t to say that paradigmatic criticisms are always bad and useless, and
 
 But the specific claim at the end of Part I above - that the people in power prefer specific to paradigmatic criticism, because it’s less challenging - seems to me the exact opposite of the truth.
 
- **IV.**
+**IV.**
 
 But we’ve got to change paradigms sometimes, right? How do we do that without soliciting paradigmatic criticism?
 

@@ -3,21 +3,24 @@ title: "Highlights From The Comments On Fetishes"
 subtitle: "..."
 date: 2023-08-30
 likes: 69
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/136446464/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/7e7a5f2e-e48a-47b2-9229-5bbc1e187f0f_320x213.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-fetishes
 ---
 Original post: [What Can Fetish Research Tell Us About AI?](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us)
 
- **Table Of Contents:**
+**Table Of Contents:**
 
- **1:** Alternative Theories Of Fetishes  
- **2:** Comments Including Testable Predictions  
- **3:** Comments That Were Very Angry About My Introductory Paragraph  
- **4:** Commenters Describing Their Own Fetishes  
- **5:** Other Comments
+**1:** Alternative Theories Of Fetishes  
+**2:** Comments Including Testable Predictions  
+**3:** Comments That Were Very Angry About My Introductory Paragraph  
+**4:** Commenters Describing Their Own Fetishes  
+**5:** Other Comments
 
 ## 1: Alternative Theories Of Fetishes
 
- **Erusian[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36887572):**
+**Erusian[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36887572):**
 
 > If you take the full evopsych route (which this article implicitly does) then fetishes are best explained not as misfires of the procreative impulse but as part of the wider definition of sexual activity and display. The idea that sex is literally just PIV intercourse is not true of any complex and social species. In all such species you see social roles and rituals around sex. And these are adaptive in that the competitions increase prosociality and role fitness.
 > 
@@ -27,9 +30,9 @@ I don’t see the connection from “the wider definition of sexual activity and
 
 I agree it makes total sense that some things that are closely related to sex (eg lingerie) can get sexual valence in and of themselves through something like classical conditioning. But that doesn’t explain why some things not that closely related to sex (at least for most people) can get sexual valence even greater than the actual sex act.
 
- **Giles English ([extremely relevant blog](https://femdom.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36900693):**
+**Giles English ([extremely relevant blog](https://femdom.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36900693):**
 
->  _> “Here are some zero-evidence just-so-story speculations for how various fetishes might form”_
+> _> “Here are some zero-evidence just-so-story speculations for how various fetishes might form”_
 > 
 > I think that the BDSM fetishes listed are most parsimoniously explained as *super stimulation* affecting those wired for D/s mating strategies. (Just to be clear, I'm talking primal monkey stuff here, not modernity, and "natural" isn't the same as moral.)
 > 
@@ -39,7 +42,7 @@ I agree it makes total sense that some things that are closely related to sex (e
 > 
 > So then you have kinks stemming from solutions to the problem of courting an alpha when you are not an alpha: things that emphasise submissiveness, and maybe sometimes things that ping the "sneaky fucker" strategy such as cuckolding and sissification. And you have kinks that make a partner *seem* more alpha. And both of these are super stimulation.
 
- **Neike Taika-Tessaro[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36925062):**
+**Neike Taika-Tessaro[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36925062):**
 
 > As a submissive, data point: Shame doesn't play into it at all for me. If you ask my friends who's most comfortable talking about sex, it's me. I bring it up as a casual topic like other people bring up video games they've been playing (but, yes, I do try to make sure the people I'm talking to don't mind, sex is a squick topic for a lot of people).
 > 
@@ -49,7 +52,7 @@ I agree it makes total sense that some things that are closely related to sex (e
 > 
 > Being restrained (be it just by bodily force, or by ropes, etc) is a lot like that. There's a deep sense of risk, it requires a lot of trust (and forgiveness, and communication, which new submissives sometimes don't realise), but it's very rewarding.
 
- **Steve Byrnes[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36889741):**
+**Steve Byrnes[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36889741):**
 
 > Here's a really simple theory:
 > 
@@ -71,7 +74,7 @@ This is speculative and I’m not a sex historian, so take all of it with a grai
 
 ## 2: Comments Including Testable Predictions
 
- **Gwern[asks](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36888223):**
+**Gwern[asks](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36888223):**
 
 > The [claim that spanking fetishes might be associated with childhood spanking] seems to have one clearly testable prediction: as spanking rates in Western parenting have drastically plummeted over the past century, AFAIK, there should be a ~20-30 year lag where spanking fetishes also plummet. Is there?
 
@@ -81,7 +84,7 @@ Is this causal? Maybe. Alternate explanations: people who found spanking erotic 
 
 Aella finds that spanking fetishists are no older (on average) than non-fetishists. Since spanking rates were higher in the past, we might consider this evidence against the theory (using “time” as a non-confounded proxy variable for spanking exposure). But having fetishes was also less common in the past. I hope Aella is able to analyze some of this in more depth!
 
- **A friend on Discord quotes[an NYMag article](https://nymag.com/news/features/sex/fetishes-2013-7/):**
+**A friend on Discord quotes[an NYMag article](https://nymag.com/news/features/sex/fetishes-2013-7/):**
 
 > Enema fetishists, for whom the ultimate erotic act is to be splayed across someone’s lap with a rubber hose in their rectum, are rarer than they used to be, says Lehne, but those that do exist tend to be older Jewish men of Eastern European descent whose mothers used enemas to force the issue when their little ones didn’t poo on cue.
 
@@ -152,11 +155,11 @@ I never asked any of these people to care about my half-joking introductory para
 
 ## 4: Commenters Describing Their Own Fetishes
 
- **Tiffany[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36896767):**
+**Tiffany[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36896767):**
 
 > For what it's worth, on the specific physical action of bondage (mostly thinking of things like people being tied up here), when I'm engaging with it, I can feel my brain going down the same mental paths as grasping, like, with my arms and hands. That is, viscerally speaking, I would want to tie up a partner for essentially the same reasons I would want to hold them, and vice versa; the bonds are just a tool with which to accomplish something similar to holding. The analogy to the other fetishes listed here seems fairly obvious.
 
- **Anand[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36888005):**
+**Anand[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36888005):**
 
 > I accidentally developed a bit of a foot fetish earlier this year, because of AI.
 > 
@@ -172,9 +175,9 @@ I never asked any of these people to care about my half-joking introductory para
 
 ## 5: Other Comments
 
- **Jeffrey Soreff[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36893813):**
+**Jeffrey Soreff[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36893813):**
 
->  _> “But concepts like “man” and “woman” are learned during childhood as patterns of neural connections"_
+> _> “But concepts like “man” and “woman” are learned during childhood as patterns of neural connections"_
 > 
 > Hmm - this casts doubt on whether the practice of systematically preventing children from seeing nude men and women is ... optimal. Oh well, not my problem...
 
@@ -182,19 +185,19 @@ Seems plausible. The more you keep kids in the dark about what normal sex is, th
 
 My other crazy theory along these lines is that the modern emphasis on hiding gender - both obvious manifestations like parents who refuse to gender their children, less obvious manifestations like the parents who think it’s old-fashioned to get pink things for their daughter, and universal things like women mostly not wearing dresses - prevents kids from getting enough gender cues to develop a model of gender and increases the chance that they become trans (because it’s less obvious to their System I what gender they are). I think this is pretty unlikely, but still plausible enough to deserve some study. I don’t know how you’d study it though; most kids who are less exposed to clear gender cues are in environments that are more liberal in other ways too.
 
- **David Roman ([blog](https://mankind.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36906128):**
+**David Roman ([blog](https://mankind.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36906128):**
 
 > I find it remarkable that, even though he’s somebody who has written somewhat disparagingly of Slavoj Zizek in the past, the study of fetishes has led Scott to arrive at an understanding of sexuality not unlike Zizek’s. The way Zizek sees it, sexuality has a universal surplus, a capacity to overflow the entire field of human experience so that everything, from eating to excretion, from beating up our fellow man (or getting beaten up by him) to the exercise of power, can acquire a sexual connotation. And this is not a sign of its preponderance, but one of a certain structural faultiness: sexuality strives outward and overflows the adjoining domains precisely because it cannot find satisfaction in itself, because it never attains its goal or never-ending reproduction and because – as Alexander argues – sexuality is continuously thwarted by evolution – condoms, porn, etc – so, in Deleuzian terms, “perversion enters the stage as an inherent reversal of this ‘normal’ relationship between the asexual, literal sense and the sexual co-sense.” In perversion, even light perversion such as the one expressed by foot fetishes, sexuality becomes one desexualized object among others. To put it in an even more Zizekian fashion, I have to quote Zizek himself (in “The Plague of Fantasies,” 2009): “This link between sexualization and failure is of the same nature as the link between matter and space curvature in Einstein: matter is not a positive substance whose density curves space, it is tied to the curvature of space. By analogy, one should also 'desubstantialize' sexuality: sexuality is not a kind of traumatic substantial Thing, which the subject cannot attain directly; it is nothing but the formal structure of failure which, in principle, can 'contaminate' any activity. So, again, when we are engaged in an activity which fails to attain its goal directly, and gets caught in a repetitive vicious cycle, this activity is automatically sexualized - a rather vulgar everyday example: if, instead of simply shaking my friend's hand, I were to squeeze his palm repeatedly for no apparent reason, this repetitive gesture would undoubtedly be experienced by him or her as sexualized in an obscene way.”
 
- **Peter Gerdes ([blog](https://peteri394q.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) writes:**
+**Peter Gerdes ([blog](https://peteri394q.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) writes:**
 
 > I think a really important implication of this is that, contra a fundamental plank in AI alignment risk arguments, it's not the case that we should expect greater intelligence to mean greater coherence.
 > 
 > I mean, in some sense any set of actions can be seen as optimizing a preference function but what we mean by coherence is that it looks like maximizing a simple function (maximize paperclips not appreciate the weird beauty of paperclips that are uncommon as a paperclip hipster). Fetishes don't look like paperclip maximization.
 
- **Steve Byrnes[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36889566):**
+**Steve Byrnes[writes](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us/comment/36889566):**
 
->  _> “Evolution controls the genetic code but not the reinforcement environment. Humans have the option of training AIs directly, a much higher bandwidth and less lossy communication channel.”_
+> _> “Evolution controls the genetic code but not the reinforcement environment. Humans have the option of training AIs directly, a much higher bandwidth and less lossy communication channel.”_
 > 
 > I don't think the comparison is clear-cut.
 > 

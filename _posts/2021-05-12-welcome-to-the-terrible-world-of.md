@@ -3,6 +3,9 @@ title: "Welcome To The Terrible World Of Prescription-Only Apps"
 subtitle: "You can get GHB on the darknet for $20, but learning healthy sleep habits is $899 and by prescription only"
 date: 2021-05-12
 likes: 123
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36087892/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85301bcd-495f-4b60-b44e-f352d0f46515_2250x1500.webp
 original-url: https://www.astralcodexten.com/p/welcome-to-the-terrible-world-of
 ---
 Trouble falling asleep? You could take sleeping pills, but they've got side effects. Guidelines recommend you try Cognitive Behavioral Therapy For Insomnia (CBT-i), a medication-free process where you train yourself to fall asleep by altering your schedule and sleep conditions.
@@ -31,7 +34,7 @@ I'm not some kind of anti-doctor extremist. I've been a doctor for ten years, my
 
 Therapy apps are a perfect solution to this problem. Except that if you make people go to a professional to get a prescription to use the app, you’re kind of clutching defeat from the jaws of victory.
 
- **II.**
+**II.**
 
 So why are health apps starting to become prescription-only?
 
@@ -47,7 +50,7 @@ The good news is, Somryst has partnered with telemedicine provider [UpScript](ht
 
 On the one hand, at least this saves you from Doctor Search Hell. On the other, it involves paying $45 for the right to pay $899. So it’s kind of a wash.
 
- **III.**
+**III.**
 
 Who killed the democratization of mental health?
 
@@ -65,7 +68,7 @@ I secondarily blame all the people who should have made the $10 app but didn’t
 
 And you should do it soon. Alexander Pope writes:
 
->  _Vice is a monster of such frightful mien  
+> _Vice is a monster of such frightful mien  
 >  As to be hated, needs but to be seen.  
 > But seen too oft, familiar with its face  
 > We first endure, then pity, then embrace_

@@ -3,6 +3,9 @@ title: "Model City Monday 8/1/22"
 subtitle: "..."
 date: 2022-08-01
 likes: 111
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/64974800/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75cb7a1b-af56-4f4d-b6ff-96139031f2e5_1457x965.png
 original-url: https://www.astralcodexten.com/p/model-city-monday-8122
 ---
 ## Neom Neom Neom
@@ -103,15 +106,15 @@ This is not the long-awaited dream of the libertarian seastead; the whole city w
 
 ## Elsewhere In Model Cities
 
- **1:** Prospera now hosts the drone delivery service Aerialoop, which will eventually transport cargo from their Roatan Island hub to various outposts on the mainland; you can find more information [here](https://www.reddit.com/r/Prospera/comments/w14rot/more_details_about_aerialoop_in_pr%C3%B3spera/). Their long-term plans include eventually following this up with passenger drones. And here’s some more information on [the growing drone industry in Latin America](https://www.commercialuavnews.com/drone-delivery/solving-the-middle-mile-conundrum-in-drone-deliveries).
+**1:** Prospera now hosts the drone delivery service Aerialoop, which will eventually transport cargo from their Roatan Island hub to various outposts on the mainland; you can find more information [here](https://www.reddit.com/r/Prospera/comments/w14rot/more_details_about_aerialoop_in_pr%C3%B3spera/). Their long-term plans include eventually following this up with passenger drones. And here’s some more information on [the growing drone industry in Latin America](https://www.commercialuavnews.com/drone-delivery/solving-the-middle-mile-conundrum-in-drone-deliveries).
 
- **2:** Related: Prospera intern and resident George Kerpestein is [writing a Substack](https://casualrealism.substack.com/p/a-path-to-prosperity-i-the-butterfly) about his experiences there. And here is [the Prospera newsletter](http://v.marketingautomation.services/view?k=2&c=308481253&j=184356098050&l=Mzc1NDA1NTEzMDY1AQA&utm_medium=email&utm_source=sharpspring&sslid=Mzc1NDA1NTEzMDY1AQA&sseid=MzIxtTA2NjI0MwIA&jobid=00150ac7-b6ad-4465-8311-a9a50af25403).
+**2:** Related: Prospera intern and resident George Kerpestein is [writing a Substack](https://casualrealism.substack.com/p/a-path-to-prosperity-i-the-butterfly) about his experiences there. And here is [the Prospera newsletter](http://v.marketingautomation.services/view?k=2&c=308481253&j=184356098050&l=Mzc1NDA1NTEzMDY1AQA&utm_medium=email&utm_source=sharpspring&sslid=Mzc1NDA1NTEzMDY1AQA&sseid=MzIxtTA2NjI0MwIA&jobid=00150ac7-b6ad-4465-8311-a9a50af25403).
 
- **3:** Thanks to commenters last month for pointing out that Chinese cult Falun Gong has its own compound/city in upstate New York. You can read more about it [here](https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9#inside-the-compound-reports-suggest-internet-is-limited-medicine-is-barely-used-relationships-are-arranged-11):
+**3:** Thanks to commenters last month for pointing out that Chinese cult Falun Gong has its own compound/city in upstate New York. You can read more about it [here](https://www.businessinsider.com/dragon-springs-falun-gong-upstate-new-york-compound-photos-2019-9#inside-the-compound-reports-suggest-internet-is-limited-medicine-is-barely-used-relationships-are-arranged-11):
 
 [![This Friday, March 8, 2019, photo shows the Falun Gong Dragon Springs compound in Otisville, N.Y.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5bd505ec-7998-4f17-b1b5-82cbaa663ea0_700x525.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5bd505ec-7998-4f17-b1b5-82cbaa663ea0_700x525.jpeg)
 
- **4:**[Sealand](https://en.wikipedia.org/wiki/Principality_of_Sealand) is an independent nation (according to Sealand) based out of an old WWII sea fort in international waters. It is not for sale, but the Bull Sandfort is, for only £50,000. Alas, this one is firmly within British territorial waters. But it does look pretty defensible…anyway, see the listing [here](https://www.rightmove.co.uk/properties/124641977#/?channel=RES_BUY).
+**4:**[Sealand](https://en.wikipedia.org/wiki/Principality_of_Sealand) is an independent nation (according to Sealand) based out of an old WWII sea fort in international waters. It is not for sale, but the Bull Sandfort is, for only £50,000. Alas, this one is firmly within British territorial waters. But it does look pretty defensible…anyway, see the listing [here](https://www.rightmove.co.uk/properties/124641977#/?channel=RES_BUY).
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3fc09d9d-ac8b-4e5f-a4c0-061832919c87_753x416.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3fc09d9d-ac8b-4e5f-a4c0-061832919c87_753x416.png)
 
@@ -119,7 +122,7 @@ This is not the long-awaited dream of the libertarian seastead; the whole city w
 
   1. In 2030, there are at least 50,000 people in whatever the Neom project has evolved into by then: **75%**
 
-  2. Saudi Arabia builds a structure at least 100m x 100m x 1000m before 2040 or the Singularity, whichever comes first: < **1%**
+  2. Saudi Arabia builds a structure at least 100m x 100m x 1000m before 2040 or the Singularity, whichever comes first: <**1%**
 
   3. In 2030, the Trojena Ski Resort exists, an ordinary (rich) person can book a room and go skiing there, and it is at least close to as impressive as the pictures (my subjective judgment; doesn’t have to be exactly the same design): **5%**
 

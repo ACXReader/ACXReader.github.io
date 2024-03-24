@@ -2,14 +2,17 @@
 title: "On Hreha On Behavioral Economics"
 subtitle: "..."
 date: 2021-08-30
-likes: 106
+likes: 107
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/40639720/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7134c2c3-1b3c-439a-beea-d7cd1d96ae79_599x469.png
 original-url: https://www.astralcodexten.com/p/on-hreha-on-behavioral-economics
 ---
 Jason Hreha’s article on [The Death Of Behavioral Economics](https://www.thebehavioralscientist.com/articles/the-death-of-behavioral-economics) has been going around lately, after an experiment by behavioral econ guru Dan Ariely was discovered to be fraudulent. The article argues that this is the tip of the iceberg - looking back on the last few years of replication crisis, behavioral economics has been undermined almost to the point of irrelevance.
 
 The article itself mostly just urges behavioral economists to do better, which is always good advice for everyone. But as usual, it’s the inflammatory title that’s gone viral. I think a strong interpretation of behavioral economics as dead or debunked is unjustified.
 
- **I.**
+**I.**
 
 My medical school had final exams made of true-false questions, with an option to answer “don’t know”. They were scored like so: if you got it right, +1 point; wrong, -0.5 points; don’t know, 0. You can easily confirm that it’s always worth guessing even if you genuinely don’t know the answer (+0.25 points on average instead of 0). On average people probably had to guess on ~30% of questions (don’t ask; it’s an Irish education system thing), so you could increase your test score 7.5% with the right strategy here.
 
@@ -35,7 +38,7 @@ Nobody believes studies anymore, which is fair. I trust in a salvageable core of
 
 Let’s move on to Hreha’s article and see if we can square it with my belief in a “salvageable core”.
 
- **II. Yechaim’s Historical Detective Story**
+**II. Yechaim’s Historical Detective Story**
 
 Hreha writes:
 
@@ -93,7 +96,7 @@ Here’s how Yechaim summarizes his accusation against K&T:
 
 Yechaim bases his argument on three sets of early studies of loss aversion: Galenter and Plinter (1974), Fishburn and Kochenberger’s review (1979) and miscellaneous others.
 
- **—Galenter and Plinter—** is actually really neat! It explores “cross-modal” perceptions of gains versus losses. That is, if you ask how much a certain loss hurt, people will probably just say something like “I dunno, a little?” and then it will be hard to turn that into a p-value. G&P solve this by making people listen to loud noises, and asking questions like “is the difference between how much loss A and loss B hurt greater or lesser than the difference between the volume of noise 1 and noise 2?” The idea is that the brain uses a bunch of weird non-numerical scales for everything, and we understand its weird-non-numerical scale for noise volume pretty well, and so maybe we can compare it to how people think about gains or losses. I don’t know why people in 1974 were doing anything this complicated instead of inventing the basic theory of loss aversion the way Kahneman and Tversky would five years later, but here we are.
+**—Galenter and Plinter—** is actually really neat! It explores “cross-modal” perceptions of gains versus losses. That is, if you ask how much a certain loss hurt, people will probably just say something like “I dunno, a little?” and then it will be hard to turn that into a p-value. G&P solve this by making people listen to loud noises, and asking questions like “is the difference between how much loss A and loss B hurt greater or lesser than the difference between the volume of noise 1 and noise 2?” The idea is that the brain uses a bunch of weird non-numerical scales for everything, and we understand its weird-non-numerical scale for noise volume pretty well, and so maybe we can compare it to how people think about gains or losses. I don’t know why people in 1974 were doing anything this complicated instead of inventing the basic theory of loss aversion the way Kahneman and Tversky would five years later, but here we are.
 
 Anyway, Yechaim concludes that this study failed to find loss aversion:
 
@@ -113,7 +116,7 @@ Again, the way the book is summarized (apparently by the author) says this study
 
 Without being able to access the full study, I’m not sure what’s going on. Possibly the study found loss aversion, but it was less than expected? Still, I feel like Yechaim should have mentioned this. At the very least, it decreases Kahneman and Tversky’s crime from “lied about a study to support their pet theory” to “credulously believed the authors’ own summary of their results and didn’t dig deeper”. But also, why did the authors believe their study showed loss aversion? Why does Yechaim disagree? Without being able to access the full paper, I’m not sure.
 
- **—Green 1963—** is the second study that Yechaim accuses K&T of misrepresenting. Here’s how K&T cite this study in their paper:
+**—Green 1963—** is the second study that Yechaim accuses K&T of misrepresenting. Here’s how K&T cite this study in their paper:
 
 > It is of interest that the main properties ascribed to the value function have been observed in a detailed analysis of von Neumann-Morgenstern utility functions for changes of wealth (Fishburn and Kochenberger [14]). The functions had been obtained from thirty decision makers in various fields of business, in five independent studies [5, 18, 19, 21, 40]. Most utility functions for gains were concave, most functions for losses were convex, and only three individuals exhibited risk aversion for both gains and losses. With a single exception, utility functions were considerably steeper for losses than for gains. 
 
@@ -139,7 +142,7 @@ I have to imagine that all of this was normal by the standards of the time. I ha
 
 As best I can tell, K&T’s citation of G&P agrees with the authors’ own assessment of their results. Their citation of F&K agrees with the reviewers’ assessment and with a charitable reading of most of the studies involved, although those studies are terrible in many ways which are obvious to modern readers. I would urge people interested in the whodunit question to read [Kahneman and Tversky’s original paper](https://sci-hub.st/https://www.jstor.org/stable/1914185). I think it paints the picture of a team very interested in their own results and in theory, and citing other people only incidentally, and in accordance with the scientific standards of their time. I don’t feel a need to tar them as “misrepresenters”.
 
- **III. Okay, But Is Loss Aversion Real?**
+**III. Okay, But Is Loss Aversion Real?**
 
 Remember, all that is about the personal deficiencies of Kahneman and Tversky. Realistically there have been hundreds of much better studies on loss aversion in the forty years since they wrote their article, so we should be looking at those.
 
@@ -167,11 +170,11 @@ The main point I want to make is that all the scientists in this debate seem sma
 
 And this is just a drop in the bucket. Alex Imas also links [Replicating patterns of prospect theory for decision under risk](https://www.nature.com/articles/s41562-020-0886-x?proof=t), which says:
 
-> Though substantial evidence supports prospect theory, many presumed canonical theories have drawn scrutiny for recent replication failures. In response, we directly test the original methods in a multinational study ( _n_ = 4,098 participants, 19 countries, 13 languages), adjusting only for current and local currencies while requiring all participants to respond to all items. The results replicated for 94% of items, with some attenuation. Twelve of 13 theoretical contrasts replicated, with 100% replication in some countries. Heterogeneity between countries and intra-individual variation highlight meaningful avenues for future theorizing and applications. We conclude that the empirical foundations for prospect theory replicate beyond any reasonable thresholds. 
+> Though substantial evidence supports prospect theory, many presumed canonical theories have drawn scrutiny for recent replication failures. In response, we directly test the original methods in a multinational study (_n_ = 4,098 participants, 19 countries, 13 languages), adjusting only for current and local currencies while requiring all participants to respond to all items. The results replicated for 94% of items, with some attenuation. Twelve of 13 theoretical contrasts replicated, with 100% replication in some countries. Heterogeneity between countries and intra-individual variation highlight meaningful avenues for future theorizing and applications. We conclude that the empirical foundations for prospect theory replicate beyond any reasonable thresholds. 
 
 Beyond any reasonable thresholds!
 
- **IV. Do Nudges Work? or, How Small Is Small?**
+**IV. Do Nudges Work? or, How Small Is Small?**
 
 Continuing through the Hreha article:
 
@@ -251,7 +254,7 @@ All the people talking about oil sheiks deserve to get asked some really uncomfo
 
 Still, the neighbor seems like a neat guy, and maybe he’ll give you a job at his bookstore.
 
- **V. Conclusion: Musings On The Identifiable Victim Effect**
+**V. Conclusion: Musings On The Identifiable Victim Effect**
 
 I actually skipped the very beginning of Hreha’s article. I want to come back to it now. It begins:
 
@@ -272,9 +275,9 @@ But more important - what does it mean to say that the Identifiable Victim Effec
 
 The Identifiable Victim Effect is a thing where people care more about harm done to an identifiable victim (eg “John the cute orphan”) than a broad class of people (eg “inhabitants of Ethiopia”). Hreha’s article doesn’t link to the purported failed replications, but plausibly it’s [Hart, Lane, and Chinn: The elusive power of the individual victim: Failure to find a difference in the effectiveness of charitable appeals focused on one compared to many victims](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6051573/). If I understand right, it compared simulated charity ads:
 
- **Ad A:** A map of the USA. Text describing how millions of single mothers across the country are working hard to support their children, and you should help them.
+**Ad A:** A map of the USA. Text describing how millions of single mothers across the country are working hard to support their children, and you should help them.
 
- **Ad B:** A picture of a woman. Text describing how this is Mary, a single mother who is working hard to support her children, and you should help her.
+**Ad B:** A picture of a woman. Text describing how this is Mary, a single mother who is working hard to support her children, and you should help her.
 
 All subjects were entered into a raffle to win a gift certificate for participating in the study, and they were offered the opportunity to choose to donate some of it to single mothers. Subjects who saw Ad B didn’t donate any more of their gift certificate than those who saw Ad A. This is a good study. I’m mildly surprised by the result, but I don’t see anything wrong with it.
 

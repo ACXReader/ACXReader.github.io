@@ -3,6 +3,9 @@ title: "Against Ice Age Civilizations"
 subtitle: "..."
 date: 2023-03-03
 likes: 167
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/105276825/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/c8eb8521-5b2e-410f-9947-fb46bf7961b4_367x252.png
 original-url: https://www.astralcodexten.com/p/against-ice-age-civilizations
 ---
 There’s a good debate about this [on the subreddit](https://www.reddit.com/r/slatestarcodex/comments/11bnzgw/no_there_wasnt_an_advanced_civilization_12000/); see also [Robin Hanson](https://www.overcomingbias.com/p/lost-advanced-civilizationshtml) and [Samo Burja](https://www.palladiummag.com/2021/05/22/palladium-podcast-59-samo-burja-on-long-history/).
@@ -24,7 +27,7 @@ The debate is confused by people doing a bad job clarifying which of these categ
 
 I think there’s weak evidence against level 1 civilizations, and strong evidence against level 2 or 3 civilizations.
 
- **Argument 1: Where Are The Sites?**
+**Argument 1: Where Are The Sites?**
 
 Supporters of ice age civilizations argue that sea level rose 120 meters as the Ice Age glaciers melted, flooding low-lying coasts and destroying any evidence of coastal civilizations. 
 
@@ -63,7 +66,7 @@ So if there were Ice Age civilizations, what did they eat? It couldn’t have be
 
 Could Ice Age civilizations have thrived without domesticating any plants? We increasingly realize that agriculture isn’t all-or-nothing, there’s a spectrum from picking wild plants when you come across them to domestication, irrigation, and the full suite of agricultural technologies. It wouldn’t surprise me if some combination of early-non-domestication-involving agriculture and hunting-gathering off of very rich lands could create enough sophistication to build a Stonehenge or a Gobekli Tepe. But you’re not getting Egypt or Great Britain off of that, sorry.
 
- **Argument 3: Lead Levels**
+**Argument 3: Lead Levels**
 
 Thanks to commenter [WTFwhatthehell](https://www.reddit.com/r/slatestarcodex/comments/11bnzgw/no_there_wasnt_an_advanced_civilization_12000/j9zn8zd/) for bringing this one up.
 
@@ -85,7 +88,7 @@ So this presents some very weak evidence against significantly elevated lead fro
 
 A Great Britain-level civilization would be expected to raise lead levels a lot, and this pretty strongly rules it out. I would expect an Egypt-level civilization to at least invent cupellation, but I don’t know if its lead would necessarily make it to wherever these bones came from. A Stonehenge or Gobekli Tepe level civilization isn’t ruled out at all.
 
- **Conclusion**
+**Conclusion**
 
 I think there’s pretty strong evidence against lost Egypt- or Great Britain- level Ice Age civilizations.
 

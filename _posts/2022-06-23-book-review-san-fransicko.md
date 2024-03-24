@@ -3,11 +3,14 @@ title: "Book Review: San Fransicko"
 subtitle: "..."
 date: 2022-06-23
 likes: 162
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/59053420/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/74bb4b11-df4e-42da-b931-2f36fdea2f0b_750x421.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-san-fransicko
 ---
 Last month [I discussed the platforms of](https://astralcodexten.substack.com/p/california-gubernatorial-candidates) twenty-six candidates for California governor. One candidate, author and activist Michael Shellenberger, objected to my characterization of him, so I read his book _[San Fransicko](https://amzn.to/3yb25Ra) _to learn more and decide whether I owed him an apology.
 
- _San Fransicko_ is subtitled “Why Progressives Ruin Cities”. It builds off the kind of stories familiar to most Bay Area residents:
+_San Fransicko_ is subtitled “Why Progressives Ruin Cities”. It builds off the kind of stories familiar to most Bay Area residents:
 
 > In the spring of 2021 two colleagues and I went to San Francisco. We first went to check in on the open-air drug scenes in the Tenderloin and United Nations Plaza. It was the usual scenes of people sitting against buildings and injecting drug needles into their necks and feet. There was garbage, old food, and feces everywhere. After a couple of hours, we decided to go out to eat in the Mission. Work was over. We were all looking forward to a relaxing dinner. We were eating ice cream and walking along Valencia Street when a psychotic man, perhaps about thirty years old, began following us and screaming obscenities. When we turned around to look at him, he screamed at us, “What are you looking for, huh! WHAT. ARE. YOU. LOOKING. FOR!” and started walking faster toward us. We walked faster until the man found other people to verbally assault.
 
@@ -96,7 +99,7 @@ Whatever the factors involved, they have to explain not just why there are so fe
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1bfb053-9378-454c-a903-91d974a1a521_1610x407.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1bfb053-9378-454c-a903-91d974a1a521_1610x407.png)The San Francisco districts with the highest (left) and lowest (right) homelessness rates. I correlated homelessness rate and population-adjusted density in the same cities I looked at above, but it didn’t add much predictive value to housing prices. Maybe this is restriction of range (all big cities are dense enough to have homelessness, compared to suburbs), or maybe the key feature is relative rather than absolute density (ie the homeless will go to the densest place nearby).
 
- **Conclusion:** No social phenomenon is ever caused by just one thing, but San Francisco’s homelessness rate is around where a housing-cost-based model would predict. _San Fransicko_ briefly touches on this, but overall tries to de-emphasize it in favor of talking about drugs and mental illness. Critiques of patterns of emphasis are necessarily subjective, but the book’s pattern feels misleading to me.
+**Conclusion:** No social phenomenon is ever caused by just one thing, but San Francisco’s homelessness rate is around where a housing-cost-based model would predict. _San Fransicko_ briefly touches on this, but overall tries to de-emphasize it in favor of talking about drugs and mental illness. Critiques of patterns of emphasis are necessarily subjective, but the book’s pattern feels misleading to me.
 
 ## Claim 2: Standard Accounts Underemphasize The Role Of Drugs And Mental Illness In Homelessness
 
@@ -118,7 +121,7 @@ Studies like these don’t show causation. Sure, mental illness can make people 
 
 What about psychosis in particular? [This meta-analysis](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-019-2361-7) claims that in developed countries (a category to which San Francisco still nominally belongs) about 19% of homeless people qualify for diagnosis with a psychotic disorder, including 9% with schizophrenia in particular. Not all people with psychotic disorders are completely crazy all the time, and [some very much are not](https://astralcodexten.substack.com/p/in-partial-grudging-defense-of-the?s=w), but this is at least a specific condition with real criteria.
 
- **Conclusion:** Overall, I’m disappointed in most of the published research on this question, which seems more interested in producing glossy brochures about funding disparities than in informing anybody what any of their numbers mean. But putting it all together and squinting really hard, I think we can tell a story where 10-20% of the homeless are seriously psychotic, and another 20-30% have contributing mental health conditions including depression, PTSD, and others. Somewhere between 25% and 50% of the homeless have substance abuse problems, and this probably mostly overlaps with the 25% - 50% who have psych diagnoses. I think _San Fransicko_ gets this mostly right.
+**Conclusion:** Overall, I’m disappointed in most of the published research on this question, which seems more interested in producing glossy brochures about funding disparities than in informing anybody what any of their numbers mean. But putting it all together and squinting really hard, I think we can tell a story where 10-20% of the homeless are seriously psychotic, and another 20-30% have contributing mental health conditions including depression, PTSD, and others. Somewhere between 25% and 50% of the homeless have substance abuse problems, and this probably mostly overlaps with the 25% - 50% who have psych diagnoses. I think _San Fransicko_ gets this mostly right.
 
 ## Claim 3: “Housing First” Isn’t As Great As People Think, And Might Be Harmful
 
@@ -149,7 +152,7 @@ I found [Basu et al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3393008/) help
 
 …and find that:
 
-> Those in the intervention group incurred 2.6 fewer hospitalized days ( _p_ = .08), 1.2 fewer emergency room visits ( _p_ = .04), 7.5 fewer days in residential substance abuse treatment ( _p_ = .004), 9.8 fewer nursing home days ( _p_ = .08), and 3.8 more outpatient visits each year ( _p_ = .01) annually compared with those in the usual care group. Those in the intervention group had 7.7 fewer prison days during the study period ( _p_ = .07). Those in the intervention group had 62 more days in stable housing ( _p_ = .001) and 12 more days in respite care ( _p_ = .002) than those in the usual care group. Those in the intervention group used case management services (i.e., telephone calls and face-to-face meetings) more frequently than those in the usual care group, having on average 18 more encounters per year ( _p_ < .001).
+> Those in the intervention group incurred 2.6 fewer hospitalized days (_p_ = .08), 1.2 fewer emergency room visits (_p_ = .04), 7.5 fewer days in residential substance abuse treatment (_p_ = .004), 9.8 fewer nursing home days (_p_ = .08), and 3.8 more outpatient visits each year (_p_ = .01) annually compared with those in the usual care group. Those in the intervention group had 7.7 fewer prison days during the study period (_p_ = .07). Those in the intervention group had 62 more days in stable housing (_p_ = .001) and 12 more days in respite care (_p_ = .002) than those in the usual care group. Those in the intervention group used case management services (i.e., telephone calls and face-to-face meetings) more frequently than those in the usual care group, having on average 18 more encounters per year (_p_ < .001).
 
 This study provided case management along with the free housing. I don’t know whether to think of that as a confounder, or a standard aspect of Housing First programs (especially since it is much harder to case manage someone with no fixed address).
 
@@ -177,7 +180,7 @@ Elsewhere, they describe this same study as: “The eleven-site federal collabor
 
 The study is [here](https://aspe.hhs.gov/reports/hudhhsva-collaborative-initiative-help-end-chronic-homelessness-system-integration-associated-client-1), but I can’t find this result anywhere. It describes its own results (my emphasis) as:
 
->  _The average number of days housed in the previous 90 days increased dramatically from 18 at baseline, to 68 at the 3-month follow-up, and rose steadily thereafter to 83 at the 12 month follow-up (Table 2). Mean monthly public assistance income increased steadily from $316 at baseline to $478 one year later, a 50% increase. Significant improvements of modest magnitude were also observed in overall quality of life, mental health functioning, and reduced psychological distress. **Alcohol and drug problems remained largely unchanged over time**. Total quarterly health costs declined by 50%, from $6,832 at baseline to $3,376 at 12 months. A 54% decrease in mean inpatient costs ($5,776 to $2,677) accounted for nearly 90% of the overall decrease in quarterly health care costs during clients' first year in the program_
+> _The average number of days housed in the previous 90 days increased dramatically from 18 at baseline, to 68 at the 3-month follow-up, and rose steadily thereafter to 83 at the 12 month follow-up (Table 2). Mean monthly public assistance income increased steadily from $316 at baseline to $478 one year later, a 50% increase. Significant improvements of modest magnitude were also observed in overall quality of life, mental health functioning, and reduced psychological distress.**Alcohol and drug problems remained largely unchanged over time**. Total quarterly health costs declined by 50%, from $6,832 at baseline to $3,376 at 12 months. A 54% decrease in mean inpatient costs ($5,776 to $2,677) accounted for nearly 90% of the overall decrease in quarterly health care costs during clients' first year in the program_
 
 And the table (slightly edited for readability):
 
@@ -219,7 +222,7 @@ Only 23% of people given housing retained after ten years sounds bad. But you co
 
 (or maybe not - the study doesn’t say why people left the program. It mentions that one possible outcome is having to go to a nursing home because they had grown too sick or old to support themselves. I am not sure that “23% stay in this program” means “77% are back on the street and all their care has been a total failure”.)
 
- **Conclusion:** Housing First seems to work in getting people housing. It probably also helps people use fewer medical services, and it might or might not save money compared to not doing it (probably more likely when treating very severe cases, less likely in areas with high housing costs). It probably doesn’t affect people’s overall health or drug use status very much. _San Fransicko_ is right to call out all the people promoting it beyond what the evidence supports, but then goes on to attack it beyond what the evidence supports.
+**Conclusion:** Housing First seems to work in getting people housing. It probably also helps people use fewer medical services, and it might or might not save money compared to not doing it (probably more likely when treating very severe cases, less likely in areas with high housing costs). It probably doesn’t affect people’s overall health or drug use status very much. _San Fransicko_ is right to call out all the people promoting it beyond what the evidence supports, but then goes on to attack it beyond what the evidence supports.
 
 ## Interlude: Why Can’t We Just House All The Homeless?
 
@@ -323,7 +326,7 @@ More recently, SF has tried a sort of compromise, opening “deluxe” shelters 
 
 I’m not at all sure of these numbers, but it looks like of SF’s ~7,000 homeless, about 2,000 are in shelters already, and 1,000 are on the shelter waitlist. I don’t know if the remaining 4,000 have made a specific commitment not to go to shelters, or just have given up on the waitlist process.
 
- **My conclusion:** agree with _San Fransicko_ about the role of progressive activists, but I think it overemphasizes the role of wanting to use drugs in why homeless people themselves sometimes avoid shelters, and underemphasizes the many other problems with them.
+**My conclusion:** agree with _San Fransicko_ about the role of progressive activists, but I think it overemphasizes the role of wanting to use drugs in why homeless people themselves sometimes avoid shelters, and underemphasizes the many other problems with them.
 
 ## Claim 5: Drug Decriminalization Isn’t Working
 
@@ -380,7 +383,7 @@ What about _San Fransicko_ ’s main point - that as the US has wound down the W
 
 I think this is _mostly_ not causal. I think the sextupling of overdoses is a combination of expansion in prescription opioid use, various forms of social decay making people less happy and therefore more likely to use drugs, and “improvements” in drug “technology” and the “supply chain” (eg production of fentanyl in China). I don’t know of any source that attempts to tease out the exact contribution of all of these things, but I would note that overdose deaths have risen the most in very conservative Midwestern states that haven’t walked back the drug war as much as California.
 
- **Conclusion:** As usual, I appreciate _San Fransicko_ ’s corrections to the prevailing narrative, but its own additions are dubious. Its claim that Portugal saw increased drug-related deaths seems false as far as I can tell. Its claim that it saw increased drug use depends on your definition, but is misleading and not the most natural way to sum up the evidence. 
+**Conclusion:** As usual, I appreciate _San Fransicko_ ’s corrections to the prevailing narrative, but its own additions are dubious. Its claim that Portugal saw increased drug-related deaths seems false as far as I can tell. Its claim that it saw increased drug use depends on your definition, but is misleading and not the most natural way to sum up the evidence. 
 
 ## Claim 6: San Francisco’s Soft-On-Crime Policies Led To Rising Crime
 
@@ -418,19 +421,19 @@ Shellenberger:
 
 Taking each of these points individually:
 
- **Proposition 47**
+**Proposition 47**
 
 There are two good big studies on the effects of Prop 47, one by [Public Policy Institute](https://www.ppic.org/wp-content/uploads/r_0618mbr.pdf) and one by some [UCI criminologists](https://escholarship.org/content/qt54k3r6w2/qt54k3r6w2.pdf). The PPI study finds that the proposition increased theft and car break-ins by about 10%. The UCI study finds the same, but notes that under different assumptions the effects wouldn’t quite obtain statistical significance. This seems a bit too much like post hoc trying to get rid of an inconvenient effect, plus an effect on the border of statistical significance is different from positively finding no effect. I think a reasonable interpretation is that theft and car break-ins rose about 10% because of the proposition, just as Shellenberger says.
 
 Some pro-47 sites note that most states have some limit on how much you to have to shoplift before it’s a felony, and Prop 47 brought California closer to the national average, rather than turning it into an outlier.
 
- **Chesa Boudin**
+**Chesa Boudin**
 
 Chesa Boudin took office two months before the COVID pandemic began. Any attempt to separate the effect of Chesa Boudin from the effect of the pandemic is doomed. Shoplifting definitely plummeted when Boudin took office, but that’s because all the stores were closed. Murders definitely rose a little after Boudin took office, but that’s because that was _also_ when the Black Lives Matter protests happened, which demoralized police and led to a so-far-permanent spike in murders nationwide. Percent of criminals caught definitely fell when Boudin took office, but that’s because various aspects of the justice system were closed for COVID (I will grudgingly entertain speculation that a further decrease in arrest rates from 2020 to 2021 may have been a genuine Boudin effect).
 
 In the absence of any real way to judge his performance, I think _San Fransicko_ ’s points about Boudin are plausible, though speculative.
 
- **Shoplifting**
+**Shoplifting**
 
 This one is terrible.
 
@@ -480,7 +483,7 @@ Maybe the conservative narrative that soft-on-crime San Francisco _must_ be expe
 
 Or maybe some statistics that we already know are off by several orders of magnitude got off by an additional factor of two or so. I think this one is more likely, but I’m genuinely not sure.
 
- **Other Crime**
+**Other Crime**
 
 From [the Economist](https://www.economist.com/united-states/2019/02/16/property-crime-rates-test-san-franciscans-values):
 
@@ -506,7 +509,7 @@ You can see the leaderboard for other types of crime [here](https://www.safehome
 
 As far as I can tell, San Francisco has seen a big spike in car breakins over the past few years, with no clear trend for other property crime, violent crime, or homicides. It’s not an outlier among American cities in any kind of crime.
 
- **Conclusion of this section:** _San Fransicko_ ’s specific claims are basically correct, but suggest a medium-term rise in SF crime which is mostly contradicted by the data. These show stable-to-decreasing murder, stable-to-decreasing violent and property crimes other than car break-ins, and large rises in car break-ins only. The data also show stable-to-decreasing shoplifting, but I’m not sure how much to trust them vs. common sense. Honestly, I’m pretty confused here and not sure what to think.
+**Conclusion of this section:**_San Fransicko_ ’s specific claims are basically correct, but suggest a medium-term rise in SF crime which is mostly contradicted by the data. These show stable-to-decreasing murder, stable-to-decreasing violent and property crimes other than car break-ins, and large rises in car break-ins only. The data also show stable-to-decreasing shoplifting, but I’m not sure how much to trust them vs. common sense. Honestly, I’m pretty confused here and not sure what to think.
 
 ## Claim 7: Jim Jones (Of Kool-Aid Cult Fame) Used To Be The Chairman Of SF’s Housing Authority
 
@@ -635,7 +638,7 @@ How do we square _San Fransicko_ ’s story with this story? Amsterdam solved it
 
 On the other hand, Amsterdam continues to shelter all its homeless and not have tent cities, which I guess is most of what this policy package promises.
 
- **Conclusion:** _San Fransicko_ ’s description of Amsterdam solving its drug and crime problems matches the other sources I found, although I’m confused about how much harm reduction was involved. I can’t tell if it solved homelessness in the 90s, but it seems to have unsolved it shortly thereafter, in the sense that there are still many homeless people. Still, it continues to successfully shelter all its homeless people and avoid having them sleep on streets.
+**Conclusion:**_San Fransicko_ ’s description of Amsterdam solving its drug and crime problems matches the other sources I found, although I’m confused about how much harm reduction was involved. I can’t tell if it solved homelessness in the 90s, but it seems to have unsolved it shortly thereafter, in the sense that there are still many homeless people. Still, it continues to successfully shelter all its homeless people and avoid having them sleep on streets.
 
 ## Claim 10: _San Fransicko_ Doesn’t Support “Sweeping Institutionalization” Of The Mentally Ill
 
@@ -717,11 +720,11 @@ You’re allowed to believe circumstantial evidence if you want. You’re even a
 
 But I would be much happier if Shellenberger took a second between his denunciations of the people who ended 1950s-style psych commitment to admit the ways that it was a moral atrocity, or talk about how we could be sure that a modern policy of involunary hospitalization would do better. If you believe in increased institutionalization of the mentally ill, admit it and defend it! Don’t make me read your whole book to find out that in fact you’re in favor of it after all! Then I’ll be really annoyed and probably review the rest of it more harshly than it deserves!
 
- **Conclusion:** When I described Shellenberger as supporting sweeping institutionalization of the mentally ill, I was referring to exactly the set of policies he advocates in his book. The description linked to [my review of ](https://slatestarcodex.com/2016/03/31/book-review-my-brother-ron/)_[My Brother Ron](https://slatestarcodex.com/2016/03/31/book-review-my-brother-ron/)_ , which talks about exactly the set of policies described in _San Fransicko_. I will be editing my Mistakes page to clarify that this was _not_ a mistake, and that it was a meta-mistake to list it on the Mistakes page originally.
+**Conclusion:** When I described Shellenberger as supporting sweeping institutionalization of the mentally ill, I was referring to exactly the set of policies he advocates in his book. The description linked to [my review of ](https://slatestarcodex.com/2016/03/31/book-review-my-brother-ron/)_[My Brother Ron](https://slatestarcodex.com/2016/03/31/book-review-my-brother-ron/)_ , which talks about exactly the set of policies described in _San Fransicko_. I will be editing my Mistakes page to clarify that this was _not_ a mistake, and that it was a meta-mistake to list it on the Mistakes page originally.
 
 ## Book Review: San Fransicko
 
- **a.**
+**a.**
 
 That was fun. Time to review the actual book!
 
@@ -737,7 +740,7 @@ So now, having given all those caveats - this book is not a good guide to the tr
 
 Aside from its polemic, it’s also a guide to recent San Francisco political history. In that role, it’s great. It clearly has an axe to grind, as long as you remember that, it has some amazing stories.
 
- **b.**
+**b.**
 
 The list of Claims above doesn’t showcase this, but aside from social science and political history, this is also a book of moral philosophy. Shellenberger follows Viktor Frankl, the humanist psychotherapist who wrote about the search for personal meaning (also the guy credited with the quip about a Statue of Responsibility on the West Coast to match the Statue of Liberty on the East). There’s a lot of writing on Victimology (capital V, presented as a religion) and how it contrasts with Frankl’s ethos of meaning and responsibility. 
 
@@ -749,9 +752,9 @@ Maybe something like: these are profound psychological truths, but their failure
 
 (and yet if I ignore anyone who gives me an important message, just because they’re associated with the kind of people who tend to do that kind of thing, I will have closed myself off to a lot of morally important communication. A puzzle.)
 
- **c.**
+**c.**
 
- _San Fransicko_ also briefly confronts libertarians, who it treats as allied with progressives on these issues (as if progressives would accept alliances with the likes of us!) Still, its confrontation is not unfair. If we reject the extreme-maybe-strawman leftist view that drug addicts and the like are complete victims of their own circumstances who never made any bad choices, then the question arises: given that they are making bad choices, should they be allowed to do so? Shellenberger says no: using hard drugs is a bad enough choice that it’s worth enforcing (some) anti-drug laws and (softly) forcing treatment on addicts who can’t overcome their addictions themselves. A libertarian who accepts neither the strawman-leftist denial of agency nor Shellenberger’s principled willingness to use force here has to say . . . what? That it’s okay for these people to die slowly (sometimes not so slowly) because that’s what they chose? When it seems obvious that, given a little push, so many of them would choose something different?
+_San Fransicko_ also briefly confronts libertarians, who it treats as allied with progressives on these issues (as if progressives would accept alliances with the likes of us!) Still, its confrontation is not unfair. If we reject the extreme-maybe-strawman leftist view that drug addicts and the like are complete victims of their own circumstances who never made any bad choices, then the question arises: given that they are making bad choices, should they be allowed to do so? Shellenberger says no: using hard drugs is a bad enough choice that it’s worth enforcing (some) anti-drug laws and (softly) forcing treatment on addicts who can’t overcome their addictions themselves. A libertarian who accepts neither the strawman-leftist denial of agency nor Shellenberger’s principled willingness to use force here has to say . . . what? That it’s okay for these people to die slowly (sometimes not so slowly) because that’s what they chose? When it seems obvious that, given a little push, so many of them would choose something different?
 
 A confession: I sometimes use substances I’m not supposed to. Nothing as bad as the sob stories in _San Fransicko_ \- “research chemicals”, not speed or fentanyl. But still, I see the Abstracted Will Of The American People saying it knows better than me what substances I’m allowed to take, and I say no, you’re wrong. Is it hypocritical of me to then join a coalition saying we know better than some homeless crack addict what substances _he_ should be allowed to take? I mean, I am mostly right when I defy the will of the people (I have learned useful things, and haven’t yet come to real harm), and the homeless person is wrong (he is a homeless crack addict). But on the Outside View, wanting to institute a law I fully intend to break - where I would get enraged if it were applied against me personally - seems somewhat hypocritical.
 
@@ -759,7 +762,7 @@ I’m even more torn on the other civil rights question the book confronts, whet
 
 The way I cut through both these problems is to have a high tolerance for people doing what they want, but a low tolerance for them impinging on the rights of others. I’m fine with a compromise where people can camp on public land, but if they start harassing people or piling up trash, the government can take action. This probably means Shellenberger and I agree on most real-world cases, but I remain invested in the tiny sliver of moral difference between our positions.
 
- **d.**
+**d.**
 
 Along with all the problems and preaching, _San Fransicko_ offers solutions. These won’t come as a surprise to anyone who’s read this far: they’re basically the Amsterdam plan presented earlier. Break up open-air drug markets. Force addicts into rehab by threatening prison sentences for noncompliance. Ban camping on streets and force the homeless into shelters. Offer permanent housing when appropriate, but make it contingent on good behavior. Have a strong psychiatric system with ability to commit people who need it, and enforced outpatient treatment when appropriate. 
 
@@ -797,11 +800,11 @@ So I imagine - what if I lived in the worst parts of SF, had people crap on my f
 
 This thought experiment pushes me closer to Shellenberger’s side of the aisle. I still want to cling to the hope that there is some way to do this which lets the people who aren’t bothering anyone else be left alone. But something has to give.
 
- **e.**
+**e.**
 
 The Native Americans had a saying: never judge a man until you’ve walked a mile in his moccasins and you’re sure he’s not going to be your governor. Now that Shellenberger has [lost the primary](https://www.latimes.com/california/story/2022-06-07/2022-gavin-newsom-california-primary-election-governor-results), I am happy to judge him. My judgment is: mixed bag.
 
- _San Fransicko_ does a good job skewering orthodoxies on some important topics. It thinks hard about them and often has good ideas. It looks at a problem that needs solving, and proposes plans that would probably solve it. When I dislike its policy prescriptions, they’re usually on complicated ethical questions where principled people can disagree.
+_San Fransicko_ does a good job skewering orthodoxies on some important topics. It thinks hard about them and often has good ideas. It looks at a problem that needs solving, and proposes plans that would probably solve it. When I dislike its policy prescriptions, they’re usually on complicated ethical questions where principled people can disagree.
 
 The main virtue I cannot ascribe it is evenness. The old saying talks about the man who “uses statistics the way a drunk uses a streetlight; for support rather than illumination”. _San Fransicko_ is the equivalent of [that dim blue lighting](https://fortune.com/2018/06/25/retailers-blue-lights-bathrooms-opiods/) you sometimes see in nightclub bathrooms: so focused on preventing injection drug use that it sacrifices the ability to illuminate anything at all.
 

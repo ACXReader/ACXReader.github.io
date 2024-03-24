@@ -3,11 +3,14 @@ title: "Highlights From The Comments On Supplement Labeling"
 subtitle: "..."
 date: 2022-10-26
 likes: 33
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/78648565/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3e903a1c-db1a-4627-addd-87be6bee1de9_255x255.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-supplement
 ---
 _[Original post here:[How Trustworthy Are Supplements?](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements)]_
 
- **1:** AvalancheGenesis [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9502582):
+**1:** AvalancheGenesis [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9502582):
 
 > I think the bigger issue is that the industry as a whole sort of exists as solutions-in-search-of-problems...deficiencies really aren't that common, or even meaningfully health-affecting unless dire. (Fairly-arbitrary worldwide differences in target levels of IUs also remains puzzling.) Discerning customers can benefit from targeted supplementation. But that's not the median supplement purchaser, far from it. The median supplement user is more like...my former coworker who claimed he never got colds because he took 1000% vitC pills every single day, or whatever. At some point, the explanatory process for That's Not How It Works At All is just too long, so...let people believe things. Supplements are surely an easier way to sell hope and agency than most options. At least he picked something water-soluble and cared about proper hydration.
 
@@ -19,7 +22,7 @@ Some commenters chimed in to discuss supplements that have anecdotally worked fo
 
 * * *
 
- **2:** Gbdub [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9507211):
+**2:** Gbdub [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9507211):
 
 > You seem extremely credulous (uncharitably, “gushing like a fanboy”) about MYASD’s claims. Coming into this with no dog in the fight (I take no supplements and this is the first time I’ve heard of this dude), my inclination is to be more skeptical. His claims may be accurate, but he’s also somebody whose livelihood involves selling a premium product to a niche market of Grey Tribe Redditors. And “scientifically serious little guy with edgy Reddit handle rails against the sloppiness and damn-the-consumer profit seeking of Big Supplement” is great ad copy for that niche market. And indeed, you’re eating it up.
 > 
@@ -35,9 +38,9 @@ Also, I will never tire of reminding people that “snake oil” [is closely rel
 
 * * *
 
- **3:** Stephen Pimental [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9520561):
+**3:** Stephen Pimental [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9520561):
 
->  _> “The most concerning category was mushrooms, where about 25% of brands used some mycelium (the “roots” of a mushroom, which have fewer health-promoting chemicals than the above-ground part) instead of or in addition to the mushroom itself.”_
+> _> “The most concerning category was mushrooms, where about 25% of brands used some mycelium (the “roots” of a mushroom, which have fewer health-promoting chemicals than the above-ground part) instead of or in addition to the mushroom itself.”_
 > 
 > Paul Stamets openly uses mycelium in his supplements and argues that this is better for health benefits.
 
@@ -45,7 +48,7 @@ I think this is a minority position. There’s a brief discussion about it in th
 
 * * *
 
- **4:** Diddly (writes [Diddly Links](https://diddly.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9500931) (I’m combining two comments):
+**4:** Diddly (writes [Diddly Links](https://diddly.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9500931) (I’m combining two comments):
 
 > I'm not sure where I heard this and my Google-fu is weak, but I've heard that there are literal heavy metals in supplements and this is not regulated in the slightest? This is what I found offhand:
 > 
@@ -61,15 +64,15 @@ The LabDoor and ConsumerLab analyses I mentioned in this post also checked for h
 
 They make three main claims: first, supplements are contaminated with bacteria. Second, one particular supplement company had its products recalled for dangerous heavy metal contamination. Third, a study showed 5% of supplements contained arsenic above a maximum safe level.
 
- **The first article** says “In one assessment, researchers found bacteria in all 138 products they investigated.” I have trouble figuring out how to think about this. I take supplements sometimes. Many of my friends take supplements sometimes. According to [studies](https://osteopathic.org/2019/01/16/poll-finds-86-of-americans-take-vitamins-or-supplements-yet-only-21-have-a-confirmed-nutritional-deficiency/), 86% of Americans take supplements sometimes. If all supplements are contaminated with bacteria, but basically nobody ever has supplement-bacteria-contamination-related health issues (source: I hear about this with approximately the same frequency I hear about food poisoning from heavily-regulated chain restaurants), doesn’t this demonstrate that whatever bacterial-contamination-standard is being used is meaningless? Don’t approximately 100% of objects contain bacteria? Food? Drinks? The human body? I guess I would want something that explains what’s going on here more before I care about this.
+**The first article** says “In one assessment, researchers found bacteria in all 138 products they investigated.” I have trouble figuring out how to think about this. I take supplements sometimes. Many of my friends take supplements sometimes. According to [studies](https://osteopathic.org/2019/01/16/poll-finds-86-of-americans-take-vitamins-or-supplements-yet-only-21-have-a-confirmed-nutritional-deficiency/), 86% of Americans take supplements sometimes. If all supplements are contaminated with bacteria, but basically nobody ever has supplement-bacteria-contamination-related health issues (source: I hear about this with approximately the same frequency I hear about food poisoning from heavily-regulated chain restaurants), doesn’t this demonstrate that whatever bacterial-contamination-standard is being used is meaningless? Don’t approximately 100% of objects contain bacteria? Food? Drinks? The human body? I guess I would want something that explains what’s going on here more before I care about this.
 
- **The second article** seems more serious. It’s from 2019. When I Google various permutations of “supplement dangerous lead level”, all the examples I can find of this happening in the US are still about this one case from a supplement company I’ve never heard of in 2016. 
+**The second article** seems more serious. It’s from 2019. When I Google various permutations of “supplement dangerous lead level”, all the examples I can find of this happening in the US are still about this one case from a supplement company I’ve never heard of in 2016. 
 
 In fact, what _is_ Ton Shen Health / Life Rising, the company implicated in this? I’m having trouble figuring this out - when I [look it up](https://www.liferising.com/index.html), it looks like a small chain of acupuncture clinics in Chicago run by “Herbal Master Zhengang Guo”, which is still operating (!) and [still selling supplements](https://www.liferising.com/product/other.html) (!) But the FDA seized 300,000 bottles - how did this one guy produce produce so many supplements? All we have from the FDA, statement is that the supplements recalled “were mostly sold locally in Chicago area in retails stores [sic] and some were distributed to other states through mail orders”.
 
 My best guess is that this is one traditional Chinese medicine shaman guy in Chicago selling some supplements he made himself, mostly in his own office but also partly syndicated through local stores. Between 2016 and 2019 he screwed up and included way too much lead and poisoned three local children. And this is the example everybody gives to indict the entire supplement industry forever, and to try to scare you off from buying melatonin at Whole Foods.
 
- **The third article** is a study which the comment describes as showing that 5% of supplements had dangerous levels of arsenic, although it’s actually more comprehensive than that and finds similar problems with mercury, cadmium, etc.
+**The third article** is a study which the comment describes as showing that 5% of supplements had dangerous levels of arsenic, although it’s actually more comprehensive than that and finds similar problems with mercury, cadmium, etc.
 
 The only clue they give us as to which products were the offenders is that 11% of “Chinese, Ayurvedic, and marine” products had high arsenic levels, compared to only 3% of “North American excluding Chinese/Ayurvedic/marine” products. But if we believe them, that rules out that it’s _all_ stuff like Ton Shen.
 
@@ -89,7 +92,7 @@ But I notice I’m trying pretty hard to defend supplements here and I might be 
 
 * * *
 
- **5:** Neil Thanedar of LabDoor writes (on [Twitter](https://twitter.com/NeilThanedar/status/1577675402784407553)):
+**5:** Neil Thanedar of LabDoor writes (on [Twitter](https://twitter.com/NeilThanedar/status/1577675402784407553)):
 
 > Hi Scott. I'm the founder of [Labdoor](https://labdoor.com/). I am a big fan of your writing and believe you have made a major error here based on misleading information.
 > 
@@ -157,9 +160,9 @@ For what it’s worth, LabDoor is free and ConsumerLab costs money. I give LabDo
 
 * * *
 
- **6:** Marathon [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9510396):
+**6:** Marathon [writes](https://astralcodexten.substack.com/p/how-trustworthy-are-supplements/comment/9510396):
 
->  _> "A lot of herbal supplements are similar. If this is your strategy, a 25% labeling error isn’t going to matter much, is it? If my patients get their Lexapro from a sketchy company that actually has only 4 mg in a 5 mg pill, they’re still going to go up to 20 mg or down to 2 mg or whatever it is the end up needing, based on how it affects them."_
+> _> "A lot of herbal supplements are similar. If this is your strategy, a 25% labeling error isn’t going to matter much, is it? If my patients get their Lexapro from a sketchy company that actually has only 4 mg in a 5 mg pill, they’re still going to go up to 20 mg or down to 2 mg or whatever it is the end up needing, based on how it affects them."_
 > 
 > Wait but I read MYASD's complaints as largely being about poor quality control. Thus the concern isn't just the mean being off, but also that the variance is high in measured products.
 > 

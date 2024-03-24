@@ -3,11 +3,14 @@ title: "Highlights From The Comments On Nerds And Hipsters"
 subtitle: "..."
 date: 2023-04-27
 likes: 105
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/115987441/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/ca6879fd-a8a8-497f-8436-e4234c0e8608_640x360.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-nerds
 ---
 _Original post:[Contra Kriss On Nerds And Hipsters](https://astralcodexten.substack.com/p/contra-kriss-on-nerds-and-hipsters)_
 
- **Table of contents:**
+**Table of contents:**
 
 1: Comments By The Author Of The Original Post  
 2: Comments With Strong Opinions On The Definition Of Nerds, Geeks, Etc  
@@ -23,7 +26,7 @@ Sam Kriss writes a response on Substack Notes ([starting here](https://substack.
 > 
 > as i said, i don’t think scott and i really disagree on all that much here. near the end of his piece, he mentions that he’d once considered naming his car after something from tolkien, but he’d rather die than name it after something from the mcu. why?
 > 
->  _» Is it just that Marvel feels optimized to make you like it and buy action figures, and liking it and buying action figures would make me feel like a little puppet being jerked back and forth by the Disney Corporation?_
+> _» Is it just that Marvel feels optimized to make you like it and buy action figures, and liking it and buying action figures would make me feel like a little puppet being jerked back and forth by the Disney Corporation?_
 > 
 > my answer, for what it’s worth, is: yes. personally, i’ve never really been into tolkien all that much; i’d rather skip the _simarillion_ and go straight to the _mabinogion_. but like with sport, there’s clearly _something there_. scott - i assume - likes tolkien because of its literary and imaginative qualities. the mcu doesn’t have those; all it has is a set of puppet-strings, and an insistent demand to be liked. for some people, that’s good enough. we all need some crutches for our self-identity; we _want_ to like things. but when too many people like things simply because they’re there, the quality of those things will inevitably fall off a cliff.
 > 
@@ -222,13 +225,13 @@ I’m trying to think if I have a personal answer to this. Part of my answer is 
 
 My internal hierarchy of things it’s virtuous to build identity around, which is probably a weird class artifact and which I absolutely don’t consciously endorse, goes something like:
 
-  *  **Top-tier:** Intellectual subfields, especially obscure ones or ones involving pure abstract math. If you can say “I’m really into trans-finite 8-dimensional Hoffdorf groups” and justify this with a discussion of how innately beautiful they are, you’ve got it made. 
+  * **Top-tier:** Intellectual subfields, especially obscure ones or ones involving pure abstract math. If you can say “I’m really into trans-finite 8-dimensional Hoffdorf groups” and justify this with a discussion of how innately beautiful they are, you’ve got it made. 
 
   * **Upper-tier:** Unusual political and philosophical movements that don’t intersect mainstream culture war fault lines. Unusual hobbies, like underwater gardening. Unusual art or music. Religion done in a classy way (eg you have a favorite theologian).
 
-  *  **Okay-tier:** Normal hobbies, mainstream art, literature. I Just Love My Spouse And Family (TM). Normal careers, normal religion, normal music.
+  * **Okay-tier:** Normal hobbies, mainstream art, literature. I Just Love My Spouse And Family (TM). Normal careers, normal religion, normal music.
 
-  *  **Lower-tier:** Overdone politics like hating wokeness or hating Trump, _especially_ if you pretend they’re rebellious, contrarian, or make you special (except when you’re right; if you take a stand against Trump in rural Kentucky, or against wokeness in San Francisco, you can claim as much specialness as you want). Your race, sex, or sexuality, _especially_ et cetera. Bands. TV shows. Any kind of corporatized mass culture institution popular enough to have a marketing team.
+  * **Lower-tier:** Overdone politics like hating wokeness or hating Trump, _especially_ if you pretend they’re rebellious, contrarian, or make you special (except when you’re right; if you take a stand against Trump in rural Kentucky, or against wokeness in San Francisco, you can claim as much specialness as you want). Your race, sex, or sexuality, _especially_ et cetera. Bands. TV shows. Any kind of corporatized mass culture institution popular enough to have a marketing team.
 
 
 

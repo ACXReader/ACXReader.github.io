@@ -2,7 +2,10 @@
 title: "In Partial Grudging Defense Of Some Aspects Of Therapy Culture"
 subtitle: "..."
 date: 2024-03-15
-likes: 138
+likes: 152
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/142438918/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/ab410796-4060-45e1-b7b7-561862dcbc0c_525x328.webp
 original-url: https://www.astralcodexten.com/p/in-partial-grudging-defense-of-some
 ---
 Both the Atlantic’s critique of polyamory and [my defense of it](/p/you-dont-hate-polyamory-you-hate) shared the same villain - “therapy culture”, the idea that you should prioritize “finding your true self” and make drastic changes if your current role doesn’t seem “authentically you”.

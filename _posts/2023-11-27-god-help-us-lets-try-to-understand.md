@@ -3,6 +3,9 @@ title: "God Help Us, Let's Try To Understand AI Monosemanticity"
 subtitle: "Inside every AI is a bigger AI, trying to get out"
 date: 2023-11-27
 likes: 279
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/138968567/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/e3a2a957-0d98-4d59-8d41-b461c421c9d7_210x136.png
 original-url: https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand
 ---
 You’ve probably heard AI is a “black box”. No one knows how it works. Researchers simulate a weird type of pseudo-neural-tissue, “reward” it a little every time it becomes a little more like the AI they want, and eventually it becomes the AI they want. But God only knows what goes on inside of it.
@@ -15,7 +18,7 @@ Until now! **[Towards Monosemanticity](https://transformer-circuits.pub/2023/mon
 
 How did they do it? What _is_ inside of an AI? And what the heck is “monosemanticity”?
 
- _[disclaimer: after talking to many people much smarter than me, I might, just barely, sort of understand this. Any mistakes below are my own.]_
+_[disclaimer: after talking to many people much smarter than me, I might, just barely, sort of understand this. Any mistakes below are my own.]_
 
 ## Inside Every AI Is A Bigger AI, Trying To Get Out
 
@@ -145,7 +148,7 @@ It found a collection of intriguing results and random gibberish, because they h
 
 But what we really want is to be able to interpret the current generation of AIs. The Anthropic interpretability team admits we’re not there yet, for a few reasons.
 
- _First_ , scaling the autoencoder:
+_First_ , scaling the autoencoder:
 
 > Scaling the application of sparse autoencoders to frontier models strikes us as one of the most important questions going forward. We're quite hopeful that these or similar methods will work – Cunningham et al.'s work seems to suggest this approach can work on somewhat larger models, and we have preliminary results that point in the same direction. However, there are significant computational challenges to be overcome. Consider an autoencoder with a 100× expansion factor applied to the activations of a single MLP layer of width 10,000: it would have ~20 billion parameters. Additionally, many of these features are likely quite rare, potentially requiring the autoencoder to be trained on a substantial fraction of the large model's training corpus. So it seems plausible that training the autoencoder could become very expensive, potentially even more expensive than the original model. We remain optimistic, however, and there is a silver lining – it increasingly seems like a large chunk of the mechanistic interpretability agenda will now turn on succeeding at a difficult engineering and scaling problem, which frontier AI labs have significant expertise in.
 

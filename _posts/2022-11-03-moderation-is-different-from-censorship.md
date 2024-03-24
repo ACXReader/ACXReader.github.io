@@ -3,13 +3,16 @@ title: "Moderation Is Different From Censorship"
 subtitle: "..."
 date: 2022-11-03
 likes: 353
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/54920087/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/838bf4e5-5e37-4648-936b-ba3b2ec28b2d_1132x684.png
 original-url: https://www.astralcodexten.com/p/moderation-is-different-from-censorship
 ---
 This is a point I keep seeing people miss in the debate about social media.
 
- **Moderation** is the normal business activity of ensuring that your customers like using your product. If a customer doesn’t want to receive harassing messages, or to be exposed to disinformation, then a business can provide them the service of a harassment-and-disinformation-free platform.
+**Moderation** is the normal business activity of ensuring that your customers like using your product. If a customer doesn’t want to receive harassing messages, or to be exposed to disinformation, then a business can provide them the service of a harassment-and-disinformation-free platform.
 
- **Censorship** is the abnormal activity of ensuring that people in power approve of the information on your platform, regardless of what your customers want. If the sender wants to send a message and the receiver wants to receive it, but some third party bans the exchange of information, that’s censorship.
+**Censorship** is the abnormal activity of ensuring that people in power approve of the information on your platform, regardless of what your customers want. If the sender wants to send a message and the receiver wants to receive it, but some third party bans the exchange of information, that’s censorship.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9d2b857-5cc4-4d55-9ae8-9c77bfc2ea5f_462x455.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9d2b857-5cc4-4d55-9ae8-9c77bfc2ea5f_462x455.png)
 

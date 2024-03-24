@@ -3,6 +3,9 @@ title: "Subscrive Drive 2024 + Free Unlocked Posts"
 subtitle: "..."
 date: 2024-01-18
 likes: 104
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/140612121/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/df8c6522-64c9-4da1-9e8c-8a8169c12e99_632x415.png
 original-url: https://www.astralcodexten.com/p/subscrive-drive-2024-free-unlocked
 ---
 Astral Codex Ten has a [paid subscription option](https://www.astralcodexten.com/subscribe?). You pay $10 (or $2.50 if you can’t afford the regular price) per month, and get:
@@ -44,9 +47,9 @@ Last year I wrote fourteen subscriber-only articles:
 
   6. [But Seriously, Are Bloxors Greeblic?](/p/but-seriously-are-bloxors-greeblic) \- Asking the important questions.
 
-  7.  **[The Psychology Of Fantasy](/p/the-psychology-of-fantasy)** \- Why do so many fantasy books converge on the same tropes?
+  7. **[The Psychology Of Fantasy](/p/the-psychology-of-fantasy)** \- Why do so many fantasy books converge on the same tropes?
 
-  8.  **[Assistant Dictator Book Club: America Against America](/p/assistant-dictator-book-club-america)** \- Chinese #2 Wang Huning spent six months in America as a budding academic and decided to devote the rest of his life to destroying it.
+  8. **[Assistant Dictator Book Club: America Against America](/p/assistant-dictator-book-club-america)** \- Chinese #2 Wang Huning spent six months in America as a budding academic and decided to devote the rest of his life to destroying it.
 
   9. [Book Review: Programming And Metaprogramming The Human Biocomputer](/p/book-review-programming-and-metaprogramming) John Lilly took giant doses of LSD in sensory deprivation tanks and reported back on the results (the results were: he went crazy).
 
@@ -54,7 +57,7 @@ Last year I wrote fourteen subscriber-only articles:
 
   11. [Book Review: Beelzebub’s Tales To His Grandson](/p/book-review-beelzebubs-tales-to-his) \- A cult leader presents his esoteric system through terrible space opera - no, not _that_ cult leader presenting his esoteric system through terrible space opera!
 
-  12.  **[Seen In The Bay](/p/seen-in-the-bay)** \- Photos of unusual things that caught my interest.
+  12. **[Seen In The Bay](/p/seen-in-the-bay)** \- Photos of unusual things that caught my interest.
 
   13. [What Ever Happened To Neoreaction?](/p/what-ever-happened-to-neoreaction) \- How come this was a big deal in 2013 and nobody thinks about it anymore?
 

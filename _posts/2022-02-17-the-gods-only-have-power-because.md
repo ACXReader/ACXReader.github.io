@@ -3,6 +3,9 @@ title: "The Gods Only Have Power Because We Believe In Them"
 subtitle: "..."
 date: 2022-02-17
 likes: 211
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/48716400/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/dcf7f198-4628-45e4-ba59-3b00b5bc9f2f_1096x805.jpeg
 original-url: https://www.astralcodexten.com/p/the-gods-only-have-power-because
 ---
 _[with apologies to[Terry Pratchett](https://amzn.to/3oKWHyS) and [TVTropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/GodsNeedPrayerBadly)]_
@@ -15,7 +18,7 @@ _[with apologies to[Terry Pratchett](https://amzn.to/3oKWHyS) and [TVTropes](htt
 
 “Because,” said the sage, “the gods only gain power through belief, not knowledge. You _know_ there are trees and clouds; are they thereby gods? Just as lightning requires close proximity of positive and negative charge, so divinity requires close proximity of belief and doubt. The closer your probability estimate of a god’s existence is to 50%, the more power they gain from you. Complete atheism and complete piety alike are useless to them.”
 
- *****************************
+*****************************
 
 “Is it true,” asked the student, “that the gods only have power because we believe in them?”
 
@@ -37,7 +40,7 @@ _[with apologies to[Terry Pratchett](https://amzn.to/3oKWHyS) and [TVTropes](htt
 
 “You have said it.”
 
- ****************************
+****************************
 
 “Is it true,” asked the student, “that the gods only have power because we believe in them?”
 
@@ -47,7 +50,7 @@ _[with apologies to[Terry Pratchett](https://amzn.to/3oKWHyS) and [TVTropes](htt
 
 “So that it would be the Thunderer who the atheists scoff at, rather than Ra-Horakhty or Baal-Ammon. It is that scoffing that gives him strength. If the atheists scoffed at Ra-Horakhty instead, it would be he who is strongest. Each god tries to apply enough power to keep their own name foremost on the minds of mortals, but not so much that the mortals truly believe. Any true believers are accidents, side effects of the level of power it takes to get the masses scoffing at themselves in particular.”
 
- *****************************
+*****************************
 
 “Is it true,” asked the student, “that the gods only have power because we believe in them?”
 
@@ -57,7 +60,7 @@ _[with apologies to[Terry Pratchett](https://amzn.to/3oKWHyS) and [TVTropes](htt
 
 “They have not. Those gods you know are the losers of wars in heaven. Their victorious enemies spread their cults as widely as possible on earth, to ensure they never rise again.”
 
- *****************************
+*****************************
 
 “Is it true,” asked the student, “that the gods only have power because we believe in them?”
 
@@ -75,7 +78,7 @@ _[with apologies to[Terry Pratchett](https://amzn.to/3oKWHyS) and [TVTropes](htt
 
 “You have said - ” The sage paused, confused. Had said what? Who had said it? Who was he talking to? He was growing barmy in his old age, that was for sure. Soon he would die and then all his knowledge would die with him. If only he had taken a student.
 
- *****************************
+*****************************
 
 “Is it true,” asked the student, “that the gods only have power because we believe in them?”
 
@@ -97,7 +100,7 @@ When the student was very old and had taken students of his own, he called them 
 
 And that is why, even today, when someone goes on a podcast and disagrees with an epidemiologist, lots of people get really angry and demand that Spotify take it down.
 
- *****************************
+*****************************
 
 “Is it true,” asked the student, “that the gods only have power because we believe in them?”
 
@@ -125,7 +128,7 @@ For a generation, the land flourished under the god-king, until one day the old 
 
 Then the sage knelt, and paid homage to him, and returned home.
 
- *****************************
+*****************************
 
 “Is it true,” asked the student, “that the gods only have power because we believe in them?”
 

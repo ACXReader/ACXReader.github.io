@@ -3,6 +3,9 @@ title: "2023 Prediction Contest"
 subtitle: "..."
 date: 2022-12-16
 likes: 88
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/91004605/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7d66d6f3-380e-4375-9ee3-b2fbb85de628_1024x1024.png
 original-url: https://www.astralcodexten.com/p/2023-prediction-contest
 ---
 Each winter, I make predictions about the year to come. The past few years, this has outgrown my blog, with other people including [Zvi](https://thezvi.wordpress.com/2021/04/27/scott-alexander-2021-predictions-buy-sell-hold/) and [Manifold](https://manifold.markets/ACXBot) (plus Sam and Eric’s [contest version](https://astralcodexten.substack.com/p/predictions-for-2022-contest)).
@@ -28,6 +31,6 @@ So let’s make this a contest. The rules are:
 
 
 
- **—[You can see the questions and enter the contest here](https://forms.gle/tzYf65Ffto6vrtU79)—**
+**—[You can see the questions and enter the contest here](https://forms.gle/tzYf65Ffto6vrtU79)—**
 
 Thanks to people from Metaculus, Manifold, and the EA forecasting community for helping with questions and plans.

@@ -3,6 +3,9 @@ title: "So You Want To Run A Microgrants Program"
 subtitle: "..."
 date: 2022-02-09
 likes: 133
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/47831268/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85cb0cbd-d87c-4265-aa58-9f795e5f913e_1388x896.jpeg
 original-url: https://www.astralcodexten.com/p/so-you-want-to-run-a-microgrants
 ---
 **I.**
@@ -15,11 +18,11 @@ I support effective altruism, a vast worldwide movement focused on trying to pic
 
 And then I solicited grant proposals, and I got stuff like this:
 
- **A.** $60K to run simulations checking if some chemicals were promising antibiotics.   
+**A.** $60K to run simulations checking if some chemicals were promising antibiotics.   
 **B.** $60K for a professor to study the factors influencing cross-cultural gender norms  
- **C.** $50K to put climate-related measures on the ballot in a bunch of states.  
- **D.** $30K to research a solution for African Swine Fever and pitch it to Uganda  
- **E.** $40K to replicate psych studies and improve incentives in social science
+**C.** $50K to put climate-related measures on the ballot in a bunch of states.  
+**D.** $30K to research a solution for African Swine Fever and pitch it to Uganda  
+**E.** $40K to replicate psych studies and improve incentives in social science
 
 Which of these is the most important?
 
@@ -33,7 +36,7 @@ Part of my brain helpfully suggests "Do a deep dive and answer these questions! 
 
 …except that I had 656 applications like this, and everyone told me it was important to get back to people within a month or two. I don't think I could fully explore the subtleties of the antibiotic proposal in that time - let alone 656 proposals, most of which were even less straightforward.
 
- **II.**
+**II.**
 
 There’s a well-known solution to this kind of thing:
 
@@ -55,7 +58,7 @@ I tried not to think too hard about this kind of thing; I’m nervous it would m
 
 But I couldn’t push it out of my mind far enough to do a half-assed job on the grants round, which meant confronting some of those problems head-on.
 
- **III.**
+**III.**
 
 …by which I mean “passing them off to other people”.
 
@@ -69,7 +72,7 @@ But even the “experts” weren’t perfectly aligned. There were three proposa
 
 Still, with their help I started to feel like I was finally on top of this.
 
- **IV.**
+**IV.**
 
 Then I got the rug pulled out from under my feet again.
 
@@ -85,7 +88,7 @@ I solved this problem the same way I had solved my previous few problems: I begg
 
 I’m not going to write up the whole travelogue, but here are ten things worth thinking about if you’re considering a grants program of your own:
 
- _(1): Many applicants ask for a random amount of money, and it’s your job to decide if you should give more or less._
+_(1): Many applicants ask for a random amount of money, and it’s your job to decide if you should give more or less._
 
 For example, I originally said my grants would max out at 50-100K, and many people asked for 50-100K grants. Some of these people needed more than 50-100K, but figured any little bit helped. Others needed less than 50-100K, but figured they’d ask for more and let me bargain them down. Others had projects that scaled almost linearly, such that 50K could do ten times as much good as 5K, but only a tenth as much as 500K. They asked for 50-100K too.
 
@@ -95,7 +98,7 @@ There was a strong temptation for me to make lots of different grants, because t
 
 But also, after making all my other choices, I nixed the five or six least promising grants, the ones I secretly knew I had only done to feel like a diverse person who gives to diverse cause areas, and gave all their money to the oxfendazole project, which most evaluators agreed was the most promising.
 
- _(2) Most people are terrible, terrible, TERRIBLE grantwriters_
+_(2) Most people are terrible, terrible, TERRIBLE grantwriters_
 
 It’s fascinating! They’re all terrible in different ways!
 
@@ -113,7 +116,7 @@ This proved to be a sort of skeleton key to diagnose a whole genus of grant-writ
 
 One person, in the process of explaining why he needed a grant, sort of vaguely confessed to a pretty serious crime. I don’t have enough specifics that I feel like I can alert police, and it’s in a different country where I don’t speak the language. Still, this is a deeper grantwriting failure than I imagined possible.
 
- _(3): Your money funges against the money of all the other grants programs your applicants are applying to._
+_(3): Your money funges against the money of all the other grants programs your applicants are applying to._
 
 Right now AI alignment has _lots_ of cash. If there’s a really good AI alignment charity, Open Philanthropy Project and Founders Fund and Elon Musk and Jaan Tallinn will all fight each other to throw money at it. So if a seemingly really good AI alignment charity asked me for money, I would wonder - why haven’t they gotten money from a big experienced foundation? 
 
@@ -125,7 +128,7 @@ How is this actionable? First, sometimes I was able to ask the big experienced f
 
 Sometimes an experienced grantmaker would tell me that some specific application would be catnip for the XYZ Foundation, and we could forward it on to them instead of funding it ourselves. This made me nervous, because what if they were wrong and this great proposal slipped through the cracks? - but usually I trusted them.
 
- _(4) There are lots of second-order effects, but you’ll go crazy if you think about them too hard_
+_(4) There are lots of second-order effects, but you’ll go crazy if you think about them too hard_
 
 Suppose a really good artist comes to you and asks for a grant. You think: “Art doesn’t save too many lives. But this art would be really good, and get really famous, and then _my grants program_ would get really famous for funding such a great thing, and then lots more funders and applicants would participate the next time around.”
 
@@ -139,7 +142,7 @@ The experienced grantmakers I worked with mostly suggesting weighing these kinds
 
 Still, Tyler Cowen does this and it works for him. My only recommendation is to make a decision and stick to it, instead of going crazy thinking too hard.
 
- _(5) Being advised by George Church is not as impressive as it sounds_
+_(5) Being advised by George Church is not as impressive as it sounds_
 
 One applicant mentioned that his bio project was advised by George Church - Harvard professor, National Academy of Sciences member, one of TIME Magazine’s “100 Most Influential People In The World”, and generally amazing guy. I was astonished that a project with Church’s endorsement was pitching to me, and not to Peter Thiel or Elon Musk or someone.
 
@@ -147,7 +150,7 @@ Then I got another Church-advised project. And another.
 
 What finally cleared up the mystery is that one of my Biology Grants Evaluation Committee members _also_ worked for George Church, and clarified that Church has seven zillion grad students, and is extremely nice, and is bad at saying no to people, and so half the biology startups in the world are advised by him. There are lots of things like this. [Remember](https://en.wikipedia.org/wiki/Goodhart%27s_law): when a measure becomes a target, it ceases to be a good measure!
 
- _(6): Everyone is secretly relying on everyone else to do the hard work._
+_(6): Everyone is secretly relying on everyone else to do the hard work._
 
 Sometimes people gave me pitches like “[Fintech billionaire] Patrick Collison gave us our first $X, but he didn’t fund us fully because he wanted to diversify our income streams and demonstrate wider appeal. Can you fill the rest of our funding for the year?” This was a pretty great pitch, because Patrick is very smart, has a top-notch grant-making infrastructure, and shares many of my values. I was pretty desperate to be able to rely on something other than my wits alone, and Patrick’s seal of approval was a tempting proxy. I tried to give all these people a fair independent evaluation, because otherwise it would defeat the point of Patrick making them seek alternative funding sources. But it sure did get them to the top of the pile.
 
@@ -155,7 +158,7 @@ Then people started sending _me_ requests like “Please give us whatever you ca
 
 I have no solution here except to type up this 5000 word essay on how I really don’t know what I’m doing and you shouldn’t trust me. Those who have ears to hear, let them listen!
 
- _(7) If you can’t rely on other grantmakers, you’ll rely on credentials_
+_(7) If you can’t rely on other grantmakers, you’ll rely on credentials_
 
 I still think that credentialism - the thing where you ignore all objective applications of a person’s worth in favor of what college they went to - is bad. But now I understand why it’s so tempting.
 
@@ -165,7 +168,7 @@ Now I’m imagining - you’re a startup founder or mid-level hiring manager or 
 
 (it’s not that everyone is an imposter with no idea what they’re doing. But everyone _starts out that way_ , and develops their habits when they’re in that position, and then those habits stick.)
 
- _(8) You will suffer heartbreak_
+_(8) You will suffer heartbreak_
 
 I’d been on a couple of dates with someone a month or two before the grants program. Then in the chaos of sorting through applications, I forgot to follow up.
 
@@ -173,13 +176,13 @@ Halfway through the grant pile, I found an application from my date. It was pret
 
 The email back: “I don’t consider us to still be dating”. This remains the most stone-cold rejection I have ever gotten.
 
- _(9) If you can’t rely on other grantmakers or credentials, you’ll rely on prejudices and heuristics_
+_(9) If you can’t rely on other grantmakers or credentials, you’ll rely on prejudices and heuristics_
 
 Here are some of mine: your new social network won’t kill Facebook. Your new knowledge database won’t kill Wikipedia. No one will ever use argument-mapping software. No matter how much funding your clever and beautiful project to enforce truth in media gets, the media can just keep being untruthful. The more requests for secrecy are in a proposal, the less likely it is to contain anything worth stealing. Subtract one point for each use of the words “blockchain”, “ML”, and “BIPOC”.
 
 A lot of these italicized sections here are trying to get at the same point: when you’re truly lost in a giant multidimensional space that requires ten forms of expertise at once to make real progress, you’ll retreat to prejudices and heuristics. That’s what credentialism is, that’s what relying on other grantmakers is, and - when you have neither Harvard nor Patrick Collison to save you, you’ll rely on [that one blog post you read that one time saying X never works](https://markusstrasser.org/extracting-knowledge-from-literature/).
 
- _(10) …but your comparative advantage might be in not doing any of this stuff_
+_(10) …but your comparative advantage might be in not doing any of this stuff_
 
 See my post from yesterday, [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work).
 
@@ -199,7 +202,7 @@ This is a dangerous game - most of the time you try to beat Heuristics That Almo
 
 The other way the HTAAW post is relevant here: beware of information cascades. If you give someone a grant because they have good credentials and two other grantmakers approved of them, they’re going to be telling the next guy “We have good credentials and _three_ other grantmakers approve of us!” This was another worry that pushed me to put a supra-HTAAW level of work into some grants.
 
- **V.**
+**V.**
 
 If you solve all these problems, congratulations! You can write a blog post announcing that you are giving out grants! People you respect will say nice things about you and be happy!
 
@@ -227,7 +230,7 @@ I solved this the same way I solved everything else - begged friends and connect
 
 I understand that Molly Mielke is working on a project called [Moth Minds](https://www.mothminds.com/) that will take away the headache and make personal grants programs easier. So far her website is heavy on moth metaphors and light on details, but moth metaphors are also good, and I’m long-term excited about this.
 
- **VI.**
+**VI.**
 
 More and more people are talking about microgrants programs. Maybe you’re one of them. So: should you run a grants round?
 
@@ -243,11 +246,11 @@ How can big foundations be short of good opportunities when the world is so full
 
 Anyone deeply interested in this question should read Carl Shulman’s [Risk-neutral donors should plan to make bets at the margin at least as well as giga-donors in expectation](https://forum.effectivealtruism.org/posts/BhvTMY7K7z97tbHgS/risk-neutral-donors-should-plan-to-make-bets-at-the-margin) and Benjamin Todd’s comment [here](https://forum.effectivealtruism.org/posts/nXL2MeQQBoHknpz8X/what-s-the-role-of-donations-now-that-the-ea-movement-is?commentId=vCeGqpbd9HQseGsSt). But here are some preliminary reasons why your microgrants program might be worth it:
 
- _Because you have a comparative advantage in soliciting proposals_. Big effective-altruist foundations complain that they’re entrepreneurship-constrained. That is, funders give them lots of money, they’ve already funded most of the charities they think are good up to the level those charities can easily absorb, and now they’re waiting for new people to start new good charities so they can fund those too. This is truest in AI alignment, second-truest in animal welfare and meta-science, and least true in global development (where there are always more poor people who need money). ACX Grants got some people who otherwise wouldn’t have connected with the system to get out there and start projects, or at least to mention that their project existed somewhere that people could hear it. One of my big hopes is that next year or the year after OpenPhil gives $10 million or something to some charity they learned about because of me. I don’t know if this will happen but I think the possibility made this grants round worthwhile in expectation.
+_Because you have a comparative advantage in soliciting proposals_. Big effective-altruist foundations complain that they’re entrepreneurship-constrained. That is, funders give them lots of money, they’ve already funded most of the charities they think are good up to the level those charities can easily absorb, and now they’re waiting for new people to start new good charities so they can fund those too. This is truest in AI alignment, second-truest in animal welfare and meta-science, and least true in global development (where there are always more poor people who need money). ACX Grants got some people who otherwise wouldn’t have connected with the system to get out there and start projects, or at least to mention that their project existed somewhere that people could hear it. One of my big hopes is that next year or the year after OpenPhil gives $10 million or something to some charity they learned about because of me. I don’t know if this will happen but I think the possibility made this grants round worthwhile in expectation.
 
- _Because you have a comparative advantage in getting funding_. I might have been in this category: I think some people trusted me with their money who wouldn’t necessarily have trusted OpenPhil or GiveWell. But I’m having trouble thinking of many other scenarios where this would happen.
+_Because you have a comparative advantage in getting funding_. I might have been in this category: I think some people trusted me with their money who wouldn’t necessarily have trusted OpenPhil or GiveWell. But I’m having trouble thinking of many other scenarios where this would happen.
 
- _Because you have a comparative advantage in evaluating grants._ This one is tough. The big foundations have professional analysts and grantmakers. These people are really smart and really experienced. Why do you think you can beat them at their own game?
+_Because you have a comparative advantage in evaluating grants._ This one is tough. The big foundations have professional analysts and grantmakers. These people are really smart and really experienced. Why do you think you can beat them at their own game?
 
 One possible answer: you’re also really smart and experienced. Fast Grants is run by Tyler Cowen and Patrick Collison (plus Emergent Ventures with Shruti Rajagopalan); it wouldn’t surprise me if their particular genius is more valuable than a big foundation’s increased specialization and resources. If that’s you, then good work, I guess.
 
@@ -269,7 +272,7 @@ If not - and especially if you expect to half-ass the evaluation process, or suc
 
 If you’re on the fence, I’d err on the side of doing it, since the upside is potentially very high and the downside limited.
 
- **VII.**
+**VII.**
 
 There’s one other reason to run a microgrants program: you think it would be fun.
 

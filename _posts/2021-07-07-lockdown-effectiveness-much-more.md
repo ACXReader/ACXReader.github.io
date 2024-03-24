@@ -3,13 +3,16 @@ title: "Lockdown Effectiveness: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2021-07-07
 likes: 103
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37964932/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1130c083-6dcc-4d2f-97d1-095278d8a1f5_919x792.jpeg
 original-url: https://www.astralcodexten.com/p/lockdown-effectiveness-much-more
 ---
 Back when everyone was debating lockdowns, I promised I'd come back to it after there was more data. God willing, the pandemic is over enough that we've got all the data we're going to get. So: did lockdowns work?
 
 There’s no way to answer this completely and taking into account every relevant factor, so I’m necessarily going to be simplifying things and focusing on some aspects of the question more than others. Sorry.
 
- **Preliminary Theoretical Issues 1: What Is A “Lockdown”?**
+**Preliminary Theoretical Issues 1: What Is A “Lockdown”?**
 
 Obviously "lockdown" is underspecified. There are many things you can do to reduce transmission of viruses. Researchers have taken two different approaches here.
 
@@ -28,7 +31,7 @@ First, they've looked at the effects of specific policies (called “non-pharmac
 
 Second, they've invented a "stringency index", where having each of the above adds a certain number of points to your "stringency score". The advantage of this is that it's a simple statistical test - you can just correlate "stringency score" with R values or cases or deaths or whatever. The disadvantage is that it's kind of made up - you're at the mercy of whatever the person designing the stringency score thinks is "common sense" about how many points everything should be worth. Most people using this method use [the score developed by](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) the Blavatnik School of Government at Oxford, and whenever I refer to "stringency score" without any other specifications, I'll mean that one. I looked it over and it roughly matches my common sense - the US states which everyone knows had stricter lockdowns also had higher stringency scores.
 
- **Preliminary Theoretical Issues 2: What Point Are We Measuring At?**
+**Preliminary Theoretical Issues 2: What Point Are We Measuring At?**
 
 If, the moment COVID had been reported in Wuhan, other countries had closed their borders tightly, that would have prevented the pandemic (at least for a while). In that sense, lockdowns definitely could have worked. 
 
@@ -38,7 +41,7 @@ Australia and New Zealand managed to do very well by combining well-targeted bor
 
 Most of the debate about whether lockdowns work centers on ideas within the Overton Windows of western countries, after the pandemic had started spreading and test-and-trace had been (maybe unwisely) abandoned. That is, given whatever level of lockdown your average western country had, was the marginal effect of more (or less) lockdown positive or negative? This post will continue the tradition of addressing this depressing and unambitious question.
 
- **Preliminary Theoretical Issues 3: What Is “Working”?**
+**Preliminary Theoretical Issues 3: What Is “Working”?**
 
 What would it mean for lockdowns not to work? We know that viruses spread through person-to-person contact. Lockdowns make people see each other less. How could this not reduce viral transmission?
 
@@ -69,7 +72,7 @@ Some research papers ignore the possibility of voluntary behavior changes, which
 It feels to me like the important issue is the counterfactual - how many lives did lockdowns save over the world where there were no lockdowns,  
 and only voluntary behavior change? But not all researchers feel that way, and so a lot of the lockdown papers, even the ones that admit voluntary behavior change is a thing and include it in their models, have a complicated relationship with this question.
 
- **Preliminary Theoretical Issues 5: Voluntary Behavior Change Is Actually Pretty Complicated, Isn’t It?**
+**Preliminary Theoretical Issues 5: Voluntary Behavior Change Is Actually Pretty Complicated, Isn’t It?**
 
 Here in the Bay Area, some parents tried to take their kids out of public school in early March, before the official lockdowns. The schools got angry, threatened to prosecute the parents under truancy laws, and said kids who missed school due to COVID fears wouldn’t be allowed to make up the work later and might fail their classes. Then later on, the government closed all schools and people stopped having to worry about this. 
 
@@ -99,7 +102,7 @@ In a perfect control system, lockdowns would have no effect, because R would sta
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F773b0c46-3a6e-4f95-9dfa-11ecb558dfba_579x406.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F773b0c46-3a6e-4f95-9dfa-11ecb558dfba_579x406.png)
 
- **Actual Evidence 1: Extremely Complicated Studies About Europe During The First Phase Of The Pandemic**
+**Actual Evidence 1: Extremely Complicated Studies About Europe During The First Phase Of The Pandemic**
 
 Probably the most-cited study (1177 times!) on the effect of lockdowns is [Flaxman et al](https://www.nature.com/articles/s41586-020-2405-7) from mid-2020. They look at European countries during the first wave of COVID in March 2020, when they instituted various policies, and how that affected virus transmission. They find that nothing except mandatory lockdown (which I think they’re using to mean full shelter-in-place orders) did anything, mandatory lockdown was extremely effective, and that lockdowns saved about three million lives. 
 
@@ -131,7 +134,7 @@ I think all of these are pretty plausible estimates, but it’s hard to translat
 
 So if you’re asking “did government mandates decrease R in the short term?” these studies provide decent evidence that the answer is yes. If you’re asking questions about how many people would have died with vs. without lockdowns, that’s a much more complicated question.
 
- **Actual Evidence 1.1: CoronaGame**
+**Actual Evidence 1.1: CoronaGame**
 
 …which you can get a surprisingly good sense of by playing a quick free online game.
 
@@ -159,11 +162,11 @@ One of the morals that the designers of this game were trying to drive home is t
 
 On my best playthrough of CoronaGame, I instituted all possible restrictions throughout March, April, and May, kept cases controlled enough to institute test-and-trace, switched to a pretty minimal suite of restrictions in the summer, then instituted school closures, gatherings <10, and high-risk business closures during the winter, relaxing them gradually as more people got vaccinated (I still didn’t quite make it to the Pareto frontier, so there’s room for improvement on this strategy). Trying these same restrictions but at different times turns out to be a disaster, which really emphasizes the point that there’s no single “best level of lockdown”. The right thing to do is whatever combination of policies in whatever order gets you on the Pareto frontier in CoronaGame (I still haven’t figured it out!), which means instituting the exact right set of restrictions at the exact right times to minimize cases, then lifting them at the exact right times to minimize cost.
 
- _Then_ , once you’re on the Pareto frontier, you can argue about which direction on that frontier to move - a little further toward stricter lockdowns / more lives saved, or toward looser lockdowns / fewer lives saved. If you’re not on the frontier - if you’re arguing about whether to be at Point F vs. Point G - probably you should shut up and work on getting on the frontier first.
+_Then_ , once you’re on the Pareto frontier, you can argue about which direction on that frontier to move - a little further toward stricter lockdowns / more lives saved, or toward looser lockdowns / fewer lives saved. If you’re not on the frontier - if you’re arguing about whether to be at Point F vs. Point G - probably you should shut up and work on getting on the frontier first.
 
 The rest of this post mostly ignores this lesson and continues arguing about which of the various suboptimal policy packages that different states and countries adopted worked better than which other ones.
 
- **Actual Evidence 2: Sweden As Counterfactual**
+**Actual Evidence 2: Sweden As Counterfactual**
 
 Sweden famously did not lock down as strictly as some other European countries at the beginning of the pandemic. How did it do?
 
@@ -275,7 +278,7 @@ Does it illuminate anything to plot this over time?
 
 Red is weaker-lockdown states, blue is stronger-lockdown states. The strong-lockdown advantage is pretty consistent. If we can read anything from this, it’s that lockdowns have a bit more of an advantage when things are already pretty stable, and a bit less at dealing with sudden giant spikes. My data source didn’t have the past few months, but if someone does, let me know.
 
- **Actual Evidence 4: The Lockdown Economy**
+**Actual Evidence 4: The Lockdown Economy**
 
 The benefits of lockdowns are measured in lives saved. The cost is measured in psychological suffering and economic decline. In order to do a cost-benefit analysis, we should figure out how much stricter lockdowns affected the economy.
 
@@ -299,7 +302,7 @@ Suppose we call states in the top half of lockdown strictness “blue states” 
 
 This contradicts the conclusion of [the report discussed here](https://news.yahoo.com/lockdown-states-like-california-did-better-economically-than-looser-states-like-florida-new-covid-data-shows-153025163.html) , which says that lockdown states did _better_ than non-lockdown states economically. Unfortunately, the report doesn’t exist at the link in the article, and I can’t find it anywhere. Going by discussion of it, it seems to choose a subset of states to focus on, without giving a great explanation for why. Overall I am not too tempted to replace my extremely simplistic analysis with theirs, even if I could find it.
 
- **Pre-Conclusion 1: Trying To Reconcile European and US Estimates**
+**Pre-Conclusion 1: Trying To Reconcile European and US Estimates**
 
 The evidence from Sweden suggests that weak lockdowns could increase death rates by 100% or more. The evidence from the US only finds that they increase death rates by about 20%. Why the difference? Might it be because there’s more of a difference between Sweden and other European countries than between red and blue US states?
 
@@ -309,7 +312,7 @@ Nope, doesn’t look that way.
 
 My unsupported guess is that lockdowns were more important in the first uncontrolled-growth phase of the pandemic. Maybe this is a purely mathematical fact - reducing R from 4 to 2 saves more deaths over a certain period of time than changing it from 0.9 to 0.45. It could also have to do with how “primed” populations were for voluntary behavior change. Since the Swedish data is mostly looking at the first phase of the pandemic, and the US data mostly at later phases, that would explain the extent of the difference.
 
- **Conclusion 1: Extremely Naive Attempt To Try To Quantify Economic Costs Vs. Benefits**
+**Conclusion 1: Extremely Naive Attempt To Try To Quantify Economic Costs Vs. Benefits**
 
 Using the naive linear US model, we find that if all blue states had instead had an average red state level of lockdown, it would have cost 50,000 lives and saved $64 billion. Saving 50,000 lives for $64 billion is about $1.3 million per life. 
 
@@ -327,7 +330,7 @@ I plugged some plausible estimates based on all this into a [Guesstimate model](
 
 I don’t feel anywhere close to able to quantify the economic gain/loss in Sweden. But if we stick with our tentative previous conclusion that a counterfactual early Swedish lockdown would have been more effective at saving lives than late American ones, then QALYs might be cheaper in Sweden, approaching the point where almost everyone would say it was worth it.
 
- **Conclusion 2: Extremely Naive Attempt To Try To Quantify Emotional Costs Vs. Benefits**
+**Conclusion 2: Extremely Naive Attempt To Try To Quantify Emotional Costs Vs. Benefits**
 
 Consider again the question of whether Sweden should have implemented a more European-typical lockdown during the first wave of the pandemic.
 
@@ -361,7 +364,7 @@ This argument seems less convincing in the US, where red states mostly just cons
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d1b9288-1420-449c-a9c4-6b0c823945a1_611x820.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d1b9288-1420-449c-a9c4-6b0c823945a1_611x820.png)Source: [here](https://www.nytimes.com/interactive/2020/11/18/us/covid-state-restrictions.html)
 
- **Conclusion 3: Complicated Things I Am Not Accounting For**
+**Conclusion 3: Complicated Things I Am Not Accounting For**
 
 We couldn’t have known any of this at the beginning of the pandemic, and had to make choices from a position of uncertainty.
 
@@ -383,20 +386,20 @@ I am assuming that vaccines will mostly work and the pandemic will gradually get
 
 Maybe this was a dress rehearsal for a much worse pandemic later on, and the most important effect of our choices now will be setting the defaults and expectations for how we respond to that one.
 
- **Conclusion 4: Summary**
+**Conclusion 4: Summary**
 
- **1:** Various policies lumped together as “lockdowns” probably significantly decreased R. Full-blown stay-at home orders were less important than targeted policies like school closures and banning large gatherings. Talking about which ones were “good” or “bad” is an oversimplification compared to the more useful questions of when countries should have started vs. stopped each to be on some kind of Pareto frontier of lives saved vs. cost.
+**1:** Various policies lumped together as “lockdowns” probably significantly decreased R. Full-blown stay-at home orders were less important than targeted policies like school closures and banning large gatherings. Talking about which ones were “good” or “bad” is an oversimplification compared to the more useful questions of when countries should have started vs. stopped each to be on some kind of Pareto frontier of lives saved vs. cost.
 
- **2:** If Sweden had a stronger lockdown more like those of other European countries, it probably could have reduced its death rate by 50-80%, saving 2,500+ lives.
+**2:** If Sweden had a stronger lockdown more like those of other European countries, it probably could have reduced its death rate by 50-80%, saving 2,500+ lives.
 
- **3:** On a very naive comparison, US states with stricter lockdowns had about 20% lower death rates than states with weaker ones, and about 0.6% more GDP decline. There are high error bars on both those estimates.
+**3:** On a very naive comparison, US states with stricter lockdowns had about 20% lower death rates than states with weaker ones, and about 0.6% more GDP decline. There are high error bars on both those estimates.
 
- **4:** Judging lockdowns by traditional measures of economic significance, moving from a US red-state level of lockdown to a US blue-state level of lockdown is in the range normally associated with interventions that are debatably cost-effective/utility-positive, with error bars including “obviously good” and “pretty bad”. It’s harder to estimate for Sweden, but plausibly for them to move to a more European-typical level of lockdown in the early phase of the pandemic would have very much cleared the bar and been unambiguously cost effective/utility-positive.
+**4:** Judging lockdowns by traditional measures of economic significance, moving from a US red-state level of lockdown to a US blue-state level of lockdown is in the range normally associated with interventions that are debatably cost-effective/utility-positive, with error bars including “obviously good” and “pretty bad”. It’s harder to estimate for Sweden, but plausibly for them to move to a more European-typical level of lockdown in the early phase of the pandemic would have very much cleared the bar and been unambiguously cost effective/utility-positive.
 
- **5:** It’s harder to justify strict lockdowns in terms of the non-economic suffering produced. Even assumptions skewed to be maximally pro-strict-lockdown, eg where strict lockdowns would have prevented every single coronavirus case, suggest that it would have taken dozens of months of somewhat stricter lockdown to save one month of healthy life. This might still be justifiable if present strict lockdowns now prevented future strict lockdowns (mandated or voluntary), which might be true in Europe but doesn’t seem as true in the US.
+**5:** It’s harder to justify strict lockdowns in terms of the non-economic suffering produced. Even assumptions skewed to be maximally pro-strict-lockdown, eg where strict lockdowns would have prevented every single coronavirus case, suggest that it would have taken dozens of months of somewhat stricter lockdown to save one month of healthy life. This might still be justifiable if present strict lockdowns now prevented future strict lockdowns (mandated or voluntary), which might be true in Europe but doesn’t seem as true in the US.
 
- **6:** Plausibly, really fast and well-targeted lockdowns could have been better along every dimension than either strong-lockdown areas’ strong lockdowns or weak-lockdown areas’ weak lockdowns. We should celebrate the countries that successfully pulled this off, and support the people trying to figure out how to make this easier to pull off next time.
+**6:** Plausibly, really fast and well-targeted lockdowns could have been better along every dimension than either strong-lockdown areas’ strong lockdowns or weak-lockdown areas’ weak lockdowns. We should celebrate the countries that successfully pulled this off, and support the people trying to figure out how to make this easier to pull off next time.
 
- **7:** All of this is very speculative and affected by a lot of factors, and the error bars are very wide.
+**7:** All of this is very speculative and affected by a lot of factors, and the error bars are very wide.
 
- _Many people helped me navigate through these issues. Thanks to subscribers for reviewing an early draft of this post, to Philippe Lemoine (who[blogs here at CSPI](https://cspicenter.org/war-on-science/)) for helping me understand the case against lockdowns, and to a researcher who prefers to remain anonymous, for helping me understand the case for (well-targeted) lockdowns._
+_Many people helped me navigate through these issues. Thanks to subscribers for reviewing an early draft of this post, to Philippe Lemoine (who[blogs here at CSPI](https://cspicenter.org/war-on-science/)) for helping me understand the case against lockdowns, and to a researcher who prefers to remain anonymous, for helping me understand the case for (well-targeted) lockdowns._

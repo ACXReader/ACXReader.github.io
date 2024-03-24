@@ -3,6 +3,9 @@ title: "Does Georgism Work? Part 1: Is Land Really A Big Deal?"
 subtitle: "A guest post on Georgism by Lars Doucet"
 date: 2021-12-09
 likes: 122
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45001939/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6fa167d5-b397-4595-929e-8e133d5ebe9b_719x511.jpeg
 original-url: https://www.astralcodexten.com/p/does-georgism-work-is-land-really
 ---
 _[Lars Doucet won this year’s[Book Review Contest](https://astralcodexten.substack.com/p/book-review-contest-winners) with his review of Henry George’s [Progress and Poverty](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty). Since then, he’s been researching Georgism in more depth, and wants to follow up with what he’s learned. I’ll be posting three of his Georgism essays here this week, and you can read his other work at [Fortress Of Doors](https://www.fortressofdoors.com/)] _
@@ -10,11 +13,11 @@ _[Lars Doucet won this year’s[Book Review Contest](https://astralcodexten.subs
 Hi, my name's Lars Doucet (not Scott Alexander) and this is a guest post in an ongoing series that assesses the empirical basis for the economic philosophy of [Georgism](https://en.wikipedia.org/wiki/Georgism).
 
 [Part 0 - Book Review: Progress & Poverty](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty)  
- **Part I - Is Land Really a Big Deal? 👈** (You are here)  
+**Part I - Is Land Really a Big Deal? 👈**(You are here)  
 [Part II - Can Land Value Tax be Passed on to Tenants?](https://astralcodexten.substack.com/p/does-georgism-work-part-2-can-landlords)  
 [Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](https://astralcodexten.substack.com/p/does-georgism-work-part-3-can-unimproved?utm_source=url)
 
- _Extremely special thanks to Count Bla and Alexandra Elbakyan_
+_Extremely special thanks to Count Bla and Alexandra Elbakyan_
 
 * * *
 
@@ -47,9 +50,9 @@ If you haven't read [the Book Review](https://astralcodexten.substack.com/p/your
 
 Georgism is a school of [political economy](https://en.wikipedia.org/wiki/Political_economy) that is really upset about, among other things, the Rent Being Too Damn High. It seeks to liberate labor and capital alike from those who gatekeep access to scarce "non-produced assets," such as land and natural resources, while still affirming the virtues of hard work and free enterprise. George uses the term "Land" to mean not just regular land, but everything that is external to human beings and the things they produce–nature itself, really.
 
-Georgism's chief insight is to move economic thinking from a two-factor model (Labor and Capital) to a three-factor model (Land, Labor, and Capital). It's chief (but not only) policy prescription is the **Land Value Tax** (LVT), which taxes real estate at as close to 100% of its "land rent" as possible (the amount of rent due to the land alone apart from "improvements" such as buildings). In actual practice, most Georgists seem to think 85% is a reasonable figure to target.
+Georgism's chief insight is to move economic thinking from a two-factor model (Labor and Capital) to a three-factor model (Land, Labor, and Capital). It's chief (but not only) policy prescription is the**Land Value Tax** (LVT), which taxes real estate at as close to 100% of its "land rent" as possible (the amount of rent due to the land alone apart from "improvements" such as buildings). In actual practice, most Georgists seem to think 85% is a reasonable figure to target.
 
-Let's carefully unpack what those terms means. " **Land value** " refers to the full market value of a property, _excluding_ all of its improvements, such as buildings. This is the portion of a property's value arising solely from its location and natural attributes (agricultural fertility, endowment of stuff like water, minerals, etc.). " **Land rent** " (AKA "ground rent") refers to the _recurring rental income_ a property is capable of generating from the market because of its land value.
+Let's carefully unpack what those terms means. "**Land value** " refers to the full market value of a property, _excluding_ all of its improvements, such as buildings. This is the portion of a property's value arising solely from its location and natural attributes (agricultural fertility, endowment of stuff like water, minerals, etc.). "**Land rent** " (AKA "ground rent") refers to the _recurring rental income_ a property is capable of generating from the market because of its land value.
 
 It is Land Rent which Land Value Tax is intended to capture. You can think of it as a _Location_ or _Site_ Value Tax if that's more helpful. It's not a tax on the full market purchase price of a property, nor is it a fixed amount of tax per acre of land, but rather a tax proportional to the market value of the land alone (or better yet, the land rent). When assessed correctly, as LVT approaches 100% the market _selling price_ of the land itself will approach zero.
 
@@ -146,25 +149,25 @@ And if you don't believe me, I have an empty lot in [Gerlach, Nevada](https://we
 
 Given the evidence from the various land value estimation studies and databases like AEI's, as well as how easy it is to run spot checks, I'm convinced.
 
- **Conclusion:** Most of the value of urban real estate is, in fact, land.
+**Conclusion:** Most of the value of urban real estate is, in fact, land.
 
 ### 1.2. America's land rents equal a sizable % of government spending
 
 Krugman and other skeptics don't believe you can raise enough with LVT alone to fund a modern state. Noah Smith, on the other hand, claims that [Land is Underrated as a Source of Wealth](https://www.bloomberg.com/opinion/articles/2018-01-02/land-is-underrated-as-a-source-of-wealth). Regardless of who's right, LVT doesn't need to replace all other taxes to still be worth doing, as long as it can raise a significant enough chunk. So how much can it raise? Let's do the math and find out.
 
- **Spoiler alert:**  
-Conservative estimates show that **we can entirely pay for any one of Defense, Social Security, or Medicare + Medicaid using land rents alone**. And optimistic estimates suggest that we're within striking distance of the Single Tax– **replacing all labor and capital taxes with taxes on land rents** (on the federal level, at least).
+**Spoiler alert:**  
+Conservative estimates show that **we can entirely pay for any one of Defense, Social Security, or Medicare + Medicaid using land rents alone**. And optimistic estimates suggest that we're within striking distance of the Single Tax–**replacing all labor and capital taxes with taxes on land rents**(on the federal level, at least).
 
- **Math alert:**   
+**Math alert:**   
 We're about to dive into all the research papers and calculations that back up the above statement. If you don't care about seeing me show my work and you want to jump right to the conclusion, go to the next section, **How Much Money Can We Raise From Land Rents?**
 
 * * *
 
 Let's start by defining some terms very precisely:
 
- **Land Income** or **Land Rent** is the recurring amount of revenue that the land itself is capable of generating. It's the market value that derives from the benefits the land itself provides (crops it can grow, proximity to a desirable job, etc) and the most anybody is willing to pay to access that land for a while (conventional "rent"). It is ultimately land income that drives land value, not the other way around.
+**Land Income** or **Land Rent** is the recurring amount of revenue that the land itself is capable of generating. It's the market value that derives from the benefits the land itself provides (crops it can grow, proximity to a desirable job, etc) and the most anybody is willing to pay to access that land for a while (conventional "rent"). It is ultimately land income that drives land value, not the other way around.
 
- **Land Price** or **Land Value** is how much it costs to buy a piece of land. **Full Market Value,** however, is specifically the land price under "fair" and open market conditions. What are "unfair" conditions? I mean, your dad could sell you a valuable property for $1 as an obvious gift, but if he put it on the open market, it would go for much more than that. Likewise, it's not uncommon for a property that's been foreclosed on and hastily auctioned off to be re-listed publicly by the auction winner for a higher price.
+**Land Price** or **Land Value** is how much it costs to buy a piece of land. **Full Market Value,** however, is specifically the land price under "fair" and open market conditions. What are "unfair" conditions? I mean, your dad could sell you a valuable property for $1 as an obvious gift, but if he put it on the open market, it would go for much more than that. Likewise, it's not uncommon for a property that's been foreclosed on and hastily auctioned off to be re-listed publicly by the auction winner for a higher price.
 
 Cool, so how much is all the land in America worth? Or more precisely, what is the **full market value** of all of America's land?
 
@@ -220,7 +223,7 @@ The middle values in red include Larson (2015), who uses a "hedonic regression" 
 
 Long story short, I found numerous persuasive criticisms of the cost approach. Ultimately, I think Smith's estimate is most likely closest to the truth. Let's dig into Larson, Albouy, and the Federal Reserve figures to understand why.
 
- **A Tale of Two Larsons**
+**A Tale of Two Larsons**
 
 Larson disagrees with himself. Let me grey out most of the other lines to highlight this discrepancy.
 
@@ -230,7 +233,7 @@ Larson (2015) was written by Larson alone and uses a "hedonic regression" approa
 
 Larson (2019), on the other hand, was co-written with Davis, Oliner, and Shui and uses the cost approach exclusively. Crucially, Larson (2019) explicitly and intentionally _excludes_ all vacant land sales from the dataset. This estimate thus has the _least_ direct contact with ground truth data from the market concerning land.
 
- **Albouy's Astounding Appendix**
+**Albouy's Astounding Appendix**
 
 I think we can all agree that the purest way to measure the value of land is to find a piece of land with nothing on it and observe the price it sells for on the market. With enough of these data points, you could interpolate between them to create a smooth gradient map of land values, which could be good enough for estimating the aggregate value of large areas.
 
@@ -244,7 +247,7 @@ This startling figure is from the "[online appendix](https://mitp.silverchair-cd
 
 Both Albouy and Larson (2015) use regression models that include vacant land sales, but Albouy _only_ considers vacant land sales. By contrast, Larson (2019) uses the cost approach and explicitly _excludes_ vacant land sales. What about the Federal Reserve Method?
 
- **The Fuzzy Fed**
+**The Fuzzy Fed**
 
 The "Federal Reserve" line is my own construction. Matthew Yglesias described this method in _[What's All the Land in America worth?](https://slate.com/business/2013/12/value-of-all-land-in-the-united-states.html) _in 2013, arriving at $15 trillion. In this method, you look at the balance sheets on the Federal Reserve's annual [flow of funds report](https://www.federalreserve.gov/releases/z1/) and subtract the replacement values of all structures from the total value of real estate holdings. There's good reason to believe this method produces estimates that are too low.
 
@@ -273,7 +276,7 @@ And for two, property tax assessments have all kinds of exemptions and carve-out
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faabe4977-f06a-4e59-a65e-1bb72af9783d_561x683.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faabe4977-f06a-4e59-a65e-1bb72af9783d_561x683.png)Assessed values less than 10% of the extremely obvious full market value
 
 It sold for 5.8 million 10 years ago, and now it's listed for 9 million. And yet the   
-"assessed value" is a mere $600K. What's going on? The assessor is probably _not_ saying that the full market value of this obviously multi-million dollar property is $600K. Most likely the assessor gave their best guess of "full market value," and then state statutes forced the assessor to also write down a separate "assessed value" that applies some markdown percentage. But the really damning part of these tax assessment records is that the land value assessment hasn't budged. The price has gone up over 3 million dollars in ten years, and you're telling me the land value hasn't changed at _all_? __ Fuhgeddaboudit.
+"assessed value" is a mere $600K. What's going on? The assessor is probably _not_ saying that the full market value of this obviously multi-million dollar property is $600K. Most likely the assessor gave their best guess of "full market value," and then state statutes forced the assessor to also write down a separate "assessed value" that applies some markdown percentage. But the really damning part of these tax assessment records is that the land value assessment hasn't budged. The price has gone up over 3 million dollars in ten years, and you're telling me the land value hasn't changed at _all_?__ Fuhgeddaboudit.
 
 Agencies that don't collect much property tax don't have strong incentives to strive for accurate assessments. This creates a vicious cycle where official statistics are severely depressed, and those same statistics are then used as proof that land just isn't a big deal.
 
@@ -281,7 +284,7 @@ If the Federal Reserve's data for total real estate values is at all based on pr
 
 Taken together with the fact that improvements are likely being over-valued based on naïve replacement costs + depreciation formulas instead of the actual present market value, this would imply that the Federal Reserve method for estimating all of America's land values at $24 Trillion is a **conservative lower bound,** and the same goes for all the other methods using the cost approach.
 
- **From Albouy to Smith**
+**From Albouy to Smith**
 
 Okay, so let's look at Smith's method. Instead of doing a whole new study, he singles out Albouy as having the best methodology and makes some adjustments. You see, Albouy estimated the value of urban land _alone,_ leaving out federal lands, agricultural lands, and things like water rights and natural resources, which accrue rental income and are considered "Economic Land" by Georgists.
 
@@ -303,7 +306,7 @@ Of the original studies, Albouy has the most convincing methodology, and Smith's
 
 I should note here that a lot of this land is already paying property taxes, which is at least partially a Land Value Tax. Research shows that Land Value Taxes are "capitalized" into land prices. I'll explain this next time in Part II, but for now, suffice it to say that if an income-generating piece of land produced $10,000 a year for you, and you knew you had to pay $5,000 a year for the privilege of holding it, you'd probably only be willing to buy it for half as much as you would if the tax didn't exist. Since the point of this exercise is to estimate how much a blanket LVT could raise, a more rigorous study would work out how much present land prices have been depressed by existing land taxes and adjust these figures upwards accordingly to get a more accurate estimate of the full land rents.
 
- **Land Rents vs. Budgets**
+**Land Rents vs. Budgets**
 
 Now we have to convert land values to land rents–the amount of income the land is capable of generating each year.
 
@@ -323,7 +326,7 @@ Now we just need to compare that to America's budget figures.
 
 * * *
 
- **How Much Money Can We Raise from Land Rents?**  
+**How Much Money Can We Raise from Land Rents?**  
   
 America's annual land rents are sufficient to cover between 18%-40% (Fed) and 34-78% (Smith) of annual federal spending. The low-end figures come from 2020, which was a major outlier in federal spending thanks to COVID.
 
@@ -373,7 +376,7 @@ If you believe in [Modern Monetary Theory](https://www.investopedia.com/modern-m
 
 But what if MMT is bunk, and if we also insist on the Fed's figures? Then we're left with two options: either accept that doctrinaire Single-Taxism is done for (in the USA, at least) while still accepting LVT as part of this balanced budget breakfast, or else look into those "dynamic effects" that Dwyer's Australian figures intentionally left out, particularly a tantalizing theory most commonly associated with [Mason Gaffney](https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf) called [ATCOR](http://www.wealthandwant.com/themes/ATCOR.html)–"All Taxes Come Out of Rents."
 
- **ATCOR and the Henry George Theorem**
+**ATCOR and the Henry George Theorem**
 
 ATCOR supposes that a reduction in taxes on income and capital–independent any other policy interventions–will actually cause land values to _rise_ by a proportionate amount. This means that Georgists who suppose that any old LVT policy will cause land prices to go down need to be careful. If you un-tax labor and capital, but don't _also_ sufficiently raise taxes on land, land prices (and rents) will actually go _up,_ because someone working on that land is now taking home more income and therefore capable of paying more in rent (see [Ricardo's Law of Rent](https://www.youtube.com/watch?v=jiGKwi43R0Q)). However, with the right policy, this can be a good thing _._
 
@@ -401,7 +404,7 @@ And in case you're wondering who Nicolaus Tideman is, here's a quick bio from hi
 
 We can quibble about the estimation methods and the cap rates, but by George, land rents represent a huge amount of value. If nothing else, a high LVT could offset many unpopular and inefficient taxes without cutting the budget, or it could be used to fund important programs we supposedly can't currently afford.
 
- **Conclusion:**  
+**Conclusion:**  
 America's land rents are, in fact, equal to a sizable % of the annual budget.
 
 Ironically, by demonstrating that land taxes can raise a large amount of money, I've actually set up another criticism; land taxes don't raise too _little_ revenue, they raise _too much._ This critique is mostly made on moral/ideological grounds and typically comes from the right–to which I'll just let arch-conservative William F. Buckley (apparently both a Georgist _and_ a full-on Single-Taxer) make the case.
@@ -436,7 +439,7 @@ Let's see if we can spot check some of these stats by looking up another source.
 
 Counting pixels and working out the percentage by hand, it looks like real estate (the two blue regions) combined for about 45% circa 2007 and climbed to 60% in 2017. The 2007 figures are smaller than those given in the above charts from _The Great Mortgaging_ but are still huge in either case.
 
-Is there anywhere else we can check easily? New Zealand (which isn't covered in _The Great Mortgaging_ ) has this [really cool dashboard](https://bankdashboard.rbnz.govt.nz/asset-quality) that breaks down all the bank loans in their country. As you can see, the majority of loans are for housing.
+Is there anywhere else we can check easily? New Zealand (which isn't covered in _The Great Mortgaging_) has this [really cool dashboard](https://bankdashboard.rbnz.govt.nz/asset-quality) that breaks down all the bank loans in their country. As you can see, the majority of loans are for housing.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F877a7761-642e-4da4-a319-35a8ced60f3e_1405x736.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F877a7761-642e-4da4-a319-35a8ced60f3e_1405x736.png)
 
@@ -446,7 +449,7 @@ Here's another visualization of the same data.
 
 I could dig further, but I think I've seen enough to convince me of this general point. The majority of bank loans in a lot of major developed countries (including the US, UK, and New Zealand) are for real estate, and, as we've already shown, the majority of real estate's value is concentrated in land. Whether or not land represents a clear majority of bank loans, it's undeniably a big chunk.
 
- **Conclusion:** Land represents a significant % of all major bank loans
+**Conclusion:** Land represents a significant % of all major bank loans
 
 Okay, so what? Why is it such a big deal if banks spend a lot of money chasing after real estate?
 
@@ -500,7 +503,7 @@ If you add together the 35% due to conventional land and the 4% due to "non-prod
 
 That seems like a pretty big deal to me.
 
- **Conclusion:**  
+**Conclusion:**  
 Land does, in fact, represent a significant % of the value of gross personal assets in developed countries, including the US.  
 
 
@@ -568,7 +571,7 @@ Not only is land ownership concentrated among the wealthy, it's concentrated amo
 
 It's important to realize that Millennials are no longer young. I'm a Millennial, and I'm already 37, hardly a spring chicken. What's the picture going to look like for Zoomers?
 
- **Conclusion:**  
+**Conclusion:**  
 Land ownership is, in fact, highly concentrated among the wealthy.
 
 * * *
@@ -581,11 +584,11 @@ We've established the following well beyond the preponderance of evidence:
 ✅ Land represents a significant % of the value of gross personal assets  
 ✅ Land ownership is highly concentrated among the wealthy  
   
- **Conclusion**  
+**Conclusion**  
 By George, land is a really big deal.
 
 Land is not some minor concern that only matters in pre-industrial agricultural economies. Everybody needs land, but nobody can make any more of it. You can't work, eat, sleep, or even poop without access to land (try doing any one of those things in a forbidden location and see what happens to you). The housing crisis is driven by inflated land prices, which in turn drives poverty, homelessness, and all other manner of social ills. And when we try to fix those social ills with public spending, land often soaks up and privatizes the value the spending creates. This subsidizes private actors who turn right around and use those gains to jack up everybody's rent, and the vicious cycle continues. And all the while banks continue to pour fuel on the fire.
 
 By George, Land Value Tax would solve this.
 
- _[…to be continued]_
+_[…to be continued]_

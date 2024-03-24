@@ -3,9 +3,12 @@ title: "Your Book Review: Double Fold"
 subtitle: "Finalist #6 of the book review contest"
 date: 2021-04-30
 likes: 56
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/35789659/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0b2c56d4-1c42-4933-9124-050c40ce2ee6_409x269.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-double-fold
 ---
-[ _This is the sixth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out[point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_] 
+[_This is the sixth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out[point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_] 
 
 If you enter a major research library in the US today and request to see a century-old issue of a major American newspaper, such as _Chicago Tribune_ , _The Wall Street Journal_ , or major-but-defunct newspapers such as the New York “ _World_ ,” odds are that you will be directed to a computer or a microfilm reader. There, you’ll get to see black-and-white images of the desired issue, with individual numbers of the newspaper often missing and much of the text, let alone pictures, barely decipherable. 
 
@@ -27,7 +30,7 @@ Even though it’s possible to make educated guesses about how much a certain pu
 
 Perhaps the best illustration of the constantly expanding area of historical interest is the huge trove of medieval Jewish documents that was discovered in the geniza at Cairo in the 19th century and mostly brought to Europe. In the beginning, only Biblical texts attracted much interest, especially ones that had been presumed lost in the original Hebrew. Later, during the 20th century, the researchers suddenly became excited by the documents left behind by medieval Jewish intellectuals – previously unknown manuscripts of works by Maimonides and Judah Halevi, some of them written in their own hand. A generation or two later, new scholars looked into the everyday documents left behind in the geniza – receipts, contracts, and IOU’s, and used them to construct a social history of medieval Jews in Egypt. As Adina Hoffman and Peter Cole write in the book _Secret Trash_ , there is only one constant in the research into the contents of the Cairo geniza: whatever had been left aside as boring and irrelevant by one generation became the cornerstone of the next generation’s scholarly pursuits.
 
- **Microfilm**
+**Microfilm**
 
 The story of _Double Fold_ might be said to begin in the 1930s with the advent of microfilming. The idea of photographing documents to make them more portable had been around at least since the 1870s, but it took 60 more years until microfilm technology was sufficiently advanced to become attractive for libraries. The basic idea was simple: you took pictures of every page of a book, put them together into a roll of film stored in a small box, and when someone wanted to “read” the book, they put the film into a large TV-like device that magnified the image onto a screen, with a pair of buttons that you could use to navigate left and right.
 
@@ -51,7 +54,7 @@ Lastly, microfilms themselves don’t age very well. Just like paper, there are 
 
 Of course, it would be easy for none of this to matter at all in 2021. Despite its downsides, microfilm had the major advantage that it could be copied at will, which made a bunch of rare items suddenly accessible to libraries all over the country. Baker often stresses that he has nothing against the technology as such, as long as it is used merely to supplement paper collections. As it happens, however, this is not what happened. What happened instead was that microfilm became part of the plan to get rid of paper almost entirely.
 
- **Brittle paper**
+**Brittle paper**
 
 The second key part of this jigsaw is paper deterioration. Paper from the 18th century and earlier usually ages quite well, the reason being that it was produced from rags, i.e. old clothes and other discarded textile. The upside of rag paper is that it was made from 100% recycled material, while the obvious downside is that there is a limited supply of old rags in the world. Around 1850, this led to the introduction of wood-pulp paper. Wood is plentiful, but using it to make paper usually required procedures that resulted in a slightly acidic final product, and the acids slowly damage the cellulose fibers of which paper consists. This is why paper made after 1850 often goes yellow over time, and is much more brittle than either ancient or modern rag paper.
 
@@ -69,13 +72,13 @@ That’s not how the librarians saw it, though. Baker chronicles how the rhetori
 
 As long as the books were merely described as brittle and fragile, one might still propose to save them through the traditional means: restricting access, careful handling, and conservation, combined with non-destructive imaging to reduce the number of researchers who needed to consult the originals. However, if these books were literally on their death bed, about to disappear into thin air no matter what we did for them, then…well…there was no reason why we should do anything more for them. We might as well chuck them out.
 
- **Shelf Space and Book Destruction**
+**Shelf Space and Book Destruction**
 
 The 1988 film _Slow Fires_ , which turned its director Terry Sanders into a household name in American libraries, was one of the cleverest pieces of anti-paper propaganda ever made, and Baker devotes considerable attention to it. The movie starts slowly, with scenes of crumbling marble inscriptions and papyri, accompanied by sorrowful music, followed by clips from interviews with famous scholars, all of whom emphasize how much they value working with primary sources. In the following scene, we are led through the Florence library in the aftermath of the destructive floods of the river Arno, and through the ruins of a nameless burnt-out library, accompanied by more of the same solemn music. A sensitive viewer might have shed a tear at these scenes, and it looks obvious that this is a movie about the value of preserving our cultural heritage, and the importance of historical artifacts. 
 
 In the scene that follows, we enter a preservation department of a major library, where the microfilming of a rare 1920s bound newspaper is just underway. The worker explains the microfilming process to us, while she slowly slashes the volume’s binding and proceeds to cut up individual pages and feed them into the filming device.
 
- _Wait, what?_
+_Wait, what?_
 
 The process in question is called guillotining a book, and according to Baker, it was the logical outcome of the paper brittleness myth, combined with the passion for microfilming. What made these two deadly was a secret ingredient – the desire to free up shelf space. There were few librarians in history who did not at some point complain about the lack of space. However, this particular problem always had two different solutions: either increase space, or reduce the number of books. For large research libraries, the first option was always the default one, since it was obvious that with the growth of human knowledge, the number of books necessary for future researchers would grow as well.
 
@@ -95,9 +98,9 @@ How did _Slow Fires_ get away with showing the dismemberment of rare items to th
 
 Of course, it wasn’t the ideal way. Baker’s frustrated attempts to get America’s chief librarians to explain their discarding policy feel like an endless progression of motte and bailey. The motte is that terminally endangered books need to be microfilmed to preserve their intellectual content; the bailey is that libraries should ditch paper books and switch to microfilm in order to modernize and miniaturize. Baker notes that several newspapers, such as _The New York Times_ , produced a few special durable rag-paper editions every day, specifically for libraries. All for nothing: the libraries ended up ditching these volumes nonetheless. Patricia Battin was the president of the national Commission of Preservation (!) and Access and one of the most ardent supporters of microfilm:
 
-> ’ _Yes, I’m sure that there are books that were microfilmed that probably were not that brittle,’_ Battin says now. _‘We had great debates among the populace as to whether you took the collection approach or the individual-copy approach, and decided for the initial filming grants that the collection approach made the most sense.’_ To me she quoted the French adage _: ‘The best is the enemy of the good.’_ Of course, the bad can be the enemy of the good, too _._
+> ’ _Yes, I’m sure that there are books that were microfilmed that probably were not that brittle,’_ Battin says now._‘We had great debates among the populace as to whether you took the collection approach or the individual-copy approach, and decided for the initial filming grants that the collection approach made the most sense.’_ To me she quoted the French adage _: ‘The best is the enemy of the good.’_ Of course, the bad can be the enemy of the good, too _._
 
- **What did we lose?**
+**What did we lose?**
 
 Baker spends a considerable amount of time proving that microfilming was a losing proposition in the financial sense. He’s probably right, but few people care about financial malpractice in libraries enough to read 300 pages about it. Instead, 20 years after its publication, the value of _Double Fold_ hinges entirely on the value of historical material that was lost from US libraries during the microfilm craze, and that is difficult or impossible to replace. So, what did we lose?
 

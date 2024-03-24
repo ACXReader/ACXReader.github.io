@@ -3,6 +3,9 @@ title: "Billionaires, Surplus, And Replaceability"
 subtitle: "..."
 date: 2022-08-31
 likes: 198
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/68526927/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/616f8b93-2090-4d3b-b3fe-136fb2bff23e_1024x1024.png
 original-url: https://www.astralcodexten.com/p/billionaires-surplus-and-replaceability
 ---
 The typical neoliberal defense of self-made billionaires goes: entrepreneurs and other businesspeople create a lot of value. EG an entrepreneur who invents/produces/markets a better car has helped people get where they’re going faster, more safely, with less pollution, etc. People value that some amount, represented by them being willing to spend money on the car. The entrepreneur should get to keep some of that value, both because it’s only fair, and because it incentivizes people to keep creating value in the future.

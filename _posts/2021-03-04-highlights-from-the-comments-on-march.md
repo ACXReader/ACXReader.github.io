@@ -3,6 +3,9 @@ title: "Highlights From The Comments On March Links"
 subtitle: "..."
 date: 2021-03-04
 likes: 55
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/33234230/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0e86e93f-9e10-41f2-a207-afcef5a02b82_433x259.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-march
 ---
 [link back to the original links post: [here](https://astralcodexten.substack.com/p/links-for-march)]
@@ -95,7 +98,7 @@ Also, [tkling](https://astralcodexten.substack.com/p/links-for-march#comment-141
 
 [Neal Zupancic](https://astralcodexten.substack.com/p/links-for-march#comment-1410036) on police reform:
 
-> >  _[from original post] "I’m interpreting this to mean that there are effective ways to reform the police, but that the atmosphere created by media saturation and protests produces ineffective counterproductive reform instead."_
+> > _[from original post] "I’m interpreting this to mean that there are effective ways to reform the police, but that the atmosphere created by media saturation and protests produces ineffective counterproductive reform instead."_
 > 
 > The authors seem to suggest it is mostly the investigations themselves causing the increase in crime, rather than any particular policy changes. The mechanism they propose is that police officers greatly reduce their quantity of policing when under federal investigation after a "viral" incident, but there is little indication that this comes about as the result of any particular policy reform - the suggestion is that police are either reducing public contact in an effort to avoid having their own actions scrutinized, or are trying to make a point (in the case of deliberate strikes and slowdowns/sickouts). There's also a section (page 27) where the authors talk about the possible impact of increased paperwork, and estimate it might account for about 20% of the reduction in police activity in one city. I'm not sure if we're calling this "reform" but even if we do it's a small proposed effect.
 

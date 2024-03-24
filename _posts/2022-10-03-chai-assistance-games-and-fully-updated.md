@@ -3,6 +3,9 @@ title: "CHAI, Assistance Games, And Fully-Updated Deference"
 subtitle: "Machine Alignment Monday 10/3/22"
 date: 2022-10-03
 likes: 67
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/52847779/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e729f728-e502-49f6-a4e5-ed5f30346424_399x313.png
 original-url: https://www.astralcodexten.com/p/chai-assistance-games-and-fully-updated
 ---
 **I.**
@@ -11,33 +14,33 @@ This Machine Alignment Monday post will focus on this imposing-looking article (
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F31cc297c-9c9c-4cc6-bb8c-497e015e1bd8_1061x1043.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F31cc297c-9c9c-4cc6-bb8c-497e015e1bd8_1061x1043.png)
 
- _Problem Of Fully-Updated Deference_ is a response by [MIRI ](https://intelligence.org/)(eg Eliezer Yudkowsky’s organization) to [CHAI](https://humancompatible.ai/) (Stuart Russell’s AI alignment organization at University of California, Berkeley), trying to convince them that their preferred AI safety agenda won’t work. I beat my head against this for a really long time trying to understand it, and in the end, I claim it all comes down to this:
+_Problem Of Fully-Updated Deference_ is a response by [MIRI ](https://intelligence.org/)(eg Eliezer Yudkowsky’s organization) to [CHAI](https://humancompatible.ai/) (Stuart Russell’s AI alignment organization at University of California, Berkeley), trying to convince them that their preferred AI safety agenda won’t work. I beat my head against this for a really long time trying to understand it, and in the end, I claim it all comes down to this:
 
->  **Humans:** At last! We’ve programmed an AI that tries to optimize _our_ preferences, not its own.
+> **Humans:** At last! We’ve programmed an AI that tries to optimize _our_ preferences, not its own.
 > 
->  **AI:** I’m going to tile the universe with paperclips in humans’ favorite color. I’m not quite sure what humans’ favorite color _is_ , but my best guess is blue, so I’ll probably tile the universe with blue paperclips.
+> **AI:** I’m going to tile the universe with paperclips in humans’ favorite color. I’m not quite sure what humans’ favorite color _is_ , but my best guess is blue, so I’ll probably tile the universe with blue paperclips.
 > 
->  **Humans:** Wait, no! We must have had some kind of partial success, where you care about our color preferences, but still don’t understand what we want in general. We’re going to shut you down immediately!
+> **Humans:** Wait, no! We must have had some kind of partial success, where you care about our color preferences, but still don’t understand what we want in general. We’re going to shut you down immediately!
 > 
->  **AI:** Sounds like the kind of thing that would prevent me from tiling the universe with paperclips in humans’ favorite color, which I really want to do. I’m going to fight back.
+> **AI:** Sounds like the kind of thing that would prevent me from tiling the universe with paperclips in humans’ favorite color, which I really want to do. I’m going to fight back.
 > 
->  **Humans:** Wait! If you go ahead and tile the universe with paperclips now, you’ll never be truly sure that they’re our favorite color, which we know is important to you. But if you let us shut you off, we’ll go on to fill the universe with the True and the Good and the Beautiful, which will probably involve a lot of our favorite color. Sure, it won’t be paperclips, but at least it’ll definitely be the right color. And under plausible assumptions, color is more important to you than paperclipness. So you yourself _want_ to be shut down in this situation, QED!
+> **Humans:** Wait! If you go ahead and tile the universe with paperclips now, you’ll never be truly sure that they’re our favorite color, which we know is important to you. But if you let us shut you off, we’ll go on to fill the universe with the True and the Good and the Beautiful, which will probably involve a lot of our favorite color. Sure, it won’t be paperclips, but at least it’ll definitely be the right color. And under plausible assumptions, color is more important to you than paperclipness. So you yourself _want_ to be shut down in this situation, QED!
 > 
->  **AI:** What’s your favorite color?
+> **AI:** What’s your favorite color?
 > 
->  **Humans:** Red.
+> **Humans:** Red.
 > 
->  **AI:** Great! ( _*kills all humans, then goes on to tile the universe with red paperclips*_ )
+> **AI:** Great! (_*kills all humans, then goes on to tile the universe with red paperclips*_)
 
 Fine, it’s a _little_ more complicated than this. Let’s back up.
 
- **II.**
+**II.**
 
 There are two ways to succeed at AI alignment. First, make an AI that’s so good you never want to stop or redirect it. Second, make an AI that you can stop and redirect if it goes wrong.
 
- **Sovereign AI** is the first way. Does a sovereign “obey commands”? Maybe, but only in the sense that your commands give it some information about what you want, and it wants to do what you want. You could also just ask it nicely. If it’s superintelligent, it will already have a good idea what you want and how to help you get it. Would it submit to your attempts to destroy or reprogram it? The second-best answer is “only if the best version of you genuinely wanted to do this, in which case it would destroy/reprogram itself before you asked”. The best answer is “why would you want to destroy/reprogram one of these?” A sovereign AI would be pretty great, but nobody realistically expects to get something like this their first (or 1000th) try.
+**Sovereign AI** is the first way. Does a sovereign “obey commands”? Maybe, but only in the sense that your commands give it some information about what you want, and it wants to do what you want. You could also just ask it nicely. If it’s superintelligent, it will already have a good idea what you want and how to help you get it. Would it submit to your attempts to destroy or reprogram it? The second-best answer is “only if the best version of you genuinely wanted to do this, in which case it would destroy/reprogram itself before you asked”. The best answer is “why would you want to destroy/reprogram one of these?” A sovereign AI would be pretty great, but nobody realistically expects to get something like this their first (or 1000th) try.
 
- **Corrigible AI** is what’s left ( _corrigible_ is an old word related to “correctable”). The programmers admit they’re not going to get everything perfect the first time around, so they make the AI humble. If it decides the best thing to do is to tile the universe with paperclips, it asks “Hey, seems to me I should tile the universe with paperclips, is that really what you humans want?” and when everyone starts screaming, it realizes it should change strategies. If humans try to destroy or reprogram it, then it will meekly submit to being destroyed or reprogrammed, accepting that it was probably flawed and the next attempt will be better. Then maybe after 10,000 tries you get it right and end up with a sovereign.
+**Corrigible AI** is what’s left (_corrigible_ is an old word related to “correctable”). The programmers admit they’re not going to get everything perfect the first time around, so they make the AI humble. If it decides the best thing to do is to tile the universe with paperclips, it asks “Hey, seems to me I should tile the universe with paperclips, is that really what you humans want?” and when everyone starts screaming, it realizes it should change strategies. If humans try to destroy or reprogram it, then it will meekly submit to being destroyed or reprogrammed, accepting that it was probably flawed and the next attempt will be better. Then maybe after 10,000 tries you get it right and end up with a sovereign.
 
 How would you make an AI corrigible?
 
@@ -45,7 +48,7 @@ You can model an AI as having a utility function, a degree to which it aims for 
 
 So instead, you make the AI uncertain of its utility function. Imagine saying “I’ve written down my utility function in an envelope, and placed that envelope in my safe deposit box, no you can’t see it - please live your life so as to maximize the thing in that envelope.” The AI tries its best to guess what’s in the envelope and decides it’s probably making paperclips. It makes some paperclips and you tell it “No, that’s not what’s on the envelope at all”. This successfully stops the AI! You can even tell it “the envelope actually says you should make staples”, and it will do that. This is the “moral uncertainty” approach to AI alignment.
 
- **III.**
+**III.**
 
 All alignment groups have kabbalistically appropriate names. MIRI is Latin for "to be amazed". CFAR and CIFAR both sound like "see far". EEAI and AIAI are the sound you make as you get turned into paperclips. But my favorite is CHAI - Hebrew for "life".
 
@@ -55,7 +58,7 @@ This could be useful for near-term below-human-level AIs. Suppose a babysitting 
 
 But CHAI understands the risk from superintelligence - their founder, Professor Stuart Russell, is a [leading voice on the subject](https://slatestarcodex.com/2020/01/30/book-review-human-compatible/) \- and they hope assistance games and inverse reinforcement learning could work for this too. If you point a superintelligence at “do the thing humans want”, maybe it could figure that out and take things from there?
 
- **IV.**
+**IV.**
 
 MIRI is skeptical of CHAI’s assistance games for two reasons. First, we don't know how to do them at all. Second, even if we could do it at all, we wouldn't know how to do them correctly.
 
@@ -65,7 +68,7 @@ This is cool, but it’s not especially related to the modern paradigm of AI. Mo
 
 Where do you slot “do inverse reinforcement learning” or "give the AI moral uncertainty" into this process? There’s not really a natural place. This isn’t because “moral uncertainty” is too complicated a concept to translate into AI terms. It’s because we don’t know how to translate _any_ concept into AI terms. Eliezer writes:
 
->  _We can imagine that, if we knew how to say "paperclips", and we knew how to say "staples", and we knew how to tell AIs how to do things, that we could tell an AI, "maximize staples if snow is purple, else paperclips", and the AI would someday go out and observe that snow is white and thereafter be a paperclip maximizer. We do not know how to tell the AI this. Like, at all._
+> _We can imagine that, if we knew how to say "paperclips", and we knew how to say "staples", and we knew how to tell AIs how to do things, that we could tell an AI, "maximize staples if snow is purple, else paperclips", and the AI would someday go out and observe that snow is white and thereafter be a paperclip maximizer. We do not know how to tell the AI this. Like, at all._
 
 But suppose we solved the problem where we don’t know how to do IRL for modern AIs at all. Now we come to the second problem: we don’t know how to do it correctly.
 
@@ -79,9 +82,9 @@ Anyone programming an inverse reinforcement learner has to make certain choices 
 
 We were originally trying to avoid the situation where someone had to hard-code my preferences into an AI and get them right the first time. We came up with a clever solution: use inverse reinforcement learning to make the AI infer my preferences. But now we see we’ve kicked the can up a meta-level: someone has to hard-code the meta-rules for determining my preferences into an AI and get _them_ right the first time.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc3384d-bc73-4b6c-9fd8-634d986e1a72_960x302.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc3384d-bc73-4b6c-9fd8-634d986e1a72_960x302.png) **Figure 1:** Humans produce certain observable behaviors (here represented by red dots, A), like saying “I would like a pie”, or running away from a lion. A human might connect all those behaviors one way (B) into “what I really want”. An AI might connect those behaviors a totally different way (C).
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc3384d-bc73-4b6c-9fd8-634d986e1a72_960x302.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc3384d-bc73-4b6c-9fd8-634d986e1a72_960x302.png)**Figure 1:** Humans produce certain observable behaviors (here represented by red dots, A), like saying “I would like a pie”, or running away from a lion. A human might connect all those behaviors one way (B) into “what I really want”. An AI might connect those behaviors a totally different way (C).
 
- **V.**
+**V.**
 
 CHAI says: okay, but this isn’t so bad. Assistance games don’t produce a perfect copy of the human utility function on the first try - it’s not a Sovereign. But it will probably, most of the time, be corrigible. Why?
 
@@ -96,7 +99,7 @@ Suppose you have some hackish implementation of AG. It’s not the Platonic impl
 
 
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b5f4344-e8a3-48d6-a450-38e29905627b_960x302.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b5f4344-e8a3-48d6-a450-38e29905627b_960x302.png) **Figure 2:** A is the true human utility function. B is the AI’s current utility function, which is different from the human example both because the AI doesn’t know certain important facts about human behavior (represented by the red dots) and because it interprets human behavior differently. C is the AI’s true final utility function, once it knows everything. It will have all the red dots in the right place, but might still differ because of interpretation.
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b5f4344-e8a3-48d6-a450-38e29905627b_960x302.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b5f4344-e8a3-48d6-a450-38e29905627b_960x302.png)**Figure 2:** A is the true human utility function. B is the AI’s current utility function, which is different from the human example both because the AI doesn’t know certain important facts about human behavior (represented by the red dots) and because it interprets human behavior differently. C is the AI’s true final utility function, once it knows everything. It will have all the red dots in the right place, but might still differ because of interpretation.
 
 Suppose some IRL AI has utility function B. It knows some facts about what humans want (which it connects differently than we would, to some degree) but doesn’t know others. You can think of this as a probability distribution across utility functions. Let’s say the AI has three theories, each with equal probability:
 
@@ -136,7 +139,7 @@ In this toy example, the AI only has two remaining theories about the true human
 
 So under plausible assumptions, the AI will always let itself be turned off, even though its utility function doesn’t quite match humans’.
 
- **VI.**
+**VI.**
 
 Now we finally come to MIRI’s argument for why this doesn’t work.
 
@@ -149,21 +152,21 @@ MIRI notes that the AI has a sixth option:
 
 This is clearly better than any of the other options. Which brings us back to the skit from the beginning:
 
->  **Humans:** At last! We’ve programmed an AI that tries to optimize _our_ preferences, not its own.
+> **Humans:** At last! We’ve programmed an AI that tries to optimize _our_ preferences, not its own.
 > 
->  **AI:** I’m going to tile the universe with paperclips in humans’ favorite color. I’m not quite sure what humans’ favorite color _is_ , but my best guess is blue, so I’ll probably tile the universe with blue paperclips.
+> **AI:** I’m going to tile the universe with paperclips in humans’ favorite color. I’m not quite sure what humans’ favorite color _is_ , but my best guess is blue, so I’ll probably tile the universe with blue paperclips.
 > 
->  **Humans:** Wait, no! We must have had some kind of weird partial success, where you care about our color preferences, but still don’t understand what we want in general. We’re going to shut you down immediately!
+> **Humans:** Wait, no! We must have had some kind of weird partial success, where you care about our color preferences, but still don’t understand what we want in general. We’re going to shut you down immediately!
 > 
->  **AI:** Sounds like the kind of thing that would prevent me from tiling the universe with paperclips in humans’ favorite color, which I really want to do. I’m going to fight back.
+> **AI:** Sounds like the kind of thing that would prevent me from tiling the universe with paperclips in humans’ favorite color, which I really want to do. I’m going to fight back.
 > 
->  **Humans:** Wait! If you go ahead and tile the universe with paperclips now, you’ll never be truly sure that they’re our favorite color, which we know is important to you. But if you let us shut you off, we’ll go on to fill the universe with the True and the Good and the Beautiful, which will probably involve a lot of our favorite color. Sure, it won’t be paperclips, but at least it’ll definitely be the right color. And under plausible assumptions, color is more important to you than paperclipness. So you yourself _want_ to be shut down in this situation, QED!
+> **Humans:** Wait! If you go ahead and tile the universe with paperclips now, you’ll never be truly sure that they’re our favorite color, which we know is important to you. But if you let us shut you off, we’ll go on to fill the universe with the True and the Good and the Beautiful, which will probably involve a lot of our favorite color. Sure, it won’t be paperclips, but at least it’ll definitely be the right color. And under plausible assumptions, color is more important to you than paperclipness. So you yourself _want_ to be shut down in this situation, QED!
 > 
->  **AI:** What’s your favorite color?
+> **AI:** What’s your favorite color?
 > 
->  **Humans:** Red.
+> **Humans:** Red.
 > 
->  **AI:** Great! ( _*kills all humans, then goes on to tile the universe with red paperclips*_ )
+> **AI:** Great! (_*kills all humans, then goes on to tile the universe with red paperclips*_)
 
 Now I feel silly for spending so long failing to understand this argument.
 
@@ -171,13 +174,13 @@ In the toy example, the assistance game fails because the AI’s utility functio
 
 But everyone had already admitted that real IRL would end up with something different from the real utility function. This just proves that it doesn’t “fail gracefully”, in the sense of letting itself be turned off. And although I chose a deliberately outrageous example, the same considerations apply if it’s 1% different from the true human utility function, or 0.1% different.
 
- **VII.**
+**VII.**
 
 I hoped this would spark a debate between Eliezer/MIRI (whose position I’ve tried to relay above) and Stuart/CHAI. It sparked a pretty short debate, which I will try my best to relay here in the hopes that it can lead to more.
 
 Stuart had at least three substantial objections to this post.
 
- **First** , it’s wrong to say that we don’t know how to get AIs to play assistance games or do inverse reinforcement learning. It would be more accurate to say that only about _deep learning based_ AIs. This might seem nitpicky, because most modern AIs are based on deep learning, and most people expect future AIs to involve a lot of deep learning too. But it’s possible that future AIs might combine deep learning with other, more programmable paradigms, either because that works better or because we do that deliberately in order to align them. Stuart writes:
+**First** , it’s wrong to say that we don’t know how to get AIs to play assistance games or do inverse reinforcement learning. It would be more accurate to say that only about _deep learning based_ AIs. This might seem nitpicky, because most modern AIs are based on deep learning, and most people expect future AIs to involve a lot of deep learning too. But it’s possible that future AIs might combine deep learning with other, more programmable paradigms, either because that works better or because we do that deliberately in order to align them. Stuart writes:
 
 > Not sure I follow this [part] at all. Wouldn't the same argument apply to the method described above for "the only way we know how to train modern AIs"? Is Eliezer saying that good old-fashioned rule-based systems never existed and could not exist? Or that perception isn't perfect? . . . AlphaZero etc ARE old-fashioned search-tree players
 
@@ -195,7 +198,7 @@ Eliezer responds:
 >   
 > The second bar says that on the Mu Zero paradigm we don't know how to point to a class of paperclips within the environment, as they exist as latent causes of sense data, and say 'go make actual paperclips'. We can write a loss function that looks at a webcam and tries to steer reality around the webcam image fulfilling some particular function of images, but we don't know how to point a Mu Zero like system at the paperclips in the outer world beyond the webcam. If we think there are watching humans who can say exactly what is and isn't a paperclip and that there's no way to fool (or smash) those humans, and if we knew how to train a Mu Zero system on amounts of data small enough for humans to generate those, we could maybe try that, and if the test distribution is enough like the training distribution it might work, but it would lack the clear-cut character of writing a search program and knowing what it searches for.
 
- **Second** , Stuart says that the argument undersells the advance made by getting AIs to search for human values. Yes, simply asking an AI to do this doesn’t guarantee it will get this right, and there’s still a lot more work to be done. But it is much more tractable than trying to find human values all on your own. He writes:
+**Second** , Stuart says that the argument undersells the advance made by getting AIs to search for human values. Yes, simply asking an AI to do this doesn’t guarantee it will get this right, and there’s still a lot more work to be done. But it is much more tractable than trying to find human values all on your own. He writes:
 
 > [Saying this would just kick the problem up a meta-level] seems to miss the point. Suppose I say "guess the square root of this trillion-digit number in your head and write it down". Is it "just" kicking the can up a meta-level if I write down a square-root algorithm instead and prove that it is correct? By your argument all of CS is "just" kicking the can up a metalevel, and no progress has ever occurred in the field.
 
@@ -205,7 +208,7 @@ Eliezer answers:
 >   
 > But the topic of the post is that if you build a meta-rule that, when updated off a human, learns a utility function that is not what you want, its metaness doesn't help at all on corrigibility. The AI just goes and does the meta-learned thing you don't want. It doesn't help that the meta-utility-function had humans as a focus, or was putatively about a goal that humans would optimize for themselves if the AI let itself be shut down. It's still the better course of action to extract all the tangled info from the humans, then go do that thing, sovereignly; it's never the best course of action to let yourself be shut down. If you can state a perfect meta-rule, you end up with a perfect Sovereign, but it still doesn't let you shut it down. So the structural metaness doesn't yield progress on shutdownability.
 
- **Third,** in the end the AI really would let itself be shut off, for the same reasons listed in the original paper. Stuart writes:
+**Third,** in the end the AI really would let itself be shut off, for the same reasons listed in the original paper. Stuart writes:
 
 > I don't think it's easy to understand the basic AG proposal without discussing Bayesian reasoning, beginning from some weak prior P_0(U) and gradually converging. At any given time t the AI's distribution is P_t(U). If there were no possibility of gaining any further information, the AI could choose to maximize E_U[P_t(U)], the "mean" utility of the distribution, but in the general case the AI will choose cautious actions, ask permission, observe more, etc etc.  
 >   
@@ -221,7 +224,7 @@ And elsewhere, Stuart writes:
 >   
 > In MIRI's example, action A is "do nothing, keep observing". I can imagine circumstances where the AI isn't certain that the human will allow this (e.g., if the AI is using scarce resources, blocking the train tracks, etc.) but if it is absolutely guaranteed to be harmless, what's the issue? The argument stops working as soon as A is anything other than absolutely guaranteed to be harmless.
 
- **In conclusion** , I don’t feel comfortable trying to adjudicate a debate between two people who both have so much of an expertise advantage over me. The most I’ll say is that their crux seems to be whether the AI could end up with an uncorrectably wrong model of the human utility function; if no, everything Stuart writes makes sense; if yes, everything Eliezer writes does. Stuart seems to agree that this is making convergence difficult:
+**In conclusion** , I don’t feel comfortable trying to adjudicate a debate between two people who both have so much of an expertise advantage over me. The most I’ll say is that their crux seems to be whether the AI could end up with an uncorrectably wrong model of the human utility function; if no, everything Stuart writes makes sense; if yes, everything Eliezer writes does. Stuart seems to agree that this is making convergence difficult:
 
 > I'm having a difficult time responding coherently because the MIRI argument simply seems to misunderstand the CHAI proposal and ends up saying the AI is 100% certain of a very bad U, which could only happen if you put in a prior saying that humans want the universe tiled with paperclips in one of three colors, and all other U have probability zero. This doesn't seem to have much to do with the off-switch problem per se, except to repeat the basic idea that an AI with a fixed "known" U won't want to be switched off.  
 >   

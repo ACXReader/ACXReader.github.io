@@ -3,11 +3,14 @@ title: "Book Review: The Gervais Principle"
 subtitle: "..."
 date: 2022-05-10
 likes: 151
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/53275270/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/797a7d2d-0aa1-4c0e-8853-be392aaaeea0_1167x873.png
 original-url: https://www.astralcodexten.com/p/book-review-the-gervais-principle
 ---
 **I.**
 
- _The Gervais Principle_ , by postrationalist heresiarch Venkatesh Rao, claims to be a business book.
+_The Gervais Principle_ , by postrationalist heresiarch Venkatesh Rao, claims to be a business book.
 
 It claims a lot of things, actually. According to its introduction:
 
@@ -25,7 +28,7 @@ Big talk for a book on management.
 
 Rao himself doesn’t claim this, but several people said I should read this book to understand Jacques Lacan (I was particularly told to “take it as literally as possible”). So I went into _Gervais_ with a suspicion that the “business book” claim was, at the very least, incomplete.
 
- **II.**
+**II.**
 
 In 1969, Laurence Peter proposed the [Peter Principle](https://en.wikipedia.org/wiki/Peter_principle): “everyone gets promoted to the level of their incompetence”. That is, if you’re great at your job, you keep getting promoted, until you reach a level where you’re bad at it, then stay there. This also got oddly philosophical for a business book.
 
@@ -39,17 +42,17 @@ In 1995, Scott Adams countered with the even more cynical [Dilbert Principle](ht
 
 In 2009, Rao wrote _The Gervais Principle_ , continuing the increasing-cynicism trend. The Principle, named after _The Office_ writer Ricky Gervais, goes:
 
->  _Sociopaths, in their own best interests, knowingly promote over-performing [Clueless people] into middle-management, groom [under-performers] into Sociopaths, and leave the average bare-minimum-effort Losers to fend for themselves._
+> _Sociopaths, in their own best interests, knowingly promote over-performing [Clueless people] into middle-management, groom [under-performers] into Sociopaths, and leave the average bare-minimum-effort Losers to fend for themselves._
 
 Rao quickly introduces “Clueless”, “Losers”, and “Sociopaths” as terms of art. He confesses to lifting them from a comic by Hugh MacLeod, and accordingly admits that their connotations don’t quite match the real categories he’s pointing at. 
 
 [![hughMcLeodCompanyHierarchy](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13ac0c7c-aff2-4fcf-9f43-e51948b794df_400x218.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13ac0c7c-aff2-4fcf-9f43-e51948b794df_400x218.jpeg)Better terms might be Manipulators, Believers, and Drones, or maybe Ubermenschen, Bureaucrats, and Normies.
 
- **Sociopaths** aren’t necessarily evil (although they often are, and Rao himself - a self-confessed sociopath - did write another book called _[Be Slightly Evil: A Playbook For Sociopaths](https://www.amazon.com/Be-Slightly-Evil-Sociopaths-Ribbonfarm-ebook/dp/B00F8JTYH8/ref=sr_1_1?crid=1DTS622QUDOP6&keywords=be+slightly+evil&qid=1651556951&sprefix=be+slightly+evil%2Caps%2C374&sr=8-1) ). _They are ambitious people who would rather succeed than be liked. Gandhi (as per Rao) was a Sociopath, in that he was able to separate himself from conventional morality and pursue a goal effectively. Examples from _The Office_ include David Wallace and Charles Miner.
+**Sociopaths** aren’t necessarily evil (although they often are, and Rao himself - a self-confessed sociopath - did write another book called _[Be Slightly Evil: A Playbook For Sociopaths](https://www.amazon.com/Be-Slightly-Evil-Sociopaths-Ribbonfarm-ebook/dp/B00F8JTYH8/ref=sr_1_1?crid=1DTS622QUDOP6&keywords=be+slightly+evil&qid=1651556951&sprefix=be+slightly+evil%2Caps%2C374&sr=8-1)). _They are ambitious people who would rather succeed than be liked. Gandhi (as per Rao) was a Sociopath, in that he was able to separate himself from conventional morality and pursue a goal effectively. Examples from _The Office_ include David Wallace and Charles Miner.
 
- **Clueless** people aren’t necessarily stupid. They may be brain surgeons or rocket scientists. But they are fundamentally incapable of grasping the shifting, illegible nature of social reality. They retreat to objective reality - over-performing at their object-level job - and taking the official legible rules really seriously. They can be found carefully studying the Mission Statement, trying to figure out how best to embody its values. Or putting up inspirational posters in the hallways. Or trying to win the hokey competition for Best Office Morale so they can get the first prize pizza party or whatever. _Office_ examples are Michael Scott and Dwight Schrute.
+**Clueless** people aren’t necessarily stupid. They may be brain surgeons or rocket scientists. But they are fundamentally incapable of grasping the shifting, illegible nature of social reality. They retreat to objective reality - over-performing at their object-level job - and taking the official legible rules really seriously. They can be found carefully studying the Mission Statement, trying to figure out how best to embody its values. Or putting up inspirational posters in the hallways. Or trying to win the hokey competition for Best Office Morale so they can get the first prize pizza party or whatever. _Office_ examples are Michael Scott and Dwight Schrute.
 
- **Losers** aren’t necessarily bad, unhappy, or low-status. They’re the great mass of ordinary people, who don’t qualify for either of the above types. They like friendship, positive emotions, belonging to groups, and having social status - not in the sense of “becoming God-Emperor”, but in the sense of “being well-liked”. They sort of understand social reality, but have instinctively chosen a quiet life over the will to power. _Office_ examples include Stanley Hudson and Phyllis Vance. 
+**Losers** aren’t necessarily bad, unhappy, or low-status. They’re the great mass of ordinary people, who don’t qualify for either of the above types. They like friendship, positive emotions, belonging to groups, and having social status - not in the sense of “becoming God-Emperor”, but in the sense of “being well-liked”. They sort of understand social reality, but have instinctively chosen a quiet life over the will to power. _Office_ examples include Stanley Hudson and Phyllis Vance. 
 
 In Rao’s statement of the Gervais Principle:
 
@@ -66,9 +69,9 @@ In Rao’s statement of the Gervais Principle:
 
 If this doesn’t make sense, compare to (as Rao does) the famous quote by Prussian general Kurt von Hammerstein-Equort:
 
->  _I divide my officers into four classes; the clever, the lazy, the industrious, and the stupid . . . Those who are stupid and lazy make up around 90% of every army in the world, and they can be used for routine work. The officers who are clever and industrious are fitted for . . . staff appointments. [But] the man who is clever and lazy however is for the very highest command; he has the temperament and nerves to deal with all situations._
+> _I divide my officers into four classes; the clever, the lazy, the industrious, and the stupid . . . Those who are stupid and lazy make up around 90% of every army in the world, and they can be used for routine work. The officers who are clever and industrious are fitted for . . . staff appointments. [But] the man who is clever and lazy however is for the very highest command; he has the temperament and nerves to deal with all situations._
 
- **III.**
+**III.**
 
 This is where the book starts showing its true colors. After stating the Gervais Principle, it switches from a business book to a work of psychoanalysis.
 
@@ -95,7 +98,7 @@ The Gervais Principle goes heavy on dev psych:
 > 
 
 > 
-> An alternative way of looking at these three laws is to note that [defense mechanisms](http://trailmeme.com/trails/Defense_Mechanisms) Defense mechanisms emerge to sustain addictions even when the developmental environment that originally nourished it vanishes. Defense mechanisms though, are more useful as a partial catalog of phenomenology than as a foundational idea.
+> An alternative way of looking at these three laws is to note that [defense mechanisms](http://trailmeme.com/trails/Defense_Mechanisms) emerge to sustain addictions even when the developmental environment that originally nourished it vanishes. Defense mechanisms though, are more useful as a partial catalog of phenomenology than as a foundational idea.
 > 
 > These then are the developmental psychology roots of the Gervais Principle. Recall that Cluelessness goes with overperformance. That overperformance is caused by arrested development around a _strength,_ which has been hooked by an _addictive environment of social rewards._ Mediocrity is your best defense against addiction, and guarantor of further open-ended psychological development.
 > 
@@ -111,13 +114,13 @@ The particular example I just gave, about school, is Rao’s explanation for Dwi
 > 
 > Instead, Dwight found relief in the graded, performance-oriented worlds of school and varied medieval-guild-like worlds, such as farming, animal husbandry and karate. His attempts to understand the world of management, which is decidedly _not_ a world of grades or guilds, are based entirely on peripheral guild-like elements. He is the only one excited about the _Survivor_ -style successor-selection event Michael arranges (in the bus on the way over, he asks, “Will there be business parables?”). When he attempts manipulation, his mind naturally turns to hidden microphones, doctored documents and other elements of tradecraft learned from spy novels, and only rarely to psychology. He banks the occasional tactical victory, but cannot play or win the mind games required to beat the Sociopaths.
 > 
-> In Dwight’s world, everything worth learning is teachable, and medals, certificates and formal membership in meritocratic institutions is evidence of success. Even where play behaviors are concerned, the Dwights of the world can more easily get lost in points-and-rules worlds. It is significant that Dwight has never seen/read _Charlie and the Chocolate Factory_ (which is about creative-performance play) _,_ but is obsessed with gaming worlds and sci-fi/fantasy universes.
+> In Dwight’s world, everything worth learning is teachable, and medals, certificates and formal membership in meritocratic institutions is evidence of success. Even where play behaviors are concerned, the Dwights of the world can more easily get lost in points-and-rules worlds. It is significant that Dwight has never seen/read _Charlie and the Chocolate Factory_ (which is about creative-performance play)_,_ but is obsessed with gaming worlds and sci-fi/fantasy universes.
 > 
 > Perhaps the clearest example of Dwight’s need for formal affiliation is his lame attempt at the insider stand-up comedy routine, _[The Aristocrats](http://en.wikipedia.org/wiki/The_Aristocrats_%28film%29)_. To Dwight, everything is a formal contest, and there are always authority figures who provide legitimacy and rankings. He has no sense of humor (thanks to skipping early childhood), and has no idea how to actually evoke laughter, so he tries to ace the only formal membership test he can see, the ability to tell the Aristocrats joke. Michael, by contrast, can at least tell juvenile jokes, and Andy can manage some bad frat-boy humor.
 
 Rao argues that Michael Scott, the “boss” in the show, is stuck at an even lower level:
 
-> Little children in normal environments win their first victories through creative performance: reciting nursery rhymes, drawing pictures, and demonstrating creative play behaviors. If they succeed too much, they get addicted to the typical adult reaction: _Wow, aren’t you cute/clever?_ and, to a lesser extent, to admiration from younger siblings. In learning to thrive in this particular reward/penalty environment, little children rely mostly on responding to the _emotional_ content of what they hear and see, since they do not understand much.
+> Little children in normal environments win their first victories through creative performance: reciting nursery rhymes, drawing pictures, and demonstrating creative play behaviors. If they succeed too much, they get addicted to the typical adult reaction:  _Wow, aren’t you cute/clever?_ and, to a lesser extent, to admiration from younger siblings. In learning to thrive in this particular reward/penalty environment, little children rely mostly on responding to the _emotional_ content of what they hear and see, since they do not understand much.
 > 
 > With a few evolved defense mechanisms thrown in, to protect against adult realities that don’t conform to childhood environments, that’s exactly what it feels like to be Michael. When he hears somebody talking, all he hears is “blah blah blah good job, blah blah blah, how could you do this Michael?” in conjunction with facial expressions and body language.
 > 
@@ -129,7 +132,7 @@ Rao argues that Michael Scott, the “boss” in the show, is stuck at an even l
 > 
 > Recall that social calendars force you through later stages whether or not you master previous ones. So what about later stages? Michael is not quite as enamored of medals and certificates as Dwight because (as a lousy student) he never got very good at earning them, and could therefore not get seriously addicted to them.
 > 
-> Finally, Michael has poorly developed peer-affiliation drives. He wants to be the center of attention, not one among many equals in a huddle of peers. When Michael appears to be operating under a peer-affiliation drive (the sort that animates Andy), he is really casting child behaviors into a teen mould. He believes that specific _people,_ rather than formal or informal groups, __ are cool or admirable (proxy parental figures, older siblings). If they are not cool or admirable, they must be made to view _him_ as cool and admirable (younger siblings).
+> Finally, Michael has poorly developed peer-affiliation drives. He wants to be the center of attention, not one among many equals in a huddle of peers. When Michael appears to be operating under a peer-affiliation drive (the sort that animates Andy), he is really casting child behaviors into a teen mould. He believes that specific _people,_ rather than formal or informal groups,__ are cool or admirable (proxy parental figures, older siblings). If they are not cool or admirable, they must be made to view _him_ as cool and admirable (younger siblings).
 
 I was struck by a line in an appendix, saying this is the same level that Nazi bureaucrats were at. Just for fun, let’s compare the rest of Rao’s profile of Michael with Arendt’s profile of Adolf Eichmann (all quotes taken from my _[Eichmann In Jerusalem](https://slatestarcodex.com/2017/01/30/book-review-eichmann-in-jerusalem/)_ review):
 
@@ -143,7 +146,7 @@ And finally (this time in my voice):
 
 > If [Arendt] has any thesis at all, it’s that Eichmann believed in something larger than himself. We usually encourage this sort of thing, but I think the prosocial version involves having a _specific_ larger-than-yourself thing in mind. Eichmann (says Arendt) just liked larger-than-himself things in general, and the Nazi vision of eternal struggle for racial supremacy was the biggest thing he could find in the vicinity. We’ll later see that he had a strange respect for Zionists, and this was because they too believed in something larger than themselves. Eichmann’s infamous cliches were the cliches of pomp and circumstance and glory and high words, the ones which made him feel like he was engaged in a great enterprise _whether or not there was anything behind them_. The reason he admitted neither to “just following orders”, nor to a deep personal belief in anti-Semitism, was that his loyalty to Hitler came from neither. When Hitler said to kill all the Jews, he gladly complied; if Hitler had said to kill all the Christians, he would have done that too. Not because he was a drone following orders to save his skin, but because he believed. Not in any of the specifics of Nazi ideology. Not even in Hitler’s personal judgment. Just in whatever was going on at the time.
 
- **IV.**
+**IV.**
 
 When he gets to the next section, on Losers, Rao mostly forgets the developmental psych. Now this is a book on status economics.
 
@@ -195,19 +198,19 @@ But in the actual _Seinfield_ episode, there is no love interest. George and Rei
 
 So Loser jokes are 3+ people, and Clueless jokes are 2 people. Continuing the pattern, a Sociopath joke must be for one person - the joker amusing himself, totally unconcerned whether anyone else appreciates it.
 
- **V.**
+**V.**
 
 Sociopaths aren’t necessarily evil. They’re just . . . unbeholden to anyone else. They might still follow the rules because it advantages them to do it, or because they have personally chosen to follow some moral code they happen to like. But they don’t crave approval from anyone, not even abstract concepts.
 
 If the Clueless come from arrested development, and Losers from normal development and its attendant status economics, Sociopaths are formed by a sort of dark enlightenment. They have a moment when they realize nothing is true and everything is permissible. Rao’s poetic side writes:
 
-> Sociopathy is not about ripping off a specific mask from the face of social reality. It is about recognizing that there _are_ no social realities. There are only masks. Social realities exist as a hierarchy of increasingly sophisticated and specialized fictions for those predisposed to believe that there is something _special_ about the human condition, which sets our realities apart from the rest of the universe.
+> Sociopathy is not about ripping off a specific mask from the face of social reality. It is about recognizing that there  _are_ no social realities. There are only masks. Social realities exist as a hierarchy of increasingly sophisticated and specialized fictions for those predisposed to believe that there is something  _special_ about the human condition, which sets our realities apart from the rest of the universe.
 > 
 > There is, to the Sociopath, only one reality governing everything from quarks to galaxies. Humans have no special place within it. Any idea predicated on the special status of the human — such as justice, fairness, equality, talent — is raw material for a theater of mediated realities that can be created via subtraction of conflicting evidence, polishing and masking.
 > 
->  _Mask_ is an appropriate term for any social reality created through subtraction, because an appearance of human-like agency for non-human realities is what the inhabitants require. By humanizing the non-human universe, we make the human special.
+> _Mask_ is an appropriate term for any social reality created through subtraction, because an appearance of human-like agency for non-human realities is what the inhabitants require. By humanizing the non-human universe, we make the human special.
 > 
-> All that is required is to control people who believe in fairness, is to remove any evidence suggesting that the world might fundamentally _not_ be a fair place, and mask it appropriately with a justice principle such as an afterlife calculus, or a retirement fantasy.
+> All that is required is to control people who believe in fairness, is to remove any evidence suggesting that the world might fundamentally  _not_ be a fair place, and mask it appropriately with a justice principle such as an afterlife calculus, or a retirement fantasy.
 > 
 > […]
 > 
@@ -217,11 +220,11 @@ If the Clueless come from arrested development, and Losers from normal developme
 > 
 > The climactic moment in this journey is the point where skill at manipulating social realities becomes unconscious.
 > 
-> Suddenly, it becomes apparent that _all_ social realities are based on fictional meanings created by denying some aspect of natural, undivided reality. Reality that does not revolve around the needs of humans.
+> Suddenly, it becomes apparent that  _all_ social realities are based on fictional meanings created by denying some aspect of natural, undivided reality. Reality that does not revolve around the needs of humans.
 > 
-> The mask-ripping process itself becomes revealed as an act within the last theater of social reality, the one within which at least _manipulating_ social realities seems to be a meaningful process in some meta-sense. Game design with good and evil behaviors.
+> The mask-ripping process itself becomes revealed as an act within the last theater of social reality, the one within which at least  _manipulating_ social realities seems to be a meaningful process in some meta-sense. Game design with good and evil behaviors.
 > 
-> Losing _this_ illusion is a total-perspective-vortex moment for the Sociopath: he comes face-to-face with the oldest and most fearsome god of all: the _absent_ God. In that moment, the Sociopath viscerally experiences the vast inner emptiness that results from the sudden dissolution of all social realities. There’s just a pile of masks with no face beneath. Just quarks and stuff.
+> Losing  _this_ illusion is a total-perspective-vortex moment for the Sociopath: he comes face-to-face with the oldest and most fearsome god of all: the  _absent_ God. In that moment, the Sociopath viscerally experiences the vast inner emptiness that results from the sudden dissolution of all social realities. There’s just a pile of masks with no face beneath. Just quarks and stuff.
 
 Both Losers and Clueless are trying to manipulate other people’s impressions of them. Sociopaths are trying to manipulate reality. Reality _includes_ other people’s impressions - if your goal is to become President, in some sense you care what the electorate thinks of you. But it’s an instrumental goal. Sociopaths crave the Presidency (or whatever) and use other people’s good opinions as stepping-stones. Losers and Clueless crave the good opinions directly.
 
@@ -235,7 +238,7 @@ I’m less able to follow Rao’s explanation of “Loser spirituality” and ho
 
 Although in some vague sense the Sociopaths are oppressing and manipulating everyone else, this isn’t how it feels from the inside: both Clueless and Losers are grateful to the Sociopaths for taking the burden of confronting reality off their shoulders. If the Sociopath fails at this, and a Clueless or Loser has to confront reality unmediated, they’ll either have a very bad time but eventually bounce back, or become a Sociopath themselves.
 
- **VI.**
+**VI.**
 
 So that’s _The Gervais Principle_. Is any of it true?
 
@@ -253,11 +256,11 @@ Who controls the microphone in my head? Whose approval do I crave? When I was yo
 
 So fine, I (and the few other people I know well enough to use as examples) don’t naturally fall into any of these categories. Whatever, Rao said (in one sentence) that everyone has multiple types. But then what’s the use of this categorization system? If I invent three random types of people:
 
-  *  **Green:** introverted, long hair, likes the cold, complains too much
+  * **Green:** introverted, long hair, likes the cold, complains too much
 
-  *  **Red:** cheerful, gets mad at little things, loves pets and children
+  * **Red:** cheerful, gets mad at little things, loves pets and children
 
-  *  **Blue:** financially savvy, bad at romance, natural leader, enjoys biking
+  * **Blue:** financially savvy, bad at romance, natural leader, enjoys biking
 
 
 
@@ -270,17 +273,17 @@ Also, I don’t get the impression that most top executives are people who had t
 
 Finally, it just seems totally wrong to me that the highest-status and lowest-status members of groups/clubs/societies are legible, and everyone in the middle isn’t. I am thinking of some non-formal groups I belong to, and the highest- and lowest- status people are often as confusing as everyone else. The exceptions are formal organizations with presidents or whatever, but even there I couldn’t tell you who the lowest-status person is.
 
- **VII.**
+**VII.**
 
 That last section might feel harsh, so I want to stress that I liked a lot of things about _Gervais Principle_.
 
- _Gervais Principle_ feels like what psychoanalysis would be like if it weren’t so devoted to making itself incomprehensible. It explained its theories clearly and gave good examples of each. Even though it stuck to really traditional psychoanalytic ideas (the theory of people getting stuck at developmental stages is classic Freud - see eg [anal-retentivity](https://en.wikipedia.org/wiki/Anal_retentiveness), [oral fixation](https://en.wikipedia.org/wiki/Oral_stage), etc) it vastly exceeded the source material in clarity, plausibility, and ability to avoid naming all of its concepts after barely-related bodily orifices.
+_Gervais Principle_ feels like what psychoanalysis would be like if it weren’t so devoted to making itself incomprehensible. It explained its theories clearly and gave good examples of each. Even though it stuck to really traditional psychoanalytic ideas (the theory of people getting stuck at developmental stages is classic Freud - see eg [anal-retentivity](https://en.wikipedia.org/wiki/Anal_retentiveness), [oral fixation](https://en.wikipedia.org/wiki/Oral_stage), etc) it vastly exceeded the source material in clarity, plausibility, and ability to avoid naming all of its concepts after barely-related bodily orifices.
 
 In particular, I feel like I better understand some of the ideas from[ ](https://astralcodexten.substack.com/p/book-review-sadly-porn?s=w)_[Sadly, Porn](https://astralcodexten.substack.com/p/book-review-sadly-porn?s=w)_. People’s desire to subject themselves to an order created by sociopaths. Everyone keeping a ledger of status transactions. Terror of acting openly, and how it breeds bureaucracy and excessive layers of management. It’s all in here.
 
 Lacan claimed there were three different personality structures: neurotic, psychotic, and pervert. Suggestive, but I can’t squeeze these into matching Rao’s triad. For example, Lacan’s neurotics are defined by being subject to Law, and potentially by wanting to become the object of others’ desires, which sounds Clueless. But Lacan says neurosis is the _most_ developed stage, whereas Rao says Clueless is the _least_. Likewise, Lacan says psychotics are incapable of using language normally, instead retreating to stock phrases - a suspiciously good match for Rao’s Clueless description. But Lacanian psychotics are _most_ able to act and _least_ dependent on other people’s approval, which is totally the opposite of Rao’s system.
 
- _[Clinical Introduction](https://astralcodexten.substack.com/p/book-review-a-clinical-introduction?s=w)_ hints at a rare personality type who has passed beyond neurosis, and is able to have normal healthy self-motivated desires that are not just the desires of others. It doesn’t dwell on this type, because they rarely see psychoanalysts, but it sounds like a good match for Rao’s Sociopaths. That would mean we have to map all three main Lacanian types into Rao’s Clueless and Losers - but I have no idea how to do this faithfully.
+_[Clinical Introduction](https://astralcodexten.substack.com/p/book-review-a-clinical-introduction?s=w)_ hints at a rare personality type who has passed beyond neurosis, and is able to have normal healthy self-motivated desires that are not just the desires of others. It doesn’t dwell on this type, because they rarely see psychoanalysts, but it sounds like a good match for Rao’s Sociopaths. That would mean we have to map all three main Lacanian types into Rao’s Clueless and Losers - but I have no idea how to do this faithfully.
 
 So I am less impressed by the typology itself than in the book’s ability to ask questions - or, more precisely, to make the reader ask questions. This is its “organizational literacy” - when confronting people or groups, you can ask things like:
 

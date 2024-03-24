@@ -2,7 +2,10 @@
 title: "Whither Tartaria?"
 subtitle: "..."
 date: 2021-09-23
-likes: 241
+likes: 243
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/41586693/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d11200a6-c7ed-4f97-a3a5-0621762e00d4.jpeg
 original-url: https://www.astralcodexten.com/p/whither-tartaria
 ---
 Imagine a postapocalyptic world. Beside the ruined buildings of our own civilization - St. Peter’s Basilica, the Taj Mahal, those really great Art Deco skyscrapers - dwell savages in mud huts. The savages see the buildings every day, but they never compose legends about how they were built by the gods in a lost golden age. No, they say they themselves could totally build things just as good or better. They just choose to build mud huts instead, because they’re more stylish.
@@ -27,7 +30,7 @@ Older art tends to have bright colors, ornate details, realistic representations
 
 There is a lot of writing about "the modernist turn" and the origins of modern art, but I haven't been able to find anything that links all these artistic fields and tries to explain what happened in general. I am sure you will link me to great resources about this in the comments. Until then, some speculative responses that one might give the Tartarians:
 
- **The Modernist Turn As A Change From Flaunting Wealth To Hiding It**
+**The Modernist Turn As A Change From Flaunting Wealth To Hiding It**
 
 [Paul Fussell](https://astralcodexten.substack.com/p/book-review-fussell-on-class) says that pre-Great Depression mansions were beautiful giant houses in the center of town, where everyone could see them and marvel at how rich the owner was. During the Depression, it became awkward to flaunt wealth while everyone else was starving, and the super-rich switched to a strategy of having mansions in the countryside behind lots of hedges and trees where nobody could see them. I remember somebody (not a historian) claiming that the French Revolution had a similar effect on European nobility - it stopped being quite as cool to rub how rich you were in peasants' faces, and going to court in silks and gold jewelery became less fashionable. The closer you get to the present, the more rich people start to feel like their position is precarious, and other people might resent them - and to act accordingly.
 
@@ -43,13 +46,13 @@ It’s still kind of mysterious why not-generally-popular aesthetics would pleas
 
 This sounds a little conspiratorial for an explanation we originally came up with to counter a conspiracy theory, but I can’t rule it out. It might be helpful to go through a list of countries, see which have more modern vs. traditional architecture, and correlate that with their system of government and level of inequality. My impression is that the more democratic and developed a country, the more modern its architecture, which would require a lot of additional explanation.
 
- **…As A Change From Catholic To Protestant Aesthetics**
+**…As A Change From Catholic To Protestant Aesthetics**
 
 Catholicism traditionally goes heavy on the ornateness, Protestantism heavy on the plainness. Something to do with a Protestant rejection of wealth as too linked to the powers of this world, and trying to get back to the poverty and humility of the original Church. If Protestant aesthetics "won" in a way that affected even people who weren't thinking in religious terms, that could explain some of the shift.
 
 But the timeline and, uh, spaceline don't really work. The ornate room from Cardiff Castle is from 1880s Britain (albeit deliberately referencing older styles), and modern Milan is hardly Protestant. I think this might have been one of the threads that fed into this change, but it needs further explanation why it stuck around and spread so far beyond people who cared about religious matters.
 
- **…Or As New Timeless Aesthetic Truths**
+**…Or As New Timeless Aesthetic Truths**
 
 One possibility is that, even though normal people prefer traditional architecture, modern architecture is actually better, and good architects know this.
 
@@ -61,13 +64,13 @@ This raises the question of what architecture/art/etc are for. Should eg the gov
 
 You could also frame this as architects deliberately choosing some value other than beauty. Maybe beautiful buildings make everyone feel very proud of their country and connected to their past, but after World War II we realized that nationalism and romanticization-of-history are scary things, and now we’re trying to discourage them. Maybe our civilization is still on probation after a multi-decade-long mass murder spree and we need buildings that carefully avoid inflaming our emotions.
 
- **…As A Result Of Increased Cost Of Labor**
+**…As A Result Of Increased Cost Of Labor**
 
 I’ve added this in because people keep bringing it up in the comments, but I don’t think it works. Sure, it might explain architecture. But I don’t think it explains trends in modern clothing, art, poetry, or sculpture, all of which have also shifted towards decreased ornamentation, symbolism, and realism. 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F55e4e891-e7bf-4837-9166-e8bb657a9472_526x465.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F55e4e891-e7bf-4837-9166-e8bb657a9472_526x465.png)I predict you could buy clothing that looks like [this](http://www.muslimmarriagecenter.com/site/muslim-groom-in-bangalore) for less than the cost of a nice suit, but nobody does. Is this connected to nobody making buildings that look like the Taj Mahal anymore?
 
- **…As A Result Of The Split Between Art And Mass Culture**
+**…As A Result Of The Split Between Art And Mass Culture**
 
 Modern poems don't sound very much like the Odyssey. But modern superhero movies are a little bit like the Odyssey. Modern poetry doesn't have a lot of rhyme or rhythm. But modern pop music does have lots of rhyme and rhythm. Modern gallery art doesn't have colorful ornate realistic-looking scenes. But modern computer games and animation have lots of those scenes.
 
@@ -85,7 +88,7 @@ I'm a little skeptical of this one too - what replaced architecture? Or fashion?
 
 19,206Likes1,401Retweets](https://twitter.com/ursulabrs/status/1434791291653558275)
 
- **…As A Change From Signaling Wealth To Signaling Taste**
+**…As A Change From Signaling Wealth To Signaling Taste**
 
 One use of art is signaling wealth. Pharaohs, nobles, and billionaires would patronize artists, funding the creation of masterpieces that sent the message "look how great I am". This only works if making beautiful things is expensive. For example, the clothing of the Kanxi Emperor (first picture on left) required servants to create the intricate patterns, dyes that had to be harvested from finicky insects and rare plants, etc. Displaying your ornate dyed objects let everyone know you were rich. With the invention of sewing machines, industrial dyes, rhinestones, etc, even poor people could dress like the Kangxi Emperor. With the invention of photography and printing, everyone could have realistic pictures of whatever they wanted. Actual rich people needed better ways to distinguish themselves.
 
@@ -95,7 +98,7 @@ I don't have taste, so I'm agnostic as to the virtues of the particular code tha
 
 A friend, more in touch with the pulse of rich-people-society than I am, objects that billionaires still like buying paintings by Old Masters. But I don't think that contradicts this. Being able to buy a Rembrandt still signals wealth fine: Rembrandts are in limited supply and everyone knows they're expensive. But a modern painter with Rembrandt's skillset wouldn't be able to make it big - their talents are no longer in short supply.
 
- **Why Does This Matter?**
+**Why Does This Matter?**
 
 Partly because art is nice and we should want more beautiful things or at least try to understand where our beautiful things come from.
 

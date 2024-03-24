@@ -3,6 +3,9 @@ title: "Peer Review Request: Ketamine"
 subtitle: "Give me feedback on my take on using ketamine for depression"
 date: 2021-07-19
 likes: 40
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38951338/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/dd4853f7-aace-4cd8-b029-ab959248a9ca_448x242.png
 original-url: https://www.astralcodexten.com/p/peer-review-request-ketamine
 ---
 I'm trying to build up a database of mental health resources on my other website, [Lorien Psychiatry](https://lorienpsych.com/). Whenever I post something here, people have had good comments, so I want to try using you all as peer review.
@@ -27,13 +30,13 @@ Here's the page:
 
 * * *
 
-#  **Ketamine**
+# **Ketamine**
 
- **The short version:** Ketamine is a new and exciting depression treatment, which probably works by activating AMPA receptors and strengthening synaptic connections. It takes effect within hours and works about 2-3x as well as traditional antidepressants. Most people get it through heavily-regulated and expensive esketamine prescriptions, or through even-more-expensive IV ketamine clinics, but evidence suggests that getting it prescribed cheaply and conveniently from a compounding pharmacy is equally effective. A single dose of ketamine lasts between a few days and a few weeks, after which some people will find their depression comes back; long-term repeated dosing with ketamine anecdotally seems to work great, but hasn’t been formally tested for safety. Some people also use ketamine-assisted psychotherapy, which is a very different form of treatment and can have impressive long-term results, but which is less explored and more idiosyncratic for each person. 
+**The short version:** Ketamine is a new and exciting depression treatment, which probably works by activating AMPA receptors and strengthening synaptic connections. It takes effect within hours and works about 2-3x as well as traditional antidepressants. Most people get it through heavily-regulated and expensive esketamine prescriptions, or through even-more-expensive IV ketamine clinics, but evidence suggests that getting it prescribed cheaply and conveniently from a compounding pharmacy is equally effective. A single dose of ketamine lasts between a few days and a few weeks, after which some people will find their depression comes back; long-term repeated dosing with ketamine anecdotally seems to work great, but hasn’t been formally tested for safety. Some people also use ketamine-assisted psychotherapy, which is a very different form of treatment and can have impressive long-term results, but which is less explored and more idiosyncratic for each person. 
 
 **The long version:**
 
- _1\. How can I get ketamine therapy?  
+_1\. How can I get ketamine therapy?  
 2\. How can I find a doctor willing to prescribe me ketamine?  
 3\. How can my doctor prescribe me ketamine?  
 4\. How safe is ketamine?  
@@ -96,7 +99,7 @@ Ketamine use causes acute distorted cognition for the next few hours. But there�
 
 From [Side effects associated with ketamine use in depression: a systematic review](https://www.kaimacdonald.com/wp-content/uploads/2018/04/Short-2017-common-side-effects-with-ketamine-for-depression-w.pdf):
 
- _In a study by Koffler and colleagues, 109 cognitive effects of ketamine in patients treated for chronic pain were extensively assessed with several neuropsychological tests before infusion and at 6 weeks post-infusion; they concluded that ketamine had no residual cognitive effects at 6 weeks. Murrough and colleagues reported that low­dose ketamine was associated with minimal acute neurocognitive effects in patients with treatment­resistant depression 40 min after ketamine infusion. They also reported that any changes in cognition appeared to be transient in nature, with no adverse neurocognitive effects 7 days after treatment. In both Koffler’s and Murrough’s studies, however, the follow­up periods were short, making it difficult to comment on long­term risks associated with repeated use._
+_In a study by Koffler and colleagues, 109 cognitive effects of ketamine in patients treated for chronic pain were extensively assessed with several neuropsychological tests before infusion and at 6 weeks post-infusion; they concluded that ketamine had no residual cognitive effects at 6 weeks. Murrough and colleagues reported that low­dose ketamine was associated with minimal acute neurocognitive effects in patients with treatment­resistant depression 40 min after ketamine infusion. They also reported that any changes in cognition appeared to be transient in nature, with no adverse neurocognitive effects 7 days after treatment. In both Koffler’s and Murrough’s studies, however, the follow­up periods were short, making it difficult to comment on long­term risks associated with repeated use._
 
 [A UK study](https://sci-hub.st/https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1360-0443.2009.02761.x) compared frequent ketamine abusers to infrequent ones. The frequent group used an average of ~3 grams/day, at least four days a week, over several years. The infrequent abusers used about 1 gram/day, a few times a month, over several years. Although the frequent abusers had impaired cognition, the infrequent group didn’t. Both groups used much much much more ketamine than any clinical user would. This suggests that the threshold dose for long0term cognitive impairment is much higher than would be encountered in clinical use. Also, ex-ketamine users did as well as never-users, suggesting that even the impairments of high-dose ketamine use are not necessarily permanent.
 
@@ -118,7 +121,7 @@ Most of the work on clinical hepatoxicity has been done on chronic pain patients
 
 Psychiatric ketamine infusions usually last one hour or less, and involve doses of 25 – 75 mg. As far as I know, there are no reports of liver injuries at these doses. [LiverTox says](https://www.ncbi.nlm.nih.gov/books/NBK551726/):
 
->  _In patients on oral antidepressants, liver test abnormalities were no more frequent with the addition of nasal spray esketamine than with placebo. In the pivotal trials of esketamine as therapy of treatment- resistant depression, mean serum ALT, AST and alkaline phosphatase levels decreased during active therapy and there were no reports of serum enzyme elevations, jaundice, hepatitis, discontinuations for serum enzyme elevations or serious hepatic adverse events. Although long term ketamine use is known to be associated with bile duct injury and episodes of cholestatic jaundice, esketamine has not been linked to a similar pattern of biliary injury or cholestatic hepatitis when used under medical supervision to treat depression. There has been little clinical experience with long term use of esketamine, but no instances of clinically apparent liver injury have as yet been reported with its use._
+> _In patients on oral antidepressants, liver test abnormalities were no more frequent with the addition of nasal spray esketamine than with placebo. In the pivotal trials of esketamine as therapy of treatment- resistant depression, mean serum ALT, AST and alkaline phosphatase levels decreased during active therapy and there were no reports of serum enzyme elevations, jaundice, hepatitis, discontinuations for serum enzyme elevations or serious hepatic adverse events. Although long term ketamine use is known to be associated with bile duct injury and episodes of cholestatic jaundice, esketamine has not been linked to a similar pattern of biliary injury or cholestatic hepatitis when used under medical supervision to treat depression. There has been little clinical experience with long term use of esketamine, but no instances of clinically apparent liver injury have as yet been reported with its use._
 
 #### –4.4: How concerned should I be about getting addicted to ketamine?
 
@@ -138,7 +141,7 @@ If you’ve gotten addicted to things before, or have a strong family history of
 
 Psychiatric doses of ketamine do cause transient hypertension, pretty often. UpToDate says that:
 
->  _In four randomized trials, mean increases in systolic blood pressure ranged from 8 to 19 mmHg within 40 minutes of infusion, which normalized in four hours or less. In a pooled analysis of three randomized trials that included 97 patients who received a total of 205 infusions, the transient average peak increase was 20 mmHg._
+> _In four randomized trials, mean increases in systolic blood pressure ranged from 8 to 19 mmHg within 40 minutes of infusion, which normalized in four hours or less. In a pooled analysis of three randomized trials that included 97 patients who received a total of 205 infusions, the transient average peak increase was 20 mmHg._
 
 How dangerous are these increases? They’re lower than the natural increase in blood pressure during [heavy exercise](https://pubmed.ncbi.nlm.nih.gov/3041529/) (about 60 mmHg) or [intense panic](https://pubmed.ncbi.nlm.nih.gov/3675099/) (30 mmHg).
 
@@ -254,7 +257,7 @@ Some people without access to a KAP clinic, but with access to ketamine, try a v
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61d424b3-449b-47c2-9aae-1a3761d4c55e_416x781.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61d424b3-449b-47c2-9aae-1a3761d4c55e_416x781.png)
 
-( _[source](https://sci-hub.st/https://pubmed.ncbi.nlm.nih.gov/30917760/)_ )
+(_[source](https://sci-hub.st/https://pubmed.ncbi.nlm.nih.gov/30917760/)_)
 
 Also, a common opinion among KAP providers is that ketamine is less good for this than LSD or MDMA, and is only their drug of choice because it’s legal. If you’re going to do this illegally, you might want to consider using an actually illegal substance, which could be more effective.
 

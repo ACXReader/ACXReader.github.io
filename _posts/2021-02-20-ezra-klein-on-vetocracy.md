@@ -3,6 +3,9 @@ title: "Ezra Klein On Vetocracy"
 subtitle: "What's the government's E/I balance? What should it be?"
 date: 2021-02-20
 likes: 94
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32489185/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b12f4a19-908f-4652-ba99-fa1c980da2f6_928x483.jpeg
 original-url: https://www.astralcodexten.com/p/ezra-klein-on-vetocracy
 ---
 In my review last week of Ezra Klein's _[Why We're Polarized](https://astralcodexten.substack.com/p/book-review-why-were-polarized)_ , I linked to a related [Vox article on vetocracy](https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus):
@@ -23,7 +26,7 @@ Klein argues that the US government can no longer do anything, especially not th
 
 Nobody who’s ever looked into the housing crisis in San Francisco will disagree here, but it raises some complicated questions that need some sorting out.
 
- **First** , is vetocracy the same as polarization? Klein sometimes treats the two concepts interchangeably; for example, he says he's written a book about "how the US government has becoming a dysfunctional vetocracy" (presumably _Why We're Polarized_ ). But elsewhere he doesn't treat them interchangably; for example, he talks about some kinds of shareholder activism in corporations as examples of vetocracy. But these don't seem linked to partisan politics. And a lot NIMBYism is unrelated to the Democrat/Republican divide. 
+**First** , is vetocracy the same as polarization? Klein sometimes treats the two concepts interchangeably; for example, he says he's written a book about "how the US government has becoming a dysfunctional vetocracy" (presumably _Why We're Polarized_). But elsewhere he doesn't treat them interchangably; for example, he talks about some kinds of shareholder activism in corporations as examples of vetocracy. But these don't seem linked to partisan politics. And a lot NIMBYism is unrelated to the Democrat/Republican divide. 
 
 I'm not sure how Klein thinks of this. Maybe he would say that vetocracy is getting worse everywhere, but that partisan polarization turns potential veto points into actual veto points. That is, the filibuster has always been a potential problem. But Congress was able to get by with it for decades, because everyone was polite and cooperative and didn't want to screw things up too badly. Once polarization created irresistable pressure for politicians to use every weapon at their disposal, the filibuster went from a potential problem to an actual problem. 
 

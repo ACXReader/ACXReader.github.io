@@ -3,6 +3,9 @@ title: "Which Party Has Gotten More Extreme Faster?"
 subtitle: "..."
 date: 2022-06-08
 likes: 162
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/56752004/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f59833ed-3e7a-458a-a8a0-56ef5b38049c_392x245.png
 original-url: https://www.astralcodexten.com/p/which-party-has-gotten-more-extreme
 ---
 Matt Yglesias has written a couple of posts ([1](https://www.slowboring.com/p/republicans-have-changed-a-lot-since?s=r), [2](https://www.slowboring.com/p/shifting-left?s=r)) on the subject of this meme (originally by Colin Wright, recently signal-boosted by Elon Musk):
@@ -56,7 +59,7 @@ A caveat: probably people are interpreting the questions differently over time. 
 
 Commenter Alex Z mentions that in the first ten years of this period, the Democrats and Republicans were both moving left at about the same trajectory. Around 2004, the Democrats keep along the same course, but the Republicans suddenly stop, and sometimes make a tentative move rightward. From the point of a 1990s Democrat who expected both parties to keep moving left at the same rate forever, it must look like _Republicans_ have suddenly and unilaterally defected from this happy equilibrium. Maybe this is behind some of the Democrats’ intuition that it’s the Republicans who are getting extremier faster.
 
- **Conclusion:** Democrats have moved much further left on policy since 1994 than Republicans have moved right.
+**Conclusion:** Democrats have moved much further left on policy since 1994 than Republicans have moved right.
 
 ### Which Party Has Diverged Further From Ordinary Americans?
 
@@ -84,7 +87,7 @@ Voters are a tiny bit more likely to describe the Republicans as “extreme” t
 
 Probably it’s not worth worrying about the tiny differences between this and 538; I assume it’s within the margin of error, or pretty close. But if we insisted on doing that, we could note that the incumbent party always has a disadvantage, voters are angry at high inflation, and so they’re leaning a bit Republican to punish Biden even though the Democratic platform is slightly closer to the median voter.
 
- **Conclusion:** I’m still going to call this one a tie.
+**Conclusion:** I’m still going to call this one a tie.
 
 ### Which Party Is More Ideologically Pure?
 
@@ -120,13 +123,13 @@ What about ordinary voters (as opposed to Congressmen?) Pew gives us this graph:
 
 Looks pretty similar to me.
 
- **Conclusion:** Republicans have shown more ideological polarization in Congress, unsure about average voters.
+**Conclusion:** Republicans have shown more ideological polarization in Congress, unsure about average voters.
 
 ### Which party has become crazier in terms of worldview and messaging, in a way orthogonal to specific policy proposals? 
 
 I may not be as wise as Matt Yglesias, but I am wise enough not to declare one side the winner without an ironclad dataset to back me up. I can’t think of a sufficiently good one that doesn’t feel cherry-picked.
 
- **Conclusion:** Obviously your party is normal and the other one has gone completely off the rails. I’m being disgustingly “both-sides-ist” by even pretending there could be any possible equivalence. When the other party seizes power in an undemocratic coup, it will be the fault of cowards like me who refuse to call out how one party is infinitely worse than the other on this axis.
+**Conclusion:** Obviously your party is normal and the other one has gone completely off the rails. I’m being disgustingly “both-sides-ist” by even pretending there could be any possible equivalence. When the other party seizes power in an undemocratic coup, it will be the fault of cowards like me who refuse to call out how one party is infinitely worse than the other on this axis.
 
 ### Conclusions
 
@@ -146,4 +149,4 @@ I don’t really know what I expected here.
 
 * * *
 
- _(Please don’t post comments with “How is this not obvious when [outgroup] has done [worst and craziest thing the outgroup has done], and [ingroup] is just doing [most moderate thing ingroup has done, framed to sound extra innocuous]!”, or I’ll delete them.)_
+_(Please don’t post comments with “How is this not obvious when [outgroup] has done [worst and craziest thing the outgroup has done], and [ingroup] is just doing [most moderate thing ingroup has done, framed to sound extra innocuous]!”, or I’ll delete them.)_

@@ -3,6 +3,9 @@ title: "Universe-Hopping Through Substack"
 subtitle: "..."
 date: 2022-09-29
 likes: 310
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/73791957/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/042267c0-9ecf-4931-acee-0de3edc5ae23_1024x1024.png
 original-url: https://www.astralcodexten.com/p/universe-hopping-through-substack
 ---
 [RandomTweet](http://tweet.onerandom.com/) is a service that will show you exactly that - a randomly selected tweet from the whole history of Twitter. It describes itself as “a live demo that _most people on twitter are not like you_.”
@@ -21,7 +24,7 @@ Ah, Culture. This is where you go to read about Shakespeare, post-modernism, art
 
 [This is maybe not that kind of culture](https://jessicareedkraus.substack.com/p/saturday-night-rayceipts):
 
-> Saturday, just as I was finally logging off the internet after three tireless days spent tracking the Queen’s passing with sad and incessant scrolling, Ray J exploded on IG live, fuming about Kris Jenner’s latest PR stunt; a lie detector test conducted on _The Late Late Show With_ _James Corden,_ to prove she had no hand in leaking the infamous sex tape. The test, administered by a polygraph “expert” John Grogan, determined that Kris was in fact telling the truth.
+> Saturday, just as I was finally logging off the internet after three tireless days spent tracking the Queen’s passing with sad and incessant scrolling, Ray J exploded on IG live, fuming about Kris Jenner’s latest PR stunt; a lie detector test conducted on  _The Late Late Show With_  _James Corden,_ to prove she had no hand in leaking the infamous sex tape. The test, administered by a polygraph “expert” John Grogan, determined that Kris was in fact telling the truth.
 
 Like the mad scientist who pulls the lever and notices that the sky seems to be purple and the plants yellow, I am already starting to get some worrying preliminary signs of parallel-universehood. I am not sure anyone I know spent “three tireless days tracking the Queen’s passing with sad and incessant scrolling”. I recognize the context enough to know this has something to do with Kardashians, but I’m missing parts - who is Ray J? Is he related to why this post is called “Saturday Night ‘Rayceipts’”? Why is Ray angry? The inhabitants of this universe presumably know all these things, although perhaps they are too busy mourning the Queen’s death to explain them.
 

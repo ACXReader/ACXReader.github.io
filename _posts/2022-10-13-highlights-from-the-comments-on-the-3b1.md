@@ -3,11 +3,14 @@ title: "Highlights From The Comments On The Central Valley"
 subtitle: "..."
 date: 2022-10-13
 likes: 61
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/74680368/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d274736f-a638-4dd2-8f0d-3ab2b17e79ee_679x382.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-3b1
 ---
 _Original post:[Why Is The Central Valley So Bad?](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad)_
 
- **1:** Several Valley residents commented with their perspectives. Some were pretty grim. For example, 21st Century Salonniere (writes [The 21st Century Salon](https://bprice.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) writes:
+**1:** Several Valley residents commented with their perspectives. Some were pretty grim. For example, 21st Century Salonniere (writes [The 21st Century Salon](https://bprice.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) writes:
 
 > It is horrible. It’s been horrible since at least 1996 when I got trapped here by my spouse’s job. We were going to stay two years tops and go back East. (Long boring story about what went wrong.) The only things you could say for it back then were “Well, the produce is good” and “Houses are affordable, sort of.”
 > 
@@ -15,7 +18,7 @@ _Original post:[Why Is The Central Valley So Bad?](https://astralcodexten.substa
 > 
 > Who on earth is coming here and why?
 > 
->  _> “the problem is more that everyone in the Central Valley wants to leave.”_
+> _> “the problem is more that everyone in the Central Valley wants to leave.”_
 > 
 > Yes. Every interesting or smart critical thinker I’ve ever met here, everyone who gives even the slightest shit about museums and theatre and music and culture (with the exception of a few people who were born and raised here, so “it’s home”) has been desperate to leave. I’ve met a lot of nice people here over the years. They become close friends and they always leave the state. I’m counting down till I can leave too.
 > 
@@ -45,7 +48,7 @@ _Original post:[Why Is The Central Valley So Bad?](https://astralcodexten.substa
 > 
 > In conclusion (ha) this is not a nice place to live. And yes it is worse along many dimensions. I sincerely cannot think of any ways in which it is better since the 90s. None.
 
- **2:** And Marc [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9193922):
+**2:** And Marc [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9193922):
 
 > I grew up in the valley from birth until I left for college in 2009. A couple of things that I remember looking back at that time:
 > 
@@ -61,17 +64,17 @@ Pardon my ignorance, but how does a housing bust hit an area hard? Don’t most 
 
 But other residents spoke out in the Valley’s defense:
 
- **3:** Katherine Singleton [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9198356):
+**3:** Katherine Singleton [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9198356):
 
 > My grandparents had an almond and walnut farm in Ripon near Modesto. The time I spent there was the most idyllic childhood imaginable. California's problem's are well publicized as are the problems of rural agricultural areas. And city people usually have a reflexive distaste for a lifestyle they don't understand. So I don't think there is any big mystery here.
 
- **4:** Derek M [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9212983):
+**4:** Derek M [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9212983):
 
 > I grew up on a farm east of Visalia. Very idyllic. A great way to grow up. I also love how culturally diverse it is and we all got along pretty well. (For example -- Go to a church on Sunday in the Valley--there are a lot of different colors there. You don't seem to see that in other parts of America.)
 > 
 > Yes--it seems most of the commenters here are city people that just don't understand. The issues that rural ag areas struggle with also happens all over the world. You're correct--no big mystery. I've been to farms in Cornwall and the North of England and, surprise surprise, they are dealing with a lot of the same issues as the Valley. In fact, Jeremy Clarkson (the Top Gear BBC show guy) has made an entire series on Amazon Prime Video about his struggles ('Clarkson's Farm')
 
- **5:** Wanda Tinasky [says](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9211254):
+**5:** Wanda Tinasky [says](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9211254):
 
 > Fresno native here. While I'm not the biggest fan of the area, I feel I have to push back against this a bit. I left in 92 for college and then a career in Silicon Valley, but my parents stayed here and I was forced to move back 2 years ago to help them out. I hated Fresno as a teenager and dreaded moving back, but it's actually been better than expected. There are several microbreweries and craft beer taprooms now, which creates some semblance of a nightlife. The restaurant scene is mostly terrible, especially relative to SF, but there are some signs of life - I suspect it's on the up. The biggest shock has been real estate prices - I never would have thought of Fresno as an expensive place to live - but that's mostly been a consequence of inflation, COVID, and the Zoom revolution. I suspect the coming recession will pop that particular bubble. If not then the influx of Bay Area remote workers can only be a good thing for the local culture and economy.
 > 
@@ -85,7 +88,7 @@ But other residents spoke out in the Valley’s defense:
 
 Wanda’s perspective is interesting insofar as it views everywhere in California as disintegrating simultaneously, with the Bay’s problems related to the Valley’s albeit at a different scale. I can’t speak to this firsthand since I moved around too much to get a longitudinal view of any one place.
 
- **6:** Pete Morris writes:
+**6:** Pete Morris writes:
 
 > I personally think the Valley is underrated and its diversity under-appreciated. This applies both to its cities and to its rural, ag-based communities. The stories of exploited and impoverished farm labor are all too true—“Factories in the Field” as Carey McWilliams famously described the situation back in Great Depression days. Yet there also are stories of upward mobility and cultural dynamism, such as the celebrated Masumoto and Thao family farms outside Fresno and the vibrant community of Punjabi truck drivers.
 > 
@@ -93,7 +96,7 @@ Wanda’s perspective is interesting insofar as it views everywhere in Californi
 > 
 > The song illustrates some of the themes you discuss above, Scott, and it captures how love of the Valley is largely a matter of taste. For some, it is a version of California paradise; for others it is a long and boring stretch of empty highway miles. And for all those who know the Valley only from road trips along I-5, know that State Route 99 is significantly less empty. Even better, get off the main highways and explore the back roads. You may be surprised by the beautiful landscapes and interesting people and places you encounter.
 
- **7:** Kelly Traveling The US [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9201903):
+**7:** Kelly Traveling The US [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9201903):
 
 > I think there's a story here the data aren't telling. Give me Fresno over San Francisco any day.
 > 
@@ -111,29 +114,29 @@ Wanda’s perspective is interesting insofar as it views everywhere in Californi
 
 (though see [here ](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9200918)for some discussion of the Mexico comparison)
 
- **8:** Derek Rob [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9203188):
+**8:** Derek Rob [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9203188):
 
 > Reading this article is how I imagine it feels to live in a "less-developed" part of the world and read poverty-porn articles from American media outlets. The author "drives through as fast as possible" but feels comfortable making sweeping claims on the "misery" of the Central Valley based on a couple of newspaper articles and a few time-series plots. 
 > 
-> _"Temperatures often reach 110 F."_ Maybe going forward we'll see more of that, but by most accounts any day over 100 F is exceptional heat. A typical summer day? Balmy morning, a few hours of dry heat in the late afternoon, and warm, breezy evenings.
+>  _"Temperatures often reach 110 F."_ Maybe going forward we'll see more of that, but by most accounts any day over 100 F is exceptional heat. A typical summer day? Balmy morning, a few hours of dry heat in the late afternoon, and warm, breezy evenings.
 > 
->  _"Most people in the central Valley are conservative."_ The Central Valley is certainly more conservative than CA coastal cities. By area, I have no doubt that the Central Valley is majority conservative. But, since the author is already lumping the entire Central Valley under a single umbrella, I would be curious if "most" actually bears out in the distribution of political affiliations among Central Valley-ites. Lump in Sacramento and Stockton, and, since the author says "most people" and not "most voters," all of the non-citizen farm workers (documented or not).
+> _"Most people in the central Valley are conservative."_ The Central Valley is certainly more conservative than CA coastal cities. By area, I have no doubt that the Central Valley is majority conservative. But, since the author is already lumping the entire Central Valley under a single umbrella, I would be curious if "most" actually bears out in the distribution of political affiliations among Central Valley-ites. Lump in Sacramento and Stockton, and, since the author says "most people" and not "most voters," all of the non-citizen farm workers (documented or not).
 > 
->  _"Sacramento is the sixth smoggiest area in the country."_ Based on an article from 1999. I would be curious how Sacramento air quality compares to standards today. "The smell." The author drove by a freeway-adjacent dairy on his way to LA and now knows what a four-hundred-mile swath of the country smells.
+> _"Sacramento is the sixth smoggiest area in the country."_ Based on an article from 1999. I would be curious how Sacramento air quality compares to standards today. "The smell." The author drove by a freeway-adjacent dairy on his way to LA and now knows what a four-hundred-mile swath of the country smells.
 > 
->  _"Depressing tule fog."_ A morning mist that burns off by 8 am most days?
+> _"Depressing tule fog."_ A morning mist that burns off by 8 am most days?
 > 
->  _"Severe drought... partly [from] California diverting water to hydrate growing coastal cities."_ Coastal urban water demand has almost nothing to do with agricultural water shortages. Going to self-cite on this one (laziness; PhD in water resources engineering; married to a UC Berkeley water resources economist). Lack of winter rain/snow and associated land fallowing in the Central Valley almost definitely impacts agricultural labor demand.
+> _"Severe drought... partly [from] California diverting water to hydrate growing coastal cities."_ Coastal urban water demand has almost nothing to do with agricultural water shortages. Going to self-cite on this one (laziness; PhD in water resources engineering; married to a UC Berkeley water resources economist). Lack of winter rain/snow and associated land fallowing in the Central Valley almost definitely impacts agricultural labor demand.
 > 
->  _"Everyone who can get out of the Central Valley does."_ Uh. Yes, most Californians are just dying to move to the Bay to try to eek out a semblance of life where a 2BR house costs $1.5M. If this doesn't reek of coastal elite naivety, I don't know what does. Disclaimer: By most definitions, I am a "coastal elite" (am reading this stack, after all) and, over the last 13 years lived in the Bay for a combined five years (and liked it).
+> _"Everyone who can get out of the Central Valley does."_ Uh. Yes, most Californians are just dying to move to the Bay to try to eek out a semblance of life where a 2BR house costs $1.5M. If this doesn't reek of coastal elite naivety, I don't know what does. Disclaimer: By most definitions, I am a "coastal elite" (am reading this stack, after all) and, over the last 13 years lived in the Bay for a combined five years (and liked it).
 > 
->  _"Drugs and crime have gotten worse."_ Like everywhere in the country.
+> _"Drugs and crime have gotten worse."_ Like everywhere in the country.
 > 
 > The poverty and challenges of the Central Valley are super real. And it's no doubt great to see Bay-Area Californians peering outside of their bubble (walk around SF and survey strangers on what "the Delta" is to get a sense of the magnitude of that bubble). But this article amounts to the kind of naïve, drive-by opinion peddling that undermines nuance and so classically characterizes the self-assured attitudes that drive (similarly stupid) caricatures of "coastal elites."
 
 I am sorry if this article offended Valley residents, but they do have some of the lowest median income in the country and several of the poorest metropolitan areas in the country, I think noticing this and trying to investigate is different than just driving through and deciding it’s bad.
 
- **9:** Kelly [adds](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9201903):
+**9:** Kelly [adds](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9201903):
 
 > This whole post is driving me crazy. "The vast wasteland of the central valley" comprises 1% of US farmland and produces 25% of the country's food, including 40% of the best stuff. Without that largesse, we and much of the world would be hungry. The rich people who live in the Bay Area and LA should be down on their knees honoring the people who grow their food, not turning their noses up at them.
 > 
@@ -141,7 +144,7 @@ I am sorry if this article offended Valley residents, but they do have some of t
 
 If I ever said anything that implied the Central Valley did not have a lot of agriculture, I apologize unreservedly and retract this clearly false remark.
 
- **10:** Others were mixed. JRM [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9214018):
+**10:** Others were mixed. JRM [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9214018):
 
 > Some notes:
 > 
@@ -189,21 +192,21 @@ If I ever said anything that implied the Central Valley did not have a lot of ag
 
 * * *
 
- **11:** Some comments taught me interesting things about California history and politics. Ch Hi [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9209801):
+**11:** Some comments taught me interesting things about California history and politics. Ch Hi [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9209801):
 
 > The change [from pro-farm to anti-farm policy in California] is due to a Supreme Court decision. It used to be that Calif. Senators were elected on a scheme that gave each county a representation proportional to its land area. The Supreme Court decided that this was invalid…so now they're elected based on population. And most of the population lives in cities.
 > 
 > I'm not going to decide whether this was right or wrong, but it changed the Senate from pro-agriculture to pro-urban. (The fact that the agricultural areas always voted conservative is, of course, purely a coincidence.)
 
- **12:** Mutton Dressed As Mutton [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9203589):
+**12:** Mutton Dressed As Mutton [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9203589):
 
 > Yglesias recently wrote this about immigration policy:
 > 
->  _> The unintended legacy of the 1996 Illegal Immigration Reform and Immigrant Responsibility Act was that illicit seasonal labor migration was largely replaced by one-off permanent migration, while the three- and 10-year bans made it harder than ever for permanent unauthorized residents to regularize their status without meaningfully deterring illegal entry._
+> _> The unintended legacy of the 1996 Illegal Immigration Reform and Immigrant Responsibility Act was that illicit seasonal labor migration was largely replaced by one-off permanent migration, while the three- and 10-year bans made it harder than ever for permanent unauthorized residents to regularize their status without meaningfully deterring illegal entry._
 > 
 > I'm making no claims at all here, because I don't understand the bigger picture of immigration trends in the Central Valley. But if you think that immigration is part of the story, it's worth noting that there were some policy shocks during this time period.
 
- **13:** Steve Sailer [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9193718):
+**13:** Steve Sailer [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9193718):
 
 > Property rights in water are not very sophisticated in California, so water gets used for wasteful purposes. At some point the politicians grandfathered in everybody who was using water at some point in time: 1915? So a number of farmers have inherited the right to absurd amounts of water which they use on water-intensive crops like alfalfa, cotton, and almonds.
 > 
@@ -213,7 +216,7 @@ If I ever said anything that implied the Central Valley did not have a lot of ag
 > 
 > I don't know how exactly the water rights tangle ties into the Central Valley's more general problems, but it probably means less investment: nobody expects the water supply to get better due to more rain in the future, but nobody expects the politicians to take water rights away from wasteful uses either, so the future for those not grandfathered in looks dustier and more expensive.
 
- **14:** But DangerouslyUnstable [answers](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9193786):
+**14:** But DangerouslyUnstable [answers](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9193786):
 
 > As someone who grew up in the CV, I would just like to point out that, under a rational water rights system, almonds would almost certainly be one of the few ag uses to remain. They are lucrative and don't grow in that many places. Yes, they use a lot of water, but they produce a lot of value that can't easily be produced elsewhere. What would go away is rice, row crops, dairies, alfalfa, hay, and almost all the other crops that can be grown in dozens to hundreds of places in the US or the world.
 > 
@@ -221,11 +224,11 @@ If I ever said anything that implied the Central Valley did not have a lot of ag
 
 * * *
 
- **15:** Many people (~10!) recommended I read Victor Davis Hanson, who has written extensively about the Central Valley. For example, [Anonymous Heckler](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9206522):
+**15:** Many people (~10!) recommended I read Victor Davis Hanson, who has written extensively about the Central Valley. For example, [Anonymous Heckler](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9206522):
 
 > Victor David Hanson, who has written frequently and vividly about the social decay of the valley over the years, had a moving book published in the 1990s, "Fields Without Dreams," about the decline of family farms and the consolidation of agriculture into what are effectively absentee plantations. (The Resnicks are the most famous farmers who live in Beverly Hills, but there are others.) I don't quite recall his specific diagnosis of the cause then, but farming has always been very hard work that kids look for ways to avoid.
 
- **16:** And [Ellen M Martin](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9207039):
+**16:** And [Ellen M Martin](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9207039):
 
 > Here's a short version of his analysis <https://www.westernjournal.com/victor-davis-hanson-california-voters-make-major-decision-stake/>
 > 
@@ -239,9 +242,9 @@ If I ever said anything that implied the Central Valley did not have a lot of ag
 
 * * *
 
- **17:** Alex Richard [says ](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9193681)that commuters from the Valley to the Bay Area are a bigger (and different) deal than I thought:
+**17:** Alex Richard [says ](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9193681)that commuters from the Valley to the Bay Area are a bigger (and different) deal than I thought:
 
->  _> Sometimes well-off residents of California coastal cities get houses in the Central Valley and commute. It’s about 2 hours from LA to Bakersfield, or 1.5 from Stockton to San Francisco, so it’s not worth it for most people. But Central Valley houses cost between 25% and 50% the cost of coastal houses, so I guess it’s worth it for some. I don’t know whether this is good (because these people bring money in and create jobs) or bad (because these people bid up land values)._
+> _> Sometimes well-off residents of California coastal cities get houses in the Central Valley and commute. It’s about 2 hours from LA to Bakersfield, or 1.5 from Stockton to San Francisco, so it’s not worth it for most people. But Central Valley houses cost between 25% and 50% the cost of coastal houses, so I guess it’s worth it for some. I don’t know whether this is good (because these people bring money in and create jobs) or bad (because these people bid up land values)._
 > 
 > Your two assumptions here- that it's the rich buying second houses and commuting, and that this isn't a significant number of people- are wrong.
 > 
@@ -251,7 +254,7 @@ If I ever said anything that implied the Central Valley did not have a lot of ag
 > 
 > The article calculates that ~130,000 workers commute from the Central Valley into the Bay Area. If the average family has 4 people, one of whom commutes to the Bay Area, that's 500,000 people who have been pushed out the Bay Area. The Central Valley has a population of 6.5 million; if you exclude the 2 million who live around Sacramento (the state capital, an exception as you discuss in the article), over 10% of the Central Valley's families have somebody commuting to the Bay Area. I know much less about LA, and couldn't find good stats from google, but if it's similar then that's ~20% of the entire population of the Central Valley who live there in large part because lack of housing pushed them out of the coastal cities.
 
- **18L** Ragged Clown [adds](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9195459):
+**18L** Ragged Clown [adds](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9195459):
 
 > I came here to say this.
 > 
@@ -261,7 +264,7 @@ If I ever said anything that implied the Central Valley did not have a lot of ag
 
 * * *
 
- **19:** Mr. Doolittle [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9196687):
+**19:** Mr. Doolittle [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9196687):
 
 > The timing makes perfect sense to me if wages were dropping between the 70s and 80s and the place crashed in the 90s.
 > 
@@ -273,7 +276,7 @@ If I ever said anything that implied the Central Valley did not have a lot of ag
 
 * * *
 
- **20:** Kalimac [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9197320):
+**20:** Kalimac [writes](https://astralcodexten.substack.com/p/why-is-the-central-valley-so-bad/comment/9197320):
 
 > This is really a side issue, but it's the only thing in this post I'm qualified to talk about.
 > 
@@ -285,7 +288,7 @@ If I ever said anything that implied the Central Valley did not have a lot of ag
 > 
 > Also I should add that Stockton, Modesto, and Fresno all have professional symphony orchestras which prosper fairly well. Maybe other cities in the Central Valley do as well (I know there's one that splits its season between Redding and Chico), but I mention those because I've been to concerts by all three some time in the last decade (they were playing programs so interesting I couldn't resist taking the drive out), and they all did credit to themselves.
 
- **21:** But Lone-Pine [asks](https://www.reddit.com/r/slatestarcodex/comments/xjvlme/why_is_the_central_valley_so_bad/ipaz3dx/):
+**21:** But Lone-Pine [asks](https://www.reddit.com/r/slatestarcodex/comments/xjvlme/why_is_the_central_valley_so_bad/ipaz3dx/):
 
 > Do you people really care that much about symphonies and high culture? How much more are you willing to spend on a house just so you can be in driving distance of a symphony? And how many times per decade do people actually go?
 

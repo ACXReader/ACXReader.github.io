@@ -3,9 +3,12 @@ title: "Your Book Review: Viral"
 subtitle: "Finalist #12 in the Book Review Contest"
 date: 2022-07-30
 likes: 101
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/66306332/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a72ec211-56c2-4bcb-83c2-fbe7c3cdf597_919x792.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-viral
 ---
-[ _This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_ ]
+[_This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_]
 
 ## Introduction
 
@@ -66,7 +69,7 @@ When I first heard the idea of a lab origin of SARS-CoV-2 at the beginning of th
 
 There’s a famous [psychology experiment](https://psycnet.apa.org/record/1969-03938-001) [1] in which participants were told to wait in a room, and their reactions were recorded as the room gradually filled with smoke. In some cases, participants waited alone, while in other cases they waited with a group of people who, unbeknownst to the participant, were actors who had been instructed to ignore the smoke. Of the participants who waited alone, 75% reported the smoke. However, of the participants who waited with the group, _only 10% reported the smoke._
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8199936-a484-4951-b90e-8ea42a0a4ebc_1600x758.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8199936-a484-4951-b90e-8ea42a0a4ebc_1600x758.jpeg) _Photograph of the famous Latané and Darley experiment, cerca 1968._
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8199936-a484-4951-b90e-8ea42a0a4ebc_1600x758.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8199936-a484-4951-b90e-8ea42a0a4ebc_1600x758.jpeg)_Photograph of the famous Latané and Darley experiment, cerca 1968._
 
 So, what could those participants have been thinking? Maybe something like: _Hmm, why’s the room filling up with smoke? Is this a problem?_ *looks around the room* _Well nobody else seems to care, so I guess not._
 
@@ -86,7 +89,7 @@ So it does seem like a pretty remarkable coincidence that the outbreak happened 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fac0a8f26-8f26-4712-b245-797d478ae385_1246x642.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fac0a8f26-8f26-4712-b245-797d478ae385_1246x642.png)
 
- _Image source:<https://www.bloomberg.com/news/features/2020-12-30/china-is-making-it-harder-to-solve-the-mystery-of-how-covid-began> _
+_Image source:<https://www.bloomberg.com/news/features/2020-12-30/china-is-making-it-harder-to-solve-the-mystery-of-how-covid-began> _
 
 If SARS-CoV-2 originated in an animal somewhere around the Yunnan / Laos area, how did it make it all the way to Wuhan without leaving a trail along the way? 
 
@@ -151,7 +154,7 @@ Let’s say that your friend claims he can magically predict the result of a fai
 
 This is basically how I think we should handle this unwarranted overconfidence from respected institutions – it should decrease our trust in these institutions, but we need to be careful not to start favoring the lab leak hypothesis out of spite. In my opinion this loss of trust should not really affect our view of the object-level question of the virus’s origin at all (although it would be nice to see some of the data being hidden, like that WIV database that was taken offline).
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ce0d9c4-3fc1-4de0-9985-5dee032e50ad_1600x730.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ce0d9c4-3fc1-4de0-9985-5dee032e50ad_1600x730.png) _Sometimes your overconfident friend will get it wrong, and the coin will come up tails._
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ce0d9c4-3fc1-4de0-9985-5dee032e50ad_1600x730.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0ce0d9c4-3fc1-4de0-9985-5dee032e50ad_1600x730.png)_Sometimes your overconfident friend will get it wrong, and the coin will come up tails._
 
 ## 6\. Technical evidence
 
@@ -214,7 +217,7 @@ For example, one of the main characters in this story is The Seeker, an anonymou
 
 I don’t really know how to feel about it. On the one hand, it’s pretty cool that science is now open source in a way that lets random, curious people comb through data to make interesting discoveries. But on the other hand, _what the hell is going on if some random Twitter users are consistently correcting world-renowned virology institutes on various mistakes and omissions?_
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3f437a1-b9a0-4e0a-9f6b-87872bf32576_1210x1190.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3f437a1-b9a0-4e0a-9f6b-87872bf32576_1210x1190.png) _This is especially frustrating when the random guy on the internet turns out to be right._
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3f437a1-b9a0-4e0a-9f6b-87872bf32576_1210x1190.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3f437a1-b9a0-4e0a-9f6b-87872bf32576_1210x1190.png)_This is especially frustrating when the random guy on the internet turns out to be right._
 
 When people talk about “trusting the experts”, I think they mean trusting people with technical expertise over people without technical expertise. This makes sense a lot of the time. Probably almost all the time. If you need your car fixed, have a weird rash on your skin, or have a leaking pipe in your house, you consult a mechanic, a dermatologist, or a plumber because they have the technical expertise you need on those issues. You don’t ask a random guy on Twitter for help.
 
@@ -279,14 +282,14 @@ What’s even cooler is that much of this reevaluation was the result of amateur
 
 **[1]** Latané and Darley (1968). I couldn’t find any positive or negative replications of this exact experiment, but the general conclusion, called the Bystander Effect, has been extensively replicated.
 
- **[2]** It’s hard to tell because this [article was originally in French](https://www.francetvinfo.fr/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html), but after [putting it through Google Translate](https://www-francetvinfo-fr.translate.goog/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=wapp), it sounds like the head of the research team who discovered BANAL-52, Marc Eloit, still considered the lab origin scenario to be plausible as of January 2022.
+**[2]** It’s hard to tell because this [article was originally in French](https://www.francetvinfo.fr/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html), but after [putting it through Google Translate](https://www-francetvinfo-fr.translate.goog/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=wapp), it sounds like the head of the research team who discovered BANAL-52, Marc Eloit, still considered the lab origin scenario to be plausible as of January 2022.
 
- **[3]** In a reminder of the Orwellian nature of the Chinese government, one of these doctors was even made to sign a confession letter admitting to this “crime”.
+**[3]** In a reminder of the Orwellian nature of the Chinese government, one of these doctors was even made to sign a confession letter admitting to this “crime”.
 
- **[4]** This report was widely criticized, with the governments of the US, Canada, Australia, Japan, South Korea, the UK, and others expressing “shared concerns” about the investigation. Even the head of the WHO, Dr. Tedros, suggested that a more thorough follow-up investigation might be required.
+**[4]** This report was widely criticized, with the governments of the US, Canada, Australia, Japan, South Korea, the UK, and others expressing “shared concerns” about the investigation. Even the head of the WHO, Dr. Tedros, suggested that a more thorough follow-up investigation might be required.
 
- **[5]** For what it’s worth, I don’t agree with making this thing into a personal crusade against Daszak and the EcoHealth Alliance, like some people are trying to do.
+**[5]** For what it’s worth, I don’t agree with making this thing into a personal crusade against Daszak and the EcoHealth Alliance, like some people are trying to do.
 
- **[6]** This is actually what I’m more worried about with the ACX community – most of us aren’t going to be gullible when it comes to believing a popular, mainstream narrative, but we might be prone to knee-jerk contrarian reactions to these narratives.
+**[6]** This is actually what I’m more worried about with the ACX community – most of us aren’t going to be gullible when it comes to believing a popular, mainstream narrative, but we might be prone to knee-jerk contrarian reactions to these narratives.
 
- **[7]** I don’t know.
+**[7]** I don’t know.

@@ -3,6 +3,9 @@ title: "Every Bay Area House Party"
 subtitle: "..."
 date: 2022-05-04
 likes: 614
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/53013020/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6813b00e-22a2-4549-b1c9-1eaca6c9c47b_2000x1333.jpeg
 original-url: https://www.astralcodexten.com/p/every-bay-area-house-party
 ---
 You walk in. The wall decorations vaguely suggest psychedelia. The music is pounding, head-splitting, amelodious. Everyone is struggling to speak over it. Everyone assumes everyone else likes it.

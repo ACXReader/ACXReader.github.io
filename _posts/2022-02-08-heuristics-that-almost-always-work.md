@@ -3,6 +3,9 @@ title: "Heuristics That Almost Always Work"
 subtitle: "..."
 date: 2022-02-08
 likes: 338
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45269466/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5adbf108-fe67-4cd8-97a9-7c434c9a715b_736x526.jpeg
 original-url: https://www.astralcodexten.com/p/heuristics-that-almost-always-work
 ---
 **The Security Guard**
@@ -17,7 +20,7 @@ This heuristic is right 99.9% of the time, which is pretty good as heuristics go
 
 The only problem is: he now provides literally no value. He’s excluded by fiat the possibility of ever being useful in any way. He could be losslessly replaced by a rock with the words “THERE ARE NO ROBBERS” on it.
 
- **The Doctor**
+**The Doctor**
 
 She is a primary care doctor. Every day, patients come to her and says “My back hurts” or “My stomach feels weird”. She inspects, palpates, percusses and auscultates various body parts, does some tests, and says “It’s nothing, take two aspirin and call me in a week if it doesn’t improve”. It always improves; no one ever calls her.
 
@@ -27,7 +30,7 @@ She will do this for her entire career. If she is very lucky, nothing bad will h
 
 Her heuristic is right 99.9% of the time, but she provides literally no value. There is no point to her existence. She could be profitably replaced with a rock saying “IT’S NOTHING, TAKE TWO ASPIRIN AND WAIT FOR IT TO GO AWAY”.
 
- **The Futurist**
+**The Futurist**
 
 He comments on the latest breathless press releases from tech companies. _This will change everything!_ say the press releases. “No it won’t”, he comments. _This is the greatest invention ever to exist!_ say the press releases. “It’s a scam,” he says.
 
@@ -37,7 +40,7 @@ When all the Brier scores are calculated and all the Bayes points added up, he i
 
 But - say it with me - he could be profitably replaced with a rock. “NOTHING EVER CHANGES OR IS INTERESTING”, says the rock, in letters chiseled into its surface. Why hire a squishy drooling human being, when this beautiful glittering rock is right there?
 
- **The Skeptic**
+**The Skeptic**
 
 She debunks everything. Telepathy? She has a debunking for it. Bigfoot? A debunking. Anti-vaxxers? Five debunkings, plus an extra, just for you.
 
@@ -51,7 +54,7 @@ Fast, fun to read, and a 99.9% success rate. Pretty good, especially compared to
 
 This is a great rock. You should cherish this rock. If you are often tempted to believe ridiculous-sounding contrarian ideas, the rock is your god. But it is a Protestant god. It does not need priests. If someone sets themselves up as a priest of the rock, you should politely tell them that they are not adding any value, and you prefer your rocks un-intermediated. If they make a bid to be some sort of thought leader, tell them you want your thought led by the rock directly.
 
- **The Interviewer**
+**The Interviewer**
 
 He assesses candidates for a big company. He chooses whoever went to the best college and has the longest experience.
 
@@ -59,7 +62,7 @@ Other interviewers will sometimes choose a diamond in the rough, or take a chanc
 
 It cannot be denied that the employees he hires are very good. But when he dies, the coroner discovers that his head has a rock saying “HIRE PEOPLE FROM GOOD COLLEGES WITH LOTS OF EXPERIENCE” where his brain should be.
 
- **The Queen**
+**The Queen**
 
 She rules over a volcanic island. Everyone worries about when the volcano will erupt. The wisest men of the kingdom research the problem and decide that the volcano has a straight 1/1000 chance of erupting any given year, uncorrelated with whether it erupted the year before. There are some telltale signs legible to the wise - a slight change in the color of the lava, an imperceptible shift in the smell of the sulfur - but nothing obvious until it’s too late.
 
@@ -71,7 +74,7 @@ Time passed. With each passing year, the cultists and the institutions and metho
 
 After five hundred years, the lava looked a bit weird, and the new Queen consulted her advisors. By this time they were 100% cultists, so they all consulted the rock and said “No, the volcano is not erupting”. The sulfur started to smell different, and the Queen asked “Are you sure?” and they double-checked the rock and said “Yeah, we’re sure”. The earth started to shake, and the Queen asked them one last time, so they got tiny magnifying glassses and looked at the rock as closely as they could, but it still said “THE VOLCANO IS NOT ERUPTING”. Then the volcano erupted and everyone died. The end.
 
- **The Weatherman**
+**The Weatherman**
 
 He lives in a port town and predicts hurricanes. Hurricanes are very rare, but whenever they happen all the ships sink, so weathermen get paid very well.
 
@@ -81,7 +84,7 @@ For many years, there was no hurricane, and he gained great renown. Other, lesse
 
 Then one month, a hurricane came. It was totally unexpected and lots of people died. The weatherman hastily said “Well, yes, sometimes there are outliers that even I can’t predict, I don’t think this detracts from my vast expertise and many years of success, and have you noticed some of the people criticizing me have business connections with foreign towns that probably plot our ruin?” An investigation was launched, but the businessmen and journalists and politicians all took his side, and he was exonerated and restored to his former place of honor.
 
- **Heuristics That Almost Always Work**
+**Heuristics That Almost Always Work**
 
 Sometimes there’s a Heuristic That Almost Always Works, like “this technology won’t change everything” or “there won’t be a hurricane tomorrow”.
 
@@ -99,7 +102,7 @@ This new invention won’t change everything. This emerging disease won’t beco
 
 All these things are _almost_ always true. But Heuristics That Almost Always Work tempt us to be more certain than we should of each.
 
- _[ **EDIT:** Some people are asking if this is just the same thing as black swans. I agree black swans are great examples, but I think I’m talking about something slightly different, which includes heuristics like “you should hire the person from the top college” or “you should believe experts”. If you want you can think of a high school dropout outperforming a top college student as a “black swan”, but it doesn’t seem typical. And the point isn’t just “sometimes black swans happen”, but that the existence of experts using heuristics causes predictable over-updates towards those heuristics.]_
+_[**EDIT:** Some people are asking if this is just the same thing as black swans. I agree black swans are great examples, but I think I’m talking about something slightly different, which includes heuristics like “you should hire the person from the top college” or “you should believe experts”. If you want you can think of a high school dropout outperforming a top college student as a “black swan”, but it doesn’t seem typical. And the point isn’t just “sometimes black swans happen”, but that the existence of experts using heuristics causes predictable over-updates towards those heuristics.]_
 
 Whenever someone pooh-poohs rationality as unnecessary, or makes fun of rationalists for spending zillions of brain cycles on “obvious” questions, check how they’re making _their_ decisions. 99.9% of the time, it’s Heuristics That Almost Always Works.
 

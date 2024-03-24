@@ -3,6 +3,9 @@ title: "Book Review: What We Owe The Future"
 subtitle: "..."
 date: 2022-08-23
 likes: 182
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/69594204/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/051d8840-77a5-4dfa-8a7c-fe6cd0c626da_535x382.png
 original-url: https://www.astralcodexten.com/p/book-review-what-we-owe-the-future
 ---
 **I.**
@@ -19,7 +22,7 @@ But what is “long-termism”? I’m unusually well-placed to answer that, beca
 
 So fine. At the risk of joining on an already-overcrowded bandwagon, let’s see what we owe the future.
 
- **II.**
+**II.**
 
 All utilitarian philosophers have one thing in common: hypothetical scenarios about bodily harm to children.
 
@@ -57,15 +60,15 @@ Imagine you are a wise counselor, and you have the opportunity to spend your lif
 
 Is this just [Pascalian reasoning, ](https://en.wikipedia.org/wiki/Pascal%27s_mugging)where you name a prize so big that it overwhelms any potential discussion of how likely it is that you can really get the prize? MacAskill carefully avoids doing this explicitly, so much so that he (unconvincingly) denies being a utilitarian at all. Is he doing it implicitly? I think he would make an argument something like Gregory Lewis’ [Most Small Probabilities Aren’t Pascalian](https://forum.effectivealtruism.org/posts/5y3vzEAXhGskBhtAD/most-small-probabilities-aren-t-pascalian). This isn’t about an 0.000001% chance of affecting 50 quadrillion people. It’s more like a 1% chance of affecting them. It’s not automatically Pascalian reasoning every time you’re dealing with a high-stakes situation!
 
- **III.**
+**III.**
 
 But how do you get a 1% chance of affecting the far future? MacAskill suggests three potential methods: progress, survival, and trajectory change.
 
- **Progress** is simple: suppose the current GDP growth rate is 2%/year. At that rate, the world ten thousand years from now will be only 10^86 times richer. But if you increase the growth rate to 3%, then it will be a whole 10^128 times richer! Okay, never mind, this is a stupid argument. There are only 10^67 atoms in our lightcone; even if we converted all of them into consumer goods, we couldn’t become 10^86 times richer.
+**Progress** is simple: suppose the current GDP growth rate is 2%/year. At that rate, the world ten thousand years from now will be only 10^86 times richer. But if you increase the growth rate to 3%, then it will be a whole 10^128 times richer! Okay, never mind, this is a stupid argument. There are only 10^67 atoms in our lightcone; even if we converted all of them into consumer goods, we couldn’t become 10^86 times richer.
 
 So MacAskill makes a different argument: it would be very bad if technological growth stagnated, and we could never become richer at all. There are a few reasons we might expect that to happen. Technological growth per person is [slowing down](https://slatestarcodex.com/2018/11/26/is-science-slowing-down-2/), and [population growth is declining worldwide](https://astralcodexten.substack.com/p/slightly-against-underpopulation). Sometimes growth builds on itself; when there is a lot of growth, people are in a good mood and stakeholders are willing to make sacrifices for the future, trusting that there’s much more where that came from. [When growth slows](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures), everyone becomes fiercely protective of what they have, and play zero-sum games with each other in ways not conducive to future growth. So one potential catastrophe is a vicious cycle of stagnation that slows growth for millennia. Since our current tech level is pretty conducive to world destruction (we have nukes and the ability to genetically engineer bioweapons, but nothing that can really defend against nukes or genetically-engineered bioweapons), staying at the current tech level for millennia is buying a lot of lottery tickets for world destruction. So one long-termist cause might be to avoid technological stagnation - as long as you’re sure you’re speeding up the good technologies (like defenses against nukes) and not the bad ones (like super-nukes). Which you never are.
 
- **Survival** is also simple. MacAskill introduces it with a riddle of Derek Parfit’s. Assuming there are 10 billion people in the world, consider the following outcomes:
+**Survival** is also simple. MacAskill introduces it with a riddle of Derek Parfit’s. Assuming there are 10 billion people in the world, consider the following outcomes:
 
 A. Nothing bad happens  
 B. A nuclear war kills 9 billion people  
@@ -89,7 +92,7 @@ His biggest concern here is reindustrialization. The first Industrial Revolution
 
 So rebuilding industrial civilization out of charcoal is iffy. The good news is that there are a few big remaining near-surface coal deposits. MacAskill suggests that although the main reason to stop mining coal is because of climate change, a second reason to stop mining coal is to leave those few remaining deposits alone in case our distant descendants need them. Also, we should tell them to get it right next time: there might be enough coal left to industrialize one more time, but that’s it.
 
- **Trajectory change** is the most complicated way of affecting the future. Can we change society for the better today, in some way that gets locked in such that it’s still better a thousand or a million years from now?
+**Trajectory change** is the most complicated way of affecting the future. Can we change society for the better today, in some way that gets locked in such that it’s still better a thousand or a million years from now?
 
 This might not be impossible. For example, Mohammed asked Muslims not to eat pork, and they still follow this command thousands of years later. The US Constitution made certain design decisions that still affect America today. Confucianism won the philosophical squabbles in China around the birth of Christ, and its ethos still influences modern China.
 
@@ -123,7 +126,7 @@ MacAskill doesn’t talk about this much besides gesturing about something somet
 
 I found this a disappointing conclusion to this section, so I’ll mention one opportunity I heard about recently: [let’s be against octopus factory farming](https://forum.effectivealtruism.org/posts/jSaAitdE5ejv4xj4P/world-s-first-octopus-farm-linkpost). Octopi seem unusually smart and thoughtful for animals, some people have just barely started factory farming them in horrible painful ways, and probably there aren’t enough entrenched interests here to resist an effort to stop this. This probably won’t be a legendary campaign that bards will sing about for all time the way abolitionism was, but I don’t know how you find one of those. Maybe find a hunchbacked Quaker dwarf who lives in a cave, and ask what he thinks.
 
- **IV.**
+**IV.**
 
 There’s a moral-philosophy-adjacent thought experiment called the [Counterfactual Mugging](https://www.lesswrong.com/tag/counterfactual-mugging). It doesn’t feature in _What We Owe The Future_. But I think about it a lot, because every interaction with moral philosophers feels like a counterfactual mugging. 
 
@@ -175,9 +178,9 @@ But I’m not sure I _want_ to play the philosophy game. Maybe MacAskill can com
 
 I realize this is “anti-intellectual” and “defeating the entire point of philosophy”. If you want to complain, you can find me in World A, along with my 4,999,999,999 blissfully happy friends.
 
- **V.**
+**V.**
 
-These kinds of population ethics problems are just one chapter of _What We Owe The Future_ (if you want the book-length treatment, read _[Reasons and Persons](https://amzn.to/3wp4LZZ)_ ), and don’t really affect the conclusion, which is…
+These kinds of population ethics problems are just one chapter of _What We Owe The Future_ (if you want the book-length treatment, read _[Reasons and Persons](https://amzn.to/3wp4LZZ)_), and don’t really affect the conclusion, which is…
 
 What _is_ the conclusion? MacAskill wants you to be a long-termist, ie to direct your moral energy to helping the long-term future. He doesn’t say outright that the future deserves your energy _more_ _than_ the present, but taken to its logical conclusion the book suggests this possibility. If you agree, what should you do?
 

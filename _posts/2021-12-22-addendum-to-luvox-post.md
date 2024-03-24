@@ -3,6 +3,9 @@ title: "Addendum To Luvox Post"
 subtitle: "FDA will be considering Luvox for COVID after all!"
 date: 2021-12-22
 likes: 97
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45878405/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/00d8895a-b86a-4481-ba1d-017599f676c6_620x413.jpeg
 original-url: https://www.astralcodexten.com/p/addendum-to-luvox-post
 ---
 In my post yesterday, I [quoted a Vox](https://www.vox.com/future-perfect/22841852/covid-drugs-antibodies-fluvoxamine-molnupiravir-paxlovid) article describing work by Dr. Ed Mills and others to get the FDA to approve Luvox for COVID. As of that point, the FDA didn’t know how to process an application without a sponsoring drug company:

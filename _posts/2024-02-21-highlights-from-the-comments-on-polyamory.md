@@ -2,20 +2,23 @@
 title: "Highlights From The Comments On Polyamory"
 subtitle: "..."
 date: 2024-02-21
-likes: 80
+likes: 82
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/141726468/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/1d3239b3-3339-4d4c-8401-56aefbd7a8a8_950x496.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-polyamory
 ---
 _[Original posts:[Contra The Atlantic On Polyamory (subscriber only)](/p/contra-the-atlantic-on-polyamory), [You Don’t Hate Polyamory, You Hate People Who Write Books](/p/you-dont-hate-polyamory-you-hate)]_
 
- **1:** Comments I Can Respond To With Something Resembling Actual Statistics  
- **2:** Comments I Will Argue Against Despite Not Having Statistics, Sorry  
- **3:** Comments By People With Personal Anecdotes  
- **4:** Comments On Children  
- **5:** Other Comments
+**1:** Comments I Can Respond To With Something Resembling Actual Statistics  
+**2:** Comments I Will Argue Against Despite Not Having Statistics, Sorry  
+**3:** Comments By People With Personal Anecdotes  
+**4:** Comments On Children  
+**5:** Other Comments
 
 ## 1: Comments I Can Respond To With Something Resembling Actual Statistics
 
- **Micah Zolu[writes](/p/you-dont-hate-polyamory-you-hate/comment/49013226):**
+**Micah Zolu[writes](/p/you-dont-hate-polyamory-you-hate/comment/49013226):**
 
 > I feel like a simpler rebuttal to such an article would be statistics comparing relationship happiness/satisfaction in polyamorous people and monogamous people. Does no such comparison exist which is why one must resort to reviewing n-of-1 studies or raising concerns about people deriving generalizations from a handful of n-of-1 studies?
 
@@ -67,7 +70,7 @@ This broadly matches the results of the 2017 SSC survey (I’m using 2017 becaus
 
 I think a fair summary of these results is “poly and mono relationships are about equally good, except that poly people have slightly higher romantic satisfaction and mono people are much more likely to have children; being wishy-washy in the middle is worse than either”.
 
- **Hamish Todd ([blog](https://hamishtodd1.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49043042):**
+**Hamish Todd ([blog](https://hamishtodd1.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49043042):**
 
 > I was poly for two years or so then stopped. Jealousy, in the sense of feeling bad because someone was sleeping with my partner, wasn't a problem for me. I will say what the problems were, and I'll be interested to see responses/links to responses.
 > 
@@ -91,7 +94,7 @@ Among polyamorous men (n=555), the correlation was 0.311
 
 I'm eyeballing this as not a significant difference, and in either case it's in favor of poly.
 
- **drosophilist[writes](/p/you-dont-hate-polyamory-you-hate/comment/49030210):**
+**drosophilist[writes](/p/you-dont-hate-polyamory-you-hate/comment/49030210):**
 
 > On average, straight men and straight women differ in their sexual/romantic preferences. For obvious evolutionary reasons, men's sexuality is optimized for variety/novelty/as many partners as possible, while women's sexuality is optimized for emotional attachment/find the best man you can and get him to stick around and help care for your babies. (Obvious disclaimer: I'm talking about trends and averages, not every man/not every woman, blah blah blah.)
 > 
@@ -109,7 +112,7 @@ There were a lot of you who were pretty sure that polyamory had to be bad in som
 
 ## 2: Comments I Will Argue Against Despite Not Having Statistics, Sorry
 
- **Some Guy ([blog](https://extelligence.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49021878):**
+**Some Guy ([blog](https://extelligence.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49021878):**
 
 > I had one of those childhoods that was so terrible that people find it fascinating but this seems just awful for kids. Again, I’m probably bias because my parents have racked up close to ten marriages between them and I grew up knowing that their first and most heartfelt loyalty was never to me. There would be my brothers and sisters, whichever of my parents we were with, and just some random person they’d decided they loved more than us. And that person definitely made their resentment of us known and usually made whichever of my parents was there perform some sort of loyalty test. Most other people I know in this situation have some kind of similar experience even if the examples are less dramatic and more open to being interpreted as over-sensitivity. Say what you will about monogamy but it makes lines of loyalty very clear within a family unit. That might not matter as much when there are resources to go around for everyone, but when you’re poor it matters a lot because there isn’t that much to go around and one year your step-mom might want to ritually humiliate you and your siblings by giving you socks at Christmas while her children open elaborate gifts.
 > 
@@ -183,7 +186,7 @@ And here’s the kind of thing I see in relationship advice forums:
 
 This just seems like a fundamentally unhealthy outlook on relationships and life. People with better emotional skills can figure out some middle ground where they still agree not to have “emotional affairs” or whatever but don’t freak out every time their partner has contact with another human, but seeing the version where this goes bad has kind of radicalized me. I think there’s something really attractive about being poly even if you never get around to having any other relationships, just so you don’t have to constantly be getting angry at your partner for having normal human desires.
 
- **TGGP[writes](/p/you-dont-hate-polyamory-you-hate/comment/49022568):**
+**TGGP[writes](/p/you-dont-hate-polyamory-you-hate/comment/49022568):**
 
 > The real reason to prefer monogamy is that most cultures/societies have been polygynous, but the smaller number of monogamous ones were the winners in the contest of cultural group selection.
 
@@ -199,7 +202,7 @@ Another possible argument is that polyamory isn’t spreading by monogamous cult
 
 I don’t really know how to rescue cultural selection arguments from these kinds of considerations.
 
- **Ascend[writes](/p/you-dont-hate-polyamory-you-hate/comment/49021135):**
+**Ascend[writes](/p/you-dont-hate-polyamory-you-hate/comment/49021135):**
 
 > Okay, I have two basic objections to polyamory. The first is a broader but weaker point, and the second is narrower and stronger.
 > 
@@ -221,7 +224,7 @@ One interesting demonstration of this is how many asexual people are poly. In th
 
 I also checked sex drive among people who were in monogamous relationships, stable polycules, and open relationships (this is the 2019 SSC survey, which went into more depth on sex and romance). There were no significant differences in sex drive among these three categories.
 
- **Piotr Pachota ([blog](https://transhumanista.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49014935):**
+**Piotr Pachota ([blog](https://transhumanista.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49014935):**
 
 > Invectives about polyamory are inevitable now, in the current phase of polyamory Overton window shift. This is the only acceptable way polyamory can be currently portrayed and discussed.
 > 
@@ -248,7 +251,7 @@ Yeah, one pattern I see pretty often goes something like:
 
 My position is that I feel sympathy for everyone involved except the journalists.
 
- **Chris Nathan ([blog](https://chrisnathan.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49043082):**
+**Chris Nathan ([blog](https://chrisnathan.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49043082):**
 
 > [Polyamory is] particularly harsh because the culture pathologizes ordinary human responses (anxiety, jealousy, loneliness) as if they're deviant. This seems to drive underground the kind of useful conflict - in which issues get addressed and incremental improvements made - that are standard operating procedure for high functioning monogamous relationships. I'm sure some people can do polyamory well, but it's not for many, and certainly not for most.
 
@@ -258,7 +261,7 @@ Nobody can indulge the entire human experience, unless they’re very lucky and 
 
 ## 3: Comments By People With Personal Anecdotes
 
- **Yunshook[writes](/p/you-dont-hate-polyamory-you-hate/comment/49019041):**
+**Yunshook[writes](/p/you-dont-hate-polyamory-you-hate/comment/49019041):**
 
 > I'm about to jump on a 12 hour shift running conduit, so I apologize if this is a little disorganized. Id intended to write this for next Monday, but it's topical.
 > 
@@ -272,11 +275,11 @@ Nobody can indulge the entire human experience, unless they’re very lucky and 
 > 
 > I think the major point here is that it isn't polyamory so much as the dominant strain of polyamory that is so distasteful. Since it looks like it's around to stay, I'd like to see it hashed out to be healthier and geared towards making good people.
 
- **Also Yunshook:**
+**Also Yunshook:**
 
 > I've seen a lot of adoption of polyamory among disabled and those on food stamps where I live. It looks to be a strategy to find resources as a group, as well as to maximize sexual access for those who are not traditionally desirable. As an outsider, I have observed a lot of toxic behaviors in these groups, but it seems to be far more common than one would expect. I'd love to see the numbers, but my intuition says that this amount of buy in doesn't go away quickly. It's possible that there aren't many people who are actually interested in healthy polyamory outside of a few well off, responsible individuals such as Scott. Possibly most people just want casual sex on the side of their committed relationships. If that is the case, I'd prefer a culture of swingers in already committed relationships to a culture of satellite relations who have no recourse. At least swinger couples and quads each have two parents who are financially responsible for any kids that come around because of one of their dalliances.
 
- **Matt Arnold[writes](/p/you-dont-hate-polyamory-you-hate/comment/49024369):**
+**Matt Arnold[writes](/p/you-dont-hate-polyamory-you-hate/comment/49024369):**
 
 > Reducing one's romantic relationships to political statements is a real thing. I spent time for a few years in a polyamory group which turned into a Relationship Anarchy group. They redefined "Polyamory" to mean every bad thing that anyone labeling themselves polyamorous had ever done to them. Some of them eventually did that to the term "Relationship Anarchist" too, and switched to "Political Relater". I wrote more about this here:
 > 
@@ -288,13 +291,13 @@ As you can probably predict, that link is a doozy.
 
 I think the general form of “you don’t have polyamory, you hate people who write books” is “you hate the kind of people the link describes”. I promise that there are other polyamorous people who are normalish people with normalish politics who have normalish relationships that just happen to be with more than one person at a time.
 
- **Concerned Citizen ([blog](https://asecondconcernedcitizen.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49038541):**
+**Concerned Citizen ([blog](https://asecondconcernedcitizen.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](/p/you-dont-hate-polyamory-you-hate/comment/49038541):**
 
 > All of the happy polycules I have encountered have a lot of trans or autistic people. Just going by personal observation I don't think it works so well with neurotypicals, if you can call solomonesque narcissism neurotypical.
 
 The happiest polycules I know are asexual people. The second happiest are people who have sex so frequently and compulsively that it’s impossible for them to be angry with their partner for sleeping around because not-sleeping-around seems as impossible to them as falling upward. Autistic is third (and sometimes overlaps with the previous two categories). Trans people in polycules tend to go either very well or _very very_ badly, no in-between.
 
- **Radar[writes](/p/you-dont-hate-polyamory-you-hate/comment/49044923):**
+**Radar[writes](/p/you-dont-hate-polyamory-you-hate/comment/49044923):**
 
 > The books I've seen on polyamory are self-help books not memoirs and in that they seem to be sincere attempts at helping people think through what kinds of resources and capacities a person might need to have on board to pull it off successfully. Those books make it seem like a second full-time job to pull it off responsibly, and not a lot of people have that kind of time or capacity. For the people that do, or who pull it off well regardless, there's nothing to hate it seems to me.
 > 
@@ -310,7 +313,7 @@ The happiest polycules I know are asexual people. The second happiest are people
 > 
 > My bias is that many of my data points make it look like people engaging in emotional avoidance by finding another arena in which they can pursue self-gratification. I'd be interested to hear from people happily in polyamorous situations and who have more data points any reflections about whether they see these two kinds of people doing polyamory and any guesses about what the ratios are (and really anything else they might want to say).
 
- **CJW[writes](/p/you-dont-hate-polyamory-you-hate/comment/49047955):**
+**CJW[writes](/p/you-dont-hate-polyamory-you-hate/comment/49047955):**
 
 > There seem to be a couple distinct strands of polyamory I've noticed, one has a massive PR problem and the other doesn't want PR at all.
 > 
@@ -320,13 +323,13 @@ The happiest polycules I know are asexual people. The second happiest are people
 > 
 > I have never had an inclination towards any of this, the amount of potential drama just seems miserably high, and I've been conditioned to see it as either low-status or psychologically damaging to a person's self-conception of their social identity ("if you go too far, you'll never get back to where the rest of them are".) I think that a society which encourages people to view polyamory negatively is probably doing most people a favor, as most people will find these arrangements dangerous and unrewarding and are better off being steered towards traditional monogamy. If you decide you really want to do it later in life, you'll find the pineapple people or an adjacent alt-lifestyle group eventually, and you know where California is if you want to go further than that. I don't hate polyamorous people, but I do find them weird, and it's probably for the best if most people feel the same.
 
- **Justin[writes](/p/you-dont-hate-polyamory-you-hate/comment/49068981):**
+**Justin[writes](/p/you-dont-hate-polyamory-you-hate/comment/49068981):**
 
 > As someone who has never read a book on polyamory but knows several people who have been or are in those relationships, they are near universally unhappy or one partner is dissatisfied with the relationship. In all these cases, the major friction in these relationships is coming from the structure of the relationship.
 > 
 > I know it is not for me, but I see a lot of my friends who are trying to "have it all" so to speak and very reluctant to confront the problems coming from their arrangements.
 
- **Jaybird[writes](/p/you-dont-hate-polyamory-you-hate/comment/49094684):**
+**Jaybird[writes](/p/you-dont-hate-polyamory-you-hate/comment/49094684):**
 
 > In my (limited) experience, there are two kinds of polyamorous people:
 > 
@@ -338,13 +341,13 @@ The happiest polycules I know are asexual people. The second happiest are people
 
 I’m fascinated by how many people think there are two types of poly people, but disagree on what those types are.
 
- **Moon Moth[writes](/p/you-dont-hate-polyamory-you-hate/comment/49151633):**
+**Moon Moth[writes](/p/you-dont-hate-polyamory-you-hate/comment/49151633):**
 
 > The distribution of personality types in "poly" has changed over the years. Like with tech, in the beginning there were a bunch of early adopters, figuring out how to implement feminist theory in a way that let them have lots of sex, and they tended to be fairly good about self-awareness and boundaries and the like. I expect that Scott's circle is a younger generation of people like this. But there were also people who discovered the poly community and thought "if I say the right words, I get to have fun, and if I say these other words, I can hurt people and get them to think it's their own fault". And eventually there were people who thought "if I say the words other people say, and do the things other people do, I can fit in with the cool kids". (Similar to what happened with wokism.)
 
 …or maybe they’re the same two types, just described in different ways? I don’t know.
 
- **N W[writes](/p/you-dont-hate-polyamory-you-hate/comment/49509465):**
+**N W[writes](/p/you-dont-hate-polyamory-you-hate/comment/49509465):**
 
 > I'm a tall, good looking guy. I was cool and in popular groups. I'm the chad. The cool and good looking guys slept around. The less good looking guys tried but did poorly. The top dogs were shamed by many of the top girls for being 'players', but they would still get involved with us.
 > 
@@ -368,17 +371,17 @@ I think this backs up my claim that poly is mostly not people trying to have lot
 
 ## 4: Comments On Children
 
- **Some Guy[writes](/p/you-dont-hate-polyamory-you-hate/comment/49102597):**
+**Some Guy[writes](/p/you-dont-hate-polyamory-you-hate/comment/49102597):**
 
 > I would just refer back to the statistics on the likelihood of abuse when an adult other than a parent is in the home. Why would those be different in a polyamorous situation? That’s my general system level proof of which one of these is likely better for children at the social level of analysis. Also the statistics about the general well-being of children with two parents in the home. That is very clearly more stable, you probably know those statistics better than I do, and while of course not perfect it does seem very hard to argue that if that wasn’t the case for more people (which we know is possible because it was the case for virtually everyone not that long ago) general welfare would be much better.
 
 Slight nitpick that in most poly families all partners would consider themselves parents. But stepparents also consider themselves parents, and the statistics Some Guy cites show bad outcomes for stepparents, so I don’t think this is a good counterargument. I tried to respond [here](/p/you-dont-hate-polyamory-you-hate/comment/49686316), but overall I agree that this is an important point.
 
- **Anomie[writes](/p/you-dont-hate-polyamory-you-hate/comment/49085791):**
+**Anomie[writes](/p/you-dont-hate-polyamory-you-hate/comment/49085791):**
 
 > Human children are probably the most demanding children to care for on Earth. Traditionally, mothers had a lot of help from their extended family and friends in raising their children, but that's not really possible under the current status quo of monogamous nuclear families. If we could just normalize setups that made this kind of collaborative childcare practical, maybe that could encourage people to have more children. ...Of course, there's still the issue of affordability, and we still have a problem of people failing to form relationships in the first place. *sigh* I really doubt things are ever going to improve at this point.
 
- **Brendan[writes](/p/you-dont-hate-polyamory-you-hate/comment/49220158):**
+**Brendan[writes](/p/you-dont-hate-polyamory-you-hate/comment/49220158):**
 
 > You could imagine further scenarios where the two original parents stay together in a loving relationship prioritizing the children, the only difference being that the parents don't restrict eachother from having additional romantic/sexual involvement with other people. This could have positive or negative effects on the children, but those effects would be a result of the way the parents behave and prioritize, regardless of whether they place default restrictions on eachothers romantic/sexual interests.
 > 
@@ -386,7 +389,7 @@ Slight nitpick that in most poly families all partners would consider themselves
 
 ## 5: Other Comments
 
- **Person Humansly[writes](/p/you-dont-hate-polyamory-you-hate/comment/49192666):**
+**Person Humansly[writes](/p/you-dont-hate-polyamory-you-hate/comment/49192666):**
 
 > I think the reason most people are uncomfortable with polyamory is that it subverts the dearly-held mythology of all-conquering “true love” between soulmates that pervaded western culture for a few centuries until the last decade or-so. Years ago, Jason Pargin (of [Cracked.com](http://cracked.com), back when it was still relevant) said that outsiders looking back at our culture would see romantic love as our religion, and I think he was right.
 
@@ -412,13 +415,13 @@ This is part of why I dislike the word “coparent” which is catching on now f
 
 > Inviting anyone who would find it entertaining to join me in coming up with the most irritatingly narcissistic book titles they can think of. Such as:
 > 
->  _The Adorable Complexity of Being Me_
+> _The Adorable Complexity of Being Me_
 > 
 >  _Woke Polyamorous Ayahuasca Meditation -- a Spiritual Path for the Intrepidly Sensitive_
 
- **Anonymous Dude[adds](/p/you-dont-hate-polyamory-you-hate/comment/49076663):**
+**Anonymous Dude[adds](/p/you-dont-hate-polyamory-you-hate/comment/49076663):**
 
->  _Becoming Fully Myself_
+> _Becoming Fully Myself_
 > 
 >  _Revolution from Within: A Book of Self-Esteem_
 > 
@@ -436,7 +439,7 @@ Hey now, “Every Man And Women Is A Star” is from [The Book of the Law](https
 
 Matthew Carlin [recommends ](/p/you-dont-hate-polyamory-you-hate/comment/49208284)us this [Terrible Self-Help Title Generator](https://bugsby.net/drive/heal.cgi). And Moon Moth points out that there is a book called [A Woman First: First Woman: A Memoir](https://www.amazon.com/Woman-First-Deeply-Personal-President/dp/1419733532), but I’m not sure I can give it full credit: it seems to be a fictional memoir by a popular TV character and might be deliberately bad.
 
- **TGGP[writes](/p/you-dont-hate-polyamory-you-hate/comment/49172948):**
+**TGGP[writes](/p/you-dont-hate-polyamory-you-hate/comment/49172948):**
 
 > Polygamous marriage is still not legal in the . . . cultures which appear capable of maintaining above-replacement fertility . . . like the Amish & ultra-orthodox Jews.
 

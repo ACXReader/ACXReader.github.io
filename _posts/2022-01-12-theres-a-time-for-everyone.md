@@ -2,7 +2,10 @@
 title: "There's A Time For Everyone"
 subtitle: "..."
 date: 2022-01-12
-likes: 589
+likes: 590
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/44918153/comments?&all_comments=true
+image: https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2201d07f-c04e-49b4-ad13-0fb90effee03_1296x641.jpeg
 original-url: https://www.astralcodexten.com/p/theres-a-time-for-everyone
 ---
 Last week I got married.
@@ -31,16 +34,16 @@ Chris thinks of micromarriages as a motivational tool. If you go to a party, and
 
 Twenty years and exactly one million micromarriages later, I have yet to find any better advice. Gather your micromarriages while ye may, for time is still a-flying. Do annoying things, expect them to fail, and increment a little counter in your head each time, to prevent yourself from going insane. Then do more annoying things. Teach a juggling class. Join a weird transhumanist compound. Go to one of Aella’s weird parties. There is no royal road. I’m not claiming to have super useful advice here, just to be able to say from the end of a long and very rocky path that it does eventually pay off. Or as [Lin Manuel-Miranda put it](https://www.youtube.com/watch?v=7ZY36ygpgSQ):
 
->  _I may not live to see our glory  
+> _I may not live to see our glory  
 >  But I've seen wonders great and small  
 > If Alexander can get married  
 > There's hope for our ass, after all!_
 
- **II.**
+**II.**
 
 The wedding was very nice. Maybe a bit generic: so far there’s no standardized Rationalist liturgy. A friend read [the poem](https://www.poetrynook.com/poem/creation-day) G.K. Chesterton wrote about his own wedding, which ends:
 
->  _Never again with cloudy talk  
+> _Never again with cloudy talk  
 >  Shall life be tricked or faith undone,  
 > The world is many and is mad,  
 > But we are sane and we are one._
@@ -61,9 +64,9 @@ A long time ago, I wrote [a post about bad marriages](https://slatestarcodex.com
 
 > My ex-girlfriend Ozy writes a relationship advice column. Probably taking relationship advice from an ex-girlfriend is some kind of classic mistake, but I read it anyway. They describe [five kinds of relationship problems](https://thingofthings.wordpress.com/2019/04/19/four-kinds-of-relationship-problems/) – stupid problems, basic incompatibilities, problems that are actually a different kind of problem, terrible people, and horrifying soul-sucking messes. For some reason, this taxonomy has stuck with me when all the supposedly evidence-based taxonomies I hear the social workers talk about have failed. And the horrifying soul-sucking mess category sticks with me most of all:
 > 
->  _“A problem of one of the previous types was badly managed, perhaps for years. Now, every time you have a minor argument, you bring in everything wrong that happened for your entire relationship. You don’t feel like you can trust your partner. All the quirks you used to find charming drive you up the wall. You hate even your partner’s most innocuous actions. You avoid every topic that leads to a fight, and rapidly find that you can’t discuss anything except Marvel movies and the weather. You’re defensive whenever your partner says anything that sounds like even a minor criticism. You’re sarcastic and you call them names. Somehow, when you remember good things about the past– the time you saw Hamilton together or your birthday present or being the best man at their wedding– all you can remember is the long lines at intermission, the poor wrapping job, and their incredibly rude drunk aunt. If asked to name a good trait of theirs, you draw a blank, but you can go on for hours about their flaws._
+> _“A problem of one of the previous types was badly managed, perhaps for years. Now, every time you have a minor argument, you bring in everything wrong that happened for your entire relationship. You don’t feel like you can trust your partner. All the quirks you used to find charming drive you up the wall. You hate even your partner’s most innocuous actions. You avoid every topic that leads to a fight, and rapidly find that you can’t discuss anything except Marvel movies and the weather. You’re defensive whenever your partner says anything that sounds like even a minor criticism. You’re sarcastic and you call them names. Somehow, when you remember good things about the past– the time you saw Hamilton together or your birthday present or being the best man at their wedding– all you can remember is the long lines at intermission, the poor wrapping job, and their incredibly rude drunk aunt. If asked to name a good trait of theirs, you draw a blank, but you can go on for hours about their flaws._
 > 
->  _I guess it might be in theory possible to fix a horrifying soul-sucking mess with a lot of hard work, but to be honest every time I’ve seen a person in one of those relationships they were a lot better and happier and stronger as people as soon as they ended it.”_
+> _I guess it might be in theory possible to fix a horrifying soul-sucking mess with a lot of hard work, but to be honest every time I’ve seen a person in one of those relationships they were a lot better and happier and stronger as people as soon as they ended it.”_
 
 Later, I drew on this same idea when I was talking about [trapped priors](https://astralcodexten.substack.com/p/trapped-priors-as-a-basic-problem):
 
@@ -85,4 +88,4 @@ The [first virtue is curiosity](https://www.yudkowsky.net/rational/virtues). And
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0a854ab8-f32a-451c-8b66-58702385f5cf_399x378.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0a854ab8-f32a-451c-8b66-58702385f5cf_399x378.png)
 
- _[I’m on honeymoon this week; expect fewer posts and slower replies to emails]_
+_[I’m on honeymoon this week; expect fewer posts and slower replies to emails]_

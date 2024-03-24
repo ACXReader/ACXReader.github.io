@@ -3,6 +3,9 @@ title: "Birth Order Effects: Nature vs. Nurture"
 subtitle: "..."
 date: 2022-06-01
 likes: 109
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/56983266/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/92f7e4b6-4f9f-4fdc-93d5-89aa0946883c_1040x600.jpeg
 original-url: https://www.astralcodexten.com/p/birth-order-effects-nature-vs-nurture
 ---
 ### Introduction
@@ -57,21 +60,21 @@ I additionally tried to compare two different types of social firstbornness - on
 
 Since I wasn’t very confident in my analytical abilities here, I asked Bucky, who knows more and who did good work analyzing the last dataset, to look into this (we worked independently and didn’t tell each other our results until we were done). He writes:
 
->  _It seems to me that the effect is entirely caused by social siblings._
+> _It seems to me that the effect is entirely caused by social siblings._
 > 
->  _I filtered for only people with 1+ biological but 0 social siblings. There were 24 oldest biological children in this group vs 21 2nd children (or 25 youngest children with a large overlap between 2nd oldest and youngest groups). This significantly differed from the ~0.7 fraction of older children in the general surveys (p <0.05 or p<0.01 depending on whether I use the 2nd oldest or youngest as the comparison) and is close to a 1:1 ratio._
+> _I filtered for only people with 1+ biological but 0 social siblings. There were 24 oldest biological children in this group vs 21 2nd children (or 25 youngest children with a large overlap between 2nd oldest and youngest groups). This significantly differed from the ~0.7 fraction of older children in the general surveys (p <0.05 or p<0.01 depending on whether I use the 2nd oldest or youngest as the comparison) and is close to a 1:1 ratio._
 > 
->  _I then filtered for only people with 0 biological but 1+ social siblings. There were 51 oldest social children and 23 2nd children (or 26 youngest children again with large overlap). This differs significantly from a 1:1 ratio (p <0.001 or p<0.01) and matches pretty well with the 70% of the Birth order effect._
+> _I then filtered for only people with 0 biological but 1+ social siblings. There were 51 oldest social children and 23 2nd children (or 26 youngest children again with large overlap). This differs significantly from a 1:1 ratio (p <0.001 or p<0.01) and matches pretty well with the 70% of the Birth order effect._
 > 
->  _I tried doing some filtering by age gap (2-7 years) and the results were compatible with the same result, although the sample sizes got too small to really conclude anything._
+> _I tried doing some filtering by age gap (2-7 years) and the results were compatible with the same result, although the sample sizes got too small to really conclude anything._
 > 
->  _For dealing with answers left blank I treated them as 0 unless it looked like the whole section had been missed out. If I ignored any respondents who left something blank I got similar results (smaller sample size but ratios are even further in favour of the social hypothesis)._
+> _For dealing with answers left blank I treated them as 0 unless it looked like the whole section had been missed out. If I ignored any respondents who left something blank I got similar results (smaller sample size but ratios are even further in favour of the social hypothesis)._
 > 
->  _I checked for categorisation errors by looking at respondents’ descriptions of their families and they mainly matched pretty well with the numbers given so I think the data should be considered reliable. I did chuck a couple of results out which seemed unreliable and there was one row which was a repeat so your numbers might not match up exactly (plus you have the non-public data)._
+> _I checked for categorisation errors by looking at respondents’ descriptions of their families and they mainly matched pretty well with the numbers given so I think the data should be considered reliable. I did chuck a couple of results out which seemed unreliable and there was one row which was a repeat so your numbers might not match up exactly (plus you have the non-public data)._
 > 
->  _There are a couple of confounders in the analysis such as whether e.g. oldest children are more likely to be adopted or how much you know about your birth family depending on how old one was when the family unit changed etc. I don’t see a realistic way to account for these but I also can’t see any of them being big enough to explain the difference in the results._
+> _There are a couple of confounders in the analysis such as whether e.g. oldest children are more likely to be adopted or how much you know about your birth family depending on how old one was when the family unit changed etc. I don’t see a realistic way to account for these but I also can’t see any of them being big enough to explain the difference in the results._
 > 
->  _Hopefully this matches up with what you found!_
+> _Hopefully this matches up with what you found!_
 
 I think this suggests birth order effects are social rather than biological.
 
@@ -104,7 +107,7 @@ Some previous studies suggested that twins just did worse in general, probably b
 
 ### Implications
 
-If birth order effects are due to parental investment, it would be pretty surprising. The current scientific consensus is that parental investment in the early years of life doesn’t really increase IQ or educational attainment during adulthood. That is, the shared environment has minimal to no effect on later life outcomes (see eg Bryan Caplan’s book _[Selfish Reasons To Have More Kids](https://www.npr.org/2011/04/22/135612560/selfish-reasons-for-parents-to-enjoy-having-kids)_ ). It’s generally agreed that people can put away the Advanced Baby Einstein Educational Toys and just chill.
+If birth order effects are due to parental investment, it would be pretty surprising. The current scientific consensus is that parental investment in the early years of life doesn’t really increase IQ or educational attainment during adulthood. That is, the shared environment has minimal to no effect on later life outcomes (see eg Bryan Caplan’s book _[Selfish Reasons To Have More Kids](https://www.npr.org/2011/04/22/135612560/selfish-reasons-for-parents-to-enjoy-having-kids)_). It’s generally agreed that people can put away the Advanced Baby Einstein Educational Toys and just chill.
 
 This research challenges those assumptions. If it’s right, the difference in parental attention between an only child and a child with siblings seems to have noticeable effects later in life.
 

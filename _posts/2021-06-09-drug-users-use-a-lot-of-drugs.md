@@ -3,6 +3,9 @@ title: "Drug Users Use A Lot Of Drugs"
 subtitle: "..."
 date: 2021-06-09
 likes: 163
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37403450/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a1bc8403-47ad-41ae-af02-19e4fca7e206_2000x1334.jpeg
 original-url: https://www.astralcodexten.com/p/drug-users-use-a-lot-of-drugs
 ---
 **I.**
@@ -17,7 +20,7 @@ There is one (1) [case report](https://sci-hub.st/10.1016/j.urology.2007.11.141)
 
 Same with the cognitive risks of ketamine. See eg [Controversies of the effect of ketamine on cognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809869/), which is speaking for the psychiatric consensus when it says that "Although ketamine might seem like a promising antidepressant that could relieve treatment refractory depressive symptoms, the induction of memory impairments in the longer term is of concern". Against this, I present [Morgan, Muetzelfeldt, and Curran](https://sci-hub.st/https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1360-0443.2009.02761.x), who study ketamine abusers for one year. They find that severe abusers, who are taking an average of 60,000 mg/month, experience cognitive problems. But mild abusers, who take more like 3,500 mg/month, don't. Again, psychiatric patients are taking about 280 mg/month. I think this is pretty strong evidence that the psych patients shouldn’t worry that much.
 
- **II.**
+**II.**
 
 Every so often somebody realizes that there's not much chemical difference between methamphetamine and Adderall. Then they freak out that we give ADHD kids Adderall all the time. Isn't that like giving them crystal meth?
 
@@ -31,7 +34,7 @@ The average crystal meth addict [uses](https://sci-hub.se/10.1300/j069v21n01_04)
 
 I recently had a patient stop their Adderall after reading [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5307374/) on how amphetamines appear to accelerate cardiovascular aging. The study was done on polysubstance abusers who were probably taking 50x higher doses than they were. [This Reuters article on the study](https://www.reuters.com/article/us-health-amphetamines-heart-aging/speed-and-other-recreational-stimulants-tied-to-heart-damage-idUSKBN15U2FO) actually gets this exactly right, and has an interview with an expert saying the doses are so high that it can't be extended to clinical practice. I don't want to claim total victory here, because nobody's done a study on clinical users proving they _don't_ get accelerated aging. But given the high doses necessary to produce the small effects found in the original paper, I'm not losing sleep.
 
- **III.**
+**III.**
 
 In general, recreational drug users take their drugs at doses so much higher than psychiatric patients that they're basically two different chemicals. A lot of our impressions of drugs, what side effects they have, and how dangerous they are, get shaped by the recreational users, not the patients. This is sometimes even true for the doctors who are supposed to prescribe to the patients and give them good advice. While studies of recreational user populations can sometimes be helpful in flagging an issue for consideration, we should be judging the clinical risks based on studies of clinical populations.
 

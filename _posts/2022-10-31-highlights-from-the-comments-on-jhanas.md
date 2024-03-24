@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Jhanas"
 subtitle: "\"I think it’s the first time half the commenters accused the other half of lying\""
 date: 2022-10-31
 likes: 89
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/81472681/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1593a2fb-c4d9-494c-b37e-51b592057f52_680x563.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-jhanas
 ---
 _[Original post[here](https://astralcodexten.substack.com/p/highlights-from-the-comments-on-jhanas)]_
@@ -173,7 +176,7 @@ Paul T [writes](https://astralcodexten.substack.com/p/nick-cammarata-on-jhana/co
 > 
 > This 2013 paper, [Case Study of Ecstatic Meditation: fMRI and EEG Evidence of Self-Stimulating a Reward System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3659471/) seems to get at the question Scott is posing about which reward machinery is being triggered, using MRI to investigate. In particular they substantiate this hypothesis:
 > 
->  _> H5: Jhanas should show increased activation compared to the rest state in the dopamine reward system of the brain (NAc in the ventral striatum and medial OFC). A broad range of external rewards stimulate this system (food, sex, beautiful music, and monetary awards), so extreme joy in jhana may be triggered by the same system (the VTA is also part of this system, but is too small to image with standard fMRI methods, but see [35] for successful imaging methods)._
+> _> H5: Jhanas should show increased activation compared to the rest state in the dopamine reward system of the brain (NAc in the ventral striatum and medial OFC). A broad range of external rewards stimulate this system (food, sex, beautiful music, and monetary awards), so extreme joy in jhana may be triggered by the same system (the VTA is also part of this system, but is too small to image with standard fMRI methods, but see [35] for successful imaging methods)._
 > 
 > Ok, now what does this mean for Scott's quesitons? I'm far from an expert here, but stitching this together with [this comment](https://astralcodexten.substack.com/p/highlights-from-the-comments-on-unpredictable):
 >

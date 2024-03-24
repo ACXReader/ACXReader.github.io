@@ -3,6 +3,9 @@ title: "More Thoughts On Critical Windows"
 subtitle: "..."
 date: 2023-08-24
 likes: 126
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/136056609/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/051c8b7c-fe93-440b-9c7a-8d8ba02442d9_1000x625.png
 original-url: https://www.astralcodexten.com/p/more-thoughts-on-critical-windows
 ---
 On [the fetish post](https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us), I discussed people who had some early sexual experience - like seeing a sexy cartoon character - and reacted in some profound way, like becoming a furry. Sometimes people have described this as a “critical window” for sexuality (similar to the “critical period” [in language learning?](https://astralcodexten.substack.com/p/critical-periods-for-language-much)) where young children “imprint” on sexual experiences - and then can’t un-imprint on them later, even when they see many examples of sex that don’t involve cartoon animals. 

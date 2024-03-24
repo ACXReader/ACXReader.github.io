@@ -3,6 +3,9 @@ title: "Practically-A-Book Review: Yudkowsky Contra Ngo On Agents"
 subtitle: "..."
 date: 2022-01-19
 likes: 103
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/46108556/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b830584c-191c-47b7-adbc-63184d7753d6_920x640.png
 original-url: https://www.astralcodexten.com/p/practically-a-book-review-yudkowsky
 ---
 **I.**
@@ -17,7 +20,7 @@ Over the past few months, he and his friends have worked on transforming this ge
 
 I've been trying to trudge through them and I figure I might as well blog about the ones I've finished. The first of these is Eliezer's talk with Richard Ngo, of OpenAI's Futures team. You can find the full transcript [here](https://www.lesswrong.com/posts/7im8at9PmhbT4JHsW/ngo-and-yudkowsky-on-alignment-difficulty), though be warned: it is very long.
 
- **II.**
+**II.**
 
 Both participants seem to accept, if only for the sake of argument, some very strong assumptions right out of the gate.
 
@@ -45,7 +48,7 @@ His thinking is something like: it’s very hard to make a fully-aligned AI that
 
 This is the hypothesis he's putting forth, but in the end he thinks this second thing is also extremely hard. The basis of the rest of the debate is Richard arguing eh, maybe there's an easy way to do the second thing, and Eliezer arguing no, there really isn't.
 
- **III.**
+**III.**
 
 Richard's side of the argument is in some ways a recapitulation of Eric Drexler's argument about tool AIs. This [convinced me when I first read it](https://slatestarcodex.com/2019/08/27/book-review-reframing-superintelligence/), but Eliezer's counterargument here has unconvinced me. Let's go over it again.
 
@@ -133,7 +136,7 @@ I think this “connect model to output device” is what Eliezer means by “on
 
 Would we get that one line of shell command? _Maybe_ not; this is honestly less bad than a lot of “controlling superintelligent AI” situations, because the AI isn’t actively trying to add that line of code to itself. But I think Eliezer’s fear is that we train AIs by blind groping towards reward (even if sometimes we call it “predictive accuracy” or something more innocuous). If the malevolent agent would get more reward than the normal well-functioning tool (which we’re assuming is true; it can do various kinds of illicit reward hacking), then applying enough gradient descent to it could accidentally complete the circuit and tell it to use its agent model.
 
- **IV.**
+**IV.**
 
 There was one other part of this conversation I found interesting, for reasons totally unrelated to AI. As part of their efforts to pin down this idea of “agency”, Eliezer and Richard talked about brains, eventually narrowing themselves down to the brain of a cat trying to catch a mouse. 
 
@@ -171,7 +174,7 @@ I think I might have jumped in my chair or something when reading this part, bec
 
 And Eliezer’s (implied) answer here is “these are just two different plans; whichever one worked well at producing reward in the past gets stronger; whichever one worked less well at producing reward in the past gets weaker”. The decision between “seek base gratification” and “be your best self” works the same way as the decision between “go to McDonalds” and “go to Pizza Hut”; your brain weights each of them according to expected reward.
 
- **V.**
+**V.**
 
 This is a weird dialogue to start with. It grants so many assumptions about the risk of future AI that most of you probably think _both_ participants are crazy.
 

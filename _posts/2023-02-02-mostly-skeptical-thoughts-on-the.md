@@ -3,6 +3,9 @@ title: "Mostly Skeptical Thoughts On The Chatbot Propaganda Apocalypse"
 subtitle: "..."
 date: 2023-02-02
 likes: 173
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/99416850/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/3cbddcee-af35-4f1f-8c00-8bf6ec7935a1_2600x1500.png
 original-url: https://www.astralcodexten.com/p/mostly-skeptical-thoughts-on-the
 ---
 People worry about chatbot propaganda.
@@ -17,9 +20,9 @@ But some people have more sophisticated concerns. [Philosophy Bear discusses ](h
 
 I think of this as separating into two scenarios:
 
- **Medium Bad Scenario:** Chatbots will show up in your Twitter replies and DMs, posing as friendly people trying to inform you of the dangers of COVID vaccines. If you bite, they’ll hold your hand as they walk you through anti-vaccine arguments, answering your questions and responding to your objections. Not only does this mean the disinformation will come to you (instead of you having to go to it), but it will directly target the weaknesses in your arguments and the places you’re most uncertain.
+**Medium Bad Scenario:** Chatbots will show up in your Twitter replies and DMs, posing as friendly people trying to inform you of the dangers of COVID vaccines. If you bite, they’ll hold your hand as they walk you through anti-vaccine arguments, answering your questions and responding to your objections. Not only does this mean the disinformation will come to you (instead of you having to go to it), but it will directly target the weaknesses in your arguments and the places you’re most uncertain.
 
- **Very Bad Scenario:** Half of your online friends - the people you’ve known for months or years, the people whose Twitter and Instagram accounts you follow and trust - are secretly propagandabots, designed by some company or movement to catch your interest. Most of their content will be really good. But every so often they’ll drop in a reference to how their grandmother got a COVID vaccine and died instantly, and the ordinary social reasoning we use to figure out what our friends and role models think will be hopelessly poisoned.
+**Very Bad Scenario:** Half of your online friends - the people you’ve known for months or years, the people whose Twitter and Instagram accounts you follow and trust - are secretly propagandabots, designed by some company or movement to catch your interest. Most of their content will be really good. But every so often they’ll drop in a reference to how their grandmother got a COVID vaccine and died instantly, and the ordinary social reasoning we use to figure out what our friends and role models think will be hopelessly poisoned.
 
 Bear is a leftie, and thinks about [thinks about this through a class-based lens](https://philosophybear.substack.com/p/bots-a-brief-warning-for-the-left):
 
@@ -29,7 +32,7 @@ Bear is a leftie, and thinks about [thinks about this through a class-based lens
 
 I worry about this more than I worry about Berenson-bot, but I don’t feel the same kind of panic Philosophy Bear does. Overall I think it will happen to a very limited degree or not at all:
 
- **1: There Are Already Plenty Of Social Anti-Bot Filters**
+**1: There Are Already Plenty Of Social Anti-Bot Filters**
 
 In a sense, I’m living in the chatbot apocalypse already.
 
@@ -39,7 +42,7 @@ Even non-famous people seem to have sorted into insular social media communities
 
 Maybe this is too glib. I do sometimes see people respond to random bad-faith objections in their Twitter replies. But these people are already in Hell. I don’t know how chatbots can add to or subtract from their suffering. Still, this is a hole in my mental map now, and maybe a place where chatbots can cause mischief.
 
- **2: …And Technological Anti-Bot Filters**
+**2: …And Technological Anti-Bot Filters**
 
 I’m not sure how long CAPTCHAs will work for. It wouldn’t surprise me if they kept working for a while - even if some advanced AI somewhere can defeat all possible CAPTCHAs, propaganda-botnet owners might not be able to deploy it at scale. Still, we should be prepared for a world where they’re not enough.
 
@@ -51,7 +54,7 @@ The argument isn’t that these particular solutions would definitely work. It�
 
 I’m more worried about corporations and governments using bots as an excuse to strip users of privacy than I am about there being no privacy-stripping solution that maintains a usable online environment.
 
- **3: Fear Of Backlash Will Limit Adoption**
+**3: Fear Of Backlash Will Limit Adoption**
 
 In order to be dangerous, chatbots will need to build close personal relationships with you, then exploit them to change your opinions.
 
@@ -63,7 +66,7 @@ Israel has a program called Hasbara where they get volunteers to support Israel 
 
 Don’t get me wrong - I think companies, PR firms, and governments will have chatbots that push their messages. But I think they might shy away from the full strategy of trying to become your friend under false pretenses.
 
- **4: Propagandabots Spreading Disinformation Is Probably The Opposite Of What You Should Worry About**
+**4: Propagandabots Spreading Disinformation Is Probably The Opposite Of What You Should Worry About**
 
 News articles about this problem always start with the same scenario: what if someone made a propagandabot to spread COVID disinformation, ie the most unpopular topic in the world, which every government and social media corporation and AI corporation is itching to censor?
 
@@ -79,9 +82,9 @@ From [the comments](https://astralcodexten.substack.com/p/mostly-skeptical-thoug
 > 
 > The abstract ends with:
 > 
->  _“Based on the above findings, we suggest cultivating individuals’ media literacy in terms of distinguishing malicious social bots as a potential solution to deal with social bot skeptics disguised as humans, as well as making use of benign social bots for science popularization.”_
+> _“Based on the above findings, we suggest cultivating individuals’ media literacy in terms of distinguishing malicious social bots as a potential solution to deal with social bot skeptics disguised as humans, as well as making use of benign social bots for science popularization.”_
 
- **5: Realistically This Will All Be Crypto Scams**
+**5: Realistically This Will All Be Crypto Scams**
 
 Sorry, I just thought of this one, but it’s obviously true. All of this talk of politics and propaganda and misinformation and censorship ignores the fact that the most likely main use of any new chatbot technology will be the same as existing spambots, which is promoting crypto scams. 
 
@@ -93,7 +96,7 @@ Also, realistically the bots will all be hot women, and anyone who isn’t a hot
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c8dfa44-92ad-45ab-a44a-9fdda03ad6f6_807x297.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c8dfa44-92ad-45ab-a44a-9fdda03ad6f6_807x297.png)If you can resist responding to this message from someone in a bikini pic, you’re probably fine.
 
- **6: I Do Think This Might Decrease Serendipitous Friendship, Though**
+**6: I Do Think This Might Decrease Serendipitous Friendship, Though**
 
 One time a hot woman messaged me on Facebook saying she wanted to be my friend. I almost blocked her - obvious spam, right? - but she was able to say “. . . because I read your blog” before I hit the block button. I figured this was beyond a spambot’s ability, so we kept talking and had a good conversation.
 
@@ -103,7 +106,7 @@ If chatbots get good, I expect to block more people in those kinds of situations
 
 This might not be a strong effect. This will be something people don’t like, and both normal human social organization instincts and social media corporate giants will try to find ways around it. But it might make the difference in some marginal cases, like the one above.
 
- **7: You Can Solve For The Equilibrium**
+**7: You Can Solve For The Equilibrium**
 
 [![Constructive](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0e7b175-7961-43fa-8077-d114c2f99bd0_740x265.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0e7b175-7961-43fa-8077-d114c2f99bd0_740x265.png) Source: [XKCD](https://xkcd.com/810/)
 
@@ -117,7 +120,7 @@ But the better chatbots are as friends, influencers, and debate partners, the mo
 
 I don’t want to speculate on exactly how this would work: it gets too close to the original idea of the Singularity in the sense of “a point where crazy things are happening so fast it’s not worth trying to predict”.
 
- **Conclusion And Predictions**
+**Conclusion And Predictions**
 
 I’m nervous writing this, because I remember the halcyon days of the early 2000s, when we all assumed the Internet would be a force for reason and enlightenment. Surely if everyone were just allowed to debate everyone else, without intervening barriers of race or class or religion, the best arguments would rise to the top and we would enter a new utopia of universal agreement.
 

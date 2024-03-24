@@ -3,6 +3,9 @@ title: "Book Review: Which Country Has The World's Best Health Care?"
 subtitle: "..."
 date: 2022-01-19
 likes: 171
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/47284248/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/729bdc15-fbd7-4959-a7fc-83a47f3f4627_575x381.png
 original-url: https://www.astralcodexten.com/p/book-review-which-country-has-the
 ---
 **I.**
@@ -13,7 +16,7 @@ Our guide to this question will be _[Which Country Has The World’s Best Health
 
 Still, Emanuel is one of a very few people qualified to compare international health systems. And he claims additional expertise at ranking things, saying:
 
->  _Which country has the world’s best health system? This is the type of question I usually love. I rank everything. I rank the 10 best meals I’ve ever had (#1 Alinea in Chicago, #2 Tanja Grandits in Basel, and #3 OCD in Tel Aviv). I rank chocolates (#1 Askinosie, #2 Dick Taylor of California, and #3 Fruition of New York. I rank Alpine cheeses (#1 is a tie between Alpha Tolman and Alp Blossom). I rank colleges. I rank academic departments of bioethics and health policy that compete with my own. I rank the meals I cook, the races I run, the bike rides I take, the speeches I give._
+> _Which country has the world’s best health system? This is the type of question I usually love. I rank everything. I rank the 10 best meals I’ve ever had (#1 Alinea in Chicago, #2 Tanja Grandits in Basel, and #3 OCD in Tel Aviv). I rank chocolates (#1 Askinosie, #2 Dick Taylor of California, and #3 Fruition of New York. I rank Alpine cheeses (#1 is a tie between Alpha Tolman and Alp Blossom). I rank colleges. I rank academic departments of bioethics and health policy that compete with my own. I rank the meals I cook, the races I run, the bike rides I take, the speeches I give._
 
 So: which country has the world’s best health care? 
 
@@ -25,15 +28,15 @@ But partly it’s because all national health systems are surprisingly similar. 
 
 But after a valiant effort, Emanuel managed to distinguish five general types of health care system (Table 12-2 on page 364).
 
- **1:** **Socialized Medicine,** where the government runs everyone’s insurance _and_ most hospitals and clinics, ie it’s the main employer for doctors and other health professionals. Of the 11 countries studied, only the UK does this in general, although the Veterans Affairs system does it at a smaller scale in the US.
+**1:** **Socialized Medicine,** where the government runs everyone’s insurance _and_ most hospitals and clinics, ie it’s the main employer for doctors and other health professionals. Of the 11 countries studied, only the UK does this in general, although the Veterans Affairs system does it at a smaller scale in the US.
 
- **2: Single Payer With Very Limited Private Insurance** is typical of Canada, China, Norway, and Taiwan. The government runs everyone’s insurance. But doctors, hospitals, etc can be independent businesses or nonprofits. They negotiate some kind of payment rate with the national insurance, who reimburses them. This is similar to how Medicare works in the US.
+**2: Single Payer With Very Limited Private Insurance** is typical of Canada, China, Norway, and Taiwan. The government runs everyone’s insurance. But doctors, hospitals, etc can be independent businesses or nonprofits. They negotiate some kind of payment rate with the national insurance, who reimburses them. This is similar to how Medicare works in the US.
 
- **3: Single Payer With Substantial Private Insurance** is typical of Australia and France. It works as above, except that citizens can buy private insurance which purports to be better than the standard government insurance in some way. For example, in Australia sometimes the private insurance has shorter waiting times, or can get you nicer rooms in more luxurious hospitals. Often the same doctors and hospitals treat the government and private patients, but give the private patients more time and resources, which leads to resentment and scandals. On the other hand, the private patients sometimes subsidize the public ones - ie a hospital charges extra for private patients and uses that to make up a funding shortfall if the government doesn’t pay them enough.
+**3: Single Payer With Substantial Private Insurance** is typical of Australia and France. It works as above, except that citizens can buy private insurance which purports to be better than the standard government insurance in some way. For example, in Australia sometimes the private insurance has shorter waiting times, or can get you nicer rooms in more luxurious hospitals. Often the same doctors and hospitals treat the government and private patients, but give the private patients more time and resources, which leads to resentment and scandals. On the other hand, the private patients sometimes subsidize the public ones - ie a hospital charges extra for private patients and uses that to make up a funding shortfall if the government doesn’t pay them enough.
 
- **4: Single Payer Channeled Through Private Insurance** is typical of Germany and the Netherlands. I think this is kind of like how charter schools work in the US: the government pays 100% of your costs, but you get to choose which insurance company (out of various heavily-regulated and basically identical plans) to go with. Then the insurance company pays private doctors and hospitals as usual. 
+**4: Single Payer Channeled Through Private Insurance** is typical of Germany and the Netherlands. I think this is kind of like how charter schools work in the US: the government pays 100% of your costs, but you get to choose which insurance company (out of various heavily-regulated and basically identical plans) to go with. Then the insurance company pays private doctors and hospitals as usual. 
 
-**5: Individuals Purchase Private Insurance** _ ****_ is typical of the US and Switzerland. Individuals use their own money to buy insurance from private companies, which may be ambiguously-for-profit-but-heavily-regulated (some US companies) or not-for-profit (other US companies, Switzerland). If someone can’t afford to do this, they might get government subsidies (Switzerland) or get shunted to Medicaid / be out of luck (US). Those private insurances negotiate rates with private doctors and hospitals as normal.
+**5: Individuals Purchase Private Insurance** _****_ is typical of the US and Switzerland. Individuals use their own money to buy insurance from private companies, which may be ambiguously-for-profit-but-heavily-regulated (some US companies) or not-for-profit (other US companies, Switzerland). If someone can’t afford to do this, they might get government subsidies (Switzerland) or get shunted to Medicaid / be out of luck (US). Those private insurances negotiate rates with private doctors and hospitals as normal.
 
 How do the various systems compare?
 
@@ -51,7 +54,7 @@ Single-payer implemented through private insurance - Germany and the Netherlands
 
 I’m also surprised this doesn’t get brought up more in discussions of US health reform. Medicare For All asks that we go from one of the most privatized health systems in the world to one of the most socialized, leapfrogging over successful semiprivate ones like Germany and the Netherlands. This is especially odd since those systems seem to be some of the best performers. Why would this be tempting? Absent a theory of why Germany and the Netherlands work so much better than the US, I’m not sure.
 
- **II.**
+**II.**
 
 Two other features of health systems caught my eye: drug price regulation and general budget setting.
 
@@ -71,7 +74,7 @@ I spent a long time staring at this system trying to figure out how it could pos
 
 Overall I got the impression that health care was a bizarro-world where normal economics doesn’t apply. If you have the courage to say loudly and firmly “we refuse to pay a high price for this”, then providers _have_ to give you a low price, and your health care system will be great and affordable. Seems hard to believe, but the US sure does pay twice as much per capita as countries that go with the “loudly refuse to pay more than a certain amount” strategy. I would have appreciated a book by a more economically-minded person explaining why things are like this. Or maybe not; maybe it’s like quantum physics, and the second someone looks at it too closely, the whole structure will collapse, every hospital in the world will go bankrupt, and we’ll have to get our medical problems treated by wolves.
 
- **III.**
+**III.**
 
 Emanuel deserves a lot of praise for writing this book. It’s hard to find good information on different health care systems outside of incomprehensible technical papers. This book was detailed, thorough, and got me to start investigating a field I’d been putting off learning about.
 

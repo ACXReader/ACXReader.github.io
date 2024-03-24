@@ -3,11 +3,14 @@ title: "Book Review: Modi - A Political Biography"
 subtitle: "..."
 date: 2021-09-14
 likes: 159
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/41204726/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/188d9610-a735-467a-81b4-e1b04a816997_419x241.png
 original-url: https://www.astralcodexten.com/p/book-review-modi-a-political-biography
 ---
 **I.**
 
-I have a friend who studied the history of fascism. She gets angry when people call Trump (or some other villain _du jour_ ) fascist. "Words have meanings! Fascism isn't just any right-winger you dislike!" Maybe she takes this a little too far; by a strict definition, she's not even sure Franco qualifies. 
+I have a friend who studied the history of fascism. She gets angry when people call Trump (or some other villain _du jour_) fascist. "Words have meanings! Fascism isn't just any right-winger you dislike!" Maybe she takes this a little too far; by a strict definition, she's not even sure Franco qualifies. 
 
 Anyway, I mention this because she says Narendra Modi, the current prime minister of India, is absolutely, literally, a fascist.
 
@@ -25,7 +28,7 @@ Alas, M:APB is absolutely a hagiography. The author begins by writing about how 
 
 I am still going to summarize and review this book, but I recommend thinking of it as Modi's autobiography, ghost-written by Andy Marino. I hope to eventually find another book which presents a different perspective, and an update for the past six years (M:APB ends in 2014, right when Modi was elected PM). Until then, think of M:ABP as a look into how Modi sees himself, and how he wants you to see him.
 
- **II.**
+**II.**
 
 Narendra Modi wants you to see him as a fantasy novel protagonist.
 
@@ -47,7 +50,7 @@ They made him an entry-level party apparatchik in the nearby city of Ahmedabad. 
 
 > If I was the person that cleans the car, I made sure to clean the car very nicely, so that even my boss thought: "That is a good boy, teach him to drive, he will be useful for our driving." Then I become a driver. So basically, whichever assignment is given to me, at that point of time, I am totally involved in it. I never think about my past, I never think about my future.
 
- **III.**
+**III.**
 
 In 1975 the Emergency happened.
 
@@ -75,7 +78,7 @@ How did this end? Gandhi called an election - during which she was predictably v
 
 Modi came out of the Emergency a rising star, appreciated by all for his logistical role in the Resistance. In the newly open political climate, the RSS was devoting more attention to their political wing and asked Modi to come on as a sort of campaign-manager-at-large, who would travel all around India and help friendly politicians get elected. He turned out to be really good at this, and rose through the ranks until he was one of the leading lights of the new BJP (Bharatiya Janata Party, "Indian People's Party"). He spent the next two decades running campaigns, traveling the country, and getting involved in internal backstabbing (which he had a habit of losing in ways that got him kicked out of the party just before something terrible happened, leaving him as the only person untarnished by the terrible thing when they inevitably invited him back). Finally some of Modi's political enemies failed badly in the leadership of Gujarat - one was expelled for corruption, another suffered several natural disasters which he responded to poorly. Modi had been accepted back into the party. He was beloved by Gujaratis, who still remembered his heroic work during the Resistance. He was the only person untarnished by various terrible things. By the rules of Indian politics, it was the party's choice who would replace the resigning incumbent as Chief Minister of Gujarat, and as Modi tells it, everyone else just kind of agreed he was the natural choice (his enemies say he did various scheming and backstabbing at this point). So on October 7 2001, Narendra Modi was sworn in as Chief Minister of Gujarat, India's fifth-largest state.
 
- **IV.**
+**IV.**
 
 The book pauses here to give us Narendra Modi's view of Indian politics.
 
@@ -107,7 +110,7 @@ Modi describes spending his years of campaign consultancy trying to figure out a
 
 The solution he finally settled on was free market capitalism. As he tells it, as long as the pie is a fixed size, everyone will always fight viciously over their share. If you can get the pie growing, people will calm down and focus on making money. Over the preceding fifty years of Congress-led socialism and the "License Raj", India's GDP had grown at a pathetic 3% / year, which snarky observers called "the Hindu rate of growth". If he could get the market moving again, maybe he could turn India into a genuinely secular state where people had aspirations beyond getting a few more of those sweet affirmative action slots for your own group.
 
- **V.**
+**V.**
 
 Four months after Modi became chief minister of Gujarat, there was a terrible riot. Muslims set a train car full of Hindu pilgrims on fire, and mobs of vengeful Hindus went around murdering Muslims for days, with further outbreaks continuing for weeks. By the time everything was done, 790 Muslims and 254 Hindus had died.
 
@@ -151,7 +154,7 @@ So how did Modi become famous enough to use the position as a springboard to nat
 
 Also, Modi had spent most of his career as a campaign manager and was widely considered the best one in India, which probably didn't hurt his own efforts. He was elected Prime Minister with, as usual, a landslide majority - at which point the book ends.
 
- **VI.**
+**VI.**
 
 As an entry in the Dictator Book Club, this book leaves a lot to be desired. For one thing, it ends before Modi gets enough national power to really start threatening democratic institutions. For another, even if he did start threatening democratic institutions, I wouldn't trust Andy Marino to tell me about it. I hope to find a more complete and balanced biography later. In the meantime, what can we conclude?
 

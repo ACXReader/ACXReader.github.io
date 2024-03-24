@@ -3,6 +3,9 @@ title: "Adumbrations Of Aducanumab"
 subtitle: "Is the FDA too lax? Do bears go to the bathroom in spotless marble-floored lavatories? Is the Pope an Anabaptist?"
 date: 2021-08-05
 likes: 256
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39483408/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f1def55e-ef15-420b-b577-95f59f3fe281_400x214.png
 original-url: https://www.astralcodexten.com/p/adumbrations-of-aducanumab
 ---
 Lots of people have been writing about aducanumab, but [this ](https://www.theatlantic.com/health/archive/2021/07/americas-drug-approval-system-unsustainable/619422/)_[Atlantic](https://www.theatlantic.com/health/archive/2021/07/americas-drug-approval-system-unsustainable/619422/)_[ article in particular](https://www.theatlantic.com/health/archive/2021/07/americas-drug-approval-system-unsustainable/619422/) bothers me.
@@ -15,7 +18,7 @@ Given that the FDA fast-track approved a sketchy drug which probably doesn’t w
 
 While I acknowledge that aducanumab probably sucks, I think the _Atlantic_ article and its global warming metaphor are totally off base. Nobody in the “FDA is too strict” camp has written a rebuttal yet, so I want to try my hand at this.
 
- **The FDA Is Still Much Too Strict**
+**The FDA Is Still Much Too Strict**
 
 The _Atlantic_ article says that “The FDA’s standards began to slide in the late 1980s and early ’90s” with the fast-track approval of AIDS drugs:
 
@@ -33,7 +36,7 @@ That’s a kind of hand-wavey verbal argument. But doctors, epidemiologists, and
 
 And these kinds of analyses, while good, can only count the drugs we know about. The real cost is the thousands of life-saving medications that are stillborn because nobody wants to go through the literally-one-billion-dollars-per-drug FDA approval process.
 
- **Ranting About The FDA For A Bunch Of Paragraphs**
+**Ranting About The FDA For A Bunch Of Paragraphs**
 
 The _Atlantic_ article doesn’t really include a cost-benefit analysis. But it does mention a couple of examples of times when lax FDA decisions seemed bad, for example when they “approved saline breast implants despite safety concerns”. I feel like this should give me the right to describe a couple of _my_ least favorite FDA decisions, so we can see whether they’re more or less convincing than the breast implant thing.
 
@@ -59,7 +62,7 @@ _A while back I learned about cholestasis in infant Short Bowel Syndrome, a rare
 
 …anyway, _The Atlantic_ says the FDA needs to be stricter and wait longer to approve things, and I am against this.
 
- **But How Can The FDA Be Too Strict And Not Strict Enough At The Same Time?**
+**But How Can The FDA Be Too Strict And Not Strict Enough At The Same Time?**
 
 Very easily! Lots of things are too strict and not strict enough at the same time! I wrote [a whole article](https://slatestarcodex.com/2014/09/17/joint-over-and-underdiagnosis/) on this! It sounds like it should be paradoxical, but it isn’t!
 
@@ -79,7 +82,7 @@ The FDA has a very hard job, and handles it with a level of badness that makes p
 
 Is there some better solution?
 
- **Sympathy For The Devil**
+**Sympathy For The Devil**
 
 I want to stress that, despite my feelings about the FDA, I don’t think individual FDA bureaucrats, or even necessarily the FDA director, consistently make stupid mistakes. I think that given their mandate - approve drugs that definitely work, reject ones that are unsafe/ineffective, expect people to freak out and demand your head if any unsafe/ineffective drug gets through, nobody will care no matter how many lifesaving treatments you delay or stifle outright - they’re doing the best they can. There are a few cases, like aducanumab, where it seems like they move a little faster than that mandate would suggest, and a few other cases, like infant nutrient fluid, where they move a little slower. But basically they are fulfilling their mandate to the best of the ability of the very smart people who work there.
 
@@ -87,7 +90,7 @@ And it’s hard to even blame the people who set the FDA’s mandate. They’re 
 
 So the long-term solution is to become a different kind of country and different sorts of people - eg [raise the sanity waterline](https://www.thebayesianconspiracy.com/2016/03/episode-two-what-is-this-sanity-waterline-you-speak-of/). This will have nice side benefits like also ending the global war on terror. But until then, are there any small changes that would help around the edges?
 
- **Unbundle FDA Approval**
+**Unbundle FDA Approval**
 
 The most plausible small change I can think of is to unbundle FDA approval.
 
@@ -135,6 +138,6 @@ People are really scared of this solution, because it introduces choice into thi
 
 This is the nightmare scenario that the existing US health system exists to avoid. I know you can think of lots of different ways that changing things could go wrong, and so can I. But I can’t stress enough how often the current system results in things going wrong that _nobody_ thought of because _the things are too stupid for anyone to even imagine they were possible_.
 
- **Final Thoughts**
+**Final Thoughts**
 
 In conclusion, and contra _The Atlantic_ , the FDA approving aducanumab is not very much like global warming at all. It is more like global warming in an alternate universe, where the government sometimes approves pollutants, and then everyone is forced to emit millions of tons of them whether they want to or not. Sometimes the government orders people to build a coal plant in the middle of the desert where nobody lives, a coal plant that isn't even connected to anything and just burns lots of coal without producing any electricity. But also, elderly people frequently freeze to death because the government refuses to give them permission to heat their house in the middle of winter. There is lively debate over whether the government should build more useless coal plants or let more elderly people freeze to death, and anyone who thinks there should be a better way of doing things is condemned as some kind of fringe libertarian. I really cannot stress enough how accurate this metaphor is or how much everything in the medical system is like this.

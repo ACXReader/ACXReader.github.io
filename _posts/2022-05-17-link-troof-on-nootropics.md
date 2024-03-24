@@ -2,7 +2,10 @@
 title: "Link: Troof On Nootropics"
 subtitle: "..."
 date: 2022-05-17
-likes: 94
+likes: 95
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/54984521/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/17e00a01-b332-42dd-a436-e6dee933c8e2_3450x1946.webp
 original-url: https://www.astralcodexten.com/p/link-troof-on-nootropics
 ---
 Should have signal-boosted this earlier, forgot, sorry.

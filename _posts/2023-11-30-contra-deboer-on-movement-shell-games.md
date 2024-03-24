@@ -3,6 +3,9 @@ title: "Contra DeBoer On Movement Shell Games"
 subtitle: "\"Lots of alcoholics want to quit in principle, but only some join AA\""
 date: 2023-11-30
 likes: 213
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/139256021/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/88ed6b71-8b6a-4bcb-80b3-fee6b833ef4d_2048x1365.jpeg
 original-url: https://www.astralcodexten.com/p/contra-deboer-on-movement-shell-games
 ---
 **Followup to:[In Continued Defense Of Effective Altruism](/p/in-continued-defense-of-effective)**
@@ -19,7 +22,7 @@ In other words, everyone agrees with doing good, so effective altruism can’t b
 
 Here are some of my objections to Freddie’s point (I already posted some of this as comments on his post):
 
- **1: It’s actually very easy to define effective altruism in a way that separates it from universally-held beliefs.**
+**1: It’s actually very easy to define effective altruism in a way that separates it from universally-held beliefs.**
 
 For example (warning: I’m just mouthing off here, not citing some universally-recognized Constitution EA Of Principles):
 
@@ -37,7 +40,7 @@ This also explains why I’m less impressed by the global poverty / x-risk split
 
 Real life keeps proving me right on this. When I talk to the average person who says “I hate how EAs focus on AI stuff and not mosquito nets”, I ask “So you’re donating to mosquito nets, right?” and [they almost never are](/p/effective-altruism-as-a-tower-of). When I talk to people who genuinely believe in the AI stuff, they’ll tell me about how they spent ten hours in front of a spreadsheet last month trying to decide whether to send their yearly donation to an x-risk charity or a malaria charity, but there were so many considerations that they gave up and donated to both.
 
- **2: Part of the role of EA is as a social technology for getting you to do the thing that everyone says they want to do in principle.**
+**2: Part of the role of EA is as a social technology for getting you to do the thing that everyone says they want to do in principle.**
 
 I talk a big talk about donating to charity. But I probably wouldn’t do it much if I hadn’t taken the [Giving What We Can pledge](https://www.givingwhatwecan.org/en-US/pledge) (a vow to give 10% of your income per year) all those years ago. It never feels like the right time. There’s always something else I need the money for. Sometimes I get unexpected windfalls, donate them to charity while expecting to also make my usual end of year donation, and then - having fulfilled the letter of my pledge - come up with an excuse not to make my usual end-of-year donation too.
 
@@ -51,7 +54,7 @@ I think this is the role of the wider community - as a sort of Alcoholics Anonym
 
 (I admit other groups have their own toolboxes of social technology to encourage doing good, including religions and political groups. Any group with any toolbox has earned the right to call themselves meaningfully distinct from the masses of vague-endorsers).
 
- **3: It’s worthwhile to distinguish the people who focus on a belief from the people who hold it**
+**3: It’s worthwhile to distinguish the people who focus on a belief from the people who hold it**
 
 Everyone wants to end homelessness. But there’s a group near me called the Coalition To End Homelessness. Are these people just virtue-signaling? Is it bad for their coalition to appropriate something everyone believes?
 
@@ -61,11 +64,11 @@ If the people in groups like that called themselves Homelessness Enders, and had
 
 I want to end homelessness, but I don’t claim to be a Homelessness Ender. It’s not something I put much thought into, or work hard on. If the Homelessness Enders tried to recruit me, I would be facing a real choice about whether to become a different kind of person who prioritizes my desire to end homelessness above other things, and who applies social pressure to myself to become the kind of person who puts significant thought and effort into the problem.
 
- **4: It’s tautological that once you take out the parts of a movement everyone agrees with, you’re left with controversial parts that many people hate.**
+**4: It’s tautological that once you take out the parts of a movement everyone agrees with, you’re left with controversial parts that many people hate.**
 
 …
 
- **5: The “uselessness” of effective altruism as a category disappears when you zoom in and notice it’s made out of parts.**
+**5: The “uselessness” of effective altruism as a category disappears when you zoom in and notice it’s made out of parts.**
 
 “Why do we need effective altruism? Everyone agrees you should do good charity!”
 
@@ -87,7 +90,7 @@ Freddie has a piece complaining that woke SJWs get angry when people call them �
 
 I was tempted to call this post “Please Just F@#king Tell Me What Term I Am Allowed To Use For The Sweeping Social And Political Changes I Demand”.
 
- **6: The[ideology is never the movement](https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/)**
+**6: The[ideology is never the movement](https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/)**
 
 I admit there’s an awkwardness here, in that EA is both a philosophy and a social cluster. Bill Gates follows the philosophy, but doesn’t associate with the social cluster. Is he “an EA” or not? I lean towards “yes”, but it’s an awkward answer that would be misleading without more clarification.
 
@@ -107,7 +110,7 @@ EA might have screwed this up worse than some other groups, but I don’t think 
 
 In real life I have no solution for these kinds of ambiguities; language is an imperfect medium of communication.
 
- **7: Maybe the solution is to look at the marginal effect of more vs. less of a movement.**
+**7: Maybe the solution is to look at the marginal effect of more vs. less of a movement.**
 
 Yesterday I argued that effective altruism had saved hundreds of thousands of lives, so people should celebrate its successes rather than focusing on SBF and a few other failures.
 

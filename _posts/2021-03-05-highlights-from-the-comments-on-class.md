@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Class"
 subtitle: "From Fussell to muscle"
 date: 2021-03-05
 likes: 86
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/33281161/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/020b87a1-58d5-4e50-89dc-e5ebab7e5aa3_500x332.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-class
 ---
 To my surprise, we have some genuine upper-class people reading this blog. Here’s what they thought, starting with [Cabayun](https://astralcodexten.substack.com/p/book-review-fussell-on-class#comment-1350041):

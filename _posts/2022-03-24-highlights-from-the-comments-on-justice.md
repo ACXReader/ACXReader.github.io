@@ -3,11 +3,14 @@ title: "Highlights From The Comments On Justice Creep"
 subtitle: "..."
 date: 2022-03-24
 likes: 76
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/50861569/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/45f5cdcb-8dd8-44ad-92ef-aa0bfb948a41_1024x683.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-justice
 ---
 A lot of comments on [Justice Creep](https://astralcodexten.substack.com/p/justice-creep?s=w) fell into three categories:
 
- **First** , people who thought some variety of: yes, all this stuff is definitely a justice issue, and it’s good that language is starting to reflect that more. For example, [Adnamanil](https://astralcodexten.substack.com/p/justice-creep/comment/5562221):
+**First** , people who thought some variety of: yes, all this stuff is definitely a justice issue, and it’s good that language is starting to reflect that more. For example, [Adnamanil](https://astralcodexten.substack.com/p/justice-creep/comment/5562221):
 
 > So... as someone who actually does use "___" Justice, quite frequently, I'd like to say that I think it's a good thing to reframe "helping the poor" or "saving the poor" as "pursuing economic justice." I don't think it's a good thing for people to think of themselves as saviors, to me that's a really unhealthy and unhelpful mindset which results in people who aren't themselves poor thinking they can be the experts and the decision-makers, and that there is something wrong with poor people, that they need to be "saved" or "fixed." We live in a world where there is enough food to feed everyone, yet people go hungry; enough shelter to keep everyone warm, yet people go cold. To me, that says there is something wrong with our system of resource distribution, not with the people who ended up, for one reason or another, being left out of it.
 > 
@@ -23,7 +26,7 @@ And [Philosophy Bear](https://philosophybear.substack.com/), as [Economic Justic
 
 Read the rest of his post for more.
 
- **Second** , people who think justice terminology is a dastardly plot to make people violent, hateful, and bigoted. I admit my original post was not guiltless here, but some commenters went much further:
+**Second** , people who think justice terminology is a dastardly plot to make people violent, hateful, and bigoted. I admit my original post was not guiltless here, but some commenters went much further:
 
 [Pete Houser](https://astralcodexten.substack.com/p/justice-creep/comment/5562079):
 
@@ -33,7 +36,7 @@ Read the rest of his post for more.
 
 > I notice that "bringing justice" licenses any amount of violence on the bringer's part, as long as the claimed crime is outrageous enough. And violence has been in vogue recently.
 
- **Third,** this one sentence comment by [Anonymous Coward](https://astralcodexten.substack.com/p/justice-creep/comment/5568248): “How long before 'incels' campaign for 'sexual justice'?”
+**Third,** this one sentence comment by [Anonymous Coward](https://astralcodexten.substack.com/p/justice-creep/comment/5568248): “How long before 'incels' campaign for 'sexual justice'?”
 
 I understand why some people will find this trollish or uncouth, but I thought it captured the heart of the matter better than anyone else. 
 
@@ -208,7 +211,7 @@ And [Cloven Pine Games](https://astralcodexten.substack.com/p/justice-creep/comm
 
 [Darwin](https://astralcodexten.substack.com/p/justice-creep/comment/5563431):
 
->  _“If I were in Terra Ignota, my fondest wish would be to excel in some way the same way Sniper, Apollo Mojave, and the other utopian characters excel, bringing glory to my Hive and giving its already-brilliant shine extra luster. But if I were in 1984, my fondest wish would be to bring O’Brien and the others to justice; to watch them suffer, to undo the wound in the world caused by their scheming.”_
+> _“If I were in Terra Ignota, my fondest wish would be to excel in some way the same way Sniper, Apollo Mojave, and the other utopian characters excel, bringing glory to my Hive and giving its already-brilliant shine extra luster. But if I were in 1984, my fondest wish would be to bring O’Brien and the others to justice; to watch them suffer, to undo the wound in the world caused by their scheming.”_
 > 
 > I think you have this entirely backwards, which may explain the disconnect here.
 > 

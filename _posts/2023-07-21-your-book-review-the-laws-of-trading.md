@@ -2,12 +2,15 @@
 title: "Your Book Review: The Laws of Trading"
 subtitle: "Finalist #10 in the Book Review Contest"
 date: 2023-07-21
-likes: 166
+likes: 167
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/123360445/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/fe4ead65-63af-4df0-9a2a-a44d6efd5067_3200x1800.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading
 ---
-[ _This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_ ]
+[_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]
 
-A book about trading isn’t ever **actually** about trading[1](/p/your-book-review-the-laws-of-trading#footnote-1-123360445). It is either:
+A book about trading isn’t ever **actually** about trading[^1]. It is either:
 
   * A former trader sharing stories from their glory days, e.g. _Liar’s Poker_ , the exposé that morphed into a how-to guide, or
 
@@ -18,7 +21,7 @@ A book about trading isn’t ever **actually** about trading[1](/p/your-book-rev
 
 With _[The Laws of Trading](https://www.amazon.com/Laws-Trading-Traders-Decision-Making-Everyone/dp/1119574218/ref=sr_1_1?crid=1CFYGH6Q0TUPK&keywords=the+laws+of+trading&qid=1689973717&sprefix=the+laws+of+trading%2Caps%2C144&sr=8-1)_ , Agustin Lebron has written something different: part love letter to trading, part philosophical treatise on epistemology and modeling the world around us, and part guide to applied decision-making. Lebron’s Laws are Laws of the Jungle, not Laws of Nature. He views financial markets as the most competitive Darwinian environment on Earth, where participants must adapt or die.
 
-According to Lebron, the book is for people working in finance and trading, as well as anyone in the business of making rational decisions. __ This explicitly rationalist bent is similar to Julia Galef’s _The Scout Mindset_ or Annie Duke’s _Thinking in Bets._ Where _The Laws of Trading_ sets itself apart is with the best description of financial market dynamics that I’ve ever seen while diving deep into philosophical concepts.
+According to Lebron, the book is for people working in finance and trading, as well as anyone in the business of making rational decisions.__ This explicitly rationalist bent is similar to Julia Galef’s _The Scout Mindset_ or Annie Duke’s _Thinking in Bets._ Where _The Laws of Trading_ sets itself apart is with the best description of financial market dynamics that I’ve ever seen while diving deep into philosophical concepts.
 
 Why trust Lebron? He is an engineer, worked as a quantitative trader and researcher at Jane Street, and has a deep understanding of trading. He has what Taleb would describe as **skin in the game** _._ You and I may read Astral Codex Ten in our spare time, post on LessWrong, and navel gaze about our epistemic certainty, but at the end of the day most of us are pursuing rationality for fun, as a hobby. Traders like Lebron pursue rationality as a profession: Their livelihood depends on having a better model of the world than their competition. There are lessons to learn from them that apply to our daily lives.
 
@@ -55,39 +58,39 @@ This section of the book contained good general advice, but nothing that will be
 
  _You’re never happy with the amount you traded._
 
-Now we start to get into the good stuff. Financial markets are an information aggregation mechanism, relying on multiple parties’ beliefs and recursive Bayesian updates of an individual actor’s beliefs based on the beliefs of others[2](/p/your-book-review-the-laws-of-trading#footnote-2-123360445).
+Now we start to get into the good stuff. Financial markets are an information aggregation mechanism, relying on multiple parties’ beliefs and recursive Bayesian updates of an individual actor’s beliefs based on the beliefs of others[^2].
 
 Market mechanics demonstrate Bayesian beliefs in action. The following quote is quite long, so skip over it if you don’t want to dive deep into the psychology of making a market. I retained it in full because this is quite literally the best description I’ve ever seen of the Bayesian dance between two [market makers](https://www.investopedia.com/terms/m/marketmaker.asp):
 
->  _“You are a market maker in South African mining companies. Through years of effort and continual improvement, you have built a trading model for the company Veldt Resources. You walk into work one day, ready to set up your trading for the day. It's a stock that doesn't trade much, and usually there are only two market makers: you and another (we'll call her Jo). She's sharp, and she competes well to trade against customer orders that come in._
+> _“You are a market maker in South African mining companies. Through years of effort and continual improvement, you have built a trading model for the company Veldt Resources. You walk into work one day, ready to set up your trading for the day. It's a stock that doesn't trade much, and usually there are only two market makers: you and another (we'll call her Jo). She's sharp, and she competes well to trade against customer orders that come in._
 > 
->  _Your model has Veldt valued at 54.35 ZAR (South African rand). You're going to start quoting the stock, so you're about to turn on your machine making a market 54.25 - 54.45 (1000x)_[3](/p/your-book-review-the-laws-of-trading#footnote-3-123360445) _. Before you turn on, you check the current market and notice that Jo has already turned on and she's making her market 53.50 - 54.00 (2000x). If you were to turn on your machine, your market would cross her market, and you would buy 1000 shares from her for 54.00._
+> _Your model has Veldt valued at 54.35 ZAR (South African rand). You're going to start quoting the stock, so you're about to turn on your machine making a market 54.25 - 54.45 (1000x)_[^3] _. Before you turn on, you check the current market and notice that Jo has already turned on and she's making her market 53.50 - 54.00 (2000x). If you were to turn on your machine, your market would cross her market, and you would buy 1000 shares from her for 54.00._
 > 
->  _You now need to make a decision. Whose model do you believe more, yours or Jo's? If you believe yours, you should turn on your machine, trade at 54.00, and expect to make money. If you believe Jo's model, you should adjust your own model parameters to match her market and turn on, making a similar market to hers._
+> _You now need to make a decision. Whose model do you believe more, yours or Jo's? If you believe yours, you should turn on your machine, trade at 54.00, and expect to make money. If you believe Jo's model, you should adjust your own model parameters to match her market and turn on, making a similar market to hers._
 > 
->  _What to do? As with many dichotomies, this is a false one. And as with many decision processes, Bayesian reasoning lights the way…_
+> _What to do? As with many dichotomies, this is a false one. And as with many decision processes, Bayesian reasoning lights the way…_
 > 
 >  _…Jo presumably believes Veldt is worth around 53.75 (the average of her bid and offer). But how confident is she in her belief? The width of her market can give you a clue. It's 0.50 ZAR, whereas yours was going to be 0.20 ZAR wide. All other things equal, you should think that Jo only has 40% (0.20/0.50) of the confidence in her fair value as you do in yours._
 > 
->  _On some absolute scale of confidence, you can say you had a belief-strength of 100 in your fair value of 54.35 (before seeing Jo's market), and Jo has a belief-strength of 40 in her fair value of 53.75 (before seeing yours). And it turns out the weighted average of these two beliefs is quite a reasonable way to combine them: 100/140 * 54.35 + 40/140 * 53.75 = 54.18. Your updated fair value, having seen Jo's market, is thus 54.18 ZAR._
+> _On some absolute scale of confidence, you can say you had a belief-strength of 100 in your fair value of 54.35 (before seeing Jo's market), and Jo has a belief-strength of 40 in her fair value of 53.75 (before seeing yours). And it turns out the weighted average of these two beliefs is quite a reasonable way to combine them: 100/140 * 54.35 + 40/140 * 53.75 = 54.18. Your updated fair value, having seen Jo's market, is thus 54.18 ZAR._
 > 
->  _This procedure is a quick, heuristic, and reduced version of Bayesian belief-updating, and a good reference on the subject is A.L. Barker's 1995 paper._
+> _This procedure is a quick, heuristic, and reduced version of Bayesian belief-updating, and a good reference on the subject is A.L. Barker's 1995 paper._
 > 
->  _After updating, you now believe that the stock is worth 54.18. Assuming your trading costs, risk limits, and return requirements are satisfied, buying 1000 shares for 54.00 is a good trade. Naively, you might just put out a 54.00 bid for 1000 shares, trade with half the 2000 share offer, and hope to collect your expected-value ZAR._
+> _After updating, you now believe that the stock is worth 54.18. Assuming your trading costs, risk limits, and return requirements are satisfied, buying 1000 shares for 54.00 is a good trade. Naively, you might just put out a 54.00 bid for 1000 shares, trade with half the 2000 share offer, and hope to collect your expected-value ZAR._
 > 
->  _In practice, however, you might be able to make even more. If Jo is making a 0.50 wide market, maybe she'd be willing to sell lower than 54.00. It's conceivable that if you put out a 53.90 bid for 1000 shares, Jo will sell at that price, and you collect an extra 100 ZAR!_
+> _In practice, however, you might be able to make even more. If Jo is making a 0.50 wide market, maybe she'd be willing to sell lower than 54.00. It's conceivable that if you put out a 53.90 bid for 1000 shares, Jo will sell at that price, and you collect an extra 100 ZAR!_
 > 
->  _Of course, Jo could react differently. She could see your bid and use that information to change her market, in much the same way you did before turning on. These are difficult decisions, ones where experience with the product and the market make a big difference in being able to eke out a little extra edge. Let's play it safe however and pay 54.00 for 1000 shares._
+> _Of course, Jo could react differently. She could see your bid and use that information to change her market, in much the same way you did before turning on. These are difficult decisions, ones where experience with the product and the market make a big difference in being able to eke out a little extra edge. Let's play it safe however and pay 54.00 for 1000 shares._
 > 
->  _You trade, and Jo reacts by immediately canceling her market. This is not an uncommon occurrence in illiquid stocks, especially in emerging markets, so you're not too surprised. You wait a couple of minutes, mentally visualizing Jo in front of her six monitors, evaluating her trade and her model._
+> _You trade, and Jo reacts by immediately canceling her market. This is not an uncommon occurrence in illiquid stocks, especially in emerging markets, so you're not too surprised. You wait a couple of minutes, mentally visualizing Jo in front of her six monitors, evaluating her trade and her model._
 > 
->  _Finally, she turns back on. Her new market is 53.50 - 54.05 (10000x)! You reason that Jo has seen that someone (you) disagrees with her valuation of the stock. Jo is a good Bayesian like you, and so she has incorporated that information into her model and updated her beliefs about the fair value of the stock. Her updated belief is that she now wants to sell even more stock, at a marginally higher price. Clearly, she almost entirely discounts the information you've communicated to her with your trade._
+> _Finally, she turns back on. Her new market is 53.50 - 54.05 (10000x)! You reason that Jo has seen that someone (you) disagrees with her valuation of the stock. Jo is a good Bayesian like you, and so she has incorporated that information into her model and updated her beliefs about the fair value of the stock. Her updated belief is that she now wants to sell even more stock, at a marginally higher price. Clearly, she almost entirely discounts the information you've communicated to her with your trade._
 > 
->  _How should you react? It seems fairly clear that, assuming Jo is not a crazy or incompetent market maker (usually a fair assumption), your trade was a bad one. You bought 1000 shares, when in retrospect, you would have wanted to buy much less, probably zero._
+> _How should you react? It seems fairly clear that, assuming Jo is not a crazy or incompetent market maker (usually a fair assumption), your trade was a bad one. You bought 1000 shares, when in retrospect, you would have wanted to buy much less, probably zero._
 > 
->  _Imagine instead that Jo had turned back on with a market of 54.00 - 54.50 (1000x). Her reaction now clearly indicates the information you gave her with your trade is valuable, and she has adjusted her beliefs accordingly. Your trade was probably a good one. Don't you wish you had bought all 2000 shares on offer?_
+> _Imagine instead that Jo had turned back on with a market of 54.00 - 54.50 (1000x). Her reaction now clearly indicates the information you gave her with your trade is valuable, and she has adjusted her beliefs accordingly. Your trade was probably a good one. Don't you wish you had bought all 2000 shares on offer?_
 > 
->  _No matter what Jo's reaction is, you will be unhappy with your trade. Note that Jo will be unhappy too, since retrospectively she should have either made her initial market bigger or smaller. Welcome to the joyous world of trading!”_
+> _No matter what Jo's reaction is, you will be unhappy with your trade. Note that Jo will be unhappy too, since retrospectively she should have either made her initial market bigger or smaller. Welcome to the joyous world of trading!”_
 
 Whether or not you make money, you have regrets! If you profited, you could have made more. If you lost money, you shouldn’t have made the trade at all. Like death and taxes, you can’t avoid adverse selection. 
 
@@ -99,7 +102,7 @@ Second, powerful entities that change the rules of the game while you’re playi
 
 Lebron also highlights “special trades”, in which you should throw the “normal rules” out of the window. This advice generalizes to other areas of life: 
 
-> _“The normal rules do not apply. If you remove yourself from our usual routine, if you think hard and clearly about the specific situation, maybe you can do something good. Perhaps even great. Others will be paralyzed by inaction, but perhaps you won’t be. Crises can be opportunities.”_
+>  _“The normal rules do not apply. If you remove yourself from our usual routine, if you think hard and clearly about the specific situation, maybe you can do something good. Perhaps even great. Others will be paralyzed by inaction, but perhaps you won’t be. Crises can be opportunities.”_
 
 ### 3: Risk
 
@@ -145,11 +148,11 @@ It might make sense to **short** the overall tech sector or a basket of publicly
 
 But some risks you can’t hedge. These are the more interesting ones. There is counterparty risk (your trading partner blows up), liquidity risk (the market you used to hedge dries up), or even political risk:
 
->  _“Living in the developed world, it’s easy to fall into the seductive assumption that the rule of law applies strongly everywhere. This is far from the case. A foreigner trading in an emerging market is frequently among the first “victims” of any political turmoil.”_
+> _“Living in the developed world, it’s easy to fall into the seductive assumption that the rule of law applies strongly everywhere. This is far from the case. A foreigner trading in an emerging market is frequently among the first “victims” of any political turmoil.”_
 
 Lebron is meticulous in the ways that he thinks about risk. He highlights that in the markets, you need to be exceedingly paranoid to survive:
 
->  _“Certainly, the modern compendium of mental illnesses (DSM-5) takes a dim view of people who think everyone is out to get them. Yet financial markets are different: people really are out to get you, after all.”_
+> _“Certainly, the modern compendium of mental illnesses (DSM-5) takes a dim view of people who think everyone is out to get them. Yet financial markets are different: people really are out to get you, after all.”_
 
 I don’t think enough people consider risk and the hedges you can take in the context of a career. I’ve spent the past several years working at startups, where I’ve placed a hugely levered career bet. I’m trading my time and the opportunity cost of another job to work at my current employer. My salary, stock options, expertise, and social capital that I build from working 10 hours per day is fundamentally long (and has risks associated with):
 
@@ -164,9 +167,9 @@ I don’t think enough people consider risk and the hedges you can take in the c
 
 
 
-> _“Many trades that look different on the surface can in fact be the same trade in disguise, and trades whose edge appears to derive from one risk are actually bets on another risk.”_
+>  _“Many trades that look different on the surface can in fact be the same trade in disguise, and trades whose edge appears to derive from one risk are actually bets on another risk.”_
 
-It might make sense to hedge some of that risk – simply having friends that work at other companies and in other industries so that all of my social capital isn’t in one basket is a start[4](/p/your-book-review-the-laws-of-trading#footnote-4-123360445).
+It might make sense to hedge some of that risk – simply having friends that work at other companies and in other industries so that all of my social capital isn’t in one basket is a start[^4]. 
 
 My only gripe here is that I would have liked to see Lebron call out ergodicity more explicitly. Blowing up your account might be fine as a trader – if you have a decent prior track record, you can probably just get a job at a different firm – but in life other losses are less reversible. As far as we know, this is the only universe we have access to. It doesn’t matter if your bet was positive EV and you won in 51% or 75% or even 99% of universes. You should place a high premium on staying alive and having enough bankroll to play the next round of the game. This is more important outside of finance than in the world of trading.
 
@@ -178,11 +181,11 @@ Liquidity isn’t something I think about in daily life. But I probably should. 
 
 Lebron also reminds us that the [30-Year Mortgage is an Intrinsically Toxic Product](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a), a concept that will resonate with all of the Georgists here. 
 
-> _“The usual path to homeownership exposes people to a financial decision that would, it seems clear, be ridiculed if it were taken by any self-respecting public company.”_
+>  _“The usual path to homeownership exposes people to a financial decision that would, it seems clear, be ridiculed if it were taken by any self-respecting public company.”_
 
 Among other issues:
 
-  *  _“The home is bought and sold through an opaque cartel of brokers whose interests are demonstrably not aligned with those of their customers”_
+  * _“The home is bought and sold through an opaque cartel of brokers whose interests are demonstrably not aligned with those of their customers”_
 
   *  _“The ability to service the debt (the mortgage) is highly correlated with local economic conditions. This means that if you lose your job and need to sell your house, you will typically find it an exceedingly bad time to try to sell your house.”_
 
@@ -207,7 +210,7 @@ The Efficient Market Hypothesis is one of the core concepts taught in Finance 10
 
 Modern financial markets are exceedingly competitive. This means that the bigger you think your edge is, the more likely it is that you’re wrong. 
 
-> _“Evolutionary thinking applies quite directly when thinking about the evolution of markets. Having an edge in a mature market means understanding the world better than other traders, even ones who are already highly skilled. In fact, the marginal trader in modern financial markets is quite sophisticated and skilled indeed.”_
+>  _“Evolutionary thinking applies quite directly when thinking about the evolution of markets. Having an edge in a mature market means understanding the world better than other traders, even ones who are already highly skilled. In fact, the marginal trader in modern financial markets is quite sophisticated and skilled indeed.”_
 
 Lebron here warns us of getting too cute with data, of changing variables. Enough randomness will produce an “edge” that is likely to break down the second a trading strategy hits the real world. You can always find a statistical correlation if you change enough variables. But this is fundamentally the same problem facing the [replication crisis](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/) in social sciences. 
 
@@ -215,7 +218,7 @@ Lebron argues that we need stories here. Edge is expressed in stories: an edge d
 
 I’m not so sure. It seems like AI companies are pushing forward technology in a way that suggests that mental representations are not the only path to intelligence. Lebron discounts “black box” trading strategies without much discussion of their potential merits. Are all of [RenTech’s](https://en.wikipedia.org/wiki/Renaissance_Technologies) models explainable by a story? The firm is notoriously secretive, so I don’t know, but I’d guess not.
 
->  _“Frequently a good trade appears, has a seemingly insurmountable difficulty, and it is mere persistence that knocks down the final barrier. There may have been many others who looked at the idea, wanted to do it, but couldn’t get past that last hurdle.”_
+> _“Frequently a good trade appears, has a seemingly insurmountable difficulty, and it is mere persistence that knocks down the final barrier. There may have been many others who looked at the idea, wanted to do it, but couldn’t get past that last hurdle.”_
 
 Before Sam Bankman-Fried was the face of Why Effective Altruism is Bad, before he even founded FTX, he made money [arbitraging the difference between Bitcoin prices on Japanese and American exchanges](https://www.bloomberg.com/news/articles/2021-04-01/the-ex-jane-street-trader-who-s-building-a-multi-billion-crypto-empire). I’m reminded of that trade here. It isn’t a particularly elegant trade, it doesn’t require deep technical knowledge or any models. It was a **schlep**. It was all operational work: figuring out how to open a Japanese bank account, transferring money between the US and Japan, standing in line for hours every day at both US and Japanese banks (presumably this wasn’t the same person). 
 
@@ -231,7 +234,7 @@ He dives into the difference between generative (G) and phenomenological (P) mod
 
 Models of the world differ from models of markets, though. Markets have quick feedback loops, are explicit in terms of what they measure, and are easy to quantify at a specific point in time. Most of our models for the world, though, are ill-defined and explicit.
 
-Models are only as good as our assumptions. As an aside, this is a common criticism of rationality or Effective Altruism – you can justify any worldview if you assign your model input weights in just the right way[5](/p/your-book-review-the-laws-of-trading#footnote-5-123360445). I also tend to think that “traditional” EA is overly dependent on P models, and doesn’t embrace the G models that led to economic reforms in India in the 1990s or the economic policies that led to rapid economic development in Southeast Asia in the second half of the 20th Century. Interestingly, I think a lot of longtermist EA, specifically AI alignment, leans the other way, relying on G models which explicitly assume a certain P(doom) and work backwards from there. (Though I won’t pretend to be an expert here or to understand everything, so take this with a grain of salt.)
+Models are only as good as our assumptions. As an aside, this is a common criticism of rationality or Effective Altruism – you can justify any worldview if you assign your model input weights in just the right way[^5]. I also tend to think that “traditional” EA is overly dependent on P models, and doesn’t embrace the G models that led to economic reforms in India in the 1990s or the economic policies that led to rapid economic development in Southeast Asia in the second half of the 20th Century. Interestingly, I think a lot of longtermist EA, specifically AI alignment, leans the other way, relying on G models which explicitly assume a certain P(doom) and work backwards from there. (Though I won’t pretend to be an expert here or to understand everything, so take this with a grain of salt.) 
 
 Overall, startups and tech seem to take heed to Lebron’s lesson much better than the folks hanging out on this part of the internet: _“Even if a model makes good predictions about some future value or event, that knowledge is useless without also knowing how to take advantage of that prediction.”_
 
@@ -241,7 +244,7 @@ When you’re right, everyone else sees the same trades that your model does and
 
 Lebron closes by arguing that G models are best for understanding other people, and are good in and of themselves: 
 
-> _“You can also see connections to traditional moral philosophy in thinking about modeling the behavior of others. To have a good G model about someone else is to have some measure of empathy and compassion for that person: what they’re like, what they think and feel, putting yourself in their shoes. Pragmatically, developing the skill of empathy and compassion for others is, aside from a moral good in itself, an excellent way to understand better the people who surround you. More people working to develop good G models of others is surely a small step to a better world.”_
+>  _“You can also see connections to traditional moral philosophy in thinking about modeling the behavior of others. To have a good G model about someone else is to have some measure of empathy and compassion for that person: what they’re like, what they think and feel, putting yourself in their shoes. Pragmatically, developing the skill of empathy and compassion for others is, aside from a moral good in itself, an excellent way to understand better the people who surround you. More people working to develop good G models of others is surely a small step to a better world.”_
 
 ### 7: Costs and Capacity
 
@@ -287,7 +290,7 @@ First, they hired the best. There was interaction between three groups that did 
 
 This seems to have been cargo-culted at most modern tech companies. Ping-pong tables and nap pods don’t replace a true culture of cross-pollination of ideas in a boring cafeteria. 
 
-I’m reminded of the story of Richard Feynman in academia[6](/p/your-book-review-the-laws-of-trading#footnote-6-123360445). His colleagues who kept their office doors closed made progress on their research in the short-term, but hit stumbling blocks. Those who kept their doors open didn’t seem to make much progress initially, but eventually outpaced the “closed door” scientists. They had new ideas and research directions based on all the interesting conversations they were having with others.
+I’m reminded of the story of Richard Feynman in academia[^6]. His colleagues who kept their office doors closed made progress on their research in the short-term, but hit stumbling blocks. Those who kept their doors open didn’t seem to make much progress initially, but eventually outpaced the “closed door” scientists. They had new ideas and research directions based on all the interesting conversations they were having with others.
 
 The simple lesson here is to get outside of your bubble a bit more. Maybe the normies have something valuable to say once in a while. 
 
@@ -303,7 +306,7 @@ Some of the best parts of this book are the diversions. This book is in a sense 
 
 _Just because something has never happened doesn’t mean it can’t._
 
- _Corollary: Enough people relying on something being true makes it false._
+_Corollary: Enough people relying on something being true makes it false._
 
 “Impossible” and [“25-standard deviation” events](https://arxiv.org/pdf/1103.5672.pdf) sure seem to happen awfully often in the financial industry. 
 
@@ -359,9 +362,9 @@ That may seem harsh. But no – Lebron praises trading as a positive-sum game. I
 
 This is a striking perspective to have on trading. I’ve heard traders describe the work they do as “net neutral” and “adding no value to the world”. Conversely, Lebron views trading as an act of creativity, a way to make the world, in one small way, a better place through creating efficiencies in markets. His philosophical approach to markets is best demonstrated through this story of a trader named Mark, 
 
-> _“Tomorrow will be more difficult than today, and the day after more difficult still, and on until the day he decides to retire from the business. There is no respite and there are no pauses to the inexorable adaptation of markets._
+>  _“Tomorrow will be more difficult than today, and the day after more difficult still, and on until the day he decides to retire from the business. There is no respite and there are no pauses to the inexorable adaptation of markets._
 > 
->  _It’s easy to view Mark’s job as a soul-destroying, almost Sisyphean effort. And indeed, it’s this ceaseless competition that does, over time, break the will of many market participants. But I will argue in what follows that the best traders view their situation with very much the opposite perspective: as a liberating and redemptive force…_
+> _It’s easy to view Mark’s job as a soul-destroying, almost Sisyphean effort. And indeed, it’s this ceaseless competition that does, over time, break the will of many market participants. But I will argue in what follows that the best traders view their situation with very much the opposite perspective: as a liberating and redemptive force…_
 > 
 >  _…Profitable traders are some of the most intelligent, driven, perceptive, and adaptable people on earth. To relegate such a person to a life of maintenance and literally trading on past glories sounds and is soul-destroying. The essence of trading, the thing that makes it such an interesting and stimulating undertaking, is this very process of adaptation and competition.”_
 
@@ -369,30 +372,18 @@ One can imagine Lebron, in a previous life, penning the words [“One must imagi
 
 Beyond the philosophy, while reading this book I was struck by the fact that trading is one of the few true apprenticeship systems that remains for white-collar work. You can career switch into the technology industry without a degree. There is a clear educational path to becoming a doctor or a lawyer. But trading is a bunch of dudes (and it’s almost always men) behind closed doors working on intellectually challenging problems. Lebron recognizes this as well:
 
->  _“Autodidacts in trading are like jailhouse lawyers: for every person who’s truly discovered and developed a successful strategy sui generis, there is an army of people who either significantly undervalued the teaching that others provided, or they are deluding themselves about the profitability of their trading.”_
+> _“Autodidacts in trading are like jailhouse lawyers: for every person who’s truly discovered and developed a successful strategy sui generis, there is an army of people who either significantly undervalued the teaching that others provided, or they are deluding themselves about the profitability of their trading.”_
 
  _The Laws of Trading_ opens the door to this world a crack and allows the rest of us to peek in, ever so slightly.
 
-[1](/p/your-book-review-the-laws-of-trading#footnote-anchor-1-123360445)
+[^1]: The book actively used by traders is perhaps the driest thing that Nassim Taleb has ever written: _Dynamic Hedging: Managing Vanilla and Exotic Options._
 
-The book actively used by traders is perhaps the driest thing that Nassim Taleb has ever written: _Dynamic Hedging: Managing Vanilla and Exotic Options._
+[^2]: Like any good Bayesian, he introduces us to Bayesian statistics and its merits over Frequentism, then points us to the work of Eliezer Yudkowsky to learn more.
 
-[2](/p/your-book-review-the-laws-of-trading#footnote-anchor-2-123360445)
+[^3]: You’re offering to buy 1,000 shares at 54.25 and to sell 1,000 shares at 54.45.
 
-Like any good Bayesian, he introduces us to Bayesian statistics and its merits over Frequentism, then points us to the work of Eliezer Yudkowsky to learn more.
+[^4]: As an aside, this seems to sometimes be a failure mode for Rationalists and EAs. They hang out in the same circles, leading to correlated career paths, social networks, and groupthink.
 
-[3](/p/your-book-review-the-laws-of-trading#footnote-anchor-3-123360445)
+[^5]: This is also the entire field of Investment Banking: build a model, then massage the inputs to get the multiple that the Managing Director tells you to.
 
-You’re offering to buy 1,000 shares at 54.25 and to sell 1,000 shares at 54.45.
-
-[4](/p/your-book-review-the-laws-of-trading#footnote-anchor-4-123360445)
-
-As an aside, this seems to sometimes be a failure mode for Rationalists and EAs. They hang out in the same circles, leading to correlated career paths, social networks, and groupthink.
-
-[5](/p/your-book-review-the-laws-of-trading#footnote-anchor-5-123360445)
-
-This is also the entire field of Investment Banking: build a model, then massage the inputs to get the multiple that the Managing Director tells you to.
-
-[6](/p/your-book-review-the-laws-of-trading#footnote-anchor-6-123360445)
-
-No luck finding this story via Google or ChatGPT, but I think I’m getting the details broadly correct.
+[^6]: No luck finding this story via Google or ChatGPT, but I think I’m getting the details broadly correct.

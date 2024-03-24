@@ -3,6 +3,9 @@ title: "Highlights From The Comments On The Media Very Rarely Lying"
 subtitle: "..."
 date: 2023-01-11
 likes: 137
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/95389176/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/7d2e014b-b1fd-4730-b663-4b316a36bd68_336x189.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-the-061
 ---
 Originally: [The Media Very Rarely Lies](https://astralcodexten.substack.com/p/the-media-very-rarely-lies) and [Sorry, I Still Think I Am Right About The Media Very Rarely Lying](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about). Please don’t have opinions based on the titles until you’ve read the posts!
@@ -191,7 +194,7 @@ Yug Gnirob [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-
 
 ### 6: Comments Making Other Claims Of Media Lies And Misdeeds
 
- **—** Beowulf888 on [the LA Times and COVID](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11501846):
+**—** Beowulf888 on [the LA Times and COVID](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11501846):
 
 > Well, there are media outlets that propagandize—but I think it boils down to if it bleeds it leads. Most corporate media outlets have the economic incentive to increase the readership by grabbing one's attention with scary headlines and articles. The perfect example of this phenomenon was [in April 2020 when the LA Times interviewed an atmospheric chemist at Scripps](https://www.latimes.com/california/story/2020-04-02/coronavirus-ocean-swimming-surfing-safe-beaches-los-angeles). She made the claim that SARS2 virus particles in sewage were being carried back to land by sea spray. The reporters and editors uncritically relayed her comments as if she were an expert with the same credentialled expertise as a virologist or epidemiologist. There are numerous reasons why this would be very very low on the threat level even with what little we knew about the SARS2 virus at that time. This story was picked up by the media everywhere, and county health officials (either because there was public pressure to do so, or because they really believed her) shut down beaches up and down the coast of California. Did the LA Times and the news media really have any motivation to promote the closure of public beaches? I can't imagine they did. But they did have a scary headline that would promote readership and spread LA Times as a news source. Some weeks later the LA Times did a retraction, but by that time it had entered the popular imagination that beaches were a potential vector for COVID infection.
 
@@ -203,19 +206,19 @@ I’m developing an allergy to the word “uncritically”. Being able to fact-c
 
 On the two articles in this series, I’ve included phrases like “This doesn’t mean these establishment papers are _exactly as bad_ as Infowars; just that when they do err, it’s by committing a more venial version of the same sin Infowars commits” and “Again, my goal here isn’t to . . . say NYT is exactly as bad as Infowars” and tried to explain the exact way that two things can both commit a similar error without one being exactly as the other (Hitler and someone who shot a robber in self-defense both committed a similar action called “killing people”, but this doesn’t mean they both killed exactly the same people with exactly the same level of justification). Still, I got numerous comments getting angry at me for saying that I was calling NYT exactly as bad as Infowars, and saying I was being deceptive / lying because of this. This is why I’m so convinced people are erring on the side of too mistrustful - you can fill your articles with sentences about how you’re not claiming X, and people will _still_ find ways to accuse you of lying because you said X.
 
- **—** Garrett [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11481059):
+**—** Garrett [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11481059):
 
 > [The way Infowars covered Obama’s birth certificate] isn't any different from eg. mainstream media coverage of anything which involves firearms. They make (or promulgate) so many stupid technical errors I've stopped paying attention to them at all. They could have 1 person on staff who's responsibility is to understand firearms and run everything past them. But they don't. To what should I attribute this continual stream of errors?
 
 Is mainstream media coverage of firearms honestly flawed? Is it “reckless disregard for truth?” Is it a “lie of egregious sloppiness?” I think your answer to this question will depend more on how bad you want to accuse the mainstream media of being, relative to other forms of media, than on how you define these inherently slippery terms.
 
- **—** Jeremy Goldberg [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11479762):
+**—** Jeremy Goldberg [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11479762):
 
 > There's an outright lie right now on the Washington Post homepage. A caption above a graph showing the inflation rate over time states, "Elevated prices coming down, annualized rate shows." The chart shows the current inflation rate is 7.1 percent, down from a high of around 9 percent. Elevated prices are not coming down at all. They just aren't elevating as fast anymore.
 
 I asked Jeremy to guess the probability that this was an honest mistake vs. malice. He [said ](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11480043)(thanks for giving a clear answer!) 60-40 in favor of malice. I think this is pretty high, given that I had to read Jeremy’s comment several times before I realized what the error was supposed to be, but I’ve already said I lean towards the “all the rest of you are extremely paranoid” side of things.
 
- **—** Jiro [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11479789):
+**—** Jiro [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11479789):
 
 > I opened a thread on dsl: <https://www.datasecretslox.com/index.php/topic,8430.0.html>
 > 
@@ -227,25 +230,25 @@ Oh god, if saying there’s “no evidence” for something counts as a lie, the
 
 I agree the Rittenhouse situation was pretty egregious, though commenters bring up that since he went across state lines and had a weapon, it wasn’t unreasonable for people to assume he brought the weapon across state lines. Still, you wonder whether news sources would have repeated reasonable-sounding-but-didn’t-actually-check slanders about someone they liked. I do think this is a good antidote to some of the “mainstream media is actually very careful and fact-checks everything in their original reporting” takes in the comments section.
 
- **—** David Riceman [says](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11479948):
+**—** David Riceman [says](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11479948):
 
 > How about Richard Landes's new book "Can the whole world be wrong?" about the many lies in the cognitive war against Israel (e.g. Muhammad Al Dura)
 
 See his discussion [here ](https://jcpa.org/article/the-muhammad-al-dura-blood-libel-a-case-analysis/)for why he thinks this is a good example.
 
- **—** FractalCycle writes:
+**—** FractalCycle writes:
 
 > I'm collecting examples from other people, will post ones that seem like real counterexamples as I get them. Here's one from recently: <https://forum.effectivealtruism.org/posts/jsByfxvNA4x23stLY/a-letter-to-the-bulletin-of-atomic-scientists>
 
 Yes, I included this issue with the Bulletin Of Atomic Scientists in my last links post, and they really do come out looking very bad here. See [here ](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11480063)for more discussion.
 
- **—** Hank Wilbon (writes [Partial Magic](https://hankwilbon.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11481075):
+**—** Hank Wilbon (writes [Partial Magic](https://hankwilbon.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11481075):
 
 > I think the false Rolling Stone story a decade ago about the frat gang rape counts as the media explicitly lying, particularly as Rolling Stone is historically known for good fact checking (It is a plot point in the movie Almost Famous), however I think that counts as a "very rare" case and that Scott's claim is correct.
 
 I asked “Why? A woman said she had been raped, and Rolling Stone believed her. The woman was making it up, but Rolling Stone wasn't” and Deepa commented “Isn't it the job of a reporter to investigate? And be good at it?” I don’t want to pick on Deepa, but this is what happens when you have an overly expansive definition of “lie”!
 
- **—** TorontoLLB [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11481575):
+**—** TorontoLLB [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11481575):
 
 > The most straightforward counterexample I can think of is the NBC manipulation of the George Zimmerman 911 call.
 > 
@@ -265,7 +268,7 @@ I hope everyone finds at least one of these comments obviously fair, and at leas
 
 ### 7: Other Comments
 
- **—** Paul [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11483478):
+**—** Paul [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11483478):
 
 > What's funny is the Weekly World News - the supermarket tabloid with headlines declaring Bigfoot had been found, and married to a local man's sister!; JFK was still alive, etc. - would pass muster under this analysis.
 > 
@@ -277,7 +280,7 @@ I hope everyone finds at least one of these comments obviously fair, and at leas
 
 Thanks for this - I always wondered what those tabloids _thought_ they were doing, and for some reason this matches my model of human psychology better than my previous theories about “maybe they just made it up” - though I bet they do some of that too.
 
- **—** John Buridan [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11480642):
+**—** John Buridan [writes](https://astralcodexten.substack.com/p/sorry-i-still-think-i-am-right-about/comment/11480642):
 
 > I used to have very low priors against conspiracy theories and so was willing to hear out the arguments at length and go back and forth for many weeks and months on a single theory. I would say my conspiracy theory expertise is in creationism and government conspiracies, especially ones involving either Catholicism or Judaism. And I'm okay on one's involving fluoridation, chemtrails, and GMOs etc.
 > 

@@ -3,6 +3,9 @@ title: "Blindness, Schizophrenia, and Autism"
 subtitle: "..."
 date: 2021-08-13
 likes: 75
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39139730/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/981b81ca-518c-4cd7-8b7d-7679037313ab_500x320.jpeg
 original-url: https://www.astralcodexten.com/p/blindness-schizophrenia-and-autism
 ---
 **Update (8/29/22):** All of this might be false, see [here](https://www.lesswrong.com/posts/z9Syf3pGffpvHwfr4/i-m-mildly-skeptical-that-blindness-prevents-schizophrenia) for more.

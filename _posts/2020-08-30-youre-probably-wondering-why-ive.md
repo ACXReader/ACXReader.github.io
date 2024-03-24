@@ -2,6 +2,9 @@
 title: "You're Probably Wondering Why I've Called You Here Today"
 date: 2020-08-30
 likes: 494
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/919248/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/da986253-0d68-4e5b-a347-46bfde17a3d8_500x438.png
 original-url: https://www.astralcodexten.com/p/youre-probably-wondering-why-ive
 ---
 Welcome to Astral Codex Ten! Some of you are probably veterans of my old blog, Slate Star Codex. Others may be newbies wondering what this is all about.

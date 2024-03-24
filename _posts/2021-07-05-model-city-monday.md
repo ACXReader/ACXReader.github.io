@@ -3,6 +3,9 @@ title: "Model City Monday"
 subtitle: "I do not necessarily endorse any project mentioned here as reasonable, ethical, relevant, or sane"
 date: 2021-07-05
 likes: 76
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38351704/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/543b7446-6ac0-4417-8e4b-12ab6b314781_398x288.png
 original-url: https://www.astralcodexten.com/p/model-city-monday
 ---
 Happy belated Fourth of July! This potentially-recurring column is about modern-day independence-seekers: charter cities, utopian communes, secessionist movements, and the like. I’ve always found these fascinating, and finally remembered that nobody can prevent me from talking about them.
@@ -65,25 +68,25 @@ Model cities are usually associated with libertarians, but that doesn't have to 
 > 
 > Right now, Black Hammer Organization is offering several ways to pay reparations […]
 > 
->  **Mao Level – $199 minimum**
+> **Mao Level – $199 minimum**
 > 
 > Sign up for the entire 8-week bootcamp and get fully certified as someone who is united under Colonized leadership. By completing this level, you’ll get the chance to provide your skills to the organization _a_ nd be an active recruiter to make sure that other people are continuing to pay reparations and support the masses of poor and working class Colonized people. Upon completion, you will also receive a Reparations Corps uniform!
 > 
 > Mao Level + : Pay an additional 25% in reparations and receive an exclusive piece of Black Hammer gear!
 > 
->  **Sankara Level – $99 minimum**
+> **Sankara Level – $99 minimum**
 > 
 > Sign up for the 4-week bootcamp and get halfway there to falling under the leadership of Colonized people. Although you won’t be able to contribute to the organization at this level, you will still receive valuable skills necessary to help advance anti-colonialism and organize people to return and liberate the land of Colonized people around the world. If you wish to continue the full 8-week bootcamp, simply pay reparations for another Sankara Level bootcamp.
 > 
->  **Sankara Level +** : Pay an additional 25% in reparations and receive an exclusive piece of Black Hammer gear!
+> **Sankara Level +** : Pay an additional 25% in reparations and receive an exclusive piece of Black Hammer gear!
 > 
->  **Che Level – $40**
+> **Che Level – $40**
 > 
 > Sign up for a single session of the bootcamp and get a view of the experience and work it takes in order to disunite with your people’s worldwide acts of genocide and terror. Take that first step into creating a world where no one lives at the expense of another and show others that you have what it takes to make a material, not just ideological, difference in the lives of others.
 > 
 > The next 8-week bootcamp will begin on March 12th, 2021! That means you need to sign up today to claim your spot and begin YOUR journey.
 > 
->  **GROUP PRICE** – Does your organization/company, activist group, or group of friends want to pay reparations and learn about anti-colonialism or anti-racism in the world and in the workplace? Contact us directly at reparationscorps@protonmail.com for pricing options!
+> **GROUP PRICE** – Does your organization/company, activist group, or group of friends want to pay reparations and learn about anti-colonialism or anti-racism in the world and in the workplace? Contact us directly at reparationscorps@protonmail.com for pricing options!
 
 What are they going to do with this money? One of their projects is _Hammer City_ , a city with “Jobs, housing, food, healthcare, no cops, no rent, no Coronavirus, and no white people.” The plan is to [locate it in Colorado](https://blackhammer.org/2021/01/22/press-release-land-liberators-announce-change-of-location-for-hammer-city/) and pay for it with [crowdfunding](https://blackhammer.org/hammercity/) (so far they have $90,000 of their $500,000 goal). Here are some pictures of how it could look:
 

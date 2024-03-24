@@ -3,6 +3,9 @@ title: "Model City Monday 6/27/22"
 subtitle: "ZEDE update, Afropolitan, and we're going to Disney World!"
 date: 2022-06-28
 likes: 62
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/61400433/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faaf75e74-8afa-4af1-96e3-1d4a1e91bf39_1280x720.jpeg
 original-url: https://www.astralcodexten.com/p/model-city-monday-62722
 ---
 ## Goodbye, ZEDE Law
@@ -15,7 +18,7 @@ Everyone agrees that creating new ZEDEs is now illegal. There’s less clarity o
 
 [Prospera](https://astralcodexten.substack.com/p/prospectus-on-prospera), the first and largest ZEDE, has (as usual) dominated press coverage. They state that the government hasn’t asked them to shut down, that the government continues to accept payments Prospera owes them for its continued operation, and that when Prospera has told the government that it plans to keep operating, nobody in the government has objected.
 
- _— This (~4:00) is my main source for Prospera’s position and what they’ve done. —_
+_— This (~4:00) is my main source for Prospera’s position and what they’ve done. —_
 
 They’ve also retained the services of [White & Case LLP](https://bestlawfirms.usnews.com/profile/white-case-llp/rankings/9117), described as [one of the best](https://bestlawfirms.usnews.com/profile/white-case-llp/rankings/9117) international arbitration law firms in the world. They add that sophisticated investors have given them over $30 million since Castro’s government was sworn in, representing a vote of confidence from the markets that they’ll be able to get through this.
 
@@ -73,7 +76,7 @@ Anyway, [Afropolitan](https://www.afropolitan.io/) has taken him up on this. The
 
 > The nation-state experiment has failed for Black people worldwide. It has yielded nothing but poverty, genocide, police brutality, ethnic strife, inflation, weak government, and the failure of our ecosystems.
 > 
-> All people who call themselves free have a _**fundamental right**_ to create the society they want by choice collectively. As the internet enables us to shrink space and form bonds across the planet, no person should live in a society by accident or force.
+> All people who call themselves free have a  _**fundamental right**_ to create the society they want by choice collectively. As the internet enables us to shrink space and form bonds across the planet, no person should live in a society by accident or force.
 
 …and go on to list a four-step plan to create the society of the future. Step One is to sell NFTs “representing the mythology of our new nation” . Step Four is “a[n] extensive system of charter cities akin to Singapore or Hong Kong”. In the unlikely chance that you care what Steps Two and Three are, you can find them [here](https://afropolitan.mirror.xyz/qkBv4y7MidTpDZJVEIEBC4EZi70v30IrCXLCZ-F6eMs). 
 
@@ -129,15 +132,15 @@ Also, low-cost eco-residences!
 
 ## Shorts
 
- **1:** I previously mentioned the scam/fiasco/insane-idea of Hammer City, a planned black nationalist city in the Rocky Mountains. I knew it had failed, but I didn’t know exactly how. Now [Colorado Sun has investigated](https://coloradosun.com/2022/02/08/black-hammer-utopia-norwood-colorado/). The proximal reason it failed was because the black nationalists started moving their paramilitary onto the land before they had officially bought it, the owner called the cops, and the cops removed them. The Hammer City team has not given back any of the $112,000 which they raised from extremely credulous donors (without using NFTs, even!)
+**1:** I previously mentioned the scam/fiasco/insane-idea of Hammer City, a planned black nationalist city in the Rocky Mountains. I knew it had failed, but I didn’t know exactly how. Now [Colorado Sun has investigated](https://coloradosun.com/2022/02/08/black-hammer-utopia-norwood-colorado/). The proximal reason it failed was because the black nationalists started moving their paramilitary onto the land before they had officially bought it, the owner called the cops, and the cops removed them. The Hammer City team has not given back any of the $112,000 which they raised from extremely credulous donors (without using NFTs, even!)
 
- **2:** The [Charter Cities Institute](https://chartercitiesinstitute.org/nxt50/) continues doing the long-term ground-level work necessary to create long-term well-grounded charter cities which will be much too boring and responsible for me to write silly profiles of. Some of their most recent work has been with the [Africa Next 50 Cities Coalition](https://chartercitiesinstitute.org/nxt50/), which “convenes and mobilizes key stakeholders who are dedicated to harnessing Africa’s rapid urbanization for human prosperity”. 
+**2:** The [Charter Cities Institute](https://chartercitiesinstitute.org/nxt50/) continues doing the long-term ground-level work necessary to create long-term well-grounded charter cities which will be much too boring and responsible for me to write silly profiles of. Some of their most recent work has been with the [Africa Next 50 Cities Coalition](https://chartercitiesinstitute.org/nxt50/), which “convenes and mobilizes key stakeholders who are dedicated to harnessing Africa’s rapid urbanization for human prosperity”. 
 
 **3:** Also, [CCI founder Mark Lutter has left the organization](https://chartercitiesinstitute.org/blog-posts/founder-and-executive-director-mark-lutter-leaving-organization-to-head-new-city-development-project/) to start a charter city of his own, no public details yet. CCI will be looking for a new executive director.
 
- **4:** Speaking of Disney, they’ve been building on their model city expertise and magical storybook branding by creating planned communities around the US - [Story Living By Disney](https://www.storylivingbydisney.com/), starting with [Rancho Mirage California](https://www.storylivingbydisney.com/cotino.html). Realistically it just looks like a very nice planned community, but _this_ planned community comes with the option to have people make fun of you forever for living in a Disney community as an adult.
+**4:** Speaking of Disney, they’ve been building on their model city expertise and magical storybook branding by creating planned communities around the US - [Story Living By Disney](https://www.storylivingbydisney.com/), starting with [Rancho Mirage California](https://www.storylivingbydisney.com/cotino.html). Realistically it just looks like a very nice planned community, but _this_ planned community comes with the option to have people make fun of you forever for living in a Disney community as an adult.
 
- **Predictions for this month:**
+**Predictions for this month:**
 
   * Prospera is still substantially a functioning ZEDE in 2025: 70%
 

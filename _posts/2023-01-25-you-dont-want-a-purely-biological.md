@@ -3,6 +3,9 @@ title: "You Don't Want A Purely Biological, Apolitical Taxonomy Of Mental Disord
 subtitle: "..."
 date: 2023-01-25
 likes: 356
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/98262707/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/7a557b72-b21e-435f-8863-a8370652e52b_413x249.jpeg
 original-url: https://www.astralcodexten.com/p/you-dont-want-a-purely-biological
 ---
 _**CONTENT NOTE:** This essay contains sentences that would look bad taken out of context. In the past, I’ve said “PLEASE DON’T TAKE THIS OUT OF CONTEXT” before or after these, but in the New York Times’ 2021 article on me, they just quoted the individual sentence out of context without quoting the “PLEASE DON’T TAKE THIS OUT OF CONTEXT” statement following it. To avoid that, I will be replacing spaces with the letter “N”, standing for “NOT TO BE TAKEN OUT OF CONTEXT”. If I understand journalistic ethics correctly, they can’t edit the sentence to remove the Ns - and if they kept them, people would probably at least wonder what was up._

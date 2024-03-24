@@ -3,6 +3,9 @@ title: "COVID/Vitamin D: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2021-02-16
 likes: 161
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32614906/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/944b5064-3f42-4eec-b854-6a77256f0156_474x291.jpeg
 original-url: https://www.astralcodexten.com/p/covidvitamin-d-much-more-than-you
 ---
 Most health articles ask you to act on their opinions. I am specifically asking you _not_ to act on mine. In a moment, I'll tell you whether or not I think Vitamin D prevents or treats coronavirus. But I'll give you a free spoiler: I am less than 100% certain of what I'm about to say. So if you want to take Vitamin D, take it. If it does prevent or cure coronavirus, great. If not, the worst that will happen is you'll have slightly better bone health. I can't stress how much I don't want to be those people who said they couldn't prove face masks helped so you must not use face masks. Just ignore everything I'm saying, do a quick cost-benefit calculation, and take Vitamin D. That having been said:
@@ -59,8 +62,8 @@ I've waited until now to bring in the argument from authority. NICE, the UK heal
 
 Here are my beliefs after doing this research:
 
- **Does Vitamin D significantly decrease the risk of getting COVID?:** 25% chance this is true. The Biobank and Mendelian randomization studies are strong arguments against this; the latitude, seasonal, and racial differences are only weak evidence in favor.
+**Does Vitamin D significantly decrease the risk of getting COVID?:** 25% chance this is true. The Biobank and Mendelian randomization studies are strong arguments against this; the latitude, seasonal, and racial differences are only weak evidence in favor.
 
- **Does Vitamin D use at a hospital significantly improve your chances?:** 25% chance this is true. I trust the large Brazilian study more than the smaller Spanish one, but aside from size and a general bias towards skepticism I can't justify this very well. 
+**Does Vitamin D use at a hospital significantly improve your chances?:** 25% chance this is true. I trust the large Brazilian study more than the smaller Spanish one, but aside from size and a general bias towards skepticism I can't justify this very well. 
 
 **Do the benefits of taking a Vitamin D supplement at a normal dose equal or outweigh the costs for most people?:** 75% chance this is true. The risks are pretty low, and it will probably bring you closer to rather than further from a natural range if you're a modern indoor worker (side effects are few; the most serious is probably kidney stones, so don’t take it if you have any tendency towards that). And maybe some day, after [countless false leads and stupid red herrings](https://slatestarcodex.com/2014/01/25/beware-mass-produced-medical-recommendations/), one of the claims people make about this substance will actually pan out. Who knows?

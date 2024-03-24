@@ -3,6 +3,9 @@ title: "Highlights From The Comments On \"How Asia Works\""
 subtitle: "..."
 date: 2021-07-01
 likes: 59
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38248584/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a46dd93e-2cd0-417a-9924-8849462c79a5_680x383.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-how
 ---
   

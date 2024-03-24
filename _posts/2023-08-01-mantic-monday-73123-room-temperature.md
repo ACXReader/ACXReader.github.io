@@ -3,6 +3,9 @@ title: "Mantic Monday 7/31/23: Room Temperature Superforecaster"
 subtitle: "Plus more CFTC, X, and UFOs"
 date: 2023-08-01
 likes: 91
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/135425310/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/9fdbe6da-4544-41a9-aa0d-f6e5bd7e3c40_1280x1158.jpeg
 original-url: https://www.astralcodexten.com/p/mantic-monday-73123-room-temperature
 ---
 ## Surely Nobody’s Going To Rig A US Election To Make A Buck
@@ -21,19 +24,19 @@ Britain already has legalized election betting. But British elections are still 
 
 Still, many people had strong emotions about the possibility of gamblers destroying our democracy. I’ll mostly skip over these in favor of other more interesting comments, like:
 
-  *  **[Various Prestigious Economists](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72654&SearchText=).** I appreciate these people. Every time the CFTC does this, they send in their comment. It’s always “We Are Various Prestigious Economists, And Have You Considered That Economics Tells Us That Prediction Markets Are Good?” Keep fighting the good fight.
+  * **[Various Prestigious Economists](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72654&SearchText=).** I appreciate these people. Every time the CFTC does this, they send in their comment. It’s always “We Are Various Prestigious Economists, And Have You Considered That Economics Tells Us That Prediction Markets Are Good?” Keep fighting the good fight.
 
-  *  **[Muhammed Wang](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72647&SearchText=)**. This is a bog-standard pro-market comment with nothing to distinguish it from hundreds of others. But there’s a statistical concept called the Muhammed Wang Fallacy: the incorrect inference that since the most common first name in the world is Muhammed, and the most common last name is Wang, the most common full name must be Muhammed Wang. It usually ends with “…but there is nobody with this name”. Apparently there is, and he supports prediction markets! Or it’s someone’s pseudonym, I guess.
+  * **[Muhammed Wang](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72647&SearchText=)**. This is a bog-standard pro-market comment with nothing to distinguish it from hundreds of others. But there’s a statistical concept called the Muhammed Wang Fallacy: the incorrect inference that since the most common first name in the world is Muhammed, and the most common last name is Wang, the most common full name must be Muhammed Wang. It usually ends with “…but there is nobody with this name”. Apparently there is, and he supports prediction markets! Or it’s someone’s pseudonym, I guess.
 
-  *  **[Sinclair Chen](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72379&SearchText=)**. Sinclair works at Manifold; she can be spotted at most Bay Area ACX meetups. I didn’t realize the degree to which _she goes hard_ : “CFTC, if you are reading this, know that there is blood on your hands.” This is not exactly the message I would have written. But I think, as the Catholics like to say, that it comes from a vice which is the excess or perversion of a divine virtue, and I appreciate her for being the sort of person who’s like this, sort of.
+  * **[Sinclair Chen](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72379&SearchText=)**. Sinclair works at Manifold; she can be spotted at most Bay Area ACX meetups. I didn’t realize the degree to which _she goes hard_ : “CFTC, if you are reading this, know that there is blood on your hands.” This is not exactly the message I would have written. But I think, as the Catholics like to say, that it comes from a vice which is the excess or perversion of a divine virtue, and I appreciate her for being the sort of person who’s like this, sort of.
 
-  *  **[Andrew Robinson](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72586&SearchText=) **also goes hard, though I’m having a tougher time finding the divine virtue underneath this one. “The market is completely fraudulent and is completely controlled by the largest banks and hedge funds that act as the 23 direct market makers for the global economy. they have once again over leveraged every conceivable asset 100 times over, minimum, and the game is up once the balance sheet runoff explodes in july. this is exactly how entropy can be taught from now on, and these wavelengths of energy will reverberate through all of time.“
+  * **[Andrew Robinson](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72586&SearchText=) **also goes hard, though I’m having a tougher time finding the divine virtue underneath this one. “The market is completely fraudulent and is completely controlled by the largest banks and hedge funds that act as the 23 direct market makers for the global economy. they have once again over leveraged every conceivable asset 100 times over, minimum, and the game is up once the balance sheet runoff explodes in july. this is exactly how entropy can be taught from now on, and these wavelengths of energy will reverberate through all of time.“
 
-  *  **[Justin Mateen](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72657&SearchText=) **is a co-founder of Tinder. His comment is short and generic, but I’m excited to learn a Tinder co-founder is prediction-market-pilled. [Forecasting-based dating app](https://astralcodexten.substack.com/p/ro-mantic-monday-21323) when?
+  * **[Justin Mateen](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72657&SearchText=) **is a co-founder of Tinder. His comment is short and generic, but I’m excited to learn a Tinder co-founder is prediction-market-pilled. [Forecasting-based dating app](https://astralcodexten.substack.com/p/ro-mantic-monday-21323) when?
 
-  *  **[Aristotle Inc](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72704&SearchText=)** is the company that runs PredictIt. PredictIt competes with Kalshi; also, rumor says Kalshi turned regulators against PredictIt and gave them big legal problems. But PredictIt is also naturally interested in promoting permissive regulations for prediction markets, so I was curious what they would say. They not only support Kalshi, but urge the CFTC to allow lower minimum bets than Kalshi requested. This makes sense: Kalshi’s business model is closer to big businesses hedging risks, but PredictIt’s is closer to random individuals making fun bets.
+  * **[Aristotle Inc](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72704&SearchText=)** is the company that runs PredictIt. PredictIt competes with Kalshi; also, rumor says Kalshi turned regulators against PredictIt and gave them big legal problems. But PredictIt is also naturally interested in promoting permissive regulations for prediction markets, so I was curious what they would say. They not only support Kalshi, but urge the CFTC to allow lower minimum bets than Kalshi requested. This makes sense: Kalshi’s business model is closer to big businesses hedging risks, but PredictIt’s is closer to random individuals making fun bets.
 
-  *  **[Jacob Cohen](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72671&SearchText=)** describes himself as the president of his school’s forecasting club. I think we’re going to be all right.
+  * **[Jacob Cohen](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=72671&SearchText=)** describes himself as the president of his school’s forecasting club. I think we’re going to be all right.
 
 
 
@@ -96,7 +99,7 @@ In what sense did she predict 9/11? Another article gives [the exact text of the
 
 This is a 1989 prediction! If you’re calling airplanes “steel birds” in 1989, you’re just hoping that people forget you lived when airplanes already existed and then get impressed with you for predicting them. Come on!
 
-(you could argue that the second half is about Assistant Secretary of State John **Wolf** and Deputy Secretary of Defense Paul **Wolf** owitz **howling** for war with Iraq from with **in** the **Bush** administration, but Ass. Sec Wolf played a minimal role in the war buildup so I think if you are being very strict in your interpretation there was really only one wolf involved.)
+(you could argue that the second half is about Assistant Secretary of State John **Wolf** and Deputy Secretary of Defense Paul **Wolf** owitz **howling** for war with Iraq from with**in** the **Bush** administration, but Ass. Sec Wolf played a minimal role in the war buildup so I think if you are being very strict in your interpretation there was really only one wolf involved.)
 
 Anyway, Vanga’s other predictions for 2023 include:
 
@@ -181,8 +184,8 @@ The rise and fall of Threads.
 
 ## Shorts
 
- **1:** The Existential Risk Persuasion Tournament (see [here](https://astralcodexten.substack.com/p/the-extinction-tournament)) is releasing some more information and some corollaries of their outcomes - see for example [Who’s Right About Inputs Into The Bio Anchors Model?](https://forum.effectivealtruism.org/posts/YGsojZYtEsj2A3PjZ/who-s-right-about-inputs-to-the-biological-anchors-model) I’ll combine some of these with a Highlights From The Comments post once they get all of them out.
+**1:** The Existential Risk Persuasion Tournament (see [here](https://astralcodexten.substack.com/p/the-extinction-tournament)) is releasing some more information and some corollaries of their outcomes - see for example [Who’s Right About Inputs Into The Bio Anchors Model?](https://forum.effectivealtruism.org/posts/YGsojZYtEsj2A3PjZ/who-s-right-about-inputs-to-the-biological-anchors-model) I’ll combine some of these with a Highlights From The Comments post once they get all of them out.
 
- **2:** A story about how insider trading on a prediction market almost [leaked the big AI risk statement](https://news.manifold.markets/p/manifold-predicted-the-ai-extinction) before it was supposed to become public.
+**2:** A story about how insider trading on a prediction market almost [leaked the big AI risk statement](https://news.manifold.markets/p/manifold-predicted-the-ai-extinction) before it was supposed to become public.
 
- **3:** At an ACX meetup, I was asked why journalists don’t cite prediction markets more often, ie “The new paper says there is a room temperature superconductor, but experts are skeptical, and the forecasting engine Metaculus says there is only a 10% chance it will replicate”. I didn’t have a good answer; do any journalists have an opinion on this?
+**3:** At an ACX meetup, I was asked why journalists don’t cite prediction markets more often, ie “The new paper says there is a room temperature superconductor, but experts are skeptical, and the forecasting engine Metaculus says there is only a 10% chance it will replicate”. I didn’t have a good answer; do any journalists have an opinion on this?

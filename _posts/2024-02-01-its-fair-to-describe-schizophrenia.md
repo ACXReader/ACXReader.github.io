@@ -2,7 +2,10 @@
 title: "It's Fair To Describe Schizophrenia As Probably Mostly Genetic"
 subtitle: "..."
 date: 2024-02-01
-likes: 194
+likes: 195
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/141000175/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/8c79a32a-2255-4f69-864c-ab84b90c2e85_4496x3000.jpeg
 original-url: https://www.astralcodexten.com/p/its-fair-to-describe-schizophrenia
 ---
 Famous schizophrenia researcher E. Fuller Torrey recently [wrote a paper](https://www.sciencedirect.com/science/article/abs/pii/S0165178123006418) trying to cast doubt on whether schizophrenia is really genetic. His exact argument is complicated, but I feel like it sort of equivocates between “the studies showing that schizophrenia are genetic are wrong” and “the studies are right, but in a philosophical sense we shouldn’t describe it as ‘mostly genetic’”.
@@ -17,7 +20,7 @@ For example, we commonly use language like “smoking causes lung cancer”. So 
 
 Aftab makes several arguments against causal language in [his post](https://www.psychiatrymargins.com/p/contextualizing-the-heritability), [some others](https://www.psychiatrymargins.com/p/schizophrenia-and-genetics-end-of/comment/47821575) in this discussion in the comments, and there are a few more in [the original Torrey paper](https://www.sciencedirect.com/science/article/abs/pii/S0165178123006418). Let’s go through them, apply the smoking standard, and see how they fare.
 
- **Argument 1: Genes are a risk factor, not a cause.**
+**Argument 1: Genes are a risk factor, not a cause.**
 
 I challenge this distinction. We say that smoking is a risk factor for lung cancer, but also a cause of lung cancer.
 
@@ -37,25 +40,25 @@ Lung cancer is a condition with many possible causes - smoking, radiation, genet
 
 Schizophrenia is also a condition with many possible causes, and I think it makes sense to colloquially say “genetics causes schizophrenia”.
 
- **Argument 2: Statistics about variance explained by heritability in general don’t necessarily apply to individuals**
+**Argument 2: Statistics about variance explained by heritability in general don’t necessarily apply to individuals**
 
 You also can’t point to any individual lung cancer patient and say “smoking caused this person’s lung cancer”. Even if they’re a smoker, they might have gotten the cancer through bad luck, such that they would have still gotten it even if they didn’t smoke.
 
 Still, on a society-wide level we know that smoking causes most lung cancer, so it’s still okay to say “lung cancer is mostly caused by smoking”.
 
-In the same way, we can never say for sure that genetics caused any specific case of schizophrenia[1](/p/its-fair-to-describe-schizophrenia#footnote-1-141000175), but on a society-wide level we can still say “schizophrenia is mostly genetic”.
+In the same way, we can never say for sure that genetics caused any specific case of schizophrenia[^1], but on a society-wide level we can still say “schizophrenia is mostly genetic”.
 
- **Argument 3: The genes that cause schizophrenia aren’t specific to schizophrenia.**
+**Argument 3: The genes that cause schizophrenia aren’t specific to schizophrenia.**
 
 Smoking isn’t specific to lung cancer. It can also cause throat cancer, stroke, heart attacks, COPD, etc. Still, since it’s the main cause of lung cancer, we still say “smoking is the main cause of lung cancer”.
 
-In the same way, even though schizophrenia genes also cause other things, we can still say that schizophrenia is mostly genetic[2](/p/its-fair-to-describe-schizophrenia#footnote-2-141000175).
+In the same way, even though schizophrenia genes also cause other things, we can still say that schizophrenia is mostly genetic[^2].
 
- **Argument 4: No particular gene contributes very much to schizophrenia**
+**Argument 4: No particular gene contributes very much to schizophrenia**
 
 No particular cigarette you smoke contributes very much to your risk of lung cancer, but smoking 10,000 cigarettes does. This is just the sorites paradox.
 
- **Argument 5: Variance in heredity is only meaningful relative to particular societies.**
+**Argument 5: Variance in heredity is only meaningful relative to particular societies.**
 
 The famous example: if you plant a lot of seeds in poor soil, all the variance in how high they grow will be genetic. If you plant a lot of seeds in good soil, all the variance will still be genetic. But if you plant them scattered across soils of various qualities, much of the variance will be environmental.
 
@@ -65,7 +68,7 @@ And also, schizophrenia is a terrible condition to make this argument for. It is
 
 Although one can imagine some super-exotic society where the impact of environmental factors on schizophrenia outweighs genetic factors, I’m not sure this is any more interesting than hypothetical cancer-preventing nanobots that could eliminate the effect of smoking. I think it’s reasonable to discuss the causes of diseases relative to real societies that exist on Earth.
 
- **Argument 6A: Heritability doesn’t tell us about causal processes**
+**Argument 6A: Heritability doesn’t tell us about causal processes**
 
 “Smoking causes lung cancer” doesn’t tell us about causal processes. You have to do difficult research work and expand it out into some specific chain, like “the tar in tobacco causes DNA to mutate in such-and-such a way”. Still, we were happy to say “smoking causes lung cancer” even before we knew the causal process.
 
@@ -73,9 +76,9 @@ Even “A gene causes cystic fibrosis” doesn’t immediately reveal causal pro
 
 In the same way, “genes cause schizophrenia” doesn’t reveal causal processes after the genes. But if it’s true, we’ll one day learn something like “this particular gene makes your glutamate receptors 0.0001% less efficient, and you need efficient glutamate receptors for various brain processes, so if you combine that with 9,999 other genes, your brain processes stop working well.
 
- **Argument 6B: Genes could just be a proxy for some more satisfying cause of schizophrenia**
+**Argument 6B: Genes could just be a proxy for some more satisfying cause of schizophrenia**
 
-The argument here is: imagine schizophrenia is caused by some extremely common virus, that everybody has all the time. In most people, the immune system controls the virus, and it has no effect. But in some people, with genes for bad immune systems, the virus gets out of control and causes schizophrenia. Here we would say the virus causes schizophrenia[3](/p/its-fair-to-describe-schizophrenia#footnote-3-141000175). But it would show up in twin studies as 100% genetic, because all the differences in who gets schizophrenia and who doesn’t are caused by genes.
+The argument here is: imagine schizophrenia is caused by some extremely common virus, that everybody has all the time. In most people, the immune system controls the virus, and it has no effect. But in some people, with genes for bad immune systems, the virus gets out of control and causes schizophrenia. Here we would say the virus causes schizophrenia[^3]. But it would show up in twin studies as 100% genetic, because all the differences in who gets schizophrenia and who doesn’t are caused by genes.
 
 This is possible, but I think it’s false. We know many apparent risk factors for schizophrenia: [cannabis use](https://www.webmd.com/schizophrenia/schizophrenia-marijuana-link), [birth canal asphyxia](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/signs-of-asphyxia-at-birth-and-risk-of-schizophrenia/A604D491A78269DE5837433B897518B4), [social defeat](https://en.wikipedia.org/wiki/Social_defeat), [toxoplasma infection](https://www.science.org/content/article/reality-check-can-cat-poop-cause-mental-illness), [poor prenatal nutrition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2632499/). If you try to combine these into one big picture, it doesn’t work.
 
@@ -87,7 +90,7 @@ Schizophrenia is less comprehensible than kidney disease; all kidney disease cau
 
 Again, I don’t think this is too different from smoking. _You can imagine_ that smoking is just a proxy for a more satisfying cause of lung cancer. For example, smoking depresses immune function, letting a virus get in and cause the cancer. But in fact we’ve studied this pathway and our best guess is that this isn’t true. So we just say “smoking causes lung cancer”.
 
- **Argument 7: Heritability numbers rely on assumptions that can be violated**
+**Argument 7: Heritability numbers rely on assumptions that can be violated**
 
 All numbers are like this.
 
@@ -103,13 +106,13 @@ So the question isn’t whether you can think of a possible bias that a study ca
 
 To keep to our theme, did you know that the phrase “correlation is not causation” was popularized by [pro-tobacco statisticians](https://en.wikipedia.org/wiki/Ronald_Fisher#University_of_Cambridge,_1943%E2%80%931956) to prove that the original smoking-causes-cancer studies might be biased?
 
- **Argument 8: Heritability numbers produces counterintuitive results about risk at an individual level.**
+**Argument 8: Heritability numbers produces counterintuitive results about risk at an individual level.**
 
-We [discussed this in the context of twin pairs earlier](/p/some-unintuitive-properties-of-polygenic). Instead of rejecting heritability numbers, I think people should get better intuitions.
+We [discussed this in the context of twin pairs earlier](/p/some-unintuitive-properties-of-polygenic). Instead of rejecting heritability numbers, I think people should get better intuitions. 
 
 Also, this is equally true of everything else. Even though smoking causes 80% of lung cancer, if Alice gets lung cancer and Bob smokes exactly the same as Alice, Bob will have a much lower than 80% chance of getting lung cancer. The solution isn’t to stop describing smoking as causing lung cancer, it’s to get better intuitions.
 
- **Argument 9: Epilepsy is also ~80% heritable, but we don’t call epilepsy genetic**
+**Argument 9: Epilepsy is also ~80% heritable, but we don’t call epilepsy genetic**
 
 Fine. Epilepsy is also genetic.
 
@@ -135,16 +138,10 @@ It’s even worse than that, because people keep trying to sabotage polygenic sc
 
 And one step to getting them in that dustbin is acknowledging that this mostly genetic disease is, in fact, mostly genetic.
 
- **EDIT AFTER THINKING ABOUT THIS MORE:** One way to think about this is that if we knew for sure that all of the genes involved in schizophrenia were for an autoimmune condition, we might say “schizophrenia is an autoimmune disease”. If we knew for sure that all the genes involved in schizophrenia involved susceptibility to a certain virus, we might say “schizophrenia is a viral disease”. In both of these cases, it would still be genetic in some sense, but we would be more interested in the downstream mediator. But if all of the genes in schizophrenia exert their effect in different ways with different mediators, and there’s no story we can tell beyond the accumulated damage analogy above or the [dynamical systems approach](/p/ontology-of-psychiatric-conditions-34e), maybe we might as well call it genetic, since the genome is the furthest-downstream place where it has a clear and comprehensible unified cause. I think this is the most likely outcome, but Torrey and others disagree. I don’t know if this is the crux of our larger disagreement.
+**EDIT AFTER THINKING ABOUT THIS MORE:** One way to think about this is that if we knew for sure that all of the genes involved in schizophrenia were for an autoimmune condition, we might say “schizophrenia is an autoimmune disease”. If we knew for sure that all the genes involved in schizophrenia involved susceptibility to a certain virus, we might say “schizophrenia is a viral disease”. In both of these cases, it would still be genetic in some sense, but we would be more interested in the downstream mediator. But if all of the genes in schizophrenia exert their effect in different ways with different mediators, and there’s no story we can tell beyond the accumulated damage analogy above or the [dynamical systems approach](/p/ontology-of-psychiatric-conditions-34e), maybe we might as well call it genetic, since the genome is the furthest-downstream place where it has a clear and comprehensible unified cause. I think this is the most likely outcome, but Torrey and others disagree. I don’t know if this is the crux of our larger disagreement.
 
-[1](/p/its-fair-to-describe-schizophrenia#footnote-anchor-1-141000175)
+[^1]: Actually it’s more complicated than this: if you look at [the simulation argument from last time](/p/some-unintuitive-properties-of-polygenic), it’s hopefully obvious that every case is caused _both_ by genetic and by environmental factors, or that it’s not really meaningful to try to disentangle them. I don’t know whether real schizophrenia is like this.
 
-Actually it’s more complicated than this: if you look at [the simulation argument from last time](/p/some-unintuitive-properties-of-polygenic), it’s hopefully obvious that every case is caused _both_ by genetic and by environmental factors, or that it’s not really meaningful to try to disentangle them. I don’t know whether real schizophrenia is like this.
+[^2]: Except the causation here is more like genes → some general high-psychopathology-risk state → schizophrenia. So the exact right analogy isn’t smoking/lung cancer, but something more like obesity/heart attacks. We know that obesity → some general metabolically dysregulated state → heart attacks, but we still colloquially say that obesity can cause heart attacks.
 
-[2](/p/its-fair-to-describe-schizophrenia#footnote-anchor-2-141000175)
-
-Except the causation here is more like genes → some general high-psychopathology-risk state → schizophrenia. So the exact right analogy isn’t smoking/lung cancer, but something more like obesity/heart attacks. We know that obesity → some general metabolically dysregulated state → heart attacks, but we still colloquially say that obesity can cause heart attacks.
-
-[3](/p/its-fair-to-describe-schizophrenia#footnote-anchor-3-141000175)
-
-Would we really? If schizophrenia was caused by an omnipresent virus, but the only people who got it, got it entirely because of genetic differences from the rest of the population, why would we call the virus “the cause” rather than the genes? Is it just because we’re used to calling pathogens the causes of things from our long history with infectious disease? It might be equally reasonable in this case to think of schizophrenia as a genetic immunodeficiency. I don’t know exactly how to think about things like this.
+[^3]: Would we really? If schizophrenia was caused by an omnipresent virus, but the only people who got it, got it entirely because of genetic differences from the rest of the population, why would we call the virus “the cause” rather than the genes? Is it just because we’re used to calling pathogens the causes of things from our long history with infectious disease? It might be equally reasonable in this case to think of schizophrenia as a genetic immunodeficiency. I don’t know exactly how to think about things like this.

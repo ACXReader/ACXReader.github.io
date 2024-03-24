@@ -3,15 +3,18 @@ title: "Dictator Book Club: Xi Jinping"
 subtitle: "..."
 date: 2022-04-06
 likes: 165
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/51342215/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ea93fb47-1a32-4bbd-bfe5-7550898f457b_531x408.png
 original-url: https://www.astralcodexten.com/p/dictator-book-club-xi-jinping
 ---
 ###### [Previous entries: [Erdogan](https://astralcodexten.substack.com/p/book-review-the-new-sultan?s=w), [Modi](https://astralcodexten.substack.com/p/book-review-modi-a-political-biography?s=w), [Orban](https://astralcodexten.substack.com/p/dictator-book-club-orban?s=w)]
 
- _[The Third Revolution](https://amzn.to/3xq08QX)_ , by Elizabeth Economy, promises to explain “the transformative changes underway in China today”. But like her namesake, Dr. Economy doesn’t always allocate resources the way I would like. 
+_[The Third Revolution](https://amzn.to/3xq08QX)_ , by Elizabeth Economy, promises to explain “the transformative changes underway in China today”. But like her namesake, Dr. Economy doesn’t always allocate resources the way I would like. 
 
 I came to the book with questions like: How did the pre-Xi Chinese government work? How was it different from dictatorship? What safeguards did it have against it? Why hadn’t previous Chinese leaders become dictators? And: How did Xi come to power? How did he defeat those safeguards? Had previous Chinese leaders wanted more power? How come they failed to get it, but Xi succeeded?
 
- _Third Revolution_ barely touched on any of this. It mostly explained Xi’s domestic and foreign policies. Some of this was relevant: a lot of Xi’s policies involve repression to prop up his rule. But none of it answered my key questions. So this is less of a book review than other Dictator Book Club entries. It’s a look through recent Chinese history, with _The Third Revolution_ as a very loose inspiration.
+_Third Revolution_ barely touched on any of this. It mostly explained Xi’s domestic and foreign policies. Some of this was relevant: a lot of Xi’s policies involve repression to prop up his rule. But none of it answered my key questions. So this is less of a book review than other Dictator Book Club entries. It’s a look through recent Chinese history, with _The Third Revolution_ as a very loose inspiration.
 
 ## How Does China’s Government Work?
 
@@ -59,7 +62,7 @@ In any case, Xi’s old Politburo class was the last one to be made primarily of
 
 This varied a lot.
 
- **Mao Zedong** was definitely an autocrat. After his death, everyone backstabbed each other furiously for several years and **Deng Xiaoping** ended up on top. Deng had absolute power but thought that was bad, so he created lots of institutions that were supposed to prevent future leaders from exercising the control he had, then sort of backed down. He appointed former Shanghai mayor **Jiang Zemin** as his successor. Jiang followed Deng’s anti-absolute-power rules, but he was able to get most of what he wanted anyway. Partly this was because he was a really skilled politician, partly it was because he had a really good secret police force with personal loyalty to him and lots of blackmail on everyone else.
+**Mao Zedong** was definitely an autocrat. After his death, everyone backstabbed each other furiously for several years and **Deng Xiaoping** ended up on top. Deng had absolute power but thought that was bad, so he created lots of institutions that were supposed to prevent future leaders from exercising the control he had, then sort of backed down. He appointed former Shanghai mayor **Jiang Zemin** as his successor. Jiang followed Deng’s anti-absolute-power rules, but he was able to get most of what he wanted anyway. Partly this was because he was a really skilled politician, partly it was because he had a really good secret police force with personal loyalty to him and lots of blackmail on everyone else.
 
 [![Jiang Zemin Fast Facts | CNN](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faf771a2c-c6e2-4718-816a-d2df9b3263c1_480x270.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faf771a2c-c6e2-4718-816a-d2df9b3263c1_480x270.jpeg)[“Toad Worship”](https://en.wikipedia.org/wiki/Toad_worship) is a class of Chinese internet meme where people ironically pretend to admire Jiang Zemin. No, I don’t get it either.
 

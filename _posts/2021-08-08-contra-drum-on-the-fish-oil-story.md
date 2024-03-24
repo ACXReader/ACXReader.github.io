@@ -3,6 +3,9 @@ title: "Contra Drum On The Fish Oil Story"
 subtitle: "..."
 date: 2021-08-08
 likes: 112
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39760335/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/73493201-a2b3-43e6-b9fc-c2ef93c907a8_1950x1280.png
 original-url: https://www.astralcodexten.com/p/contra-drum-on-the-fish-oil-story
 ---
 **I.**
@@ -19,15 +22,15 @@ Kevin is one of my favorite bloggers and I usually appreciate his commentary. Bu
 
 Let's go over the exact phrasing I used (at this point I admit I'm more in defending-myself mode than making-an-important-point-about-the-FDA mode). An early version of the post included a false claim that the fish oil helped the nervous system; I later edited it to a correct claim that fish oil helped the liver. Drum quotes the corrected version where I talk about the liver, so I'll use that here. I wrote:
 
->  _The FDA approved one version of the nutrient fluid, but it caused some problems, especially liver damage._
+> _The FDA approved one version of the nutrient fluid, but it caused some problems, especially liver damage._
 
 This is straightforwardly true.
 
->  _Drawing on European research, some scientists suggested that a version with fish oil would cause less liver damage — but the fish oil version wasn’t FDA-approved._
+> _Drawing on European research, some scientists suggested that a version with fish oil would cause less liver damage — but the fish oil version wasn’t FDA-approved._
 
 Also straightforwardly true.
 
->  _A bunch of babies kept getting liver damage, and everyone knew how to stop it, but if anyone did the FDA would take away their licenses and shut them down._
+> _A bunch of babies kept getting liver damage, and everyone knew how to stop it, but if anyone did the FDA would take away their licenses and shut them down._
 
 Am I exaggerating when I say “everyone”? Reading Dr. Gura’s notes, you could imagine a story where this knowledge was limited to a couple of world experts in Boston, and it took them a long time to make a convincing case, and once they did the FDA approved it.
 
@@ -37,15 +40,15 @@ I think this history might be one of the reasons Drum and I interpret this story
 
 I worry that people are going to assume I got lucky, that maybe I’ve been spouting a bunch of crap about “the FDA needs to approve drug X! the FDA needs to approve drug Y!” for years, and most of those drugs were unsafe or ineffective, but just by coincidence I got this one right and now I’ll never shut up about it. One answer to this might be to look at my past work and see if this is true (I don’t think it is). But a better answer might be to remember that, if you believe coronavirus vaccines work, you’re in this same situation right now. That is, the media, general public, scientific community, etc all know that they work and are safe, but the FDA still has not fully approved them. This isn’t an unusual situation to be in! Most of the time, the FDA lags the general consensus of people paying attention, usually by quite a lot. I think people worry that I want the FDA to auto-approve insane drugs nobody knows anything about, whereas I’d honestly be pretty happy if they just showed the same level of common sense as an average member of the general public.
 
->  _Around 2010, Boston Children’s Hospital found some loophole that let them add fish oil to their nutrient fluid on site, and infants with short bowel syndrome at that one hospital stopped getting liver damage, and the FDA grudgingly agreed to permit it but banned them from distributing their formulation or letting it cross state lines - so for a while if you wanted your baby to get decent treatment for this condition you had to have them spend their infancy in one specific hospital in Massachusetts._
+> _Around 2010, Boston Children’s Hospital found some loophole that let them add fish oil to their nutrient fluid on site, and infants with short bowel syndrome at that one hospital stopped getting liver damage, and the FDA grudgingly agreed to permit it but banned them from distributing their formulation or letting it cross state lines - so for a while if you wanted your baby to get decent treatment for this condition you had to have them spend their infancy in one specific hospital in Massachusetts._
 
 I was wrong in calling this a "loophole" - they filed an IND with the FDA and got permission to do it as a study (although I don’t know if they were really doing it as a study). Otherwise, as far as I can tell this is true. Some other hospitals also got INDs at a later point.
 
->  _Around 2015 the FDA said that if your doctor applied for a special exemption, they would let you import the fish-oil nutritional fluid from Europe, but you were only able to apply after your baby was getting liver damage, and the FDA might just say no._
+> _Around 2015 the FDA said that if your doctor applied for a special exemption, they would let you import the fish-oil nutritional fluid from Europe, but you were only able to apply after your baby was getting liver damage, and the FDA might just say no._
 
 I got this from a book and haven’t been able to figure out exactly what it’s referring to - there doesn’t seem to be a corresponding entry in Dr. Gura’s notes. I suspect it’s true, since I find a lot of “compassionate use of Omegaven” studies from around this time, but I can’t find the actual FDA document involved. In any case, if true it slightly exonerates the FDA, so it’s probably not one of my points of contention with Drum.
 
->  _Finally in 2018 the FDA got around to approving the corrected nutritional fluid and now babies with short bowel syndrome do fine, after twenty years of easily preventable state-mandated damage and death._
+> _Finally in 2018 the FDA got around to approving the corrected nutritional fluid and now babies with short bowel syndrome do fine, after twenty years of easily preventable state-mandated damage and death._
 
 More like ten years - six if you want to date from the Hong Kong study, five from the NBC article, four if you want to date from me personally knowing about it - but otherwise true.
 
@@ -53,7 +56,7 @@ So the mistakes I see are - I overestimated how long it took - more like five to
 
 So how come Drum (and some other people!) think that the real story proves me wrong?
 
- **II.**
+**II.**
 
 Drum says it’s because Gura was very positive about the FDA, and even I (when reviewing Gura’s story) mentioned that the FDA seemed to have performed its mandate pretty well here and I was impressed with everyone involved. How is this positive portrayal compatible with my outrage?
 
@@ -87,7 +90,7 @@ If Bizarro-World Scott tried to protest the FDA by saying "hey, the delay betwee
 
 I’ve tried to stress, throughout, that the problem I’m trying to address here isn’t that the FDA fails at its mandate or makes bad decisions. It’s that the FDA _by design_ makes it hard to do things that save lives, prevent pandemics, and improve the world. By design, it makes there a several year gap between when everyone including random bloggers knows that something saves lives, and when anyone can actually use it for life-saving.
 
- **III.**
+**III.**
 
 People keep asking whether I’m saying the FDA should be abolished. Let me deflect that question with a discussion on the indications for use of doxepin hydrochloride.
 

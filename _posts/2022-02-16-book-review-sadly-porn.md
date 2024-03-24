@@ -2,7 +2,10 @@
 title: "Book Review: Sadly, Porn"
 subtitle: "..."
 date: 2022-02-16
-likes: 193
+likes: 195
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/48129594/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bd196f43-527a-45f3-acfc-210d8506f836_514x347.png
 original-url: https://www.astralcodexten.com/p/book-review-sadly-porn
 ---
 **I.**
@@ -33,9 +36,9 @@ I can’t remember if this was part of the conversation or came up afterwards, b
 
 This kind of hole-filled map suggests I must be missing _something_ here, and a whole lot of people who might know suggest trying to find it in Lacanian psychoanalysis. I already tried the kind of normal book that a normal person might use to try to understand Lacan, and I bounced off of it like putty. So fine. Let’s try to read this abomination and see if we can squeeze something out of it.
 
- **II.**
+**II.**
 
- _Sadly, Porn_ consists of a mid-double-digits-number of short-ish (5-10 pages) interpretations of various texts, vaguely connected by rants and insults. The texts range from classical (especially Thucydides and _Oedipus Rex_ ), to Biblical, to modern novels, to movies, to pornos, to dreams. Some of them, on closer inspection, are fictional - not in the sense of being works of fiction, but in the sense where Teach made them up. 
+_Sadly, Porn_ consists of a mid-double-digits-number of short-ish (5-10 pages) interpretations of various texts, vaguely connected by rants and insults. The texts range from classical (especially Thucydides and _Oedipus Rex_), to Biblical, to modern novels, to movies, to pornos, to dreams. Some of them, on closer inspection, are fictional - not in the sense of being works of fiction, but in the sense where Teach made them up. 
 
 Some are outright psychoanalytic dream interpretations, and the rest draw from this tradition. The underlying theory is that every work of art (including porno) is an expression of some repressed desire, which has to be different from the open desires (so eg _Oedipus_ can’t really be about marrying your mother, because Oedipus openly marries his mother). So for example, here’s Teach on _The Giving Tree_ \- yes, this is a long quote, but a review this book won’t make sense until you see the kind of thing he’s doing:
 
@@ -57,7 +60,7 @@ Some are outright psychoanalytic dream interpretations, and the rest draw from t
 > 
 > Your desire to be a selfless godmother may imply you’re a bad person, but it doesn’t automatically mean it’s bad for the kid, he still gets a boat, right? Can’t self-interest result in positive outcomes for others? Yes, but this isn’t self-interest, it’s self-definition, it is _relative_ to the outcomes of others. In other words, there’s a ledger that needs to be balanced, and the kid is going to pay eventually. The apparent selfless devotion perversely/purposefully obligates the child to them - it causes there to be a debt owed back to the parent which should not exist: the child perceives the existence of such an unpaid debt and thus believes his guilt is warranted. This is the guilt that the adult reader misinterprets as “nostalgia” or “poignancy”. This is entirely separate from the complex duty an adult child owes their parents, which many avoid anyway; this is an unrepayable debt that keeps the child indebted to the parent - in this way precluding the possibility that the child can mature into their replacement, or at all.
 > 
->  _The Giving Tree_ is an anagram for _I Get Even, Right_? That’s a solid example of the return of the repressed assuming it wasn’t on purpose. So the boy rebels, becomes selfish, he grows up and appears not notice [sic] or not to care that he’s hurting the Tree; but this is inaccurate, his destructive actions should be seen as a _response_ to this debt, to the unfillable gap constituted by the symbolic debt against which his neurosis is a protest.
+> _The Giving Tree_ is an anagram for _I Get Even, Right_? That’s a solid example of the return of the repressed assuming it wasn’t on purpose. So the boy rebels, becomes selfish, he grows up and appears not notice [sic] or not to care that he’s hurting the Tree; but this is inaccurate, his destructive actions should be seen as a _response_ to this debt, to the unfillable gap constituted by the symbolic debt against which his neurosis is a protest.
 > 
 > Not everyone likes the story. There have been a lot of ferocious criticisms of its “theme”. The question is, what is the outcome of these criticisms? Do the criticisms offer an alternative understanding, or do they pretend to criticize in order to maintain the status quo? A popular criticism, heavy with contempt and thus conveniently dismissed as misogyny, is that the Tree “mothered” him too much and failed to foster independence in the child. While this may be factually accurate, it’s even more wrong, it’s the kind of insight that gets you out of having to go any further, it ends your connection to the story - you are done with the book. The criticism that the Tree fails to foster independence presumes it is _supposed_ to do this. But that’s not it’s job. It’s his actual mother’s job, it’s his father’s job. Based on how this little rat turns out it’s clear they failed, but that’s a totally different book, and it’s called _Oedipus Tyrannos_. The critics say the Tree failed as a mother because they _want_ teaching independence to be the metric of motherhood; but as they are misogynists their true target for redefinition is fatherhood. No one criticized the Tree for failing to teach the boy math, or for self-cutting to guilt him into a debt, its one celebrated failure was not teaching him independence, which, you will observe, is way easier than teaching him math. Consequently it is correct to say that the criticisms of the book pose no threat to the underlying psychology which both haters and admirers share, their ends are the same, both pro and con have succeeded in reprioritizing the myriad defining responsibilities of a parent for the modern age, here they are in full, in order of importance: 1. Foster independence. 2. Other stuff.
 > 
@@ -129,7 +132,7 @@ Teach thinks people do this in the hopes of tricking the psychoanalyst into givi
 
 This is the grade of antimeme we’re going up against, and Teach comes from a tradition that believes that the stronger the antimeme, the more annoying your published work has to be. So, this book.
 
- **IV.**
+**IV.**
 
 I don’t claim to have cracked this puzzle or done anything more than scratch the surface here, but if you put a gun to my head and demand I do the Zen master thing and explain as much as I can openly, here’s what I’ve got. Keep in mind there is basically a 100% chance this is the thing where you encounter an antimeme and immediately misunderstand it and turn it into something less interesting:
 
@@ -193,7 +196,7 @@ There are aspects of my experience that sort of fit with what Teach is selling. 
 
 My current plan is to try to be more sensitive to the way my brain plays status-related mind games with itself, and to the tension between that and actual real action in the world, which I expect to be fruitful. Everything else I think I’m just going to wait and see.
 
- **VI.**
+**VI.**
 
 That’s the book’s psychology. What about its sociology and politics? 
 
@@ -227,7 +230,7 @@ In a very charitable reading, perhaps socialists are sad that Elon Musk has $300
 
 Claim: one reason the Athenians lost the Peloponnesian War because is that they voted to ostracize any general who won too often. But the Athenians were still better than _you_. Athens hated successful people, and they took it out on them in particular instances, but at least they managed to do this against a general backdrop of democracy. _Our_ society hates everyone so much that it creates various oppressive institutions and norms just to piss them off.
 
- **VII.**
+**VII.**
 
 Why did Teach write this book?
 
@@ -257,4 +260,4 @@ Anyway, that’s what _Sadly, Porn_ is about. That’ll be $500, please.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4f71b30e-ad9a-44ed-8aa7-315df36cc502_246x355.png)](https://amzn.to/3sK4rCr)
 
- _[other reviews, which I mostly avoided reading until done with mine, to prevent information cascades:[Resident Contrarian](https://www.residentcontrarian.com/p/an-article-about-a-book-about-pornography?r=75epr), [Zero HP Lovecraft](https://zerohplovecraft.substack.com/p/book-review-sadly-porn-by-the-last?r=75epr)]_
+_[other reviews, which I mostly avoided reading until done with mine, to prevent information cascades:[Resident Contrarian](https://www.residentcontrarian.com/p/an-article-about-a-book-about-pornography?r=75epr), [Zero HP Lovecraft](https://zerohplovecraft.substack.com/p/book-review-sadly-porn-by-the-last?r=75epr)]_

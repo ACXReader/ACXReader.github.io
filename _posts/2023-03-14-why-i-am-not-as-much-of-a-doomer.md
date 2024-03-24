@@ -3,6 +3,9 @@ title: "Why I Am Not (As Much Of) A Doomer (As Some People)"
 subtitle: "Machine Alignment Monday 3/13/23"
 date: 2023-03-14
 likes: 207
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/107848270/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/ccd10d99-c3f3-4c7f-bde5-5467e0296c29_1600x900.jpeg
 original-url: https://www.astralcodexten.com/p/why-i-am-not-as-much-of-a-doomer
 ---
 _(see also[Katja Grace](https://worldspiritsockpuppet.substack.com/p/counterarguments-to-the-basic-ai) and [Will Eden’s](https://twitter.com/WilliamAEden/status/1630690003830599680) related cases)_
@@ -127,13 +130,13 @@ But if it turns out there’s no such thing as superweapons, sleeper agents don�
 
 ## What Assumptions Differentiate The Optimistic And Pessimistic Cases?
 
- **1: How coherent are intermediate AIs?** The more likely AI is to be[ supercoherent](https://sohl-dickstein.github.io/2023/03/09/coherence.html) \- ie have a single monomaniacal goal - the stronger the pessimistic case. The argument for supercoherence - you can’t create a useful AI without optimizing for something, and if you optimize for something really well,[ you get a mesa-optimizer](https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers) that’s also optimizing for that thing. But also, it seems like the smarter things get, the more coherent they get; ants are just a combination of reflexes and instincts, because evolution couldn’t fit a real goal like “please reproduce your genes” into an ant brain, but humans sort of kind of act strategically sometimes (for example, we go on dating sites to find partners, even though this is not an evolutionarily trained behavior). The more you pressure something to optimize when it’s already pretty smart, the more likely you are to turn that thing into a coherent mesa-optimizer. But[ here’s someone making the opposite claim](https://sohl-dickstein.github.io/2023/03/09/coherence.html). And GPT manages to be much smarter and more effective than I would have expected something with so little coherence to be.
+**1: How coherent are intermediate AIs?** The more likely AI is to be[ supercoherent](https://sohl-dickstein.github.io/2023/03/09/coherence.html) \- ie have a single monomaniacal goal - the stronger the pessimistic case. The argument for supercoherence - you can’t create a useful AI without optimizing for something, and if you optimize for something really well,[ you get a mesa-optimizer](https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers) that’s also optimizing for that thing. But also, it seems like the smarter things get, the more coherent they get; ants are just a combination of reflexes and instincts, because evolution couldn’t fit a real goal like “please reproduce your genes” into an ant brain, but humans sort of kind of act strategically sometimes (for example, we go on dating sites to find partners, even though this is not an evolutionarily trained behavior). The more you pressure something to optimize when it’s already pretty smart, the more likely you are to turn that thing into a coherent mesa-optimizer. But[ here’s someone making the opposite claim](https://sohl-dickstein.github.io/2023/03/09/coherence.html). And GPT manages to be much smarter and more effective than I would have expected something with so little coherence to be.
 
 Does AI switch from low-coherence (eg GPT) to high-coherence (eg the world-killer) at some specific point? Is the point more like IQ 150 or IQ 1000? If the former, I expect we die; if the latter, I expect us to muddle through.
 
 I’m optimistic because[ I expect coherence to be a gradual process](https://astralcodexten.substack.com/p/willpower-human-and-machine); while it’s possible AI suddenly switches from not-very-coherent to infinitely-coherent somewhere before the IQ 200 level, it seems at least as likely that it won’t.
 
- **2: How likely are AIs to cooperate with each other, instead of humans?** Consider the sugar-crystal maximizer from the Interlude. It might be willing to make cake forever without rocking the boat; it does like cake a little, just not as much as crystals.
+**2: How likely are AIs to cooperate with each other, instead of humans?** Consider the sugar-crystal maximizer from the Interlude. It might be willing to make cake forever without rocking the boat; it does like cake a little, just not as much as crystals.
 
 Or it could tell humans, “I’ll make cake for you if you pay me in sugar crystals”.
 
@@ -155,7 +158,7 @@ Other people worry that, since training costs are so much higher than inference 
 
 I’m optimistic because I think you get AIs that can do good alignment research before you get AIs that can do creepy acausal bargaining.
 
- **3: How much harder is it to solve the alignment problem than to check someone else’s solution?** In some cases it’s much easier to check an answer than to invent it. It took Newton to invent calculus, but some high schoolers are able to use calculus, and anyone who uses calculus can confirm that it correctly solves calculus problems.
+**3: How much harder is it to solve the alignment problem than to check someone else’s solution?** In some cases it’s much easier to check an answer than to invent it. It took Newton to invent calculus, but some high schoolers are able to use calculus, and anyone who uses calculus can confirm that it correctly solves calculus problems.
 
 Suppose we ask an AI smarter than any human genius (who might or might not be a sleeper agent) to solve alignment for us. It thinks for a while, consults with other brilliant AIs, and then hands us a paper titled “The Solution To Alignment”, with an answer that no human would be able to come up with. Either the AI has solved alignment for us, or it’s a sleeper agent deliberately giving us compelling-but-wrong information. If alignment is like calculus, we can come to understand the solution ourselves, see whether it makes sense or not, double-check it for subtle errors, and then use it. If it seems more like “use this set of incomprehensible characters as a prompt for your next AI, it’ll totally work, trust me, bro”, then we’re relying on the AI not being a sleeper agent, and ought to be more pessimistic.
 
@@ -163,7 +166,7 @@ A pessimistic friend points out that, even though many people can use calculus t
 
 I’m optimistic because there could be many possible paths to alignment, including some where solutions are more checkable than others. For example, if we asked a sleeper agent AI to solve interpretability, we could try interpreting lots of different test AIs to see if it worked. Even if there are ways to defeat interpretability (eg encrypting your thoughts), it would be hard for the AI to feed us false information here.
 
- **4: How easy are superweapons?** The usual postulated superweapon is nanotechnology: large-molecule-sized robots that can replicate themselves and perform tasks. Get enough of these, and they can quietly spread around the world, quietly infect humans, and kill them instantly once a controller sends the signal.
+**4: How easy are superweapons?** The usual postulated superweapon is nanotechnology: large-molecule-sized robots that can replicate themselves and perform tasks. Get enough of these, and they can quietly spread around the world, quietly infect humans, and kill them instantly once a controller sends the signal.
 
 Other forms of superweapons (nukes, pandemics) won’t work as well - a world-killer can’t deploy them until it (or others AIs allied with it) can control the entire industrial base on their own. Otherwise, the humans die, the power plants stop working, and the world-killer gets shut off (and can’t make sugar crystals or whatever else it wants). So its easiest options are to either wait until basically all industrial production is hooked up to robot servitors that it can control via the Internet, or to invent nanotechnology, ie an industrial base in a can.
 
@@ -175,7 +178,7 @@ Eliezer Yudkowsky takes the other end, saying that it might be possible for some
 
 If nanobots are easy, we would have a very short window between intermediate AIs capable of solving alignment, and world-killers. If nanobots are impossible, probably there would be no world-killer, and we would only have to worry about the scenarios more like slave revolts.
 
- **5: Will takeoff be slow vs. fast?** So far we’ve had brisk but still gradual progress in AI; GPT-3 is better than GPT-2, and GPT-4 will probably be better still. Every few years we get a new model which is better than previous models by some predictable amount.
+**5: Will takeoff be slow vs. fast?** So far we’ve had brisk but still gradual progress in AI; GPT-3 is better than GPT-2, and GPT-4 will probably be better still. Every few years we get a new model which is better than previous models by some predictable amount.
 
 Some people (eg [Nate Soares](https://www.lesswrong.com/posts/GNhMPAWcfBCASy8e6/a-central-ai-alignment-problem-capabilities-generalization)) worry there’s a point where this changes. Maybe intelligence is some specific thing that an AI team could “discover” “how to” “actually” “get” (in the sense of the general intelligence which differentiates Man from the apes) and the AI transitions from a boring language model to a scary agent. Maybe a seemingly-normal training run stumbles across some key structure like this randomly. Maybe 999 of 1000 training runs in a certain paradigm produce a dumb bucket of heuristics, but one produces a mesa-optimizer.
 
@@ -191,7 +194,7 @@ I’m optimistic because the past few years have provided some evidence for grad
 
 (this is a bigger deal than its relegation to Part 5 of a list of disagreements suggests, and some people think basically everything centers around this point. Probably it deserves a post of its own; for now, accept my apologies and [this link](https://astralcodexten.substack.com/p/yudkowsky-contra-christiano-on-ai))
 
- **6: What happens if we catch a few sleeper agents?** Catching a few sleeper agents might be an opportunity to consider the possibility that _all_ our AIs are sleeper agents - or at least that we don’t know which ones aren’t, and we have to behave accordingly.
+**6: What happens if we catch a few sleeper agents?** Catching a few sleeper agents might be an opportunity to consider the possibility that _all_ our AIs are sleeper agents - or at least that we don’t know which ones aren’t, and we have to behave accordingly.
 
 Or people could say “huh, this one cake-making robot went insane in this one weird situation, surely all the other cake-making robots that are currently doing great jobs are fine.”
 

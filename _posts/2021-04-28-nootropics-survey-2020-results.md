@@ -3,6 +3,9 @@ title: "Nootropics Survey 2020 Results"
 subtitle: "852 people put weird chemicals in their bodies and tell me what happened"
 date: 2021-04-28
 likes: 90
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/35699087/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/408d8337-f7e8-4034-b6aa-969d49c3f141_3450x1946.webp
 original-url: https://www.astralcodexten.com/p/nootropics-survey-2020-results
 ---
 Thanks to the 852 of you who took the 2020 SSC nootropics survey. 
@@ -39,11 +42,11 @@ Also, most people (including me) report effects after only a few days taking Zem
 
 I did ask respondents whether Zembrin caused them any sexual problems - something SSRIs are famous for doing. One person said yes, nine people said no, and ten people said they weren't sure or hadn't used it long enough to tell or something. Three people (12.5%) of the people who read about it on my website reported sexual side effects, but they’d read my essay on it (which included the possibility of sexual side effects), so this is a contaminated sample.
 
- **Sublingual Modafinil Is Not Very Interesting**
+**Sublingual Modafinil Is Not Very Interesting**
 
 I'd heard some rumors that modafinil worked better when taken sublingually - both because it absorbs better, and because it absorbs faster, meaning you're not stuck in 24-36 hours of Sleeplessness Hell. I asked people if they'd tried this. 95% of modafinil users hadn't. Of the 25 people who had, 13 said it was better, 12 said it was worse. They usually used doses between 50% and 100% of the oral dose. I asked for comments on this, and the only one I got was from someone who tried it once at 50% of the oral dose, and said it was terrible and lasted much _longer_ than orally. Probably different people have different pharmacodynamics here, but don't expect this to make it last less time.
 
- **Do Caffeine Alternatives Avoid Tolerance?**
+**Do Caffeine Alternatives Avoid Tolerance?**
 
 Theacrine is a purine alkaloid (ie close relative of caffeine) that gives the same kind of kick caffeine does. Some people have argued you should use it in place of caffeine because it doesn't produce tolerance the same way caffeine does. I asked survey respondents if this was true for them. Most people, including most theacrine users, passed on this question and felt they didn't have a really good sense of how fast tolerance built on it, but I got twelve brave souls willing to take a stand. 4 said they didn't develop any tolerance, 7 said they got some tolerance but less than caffeine, and 1 said they got exactly as much tolerance as with caffeine. So maybe some weak support for the claim? Hard to say.
 
@@ -61,7 +64,7 @@ I asked people how their experience experimenting with nootropics had been, and 
 3% negative because they wasted time and money  
 2% negative because of side effects
 
- **Vendor Recommendations**
+**Vendor Recommendations**
 
 I asked people to recommend good nootropics sources. Here are all the places with more than three recommendations:
 
@@ -76,6 +79,6 @@ I endorse the obvious conclusion of these rankings.
 
 There was also a section to anti-recommend sites and companies you didn't like. The only place to get two anti-recommendations was NootropicsSource, so stay away from them, I guess.
 
- **Thanks Again For Taking The Survey**
+**Thanks Again For Taking The Survey**
 
 Thanks again to the SSC community for taking this survey. _No_ thanks to the broader nootropics community, who totally ignored this even though I tried to advertise it pretty heavily in a lot of nootropics subreddits and forums and chat rooms - 95% of respondents ended up being SSCers. I was disappointed in this because probably only a tiny fraction of SSCers use weird nootropics, whereas the nootropics community would be a data gold mine. If any of you are heavily involved in the nootropics community and have good ideas for how to get people outside this blog more involved next time, please let me know in the comments here or by email.

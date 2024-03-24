@@ -3,6 +3,9 @@ title: "Another Bay Area House Party"
 subtitle: "..."
 date: 2022-10-19
 likes: 326
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/74852396/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fb1f71b3-98b5-4853-b693-264926a24f36_1024x1024.png
 original-url: https://www.astralcodexten.com/p/another-bay-area-house-party
 ---
 _[Previously:[Every Bay Area House Party](https://astralcodexten.substack.com/p/every-bay-area-house-party)]_
@@ -49,7 +52,7 @@ Bob and Ramchandra are on a colorful bean bag, arguing something something stock
 
 Ramchandra took a plastic cup off the table, put it to his mouth like a microphone, made some beat box noises, then began:
 
->  _Yo! TTE is down to 43  
+> _Yo! TTE is down to 43  
 >  Sounds good to me! But it ain’t ESG.  
 > Wanna tell Blackrock to suck my cock  
 > But if they fuck us over we can't sell the stock  
@@ -208,4 +211,4 @@ You let him go on. You may not be living life to the fullest, you may not have c
 
 Someone has finally come up with a scalable solution to Bay Area house parties.
 
- _[Thanks to Davis Tower Kingsley for pitching Skyhook to me, to[eigenrobot](https://twitter.com/eigenrobot/status/1576447288733356033) for alerting me of CA 2799, and to [Tom Wolfe’s Wikipedia page](https://en.wikipedia.org/wiki/Tom_Wolfe#Views) for the inspiration for the Hofstadter article]_
+_[Thanks to Davis Tower Kingsley for pitching Skyhook to me, to[eigenrobot](https://twitter.com/eigenrobot/status/1576447288733356033) for alerting me of CA 2799, and to [Tom Wolfe’s Wikipedia page](https://en.wikipedia.org/wiki/Tom_Wolfe#Views) for the inspiration for the Hofstadter article]_

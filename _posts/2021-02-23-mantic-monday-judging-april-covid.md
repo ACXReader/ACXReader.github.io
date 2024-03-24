@@ -3,6 +3,9 @@ title: "Mantic Monday: Judging April COVID Predictions"
 subtitle: "..."
 date: 2021-02-23
 likes: 63
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32761479/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/05b85ab4-30b6-4187-9150-6d2bff8473ac_981x721.png
 original-url: https://www.astralcodexten.com/p/mantic-monday-judging-april-covid
 ---
 Since this is getting broader than just Metaculus, I'm changing the name to Mantic Monday, after an obscure word for "oracular" (and changing the preview image to a mantis, since I don't know how else to visually represent "mantic". And posting it early Tuesday morning because I’m late).
@@ -23,7 +26,7 @@ Wringing an absolute judgment from a scoring rule like this is hard, but getting
 
 There's something weird about treating a deadly plague like a game show or a horse race. But I like knowing whose opinions to defer to and how much to defer to them, versus when I should stick to my guns. I ran last week's post about coronavirus by Zvi, he disagreed with some of it, and on consideration I made the edits he wanted. But also, I like being able to see my biases and where I need to improve. For example, I see I did the best of the three of us on purely biological questions (like whether the virus would be seasonal), which makes sense since I have medical training. But I did worst at predicting events in my own life (like whether I would get COVID myself). In fact, Zvi pointed out that some of my predictions about my own life were actually inconsistent with each other; embarrassing! I think this is a fluke; on past predictions I haven't done worse on private questions than on scientific ones. But it gives me something to watch out for, to see if maybe I get too emotional about personal questions and my accuracy breaks down.
 
- **Assorted Links**
+**Assorted Links**
 
 1: An alert reader linked me to another play money prediction market, [Hypermind](https://predict.hypermind.com/dash/dash/dash.html?list=ECO), with about two dozen questions including some focused on France and Africa. I'm not too excited by anything up there now, but it looks like they're working on an AI forecasting contest.
 
@@ -37,84 +40,84 @@ There's something weird about treating a deadly plague like a game show or a hor
 
 Thanks to everyone who sent me interesting articles on Metaculus' scoring function; I'll talk about that next time.
 
- **APPENDIX: Coronavirus Questions**
+**APPENDIX: Coronavirus Questions**
 
  _1\. Will the Bay Area stay locked down (eg restaurants closed) beyond June 15, 2020?_
 
 I judged this as "yes" - there was a pretty significant lockdown and you could not eat meals in a restaurant. This was what I meant when writing the question, but I can imagine other people objecting because the lockdown relaxed a little and some restaurants were open for take-out or delivery. But it's my question, I get to decide how it resolves, and I judge this as true.
 
- _2\. Will the Bay Area stay locked down until Election Day (11/3/2020)?_
+_2\. Will the Bay Area stay locked down until Election Day (11/3/2020)?_
 
 Same problem as before, plus "until" could suggest it had to be continuous, but I'm still judging this true.
 
- _3\. Will there be fewer than 100,000 US deaths from coronavirus?_
+_3\. Will there be fewer than 100,000 US deaths from coronavirus?_
 
 [Johns Hopkins says](https://coronavirus.jhu.edu/map.html) there were about 353,000 on 12/31/20, so false.
 
- _4\. ...fewer than 300,000 US coronavirus deaths_
+_4\. ...fewer than 300,000 US coronavirus deaths_
 
 Still false.
 
- _5\. ...fewer than 3 million US coronavirus deaths_
+_5\. ...fewer than 3 million US coronavirus deaths_
 
 True.
 
- _6\. Will the US have the highest official coronavirus death toll of any country?_
+_6\. Will the US have the highest official coronavirus death toll of any country?_
 
 True. US was at 353,000, second place was Brazil with 195K.
 
- _7\. ...the highest death toll as per expert guesses of real numbers?_
+_7\. ...the highest death toll as per expert guesses of real numbers?_
 
 I haven't seen these numbers, but I haven't seen anyone make a plausible case some other country is off by a factor of two. This was mostly in there to cover China (or someone) lying about their death count in an obvious way, which didn't happen. True.
 
- _8\. Will New York City still be widely considered the worst-hit US city?_
+_8\. Will New York City still be widely considered the worst-hit US city?_
 
 Man, what is "widely considered"? NYC had the highest total death toll, but not the highest total number of cases or highest death toll per capita (although all the cities that had higher death tolls per capita were small and maybe shouldn't count in the same league). I wanted to judge this false, but Zvi [actually polled people](https://twitter.com/TheZvi/status/1363338180137779201) and they said it was, so I decided to say true.
 
- _9\. Will China’s reach 100,000 official cases?_
+_9\. Will China’s reach 100,000 official cases?_
 
 China's official case count on 12/31/20 was 95,963, so false.
 
- _10\. By 12/31/20, will a coronavirus vaccine have been approved for general use and given to at least 10,000 people somewhere in the First World?_
+_10\. By 12/31/20, will a coronavirus vaccine have been approved for general use and given to at least 10,000 people somewhere in the First World?_
 
 According to [Our World In Data](https://ourworldindata.org/grapher/cumulative-covid-vaccinations), hundreds of thousands of people in the US and UK had gotten vaccines by 12/20/20. True.
 
- _11\. Will the scientific consensus end up being that hydroxychloroquine was significantly effective?_
+_11\. Will the scientific consensus end up being that hydroxychloroquine was significantly effective?_
 
 UpToDate, the closest thing to a canonical medical recommendation site, currently says: "We suggest not using hydroxychloroquine or chloroquine in hospitalized patients given the lack of clear benefit and potential for toxicity. In June 2020, the US FDA revoked its emergency use authorization for these agents in patients with severe COVID-19, noting that the known and potential benefits no longer outweighed the known and potential risks". False.
 
- _12\. Will I personally will get coronavirus (as per my best guess if I had it; positive test not needed)_
+_12\. Will I personally will get coronavirus (as per my best guess if I had it; positive test not needed)_
 
 As far as I know I haven't gotten it. False.
 
- _13\. Will someone I'm close to (housemate or close family member) get coronavirus?_
+_13\. Will someone I'm close to (housemate or close family member) get coronavirus?_
 
 Nobody I know personally got COVID, although a few of my patients did. False.
 
- _14\. Will the general consensus by that we (the people of April 2020, when I was writing these predictions) were overreacting?_
+_14\. Will the general consensus by that we (the people of April 2020, when I was writing these predictions) were overreacting?_
 
 I don't feel like there's a general consensus in this direction. False.
 
- _15\. ...that we were under-reacting: 50%_
+_15\. ...that we were under-reacting: 50%_
 
 April 2020 was when there were strict nationwide lockdowns and everyone was panicking. There were many things we should have been doing better but I don't think we were under-reacting then per se. False.
 
- _16\. Will there be a general consensus that summer made coronavirus significantly less dangerous?_
+_16\. Will there be a general consensus that summer made coronavirus significantly less dangerous?_
 
 Most papers I read now agree that coronavirus is a seasonal disease and that it's not a coincidence that cases went down in summer and up in winter. True.
 
- _17\. Will there be a catastrophic second wave (50K+ US deaths, or more major lockdowns, after at least a month without these things) in autumn?_
+_17\. Will there be a catastrophic second wave (50K+ US deaths, or more major lockdowns, after at least a month without these things) in autumn?_
 
 In August 2020 there were only 30K US deaths; in December 2020 there were 70K. We never got completely out of lockdown, but the lockdowns got much tighter in December. True.
 
- _18\. Will I personally get back to working not-at-home?_
+_18\. Will I personally get back to working not-at-home?_
 
 My office briefly opened in October or so for very essential business, but I chose not to go in. Then it shut again in November. I never went back. False.
 
- _19\. Will at least half of states send every voter a mail-in ballot in 2020 presidential election?_
+_19\. Will at least half of states send every voter a mail-in ballot in 2020 presidential election?_
 
 According to [this article](https://www.npr.org/2020/09/14/909338758/map-mail-in-voting-rules-by-state), only ten states did this. False.
 
- _20\. Will the PredictIt be uncertain (less than 95% sure) who won the presidential election for more than 24 hours after Election Day?_
+_20\. Will the PredictIt be uncertain (less than 95% sure) who won the presidential election for more than 24 hours after Election Day?_
 
 This was meant to be a proxy for whether there would be a lot of uncertainty about who won the election because of trouble counting mail-in ballots. There was - it took the major networks a few days to call it for Biden, whereas they usually can do it that night. But unrelatedly, even after the networks called it for Biden the prediction markets failed to converge; some combination of high fees, transaction limits, and very stubborn Trump supporters. I think you could still buy shares of Biden for 94 cents almost up until the inauguration. Definitely true.

@@ -3,6 +3,9 @@ title: "Justice Creep"
 subtitle: "..."
 date: 2022-03-16
 likes: 248
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/49709750/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d60b325e-a232-4287-9c83-4ede42362623_1024x683.jpeg
 original-url: https://www.astralcodexten.com/p/justice-creep
 ---
 Freddie deBoer says we’re a [planet of cops](https://freddiedeboer.substack.com/p/planet-of-cops?s=r). Maybe that’s why justice is eating the world.
@@ -33,4 +36,4 @@ Here’s a crazy theory: the moral transition from other virtues to Justice mirr
 
 Of course, every society is somewhere in between Utopia and Dystopia, and needs values relevant to both. Justice is a useful lens that I’m not at all trying to get rid of. But when it starts annexing all the other virtues, until it’s hard to think of them except as species of Justice, I do think that’s potentially a sign of a sick society.
 
-(“A sick society? Sounds like you need some [health justice](https://www.wcl.american.edu/impact/initiatives-programs/health/events/healthjustice2020/whatishealthjustice/), [medical justice](https://www.msms.org/About-MSMS/News-Media/apply-now-for-medical-justice-in-advocacy-fellowship), and [wellness justice](https://www.thealchemistskitchen.com/pages/wellnessjustice)!” —— “ _You’re not helping!”_ )
+(“A sick society? Sounds like you need some [health justice](https://www.wcl.american.edu/impact/initiatives-programs/health/events/healthjustice2020/whatishealthjustice/), [medical justice](https://www.msms.org/About-MSMS/News-Media/apply-now-for-medical-justice-in-advocacy-fellowship), and [wellness justice](https://www.thealchemistskitchen.com/pages/wellnessjustice)!” —— “ _You’re not helping!”_)

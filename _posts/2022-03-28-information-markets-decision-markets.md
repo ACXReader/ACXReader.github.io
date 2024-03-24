@@ -3,6 +3,9 @@ title: "Information Markets, Decision Markets, Attention Markets, Action Markets
 subtitle: "Mantic Monday 3/28/22"
 date: 2022-03-28
 likes: 74
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/51147776/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c04a7825-d8be-4c64-9748-7f27c777cd5f_1908x1146.jpeg
 original-url: https://www.astralcodexten.com/p/information-markets-decision-markets
 ---
 ###### [thumbnail image credit: excellent nature photographer [Eco Suparman](https://www.dailymail.co.uk/news/article-2128668/Amazing-nature-Like-mantis-needs-bicycle-Incredible-close-shot-praying-mantis-Borneo-makes-viewers-double-take.html), which is a great name for an excellent nature photographer!]
@@ -99,7 +102,7 @@ The answer is: yes, this could happen.
 
 But we should expect it to be very rare! Consider: couldn’t you make a lot of money _right now_ by shorting Tesla and then assassinating Elon Musk? Or by shorting Boeing and bombing a plane? Or by going long on train companies, and bombing a plane? Or by going long on diamonds, and then bombing a diamond mine? Or by shorting Bitcoin, and lobbying for more punitive crypto regulations?
 
- _Every_ investment is also an action market! In general, we control this tendency through normal criminal laws. People don’t assassinate Elon Musk because then they’d be investigated for murder. Even if they manage to avoid leaving any fingerprints or whatever, police would probably still go after the guy who put all of his money into Tesla shorts the day before.
+_Every_ investment is also an action market! In general, we control this tendency through normal criminal laws. People don’t assassinate Elon Musk because then they’d be investigated for murder. Even if they manage to avoid leaving any fingerprints or whatever, police would probably still go after the guy who put all of his money into Tesla shorts the day before.
 
 Still, as long as everyone knows what’s going on and no laws are being broken, fine, let’s have action markets:
 
@@ -127,7 +130,7 @@ I think you could solve this problem by subsidizing a prediction market at 25% c
 
 On this [List Of Fictional Cryptocurrencies](https://astralcodexten.substack.com/p/list-of-fictional-cryptocurrencies?s=w), I wrote about ConTracked:
 
->  **ConTracked:** A proposed replacement for government contracting. For example, the state might issue a billion ConTracked tokens which have a base value of zero _unless_ a [decentralized court](https://kleros.io/) agrees that a bridge meeting certain specifications has been built over a certain river, in which case their value goes to $1 each. The state auctions its tokens to the highest bidder, presumably a bridge-building company. If the company builds the bridge, their tokens are worth $1 billion and they probably make a nice profit; if not, they might resell the tokens (at a heavily discounted price) to some other bridge-building company. If nobody builds the bridge, the government makes a tidy profit off the token sale and tries again. The goal is that instead of the government having to decide on a contractor (and probably get ripped off), it can let the market decide and put the risk entirely on the buyer.
+> **ConTracked:** A proposed replacement for government contracting. For example, the state might issue a billion ConTracked tokens which have a base value of zero _unless_ a [decentralized court](https://kleros.io/) agrees that a bridge meeting certain specifications has been built over a certain river, in which case their value goes to $1 each. The state auctions its tokens to the highest bidder, presumably a bridge-building company. If the company builds the bridge, their tokens are worth $1 billion and they probably make a nice profit; if not, they might resell the tokens (at a heavily discounted price) to some other bridge-building company. If nobody builds the bridge, the government makes a tidy profit off the token sale and tries again. The goal is that instead of the government having to decide on a contractor (and probably get ripped off), it can let the market decide and put the risk entirely on the buyer.
 > 
 > Banned because Wall Street developed a financial instrument that let them short ConTrackeds, then tried really hard to prevent bridges from being built.
 

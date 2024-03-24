@@ -3,13 +3,16 @@ title: "Book Review: The Scout Mindset"
 subtitle: "..."
 date: 2021-09-29
 likes: 151
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/41163009/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/49c78244-2b3b-49d5-ab52-47c5413369f7_644x486.png
 original-url: https://www.astralcodexten.com/p/book-review-the-scout-mindset
 ---
 **I.**
 
 You tried Carol Dweck’s [Growth Mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindset), but the replication crisis crushed your faith. You tried Mike Cernovich’s [Gorilla Mindset](https://en.wikipedia.org/wiki/Mike_Cernovich#Books), but your neighbors all took out restraining orders against you. Yet without a mindset, what separates you from [the beasts](https://www.beastbody.org/single-post/lion-is-who-we-are)? Just in time, Julia Galef brings us _[The Scout Mindset](https://amzn.to/3AfvNTL) _(subtitle: “Why Some People See Things Clearly And Others Don’t). 
 
-Galef admits she’s a little behind the curve on this one. Books on rationality and overcoming cognitive biases were big ten years ago ( _Thinking Fast And Slow, Predictably Irrational, The Black Swan_ , etc). Nowadays “smiling TED-talk-circuit celebrity wants to help you improve your thinking!” is more likely to elicit groans than breathless anticipation. And that isn’t the _least_ accurate description of Julia (you can watch her TED talk [here](https://www.ted.com/speakers/julia_galef)).
+Galef admits she’s a little behind the curve on this one. Books on rationality and overcoming cognitive biases were big ten years ago (_Thinking Fast And Slow, Predictably Irrational, The Black Swan_ , etc). Nowadays “smiling TED-talk-circuit celebrity wants to help you improve your thinking!” is more likely to elicit groans than breathless anticipation. And that isn’t the _least_ accurate description of Julia (you can watch her TED talk [here](https://www.ted.com/speakers/julia_galef)).
 
 But Galef earned her celebrity status honestly, through long years of hard labor in the rationality mines. Back in ~2007, a bunch of people interested in biases and decision-making joined the “rationalist community” centered around the group blogs [Overcoming Bias](https://www.overcomingbias.com/) and [Less Wrong](https://www.lesswrong.com/). Around 2012, they mostly left to do different stuff. Some of them went into AI to try to save the world. Others went into effective altruism to try to revolutionize charity. Some, like me, got distracted and wrote a few thousand blog posts on whatever shiny things happened to catch their eyes. But a few stuck around and tried to complete the original project. They founded a group called the Center For Applied Rationality (aka “CFAR”, yes, it’s a pun) to try to figure out how to actually make people more rational in the real world.
 
@@ -27,13 +30,13 @@ A Soldier’s goal is to win the argument, much as real soldiers want to win the
 
 Scout Mindset is the opposite. Even though a Scout is also at war, they want to figure out what’s true. Although it would be convenient for them if the enemy was weak, if the enemy is in fact strong, they want to figure that out so they can report back to their side’s general. They can go on an expedition with the fervent hope that the enemy turns out to be weak, but their responsibility is still to tell the truth as they understand it.
 
-But isn’t there still a war you have to win? Aren’t there some beliefs you want to fight for, such that even if you need to be reasonable when figuring out the best way to proselytize them, they themselves should be beyond challenge? Julia thinks this point is probably further back than you expect. Even a true American patriot might want to consider the possibility that, instead of trying really hard to win the war in Afghanistan, the best thing for the US is to cut their losses and get out. If you were too focused on winning the war because “that’s the most pro-America thing to do”, you might ( _might!_ ) miss that. 
+But isn’t there still a war you have to win? Aren’t there some beliefs you want to fight for, such that even if you need to be reasonable when figuring out the best way to proselytize them, they themselves should be beyond challenge? Julia thinks this point is probably further back than you expect. Even a true American patriot might want to consider the possibility that, instead of trying really hard to win the war in Afghanistan, the best thing for the US is to cut their losses and get out. If you were too focused on winning the war because “that’s the most pro-America thing to do”, you might (_might!_) miss that. 
 
 And maybe you’re not _just_ an American patriot. Maybe you only support America because you think it best embodies certain values you really care about. If America had stopped embodying those values, wouldn’t you want to know about it? When Andrew Jackson toasted “the Union - of all things the most dear” didn’t John Calhoun respond with “to the Union, of all things the most dear - except freedom”?
 
 (not that John Calhoun was very good at promoting freedom - maybe he should have used more scout mindset!)
 
- **II.**
+**II.**
 
 Are Scouts really better than Soldiers? Isn’t this just evidence-less cheerleading for your team (ie Team Scout), exactly the sort of thing Scouts are supposed to avoid?
 
@@ -47,7 +50,7 @@ Galef says not necessarily. Did you know that Jeff Bezos said outright he starte
 
 Galef adds a story from the early days of Intel. They were making computer memory components, and the Japanese were outcompeting them. The executives talked among themselves, admitted they probably couldn’t beat the Japanese, pivoted to a different kind of computer chip - microprocessors - and the rest is history. Even though on the larger-scale they remained Soldiers for their final goal (Intel should make money), being able to play Scouts for their subgoal (what should our strategy be?) served them better than insane overconfidence.
 
- **III.**
+**III.**
 
 The book divides learning Scout Mindset into an intellectual half (Part II) and an emotional half (Part III - V). The intellectual half emphasizes probabilistic thinking and thought experiments.
 
@@ -69,11 +72,11 @@ Or: sometimes pundits will, for example, make fun of excessively woke people by 
 
 Some other counterfactual tests like this you can try:
 
- **Status Quo Test** : If you’re defending the status quo, imagine that the opposite was the status quo. Would you be tempted to switch to what you have now? For example, I sometimes feel tempted to defend American measurements - the inch, the mile, Fahrenheit, etc. But if America was already metric, and somebody proposed we should go to inches and miles, everyone would think they were crazy. So my attraction to US measurements is probably just because I’m used to them, not because they’re actually better.
+**Status Quo Test** : If you’re defending the status quo, imagine that the opposite was the status quo. Would you be tempted to switch to what you have now? For example, I sometimes feel tempted to defend American measurements - the inch, the mile, Fahrenheit, etc. But if America was already metric, and somebody proposed we should go to inches and miles, everyone would think they were crazy. So my attraction to US measurements is probably just because I’m used to them, not because they’re actually better.
 
 (sometimes this is fine: I don’t like having a boring WASPy name like “Scott”, but I don’t bother changing it. If I had a cool ethnically-appropriate name like “Menachem”, would I change it to “Scott”? No. But “the transaction costs for changing are too high so I’m not going to do it” is a totally reasonable justification for status quo bias)
 
- **Conformity Test:** Imagine that some common and universally-agreed idea was unusual; would you still want to do it? If not, you might be motivated by conformity bias. Suppose only 5% of people got married or had kids; would you still want to be one of the 5%? Suppose almost everyone started a business after high school, and going to college instead was considered a weird contrarian choice - would you take it anyway?
+**Conformity Test:** Imagine that some common and universally-agreed idea was unusual; would you still want to do it? If not, you might be motivated by conformity bias. Suppose only 5% of people got married or had kids; would you still want to be one of the 5%? Suppose almost everyone started a business after high school, and going to college instead was considered a weird contrarian choice - would you take it anyway?
 
 Again, sometimes this is fine. Doing the same thing as everyone else earns you friends, and is usually good evidence that you’re not making a terrible error. But it’s at least worth being aware of. Julia writes:
 
@@ -83,7 +86,7 @@ Again, sometimes this is fine. Doing the same thing as everyone else earns you f
 > 
 > It’s possible my cousin Shoshana crossed paths with Barack Obama at some point, because he used a similar trick on his advisors when he was president. It was essentially a “yes man” test: If someone expressed agreement with a view of his, Obama would pretend he had changed his mind and no longer held that view. Then he would ask them to explain to him why they believed it to be true. “Every leader has strengths and weakness, and one of my strengths is a good BS detector” Obama said.
 
- **The Selective Skeptic Test:** How credible would you consider the same evidence if it supported the other side?
+**The Selective Skeptic Test:** How credible would you consider the same evidence if it supported the other side?
 
 A meta-analysis of ninety careful studies, published by a prestigious psychology professor, shows that there is no such thing as telepathy, p < -10^10. Does that put the final nail in the coffin? Does it close the debate? Is anyone who tries to pick holes in it just a sore loser? Does it mean that anyone who keeps believing in telepathy after this is a “science denier”?
 
@@ -93,13 +96,13 @@ This is another one with some subtlety. By Bayes’ Rule, you should believe evi
 
 A lot of the best rationalists I know instinctively apply these tests to everything they think. One technique for cultivating this practice (not the book’s recommendation) is to go on Twitter, where the adage is “there’s always an old tweet”. Argue that people who say racist things should be cancelled, and someone will dig up your old racist tweet and make you defend why you shouldn’t face the same consequences. Argue that it’s disgraceful when the other party uses extreme violent language about their outgroup, and someone will dig up an old tweet where you used even more extreme language about yours. Demand that the Republican senator resign for sexual misconduct, and someone will find the old tweet where you said the Democratic senator should tough it out. Eventually, if you want to maintain any dignity at all, you learn to double-check whether your beliefs are consistent with one another or with what you’d believe in vaguely similar situations.
 
- _Scout Mindset_ says: why not try the same thing, even when you’re not on Twitter, just to determine what’s true?
+_Scout Mindset_ says: why not try the same thing, even when you’re not on Twitter, just to determine what’s true?
 
- **IV.**
+**IV.**
 
 And one very likely answer is: because it would hurt.
 
- _Scout Mindset_ tries to differentiate itself from other rationality-and-bias books by caring a lot about this. It argues that, while other rationality books just told you what to do, most people wouldn’t do it; they’d be too emotionally attached to their existing beliefs. So after giving a few intellectual suggestions, it goes on a deep dive into the emotional side.
+_Scout Mindset_ tries to differentiate itself from other rationality-and-bias books by caring a lot about this. It argues that, while other rationality books just told you what to do, most people wouldn’t do it; they’d be too emotionally attached to their existing beliefs. So after giving a few intellectual suggestions, it goes on a deep dive into the emotional side.
 
 At times, this sounds a little facile. There are lots of pages to the effect of “instead of relying on false beliefs in order to feel good about yourself, have you considered just having true beliefs but feeling good anyway?” The book phrases this a little more politely: 
 

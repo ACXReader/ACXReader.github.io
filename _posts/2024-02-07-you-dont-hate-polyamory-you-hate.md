@@ -2,7 +2,10 @@
 title: "You Don't Hate Polyamory, You Hate People Who Write Books"
 subtitle: "..."
 date: 2024-02-07
-likes: 381
+likes: 383
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/141358165/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/525bbd7f-844c-402e-b363-1458475892db_291x173.jpeg
 original-url: https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate
 ---
 **I.**
@@ -13,7 +16,7 @@ The overall form was: “I read a memoir about polyamory, everyone involved seem
 
 But this is an unfair generalization. They should hate people who write books.
 
- **II.**
+**II.**
 
 Advice is disproportionately written by defective people. Healthy people perform naturally and effortlessly. You walk so gracefully that a million man-hours into bipedal robots fail to match your skill. But if some stroke patient or precocious one-year-old asked your secret, you would just say “I put one foot in front of the other.”
 
@@ -37,7 +40,7 @@ In retrospect, I think it’s not surprising that the best-known relationship ad
 
 My concern is that people read books like this, correctly intuit that there’s something wrong with the author, and then apply that to polyamorous people in general.
 
- **III.**
+**III.**
 
 This is a bit unfair; _The_ _Atlantic_ article was about a memoir, not a book of advice. Memoirs aren’t necessarily written by people in terrible relationships. Just narcissists.
 
@@ -61,7 +64,7 @@ If you’re a particular type of bad person (which I am) then you will interpret
 
 This is also what I think _The Atlantic_ is doing with polyamory.
 
- **IV.**
+**IV.**
 
 Not all memoirs are written by narcissists. Some are written by activists. This is not an improvement.
 

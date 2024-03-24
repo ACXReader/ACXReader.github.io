@@ -1,10 +1,13 @@
 ---
 title: "The Precision Of Sensory Evidence"
 date: 2021-02-13
-likes: 166
+likes: 167
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32496500/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b7f06eee-1cdb-4520-ae33-d5a8c0baa6c5_800x533.jpeg
 original-url: https://www.astralcodexten.com/p/the-precision-of-sensory-evidence
 ---
-[ _semi-necessary prerequisites:_[Surfing Uncertainty](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/), [Friston On Computational Mood](https://slatestarcodex.com/2018/03/08/ssc-journal-club-friston-on-computational-mood/)]
+[_semi-necessary prerequisites:_[Surfing Uncertainty](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/), [Friston On Computational Mood](https://slatestarcodex.com/2018/03/08/ssc-journal-club-friston-on-computational-mood/)]
 
 In earlier posts, I've expressed confusion about two competing models of depression. In one - supported by an analogy to mania and various forms of sensory and motor disturbance - it's [inappropriately low neural confidence levels](https://slatestarcodex.com/2017/09/12/toward-a-predictive-theory-of-depression/). In the other - supported by common sense - it's [a highly-confident global prior on negative perceptions and events](https://slatestarcodex.com/2018/03/08/ssc-journal-club-friston-on-computational-mood/) \- a bias to interpret incoming information in a threat-related way. Both of these models had a lot going for them. But they didn't really fit together. Van der Bergh et al’s [Better Safe Than Sorry: A Common Signature Of General Vulnerability For Psychopathology](https://www.researchgate.net/profile/Cristina_Ottaviani/publication/341577413_Better_safe_than_sorry_A_common_signature_of_general_vulnerability_for_psychopathology/links/5ec8be8192851c11a8816da0/Better-safe-than-sorry-A-common-signature-of-general-vulnerability-for-psychopathology.pdf), in the October issue of _Perspectives In Psychological Science,_ tries to tie the pieces together into a more ambitious theory of negative emotionality, including depression, anxiety and trauma.
 

@@ -3,6 +3,9 @@ title: "Dictator Book Club: Putin"
 subtitle: "Review of Masha Gessen's \"The Man Without A Face\""
 date: 2023-08-03
 likes: 174
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/134180409/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/b424cc20-0234-4207-8d0b-bbd2cddf6d3a_650x350.png
 original-url: https://www.astralcodexten.com/p/dictator-book-club-putin
 ---
 _[previously in series:[Erdogan](https://astralcodexten.substack.com/p/book-review-the-new-sultan?s=w), [Modi](https://astralcodexten.substack.com/p/book-review-modi-a-political-biography?s=w), [Orban](https://astralcodexten.substack.com/p/dictator-book-club-orban), [Xi](https://astralcodexten.substack.com/p/dictator-book-club-xi-jinping)]_
@@ -27,7 +30,7 @@ My source for this quote is _[The Man Without A Face: The Unlikely Rise Of Vladi
 
 Officially, Vladimir Putin was born in 1952 to Vladimir Putin Sr. and Maria Putina, two middle class laborers who had lost their previous two children in the hellish Nazi siege of Leningrad a decade before.
 
-Putin’s paternal grandfather was [Spiridon Putin](https://en.wikipedia.org/wiki/Spiridon_Putin), “personal cook to Vladimir Lenin and Joseph Stalin”[1](/p/dictator-book-club-putin#footnote-1-134180409). Also:
+Putin’s paternal grandfather was [Spiridon Putin](https://en.wikipedia.org/wiki/Spiridon_Putin), “personal cook to Vladimir Lenin and Joseph Stalin”[^1]. Also:
 
 > [Spiridon] Putin worked at the famous Hotel Astoria, where he once served Grigori Rasputin. Rasputin gave Putin a gold ruble as he was impressed with the cuisine and noticed the similarity between their names.
 
@@ -73,7 +76,7 @@ Also, it seems unclear whether you can _disband_ the KGB. Around this point in t
 
 Putin became Deputy Mayor In Charge Of Foreign Affairs, in charge of making business deals with foreign cities. In this position, he was notably corrupt even for 1990s St. Petersburg, one of the most corrupt cities in one of the most corrupt eras in one of the most corrupt nations in history. People who challenged his corruption tended to have bad things happen to him; probably he called on his KGB connections here, though it seemed he also had some connections to local organized crime. Mayor Sobchak, who was equally corrupt, stood behind him the whole way. Eventually the electorate got tired of all the corruption and voted Sobchak out; Putin moved to Moscow and got various mid-level positions on the strength of being boring, loyal, and not having enough personality to offend anybody - others say the KGB was involved in some way.
 
-Around this time, President Boris Yeltsin was floundering. He had descended into alcoholism, become temperamental, fired all of his competent ministers, and mismanaged the country to the brink of economic collapse. His approval rating was 2%. The only people in Moscow who didn’t hate him were his daughter Tatyana and friendly oligarch Boris Berezovksy. Their job was to pick new officials when Yeltsin would fire the previous ones in a drunken rage. When an opening in Security opened up, Berezovsky remembered Putin, who he had met a few times doing business in St. Petersburg. Putin had refused a bribe - something so shocking it had seared him in the oligarch’s memory[2](/p/dictator-book-club-putin#footnote-2-134180409).
+Around this time, President Boris Yeltsin was floundering. He had descended into alcoholism, become temperamental, fired all of his competent ministers, and mismanaged the country to the brink of economic collapse. His approval rating was 2%. The only people in Moscow who didn’t hate him were his daughter Tatyana and friendly oligarch Boris Berezovksy. Their job was to pick new officials when Yeltsin would fire the previous ones in a drunken rage. When an opening in Security opened up, Berezovsky remembered Putin, who he had met a few times doing business in St. Petersburg. Putin had refused a bribe - something so shocking it had seared him in the oligarch’s memory[^2]. 
 
 > If Berezovsky is to be believed, he was the one who mentioned Putin to Valentin Yumashev, Yeltsin’s chief of staff. “I said ‘We’ve got Putin, who used to be in the secret services, didn’t he?’ And Valya said ‘Yes, he did,’ and I said, ‘Listen, I think it’s an option. Think about it: he is a friend, after all.’ And Valya said, ‘But he’s got pretty low rank.’ And I said, ‘Look, there is a revolution going on, everything is all mixed up, so there . . . ‘“
 > 
@@ -137,7 +140,7 @@ Is it true that Putin only leaned into traditional values after 2012? I only loo
 
 …is the question we ask at the end of every Dictator Book Club.
 
- _The Man Without A Face_ makes it sound like Putin was able to consolidate power and become a dictator because:
+_The Man Without A Face_ makes it sound like Putin was able to consolidate power and become a dictator because:
 
   1. He led the security services
 
@@ -152,7 +155,7 @@ Why were the security services so pliant? The closest _MWAF_ comes to an answer 
 
 Once you have the security services and the courts, it’s not trivial to take over everything else. You still have to threaten, imprison, and rob the right people in the right order, or else everyone else will get common knowledge of your bad nature before you can crush all protests. But it’s do-able by somebody with good political instincts, which Putin had.
 
-So could it happen here? Probably not. The closest US equivalents are the FBI and CIA. Right now they seem more aligned with the Democratic side of the aisle, so Trump or some future Trump would have a hard time winning their total loyalty. As for the Democrats, I think it’s against their ideological DNA to do Mafia-style killings. I’m not being some misty-eyed optimist here. I absolutely believe there are factions among the Democrats who would love to restrict free speech, pack the Supreme Court, divert Congressional powers to the executive branch, and lots of other creepy authoritarian things. But I just can’t take seriously the idea of Joe Biden / Kamala Harris / Chuck Schumer ordering goons to rough someone up[3](/p/dictator-book-club-putin#footnote-3-134180409).
+So could it happen here? Probably not. The closest US equivalents are the FBI and CIA. Right now they seem more aligned with the Democratic side of the aisle, so Trump or some future Trump would have a hard time winning their total loyalty. As for the Democrats, I think it’s against their ideological DNA to do Mafia-style killings. I’m not being some misty-eyed optimist here. I absolutely believe there are factions among the Democrats who would love to restrict free speech, pack the Supreme Court, divert Congressional powers to the executive branch, and lots of other creepy authoritarian things. But I just can’t take seriously the idea of Joe Biden / Kamala Harris / Chuck Schumer ordering goons to rough someone up[^3].
 
 And thank goodness. I tried to stick to the facts and the interesting story beats, but the meat of _Man Without A Face_ is a sense of total despair. Vladimir Putin killed hundreds of his people in false flag bombings, destroyed Chechnya, and murdered hundreds of journalists who tried to sound the warning about these misdeeds. He’s stolen $40 billion of Russian money for his personal fortune, driven out those Russians with the means to emigrate, and made an entire country live in fear. Now he is committing similar crimes against Ukraine. I’m glad the Ukrainians are resisting and glad that most of the world has avoided his particular style of thuggish despotism, but can’t help feeling heartbreak for everyone still stuck in Russia.
 
@@ -160,16 +163,10 @@ It seems like an especially unstable time; hopefully things will get better soon
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c855b55-de2c-4c73-ba49-92b2145e0bb9_223x331.png)](https://manifold.markets/Inosen_Infinity/will-vladimir-putin-be-the-presiden-00a0332740bc)
 
-[1](/p/dictator-book-club-putin#footnote-anchor-1-134180409)
-
-The more I think about this fact, the more confused I am. There is no record of Spiridon passing any advantage on to his son Vladimir Sr, or of the Spiridon connection further Vladimir Jr’s career. It seems like a total coincidence. But surely the chance that the grandson of the chef of one Russian dictator becoems the next Russian dictator is millions-to-one. I can only appeal to [Pyramid-and-Garden](https://slatestarcodex.com/2016/11/05/the-pyramid-and-the-garden/) style reasoning about how in a big world, we should expect many such coincidences.  
+[^1]: The more I think about this fact, the more confused I am. There is no record of Spiridon passing any advantage on to his son Vladimir Sr, or of the Spiridon connection further Vladimir Jr’s career. It seems like a total coincidence. But surely the chance that the grandson of the chef of one Russian dictator becoems the next Russian dictator is millions-to-one. I can only appeal to [Pyramid-and-Garden](https://slatestarcodex.com/2016/11/05/the-pyramid-and-the-garden/) style reasoning about how in a big world, we should expect many such coincidences.  
   
 But also, the man who came closest to overthrowing Putin, Yevgeny Prigozhin, was _Putin_ ’s former cook! Again, this is pretty weird, but I don’t know what the alternative is. Some kind of conspiracy of Russian cooks?
 
-[2](/p/dictator-book-club-putin#footnote-anchor-2-134180409)
+[^2]: Given that Putin was otherwise corrupt, why did he refuse this bribe? The book doesn’t explain it, but plausibly he had better sources of bribery income and thought it would be useful to ingratiate himself with Berezhovsky
 
-Given that Putin was otherwise corrupt, why did he refuse this bribe? The book doesn’t explain it, but plausibly he had better sources of bribery income and thought it would be useful to ingratiate himself with Berezhovsky
-
-[3](/p/dictator-book-club-putin#footnote-anchor-3-134180409)
-
-Reading this has made me seek out concerns about the FBI more, which led me to articles like [Why We Can’t Trust The FBI](https://public.substack.com/p/why-we-cant-trust-the-fbi) and [FBI Helps Ukraine Censor Twitter Users](https://mate.substack.com/p/fbi-helps-ukraine-censor-twitter). I absolutely believe the FBI is spreading fear of terrorism for their own gain, often crosses the line between monitoring extremists and entrapping/provoking them, and is part of the general censorship apparatus. But even their enemies don’t accuse them of the tiniest fraction of what Putin and his security services were doing. I’ve also been trying to pay more attention to ways that the administration uses the courts and Justice Department to go after their enemies; although this is a time-honored dictatorship tactic, I think the allegations against Trump are mostly fair and there aren’t a lot of other, unfair ones I know about. I do think it’s a valid question whether, even if the allegations against Trump are fair, we ought not to make them, as part of a norm of making it hard to investigate enemies of the regime. But I’m not sure there has ever been such a norm - the investigations of Nixon and Clinton went further, on less serious charges.
+[^3]: Reading this has made me seek out concerns about the FBI more, which led me to articles like [Why We Can’t Trust The FBI](https://public.substack.com/p/why-we-cant-trust-the-fbi) and [FBI Helps Ukraine Censor Twitter Users](https://mate.substack.com/p/fbi-helps-ukraine-censor-twitter). I absolutely believe the FBI is spreading fear of terrorism for their own gain, often crosses the line between monitoring extremists and entrapping/provoking them, and is part of the general censorship apparatus. But even their enemies don’t accuse them of the tiniest fraction of what Putin and his security services were doing. I’ve also been trying to pay more attention to ways that the administration uses the courts and Justice Department to go after their enemies; although this is a time-honored dictatorship tactic, I think the allegations against Trump are mostly fair and there aren’t a lot of other, unfair ones I know about. I do think it’s a valid question whether, even if the allegations against Trump are fair, we ought not to make them, as part of a norm of making it hard to investigate enemies of the regime. But I’m not sure there has ever been such a norm - the investigations of Nixon and Clinton went further, on less serious charges.

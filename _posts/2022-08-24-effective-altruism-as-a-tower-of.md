@@ -3,21 +3,24 @@ title: "Effective Altruism As A Tower Of Assumptions"
 subtitle: "..."
 date: 2022-08-24
 likes: 261
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/69906838/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/50904f0a-4daf-4436-9fd3-a36671530f79_640x468.jpeg
 original-url: https://www.astralcodexten.com/p/effective-altruism-as-a-tower-of
 ---
 I have an essay that my friends won’t let me post because it’s too spicy. It would be called something like _How To Respond To Common Criticisms Of Effective Altruism (In Your Head Only, Definitely Never Do This In Real Life),_ and it starts:
 
->  **Q:** I don’t approve of how effective altruists keep donating to weird sci-fi charities.  
->  **A:** Are you donating 10% of your income to normal, down-to-earth charities?
+> **Q:** I don’t approve of how effective altruists keep donating to weird sci-fi charities.  
+> **A:** Are you donating 10% of your income to normal, down-to-earth charities?
 > 
->  **Q:** Long-termism is just an excuse to avoid helping people today!  
->  **A:** Are you helping people today?
+> **Q:** Long-termism is just an excuse to avoid helping people today!  
+> **A:** Are you helping people today?
 > 
->  **Q:** I think charity is a distraction from the hard work of systemic change.  
->  **A:** Are you working hard to produce systemic change?
+> **Q:** I think charity is a distraction from the hard work of systemic change.  
+> **A:** Are you working hard to produce systemic change?
 > 
->  **Q:** Here are some exotic philosophical scenarios where utilitarianism gives the wrong answer.  
->  **A:** Are you donating 10% of your income to poor people who aren’t in those exotic philosophical scenarios?
+> **Q:** Here are some exotic philosophical scenarios where utilitarianism gives the wrong answer.  
+> **A:** Are you donating 10% of your income to poor people who aren’t in those exotic philosophical scenarios?
 
 Many people will answer yes to all of these! In which case, fine! But…well, suppose you’re a Christian. An atheist comes up to you and says “Christianity is stupid, because the New International Version of the Bible has serious translation errors”. 
 
@@ -47,19 +50,19 @@ Think that 10% is the wrong number, and you should be helping people closer to h
 
 Near the end of my too-spicy-to-publish essay:
 
->  **Q:** Separate from any questions about my personal obligations, I just think it’s important to call out the ways effective altruism as a movement is doing harm.  
->  **A:** Separate from any callouts of effective altruism as a movement, I just think it’s important to confront the question of whether you personally should be donating 10% of your income to the poorest people in the world.
+> **Q:** Separate from any questions about my personal obligations, I just think it’s important to call out the ways effective altruism as a movement is doing harm.  
+> **A:** Separate from any callouts of effective altruism as a movement, I just think it’s important to confront the question of whether you personally should be donating 10% of your income to the poorest people in the world.
 
 For me, basically every other question around effective altruism is less interesting than this basic one of moral obligation. It’s fun to debate whether some people/institutions should gain or lose status, and I participate in those debates myself, but they seem less important than these basic questions of how we should live and what our ethics should be. 
 
-> **Q:** Come on, **** effective altruism doesn’t even emphasize the “donate 10% of your income to effective charities” thing anymore! Now it emphasizes searching for an altruistic career!  
->  **A:** Are you pursuing an altruistic career?
+> **Q:** Come on,**** effective altruism doesn’t even emphasize the “donate 10% of your income to effective charities” thing anymore! Now it emphasizes searching for an altruistic career!  
+> **A:** Are you pursuing an altruistic career?
 > 
->  **Q:** No, because I think all the altruistic careers on their list are stupid and won’t really help anybody!  
->  **A:** Then are you donating 10% of your income to charity?
+> **Q:** No, because I think all the altruistic careers on their list are stupid and won’t really help anybody!  
+> **A:** Then are you donating 10% of your income to charity?
 > 
->  **Q:** You’re just doing a sneaky equivocation thing where you conflate “effective altruism”, a specific flawed community, with the idea of altruism itself, thus deflecting all possible criticism!  
->  **A:** You caught me. Are you donating 10% of your income to the poorest people in the world? Why not?
+> **Q:** You’re just doing a sneaky equivocation thing where you conflate “effective altruism”, a specific flawed community, with the idea of altruism itself, thus deflecting all possible criticism!  
+> **A:** You caught me. Are you donating 10% of your income to the poorest people in the world? Why not?
 > 
->  **Q:** FINE. YOU WIN. Now I’m donating 10% of my income to charity.  
->  **A:** You should donate more effectively.
+> **Q:** FINE. YOU WIN. Now I’m donating 10% of my income to charity.  
+> **A:** You should donate more effectively.

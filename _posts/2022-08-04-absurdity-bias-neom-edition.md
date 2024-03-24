@@ -3,6 +3,9 @@ title: "Absurdity Bias, Neom Edition"
 subtitle: "..."
 date: 2022-08-04
 likes: 88
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/67070724/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4817609f-13c2-4b4f-86f5-d9342901acde_680x450.jpeg
 original-url: https://www.astralcodexten.com/p/absurdity-bias-neom-edition
 ---
 Alexandros M [expresses concern](https://twitter.com/alexandrosM/status/1554756886057979904) about my post [on Neom](https://astralcodexten.substack.com/p/model-city-monday-8122). 

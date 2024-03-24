@@ -3,6 +3,9 @@ title: "A Look Down Track B"
 subtitle: "Do antidepressants bind to TrkB receptors directly?"
 date: 2021-02-22
 likes: 60
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32783193/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3b96ca59-4b3c-4690-806d-ba7014128ba1_1761x1065.jpeg
 original-url: https://www.astralcodexten.com/p/a-look-down-track-b
 ---
 **I.**
@@ -19,7 +22,7 @@ A recent study, [Antidepressant drugs act by directly binding to TrkB neurotroph
 
 If this is true, how come antidepressants take about a month to work? This is a problem for the serotonin theory too - antidepressants start increasing serotonin immediately - but everyone has agreed that [something something autoreceptor downregulation](https://slatestarcodex.com/2020/06/15/the-vision-of-vilazodone-and-vortioxetine/) so probably it's fine. What does the new theory say? It argues that it takes a lot of antidepressant to activate TrkB - so much that it takes a month for the right amount to accumulate in the brain (wait, antidepressants accumulate in the brain over months? we'll come back to this part.)
 
- **II.**
+**II.**
 
 I'm not a cellular biologist or a biochemist, so I can't comment on most of the high-tech methods used in this paper. All I can do is give a psychiatrist's response, informed by working with some of these substances in real life. This is a great theory, one that would be the biggest psychiatric breakthrough in a decade if true. But I'm not buying it yet.
 
@@ -72,7 +75,7 @@ They say TrkB is really hard to work with and tends to produce lots of false pos
 Based on all this, I'm going to stick with the usual SSRIs -> serotonin -> BDNF -> TrkB -> nerve growth theory for now, but I look forward to seeing further attempts to replicate and explicate these interesting results.
     
     
-     **Prediction:** 90% chance that no major academic or popular resource (eg UpToDate, NICE, Wikipedia, WebMD) will give this theory prominence equal to or greater than the standard serotonin theory in its explanation of antidepressant effects by 2030, unless this is because some third theory has obsoleted both of them and neither gets any space.
+    **Prediction:** 90% chance that no major academic or popular resource (eg UpToDate, NICE, Wikipedia, WebMD) will give this theory prominence equal to or greater than the standard serotonin theory in its explanation of antidepressant effects by 2030, unless this is because some third theory has obsoleted both of them and neither gets any space.
     
     
-     **Prediction:** 95% chance that no drug with a design directly based on this theory will be approved for depression by the FDA by 2030
+    **Prediction:** 95% chance that no drug with a design directly based on this theory will be approved for depression by the FDA by 2030

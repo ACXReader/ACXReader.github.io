@@ -3,11 +3,14 @@ title: "Contra Hoffman On Vitamin D Dosing"
 subtitle: "..."
 date: 2022-04-22
 likes: 83
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/51821259/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0be5c188-47c8-44e9-9ceb-e006d19f936f_474x291.jpeg
 original-url: https://www.astralcodexten.com/p/contra-hoffman-on-vitamin-d-dosing
 ---
 _[epistemic status: pretty uncertain about each individual fact, moderate confidence in general overview]_
 
- **I. Hoffman Contra Me**
+**I. Hoffman Contra Me**
 
 I’ve said many times that (to a first approximation) Vitamin D is a boring bone-related chemical. Most claims that it does exciting things outside of bones - cure COVID! prevent cancer! decrease cardiovascular risk! - are hype, and have failed to stand up to replication.
 
@@ -67,7 +70,7 @@ Various studies claim that 40% or 60% or 99% or 100% of Americans are “deficie
 
 Using the Garland model above, bringing that office worker up to the level of a Bangladeshi farmer would take 1200 IU. Bringing him up to the level of the Hadza would take 2600 IU. Bringing an average (not unusually deficient) American up to the level of the Hadza would take 1400 IU. All of these seem pretty close to the range of supplements used in studies (600 - 2000 IU).
 
- **III. Much More Nitpicky And Tedious Debates About Vitamin D Dosing**
+**III. Much More Nitpicky And Tedious Debates About Vitamin D Dosing**
 
 This isn’t especially related to Hoffman’s point, but I think the previous section would be incomplete without it.
 
@@ -83,15 +86,15 @@ As far as I know, nobody wants to argue that Veugelers is wrong, or defend the I
 
 Meanwhile, [Manson 2016](https://sci-hub.st/https://www.nejm.org/doi/full/10.1056/nejmp1608005) uses a similar argument to make the opposite point. They argue that all of these “40% of people are deficient in Vitamin D” studies are exaggerations. 40% of people don’t get the recommended daily allowance of Vitamin D. But the recommended daily allowance is what the 97.5th percentile of trouble-absorbing-Vitamin-D would need in order to not be deficient. The _average_ person getting less than the RDA is just fine. This is a kind of nitpicky point, but if you were panicking about the Vitamin D deficiency crisis, it’s a good reason to panic much less.
 
- _Meanwhile_ , another medical organization only slightly less prestigious than the IOM, the Endocrine Society, has recommended a much higher Vitamin D level, for totally unrelated reasons. They recommend serum levels of at least 30 ng/ml compared to IOM’s 20 ng/ml, claiming that this was better at maximizing calcium absorption, lowering parathyroid hormone (an indicator of insufficient calcium absorption), and preventing falls in the elderly. You can read the IOM’s side of the argument [here](https://academic.oup.com/jcem/article/97/4/1146/2833210), and the Endocrine Society’s [here](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/B9780128099650000598). I haven’t looked into this in enough detail to determine who I agree with.
+_Meanwhile_ , another medical organization only slightly less prestigious than the IOM, the Endocrine Society, has recommended a much higher Vitamin D level, for totally unrelated reasons. They recommend serum levels of at least 30 ng/ml compared to IOM’s 20 ng/ml, claiming that this was better at maximizing calcium absorption, lowering parathyroid hormone (an indicator of insufficient calcium absorption), and preventing falls in the elderly. You can read the IOM’s side of the argument [here](https://academic.oup.com/jcem/article/97/4/1146/2833210), and the Endocrine Society’s [here](https://sci-hub.st/https://www.sciencedirect.com/science/article/pii/B9780128099650000598). I haven’t looked into this in enough detail to determine who I agree with.
 
 Some people recommend very very high levels of Vitamin D supplementation, for example [this one](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541280/) arguing for a recommendation of 8000 IU. These numbers usually come from combining the Endocrine Society’s high target for Vitamin D with Veugelers’ point about wanting to catch 97.5% of people, minus his point about how you shouldn’t do that because it might cause toxicity. I have not looked into the (complicated, vehement) debate about whether medium-to-high doses (around 10,000 IU) of Vitamin D really do cause toxicity or not.
 
- **IV. Mortality Studies**
+**IV. Mortality Studies**
 
 Ben brings up the [Autier meta-analysis](https://pubmed.ncbi.nlm.nih.gov/24308073/):
 
->  _“Autier looks at 172 randomized trials (!) and finds ‘Results from intervention studies did not show an effect of vitamin D supplementation on disease occurrence’”_
+> _“Autier looks at 172 randomized trials (!) and finds ‘Results from intervention studies did not show an effect of vitamin D supplementation on disease occurrence’”_
 > 
 > The highest dosage mentioned in the abstract is 2000 IU (25 minutes [of sunlight]), which is at least getting somewhere. Maybe that's why "supplementation in elderly people (mainly women) with 20 μg vitamin D per day seemed to slightly reduce all-cause mortality." Also, a SIGNIFICANT REDUCTION IN ALL-CAUSE MORTALITY is a huge deal. That is the gold-standard outcome metric that everyone wishes their study was adequately powered to hit. Last time I checked statins don't reach all-cause mortality significance and they're widely prescribed.
 
@@ -111,7 +114,7 @@ Except elsewhere they say that:
 
 I’m not sure why they flip-flop between “lower doses are better” and “lower doses are the same”, but either way, I don’t think this supports Ben’s claim that higher doses are better.
 
- **V. COVID Studies**
+**V. COVID Studies**
 
 Ben writes:
 
@@ -135,7 +138,7 @@ Still, none of those really seem that convincing to me - most of them are true o
 
 I think the strongest reason people keep looking for this kind of thing is that scientists published studies showing a lot of effects, people got very excited, and then they forgot to keep track of where that excitement came from, and it stuck around even after the original reason disappeared.
 
- **VI. Summary**
+**VI. Summary**
 
 I think, to a first approximation, that Vitamin D is a boring bone chemical. I say “a first approximation” because I accept there are Vitamin D receptors on immune cells and a couple of other things, and it probably plays some role in modulating those. But it doesn’t seem to be a very big role, and I don’t think there’s much evidence for it having big effects on non-skeletal diseases within the normal or slightly-insufficient range.
 

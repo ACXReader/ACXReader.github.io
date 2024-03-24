@@ -3,9 +3,12 @@ title: "Your Book Review: Cities And The Wealth Of Nations/The Question Of Separ
 subtitle: "Finalist #1 in the Book Review Contest"
 date: 2023-05-19
 likes: 342
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/122567088/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/3fea9911-ece0-4cf0-8d03-b3a473d70fef_432x288.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-cities-and-the-wealth
 ---
-[ _This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_ ]
+[_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]
 
 If you know Jane Jacobs at all, you know her for her work on cities. Her most famous book, published in 1961, is called _The Death and Life of Great American Cities_. It criticizes large-scale, top-down “urban renewal” policies, which destroy organic communities. Today almost everyone agrees with her on that, and she is considered one of the most influential thinkers on urban theory.
 
@@ -59,7 +62,7 @@ Fortunately, she has some ideas.
 
 The original sin of macroeconomics, Jacobs believe, is to treat sovereign countries, or nations, as the main unit of economic analysis. 
 
-This error, she claims, goes back to mercantilism, one of the first formal economic policies. Oversimplified, mercantilism states that wealth is synonymous with the amount of gold and silver in a nation’s treasury. This makes nations the main unit of economic analysis by definition. It’s a tautology — and one that was somehow embedded so deep in economic thinking that even the non-mercantilist Adam Smith would eventually choose, for his masterpiece of economic theory, the title _An Inquiry into the Nature and Causes of the Wealth of **Nations**_. Today, even though mercantilism has long been obsolete, we perpetuate the same tautology whenever we talk of the Gross Domestic Product or look at the very nice charts from [Our World in Data](https://ourworldindata.org/), which for the most part allow only one level of resolution: sovereign countries.
+This error, she claims, goes back to mercantilism, one of the first formal economic policies. Oversimplified, mercantilism states that wealth is synonymous with the amount of gold and silver in a nation’s treasury. This makes nations the main unit of economic analysis by definition. It’s a tautology — and one that was somehow embedded so deep in economic thinking that even the non-mercantilist Adam Smith would eventually choose, for his masterpiece of economic theory, the title _An Inquiry into the Nature and Causes of the Wealth of**Nations**_. Today, even though mercantilism has long been obsolete, we perpetuate the same tautology whenever we talk of the Gross Domestic Product or look at the very nice charts from [Our World in Data](https://ourworldindata.org/), which for the most part allow only one level of resolution: sovereign countries.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d533e64-f407-4b05-aea5-5b5a9dbdc7bc_1600x1130.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d533e64-f407-4b05-aea5-5b5a9dbdc7bc_1600x1130.png)
 
@@ -107,11 +110,11 @@ The Bardou story contains examples of several of the forces that import-replacin
 
   * **Jobs**. Prosperous cities tend to attract people from elsewhere who come for work, which is what depopulated Bardou in the 19th and 20th centuries.
 
-  *  **Technology**. New things are disproportionately invented in cities, and only later do they affect other regions. Bardou received a windfall when the movie company rented it for location shots; that would obviously not have been possible before movie technology was invented.
+  * **Technology**. New things are disproportionately invented in cities, and only later do they affect other regions. Bardou received a windfall when the movie company rented it for location shots; that would obviously not have been possible before movie technology was invented.
 
-  *  **Transplants**. Sometimes cities send transplanted factories to other regions. (I don’t think that happened to Bardou.)
+  * **Transplants**. Sometimes cities send transplanted factories to other regions. (I don’t think that happened to Bardou.)
 
-  *  **Capital**. Cities can provide money directly to other regions, for instance as subsidies, loans, or development grants. I’m guessing that Bardou received some assistance from the French national or regional governments at some point.
+  * **Capital**. Cities can provide money directly to other regions, for instance as subsidies, loans, or development grants. I’m guessing that Bardou received some assistance from the French national or regional governments at some point.
 
 
 
@@ -332,35 +335,35 @@ So, to end this review on a more review-y note, go read Jane Jacobs. Her books a
 
 ## Image credits
 
-  *  _ **Cities and the Wealth of Nations**_ **book cover** : from [Amazon](https://www.amazon.com/Cities-Wealth-Nations-Principles-Economic/dp/0394729110?keywords=cities+and+the+wealth+of+nations&qid=1679610174).
+  *  _**Cities and the Wealth of Nations**_**book cover** : from [Amazon](https://www.amazon.com/Cities-Wealth-Nations-Principles-Economic/dp/0394729110?keywords=cities+and+the+wealth+of+nations&qid=1679610174).
 
-  *  _ **The Question of Separatism**_ **book cover** : from [Amazon](https://www.amazon.com/Question-Separatism-Quebec-Struggle-Sovereignty/dp/0394509811?crid=12MKPBFYG2U22&keywords=the+question+of+separatism&qid=1679610276).
+  * _**The Question of Separatism**_**book cover** : from [Amazon](https://www.amazon.com/Question-Separatism-Quebec-Struggle-Sovereignty/dp/0394509811?crid=12MKPBFYG2U22&keywords=the+question+of+separatism&qid=1679610276).
 
-  *  **Phillips curve** : from Phillips, A.W. (1958), The Relation Between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom, 1861–1957. _Economica_ , 25: 283-299. <https://doi.org/10.1111/j.1468-0335.1958.tb00003.x>
+  * **Phillips curve** : from Phillips, A.W. (1958), The Relation Between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom, 1861–1957. _Economica_ , 25: 283-299. <https://doi.org/10.1111/j.1468-0335.1958.tb00003.x>
 
   * **Our World in Data historical GDP charts** : from Our World in Data’s [article on economic growth](https://ourworldindata.org/economic-growth).
 
-  *  **Saugus Iron Works photograph** : By Daderot at the English-language Wikipedia, CC BY-SA 3.0. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=10748200).
+  * **Saugus Iron Works photograph** : By Daderot at the English-language Wikipedia, CC BY-SA 3.0. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=10748200).
 
-  *  **Bardou photograph** : By Ckeen - Own work, CC BY-SA 3.0. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=164777).
+  * **Bardou photograph** : By Ckeen - Own work, CC BY-SA 3.0. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=164777).
 
-  *  _ **Shinohata**_ **book cover** : from [Penguin Random House Canada](https://www.penguinrandomhouse.ca/books/42051/shinohata-by-ronald-dore/9780307831934).
+  * _**Shinohata**_**book cover** : from [Penguin Random House Canada](https://www.penguinrandomhouse.ca/books/42051/shinohata-by-ronald-dore/9780307831934).
 
-  *  **Greater Tokyo Area map** : By Qrsk075 - Own work, CC BY-SA 3.0. From [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=15541972).
+  * **Greater Tokyo Area map** : By Qrsk075 - Own work, CC BY-SA 3.0. From [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=15541972).
 
-  *  **Higgins, North Carolina screenshot** : from [Google Street View](https://www.google.com/maps/@35.9566518,-82.3715803,3a,75y,319.61h,78.07t/data=!3m6!1e1!3m4!1sQo6HlG3MbDiVVvLhCjIL1A!2e0!7i13312!8i6656).
+  * **Higgins, North Carolina screenshot** : from [Google Street View](https://www.google.com/maps/@35.9566518,-82.3715803,3a,75y,319.61h,78.07t/data=!3m6!1e1!3m4!1sQo6HlG3MbDiVVvLhCjIL1A!2e0!7i13312!8i6656).
 
-  *  **Dominion of Canada map** : “Map of the Dominion of Canada Showing Location of Some of the Principal Products (1900)”. Found on [Flickr](https://www.flickr.com/photos/manitobamaps/3811643901).
+  * **Dominion of Canada map** : “Map of the Dominion of Canada Showing Location of Some of the Principal Products (1900)”. Found on [Flickr](https://www.flickr.com/photos/manitobamaps/3811643901).
 
-  *  **Golden Horseshoe map** : By Vidioman - Crop and trace of Image:Canada (geolocalisation).svg; trace of Image:Ontario subdivisions.PNG. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=2919445).
+  * **Golden Horseshoe map** : By Vidioman - Crop and trace of Image:Canada (geolocalisation).svg; trace of Image:Ontario subdivisions.PNG. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=2919445).
 
-  *  **Venetian ducat photograph** : By Classical Numismatic Group, Inc. http://www.cngcoins.com, CC BY-SA 3.0. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=687990).
+  * **Venetian ducat photograph** : By Classical Numismatic Group, Inc. http://www.cngcoins.com, CC BY-SA 3.0. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=687990).
 
-  *  **2023 French protests in Besançon photograph** : By Toufik-de-Planoise, CC BY-SA 4.0. From [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Manifestation_retraites_23_mars_2023_Besan%C3%A7on_Toufik-de-Planoise.jpg).
+  * **2023 French protests in Besançon photograph** : By Toufik-de-Planoise, CC BY-SA 4.0. From [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Manifestation_retraites_23_mars_2023_Besan%C3%A7on_Toufik-de-Planoise.jpg).
 
-  *  **Holy Roman Empire map** : “Deutschland im XIV. Jahrhundert”, Gustav Droysen, 1886. From [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deutschland_im_XIV._Jahrhundert.jpg).
+  * **Holy Roman Empire map** : “Deutschland im XIV. Jahrhundert”, Gustav Droysen, 1886. From [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deutschland_im_XIV._Jahrhundert.jpg).
 
-  *  **Jane Jacobs portrait** : Ron Bull/Toronto Star
+  * **Jane Jacobs portrait** : Ron Bull/Toronto Star
 
 
 

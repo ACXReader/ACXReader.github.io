@@ -3,11 +3,14 @@ title: "Highlights From The Comments On San Fransicko"
 subtitle: "..."
 date: 2022-06-29
 likes: 64
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/61120327/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d6eea704-7eb8-49db-9fc5-503fd15e9fc5_680x382.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-san
 ---
 [Original post [here](https://astralcodexten.substack.com/p/book-review-san-fransicko)]
 
- **1:**
+**1:**
 
 [Nifty775 writes](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7300505):
 
@@ -29,7 +32,7 @@ I don’t know whether the numbers are different for chronic mentally ill homele
 
 Overall these numbers make me a little less worried about this concern. San Francisco is already quite generous, and even if some new policy doubled the absolute number of people who came from elsewhere, it would only increase the total number 10-20%.
 
- **2:**
+**2:**
 
 [James M on Houston’s success story](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7306069):
 
@@ -59,9 +62,9 @@ Overall these numbers make me a little less worried about this concern. San Fran
 
 Together with the model showing housing prices predicted homelessness well, I find this really convincing.
 
- **3:**
+**3:**
 
- ****[Eledex from DSL](https://www.datasecretslox.com/index.php/topic,6920.0.html) wins Most Dramatic Story:
+****[Eledex from DSL](https://www.datasecretslox.com/index.php/topic,6920.0.html) wins Most Dramatic Story:
 
 > My, and my whole family's, take on homelessness has changed significantly in the last year and a half.
 > 
@@ -87,7 +90,7 @@ Common-sensically what these people are doing is bad and should stop. My guess i
 
 So that leaves some kind of law targeting all homeless people and demanding they go in shelters or something. I dunno, seems unfair. Probably there are gradations of unfairness and you could figure out some way to minimize the impact, but I don’t know, Eledex sure does have a valid gripe here.
 
- **4:**
+**4:**
 
 [Sean does some excellent detective work](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7319018) on both my and Shellenberger’s claims. I edited some of these into the post already, so you may not have seen the mistaken versions, but here are the corrections. First, on the Zillow study:
 
@@ -107,11 +110,11 @@ Next, on mental illness among the homeless:
 > 
 > And this the methodology:
 > 
->  _"Through an in-depth data analysis, conducted in collaboration with the DPH Whole Person Care team, the Mental Health Reform team found that approximately 18,000 adults experienced homelessness in San Francisco in fiscal year 2018-19. These individuals were identified by the Coordinated Care Management System (CCMS), a DPH-operated system integrating 15 separate databases from DPH, HSH and the Human Services Agency (HSA). CCMS defines people as experiencing homelessness in the fiscal year if they either: 1) utilize a City service that indicates housing instability, for example, a City shelter, or 2) self-report homelessness while accessing health care services._
+> _"Through an in-depth data analysis, conducted in collaboration with the DPH Whole Person Care team, the Mental Health Reform team found that approximately 18,000 adults experienced homelessness in San Francisco in fiscal year 2018-19. These individuals were identified by the Coordinated Care Management System (CCMS), a DPH-operated system integrating 15 separate databases from DPH, HSH and the Human Services Agency (HSA). CCMS defines people as experiencing homelessness in the fiscal year if they either: 1) utilize a City service that indicates housing instability, for example, a City shelter, or 2) self-report homelessness while accessing health care services._
 > 
->  _While the DPH estimate of 18,000 people experiencing homelessness in FY1819 may appear to conflict with San Francisco’s Point-in-Time Count (8,035 people counted in January 2019)1, the U.S. Department of Housing and Urban Development (HUD) details in its Annual Homeless Assessment Report to Congress that the full-year number is generally 2.5 times greater than the single-night count._
+> _While the DPH estimate of 18,000 people experiencing homelessness in FY1819 may appear to conflict with San Francisco’s Point-in-Time Count (8,035 people counted in January 2019)1, the U.S. Department of Housing and Urban Development (HUD) details in its Annual Homeless Assessment Report to Congress that the full-year number is generally 2.5 times greater than the single-night count._
 > 
->  _Using the CCMS-defined 18,000 people experiencing homelessness as the base, the Mental Health Reform team analyzed the population’s diagnostic epidemiology to understand the associated burden of behavioral health issues. The team found nearly 4,000 adults experiencing homelessness who also suffer with cooccurring mental health and substance use disorders. Specifically, in addition to homelessness, this group of 4,000 has a history of both psychosis and substance use disorder."_
+> _Using the CCMS-defined 18,000 people experiencing homelessness as the base, the Mental Health Reform team analyzed the population’s diagnostic epidemiology to understand the associated burden of behavioral health issues. The team found nearly 4,000 adults experiencing homelessness who also suffer with cooccurring mental health and substance use disorders. Specifically, in addition to homelessness, this group of 4,000 has a history of both psychosis and substance use disorder."_
 > 
 > Shellenberger I believe makes the mistake of using the one-point-in-time number (8035) as his denominator as opposed to the CCMS number (18,000), which the authors use in their report.
 
@@ -121,7 +124,7 @@ Next, on Los Angeles’ Proposition HHH, which I (following Shellenberger) descr
 
 > You [Scott] write:
 > 
->  _“[Los Angeles] hoped to build ~10,000 units for the homeless, at a projected price of $140,000 each.”_
+> _“[Los Angeles] hoped to build ~10,000 units for the homeless, at a projected price of $140,000 each.”_
 > 
 > This might be a bit misleading; I think Proposition HHH’s contribution of ~$140,000 was always meant to be a *partial* subsidy of per-unit costs. Here’s the text of the proposition in question:
 > 
@@ -139,7 +142,7 @@ Next, on Los Angeles’ Proposition HHH, which I (following Shellenberger) descr
 > 
 > You write:
 > 
->  _“But in fact, five years later, LA has completed only 700 units, and the cost per unit has spiralled to $531,000 each. Nobody has a good explanation for what happened, with Shellenberger quoting one local service provider who said a lot of it was “bullshit costs”. “_
+> _“But in fact, five years later, LA has completed only 700 units, and the cost per unit has spiralled to $531,000 each. Nobody has a good explanation for what happened, with Shellenberger quoting one local service provider who said a lot of it was “bullshit costs”. “_
 > 
 > a. On only completing 700 units, I have some evidence here from the comptroller that’s a bit more nuanced:
 > 
@@ -209,7 +212,7 @@ And on drug use:
 
 > 1\. You [Scott] write:
 > 
->  _"San Fransicko’s description of Amsterdam solving its drug and crime problems matches the other sources I found, although I’m confused about how much harm reduction was involved."_
+> _"San Fransicko’s description of Amsterdam solving its drug and crime problems matches the other sources I found, although I’m confused about how much harm reduction was involved."_
 > 
 > I'd dissent with your and Shellenberger's description of the trends here.
 > 
@@ -231,7 +234,7 @@ And on drug use:
 
 Overall I’m very impressed with Sean’s work here. Sean, if you ever have anything this illuminating about some other topic, please send me an email and pitch it to me.
 
- **5:**
+**5:**
 
 [Graham shares](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7300529) his experience as an “ex-cop in a city with a lot of homeless”:
 
@@ -253,7 +256,7 @@ Also [from Graham](https://astralcodexten.substack.com/p/book-review-san-fransic
 
 I’m still confused that reporting varies in exactly the right way to keep the reported level constant regardless of the real level, but right now that’s my only objection to just going with the “stats are wrong” story.
 
- **6:**
+**6:**
 
 AvalancheGenesis [has more on shoplifting](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7301896):
 
@@ -265,7 +268,7 @@ AvalancheGenesis [has more on shoplifting](https://astralcodexten.substack.com/p
 > 
 > Upshot: whether the anecdata or the Official CDC Statistics are more reflective of the territory, *people act like the anecdata are true*, with consequent harmful policy and behaviour modifications. So spending resources to address the perception, if not the underlying (non-)problem, would seem to be a $20 win lying on the ground regardless. Current Nash equilibrium is painful for everyone.
 
- **7:**
+**7:**
 
 Slaw (writes [Slaw’s Newsletter](https://slaw.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [says](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7301578):
 
@@ -323,7 +326,7 @@ Unfortunately, you can’t ask people on a survey “are you the good or the bad
 
 One possible criticism of _San Fransicko_ is that it makes a good and valid criticism which statistics will naturally contradict because everyone’s doing the statistics wrong, and instead of arguing this, it tries to massage the statistics.
 
- **8:**
+**8:**
 
 David Roman (writes [A History Of Mankind](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7302033)):
 
@@ -331,7 +334,7 @@ David Roman (writes [A History Of Mankind](https://astralcodexten.substack.com/p
 
 Without wanting to claim that Portugal is fundamentally conservative, it does seem to have always had fewer drugs than the average European country. If I’m wrong about that, let me know.
 
- **9:**
+**9:**
 
 Shaked Koplewitz [writes](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7302605):
 
@@ -341,7 +344,7 @@ I didn’t want to say that Shellenberger “supports institutionalization”, b
 
 I would be more sympathetic to this fair criticism if he was more willing to criticize the mass institutionalization era and less willing to criticize everyone who was ever against it.
 
- **10:**
+**10:**
 
 Lots of people wanted to tell their horror stories. [Daniel Franke](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7304326):
 
@@ -351,7 +354,7 @@ And [Alice K](https://astralcodexten.substack.com/p/book-review-san-fransicko/co
 
 > I appreciate your trust of in-person reports about shoplifting. We live part-time in Seattle. We do see flagrant, open shoplifting, where the thieves just wheel out carts of stuff in front of security guards. This is a new thing. We asked why the guards don't stop it and they say a combination of the risk of crazy, violent response combined with no legal consequence is why. I guarantee most of it is not being reported. The remaining police are overwhelmed. Unless one is filing an insurance claim and a case number is required, there is no point in calling them to report theft. It is a waste of time.
 
- **11:**
+**11:**
 
 [Unsigned Integer](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7307327) and several other people thought Phoenix/SF comparisons were unfair:
 
@@ -361,21 +364,21 @@ California and Seattle are among the rare US cities where it never gets unbearab
 
 Unsigned also links to [r/homeless](https://reddit.com/r/homeless/), which is pretty fascinating and a good antidote to the temptation to think of all homeless people as crazy or dumb or addicted - though it also includes threads like [San Francisco is the ultimate place to camp](https://np.reddit.com/r/homeless/comments/prge48/san_francisco_is_the_ultimate_place_to_camp/).
 
- **12:**
+**12:**
 
 Gordon Tremeshko writes:
 
 > Apart from the spiraling costs, which you correctly noted, have we forgotten so quickly what happened with the public housing projects built with Great Society money back in the '60s? To take one famous example:
 > 
->  _Unlike many of the city's other public housing projects such as Rockwell Gardens or Robert Taylor Homes, Cabrini-Green was situated in an affluent part of the city. The poverty-stricken projects were actually constructed at the meeting point of Chicago's two wealthiest neighborhoods, Lincoln Park and the Gold Coast. Less than a mile to the east sat Michigan Avenue with its high-end shopping and expensive housing. Specific gangs "controlled" individual buildings, and residents felt pressure to ally with those gangs in order to protect themselves from escalating violence._
+> _Unlike many of the city's other public housing projects such as Rockwell Gardens or Robert Taylor Homes, Cabrini-Green was situated in an affluent part of the city. The poverty-stricken projects were actually constructed at the meeting point of Chicago's two wealthiest neighborhoods, Lincoln Park and the Gold Coast. Less than a mile to the east sat Michigan Avenue with its high-end shopping and expensive housing. Specific gangs "controlled" individual buildings, and residents felt pressure to ally with those gangs in order to protect themselves from escalating violence._
 > 
->  _During the worst years of Cabrini-Green's problems, vandalism increased substantially. Gang members and miscreants covered interior walls with graffiti and damaged doors, windows, and elevators. Rat and cockroach infestations were commonplace, rotting garbage stacked up in clogged trash chutes (it once piled up to the 15th floor), and basic utilities (water, electricity, etc.) often malfunctioned and were left in disrepair._
+> _During the worst years of Cabrini-Green's problems, vandalism increased substantially. Gang members and miscreants covered interior walls with graffiti and damaged doors, windows, and elevators. Rat and cockroach infestations were commonplace, rotting garbage stacked up in clogged trash chutes (it once piled up to the 15th floor), and basic utilities (water, electricity, etc.) often malfunctioned and were left in disrepair._
 > 
->  _On the exterior, boarded-up windows, burned-out areas of the façade, and pavement instead of green space—all in the name of economizing on maintenance—created an atmosphere of decay and government neglect. The balconies were fenced in to prevent residents from emptying garbage cans into the yard, and from falling or being thrown to their deaths. This created the appearance of a large prison tier, or of animal cages, which further enraged community leaders of the residents._
+> _On the exterior, boarded-up windows, burned-out areas of the façade, and pavement instead of green space—all in the name of economizing on maintenance—created an atmosphere of decay and government neglect. The balconies were fenced in to prevent residents from emptying garbage cans into the yard, and from falling or being thrown to their deaths. This created the appearance of a large prison tier, or of animal cages, which further enraged community leaders of the residents._
 > 
->  _..._
+> _..._
 > 
->  _While Cabrini–Green was deteriorating during the postwar era, causing industry, investment, and residents to abandon its immediate surroundings, the rest of Chicago's Near North Side underwent equally dramatic upward changes in socioeconomic status. First, downtown employment shifted dramatically from manufacturing to professional services, spurring increased demand for middle-income housing; the resulting gentrification spread north along the lakefront from the Gold Coast, then pushed west and eventually crossed the river._
+> _While Cabrini–Green was deteriorating during the postwar era, causing industry, investment, and residents to abandon its immediate surroundings, the rest of Chicago's Near North Side underwent equally dramatic upward changes in socioeconomic status. First, downtown employment shifted dramatically from manufacturing to professional services, spurring increased demand for middle-income housing; the resulting gentrification spread north along the lakefront from the Gold Coast, then pushed west and eventually crossed the river._
 > 
 > <https://en.wikipedia.org/wiki/Cabrini%E2%80%93Green_Homes#Problems_develop>
 > 
@@ -385,7 +388,7 @@ Matthew [responds](https://astralcodexten.substack.com/p/book-review-san-fransic
 
 > You gave a long list of problems, and it sounds like it was a miserable place to live, and it hindered economic development for some of the surrounding area... but even the later parts of the wikipedia article you link note how the residents considered it preferable to being homeless (their likely fate without it) and lobbied to keep it standing. I don't know, suppose we did it again and everything happened exactly like it did before, but also 15,000 people had a stable home they could call their own for a few decades (no matter how ill-repaired and unpleasant) instead of being homeless. I think whether that was a success or failure would be a matter of analysis, not obvious, and of comparing against alternative ways the money could have been spent. And maybe with some "lessons learned" everything wouldn't happen exactly the same and there could be an iterative improvement.
 
- **13:**
+**13:**
 
 Alexander Turok [writes](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7316192):
 
@@ -395,7 +398,7 @@ Alexander Turok [writes](https://astralcodexten.substack.com/p/book-review-san-f
 
 This is a great thought experiment / example of a cognitive bias / whatever it is. I find myself sharing his intuition: if 6 people were locked up to “clean up” a town of 600, this would seem unfortunate but basically fine, but when it’s 2 million in a country of 200 million, then it feels like a crisis. I’ll have to think about this more.
 
- **14:**
+**14:**
 
 Cups And Mugs [writes](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7321131):
 
@@ -427,7 +430,7 @@ In fairness to the Governor, the hotels were mostly an emergency pandemic measur
 
 If the explanation is “we think it would be unfair to normal poor people who have to work hard for housing” then I would like the city to say this, instead of talking about Housing First and making everyone wonder how things keep going wrong.
 
- **15:**
+**15:**
 
 [Bob Jacobs](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7323696) writes:
 
@@ -437,7 +440,7 @@ This has been the opposite of my experience (and the experience of some friends 
 
 So I take the opposite position here: if the government wants people to be able to live in places long-term when they don’t have the money to pay, they should give those people rent vouchers, or pay the landlord directly, or something - not invent a legal doctrine which is basically “if people don’t want to pay you then you still need to provide the service indefinitely” and give people as many lawyers as it takes to enforce that.
 
- **16:**
+**16:**
 
 Will (writes My Bookshelf Runneth Over) [says](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7346938):
 
@@ -464,7 +467,7 @@ If I had to rewrite this, my main changes would be:
 
 I don’t think any of these things would detract from the book’s main points, and I think they would make it much more accurate and defensible against pedants like myself who care a lot about which statements are actually true.
 
- **17:**
+**17:**
 
 Miss M [writes](https://astralcodexten.substack.com/p/book-review-san-fransicko/comment/7324502):
 

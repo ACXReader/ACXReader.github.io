@@ -3,6 +3,9 @@ title: "Bounded Distrust"
 subtitle: "..."
 date: 2022-01-26
 likes: 325
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/44695804/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8b31ecc0-e55c-4656-9462-ee0d540de741_696x454.png
 original-url: https://www.astralcodexten.com/p/bounded-distrust
 ---
 **I.**
@@ -23,7 +26,7 @@ It's not quite that this would be *worse* than anything FOX has ever done. I ass
 
 In a world where FOX was the only news source available, this kind of thing would become really important. People would need to understand that FOX was biased while also basically being able to accept most things that it said. If people went too far overboard and stopped trusting FOX just because it was biased, they might end up in a state of total paralysis, unable to confirm really basic facts about the world.
 
- **II.**
+**II.**
 
 What’s the flipped version of this scenario for the other political tribe?
 
@@ -47,7 +50,7 @@ Finally, the Marx thing was intended as a cutesy human interest story (albeit on
 
 All of this is a lot more complicated than “of course you can trust the news” or “how dare you entertain deranged conspiracy theories!” There are lots of cases where you can’t trust the news! It sucks! It’s completely understandable that large swathes of people can’t differentiate the many many cases where the news lies to them from the other set of cases where the news is not, at this moment, actively lying. But that differentiation is possible, most people learn how to do it, and it’s the main way we know anything at all.
 
- **III.**
+**III.**
 
 As in journalism, so in science.
 
@@ -69,15 +72,15 @@ And that means you _can_ trust the experts on some things, same as you can trust
 
 (before you object that some different global-warming related claim is false, please consider whether the IPCC has said with certainty that it isn’t, or whether all climatologists have denounced the thing as false in so many words. If not, _that’s my whole point_.)
 
- **IV.**
+**IV.**
 
 Last year I explained why I[ didn't believe ivermectin worked](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) for COVID. In a subsequent discussion with Alexandros Marinos, I think we agreed on something like:
 
- **1.** If you just look at the headline results of ivermectin studies, it works.  
- **2.** If you just do a purely mechanical analysis of the ivermectin studies, eg the usual meta-analytic methods, it works.  
- **3.** If you try to apply things like human scrutiny and priors and intuition to the literature, this is obviously really subjective, but according to the experts who ought to be the best at doing this kind of thing, it doesn't work.  
- **4.** But experts are sometimes biased.  
- **5.** F@#k.
+**1.** If you just look at the headline results of ivermectin studies, it works.  
+**2.** If you just do a purely mechanical analysis of the ivermectin studies, eg the usual meta-analytic methods, it works.  
+**3.** If you try to apply things like human scrutiny and priors and intuition to the literature, this is obviously really subjective, but according to the experts who ought to be the best at doing this kind of thing, it doesn't work.  
+**4.** But experts are sometimes biased.  
+**5.** F@#k.
 
 In the end, I stuck with my believe that ivermectin probably didn’t work, and Alexandros stuck with his belief that it probably did. I stuck with the opinion that it’s possible to extract non-zero useful information from the pronouncements of experts by knowing the rules of the lying-to-people game. There are times when experts and the establishment lie, but it’s not all the time. FOX will sometimes present news in a biased or misleading way, but they won’t make up news events that never happen. Experts will sometimes prevent studies they don’t like from happening, but they’re much less likely to flatly assert a clear specific fact which isn’t true. 
 

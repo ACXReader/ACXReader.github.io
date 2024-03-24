@@ -2,7 +2,10 @@
 title: "The Prophet And Caesar's Wife"
 subtitle: "..."
 date: 2022-09-02
-likes: 285
+likes: 286
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/67986319/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a9fc8210-d0e9-494b-aab6-ba578db10814_1023x714.png
 original-url: https://www.astralcodexten.com/p/the-prophet-and-caesars-wife
 ---
 **I.**
@@ -15,7 +18,7 @@ The Prophet in his wanderings came to Cragmacnois, and found the Bishop living i
 
 “It is said,” said the Prophet, “that Caesar’s wife must be not only pure, but above suspicion of impurity. A good reputation is worth more than any treasure. Fat as you are, nobody will believe you are untainted by the temptations of wealth. Give the golden palace back to your brother, and live in a hovel in the woods. Only then will you earn the people’s trust.”
 
- **II.**
+**II.**
 
 The Prophet in his wanderings came to Belazzia, and found the Bishop living in a hovel and wearing a hair shirt. He spent so long in prayer each day that he barely ate, and seemed so dangerously thin that he might fall over at any moment.
 
@@ -25,7 +28,7 @@ The Prophet in his wanderings came to Belazzia, and found the Bishop living in a
 
 “Do you even hear yourself?” asked the Prophet, fuming. “ _How will I know that I was…_ You won’t! If you value your psychological comfort more than the aims of the Church, you’ve already admitted that the ego boost is all you care about. Do you think God is fooled by your hovel and your hair shirt? You’re just as dumb as those nobles who think He cares about their golden crowns and shiny armor. Go serve Him in the actual way that works the best, and if you feel guilty, kvetch about it to your therapist or something.”
 
- **III.**
+**III.**
 
 The Prophet in his wanderings came to Zhodovsk, and found the Bishop living in a hovel and wearing a hair shirt. When the Prophet complained to the Bishop that he was tired and hungry, the Bishop smiled and led him through a trap door. There beneath his hovel was a gleaming golden palace full of fine wines.
 
@@ -39,7 +42,7 @@ The Prophet in his wanderings came to Zhodovsk, and found the Bishop living in a
 
 “Sure, but…” The Prophet fumed. “Whatever. Fine. You’re doing the best you can, conditional on being a bad person. When you die, God will give you the best afterlife possible, conditional on sending you to Hell.”
 
- **IV.**
+**IV.**
 
 The Prophet in his wanderings returned to Belazzia, and found the Bishop living in a golden palace and drinking fine wines. Everyone praised his splendor and generosity, and all the top nobles had converted and started attending church regularly.
 
@@ -51,7 +54,7 @@ The Bishop offered to show the Prophet a secret, and led him to the sub-sub-sub-
 
 “Fine,” said the Prophet. “God forgives you. But He will send you to Hell anyway, because He doesn’t want to get soft.”
 
- **V.**
+**V.**
 
 The Prophet in his wanderings came to Fenswamp, and found the Bishop living in a golden palace and drinking fine wines. “Woe unto you!” said the Prophet, “for you are stealing money from the people and the Church to support your lavish lifestyle.”
 
@@ -63,7 +66,7 @@ The Prophet in his wanderings came to Fenswamp, and found the Bishop living in a
 
 “Or perhaps I’ll do what I want, and God will send overly-clever bastards like you to Hell for trying to take advantage of the system,” said the Prophet.
 
- **VI.**
+**VI.**
 
 The Prophet in his wanderings came to Belazzia again. There he found the former Bishop of Zhodovsk, living in the golden palace and drinking the fine wines.
 
@@ -73,7 +76,7 @@ The Prophet in his wanderings came to Belazzia again. There he found the former 
 
 "Woe unto you!” said the Prophet. “Behold, you are serving white wine, although the people of Belazzia prefer reds at their parties! And you have dancing girls for entertainment, even though the people of Belazzia prefer bullfights! The old Bishop would never have made those mistakes, because he hated wine and entertainment, and it was all the same to him what kinds he chose. But you, who love them, let your own desires bleed in to your choices! Let God send you to Hell, and we will see if you find anyone there who will trade places with you!”
 
- **VII.**
+**VII.**
 
 The Prophet in his wanderings came to Zhodovsk again, and found the Bishop living in a hovel and wearing a hair shirt. He was hoeing at the land, trying to plant crops in the rocky soil.
 
@@ -91,7 +94,7 @@ The new Bishop of Zhodovsk looked at his hands. “It’s odd, isn’t it? I’v
 
 “How is it dishonest? You’re working hard, you’re making them think you’re working hard, you’re communicating a true fact to them. Communicating true facts is the definition of honesty. If you care more about appearing honest than about genuinely conveying the truth, then you are a poor and selfish servant of God indeed.”
 
- **VIII.**
+**VIII.**
 
 The Prophet in his wanderings came to the Great Capital, where he was approached by literal Caesar’s literal wife.
 
@@ -103,7 +106,7 @@ The Prophet in his wanderings came to the Great Capital, where he was approached
 
 “Seems like you’ve already given up on Part A. My point is that Part B is still salvageable. Lie back and think of the Empire.”
 
- **IX.**
+**IX.**
 
 The Prophet in his wanderings came to Zhodovsk again, and found the people looking glum. He asked what troubled them, and they said that their Bishop had just died. Worse, when they searched his belongings after death, they had found a magic stone, which - they noticed - made the skin of a noble look like that of a commoner. “All this time,” they told the Prophet “We had thought he was one of us. But in fact he must have been living lavishly in secret.”
 
@@ -117,7 +120,7 @@ So the Prophet fled to Belazzia. There, too, the people looked glum, and he aske
 
 “But,” said the Prophet, “that was his predeces…who switched…ah, whatever. Definitely invite me to the cathedral dedication, I’d love to come, really.”
 
- **X.**
+**X.**
 
 The Prophet in his wanderings returned to the Great Capital, where he was approached by Caesar, brandishing his sword menacingly.
 
@@ -129,7 +132,7 @@ The Prophet in his wanderings returned to the Great Capital, where he was approa
 
 “Now hold on a s-” said the Prophet, just before Caesar cut his throat.
 
- **XI.**
+**XI.**
 
 The Prophet’s soul stood before the Judgment Seat of God.
 

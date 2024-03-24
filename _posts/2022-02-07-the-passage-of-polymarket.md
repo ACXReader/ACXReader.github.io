@@ -3,6 +3,9 @@ title: "The Passage Of Polymarket"
 subtitle: "Mantic Monday 2/7/22"
 date: 2022-02-07
 likes: 101
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/48322340/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/637bc38e-62f4-49ea-ba43-e86c0e9370ba_640x360.jpeg
 original-url: https://www.astralcodexten.com/p/the-passage-of-polymarket
 ---
 **Long Live Polymarket**
@@ -37,7 +40,7 @@ Starting a few years ago, cryptocurrency provided a brief “thaw” when people
 
 The US is becoming the North Korea of forecasting. Every other civilized country allows prediction markets. In a perfect world, they could ignore our constant own goals and move on without us. But because America has a disproportionate share of money, users, coders, and entrepreneurs, a US-less prediction market ecosystem won’t be living up to its potential. That means decreased ability to gather and process information and worse decision-making worldwide.
 
- **Where Do Prediction Markets Go From Here?**
+**Where Do Prediction Markets Go From Here?**
 
 …aside from “to other countries”.
 
@@ -85,7 +88,7 @@ I’m most optimistic about this last one, but it would be tough. You could try 
 
 But what if the CFTC says no, they’re still angry?
 
- **In Search Of Lost Crypto Dreams**
+**In Search Of Lost Crypto Dreams**
 
 Sometimes it seems like everyone who’s ever used crypto has a different model of why it might be good. Here’s mine.
 
@@ -95,7 +98,7 @@ In theory, crypto is hard to stop and hard to trace (yes, I know the blockchain 
 
 This vision is a lot like the original vision of the Internet: a magical place that nobody could censor, where information would flow freely across national and ideological borders.
 
-That vision was . . . maybe 25% achieved? It’s pretty great that I can write a blog like this instead of begging for my supper at a major media organization. But after a brief period of discombobulation, dictatorships found it easy to create their own walled-garden Internets through light-touch censorship; although there are ways around most of their tricks, ordinary people [don’t bother with them](https://www.lesswrong.com/tag/trivial-inconvenience) ( **v** ery **p** oor **n** ews indeed!) And in practice most people ended up basing their Internet explorations at a few big businesses like Google, Facebook, and Twitter, which became easy prey for censors and in some cases rush to self-censor even more zealously than governments demand. It’s not that the Internet _can’t_ create a magical censorship-resistant infrastructure, it’s that it’s 5% easier to sell your soul to FAANG, and so many people take that option that the few people who don’t aren’t really a critical mass for escaping governments or building new communities.
+That vision was . . . maybe 25% achieved? It’s pretty great that I can write a blog like this instead of begging for my supper at a major media organization. But after a brief period of discombobulation, dictatorships found it easy to create their own walled-garden Internets through light-touch censorship; although there are ways around most of their tricks, ordinary people [don’t bother with them](https://www.lesswrong.com/tag/trivial-inconvenience) (**v** ery **p** oor **n** ews indeed!) And in practice most people ended up basing their Internet explorations at a few big businesses like Google, Facebook, and Twitter, which became easy prey for censors and in some cases rush to self-censor even more zealously than governments demand. It’s not that the Internet _can’t_ create a magical censorship-resistant infrastructure, it’s that it’s 5% easier to sell your soul to FAANG, and so many people take that option that the few people who don’t aren’t really a critical mass for escaping governments or building new communities.
 
 Is crypto following the same path? I am a lazy crypto user, and I notice that nowadays I have to grovel harder to the government to access my crypto than to acces my fiat - every crypto site is a gauntlet of “please tell us your name/birthdate/SSN/address”, “please upload your ID”, “please wait for us to complete our KYC process before trading”, etc. I assume there’s some really flashy way that cool people use their crypto without doing any of this, but there’s also Tor and Brave and Mastodon, and that doesn’t mean the Internet is a free speech privacy paradise.
 

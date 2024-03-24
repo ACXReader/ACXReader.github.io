@@ -3,6 +3,9 @@ title: "We're Not Platonists, We've Just Learned The Bitter Lesson"
 subtitle: "Machine Alignment Monday, 7/24/23"
 date: 2023-07-25
 likes: 221
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/135293928/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/dde1dfe8-2a24-4d49-baae-df2ee10c76ec_500x346.png
 original-url: https://www.astralcodexten.com/p/were-not-platonists-weve-just-learned
 ---
 Seen on[ Twitter](https://twitter.com/togelius/status/1678071123437649921):
@@ -147,7 +150,7 @@ In the middle of a million companies pursuing their revolutionary new paradigms,
 
 Computer scientist Richard Sutton calls this [the Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) \- that extremely clever plans to program “true understanding” into AI always do worse than just adding more compute and training data to your giant compute+training data blob. It’s related to Jelinek’s Law, named after language-processing AI pioneer [Frederick Jelinek](https://en.wikipedia.org/wiki/Frederick_Jelinek): “Every time I fire a linguist, the performance of the speech recognizer goes up.” The joke is that having linguists on your team means you’re still trying to hand-code in deep principles of linguistics, instead of just figuring out how to get as big a blob of intelligence as possible and throw language at it. The limit of Jelinek’s Law is OpenAI, who AFAIK didn’t use insights from linguistics at all, and so made an AI that uses language near-perfectly.
 
-Why does this work so well? Because animal intelligence (including human intelligence) is a blob of neural network arranged in a mildly clever way that lets it learn whatever it wants efficiently. The bigger the blob and the cleverer the arrangement, the faster and more thoroughly it learns. Trying to second-guess your blob by hand-coding stuff in doesn’t work as well (it might work for evolution sometimes, like bird migration instincts, but it probably won’t work for _you_ ). 
+Why does this work so well? Because animal intelligence (including human intelligence) is a blob of neural network arranged in a mildly clever way that lets it learn whatever it wants efficiently. The bigger the blob and the cleverer the arrangement, the faster and more thoroughly it learns. Trying to second-guess your blob by hand-coding stuff in doesn’t work as well (it might work for evolution sometimes, like bird migration instincts, but it probably won’t work for _you_). 
 
 The bigger your blob, the cleverer its arrangement, and the more training data you give it, the better it’s likely to perform on a very wide variety of cognitive tasks. This explains why chimps are smarter than cows, why Einstein is smarter than you, and why GPT-4 is smarter than GPT-2. The correlations won’t be perfect, any more than strength correlations are perfect. But they’ll be useful enough to talk about.
 

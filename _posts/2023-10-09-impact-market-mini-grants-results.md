@@ -3,9 +3,12 @@ title: "Impact Market Mini-Grants Results"
 subtitle: "..."
 date: 2023-10-09
 likes: 73
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/137738275/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/d3779c99-ae7c-4f1c-aa17-9ef22815e7f3_687x489.png
 original-url: https://www.astralcodexten.com/p/impact-market-mini-grants-results
 ---
-Last March we (ACX and [Manifold Markets](https://manifold.markets/home)) did [a test run](/p/impact-market-mini-grants-update) of an [impact market](/p/impact-markets-the-annoying-details), a novel way of running charitable grants. You can read the details at the links, but it’s basically a VC ecosystem for charity: profit-seeking investors fund promising projects and grantmakers buy credit for successes from the investors. To test it out, we promised at least $20,000 in retroactive grants for forecasting-related projects, and intrepid guinea-pig investors funded [18 projects](https://manifoldmarkets.notion.site/ACX-Minigrants-Sep-2023-Reports-5f049d731a664ef3a73a280aae38c335) they thought we might want to buy.
+Last March we (ACX and [Manifold Markets](https://manifold.markets/home)) did [a test run](/p/impact-market-mini-grants-update) of an [impact market](/p/impact-markets-the-annoying-details), a novel way of running charitable grants. You can read the details at the links, but it’s basically a VC ecosystem for charity: profit-seeking investors fund promising projects and grantmakers buy credit for successes from the investors. To test it out, we promised at least $20,000 in retroactive grants for forecasting-related projects, and intrepid guinea-pig investors funded [18 projects](https://manifoldmarkets.notion.site/ACX-Minigrants-Sep-2023-Reports-5f049d731a664ef3a73a280aae38c335) they thought we might want to buy. 
 
 Over the past six months, founders have worked on their projects. Some collapsed, losing their investors all their money. Others flourished, shooting up in value far beyond investor predictions. We got five judges (including me) to assess the final value of each of the 18 projects. Their results _mostly_ determine what I will be offering investors for their impact certificates (see caveats below). They are:
 
@@ -25,7 +28,7 @@ Now three out of eighteen projects made their investors money on net. This rate 
 
 …in fact, _very_ good job! Some of these projects really impressed us. I want to highlight the five projects that our judges rated as most impactful, and which gave their investors some of the highest rates of return. 
 
-**1: Max Morawski’s Rationality And Effective Altruism Education At University Of Maryland**. **** Someone named Benjamin Cosman bought 100% of equity in this project at a valuation of $300. Our judges ended up valuing it at $7500, giving Benjamin a 25x RoI. Max planned to lead some workshops on rationality/EA ideas at the university where he taught, and expected to get about 10 students. Instead, he got 60, and keeps gaining more as time goes on. His students seem excited and have encouraged him to have an “advanced class” where he keeps teaching the students from last semester’s session, as well as continuing the “introductory track”. He says:
+**1: Max Morawski’s Rationality And Effective Altruism Education At University Of Maryland**.**** Someone named Benjamin Cosman bought 100% of equity in this project at a valuation of $300. Our judges ended up valuing it at $7500, giving Benjamin a 25x RoI. Max planned to lead some workshops on rationality/EA ideas at the university where he taught, and expected to get about 10 students. Instead, he got 60, and keeps gaining more as time goes on. His students seem excited and have encouraged him to have an “advanced class” where he keeps teaching the students from last semester’s session, as well as continuing the “introductory track”. He says:
 
 > UMD is more of a party school than I thought, so I've been slowly carving out a social enclave of the nerdy students who aren't comfortable with that while introducing people to basic rationality / EA ideas. Which makes me think the niche I'm trying to occupy is more stable than I thought, because it serves an existing need.
 
@@ -35,7 +38,7 @@ Thinking in these terms makes all education/movement-building grants vastly bett
 
 My only regret with this grant is that Max undervalued himself, so all his money is going to his investor. Max, please get in touch with me at scott@slatestarcodex.com about having me retroactively recoup some of your other expenses if you want.
 
- **2: OPTIC Forecasting Tournament**
+**2: OPTIC Forecasting Tournament**
 
 This is like Science Olympiad or Academic Decathlon or other college tournaments in that class, but for forecasting.
 
@@ -47,7 +50,7 @@ Tyler Cowen likes to say that grants are as much about investing in people as in
 
 Saul kept 22% of equity in OPTIC, and the remainder was bought by three investors, with Domenic Denicola holding the majority share. Domenic will turn his $3306 investment into $6072, and Saul will earn $2024 for his hard work (will he share with Jingyi and Tom? That's for him to decide, but cheating co-founders is a venerable startup tradition!)
 
- **3: Manifolio: Kelly Bets For Manifold**
+**3: Manifolio: Kelly Bets For Manifold**
 
 The Kelly Bet is a formula for calculating what percent of your portfolio you should invest in any given investment opportunity to optimally balance exploiting good opportunities with not going broke off bad ones. It’s achieved notoriety recently as [the thing Sam Bankman-Fried refused to do](https://www.ccn.com/news/kelly-criterion-sbf-bet-size-formula-alameda-ftx/), with predictable results.
 
@@ -69,7 +72,7 @@ William kept 25% of equity, and six other shareholders (including Domenic Denico
 
 Awkwardly, Austin Chen is an investor, judge, _and_ final donor on this project, as well as a major beneficiary. I decided not to worry about this - partly because this is a test run, but mostly because when we add up all the different hats Austin is wearing, on net he’s still mostly donating money to other people on this one.
 
- **4: Superforecaster Predictions Of Long-Term Impacts**
+**4: Superforecaster Predictions Of Long-Term Impacts**
 
 David Rhys-Bernard turned this into a paper, [Forecasting Long-Run Causal Effects](https://davidrhysbernard.files.wordpress.com/2023/08/forecasting_drb_230825.pdf). He investigates "25,000 forecasts from 1,400 respondents" on "the effects of seven randomized experiments" and finds that (by some metrics) "expert forecasters outperform academics" and "better forecast calibration is what drives this", but also that "forecasters strongly overestimate the strength of the relationship between short and long-run outcomes".
 
@@ -77,7 +80,7 @@ I won't claim to have 100% read the paper, but I think it's valuable to get acad
 
 Four people (including Domenic again?) invested $3000 in David's project. They’ll make back $2000 of that (sorry!). For some reason (maybe a software bug?) David kept 0.033% of the equity in his own project, meaning we owe him 66 cents. Hopefully this will help pay for grad school.
 
- **5: Devansh Mehta’s Impact Assessment Of Social Programs**
+**5: Devansh Mehta’s Impact Assessment Of Social Programs**
 
 Oh man, _this_ one.
 
@@ -109,9 +112,9 @@ In the interests of space, I’m only discussing the top five projects here, but
 
 I made the project leads rate their success on a score of one to ten. If I had to do the same, I would give this impact market trial run a 4.
 
- **The good:** We ran the market successfully! Nobody found a loophole that forced us to give them infinite money! Projects got funded! Some of them were good! So far, nobody has said they feel cheated by the results! The response to “can we do this at all?” is unequivocally yes!
+**The good:** We ran the market successfully! Nobody found a loophole that forced us to give them infinite money! Projects got funded! Some of them were good! So far, nobody has said they feel cheated by the results! The response to “can we do this at all?” is unequivocally yes!
 
- **The bad:** Austin and I were skeptical of investors’ choices. Partly this is just our subjective judgment. But since the goal of an impact market is that it should fund good charities by the subjective judgment of the final oracular funders (us) - the fact that we overall disagreed with funding decisions is pretty damning.
+**The bad:** Austin and I were skeptical of investors’ choices. Partly this is just our subjective judgment. But since the goal of an impact market is that it should fund good charities by the subjective judgment of the final oracular funders (us) - the fact that we overall disagreed with funding decisions is pretty damning.
 
 For example, the best-funded project was “subsidize real money prediction markets on [Polymarket](https://polymarket.com/)”. The project worked, it was fine, nothing went wrong. But the judges (including me) had trouble figuring out why this was better than the many other real money prediction markets that happen on Polymarket all the time, and felt like we already had good data on how real-money markets compare to play-money ones. This was something we didn’t really want, but our investors spent $8,000 on it.
 

@@ -3,11 +3,14 @@ title: "Highlights From The Comments On Missing School"
 subtitle: "..."
 date: 2021-08-26
 likes: 77
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/40487327/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e9bd87a1-64ae-40c8-8804-9e316eda2063_931x424.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-missing
 ---
 _[Original article:[Kids Can Recover From Missing Even A Lot Of School](https://astralcodexten.substack.com/p/kids-can-recover-from-missing-even)]_
 
- **I.**
+**I.**
 
 Many commenters shared their own stories of missing lots of school and bouncing back from it. For example, [Rachel E](https://astralcodexten.substack.com/p/kids-can-recover-from-missing-even/comments#comment-2638093):
 
@@ -29,7 +32,7 @@ I’m including Magus’ story for the “6-10 hours per week of instruction” 
 
 I’d be interested in hearing stories from some of these people about getting into college. Was it hard without a GPA? Did admissions officers treat your unschooling or homeschooling as a positive or a negative? Did people give you advice on what to do?
 
- **II.**
+**II.**
 
 Another common theme was that I underestimate how bad missing school could be for poorer children. From [David Roberts](https://astralcodexten.substack.com/p/kids-can-recover-from-missing-even/comments#comment-2638144):
 
@@ -57,7 +60,7 @@ It would be hard to openly have social services for poor children. Partly this i
 
 And partly it’s because a lot of the service being provided is (taking David’s description seriously) something like “your home environment sucks, we are going to make you spend time with normal people in a normal environment in the hopes that some of it rubs off on you”. Framed that way, it sounds pretty offensive, kind of adjacent to “you are unqualified to raise this kid, so please turn them over to the government”. If you openly asked parents in dysfunctional families to do this, they would probably revolt. But forcing _everybody_ get your social service, even the people from functional families who don’t need it, is a pretty neat trick for looking less sinister.
 
- **III.**
+**III.**
 
 The points above argued that closing school might increase inequality (I think all the cool people are calling it “inequity” these days, but I am not that cool). But a few commenters thought that actually, Zoom school is worse than nothing on that front. For example, [DasKlaus](https://astralcodexten.substack.com/p/kids-can-recover-from-missing-even/comments#comment-2638814):
 
@@ -87,7 +90,7 @@ And [Josh Winslow](https://astralcodexten.substack.com/p/kids-can-recover-from-m
 
 I predict that even without too many extra resources kids will catch up eventually, but I admit this is a plausible alternate explanation for the phenomenon of kids catching up.
 
- **V.**
+**V.**
 
 Another common category of post was “even if missing school doesn’t harm test scores, it probably affects some more complicated form of learning or understanding or academic engagement”. So, for example, [Shawn](https://astralcodexten.substack.com/p/kids-can-recover-from-missing-even/comments#comment-2637891):
 
@@ -173,7 +176,7 @@ My neighbors have a four year old kid, and _every day_ she comes up with games a
 
 Though I also wonder if we could do what Nassim Taleb calls a barbell strategy. Let kids have fun some of the time, then do something crazy and challenging some other time - instead of forcing them to sit at a desk for 20,000 hours filling in worksheets with a few forced quirky hobbies thrown in here and there.
 
- **VI.**
+**VI.**
 
 From the Twitter comments:
 
@@ -197,7 +200,7 @@ I think it’s generally fair to endorse a weaker claim even if you hold a stron
 
 Maybe this is silly,and I’m defending myself against an attack no real person is making. Serves me right for checking Twitter.
 
- **VII.**
+**VII.**
 
 Elsewhere in the world of Twitter takes I probably shouldn’t be reading - an epidemiologist wrote this tweet:
 
@@ -213,7 +216,7 @@ Even the usually-restrained Tyler Cowen [got in on it](https://marginalrevolutio
 
 I’m grateful that people aren’t as angry at me as they are with this person, but I’m not sure why - I feel like I was making a pretty similar point. Granted, I don’t care too much about closing schools - I guess I want parents/kids who want to go to school to be allowed to (and feel socially sanctioned to), and those who don’t want to etc. I still feel like she deserved better.
 
- **VIII.**
+**VIII.**
 
 The most charming part of the comments was the subthread on CS Lewis, starting [here](https://astralcodexten.substack.com/p/kids-can-recover-from-missing-even/comments#comment-2638156). I’ll just quote [FLWAB’s comment](https://astralcodexten.substack.com/p/kids-can-recover-from-missing-even/comments#comment-2639390):
 

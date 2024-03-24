@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Diseasonality"
 subtitle: "..."
 date: 2021-12-23
 likes: 44
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45706834/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cb0b7c7c-fa85-4d26-b76c-7d2e89b78359_750x511.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-diseasonality
 ---
 The main highlight was an email I got from a reader who prefers to remain anonymous, linking me to [Projecting The Transmission Dynamics Of SARS-CoV2](https://sci-hub.st/10.1126/science.abb5793). This paper is head and shoulders above anything I found during my own literature review and just comes out and _says_ everything painfully tried to piece together. Either my research skills suck, the epidemiology literature is a bunch of disparate subthreads with wildly differing levels of competence, or both.
@@ -27,7 +30,7 @@ This last sentence reminds me of [a discussion](https://astralcodexten.substack.
 
 But the rest of you had interesting thoughts too, starting with:
 
- **Metacelsus** [writes](https://astralcodexten.substack.com/p/diseasonality/comment/3912809):
+**Metacelsus** [writes](https://astralcodexten.substack.com/p/diseasonality/comment/3912809):
 
 > The entrainment / waning immunity mechanism can't explain chickenpox seasonality, since people generally don't get chickenpox (primary VZV infection) twice. So something else must be going on.
 
@@ -35,9 +38,9 @@ But **Ivan Fyodorovich** [responds ](https://astralcodexten.substack.com/p/disea
 
 But then we have the same question as before - if it’s wintry all the time in Alaska, what happens there? My guess is - chickenpox spreads faster until there aren’t enough susceptible people left, then waits until new people are born, and then when there are enough of them, there will be an epidemic, and because winter multiplies R it will be in the winter.
 
- **Sniffnoy** [notes ](https://astralcodexten.substack.com/p/diseasonality/comment/3913781)that technically, chickenpox is spring seasonal. I don’t know if this is just “winter seasonal but slow so it peaks in the spring” or something more complicated. **Eric Rall** [points out](https://astralcodexten.substack.com/p/diseasonality/comment/3914177) that we’re all missing something obvious and maybe childhood diseases track _the school year_. Maybe chickenpox would naturally peak in the winter, but gets delayed by winter vacation, and then comes back when kids return to school in January and has to build from there? There’s [some argument downthread](https://astralcodexten.substack.com/p/diseasonality/comment/3915138) about what countries with different school years tell us.
+**Sniffnoy** [notes ](https://astralcodexten.substack.com/p/diseasonality/comment/3913781)that technically, chickenpox is spring seasonal. I don’t know if this is just “winter seasonal but slow so it peaks in the spring” or something more complicated. **Eric Rall** [points out](https://astralcodexten.substack.com/p/diseasonality/comment/3914177) that we’re all missing something obvious and maybe childhood diseases track _the school year_. Maybe chickenpox would naturally peak in the winter, but gets delayed by winter vacation, and then comes back when kids return to school in January and has to build from there? There’s [some argument downthread](https://astralcodexten.substack.com/p/diseasonality/comment/3915138) about what countries with different school years tell us.
 
- **10240**[writes](https://astralcodexten.substack.com/p/diseasonality/comment/3914962) **:**
+**10240**[writes](https://astralcodexten.substack.com/p/diseasonality/comment/3914962)**:**
 
 > This hypothesis (that seasonality results from a combination of temperature and herd immunity from previous infections) doesn't actually depend on immunity only lasting about a year. And indeed, most people don't get a flu every year, nor every kind of cold; more like once in 10 years.
 > 
@@ -47,7 +50,7 @@ But then we have the same question as before - if it’s wintry all the time in 
 
 That last paragraph sounds fascinating but I’m not sure I understand why it’s true; can someone explain?
 
- **Rafal Smigrodski** [writes](https://astralcodexten.substack.com/p/diseasonality/comment/3915323):
+**Rafal Smigrodski** [writes](https://astralcodexten.substack.com/p/diseasonality/comment/3915323):
 
 > The mention of wildfire is most apt:
 > 
@@ -59,17 +62,17 @@ That last paragraph sounds fascinating but I’m not sure I understand why it’
 
 I’m having trouble figuring out how to analyze this point. After thinking about it, maybe the problem is I don’t have a good sense of why fires ever stop. Assuming there is at least one continuous line of trees connecting (eg) Maine to Georgia, why didn’t every forest fire burn the entire East Coast to a crisp back before there were human firefighters?
 
- **Jason Crawford** [writes](https://astralcodexten.substack.com/p/diseasonality/comment/3914007):
+**Jason Crawford** [writes](https://astralcodexten.substack.com/p/diseasonality/comment/3914007):
 
 > To make things slightly more complicated, not all seasonal viruses peak in winter. When the US suffered from annual polio epidemics in the first half of the 20th century, they would come in summer. I'm not sure why this is (or if anyone knows), although I think it was spread by water and one factor might have been swimming in shared pools.
 
- **Brock** [answers](https://astralcodexten.substack.com/p/diseasonality/comment/3919724): 
+**Brock** [answers](https://astralcodexten.substack.com/p/diseasonality/comment/3919724): 
 
 > Yes, in temperate zones polio was seasonal with peak in summer/autumn. But it's not a respiratory virus, and it spreads via the fecal-oral route. I'd guess that swimming was the seasonality factor for polio.
 
 That’s a pretty good answer! No mystery why fecal-orally transmitted viruses spread differently than respiratory ones.
 
- **Alex G** [does her homework](https://astralcodexten.substack.com/p/diseasonality/comment/3930697) and runs a simulation:
+**Alex G** [does her homework](https://astralcodexten.substack.com/p/diseasonality/comment/3930697) and runs a simulation:
 
 > my intuition is that you get seasonality under very broad assumptions (r0>1 and varies seasonally, immunity wanes on the order of at least a year) and the difference is made up by more people needing to get ill to get to herd immunity.
 > 
@@ -87,7 +90,7 @@ That’s a pretty good answer! No mystery why fecal-orally transmitted viruses s
 > 
 > [4:34 AM ∙ Dec 9, 2021](https://twitter.com/pawnofcthulhu/status/1468801244793765892)
 
- **Mycelium** [says](https://astralcodexten.substack.com/p/diseasonality/comment/3963509):
+**Mycelium** [says](https://astralcodexten.substack.com/p/diseasonality/comment/3963509):
 
 > In South East Asia, we have two flu seasons a year - a summer season and a winter season - for EXACTLY the reason you mention - in the summer, people coop themselves up at home with the air-conditioning on full blast.
 > 

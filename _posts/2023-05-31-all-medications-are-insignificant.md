@@ -3,6 +3,9 @@ title: "All Medications Are Insignificant In The Eyes Of God And Traditional Eff
 subtitle: "..."
 date: 2023-05-31
 likes: 260
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/124313293/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/1d5af9df-01c0-46f3-87cc-f56ef1bf9a80_3450x1946.webp
 original-url: https://www.astralcodexten.com/p/all-medications-are-insignificant
 ---
 SSRI antidepressants like Prozac were first developed in the 1980s and 1990s. The first round of studies, sponsored by pharmaceutical companies, showed they worked great! But skeptics found substantial bias in these early trials; several later analyses that corrected for this all [found](https://slatestarcodex.com/2014/07/07/ssris-much-more-than-you-wanted-to-know/) [effect sizes](https://slatestarcodex.com/2018/02/26/ssc-journal-club-cipriani-on-antidepressants/) (compared to placebo) of only 0.30. 

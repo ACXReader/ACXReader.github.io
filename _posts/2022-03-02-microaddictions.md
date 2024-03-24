@@ -2,7 +2,10 @@
 title: "Microaddictions"
 subtitle: "Epistemic status: very speculative"
 date: 2022-03-02
-likes: 129
+likes: 130
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/47584934/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5a15666a-8f4b-4e55-98d7-ab4b67f1066e_259x194.jpeg
 original-url: https://www.astralcodexten.com/p/microaddictions
 ---
 Everyone always says you should “eat mindfully”. I tried this once and it was weird. For example, I noticed that only the first few bites of a tasty food actually tasted good. After that I habituated and lost it. Not only that, but there was a brief period when I finished eating the food which was below hedonic baseline.

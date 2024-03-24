@@ -3,6 +3,9 @@ title: "From The Mailbag"
 subtitle: "Answers to the questions I get most often at meetup Q&As"
 date: 2022-10-25
 likes: 114
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/80049625/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/196919cd-7267-4f24-8774-e56ea0d75ec8_450x380.png
 original-url: https://www.astralcodexten.com/p/from-the-mailbag
 ---
 > _DEAR SCOTT: When are you going to publish Unsong? — Erik from Uruk_
@@ -15,7 +18,7 @@ The only answer I can give you is that you’re not missing anything and this is
 
 * * *
 
->  _DEAR SCOTT: How is your Lorien Psychiatry business going? — Letitia from Lutetia_
+> _DEAR SCOTT: How is your Lorien Psychiatry business going? — Letitia from Lutetia_
 
 Dear Letitia,
 
@@ -37,7 +40,7 @@ In terms of the knowledge base of articles on the site, I’ve kind of let that 
 
 * * *
 
->  _DEAR SCOTT: When is the next ACX Grants round? — Jennifer from Men-Nefer_
+> _DEAR SCOTT: When is the next ACX Grants round? — Jennifer from Men-Nefer_
 
 Dear Jennifer,
 
@@ -45,7 +48,7 @@ I had originally wanted to do it this November - ie a year from the previous rou
 
 * * *
 
->  _DEAR SCOTT: Will you ever review Nixonland? — Cletus from Miletus_
+> _DEAR SCOTT: Will you ever review Nixonland? — Cletus from Miletus_
 
 Dear Cletus,
 
@@ -53,7 +56,7 @@ I got about a quarter of the way through this seven-hundred page book, and even 
 
 * * *
 
->  _DEAR SCOTT: What evidence would convince you that you’re wrong about AI risk? — Irene from Cyrene_
+> _DEAR SCOTT: What evidence would convince you that you’re wrong about AI risk? — Irene from Cyrene_
 
 Dear Irene,
 
@@ -61,7 +64,7 @@ I get asked this surprisingly often. It’s a completely fair question. Surely y
 
 Still, I don’t have a great answer. Maybe it’s because the question is too complicated. Thinking about it step by step:
 
- _One way_ for me to be wrong about AI would be for the basic argument to be correct - we will someday have AI and it will be dangerous - but for it to be so far in the future that it’s not worth worrying about now. “Like overpopulation on Mars”, to steal Andrew Ng’s phrase. There are ways to push me towards this kind of thought process. If nothing interesting happens in AI over the next ten years, clearly it was harder than I thought and I should update down. If scaling laws suddenly stop working at some point, it was harder than I thought and I should update down.
+_One way_ for me to be wrong about AI would be for the basic argument to be correct - we will someday have AI and it will be dangerous - but for it to be so far in the future that it’s not worth worrying about now. “Like overpopulation on Mars”, to steal Andrew Ng’s phrase. There are ways to push me towards this kind of thought process. If nothing interesting happens in AI over the next ten years, clearly it was harder than I thought and I should update down. If scaling laws suddenly stop working at some point, it was harder than I thought and I should update down.
 
 But if we go ten years without any substantial progress, should I update more towards “AGI in fifty years” or “AGI in five hundred years”? I’m not sure, and by default I think I would go more towards fifty, just because five hundred seems a bit outrageous. And although fifty years would be _much_ better than ten, I wouldn’t want to stop all safety research and declare victory.
 
@@ -69,7 +72,7 @@ If we learned that the brain used spooky quantum computation a la [Penrose-Hamer
 
 There are things we could learn about evolution that would be reassuring, like that there would be large fitness advantages to higher intelligence throughout evolutionary history, but we kept not evolving bigger brains because it’s impossible to scale intelligence past the current human level. I could imagine some evolutionary scientists doing some kind of model that proves something like this was true - though I seriously doubt that it is.
 
- _A more fundamental way_ for me to be wrong would be that AI safety just isn’t very hard. AIs will be safe by default. They won’t cause problems, or the problems will be easy to fix. 
+_A more fundamental way_ for me to be wrong would be that AI safety just isn’t very hard. AIs will be safe by default. They won’t cause problems, or the problems will be easy to fix. 
 
 This is the part where I start sounding like a loony who’s not going to let evidence change his mind.
 
@@ -79,11 +82,11 @@ So convincing me that alignment is going really well will be hard - sure, we mig
 
 I would be most reassured if something like ELK worked very well and let us “mind-read” AIs directly. I would also be reassured if AIs too stupid to deceive us seemed to converge on good well-aligned solutions remarkably easily, or if we found great techniques for making that happen naturally during gradient descent.
 
- _A final way_ for me to be wrong would be for AI to be near, alignment to be hard, but unaligned AIs just can’t cause too much damage, and definitely can’t destroy the world. I have trouble thinking of this as a free parameter in my model - it’s obviously true when AIs are very dumb, and obviously false five hundred years later when they’re far smarter than humans and have indispensable roles in the economy/military/etc. If sometime in between, we get a multipolar system of AIs successfully monitoring other AIs and containing any damage they cause, and it seems to be working, I will count that as reason for optimism. But it has the same problem as the point above: things that work great when AIs are weaker than humans might stop once AIs are stronger. If AIs are much stronger than humans and the system _still_ works, that will definitely be positive evidence, but I feel like at that point it’s just “noticing that we have won” rather than “searching for clues that we might win”.
+_A final way_ for me to be wrong would be for AI to be near, alignment to be hard, but unaligned AIs just can’t cause too much damage, and definitely can’t destroy the world. I have trouble thinking of this as a free parameter in my model - it’s obviously true when AIs are very dumb, and obviously false five hundred years later when they’re far smarter than humans and have indispensable roles in the economy/military/etc. If sometime in between, we get a multipolar system of AIs successfully monitoring other AIs and containing any damage they cause, and it seems to be working, I will count that as reason for optimism. But it has the same problem as the point above: things that work great when AIs are weaker than humans might stop once AIs are stronger. If AIs are much stronger than humans and the system _still_ works, that will definitely be positive evidence, but I feel like at that point it’s just “noticing that we have won” rather than “searching for clues that we might win”.
 
 * * *
 
->  _DEAR SCOTT: How do I get involved in the IRL rationalist/EA community? - Ezekiel from Issyk-Kul_
+> _DEAR SCOTT: How do I get involved in the IRL rationalist/EA community? - Ezekiel from Issyk-Kul_
 
 Dear Ezekiel,
 
@@ -95,7 +98,7 @@ If you mean working for the cause: read [80,000 Hours](https://80000hours.org/) 
 
 * * *
 
->  _DEAR SCOTT: Is my Straussian interpretation of such-and-such a post of yours correct? -- Hadassah from Hattusa_
+> _DEAR SCOTT: Is my Straussian interpretation of such-and-such a post of yours correct? -- Hadassah from Hattusa_
 
 Dear Hadassah,
 
@@ -107,7 +110,7 @@ I’m careful about saying controversial things, and I don’t guarantee that I 
 
 * * *
 
->  _DEAR SCOTT: Will you go on my favorite podcast? — Garrett from Ugarit_
+> _DEAR SCOTT: Will you go on my favorite podcast? — Garrett from Ugarit_
 
 Dear Garrett,
 

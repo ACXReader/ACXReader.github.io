@@ -3,15 +3,18 @@ title: "Your Book Review: The Accidental Superpower"
 subtitle: "Finalist #11 of the Book Review Contest"
 date: 2021-05-21
 likes: 47
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36701278/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c239fc22-d643-488c-8c6a-b9103da8be49_1600x1244.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-the-accidental-superpower
 ---
-[ _This is the eleventh of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out[point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_] 
+[_This is the eleventh of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out[point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_] 
 
 In _[The Accidental Superpower: The Next Generation of American Preeminence and the Coming Global Disorder](https://amzn.to/3wsUsS6) _(2014), Peter Zeihan predicts the future of world politics and economic development in a way that an ACX fan would appreciate. He puts a timeline on it. The book isn’t about “some hazy distant future after we’re all dead and gone, but the future we will all be living in for the next fifteen years of our lives.” Zeihan’s subtitle hints at his big and bold thesis, which predicts “the dissolution of the free trade order, the global demographic inversion, the collapse of Europe and China,” which “is all just a fleeting _transition_ ” to a world largely abandoned by America.
 
 People have fun making predictions like this (and mocking those who get things spectacularly wrong). With money and fame available to people whose predictions turn out right, and the ease with which we forget bad predictions, we should expect many such visionaries. However, regardless of whether you agree with Zeihan’s particular vision, _The Accidental Superpower_ presents a set of analytical tools that should be useful for anyone interested in little questions like which countries will obtain power and wealth in the future, and which will collapse in war and poverty. (In case you didn’t catch it from the title, Zeihan says that America is going to be the biggest winner in the world to come.)
 
- **1: A model for power and wealth creation: geography, technology, and demographics**
+**1: A model for power and wealth creation: geography, technology, and demographics**
 
 Zeihan’s primary models are influenced by his geographic-based perspective on how our world works. As he puts it in the introduction, “Geopolitics is the study of how place [rivers, mountains, etc.] impacts… everything.” 1 Early chapters discuss what he calls the _balance of transport_ , which is roughly easy transport within a country (for economic development and forming political and cultural ties) and hard transport from outside of it (for defense). These transport issues are inherently tied to geography. What’s the best way to move things? Water-based transportation is extremely cheap. Think 17 cents per container mile vs. $2.40 for semis on an American highway, with a more extreme disparity for other countries, trade between continents, and populations in hard-to-access places. On the defensive side of that equation, geographic features on borders such as deserts, mountains, and oceans get Zeihan’s attention. 
 
@@ -57,7 +60,7 @@ This story of capital coming to the West (“allowing consumption-driven growth 
 
 The undeveloped world is that way because it can’t self-fund, so without foreign capital, their growth will come to an end. In sum, the 1990-2005 period of high growth and easy capital was a historical anomaly; “the post-Cold War financial flight was a once-in-a-generation event” and the demographic bulge that coincided with it won’t come around again for decades, if ever. 4
 
- **2: America’s incredible advantages**
+**2: America’s incredible advantages**
 
 As noted above, Zeihan really likes America’s position in the world. He likes its demographics (relative to other developed countries) and loves its geography.
 
@@ -132,7 +135,7 @@ Guess who doesn’t need this system any longer? Zeihan notes that America has b
 
 > The looming crisis of the contemporary system is actually pretty straightforward. Everything that makes the global economy tick—from reliable access to global energy supplies to the ability to sell into the American market to the free movement of capital—is a direct outcome of the ongoing American commitment to Bretton Woods. But the Americans are no longer gaining a strategic benefit from that network, even as the economic cost continues. At some point—maybe next week, maybe ten years from now—the Americans are going to reprioritize, and the tenets of Bretton Woods, the foundation of the free trade order, will simply end.
 
- **4: The Disorder**
+**4: The Disorder**
 
 The energy abundance mentioned above shouldn’t be overlooked. Zeihan argues that America will move from being “the world’s largest energy importer for nearly all of the past thirty years” to no longer really participating in the global energy trade. He links that to the old alliance system: America protected energy to enable trade and ensure the Bretton Woods alliance. But now that the Cold War is over, America doesn’t need the alliance, and doesn’t even need the world’s energy itself. It just hasn’t really taken note of the alliance outliving its purpose.
 
@@ -236,7 +239,7 @@ Finally, Nassim Taleb’s question nags at me. I first heard of Zeihan in connec
 
 6 Apparently Germany and Japan would have found it to be unbelievable. “The primary reason Germany and Japan had launched World War II in the first place was to gain greater access to resources and markets. Germany wanted the agricultural output of Poland, the capital of the Low Countries, the coal of Central Europe, and the markets of France. Japan coveted the manpower and markets of China and the resources of Southeast Asia. Now that they had been thoroughly defeated, the Americans were offering them economic access far beyond their wildest prewar longings: risk-free access to ample resources and bottomless markets a half a world away. And “all” it would cost them was accepting a security guarantee that was better than anything they could ever have achieved by themselves.”
 
-7 It gets even more attention in his follow-up books, _The Absent Superpower_ and _Disunited Nations: The Scramble for Power in an Ungoverned World_ (2020).
+7 It gets even more attention in his follow-up books, _The Absent Superpower_ and _Disunited Nations: The Scramble for Power in an Ungoverned World_(2020).
 
 8 On the _economy_ , I have a hard agreement [with Allen Farrington on this](https://twitter.com/jonboguth/status/1260566227128385538): “one day people will stop referring to ‘the economy’ as if it is a noun, and will stop saying ‘it’ faces ‘risks’. it will be a good day.” If something in here suggests otherwise, that just goes to show how easily we slip into common usage when talking about this.
 

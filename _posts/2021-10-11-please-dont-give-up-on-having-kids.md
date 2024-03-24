@@ -3,6 +3,9 @@ title: "Please Don't Give Up On Having Kids Because Of Climate Change"
 subtitle: "It will probably make things worse, and there are better ways to contribute"
 date: 2021-10-11
 likes: 206
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39944722/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85455845-d49e-46c7-9f78-a691895df5e9_768x432.jpeg
 original-url: https://www.astralcodexten.com/p/please-dont-give-up-on-having-kids
 ---
 **I.**
@@ -57,7 +60,7 @@ I think this point is true more generally. Most of the people profiled in the ar
 
 If you think privileged modern Americans shouldn’t have children now because of quality-of-life issues, you implicitly believe that nobody in the Third World, or nobody before 1900, should ever have had children. This isn’t necessarily wrong. There’s a group of philosophers called “antinatalists” who believe nobody should ever have kids because life is suffering. These people are at least consistent. If you’re not one of them, I think the quality-of-life argument for not having kids _now_ is pretty weak.
 
- **II.**
+**II.**
 
 The other argument is the moral one. Yes, climate change will probably mostly affect poor subsistence farmers - so not your own children. But isn’t it still immoral to have children, knowing that they’re making the problem worse for others?
 
@@ -77,7 +80,7 @@ It feels kind of mercenary to say you should let your decision about having kids
 
 For any percent of people not having children because of climate change, this affects the climate some linear amount, and the political calculus some much larger amount (because it affects a razor-thin majority). But this is just the most quantifiable part of a more general argument. The future is going to need more climate scientists, climate activists, renewable energy engineers, and climate-friendly politicians. Not all of those people are going to come from families that care a lot about climate change. Some of them will be born to climate deniers and change their minds. But that’s an uphill battle, and it’s the people who care a lot about climate change who have the _best_ chance of raising those people. If you take the few percent of people most committed to stopping climate change, and remove them from the next generation, that doesn’t look good for the next generation.
 
- **III.**
+**III.**
 
 Finally, I want to respond to the news articles that say having a kid will create 60 tons of carbon a year and be a disaster for the planet. You can find these at [The Guardian](https://www.theguardian.com/environment/2017/jul/12/want-to-fight-climate-change-have-fewer-children), [Yale](https://yaleclimateconnections.org/2019/03/how-family-size-shapes-your-carbon-footprint/), [Euro News](https://www.euronews.com/green/2021/04/28/what-s-worse-for-the-climate-crisis-your-child-or-your-pet), etc.
 
@@ -87,7 +90,7 @@ There’s a lot wrong with this study. For one thing, almost nobody who reads it
 
 Even the scientist who wrote this study [said in an interview](https://www.vox.com/future-perfect/22399882/climate-change-kids-children-overpopulation) that she still believes people should have kids if they want to:
 
->  **SS [interviewer]:** What I think is really interesting is that despite you and your colleague being the ones who ran this study that produced this finding, you still say that people should totally have kids if they really want to be parents. So how do you square that circle? 
+> **SS [interviewer]:** What I think is really interesting is that despite you and your colleague being the ones who ran this study that produced this finding, you still say that people should totally have kids if they really want to be parents. So how do you square that circle? 
 > 
 > **KN [scientist]:** One thing it’s really important to realize is that population is actually irrelevant to solving the climate crisis. And the reason for that is that we only have the next few years to solve the climate crisis reasonably well. 
 > 

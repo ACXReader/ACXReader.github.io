@@ -3,6 +3,9 @@ title: "Bay Area Plant-Based Meat Reviews"
 subtitle: "Eight vegan/vegetarian restaurant options."
 date: 2021-02-26
 likes: 71
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32963867/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9e3d1e68-5a67-4750-af29-191df493f31d_1000x750.jpeg
 original-url: https://www.astralcodexten.com/p/bay-area-plant-based-meat-reviews
 ---
 By this point you’ve probably tried Impossible Burgers, and you know that restaurants can do some pretty impressive things with them. But there are so many interesting meat dishes - what if you want something other than a burger? This market is still developing, but I live in the Bay Area, which is probably its epicenter. And I’m mostly-vegetarian, so I have no choice but to try it out. 
@@ -13,7 +16,7 @@ I tried eight restaurants which offered unusual plant-based meat dishes. Here ar
 
 * * *
 
- **[The Butcher’s Son](https://www.thebutchersveganson.com/)**
+**[The Butcher’s Son](https://www.thebutchersveganson.com/)**
 
 A “vegan delicatessan and bakery” in Berkeley. According to the website:
 
@@ -29,11 +32,11 @@ The bacon was amazing. I have gotten some friends to try it, and they all agree 
 
 Their restaurant is attached to a store that sells some of their plant-based meat in packaged form for people who want to cook with it at home. I haven’t explored this place as much as I want because getting delivery is complicated - they seem to use DoorDash kind of inconsistently.
 
- **4/5 stars:** The bacon is amazing, everything else is okay.
+**4/5 stars:** The bacon is amazing, everything else is okay.
 
 * * *
 
- **[Nature Vegetarian Restaurant](https://www.naturevegetarianoakland.com/)**
+**[Nature Vegetarian Restaurant](https://www.naturevegetarianoakland.com/)**
 
 This is a vegetarian Chinese restaurant. Their website doesn’t list any inspirational backstory or whimsical daydreams, so I assume they’re a front for the mob. I ordered their vegetarian takes on Mongolian beef, BBQ pork rice, and General Tao's chicken. 
 
@@ -53,7 +56,7 @@ Overall I was very happy with this restaurant, especially the chicken. **4.5/5**
 
 * * *
 
- **[Vegan Mob](https://veganmob.biz/)**
+**[Vegan Mob](https://veganmob.biz/)**
 
 This is a vegan barbecue, so they're not making things easy for themselves. Their website autoplays a full-screen video when you go to it, so I got annoyed and didn't look into it too hard. At least they’re not a front for the mob - I assume real mob fronts try to avoid including “mob” in the name.
 
@@ -67,7 +70,7 @@ I enjoyed this as an experience. It looks like a real barbecue plate! It success
 
 * * *
 
- **[Souley Vegan](https://souleyvegan.com/)**
+**[Souley Vegan](https://souleyvegan.com/)**
 
 I sit here, staring at my plate of vegan alligator nuggets, and wonder where I went wrong in life.
 
@@ -79,11 +82,11 @@ Later I look at the [Souley Vegan menu](https://souleyvegan.com/menu) more close
 
 The Po' Boy sandwich tasted fine; on a bun with lettuce, tomato, and mayonnaise, I mostly tasted the lettuce, tomato, and mayonnaise. The fries were ruined by the transportation process, in the same way as all fries everywhere, but the garlic dip they came with was okay.
 
- **2/5 stars** , but realistically I did this to myself by ordering fake alligator which I knew I would hate.
+**2/5 stars** , but realistically I did this to myself by ordering fake alligator which I knew I would hate.
 
 * * *
 
- **[Canasta Kitchen](http://www.canastakitchen.com/)**
+**[Canasta Kitchen](http://www.canastakitchen.com/)**
 
 Not really a dedicated vegetarian restaurant, but they offered an Impossible Ceviche. I was intrigued so I ordered it, along with a burrito of "vegan al pastor" meat, and some "Cali fries" with guacamole, vegan al pastor meat, cheese, etc.
 
@@ -97,7 +100,7 @@ Overall my least favorite place so far. To be fair to them: they're not a vegeta
 
 * * *
 
- **[Crave Subs](https://www.cravesubs.com/) and [Ike’s Love And Sandwiches](http://www.loveandsandwiches.com/)**
+**[Crave Subs](https://www.cravesubs.com/) and [Ike’s Love And Sandwiches](http://www.loveandsandwiches.com/)**
 
 Ike's Love And Sandwiches is a popular Bay Area sandwich restaurant. Crave Subs is a suspiciously similar newcomer.
 
@@ -121,7 +124,7 @@ I give Ike's **4/5** stars and Crave **3/5** , though it's hard for me to decide
 
 * * *
 
- **[Summer Summer Thai Eatery](https://www.summersummerthai.com/)**
+**[Summer Summer Thai Eatery](https://www.summersummerthai.com/)**
 
 Their website has ten different accessibility options, including "pause animations" and "dyslexia friendly", hidden in an unobtrusive corner menu. This is great. It seems to be courtesy of a site called [UserWay](https://userway.org/), so check them out if you like user-readable websites. This is the most accessible site I have ever seen, which makes it ironic that it has no actual content. It's just a link to their UberEats/DoorDash pages, all of which are inaccessible as usual.
 
@@ -133,7 +136,7 @@ I still give them **4/5 stars** for their wide selection, accessible-albeit-usel
 
 * * *
 
- **[Golden Lotus Vegan Restaurant](https://www.goldenlotusvegan.co/)**
+**[Golden Lotus Vegan Restaurant](https://www.goldenlotusvegan.co/)**
 
 I wondered why "Golden Lotus" sounded so familiar, until I remembered that was what I called the creepy enlightenment speedrunning cult in my story [Samsara](https://slatestarcodex.com/2019/11/04/samsara/). Whatever, probably this is a common name for Asian-associated things. Just a coincidence, right? 
 
@@ -143,7 +146,7 @@ Wrong. The sweet orange and spicy ginger dishes somehow managed to be a fully ge
 
 The Szechuan pineapple beef came from the same school of fake beef that gave us the Mongolian Beef at the Nature Chinese place, but I was less of a fan of the pineapple sauce and so less willing to overlook its other flaws. The caramelized chicken was the only thing that made an attempt to have a texture and really seem foodlike; I give it a B minus. Maybe if I hadn't been so creeped out by the first two dishes I would be able to recognize these as decent attempts at solving the difficult problems inherent in vegetarian foodstuffs. As it is, I cut them no slack.
 
- **2.5/5 stars** , and they're _totally_ the creepy enlightenment speedrunning cult from the story.
+**2.5/5 stars** , and they're _totally_ the creepy enlightenment speedrunning cult from the story.
 
 * * *
 

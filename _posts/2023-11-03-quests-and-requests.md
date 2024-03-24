@@ -3,6 +3,9 @@ title: "Quests And Requests"
 subtitle: "Projects that need incubating"
 date: 2023-11-03
 likes: 125
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/138508657/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/00d1b4d4-b3e2-4895-9fbf-362a767da030_492x319.png
 original-url: https://www.astralcodexten.com/p/quests-and-requests
 ---
 I’ll be starting a new round of ACX Grants sometime soon. I can’t guarantee I’ll fund all these projects - some of them are more like vanity projects than truly effective. But I might fund some of them, and others might be doable without funding. So if you’re feeling left out and want a cause to devote your life to, here are some extras.
@@ -11,7 +14,7 @@ I’ll be starting a new round of ACX Grants sometime soon. I can’t guarantee 
 
 **Skills needed:** familiarity with EEG   
 **Budget:** A few thousand dollars for machines, some large amount of your time?  
- **Payoff:** People can learn things several times faster?
+**Payoff:** People can learn things several times faster?
 
 In 2022, [a team at Cambridge found](https://jacobshapiro.substack.com/p/teaching-at-the-brains-tempo) that experimental subjects learned faster when stimuli were presented at their brain’s unique alpha rhythm. The scientists monitored their brain waves to figure out exactly what each subject’s alpha rhythm was (usually a pattern of flashes about a dozen times per second), then presented a flashing pattern that hit the trough of each alpha wave, then asked subjects to solve tough visual recognition problems. They found the alpha entrainment helped them learn faster:
 
@@ -25,9 +28,9 @@ Someone should figure out whether this can be used for the sorts of things norma
 
 ## 2\. Open source polygenic score for educational attainment
 
- **Skills needed:** statistical genetics, ability to access databases  
- **Budget:** Some medium amount of your time?  
- **Payoff:** Bring embryo selection to the masses; probably other things
+**Skills needed:** statistical genetics, ability to access databases  
+**Budget:** Some medium amount of your time?  
+**Payoff:** Bring embryo selection to the masses; probably other things
 
 “Educational attainment” (EA) means how much schooling you complete (high school dropout? College graduate? PhD? Etc). It’s used as a common proxy for IQ in psychological research, since most people don’t know their IQ, but do know how much education they’ve completed. EA and IQ correlate well enough that it’s rarely worth examining them separately.
 
@@ -45,9 +48,9 @@ Companies make predictors like these all the time (the cancer risk companies hav
 
 ## 3\. Things like John Green’s anti-tuberculosis campaign
 
- **Skills needed:** knowledge of pharma landscape, fame or ability to interface with famous people  
- **Budget:** Some large amount of your time?  
- **Payoff:** Lower costs of life-saving drugs
+**Skills needed:** knowledge of pharma landscape, fame or ability to interface with famous people  
+**Budget:** Some large amount of your time?  
+**Payoff:** Lower costs of life-saving drugs
 
 Author and Internet celebrity John Green recently [campaigned against tuberculosis](https://www.mmm-online.com/home/channel/author-john-green-takes-jj-to-task-for-plans-to-extend-patent-on-tb-drug/).
 
@@ -59,9 +62,9 @@ Your job if you took this quest would be to figure out other leverage points lik
 
 ## 4\. My crazy idea for language teaching
 
- **Skills needed:** speak a foreign language  
- **Budget:** Some large amount of your time?  
- **Payoff:** Test a potential new language instruction technique
+**Skills needed:** speak a foreign language  
+**Budget:** Some large amount of your time?  
+**Payoff:** Test a potential new language instruction technique
 
 I make no guarantees this will work, it’s just something I’ve been thinking about for the past fifteen years and wish someone would test already. Here’s what I wrote in my old blog in 2012:
 
@@ -77,7 +80,7 @@ I make no guarantees this will work, it’s just something I’ve been thinking 
 >   
 > There would be enough of this that sentences with Japanese syntax would become as quickly and effortlessly readable as sentences with English syntax. And the hope is that the reader would keep going because they'd be enjoying the story, and after a little while adjusting the weird sentence structure would be a comparatively slight barrier to further progress.  
 >   
-> Then some of the grammatical particles would switch to full on foreign. Now it's "Ryuk- _wa_ , Death Note- _no_ secret Light- _e_ taught." Gradually we'd get through all of the horrible little verb bits where my language studies have previously crashed and burned: "Ryuk- _wa_ , Death Note- _no_ secret- _o_ Light- _e_ teach- _mashita_."   
+> Then some of the grammatical particles would switch to full on foreign. Now it's "Ryuk-_wa_ , Death Note-_no_ secret Light-_e_ taught." Gradually we'd get through all of the horrible little verb bits where my language studies have previously crashed and burned: "Ryuk-_wa_ , Death Note-_no_ secret-_o_ Light-_e_ teach-_mashita_."   
 >   
 > I _might_ grudgingly allow little footnotes at the bottom like "This is the first time you've seen _-mashita_. It's just the standard past tense ending for verbs", but even that might be an unacceptable surrender to the grammar-memorization-industrial complex.  
 >   
@@ -93,9 +96,9 @@ DJKeown on the subreddit [suggested using GPT for this](https://www.reddit.com/r
 
 ## 5\. Automatic Implicit Association Test generator
 
- **Skills needed:** web/software skills, maybe psychology knowledge?  
- **Budget:** Some medium amount of your time?  
- **Payoff:** Platform that could produce interesting measurements of biases.
+**Skills needed:** web/software skills, maybe psychology knowledge?  
+**Budget:** Some medium amount of your time?  
+**Payoff:** Platform that could produce interesting measurements of biases.
 
 The Implicit Association Test is a technique for measuring unconscious bias. 
 
@@ -121,9 +124,9 @@ This might be a good place to use AI: you can tell it to generate a hundred phot
 
 ## 6\. A good dating site
 
- **Skills needed:** web/software skills, influence with hundreds of women (I admit these two skillsets are inversely correlated)  
- **Budget:** Some large amount of your time, a few thousand dollars in hosting costs?  
- **Payoff:** Dates!
+**Skills needed:** web/software skills, influence with hundreds of women (I admit these two skillsets are inversely correlated)  
+**Budget:** Some large amount of your time, a few thousand dollars in hosting costs?  
+**Payoff:** Dates!
 
 ![](https://substackcdn.com/image/fetch/w_702,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00da0cfb-ad8f-4b54-8a49-596a4ef90f82_603x110.png)
 
@@ -166,9 +169,9 @@ This one is less a request for people to step up and incubate this project so mu
 
 ## 7\. A foundation to promote classical art and architecture
 
- **Skills needed:** art/design knowledge, social skills, administrative/entrepreneurial skills  
- **Budget:** Some large amount of money from an outside funder, some large amount of your time?  
- **Payoff:** A more beautiful world
+**Skills needed:** art/design knowledge, social skills, administrative/entrepreneurial skills  
+**Budget:** Some large amount of money from an outside funder, some large amount of your time?  
+**Payoff:** A more beautiful world
 
 Poll after poll shows that Americans prefer classical art and architecture, here used as a catchall term for styles that old-fashioned, ornate, symmetric, elegant, etc - eg neo-classical, Gothic revival, Art Nouveau, Art Deco. In the rare cases when someone builds something like this, people love it and it becomes an instant tourist attraction. But 99% of the time, we get the same Brutalist cubes, modernist blobs, starchitect [crumpled paper](https://twitter.com/blader/status/1670900940709429254), or lowest-common-denominator five-over-one apartments.
 
@@ -197,9 +200,9 @@ An classical architecture aegis organization would:
 
 ## 8\. A good primer on political change
 
- **Skills needed:** understanding political change, writing a primer  
- **Budget:** A medium amount of your time? Or maybe you already have one of these?  
- **Payoff:** More political change.
+**Skills needed:** understanding political change, writing a primer  
+**Budget:** A medium amount of your time? Or maybe you already have one of these?  
+**Payoff:** More political change.
 
 Surely this exists. Surely this is already a book (or at least a blog post) and you just need to tell me the name of it. Still, I would really appreciate knowing that name!
 

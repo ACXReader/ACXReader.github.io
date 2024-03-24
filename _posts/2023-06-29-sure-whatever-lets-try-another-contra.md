@@ -3,6 +3,9 @@ title: "Sure, Whatever, Let's Try Another Contra Caplan On Mental Illness"
 subtitle: "..."
 date: 2023-06-29
 likes: 251
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/130568837/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/175aea08-12cc-466f-96c3-f9109f41f7e7_320x240.jpeg
 original-url: https://www.astralcodexten.com/p/sure-whatever-lets-try-another-contra
 ---
 **I.**
@@ -21,13 +24,13 @@ In particular, he claims I am FORCED to either accept that all mental illnesses 
 
 You will not be surprised to learn that I don’t think of myself as secretly admitting this, or forced into doing anything.
 
- **II.**
+**II.**
 
 Bryan mentions how I have already addressed his fork with a much more in-detail discussion of how we classify something as a disease or not at [this link](https://www.lesswrong.com/posts/895quRDaK6gR2rM82/diseased-thinking-dissolving-questions-about-disease), to which I would add [this post](https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/) as fleshing out the same framework. Put simply, declaring something a “disease” is a complex category-boundary-drawing issue that combines facts and values, just like all category-boundary-drawing issues.
 
 I said that it’s a political question whether or not you classify homosexuality as an illness. Caplan thinks of this as some sort of incredibly deep concession. But it’s a political question whether or not to classify _any_ condition, including physical conditions, as illnesses. It’s just that the political question is usually very easy. This shouldn’t be surprising - most political questions are easy! “Should we set every tree in the United States on fire, then dump the entire Strategic Uranium Reserve in the Mississippi River?” - this is a political question, in the sense that you could propose it for a vote and people would have to form an opinion on it. It doesn’t show up on C-SPAN because it doesn’t satisfy anybody’s values. It’s a political fight where one side has a constituency of zero.
 
-In the same way, “is cancer a disease?” is a political question. Maybe cancer makes you cough up blood and die. Basically everyone is against this, so it’s easy to condemn it and agree that doing it is worse than not doing it. If for some reason there were some strong political constituency in favor of coughing up blood and dying, who thought were were unfairly stigmatizing this wonderful prosocial activity, then we would have to have a political fight about it. This fight would have to involve comparing values (eg being against death) rather than comparing facts (eg cancer is caused by a mutation in such and such a gene).[1](/p/sure-whatever-lets-try-another-contra#footnote-1-130568837)
+In the same way, “is cancer a disease?” is a political question. Maybe cancer makes you cough up blood and die. Basically everyone is against this, so it’s easy to condemn it and agree that doing it is worse than not doing it. If for some reason there were some strong political constituency in favor of coughing up blood and dying, who thought were were unfairly stigmatizing this wonderful prosocial activity, then we would have to have a political fight about it. This fight would have to involve comparing values (eg being against death) rather than comparing facts (eg cancer is caused by a mutation in such and such a gene).[^1]
 
 (see also: [The Tails Coming Apart As Metaphor For Life](https://slatestarcodex.com/2018/09/25/the-tails-coming-apart-as-metaphor-for-life/) and [Ambijectivity](https://slatestarcodex.com/2013/05/05/ambijectivity/). Categories often contain a simple region where they operate perfectly and where it would be perverse to consider them a political question even though they sort of are, and a more complex region where they start to break down and we have to agree on some final border)
 
@@ -51,7 +54,7 @@ My interpretation of Bryan’s theory (I’m putting this in a quote block to sp
 
 My counterarguments:
 
- _— 1: Counterargument From Physical Illness, Part I_
+_— 1: Counterargument From Physical Illness, Part I_
 
 The simple preference/constraint model clearly doesn’t describe mental illness very well. But it’s actually much worse than that. It doesn’t even describe _physical_ illness.
 
@@ -63,7 +66,7 @@ Or we could _stop thinking like behaviorists_ , a philosophy which nobody has ta
 
 Once we’ve admitted this, it’s natural to also admit that depression involves negative emotions and low energy, that alcoholism involves a craving to drink alcohol, and that psychosis involves disturbed reasoning processes which make running out in the street naked claiming to be God seem like a good idea (all with other preferences intact). This is more parsimonious than Caplan’s theory, better matches the testimony of the mentally and physically ill themselves, and doesn’t require the mentally ill to be running some 4D-chess-style network of lies (such that actually the psychotic person’s reasoning is completely normal and they’ve just managed to perfectly trick everyone into thinking that it isn’t and tell a perfectly consistent story all the time and stick with their deception even when it presents an extreme threat to their life and freedom).
 
- _— 2: Counterargument From Gradients_
+_— 2: Counterargument From Gradients_
 
 Preferences and constraints naturally shade into each other. Let me give three examples.
 
@@ -77,23 +80,23 @@ I think Caplan would have to say that at every level up to 25%, I simply have a 
 
 Instead, I would rather describe things that make an action difficult and unpleasant as in some sense real constraints. When the dimmer switch is at 25%, I have an external constraint making walking difficult and unpleasant, although I can overcome this and do it anyway with a strong enough incentive. When the switch is at 24%, it’s become so difficult that no incentive can make me do it. There’s no qualitative boundary, just a quantitative one.
 
-Example 3: Try to hold your breath as long as you can (please don’t go overboard and hold it so long you pass out). If your experience is like mine, at each moment you’ll feel like - given a slight exercise of willpower - you could choose to hold your breath one more second if you so desired. But if your experience is like mine, you will also find that no amount of love or money could make you hold your breath successfully for (let’s say) three minutes.[2](/p/sure-whatever-lets-try-another-contra#footnote-2-130568837)
+Example 3: Try to hold your breath as long as you can (please don’t go overboard and hold it so long you pass out). If your experience is like mine, at each moment you’ll feel like - given a slight exercise of willpower - you could choose to hold your breath one more second if you so desired. But if your experience is like mine, you will also find that no amount of love or money could make you hold your breath successfully for (let’s say) three minutes.[^2]
 
 Is there a point where not wanting to hold your breath any longer switches from a preference to a constraint? Or have you discovered a place, in the dark moments just before suffocation, where these concepts lose all meaning?
 
- _— 3: Counterargument From Physical Illness, Part II_
+_— 3: Counterargument From Physical Illness, Part II_
 
 Caplan claims that mental illnesses involve preferences and physical illnesses involve constraints. But a second’s thought reveals this is not actually true, even if you accept the whole preference-constraint dichotomy
 
-Consider cancer. Cancer involves some constraints; for example, it might kill you, and you cannot choose to live instead, even if someone put a gun to your head and demanded it[3](/p/sure-whatever-lets-try-another-contra#footnote-3-130568837). But until that happens, it mostly looks like preferences. People with cancer might stay in bed, saying they feel too sick and weak to get up and do things. But if you threatened them with a gun, they could probably get up and do things. People with cancer might refuse to eat, saying they feel too nauseous and have no appetite. But if you threatened them with a gun, they could probably get down some food.
+Consider cancer. Cancer involves some constraints; for example, it might kill you, and you cannot choose to live instead, even if someone put a gun to your head and demanded it[^3]. But until that happens, it mostly looks like preferences. People with cancer might stay in bed, saying they feel too sick and weak to get up and do things. But if you threatened them with a gun, they could probably get up and do things. People with cancer might refuse to eat, saying they feel too nauseous and have no appetite. But if you threatened them with a gun, they could probably get down some food.
 
 Meanwhile, plenty of mental illnesses include constraints. One of the diagnostic criteria for depression is cognitive and memory problems; people with these problems cannot choose to remember things better, even with a gun to their head. Many people with psychosis cannot speak or reason normally, even if you put a gun to their head and ask them how a healthy person would answer a question. People having panic attacks cannot choose to have a normal heartbeat, or to stop shaking or sweating. Depression and anxiety are both associated with insomnia; try to will yourself to sleep and [you’ll sleep ](https://pubmed.ncbi.nlm.nih.gov/36595381/)_[less,](https://pubmed.ncbi.nlm.nih.gov/36595381/)_[not more](https://pubmed.ncbi.nlm.nih.gov/36595381/).
 
 Both physical and mental illnesses are complex bundles of preferences and constraints, which shouldn’t be surprising given that preference vs. constraint is an oversimplified distinction that breaks down outside its legitimate domain.
 
- _— 4: Counter-Argument From The Gun-To-The-Head Test Actually Not Working_
+_— 4: Counter-Argument From The Gun-To-The-Head Test Actually Not Working_
 
-A depressed person may not be able to get out of bed or live a normal life. This might get so bad that they decide to commit suicide by shooting themselves in the head. Confronted with a choice between living a normal life, or a gunshot to the head, they have chosen the gunshot[4](/p/sure-whatever-lets-try-another-contra#footnote-4-130568837). It appears that they have passed the gun-to-the-head test that Caplan loves so much.
+A depressed person may not be able to get out of bed or live a normal life. This might get so bad that they decide to commit suicide by shooting themselves in the head. Confronted with a choice between living a normal life, or a gunshot to the head, they have chosen the gunshot[^4]. It appears that they have passed the gun-to-the-head test that Caplan loves so much.
 
 I feel bad including this one, because Caplan can fairly object that this is just another preference. Maybe depressed people completely voluntarily choose to lie in bed for a few years while falsely claiming to be miserable and then shoot themselves in the head, and all of this is a perfectly free choice that they are happy with. I cannot disprove this, only point out how unparsimonious it is.
 
@@ -103,7 +106,7 @@ Again, Caplan could say that this is just a preference for attacking cops and th
 
 In fact, at this point I don’t see why he even has to acknowledge the existence of constraints at all. One might as well claim that a paralyzed person could walk if they wanted, but chooses not to.
 
- **III.**
+**III.**
 
 I think Caplan is groping towards something like the following criticism:
 
@@ -179,18 +182,10 @@ It’s easy to believe _either_ 1 _or_ 2 without believing 3; there’s no reaso
 
 If Caplan wants to respond to this, or to my beliefs in general, I would prefer he start with the four arguments against the constraint/preference distinction, which I think are the crux of our disagreement.
 
-[1](/p/sure-whatever-lets-try-another-contra#footnote-anchor-1-130568837)
+[^1]: Isn’t cancer obviously, nonpolitically, an illness, in the sense that it clusters with all the other things we agree are illnesses? I think there are a few answers to this. One is that I would say Down Syndrome should also be in this category, but there are some real people who claim it’s not a disease - just because I would *like for* something not to be a political question, doesn’t mean it isn’t! An even better example is aging - which involves just as much biological dysfunction as cancer, is even more fatal, and yet - because some people aren’t against it and think death is good in this one weird case - [it’s hard to get it classified as a disease](https://www.technologyreview.com/2022/10/19/1061070/is-old-age-a-disease/). Most sane classifiers, presented with all diseases other than cancer and asked to determine whether cancer is inside or outside of the category, would say inside - but it’s our job to enforce that in real life, and neither “sane classifier” nor “agreeing on all other diseases” are trivial.
 
-Isn’t cancer obviously, nonpolitically, an illness, in the sense that it clusters with all the other things we agree are illnesses? I think there are a few answers to this. One is that I would say Down Syndrome should also be in this category, but there are some real people who claim it’s not a disease - just because I would *like for* something not to be a political question, doesn’t mean it isn’t! An even better example is aging - which involves just as much biological dysfunction as cancer, is even more fatal, and yet - because some people aren’t against it and think death is good in this one weird case - [it’s hard to get it classified as a disease](https://www.technologyreview.com/2022/10/19/1061070/is-old-age-a-disease/). Most sane classifiers, presented with all diseases other than cancer and asked to determine whether cancer is inside or outside of the category, would say inside - but it’s our job to enforce that in real life, and neither “sane classifier” nor “agreeing on all other diseases” are trivial.
+[^2]: Suppose that you put a gun to my head and threatened to kill me unless I cold hold my breath for X amount of time. And suppose we somehow ran this experiment across various parallel universes and found X was two minutes. Now suppose you instead threaten to do something much worse than kill me - let’s say destroy the world. Can I hold out for 2:01? I think maybe. This kind of question seems much more interesting to me than “is it a preference which means you have infinite willpower, or a constraint which means you have zero willpower?”
 
-[2](/p/sure-whatever-lets-try-another-contra#footnote-anchor-2-130568837)
+[^3]: Or can you? There are lots of stories of some cancer patient who “holds on” until their beloved spouse can be by their bedside. Is death, like taking a breath, something you can put off voluntarily, but whose delay requires more and more willpower until everyone eventually gives in?
 
-Suppose that you put a gun to my head and threatened to kill me unless I cold hold my breath for X amount of time. And suppose we somehow ran this experiment across various parallel universes and found X was two minutes. Now suppose you instead threaten to do something much worse than kill me - let’s say destroy the world. Can I hold out for 2:01? I think maybe. This kind of question seems much more interesting to me than “is it a preference which means you have infinite willpower, or a constraint which means you have zero willpower?”
-
-[3](/p/sure-whatever-lets-try-another-contra#footnote-anchor-3-130568837)
-
-Or can you? There are lots of stories of some cancer patient who “holds on” until their beloved spouse can be by their bedside. Is death, like taking a breath, something you can put off voluntarily, but whose delay requires more and more willpower until everyone eventually gives in?
-
-[4](/p/sure-whatever-lets-try-another-contra#footnote-anchor-4-130568837)
-
-I hate even giving Caplan enough leeway to use this example. A depressed person doesn’t have a preference for lying in bed and doing nothing, in the sense that as long as they lie in bed and do nothing they’re happy, but if they get out of bed and do something they’re sad. They are lying in bed doing nothing _and also extremely miserable_. There is no world-state that can make them as happy as the non-depressed person, and I resent the brief second I have to pretend otherwise in order to do thought experiments inside Caplan’s model.
+[^4]: I hate even giving Caplan enough leeway to use this example. A depressed person doesn’t have a preference for lying in bed and doing nothing, in the sense that as long as they lie in bed and do nothing they’re happy, but if they get out of bed and do something they’re sad. They are lying in bed doing nothing _and also extremely miserable_. There is no world-state that can make them as happy as the non-depressed person, and I resent the brief second I have to pretend otherwise in order to do thought experiments inside Caplan’s model.

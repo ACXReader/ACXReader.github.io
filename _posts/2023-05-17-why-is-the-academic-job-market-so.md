@@ -3,11 +3,14 @@ title: "Why Is The Academic Job Market So Weird?"
 subtitle: "..."
 date: 2023-05-17
 likes: 201
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/121221132/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/3733a7e4-c543-43eb-a3a0-715f98152c6b_10000x4332.jpeg
 original-url: https://www.astralcodexten.com/p/why-is-the-academic-job-market-so
 ---
-[ _Related:[Dualization](https://slatestarcodex.com/2015/07/28/non-dual-awareness/)_]
+[_Related:[Dualization](https://slatestarcodex.com/2015/07/28/non-dual-awareness/)_]
 
- **Bret Devereaux[writes](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)**[ ](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)**[here](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)** about the oddities of the academic job market.
+**Bret Devereaux[writes](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)**[ ](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)**[here](https://acoup.blog/2023/04/28/collections-academic-ranks-explained-or-what-on-earth-is-an-adjunct/)** about the oddities of the academic job market.
 
 His piece is comprehensive, and you should read it, but short version: professors are split into tenure-track (30%, good pay and benefits) and adjunct (50%, bad pay and benefits). Another 20% are “teaching-track”, somewhere in between. 
 
@@ -21,7 +24,7 @@ Remember, “greed” isn’t an answer. Greed can explain why management pays s
 
 Maybe this is all so obvious to Devereaux that he didn’t feel it needed explaining, but it’s not obvious to me. And I can’t find any existing discussion, so I’ll make a guess to start the conversation, and people who know more can tell me if I’m wrong.
 
- **Colleges want two things from their professors.** First, they need them to teach classes. Second, they need them to do good research, raise the college’s reputation, and look prestigious.
+**Colleges want two things from their professors.** First, they need them to teach classes. Second, they need them to do good research, raise the college’s reputation, and look prestigious.
 
 Colleges want to pretend to students that the same people are doing both these jobs, because students like the idea of being taught by prestigious thought leaders. But they don’t want to _actually_ have the same people do both jobs, because the most valuable use of prestigious thought leaders’ time is doing research or promoting their ideas. Every hour Einstein spends in the classroom is an hour he’s not spending in the lab making discoveries that will rain down honors upon himself and his institution. And there’s no guarantee Einstein is even a good teacher.
 
@@ -33,7 +36,7 @@ But Einstein is expensive. In teaching, colleges just want to meet a bar of “a
 
 This could explain the tenure/adjunct distinction. Adjuncts are selling their ability to teach, tenured professors are selling their prestige, and colleges have decided they only need a certain amount of prestige before they stop caring and fill the other teaching positions with warm bodies. But they obscure all of this with similar job titles to trick students into thinking they’ll get taught by prestigious people.
 
- **But then why** do they only hire inexperienced people? Why only people from outside their own institution? Here I’m even more confused, but a few guesses:
+**But then why** do they only hire inexperienced people? Why only people from outside their own institution? Here I’m even more confused, but a few guesses:
 
 Maybe colleges really do want “superstars”, not just moderately good researchers. The value of the #1 brightest new PhD is that she has a 5% chance of becoming a future superstar; the value of the #100 brightest new PhD is that she has a 1% chance of becoming a future superstar. Once you’ve been around for five years, colleges can see your track record, satisfy themselves you’re not the next Einstein, and lose interest.
 

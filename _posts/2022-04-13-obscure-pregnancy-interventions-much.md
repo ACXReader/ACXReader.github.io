@@ -2,7 +2,10 @@
 title: "Obscure Pregnancy Interventions: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2022-04-13
-likes: 93
+likes: 94
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/52041324/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fbf26479-48ab-4812-a40c-4dbbe697b21a_765x666.png
 original-url: https://www.astralcodexten.com/p/obscure-pregnancy-interventions-much
 ---
 This is intended as a sequel to my old Biodeterminist’s Guide To Parenting. It’s less ambitious, in that it focuses only on pregnancy; but also more ambitious, in that it tries to be right. I wrote Biodeterminist’s Guide in 2012, before the replication crisis was well understood, and I had too low a bar for including random crazy hypotheses.

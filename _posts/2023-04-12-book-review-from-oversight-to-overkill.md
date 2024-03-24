@@ -3,6 +3,9 @@ title: "Book Review: From Oversight To Overkill"
 subtitle: "..."
 date: 2023-04-12
 likes: 247
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/112300241/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/544362ea-3c7c-4b9e-af7f-cb5f9644c04d_513x377.png
 original-url: https://www.astralcodexten.com/p/book-review-from-oversight-to-overkill
 ---
 ## I. Risks May Include AIDS, Smallpox, And Death
@@ -35,9 +38,9 @@ Physicians of the time followed a sort of gentleman’s agreement not to mistrea
 
 I believe Dr. Nathan when he said he wouldn’t do anything to patients he wouldn’t do to himself - he once accidentally gave himself hepatitis in the course of an experiment. Still, this is not the sort of rule-abidingness that builds complete confidence.
 
-A few doctors failed to follow even the flimsiest veneer of ethics. The most famous example is the Tuskegee Syphilis Study[1](/p/book-review-from-oversight-to-overkill#footnote-1-112300241), but this happened towards the end of the relevant era. The debate at the time was more shaped by Dr. Chester Southam (who injected patients with cancer cells to see what would happen) and the Willowbrook Hepatitis Experiment, where researchers gave mentally defective children hepatitis on purpose[2](/p/book-review-from-oversight-to-overkill#footnote-2-112300241). Two voices rose to the top of the froth of outrage and ended up having outsized effects: Henry Beecher and James Shannon.
+A few doctors failed to follow even the flimsiest veneer of ethics. The most famous example is the Tuskegee Syphilis Study[^1], but this happened towards the end of the relevant era. The debate at the time was more shaped by Dr. Chester Southam (who injected patients with cancer cells to see what would happen) and the Willowbrook Hepatitis Experiment, where researchers gave mentally defective children hepatitis on purpose[^2]. Two voices rose to the top of the froth of outrage and ended up having outsized effects: Henry Beecher and James Shannon.
 
-Henry Beecher was a prominent Harvard anaesthesiologist and public intellectual, known for exploits like discovering the placebo effect.[3](/p/book-review-from-oversight-to-overkill#footnote-3-112300241) Being well-plugged-in to the research community, he was among the first to learn about studies like Southam's and Willowbrook, find them objectionable, and bring them to the public eye. Through public appearances and papers in prestigious journals, he dragged the issue in front of a sometimes-reluctant medical community. But he thought regulation would be devastating, and had no proposal other than "researchers should try to be good people", which everyone except him realized wasn't actionable.
+Henry Beecher was a prominent Harvard anaesthesiologist and public intellectual, known for exploits like discovering the placebo effect.[^3] Being well-plugged-in to the research community, he was among the first to learn about studies like Southam's and Willowbrook, find them objectionable, and bring them to the public eye. Through public appearances and papers in prestigious journals, he dragged the issue in front of a sometimes-reluctant medical community. But he thought regulation would be devastating, and had no proposal other than "researchers should try to be good people", which everyone except him realized wasn't actionable.
 
 Shannon was less brilliant, but unlike Beecher he was a practical and experienced bureaucrat. His own history of dubiously-consensual malaria research left him without illusions, but as he grew older he started feeling guilty (and also, more relevantly, became head of the National Institute of Health). Having no time for Beecher’s delusions of self-regulation, he ordered all federally-funded research to submit itself to external audits by Clinical Review Committees, the ancestors of today’s IRBs.
 
@@ -71,7 +74,7 @@ This, says Whitney, is about where we are today. There were some minor changes. 
 
 Here are some of the stories that Whitney uses to illustrate why he’s unsatisfied with the current situation:
 
- **A. Pronovost’s Checklist Study**
+**A. Pronovost’s Checklist Study**
 
 Maybe you’ve read _Checklist Manifesto_ by Atul Gawande, which shows that a simple checklist with items like “wash your hands before the procedure” can reduce medical error and save lives.
 
@@ -83,7 +86,7 @@ OHRP read the article, investigated, and learned that Johns Hopkins IRB had exem
 
 Luckily for Pronovost, Atul Gawande had recently published _Checklist Manifesto_ and become a beloved public intellectual. He agreed to take the case public and shop it around to journalists and politicians. The OHRP woke up and found angry reporters outside their door. Whitney records their forced justifications for why the study might be harmful - maybe complying with the checklists would take so much time that doctors couldn’t do more important things? Maybe the nurses’ reminders would make doctors so angry at the nurses that medical communication would break down? Dr. Gawande and the reporters weren’t impressed, and finally some politician forced OHRP to relent. The experiment resumed, and found the nurse-enforced checklist saved about 1,500 lives over the course of the study. The setup was exported around the country and has since saved tens of thousands of people. Nobody knows how many people OHRP’s six month delay killed, and nobody ever did figure out any way the study could have violated privacy.
 
- **B. ISIS 2**
+**B. ISIS 2**
 
 Don’t be alarmed if you hear your doctor was part of ISIS 2; it’s just the International Study on Infarct Survival, second phase. This was the 1980s, the name was fine back then, that’s not why IRBs got involved.
 
@@ -107,7 +110,7 @@ Flush with success, PETAL started a new study, this time on how to give fluids t
 
 Then OHRP demanded they stop. Two doctors had argued PETAL’s previous ventilator study was unethical, because they had only tested high vs. low ventilator settings, not middle ones. OHRP wanted them to stop all their current work while they investigated. They convened a panel of top scientists; the panel unanimously said their past research was great and their current research was also great, using terms like "landmark, world-class investigations". They recommended the study be allowed to restart.
 
-OHRP refused. Its director, ethicist Jerry Menikoff, had decided maybe it was unethical to do RCTs on ventilator settings at all. He asked whether they might be able to give every patient the right setting while still doing the study[4](/p/book-review-from-oversight-to-overkill#footnote-4-112300241). The study team tried to explain to him that they didn’t _know_ which was the right setting, that was why they had to do the study. He wouldn’t budge.
+OHRP refused. Its director, ethicist Jerry Menikoff, had decided maybe it was unethical to do RCTs on ventilator settings at all. He asked whether they might be able to give every patient the right setting while still doing the study[^4]. The study team tried to explain to him that they didn’t _know_ which was the right setting, that was why they had to do the study. He wouldn’t budge. 
 
 Finally, after a year, another panel of experts ruled in favor of the investigators and gave them permission to restart the study right away. They did, but the delay was responsible for thousands of deaths, and produced a chain effect on ventilator research that made us less prepared for the surge in ventilator demand around COVID.
 
@@ -131,7 +134,7 @@ Whitney doesn’t want a revolution. He just wants to go back to the pre-1998 sy
 
   * Let each institution run their IRB with limited federal interference. Big institutions doing dangerous studies can enforce more regulations; small institutions doing simpler ones can be more permissive. The government only has to step in when some institution seems to be failing really badly.
 
-  * Researchers should be allowed to appeal IRB decisions to higher authorities like deans or chancellors[5](/p/book-review-from-oversight-to-overkill#footnote-5-112300241)
+  * Researchers should be allowed to appeal IRB decisions to higher authorities like deans or chancellors[^5]
 
 
 
@@ -152,22 +155,12 @@ Whitney tries to be more optimistic. A few ethicists (including star bioethicist
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F785f978a-6b1f-48ea-b72e-57fc8f63aa9d_240x357.png)](https://amzn.to/3UqYYOv)
 
-[1](/p/book-review-from-oversight-to-overkill#footnote-anchor-1-112300241)
+[^1]: Whitney notes that Tuskegee University, which lent some facilities for the study but was otherwise uninvolved, is justly upset at being associated with this atrocity. He would prefer to call it the US Public Health Service Syphilis Study after the actual perpetrators. Today we remember the bold whistleblowers who blew the lid off this scandal, but I didn’t realize how circuitous the path to exposure was. The researchers spent years being pretty open about their project to the rest of the research community. Peter Buxtun, an incidentally involved social worker (also “a libertarian Republican, former army medic, gun collector, and NRA member” - social workers were different in those days!) heard about it, was horrified, and tried to get it shut down. The relevant oversight board involved listened to his complaints politely, then decided there was no problem (the only issue the board flagged was the risk that it might make them look racist). Buxtun spent six years complaining about this to various uninterested stakeholders until finally a reporter listened to him and published an expose.
 
-Whitney notes that Tuskegee University, which lent some facilities for the study but was otherwise uninvolved, is justly upset at being associated with this atrocity. He would prefer to call it the US Public Health Service Syphilis Study after the actual perpetrators. Today we remember the bold whistleblowers who blew the lid off this scandal, but I didn’t realize how circuitous the path to exposure was. The researchers spent years being pretty open about their project to the rest of the research community. Peter Buxtun, an incidentally involved social worker (also “a libertarian Republican, former army medic, gun collector, and NRA member” - social workers were different in those days!) heard about it, was horrified, and tried to get it shut down. The relevant oversight board involved listened to his complaints politely, then decided there was no problem (the only issue the board flagged was the risk that it might make them look racist). Buxtun spent six years complaining about this to various uninterested stakeholders until finally a reporter listened to him and published an expose.
+[^2]: It’s not as bad as it sounds - adult staff at this state run school kept getting severe cases of hepatitis. Scientists investigated, and suspected that children had asymptomatic cases and were passing it on to staff. With parents’ permission, they deliberately infected some children with hepatitis to prove that it would be asymptomatic in them, and that therefore they must be the source of the staff infections. They were right, and their research led to better protection for staff with no negative effect on the children themselves. Still, the one sentence summary sounds pretty awful.
 
-[2](/p/book-review-from-oversight-to-overkill#footnote-anchor-2-112300241)
+[^3]: I’m interested in [great families](https://astralcodexten.substack.com/p/secrets-of-the-great-families), so I had to check if he was a member of the famous Beecher family of Boston Brahmins (think Harriet Beecher Stowe). Any relationship, if it existed, was very distant - born Henry Unangst, he changed his name to trick people into thinking he was higher-status. Ironically, he became more famous than any of them, and probably increased their prestige more than they increased his. I’m still against this; it cost us the opportunity to call the placebo effect “the Unangst Effect”.
 
-It’s not as bad as it sounds - adult staff at this state run school kept getting severe cases of hepatitis. Scientists investigated, and suspected that children had asymptomatic cases and were passing it on to staff. With parents’ permission, they deliberately infected some children with hepatitis to prove that it would be asymptomatic in them, and that therefore they must be the source of the staff infections. They were right, and their research led to better protection for staff with no negative effect on the children themselves. Still, the one sentence summary sounds pretty awful.
+[^4]: In one of his papers, he wrote: “How would you feel if your doctor suggested - not as part of a research study - that he pick the treatment you get by flipping a coin? Very few of us, as patients, would accept this type of behavior."
 
-[3](/p/book-review-from-oversight-to-overkill#footnote-anchor-3-112300241)
-
-I’m interested in [great families](https://astralcodexten.substack.com/p/secrets-of-the-great-families), so I had to check if he was a member of the famous Beecher family of Boston Brahmins (think Harriet Beecher Stowe). Any relationship, if it existed, was very distant - born Henry Unangst, he changed his name to trick people into thinking he was higher-status. Ironically, he became more famous than any of them, and probably increased their prestige more than they increased his. I’m still against this; it cost us the opportunity to call the placebo effect “the Unangst Effect”.
-
-[4](/p/book-review-from-oversight-to-overkill#footnote-anchor-4-112300241)
-
-In one of his papers, he wrote: “How would you feel if your doctor suggested - not as part of a research study - that he pick the treatment you get by flipping a coin? Very few of us, as patients, would accept this type of behavior."
-
-[5](/p/book-review-from-oversight-to-overkill#footnote-anchor-5-112300241)
-
-I’m mostly a fan of Whitney’s suggestions, but I’m not sure about this one. On the one hand, I understand why it would be good if, when IRBs make terrible decisions, researchers could appeal. But it also seems strange to have a panel of experts (eminent doctors, clergymen, etc) who can be overruled by a non-expert (a dean). Also, I find it hard to imagine a dean would ever do this - if anything ever goes wrong (or even if it didn’t) “the experts said this was unethical, but the dean overruled them” doesn’t sound very good.
+[^5]: I’m mostly a fan of Whitney’s suggestions, but I’m not sure about this one. On the one hand, I understand why it would be good if, when IRBs make terrible decisions, researchers could appeal. But it also seems strange to have a panel of experts (eminent doctors, clergymen, etc) who can be overruled by a non-expert (a dean). Also, I find it hard to imagine a dean would ever do this - if anything ever goes wrong (or even if it didn’t) “the experts said this was unethical, but the dean overruled them” doesn’t sound very good.

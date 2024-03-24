@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Acemoglu And AI"
 subtitle: "And by \"highlights\", I mean \"arguments\""
 date: 2021-08-06
 likes: 57
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39571910/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e605ea52-696e-4ca4-a55d-4066bea5bd48_800x467.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-acemoglu
 ---
 
@@ -26,7 +29,7 @@ But also, who cares? Non-self-aware computers can beat humans at Chess, Go, and 
 
 I’m reminded of Dijsktra’s claim that whether a computer can think is like the question of whether a submarine can swim. Sure, say that you’re not worried about submarines because no naval engineer in the world has a plausible path to creating a submarine that can truly swim. Point to the schematics, and prove that there is no “swimming” anywhere in the engine or reactor. You’ll be completely right, and have proven something very interesting about the deep philosophical category of swimming, and the submarine can just nuke you anyway.
 
- **—————————————————**
+**—————————————————**
 
 Chris Thomas [writes](https://astralcodexten.substack.com/p/contra-acemoglu-onoh-god-were-doing/comments#comment-2474458):
 
@@ -48,7 +51,7 @@ Right now a lot of research is going into making things that are slightly more g
 
 I think most people expect that learning algorithms will go through a process of becoming more and more generalized. We’ll go from ones that can only learn Go, to ones that can learn any board game, to ones that can learn any board or video game, to ones that can learn skills like writing and art (you are here!), to ones that can learn any game or skill broadly defined, to ones that can learn fields/careers/etc, to ones that can do all those things and also learn how to navigate the world as an agent and pursue larger-term goals. The worry isn’t that one day an equation for making parole decisions becomes superintelligent, it’s that general-purpose learning agents become really good at learning lots of stuff and learn to do things we weren’t expecting or didn’t want.
 
- **—————————————————**
+**—————————————————**
 
 DYoshida [writes](https://astralcodexten.substack.com/p/contra-acemoglu-onoh-god-were-doing/comments#comment-2473962):
 
@@ -85,11 +88,11 @@ I don’t know how much of this is people being dumb, vs. the AI field having a 
 
 I think the Metaculus position is consistent with all of “this probably won’t happen”, “THIS IS SUPER-TERRIFYING”, “this is most likely far away”, and “BUT FOR ALL WE KNOW IT COULD BE TOMORROW!” I realize this is an annoying way for things to be.
 
- **—————————————————**
+**—————————————————**
 
 CraigMichael [writes](https://astralcodexten.substack.com/p/contra-acemoglu-onoh-god-were-doing/comments#comment-2474096):
 
->  _> But all the AI regulation in the world won’t help us unless we humans resist the urge to spread misinformation to maximize clicks._
+> _> But all the AI regulation in the world won’t help us unless we humans resist the urge to spread misinformation to maximize clicks._
 > 
 > Was with you up to this point. There are several solutions to this other than willpower (resisting the urge).
 > 
@@ -111,7 +114,7 @@ Partly I want to complain that obviously I was using the quoted sentence as a rh
 
 I’m less optimistic than Craig is about this solution, because it seems to me that socially virtuous technology will always be less fun/addictive than nonvirtuous technology, simply because the virtuous technology has to hit two targets (virtuous, fun/addictive), the nonvirtuous technology only has to hit one target, and it’s easier to optimize for a target with zero other constraints than with one other constraint. See eg [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
 
- **—————————————————**
+**—————————————————**
 
 [Souf ](https://astralcodexten.substack.com/p/contra-acemoglu-onoh-god-were-doing/comments#comment-2475693)asks:
 
@@ -125,7 +128,7 @@ The stupidest possible prior is always 50-50. We would have to be very stupid pe
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7db78f49-9ccb-4b6e-ac18-cfb79f52cb04_584x232.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7db78f49-9ccb-4b6e-ac18-cfb79f52cb04_584x232.png)
 
- **—————————————————**
+**—————————————————**
 
 Souf [continues](https://astralcodexten.substack.com/p/contra-acemoglu-onoh-god-were-doing/comments#comment-2475693):
 
@@ -150,7 +153,7 @@ My impression is that human/rat/insect brains are a blob of learning-ability whi
 
 I think it’s completely plausible that we just keep building better and better blobs of learning-ability, and coming up with more and more ways to direct the blobs at interesting tasks we care about, and eventually getting AIs that feel “human level”. Or we might get stuck at some point, maybe for reasons relating to motivation/attention. But I do think this way of thinking about things makes me more near-termist than some people. See also [Where The Falling Einstein Meets The Rising Mouse](https://slatestarcodex.com/2017/08/02/where-the-falling-einstein-meets-the-rising-mouse/).
 
- **—————————————————**
+**—————————————————**
 
 Lizard Man [writes](https://astralcodexten.substack.com/p/contra-acemoglu-onoh-god-were-doing/comments#comment-2474165):
 
@@ -168,7 +171,7 @@ There are also the problems for thirty or forty years from now that aren’t eve
 
 I feel bad making these reasonable arguments, because I also think we should do a lot of extremely theoretical work trying to figure out the exact way the far future is going to go and prepare for it, for reasons described in [this Eliezer Yudkowsky essay](https://intelligence.org/2018/10/03/rocket-alignment/).
 
- **—————————————————**  
+**—————————————————**  
 People really like metaphors!
 
 From [Dionysus](https://astralcodexten.substack.com/p/contra-acemoglu-onoh-god-were-doing/comments#comment-2476688):

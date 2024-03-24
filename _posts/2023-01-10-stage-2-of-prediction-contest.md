@@ -3,19 +3,22 @@ title: "Stage 2 Of Prediction Contest"
 subtitle: "..."
 date: 2023-01-10
 likes: 40
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/95684776/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/5528f33e-fbed-429e-8219-9882bae65cc5_255x255.webp
 original-url: https://www.astralcodexten.com/p/stage-2-of-prediction-contest
 ---
 Thanks to the 3295 of you who participated in Stage 1 of the 2023 Prediction Contest (“Blind Mode”). This is now closed. You can keep submitting Blind Mode answers if you want, but they won’t count and you can’t win.
 
 Stage 2 (“Full Mode”) is now upon us! Your job is now to use any resources you choose, to get predictions as accurate as you can. There’s no such thing as cheating, short of time travel or murdering competitors! Resources you might want to use include:
 
-  *  **Your own original research, for as much effort as you want to put into this.** I’m only offering $500 prizes this year, so don’t spend too much time. But you can if you want.
+  * **Your own original research, for as much effort as you want to put into this.** I’m only offering $500 prizes this year, so don’t spend too much time. But you can if you want.
 
 
 
-  *  **Prediction markets and forecasting tournaments on these questions**. It’s not worth copying these verbatim - their management will be submitting their own entries, and if they win I’ll credit it to them and not you - but you can use them as resources or a place to start.
+  * **Prediction markets and forecasting tournaments on these questions**. It’s not worth copying these verbatim - their management will be submitting their own entries, and if they win I’ll credit it to them and not you - but you can use them as resources or a place to start.
 
-  *  **The 3295 blind mode answers**. You can get them as an XLSX at 
+  * **The 3295 blind mode answers**. You can get them as an XLSX at 
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fattachment_icon.svg)
 

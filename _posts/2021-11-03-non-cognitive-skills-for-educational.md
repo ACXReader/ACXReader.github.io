@@ -3,6 +3,9 @@ title: "Non-Cognitive Skills For Educational Attainment Suggest Benefits Of Ment
 subtitle: "..."
 date: 2021-11-03
 likes: 93
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/43510105/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8168386-7f2e-4475-be7b-88b260003b7c_686x488.png
 original-url: https://www.astralcodexten.com/p/non-cognitive-skills-for-educational
 ---
 Suppose you want to study the genetics of intelligence. You probably want a sample size in the six digits, and you can't make a six digit number of people sit down and take IQ tests. Also, whenever you say "genetics" and "intelligence" in the same sentence, an angry mob shows up at your door. One solution is to switch to a more popular / less stressful line of work, like Mafia snitch or al-Qaeda second-in-command. But another solution is to use educational attainment.

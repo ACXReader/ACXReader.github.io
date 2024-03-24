@@ -3,6 +3,9 @@ title: "When Will The FDA Approve Paxlovid?"
 subtitle: "..."
 date: 2021-11-23
 likes: 115
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/44337674/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2112781e-3f32-43f0-a1c2-a3ca5a1c6729_919x792.jpeg
 original-url: https://www.astralcodexten.com/p/when-will-the-fda-approve-paxlovid
 ---
 **I.**
@@ -35,9 +38,9 @@ Still, move faster.
 
 145Likes23Retweets](https://twitter.com/KelseyTuoc/status/1461785844793188363)
 
- **PS:** Kudos to the Biden administration, which [has already ordered](https://www.reuters.com/business/healthcare-pharmaceuticals/us-govt-buy-10-mln-courses-pfizers-covid-19-pill-529-bln-2021-11-18/) 10 million courses of Paxlovid, effective immediately, to be distributed as soon as the FDA gives them permission. This is great. But all their initiative will go to waste unless the FDA can do its part quickly too.
+**PS:** Kudos to the Biden administration, which [has already ordered](https://www.reuters.com/business/healthcare-pharmaceuticals/us-govt-buy-10-mln-courses-pfizers-covid-19-pill-529-bln-2021-11-18/) 10 million courses of Paxlovid, effective immediately, to be distributed as soon as the FDA gives them permission. This is great. But all their initiative will go to waste unless the FDA can do its part quickly too.
 
- **PPS:** I know I’m going to get asked: how is this different from the ivermectin situation?
+**PPS:** I know I’m going to get asked: how is this different from the ivermectin situation?
 
 Last week [I wrote a long post arguing](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) that most of the early super-promising trials of ivermectin were garbage, and that despite the hype it probably doesn’t work against COVID. Shouldn’t I be equally skeptical of Paxlovid now that it’s having its own super-promising early trials?
 
@@ -51,10 +54,10 @@ I know I’m not going to convince many ivermectin supporters. So consider this:
 
 The medical regulatory system has made prescribing ivermectin legal and easy. All I’m ask is that they do the same for a drug which almost certainly works - before thousands more people die unnecessarily.
 
- **PPPS:** I know that by posting this, I’m tempting fate to have something go horribly wrong with Paxlovid - maybe it causes cancer - and then I’ll look like an idiot for demanding it be rushed through. I accept this risk. I think the benefits of rushing it through are higher than the risks, even though the risks are nonzero. If it turns out Paxlovid is terrible, yeah, I’ll look like an idiot - but I care about maximizing expected lives saved more than I care about my reputation. Can the FDA say the same?
+**PPPS:** I know that by posting this, I’m tempting fate to have something go horribly wrong with Paxlovid - maybe it causes cancer - and then I’ll look like an idiot for demanding it be rushed through. I accept this risk. I think the benefits of rushing it through are higher than the risks, even though the risks are nonzero. If it turns out Paxlovid is terrible, yeah, I’ll look like an idiot - but I care about maximizing expected lives saved more than I care about my reputation. Can the FDA say the same?
 
- _ **[Edit/update:** Andrew writes:_
+_**[Edit/update:** Andrew writes:_
 
->  _One word I don't see mentioned anywhere is "manufacturing." It's one thing to make enough drug for a clinical trial, it's another to make millions of commercial doses reliably. FDA approval requires inspection of and confidence in these commercial-scale manufacturing processes._
+> _One word I don't see mentioned anywhere is "manufacturing." It's one thing to make enough drug for a clinical trial, it's another to make millions of commercial doses reliably. FDA approval requires inspection of and confidence in these commercial-scale manufacturing processes._
 
- _This sounds like a plausible explanation for what’s going on. I would still like to see someone’s calculation as to whether the risk of manufacturing defects is really worth the wait, but at least it’s not insane.]_
+_This sounds like a plausible explanation for what’s going on. I would still like to see someone’s calculation as to whether the risk of manufacturing defects is really worth the wait, but at least it’s not insane.]_

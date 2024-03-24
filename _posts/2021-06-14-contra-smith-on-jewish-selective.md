@@ -3,6 +3,9 @@ title: "Contra Smith On Jewish Selective Immigration"
 subtitle: "..."
 date: 2021-06-14
 likes: 196
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37145417/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/745b2968-a512-4b5b-910e-005eaecc73a0_1145x963.jpeg
 original-url: https://www.astralcodexten.com/p/contra-smith-on-jewish-selective
 ---
 Noah Smith [asks whether Jews are really disproportionately successful](https://noahpinion.substack.com/p/how-successful-are-jews-really).
@@ -13,7 +16,7 @@ By the numbers, it would seem they are. US Jews have [a median household income]
 
 But Noah wonders if this really needs an interesting explanation, or if it's just a series of boring things on top of each other. He gives five reasons why maybe Jews could do unusually well. I’m going to concentrate on selective immigration, then briefly touch on the others.
 
- **1\. Selective immigration** \- Maybe only the smartest/richest/go-getter-est Jews made it to the US, which makes American Jews seem extra impressive. We know something like this happens for some groups of modern immigrants - for example, Indian-Americans are very successful, earning about twice as much as whites on average. But everyone knows that it's mostly Indian elites who emigrate, so this isn't too surprising. Might Jews be the same? Noah writes:
+**1\. Selective immigration** \- Maybe only the smartest/richest/go-getter-est Jews made it to the US, which makes American Jews seem extra impressive. We know something like this happens for some groups of modern immigrants - for example, Indian-Americans are very successful, earning about twice as much as whites on average. But everyone knows that it's mostly Indian elites who emigrate, so this isn't too surprising. Might Jews be the same? Noah writes:
 
 > Most Jews came to America to escape repressive regimes in Europe. It stands to reason that more successful and/or wealthier Jews would have a better chance of making it out. So American Jews are not a random sample of all Jews; they're going to be biased toward the smart, the rich, and the risk-tolerant.
 
@@ -55,7 +58,7 @@ Jews are about six times more likely to end up as scientists than the average Ru
 
 I conclude American Jews aren't just the product of selective immigration.
 
- **2\. Urbanization**
+**2\. Urbanization**
 
 Noah continues:
 
@@ -69,7 +72,7 @@ About [15% of Ivy League students](https://www.tabletmag.com/sections/news/artic
 
 Also, 82% of Americans live in cities, and a bunch of ethnic groups are almost entirely urban (are there a lot of Haitian-American farmers?) I don't think this really makes Jews particularly special.
 
- **3\. One Drop Rule**
+**3\. One Drop Rule**
 
 Noah writes:
 
@@ -81,7 +84,7 @@ Noah writes:
 
 This is possible. I confess to doing this when listing the Solvang Conference attendees above. But this is why we have objective data. The income, net worth, and education numbers all come from self-report, which shouldn't be vulnerable to this problem. Or you can look at [Nobel prizes won by Israel vs. other countries](https://slatestarcodex.com/2017/05/29/four-nobel-truths/), using Israeli residence as a non-one-drop-rule-biased proxy for Judaism. Or at the Russian numbers, which were presumably based on the Russian census. Really no source of data other than hand-counting Jewish high-achievers is vulnerable to this problem, and we have lots of other sources of data.
 
- **4\. Temporary Group And Country Effects**
+**4\. Temporary Group And Country Effects**
 
 Noah writes:
 

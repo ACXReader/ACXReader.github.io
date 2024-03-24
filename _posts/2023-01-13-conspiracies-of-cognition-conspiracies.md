@@ -3,6 +3,9 @@ title: "Conspiracies of Cognition, Conspiracies Of Emotion"
 subtitle: "..."
 date: 2023-01-13
 likes: 262
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/95486802/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/af07042d-5ba2-47a1-a7d4-7eea549fe5fc_500x334.jpeg
 original-url: https://www.astralcodexten.com/p/conspiracies-of-cognition-conspiracies
 ---
 **I.**
@@ -29,7 +32,7 @@ I think this is even true of more classical conspiracy theories like the Kennedy
 
 These conspiracy theories make sense to me. Sometimes I even find them seductive. They usually do a pretty good job presenting their argument, and even when I don’t believe it, I can see why other people would. When I look at these conspiracy theories, I feel like conspiracy theorism is just a flaw in evidence processing. I remember things about how conspiracy theories are linked to schizotypy, schizotypy is linked to schizophrenia, and schizophrenia is a condition of aberrant salience, ie your brain getting confused about how much different facts matter in relation to each other. All of this seems to fit together and I feel like I’m on the verge of understanding the whole phenomenon.
 
- **II.**
+**II.**
 
 But there’s a second type of conspiracy theory. Consider the Elders of Zion, or the Global Adrenochrome Pedophile Cabal. These conspiracies weren’t invented to explain away any facts. Usually believers are more invested in the exact nature of the conspiracy than in any of the facts they supposedly explain; often they’re very angry about the whole situation.
 
@@ -37,7 +40,7 @@ I know what my readers are thinking: this is the point where we admit that peopl
 
 I don’t have a great answer, but here are two thoughts:
 
- **First,** emotions are priors for cognitive processing. Anxiety is a bias towards processing information in a threat-related way: you hear rustling branches that you might otherwise ignore, you think “lion” when you might otherwise dismiss it as the wind. Or when your boss invites you into their office, you think you hear a stern tone in their voice, and are more likely to think of explanations that involve being fired than explanations that involve being given exciting new projects.
+**First,** emotions are priors for cognitive processing. Anxiety is a bias towards processing information in a threat-related way: you hear rustling branches that you might otherwise ignore, you think “lion” when you might otherwise dismiss it as the wind. Or when your boss invites you into their office, you think you hear a stern tone in their voice, and are more likely to think of explanations that involve being fired than explanations that involve being given exciting new projects.
 
 Depression is a bias towards processing self-related information in a negative way. When you have a social interaction, you dwell on all the ways it went wrong, instead of the ways it went right. When you look back on your life, your failures stand out and your successes seem trivial or fake.
 
@@ -47,7 +50,7 @@ I want to say something like: if you hate (let’s say) the global elite enough,
 
 But also, some conspiracy theorists don’t really seem to hate their subjects this much. A lot of Illuminati believers tend to be kind of chill hippies who _believe_ without really _worrying_. Maybe these people are more akin to the Kennedy and Pyramid believers in Part 1?
 
- **But** **second** , I like when I have personal experience with a cognitive bias, so I know what it feels from the inside. The most recent time I fell for a conspiracy theory was Trump-Russiagate. I didn’t believe in an active way, so much as hear that lots of other people believed it, assume it was probably true, and not bother looking into it. Still, this seems easier to think about sympathetically than the Elders of Zion, so let’s think about it.
+**But** **second** , I like when I have personal experience with a cognitive bias, so I know what it feels from the inside. The most recent time I fell for a conspiracy theory was Trump-Russiagate. I didn’t believe in an active way, so much as hear that lots of other people believed it, assume it was probably true, and not bother looking into it. Still, this seems easier to think about sympathetically than the Elders of Zion, so let’s think about it.
 
 When I ask why Trump-Russiagate was so appealing, I get an answer like this: lots of people really hated Trump. But there wasn’t a single, pithy, irrefutable reason to hate Trump. You could say that he violated a lot of important social norms, had many terrible policies, and said offensive things. But other people could hear you say this and still like him. They could counterargue that the social norms he violated weren’t really important norms, his policies were actually good, and his opinions weren’t offensive after all (or that that certain kinds of “offensiveness” are good). People hated Trump more than they could easily justify.
 

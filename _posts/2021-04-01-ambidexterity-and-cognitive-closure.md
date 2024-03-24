@@ -3,6 +3,9 @@ title: "Ambidexterity And Cognitive Closure"
 subtitle: "Are ambidextrous people really less authoritarian? Or just less conformist?"
 date: 2021-04-01
 likes: 71
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34657039/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ce497a53-1c49-4521-90fc-7f37e504ca65_630x472.png
 original-url: https://www.astralcodexten.com/p/ambidexterity-and-cognitive-closure
 ---
 Back in a more superstitious time, people believed left-handers were in league with the Devil. Now, in this age of Science, we realize that was unfair. Yes, left-handers are _statistically more likely_ to be in league with the Devil. But so are right-handers! It's only the ambidextrous who are truly pure!

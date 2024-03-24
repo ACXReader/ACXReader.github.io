@@ -2,7 +2,10 @@
 title: "Attempts To Put Statistics In Context, Put Into Context"
 subtitle: "..."
 date: 2023-06-08
-likes: 247
+likes: 246
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/121236499/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/4ef2fb15-850f-4fcd-baef-db146accbc06_594x329.png
 original-url: https://www.astralcodexten.com/p/attempts-to-put-statistics-in-context
 ---
 Sometimes people do a study and find that a particular correlation is r = 0.2, or a particular effect size is d = 1.1. Then an article tries to “put this in context”. “The study found r = 0.2, which for context is about the same as the degree to which the number of spots on a dog affects its friskiness.”
@@ -41,7 +44,7 @@ So here are a lot of examples. I thought I was the first to do this, but partway
 
 Some effect sizes and correlations are naturally misleading, or depend a lot on context. I’ve tried as hard as I can to avoid these and make all my examples clear, but they will necessarily require some charity.
 
- **Effect Size:**
+**Effect Size:**
 
   * DARE keeps kids off drugs: **[0.02](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448384/)**
 
@@ -72,7 +75,7 @@ Some effect sizes and correlations are naturally misleading, or depend a lot on 
 
 
 
- **Correlation:**
+**Correlation:**
 
   * Extraversion vs. holiday gift spending: **[0.09](https://journals.sagepub.com/doi/full/10.1177/1948550618792883)**
 

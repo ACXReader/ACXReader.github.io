@@ -3,6 +3,9 @@ title: "Jhanas and the Dark Room Problem"
 subtitle: "..."
 date: 2021-10-29
 likes: 108
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/40744814/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/789af51d-9c1d-47f9-9882-fa6c88e76649_403x364.png
 original-url: https://www.astralcodexten.com/p/jhanas-and-the-dark-room-problem
 ---
 The [Dark Room Problem](https://www.frontiersin.org/articles/10.3389/fpsyg.2012.00130/full) in neuroscience goes something like this: suppose the brain is minimizing prediction error, or free energy, or whatever. You can minimize lots of things by sitting quietly in a dark room. Everything will be very, very predictable. So how come people do other things? 
@@ -13,7 +16,7 @@ Andrés Gómez Emilsson recently shared a perspective I hadn't considered before
 
 The Buddha discussed states of extreme bliss attainable through meditation:
 
->  _Secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters and dwells in the first jhāna, which is accompanied by thought and examination, with rapture and happiness born of seclusion_ (Samyutta Nikaya)
+> _Secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters and dwells in the first jhāna, which is accompanied by thought and examination, with rapture and happiness born of seclusion_ (Samyutta Nikaya)
 
 I had always figured that "sensual pleasures" here meant things like sex. But I think maybe he just means stimuli, full stop. The meditator cuts themselves from all sensory stimuli, eg by meditating really hard on a single object like the breath and ignoring everything else, and as a result gets "rapture and happiness born of seclusion".
 

@@ -3,11 +3,14 @@ title: "Welcome Polygenically Screened Babies"
 subtitle: "..."
 date: 2021-07-01
 likes: 105
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37805403/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9325332e-1240-42be-83cf-1b9b6ec1c25a_915x840.png
 original-url: https://www.astralcodexten.com/p/welcome-polygenically-screened-babies
 ---
 Another thing I missed during my hiatus last year: [the birth of the first polygenically-screened baby](https://www.ivfbabble.com/on-the-40th-anniversary-of-the-first-ivf-in-the-usa-the-first-baby-elizabeth-jordan-carr-looks-at-how-science-today-has-produced-a-new-world-first-baby-aurea/).
 
-[ _conflict of interest notice:[LifeView](https://www.lifeview.com/), the company that handled the screening, was co-founded by [Steve Hsu](https://infoproc.blogspot.com/). I’ve known Steve for many years now, he is very nice to me, always patiently answers my genetics questions, and sometimes comes to SSC/ACX meetups]_
+[_conflict of interest notice:[LifeView](https://www.lifeview.com/), the company that handled the screening, was co-founded by [Steve Hsu](https://infoproc.blogspot.com/). I’ve known Steve for many years now, he is very nice to me, always patiently answers my genetics questions, and sometimes comes to SSC/ACX meetups]_
 
 During _in vitro_ fertilization, a woman takes drugs that make her produce lots of eggs. Doctors extract the eggs and fertilize them with sperm from a partner or donor, producing lots of embryos. Hopefully at least one of the embryos looks healthy, and then the doctors implant it in the woman or a surrogate parent.
 

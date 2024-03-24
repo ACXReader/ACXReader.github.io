@@ -3,6 +3,9 @@ title: "I Will Not Eat The Bugs"
 subtitle: "..."
 date: 2021-06-09
 likes: 99
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37367797/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/98a924cb-702f-475a-8f57-e9c47f1f53b8_1128x585.jpeg
 original-url: https://www.astralcodexten.com/p/i-will-not-eat-the-bugs
 ---
 From [the comments on Moral Costs Of Chicken Vs. Beef](https://astralcodexten.substack.com/p/moral-costs-of-chicken-vs-beef#comment-2093413):
@@ -15,7 +18,7 @@ Last month the EU food safety regulator [officially approved](https://geneticlit
 
 In order to produce a kilogram of bug-based food, you need about 10,000 bugs (mealworms weigh about 100 mg). On the one hand, bugs probably don't matter much morally. On the other hand, 10,000 is a lot. If bugs had any moral value at all, factory-farming and killing 10,000 of them would be really bad.
 
- _Do_ bugs have moral value? Everyone will answer this question differently. I think of Shakespeare, who has his Jewish character Shylock argue for his own moral value like so:
+_Do_ bugs have moral value? Everyone will answer this question differently. I think of Shakespeare, who has his Jewish character Shylock argue for his own moral value like so:
 
 > Hath not a Jew eyes? Hath not a Jew hands, organs, dimensions, senses, affections, passions; fed with the same food, hurt with the same weapons, subject to the same diseases, healed by the same means, warmed and cooled by the same winter and summer as a Christian is? If you prick us do we not bleed? If you tickle us do we not laugh? If you poison us do we not die? And if you wrong us shall we not revenge?
 

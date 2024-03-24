@@ -3,6 +3,9 @@ title: "Peer Review Request: Depression"
 subtitle: "Give me feedback on my take on fighting depression"
 date: 2021-05-25
 likes: 97
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36839261/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1d3759eb-9f93-49f7-8298-eadc2e1b2a97_448x242.png
 original-url: https://www.astralcodexten.com/p/peer-review-request-depression
 ---
 I'm trying to build up a database of mental health resources on my other website, [Lorien Psychiatry](https://lorienpsych.com/). Every time I post something, people here have made good comments, so I want to try using you all as peer review.
@@ -27,13 +30,13 @@ Here's the page:
 
 * * *
 
-#  **Depression**
+# **Depression**
 
- **The short version:** Depression has a combination of biological, psychological, and social causes. You can address the social causes by changing your life circumstances (and research suggests people underestimate the potential benefits of making major life changes). You can address the psychological causes with therapy; possible therapies are diverse and complicated but I especially recommend “behavioral activation” therapy (where you try to keep a schedule and also do new, interesting things) and David Burns’ book _Feeling Good_. You can address the biological causes with a combination of lifestyle changes, medications, and supplements. Consider exercising more and adapting a modified Mediterranean diet. Consider taking antidepressants like escitalopram and bupropion, and supplements like l-methylfolate. Other non-chemical biological options include light therapy (safe and easy), transcranial magnetic stimulation (more complicated), and electroconvulsive therapy (difficult but extremely effective last-ditch solution). If something treats your depression, continue it for some length of time depending on the type of intervention, then consider withdrawing it to see if you can maintain your mood without it.
+**The short version:** Depression has a combination of biological, psychological, and social causes. You can address the social causes by changing your life circumstances (and research suggests people underestimate the potential benefits of making major life changes). You can address the psychological causes with therapy; possible therapies are diverse and complicated but I especially recommend “behavioral activation” therapy (where you try to keep a schedule and also do new, interesting things) and David Burns’ book  _Feeling Good_. You can address the biological causes with a combination of lifestyle changes, medications, and supplements. Consider exercising more and adapting a modified Mediterranean diet. Consider taking antidepressants like escitalopram and bupropion, and supplements like l-methylfolate. Other non-chemical biological options include light therapy (safe and easy), transcranial magnetic stimulation (more complicated), and electroconvulsive therapy (difficult but extremely effective last-ditch solution). If something treats your depression, continue it for some length of time depending on the type of intervention, then consider withdrawing it to see if you can maintain your mood without it.
 
- **The long version:**
+**The long version:**
 
- _1\. What is depression?  
+_1\. What is depression?  
 1.1: Is depression caused by biochemistry or life events?  
 1.2. How can I tell if I have depression?  
 1.2.1. How do I know if I have depression vs. something else?  
@@ -54,7 +57,7 @@ Here's the page:
 2.6. What should I try to treat my depression?  
 2.7. If something helps treat my depression, how long do I have to do it for?_
 
-#####  **1\. What is depression?**
+##### **1\. What is depression?**
 
 Depression is a condition marked by low mood, low motivation, persistent negative self-talk, and countless similar and related issues.
 
@@ -72,7 +75,7 @@ I don’t understand why the neurological problems with synapse formation and th
 
 I am very non-confident about all the specifics of this model, but very confident in the underlying point that depression is a complicated neurological disease that happens to have some easy-to-notice emotional symptoms, and not just another word for feeling negative emotions.
 
-#####  **1.1: Is depression caused by biochemistry or life events?**
+##### **1.1: Is depression caused by biochemistry or life events?**
 
 Either is possible, and most often it’s both.
 
@@ -84,7 +87,7 @@ How do life events interact with biochemistry? One oft-studied route is the stre
 
 If you have a really good reason to be sad, does that mean you’re not depressed? Different authorities differ, but the most recent DSM says that as long as you have a full set of depression symptoms, you qualify for a depression diagnosis, no matter how awful your life is. Antidepressants will treat good-reason-based depression as effectively as they treat any other kind of depression.
 
-#####  **1.2. How can I tell if I have depression?**
+##### **1.2. How can I tell if I have depression?**
 
 The traditional nine symptoms of depression are:
 
@@ -101,7 +104,7 @@ The traditional nine symptoms of depression are:
 
 The DSM-5 says you qualify for a diagnosis of depression if you have 1a/1b and any other four of these symptoms. Realistically, most people know if they’re depressed or not and don’t need to go through a checklist to figure it out. On the other hand, if you really like going through checklists to figure out if you’re depressed, you can [take the HAM-D](https://www.mdcalc.com/hamilton-depression-rating-scale-ham-d), a very official depression test used in studies, and it will tell you exactly how depressed you are.
 
-#####  **1.2.1. How do I know if I have depression vs. something else?**
+##### **1.2.1. How do I know if I have depression vs. something else?**
 
 I think it’s barely worth clearing up confusion between depression and anxiety. About half of people with either depression or anxiety will also have the other. They seem to be closely related psychological processes, and most of the treatments for one will also treat the other. If you’re worrying about whether you have more depression or more anxiety, please stop worrying about this and get your depression-anxiety treated. OCD and panic disorder are also in this cluster of things.
 
@@ -115,33 +118,33 @@ Although bipolar people have depressive episodes, it’s important to distinguis
 
 If you’re not sure if you’re bipolar, talk to a psychiatrist about it before trying anything on this page.
 
-#####  **2\. How do you treat depression?**
+##### **2\. How do you treat depression?**
 
 Lifestyle changes are very effective for depression, but they’re hard to do – part of being depressed is not having enough energy to make big changes to your routine and stick with them. So sometimes it’s helpful to start with something else and add in lifestyle changes as you start to feel up for them.
 
-Psychotherapy and medication are [both about equally effective](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2748674/) at treating depression _on average_ , but one or the other might work better for specific people. Both together [work better than either one alone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918025/). Some people will find medication has intolerable side effects, and others will find psychotherapy is boring, unproductive, or hard to get to, so nobody should feel obligated to try any modality that doesn’t feel like a good fit for them.
+Psychotherapy and medication are [both about equally effective](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2748674/) at treating depression  _on average_ , but one or the other might work better for specific people. Both together [work better than either one alone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918025/). Some people will find medication has intolerable side effects, and others will find psychotherapy is boring, unproductive, or hard to get to, so nobody should feel obligated to try any modality that doesn’t feel like a good fit for them.
 
 If lifestyle changes, medication, and psychotherapy don’t work, there are some more-involved but very powerful strategies for dealing with treatment-resistant depression, including wake therapy, ketamine, transcranial magnetic stimulation, and electroconvulsive therapy.
 
 To skip to more specific advice on regimens for treating depression, go to section 2.6.
 
-#####  **2.1. What kind of lifestyle changes help with depression?**
+##### **2.1. What kind of lifestyle changes help with depression?**
 
 By far the most powerful treatment for depression is GETTING AWAY FROM THE DEPRESSING THING. After that: diet, exercise, sunlight, and hygiene/routine/behavioral activation.
 
-#####  **2.1.1: What do you mean by getting away from the depressing thing?**
+##### **2.1.1: What do you mean by getting away from the depressing thing?**
 
 Some people know exactly why they’re depressed. The most common are depressing jobs, depressing relationships, and (surprisingly often) depressing grad school programs. Their first priority should be to escape the situation. I realize this is easier said than done, and that if they’re still in the situation it’s probably because they have to be. Some people need to keep their depressing jobs to support themselves; other people want to stay in depressing relationships for the sake of the kids; other people stay in depressing grad school because they’re really close to getting a degree they want. I cannot second-guess your life choices.
 
-But I will say this from having worked with many patients in similar situations – they are usually surprised by how much of their depression goes away after they get out of the situation. And more important, they usually overestimate how hard it would be to get out of the situation – remember, depressed people are pessimists, so the person who’s depressed because of their terrible job will naturally think they could never get another job, or that all jobs would be equally bad. Please, please, _please_ don’t let your depressive bias keep you in your depressing situation.
+But I will say this from having worked with many patients in similar situations – they are usually surprised by how much of their depression goes away after they get out of the situation. And more important, they usually overestimate how hard it would be to get out of the situation – remember, depressed people are pessimists, so the person who’s depressed because of their terrible job will naturally think they could never get another job, or that all jobs would be equally bad. Please, please,  _please_ don’t let your depressive bias keep you in your depressing situation.
 
 One of my all-time favorite studies is Steven Levitt’s [Heads Or Tails: The Impact Of A Coin Toss On Major Life Decisions And Subsequent Happiness](https://80000hours.org/2018/08/randomised-experiment-if-youre-really-unsure-whether-to-quit-your-job-or-break-up-you-really-probably-should/). A researcher got subjects who were unsure whether or not they wanted to make a big change in their lives to decide by flipping a coin. The people who randomly ended up in the “do make the change” group ended up much happier six months later. (2 points on a 1-10 scale). This was especially true when the subject was considering breaking up (2.7 points happier) or quitting a job (5.2 points happier). This doesn’t mean everyone should break up with their partner and quit their job! But it does mean that if you really want to do that, and you’ve been holding off out of fear, you should consider not holding off.
 
-#####  **2.1.2: What kind of diet helps with depression?**
+##### **2.1.2: What kind of diet helps with depression?**
 
 Most of the depression-fighting gains from diet don’t come from anything secret or fancy. They come from normal healthy eating. Less processed food, junk food, and soda; more whole foods, nutritious foods, vegetables, and water.
 
-But if you want secret/fancy things, the best evidence is for the Modified Mediterranean Diet (“ModiMed Diet”) studied eg [here](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-017-0791-y?mod=article_inline). The study shows it having an effect size of 1.2, which if taken seriously would imply it’s three to four times as effective as the average antidepressant. I’m not completely convinced about that exact number – it’s hard to placebo-control a diet experiment (since people know if they’re eating better or not), and poorly-placebo-controlled antidepressant trials _also_ appear three to four times more effective than the average antidepressant – but the evidence is certainly compatible with it having very impressive effects.
+But if you want secret/fancy things, the best evidence is for the Modified Mediterranean Diet (“ModiMed Diet”) studied eg [here](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-017-0791-y?mod=article_inline). The study shows it having an effect size of 1.2, which if taken seriously would imply it’s three to four times as effective as the average antidepressant. I’m not completely convinced about that exact number – it’s hard to placebo-control a diet experiment (since people know if they’re eating better or not), and poorly-placebo-controlled antidepressant trials  _also_ appear three to four times more effective than the average antidepressant – but the evidence is certainly compatible with it having very impressive effects.
 
 Here’s the diet the study used (source is [here](https://www.thecarlatreport.com/the-carlat-psychiatry-report/an-antidepressant-diet-2/), but you won’t be able to read it without a Carlat Report subscription):
 
@@ -151,7 +154,7 @@ We still don’t know much about nutrition, and probably there are a lot of supe
 
 See also the [(free) Mediterranean Diet cookbook](https://drive.google.com/file/d/1SI5pKOxi_WowBCu1kAG2MvX8La_EJ7nk/view) and the [(non-free) book by Professor Felice Jacka on using modified Mediterranean diets in depression](https://www.amazon.com/Brain-Changer-Good-Mental-Health-ebook/dp/B07K9LZPNL) This is a slightly altered version of the Mediterranean diet, which is also recommended by cardiologists, endocrinologists, etc – [see here](https://health.usnews.com/best-diet/mediterranean-diet) for more about the general medical context.
 
-#####  **2.1.2.1: What if I have special dietary needs (vegetarian/vegan/paleo/gluten-free/etc)?**
+##### **2.1.2.1: What if I have special dietary needs (vegetarian/vegan/paleo/gluten-free/etc)?**
 
 You can probably find versions of the Mediterranean diet suitable for your situation:
 
@@ -174,7 +177,7 @@ Creatine is a chemical related to protein which is involved in muscles and energ
 
 If you don’t eat fish, you might not get enough omega-3s. Omega-3s seem vaguely linked to all kinds of mental health issues, although it’s been hard to establish with certainty that supplementing these is helpful. Non-fish-eaters might still want to consider eating [non-fish sources of omega-3s](https://www.pcrm.org/good-nutrition/nutrition-information/omega-3), like flax seeds or walnuts, or taking supplements. Most studies that found supplementation helped got effects only from very high doses (around 2 g daily), more than you could realistically get from capsules – so if you are supplementing for this purpose you should consider liquid oil. You will need to store these in the refridgerator to keep them from spoiling. [This](https://www.amazon.com/Nordic-Naturals-Omega-3-1560mg-Liquid/dp/B002WTCLHC/ref=sr_1_5) is a reasonable brand, or if you are vegetarian you can get an [algae-derived version](https://www.amazon.com/Supplement-Plant-Based-Alternative-Wileys-Finest/dp/B084Z6ZSKW/ref=sr_1_6)
 
-#####  **2.1.3: What kind of exercise helps with depression?**
+##### **2.1.3: What kind of exercise helps with depression?**
 
 Again, the most important answer is “whatever kind you will actually do”. Almost all benefits come from exercising at all; getting the kind of exercise exactly right is less important. Some people even suspect that most of the benefits of exercise come from doing something, feeling a sense of accomplishment, and getting out of the house, as opposed to any particular biological effect of the exertion itself.
 
@@ -182,7 +185,7 @@ The research beyond that is low-quality and contradictory. [Cochrane Review](htt
 
 Do some kind of exercise that lets you have a routine and makes you feel accomplished when you finish it. Beyond that, who knows?
 
-#####  **2.1.4: What’s the role of sunlight in treating depression?**
+##### **2.1.4: What’s the role of sunlight in treating depression?**
 
 It’s complicated.
 
@@ -192,7 +195,7 @@ But also, sunlight seems immediately helpful for a lot of people. You might feel
 
 If you have seasonal affective disorder, you might find bright light therapy helpful. We understand bright light therapy and seasonal depression pretty well, and can make confident recommendations about how much you need and how to get it. But even if you don’t have a seasonal depression (or in addition to bright light therapy even if you do) consider going outside more and getting more sunlight.
 
-#####  **2.1.5: What’s the role of hygiene, routine, and behavioral activation in treating depression?**
+##### **2.1.5: What’s the role of hygiene, routine, and behavioral activation in treating depression?**
 
 Depression manifests as aberrant learning. For some reason, your brain has “learned” that you’re bad, useless, worthless, incompetent, et cetera – ie it has a prior on all of these things. Treating depression partly involves fixing the aberrant learning by tuning various chemical parameters. But it will go faster if you actively “unlearn” this by doing things which make you feel better about yourself.
 
@@ -204,13 +207,13 @@ I once read an account by someone who said their mood was correlated with how ma
 
 This is one of the reasons I think exercise works for depression – it’s a way of getting a small, controlled success that will make you feel like you’re accomplishing something. Also it sometimes brings you outside, or at least creates some kind of novelty in the sense of feeling weird because you’re sore or exhausted or something.
 
-There’s an interesting finding that [depressed people tend to listen to sad music](https://pubmed.ncbi.nlm.nih.gov/30816742/). I am tempted to tie this into a general tendency for depressed people to stay in bed, keep the windows shut, avoid other people, and think about the worst things they’ve ever done – all of these suggest that the depression is somehow in control, trying to maintain itself. It’s surprisingly productive to take your depressed instincts as a guide for what _not_ to do. Listen to happy music, go to interesting places, keep the windows open with sunlight streaming in, see your friends, think about happy things. All of this will “feel wrong” and your instincts will be pushing against it. You should try your hardest to do it anyway
+There’s an interesting finding that [depressed people tend to listen to sad music](https://pubmed.ncbi.nlm.nih.gov/30816742/). I am tempted to tie this into a general tendency for depressed people to stay in bed, keep the windows shut, avoid other people, and think about the worst things they’ve ever done – all of these suggest that the depression is somehow in control, trying to maintain itself. It’s surprisingly productive to take your depressed instincts as a guide for what  _not_ to do. Listen to happy music, go to interesting places, keep the windows open with sunlight streaming in, see your friends, think about happy things. All of this will “feel wrong” and your instincts will be pushing against it. You should try your hardest to do it anyway
 
 This is called “behavioral activation”, and extensive studies have shown it to be [as effective as medication](https://doi.apa.org/doiLanding?doi=10.1037%2F0022-006X.74.4.658) and more effective than some complicated therapies. If you want to learn more, there’s a guide available [here](https://medicine.umich.edu/sites/default/files/content/downloads/Behavioral-Activation-for-Depression.pdf).
 
 One caveat: please don’t let your depression use behavioral activation as another weapon against you! A common thought pattern is “I should use behavioral activation” -> “I’ll go do ALL THE THINGS!” -> “Oh no, I didn’t manage to do all (or any) of the things I wanted to do” -> “My depression is my own fault because I’m too worthless to do this easy cure, and I’m a bad person”. This is one reason I try to stress that all of these techniques are willpower dependent, and should be pursued only proportional to how much willpower you have. Think of it as investing – you start with a little willpower, you invest it in strategies that help treat depression, you get a little more willpower back, you invest that in more strategies, and so on. If you try to spend more than you have, it won’t work; that’s not your fault, it just means your depression is very bad. If you have zero willpower, not enough enough to be the seed for a tiny investment, then you should start with medication and only pursue willpower-requiring strategies if the medication give you that first little seed of willpower.
 
-#####  **2.2. What kind of therapies help with depression?**
+##### **2.2. What kind of therapies help with depression?**
 
 As usual, it’s hard to study therapies, and the two most common results are “all therapies seem pretty okay” and “whatever kind of therapy the person running the study likes is great”. This happens often enough to make people skeptical of ranking therapies, and the usual advice for depression is to go with cognitive-behavioral therapy (CBT), probably the best-studied and most common therapy style. Nobody can say with confidence that CBT is “the best”, but it’s a reputable and accessible form of therapy, and there’s no evidence that any other form works better.
 
@@ -224,13 +227,13 @@ Every part of cognitive behavioral therapy sounds and feels obvious. Partly this
 
 Other forms of therapy for depression are harder to find and of more variable quality, but if you really want them, you should go for it. Studies show that how excited a patient is about a therapy, and how much they believe in it, is an important factor in how well it works. If there’s some other therapy you’re more excited about than CBT, go for it. But if it fails, CBT is a nice dependable workhorse.
 
-#####  **2.2.1. How can I get a therapist?**
+##### **2.2.1. How can I get a therapist?**
 
 It’s always easier to find someone through your local network than to do it blindly. If you have a primary care doctor or a psychiatrist, ask them if they have therapists they like. Otherwise, if you feel comfortable, ask your friends.
 
 If that comes up dry, and you’re in the US, the most straightforward way is to go on [https://www.psychologytoday.com](https://www.psychologytoday.com/) and use their therapist search tool to look for providers in your area. You can filter for what kind of conditions the therapists specialize in (everyone will say they specialize in depression), what kind of therapy they do (if you don’t have any other preference, try CBT), and whether or not they accept your insurance. Many therapists, including many of the best, don’t accept any insurance and will be expensive ($100 – $200+ per session, expect to need at least 10+ sessions). Also, many therapists on there will be full and not accepting new patients, and there will be no sign of this until you call them and ask for an appointment. You may have to go through a lot of them before you find someone you like who has availabilities.
 
-#####  **2.2.2. How can I get therapy without a therapist?**
+##### **2.2.2. How can I get therapy without a therapist?**
 
 Good news; several studies have found that therapy from a book, or off an app, or via some other kind of course, is just as effective as therapy from a professional therapist. It’s also cheaper and, for a lot of people, easier. I’m going to mention some of my favorite products below, but I haven’t tried out that many and I encourage you to explore further and let me know if you find anything good.
 
@@ -238,7 +241,7 @@ David Burns is one of the gurus of cognitive behavioral therapy. His book [Feeli
 
 Intellicare is a series of CBT apps; you can download it for free as “Intellicare Hub” [here](https://www.adaptive-health.com/intellicare) or on the Google or Apple stores. I have never tried it, but the Carlat Report says nice things about it, and it has [several successful studies](https://intellicare.cbits.northwestern.edu/) under its belt.
 
-#####  **2.3. What kind of medications help with depression?**
+##### **2.3. What kind of medications help with depression?**
 
 Different medications will work for different people, and you should consult with your doctor. But here’s the algorithm I tend to use:
 
@@ -272,7 +275,7 @@ If none of these work, do ECT.
 
 I haven’t really been convinced there’s much role for thyroid hormone or lithium as a main strategy for unipolar depression unless you have some special reason to want to use these (for example, lithium to make someone less suicidal, or thyroid hormone to correct hypothyroidism). Venlafaxine has high withdrawal potential and few obvious advantages over duloxetine. Desvenlafaxine, vilazodone, and vortioxetine are expensive without having obvious advantages over much cheaper drugs, and I can rarely find a use for them. The seligiline patch is more expensive than, and probably worse than, other MAOIs, so I rarely use it.
 
-#####  **2.4. What kind of supplements help with depression?**
+##### **2.4. What kind of supplements help with depression?**
 
 As always, supplements are poorly studied and any attempt to discuss or rank them will be one part looking over terribly-conducted studies with a fine-toothed comb, plus one part intuition and anecdotal evidence. I am listing some very preliminary thoughts on depression supplements below, and will try to have longer pages about each of these up eventually, listing what the evidence is and why I come to various conclusions. Until then, please accept my apologies for this being very inadequate.
 
@@ -292,7 +295,7 @@ Zembrin is an extract of kanna, a South African plant. It appears to be an SSRI,
 
 Polygala tenuifolia is a Chinese herb. It is [under investigation as a rapid-onset depression treatment](https://pubmed.ncbi.nlm.nih.gov/24520403/) that may act on NMDA and AMPA receptors, perhaps similarly to the rapid-onset depression treatment of ketamine. It is still extremely experimental and has few studies in support, but early anecdotal evidence is [optimistic](https://www.reddit.com/r/NootropicsDepot/comments/i7uj9t/how_is_polygala_so_amazing/). The only really credible source for it right now is [here](https://nootropicsdepot.com/polygala-tenuifolia-20-1-extract-100mg-capsules-yuan-zhi/), and the recommended dose is 100 mg three times a day. Even more than other substances on here, this one should be considered experimental and not left as the mainstay of important depression treatment.
 
-#####  **2.5. What else treats depression?**
+##### **2.5. What else treats depression?**
 
 There are two powerful depression therapies that are more physics than chemistry: trans-cranial magnetic stimulation (TMS) and electroconvulsive therapy (ECT).
 
@@ -312,13 +315,13 @@ In other ways, it’s totally different. There’s no comparison between the wea
 
 But ECT works extremely well. I’ve seen it completely cure the most difficult patients, people who nothing else has worked for. It doesn’t have a 100% success rate, but it’s as close as you’re going to get.
 
-Many patients are scared of ECT. A lot of this is the fault of old movies like _One Flew Over The Cuckoo’s Nest_ which present it as a scary punishment. Modern ECT is nothing like that. For one thing, you’re unconscious and don’t feel it. For another, you’re on what’s called a “neuromuscular blocking agent” which means you’re not really going to convulse (ie won’t flail your arms and legs around). For another, doctors try to minimize the current and the length of time in order to minimize side effects; although most people have temporary memory problems, long-term side effects are rare and usually much less than the cognitive side effects of depression. ECT is definitely scary and definitely logistically difficult to arrange; I still cannot recommend it enough for patients who have not done well with other options.
+Many patients are scared of ECT. A lot of this is the fault of old movies like  _One Flew Over The Cuckoo’s Nest_ which present it as a scary punishment. Modern ECT is nothing like that. For one thing, you’re unconscious and don’t feel it. For another, you’re on what’s called a “neuromuscular blocking agent” which means you’re not really going to convulse (ie won’t flail your arms and legs around). For another, doctors try to minimize the current and the length of time in order to minimize side effects; although most people have temporary memory problems, long-term side effects are rare and usually much less than the cognitive side effects of depression. ECT is definitely scary and definitely logistically difficult to arrange; I still cannot recommend it enough for patients who have not done well with other options.
 
 ECT is usually done at hospitals. If you’ve exhausted other treatment options, your psychiatrist will be able to refer you to a local hospital that performs it. If for some reason they can’t do this, call the hospital and ask if they have an ECT program. They’ll probably refer you to some screening clinic where they’ll interview you, tell you the risks and benefits, and eventually get you on board.
 
 Finally, you can also treat depression through light therapy. See [this page](https://lorienpsych.com/2020/12/19/light-therapy/) for more information.
 
-#####  **2.6. What should I try to treat my depression?**
+##### **2.6. What should I try to treat my depression?**
 
 Given that you have a limited budget of time and energy, which of the things mentioned above should you try first? The answer will depend on details of your depression, your life situation, and exactly what your time and energy budget are. But I’ve found that it’s really important to give people maximally concrete suggestions. So here are some regimens that a completely standard person could follow; they might or might not be appropriate for your situation.
 
@@ -332,17 +335,17 @@ Regimen 2A: Person with access to a doctor, medium time/energy budget: Ask your 
 
 Regimen 2B: Person without access to a doctor, medium time/energy budget: Supplements as in 1B above. Set yourself a regular sleep/wake schedule and stick to it. Choose a time of day and go on a 20 minute walk every day. Cut all soda, candy, and fried food out of your diet. If that doesn’t work, you may need to either get a doctor or increase the time/energy budget you’re willing to commit.
 
-Regimen 3A: As 2A above, but add 2g EPA-dominant fish oil every day. Start light therapy, 10,000 lux from 8 – 8:30 AM every day. Replace 20 minute walk with 20 minute jog. In addition to cutting out junk food, switch to a strict modified Mediterranean diet. Read _Feeling Great_ and do all exercises listed in it. If no improvement after six weeks, ask your doctor what to do next.
+Regimen 3A: As 2A above, but add 2g EPA-dominant fish oil every day. Start light therapy, 10,000 lux from 8 – 8:30 AM every day. Replace 20 minute walk with 20 minute jog. In addition to cutting out junk food, switch to a strict modified Mediterranean diet. Read  _Feeling Great_ and do all exercises listed in it. If no improvement after six weeks, ask your doctor what to do next.
 
-Regimen 3B: As 2B above, but add 2g EPA-dominant fish oil every day. Start light therapy, 10,000 lux from 8 – 8:30 AM every day. Replace 20 minute walk with 20 minute jog. In addition to cutting out junk food, switch to a strict modified Mediterranean diet. Read _Feeling Great_ and do all exercises listed in it. If no improvement after six weeks, either get a doctor or look through the rest of this page for more suggestions.
+Regimen 3B: As 2B above, but add 2g EPA-dominant fish oil every day. Start light therapy, 10,000 lux from 8 – 8:30 AM every day. Replace 20 minute walk with 20 minute jog. In addition to cutting out junk food, switch to a strict modified Mediterranean diet. Read  _Feeling Great_ and do all exercises listed in it. If no improvement after six weeks, either get a doctor or look through the rest of this page for more suggestions.
 
 This should be pretty straightforward, with the exception of the difference between 1A and 2A – why do I recommend bupropion in 1A and escitalopram in 2A? Mostly because 1A – the person with low time/energy budget – seems to be having more of an issue with energy, which bupropion can help. But also because in 2A, I recommend also taking the supplement l-methylfolate, which has theoretical reasons to think it might work better alongside escitalopram than bupropion.
 
 Secretly I suspect Zembrin probably works better than 5-HTP or St. John’s Wort, but there’s not enough evidence for me to recommend it in good conscience.
 
-#####  **2.7. If something helps treat my depression, how long do I have to do it for?**
+##### **2.7. If something helps treat my depression, how long do I have to do it for?**
 
-With medication, there’s a common rule-of-thumb for this. Keep taking it for six months after it starts working, then (if your doctor agrees) try stopping it (in whatever way your doctor tells you minimizes withdrawal effects). If it works, great. If your depression returns quickly in a way that seems correlated with stopping the medication, restart it, and try again after two years. If your depression returns quickly _again_ in a way that seems correlated with stopping the medication, stay on the medication indefinitely or until something important changes (eg you quit a terrible job that was making you depressed).
+With medication, there’s a common rule-of-thumb for this. Keep taking it for six months after it starts working, then (if your doctor agrees) try stopping it (in whatever way your doctor tells you minimizes withdrawal effects). If it works, great. If your depression returns quickly in a way that seems correlated with stopping the medication, restart it, and try again after two years. If your depression returns quickly  _again_ in a way that seems correlated with stopping the medication, stay on the medication indefinitely or until something important changes (eg you quit a terrible job that was making you depressed).
 
 Why six months? This is the average length of a depressive episode. Some people act like the episode “continues under the surface” even when a medication is treating it, and if you restart earlier than this, it will show up again. After six months, your depressive episode should be over, even “under the surface”, so you should get a fair trial of how you do without medication. As far as I know there’s no evidence for any of this, but the six month time period seems to work for a lot of people and is a nice bright line that reminds people to try coming off their medications at some point.
 

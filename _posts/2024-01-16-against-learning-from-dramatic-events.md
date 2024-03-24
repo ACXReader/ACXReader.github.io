@@ -2,7 +2,10 @@
 title: "Against Learning From Dramatic Events"
 subtitle: "..."
 date: 2024-01-16
-likes: 282
+likes: 283
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/140135906/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/bd76bceb-0771-4e60-bbe3-ae06c461ca4e_3000x1688.jpeg
 original-url: https://www.astralcodexten.com/p/against-learning-from-dramatic-events
 ---
 **I.**
@@ -13,13 +16,13 @@ Here’s an argument against: not many people still argue that lab leaks are imp
 
 A good Bayesian should start out believing there’s some medium chance of a lab leak pandemic per decade. Then, if COVID was/wasn’t a lab leak, they should make the appropriate small update based on one extra data point. It probably won’t change very much!
 
-I did fake Bayesian math with some plausible numbers, and found that if I started out believing there was a 20% per decade chance of a lab leak pandemic, then if COVID was proven to be a lab leak, I should update to 27.5%, and if COVID was proven not to be a lab leak, I should stay around 19-20%[1](/p/against-learning-from-dramatic-events#footnote-1-140135906).
+I did fake Bayesian math with some plausible numbers, and found that if I started out believing there was a 20% per decade chance of a lab leak pandemic, then if COVID was proven to be a lab leak, I should update to 27.5%, and if COVID was proven not to be a lab leak, I should stay around 19-20%[^1].
 
 But if you would freak out and ban dangerous virology research at a 27.5%-per-decade chance of it causing a pandemic per decade, you should probably still freak out at a 19-20%-per-decade chance. So it doesn’t matter very much whether COVID was a lab leak or not.
 
-I don’t entirely accept this argument - I think whether or not it was a lab leak matters in order to convince stupid people, who don’t know how to use probabilities and don’t believe anything can go wrong until it’s gone wrong before. But in a world without stupid people, no, it wouldn’t matter. Or it would matter only a tiny amount. You’d start with some prior about how likely lab leaks were - maybe 20% of pandemics - and then make the appropriate tiny update for having one extra data point[2](/p/against-learning-from-dramatic-events#footnote-2-140135906).
+I don’t entirely accept this argument - I think whether or not it was a lab leak matters in order to convince stupid people, who don’t know how to use probabilities and don’t believe anything can go wrong until it’s gone wrong before. But in a world without stupid people, no, it wouldn’t matter. Or it would matter only a tiny amount. You’d start with some prior about how likely lab leaks were - maybe 20% of pandemics - and then make the appropriate tiny update for having one extra data point[^2].
 
- **II.**
+**II.**
 
 Back in 2001, the motto was “9-11 changed everything”. Everyone started talking about the clash of civilizations, and how Islam was fundamentally opposed to the West. The government made a whole new Cabinet department around the theory that terrorism was now a giant threat and we needed to sacrifice our civil liberties to deal with it.
 
@@ -33,9 +36,9 @@ Then,when 9-11 happened, we should have shrugged, said “Yup, there’s the onc
 
 (The diametric opposite of this is anyone who uses the phrase “science fiction”. As in “There’s never been an enormous terrorist attack before, so that’s just science fiction; there’s [no evidence](/p/the-phrase-no-evidence-is-a-red-flag) that this will ever happen and we should stick to worrying about real problems.” Come on! You know that weapons exist that can kill thousands of people at once, you know that it’s physically possible for terrorists to obtain them, so you should assume that this will happen at some specific frequency. Then you should try to predict that frequency. Once you have a prediction, you should take the appropriate security measures. And if those fail and an enormous attack happens, then instead of freaking out and deciding that science fiction is true and your worldview has been thrown into disarray, you should just do a sanity check to confirm your frequency calculations and move on.)
 
-This is part of why [I think we should be much more worried about a nuclear attack by terrorists](https://slatestarcodex.com/2016/08/31/terrorists-vs-chairs-an-outlier-story/). My distribution for terrorist attacks includes a term for a successful nuclear detonation once every century or two. I would like to believe that if terrorists nuked a major city tomorrow, I wouldn’t update any of my beliefs. I would say “Yeah, we always knew that could happen. Yeah, we should have prepared X amount, to balance the costs of preparation against the risks of this happening. I still think X amount is a good amount to prepare. Let’s do the same thing I would have recommended back in 2024 before any of this happened.”[3](/p/against-learning-from-dramatic-events#footnote-3-140135906)
+This is part of why [I think we should be much more worried about a nuclear attack by terrorists](https://slatestarcodex.com/2016/08/31/terrorists-vs-chairs-an-outlier-story/). My distribution for terrorist attacks includes a term for a successful nuclear detonation once every century or two. I would like to believe that if terrorists nuked a major city tomorrow, I wouldn’t update any of my beliefs. I would say “Yeah, we always knew that could happen. Yeah, we should have prepared X amount, to balance the costs of preparation against the risks of this happening. I still think X amount is a good amount to prepare. Let’s do the same thing I would have recommended back in 2024 before any of this happened.”[^3]
 
- **III.**
+**III.**
 
 It’s bad enough when people fail to consider events that obviously could happen but haven’t. But it’s even worse when people fail to consider events that have happened hundreds of times, treating each new instance as if it demands a massive update.
 
@@ -53,7 +56,7 @@ I also have a term in my distribution for people who 100% agree with me on every
 
 Likewise, I have a term for people who are my worst enemies - e/acc people, those guys who always talk about how charity is Problematic - committing a mass shooting. This term is also pretty low. They don’t seem evil in that particular kind of way - they’re more subtle than that. But it happens, I don’t intend to crow about it. It doesn’t prove anything beyond that sometimes the dice land on all ones, a crazy evil person joins your community, and he does something horrible. And we already knew that was possible. If 95% of mass shootings in the next decade were caused by weird anti-charity socialists, _that_ would be an interesting update. But _one_ shooting doesn’t differ from my prior enough to be interesting.
 
- **IV.**
+**IV.**
 
 This is also how I feel about other kinds of misdeeds.
 
@@ -67,7 +70,7 @@ I will stick to this position even in the face of your objections. Yes, maybe it
 
 I realize this sounds callous, but [when I double-checked](https://slatestarcodex.com/2018/04/17/ssc-survey-results-sexual-harassment-levels-by-field/), everyone had 180-degrees false impressions of what fields had the most sexual harassment because they were updating on who they’d heard salacious stories about recently - retail is worst, and STEM is among the best. If this surprises you, stop updating on random salacious anecdotes!
 
- **V.**
+**V.**
 
 Do I sound defensive about this? I’m not. This _next_ one is defensive.
 
@@ -144,13 +147,11 @@ All of this is true, and if you’re an activist you should take advantage of it
 
 Dramatic events are a good time to agitate for a coalition, but this is a necessary evil. In a perfect world, people would predict distributions beforehand, update a few percent on a dramatic event, but otherwise continue pursuing the policy they had agreed upon long before. 
 
-[1](/p/against-learning-from-dramatic-events#footnote-anchor-1-140135906)
+[^1]: Assume that before COVID, you were considering two theories:
 
-Assume that before COVID, you were considering two theories:
+  1. **Lab Leaks Common:** There is a 33% chance of a lab-leak-caused pandemic per decade.
 
-  1.  **Lab Leaks Common:** There is a 33% chance of a lab-leak-caused pandemic per decade.
-
-  2.  **Lab Leaks Rare:** There is a 10% chance of a lab-leak-caused pandemic per decade.
+  2. **Lab Leaks Rare:** There is a 10% chance of a lab-leak-caused pandemic per decade.
 
 
 
@@ -161,9 +162,7 @@ If your first decade of observations doesn’t include a lab-leak-caused pandemi
 
 So this hypothetical Bayesian, if they learned that COVID was a lab leak, should have 27.5% probability of another lab leak pandemic next decade. But if they learn COVID wasn’t a lab leak, they should have 20% probability.
 
-[2](/p/against-learning-from-dramatic-events#footnote-anchor-2-140135906)
-
-You should actually update even less than this, because if you originally thought a lab leak was very unlikely, you should assume COVID wasn’t a lab leak.
+[^2]: You should actually update even less than this, because if you originally thought a lab leak was very unlikely, you should assume COVID wasn’t a lab leak.
 
 It should take a lot of evidence to make you think a very unlikely thing had happened. For example, sometimes there are eyewitness reports of UFOs, but we still don’t believe in UFOs, because they’re very unlikely. If there was an eyewitness report of something else, like a yellow car, we would believe it, because yellow cars are common enough that even a single eyewitness provides enough evidence to convince us.
 
@@ -171,6 +170,4 @@ Suppose you previously thought lab leaks were just as unlikely as UFOs. There’
 
 This strategy is mathematically correct, but obviously dangerous and prone to misfire - see [here ](https://slatestarcodex.com/2020/02/12/confirmation-bias-as-misfire-of-normal-bayesian-reasoning/)and [here](/p/trapped-priors-as-a-basic-problem) for more.
 
-[3](/p/against-learning-from-dramatic-events#footnote-anchor-3-140135906)
-
-Except insofar as the same group of terrorists are still around with their nuclear program, waiting to strike again.
+[^3]: Except insofar as the same group of terrorists are still around with their nuclear program, waiting to strike again.

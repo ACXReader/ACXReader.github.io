@@ -3,16 +3,19 @@ title: "Highlights From The Comments On Health Care Systems"
 subtitle: "..."
 date: 2022-01-27
 likes: 51
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/47644805/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/02b6eecc-c27b-4af4-af12-7f2936a226c4_575x381.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-health
 ---
 I’m experimenting with making this more structured this time, so:
 
- **Section I:** Collection of comments on US health care  
- **Section II:** Drug pricing, and does the US subsidize the rest of the world?  
- **Section III:** Why are health economics so unlike other economics?  
- **Section IV:** Giant pile of comments by readers who live in different countries explaining their own countries’ health systems, and their experiences with them.
+**Section I:** Collection of comments on US health care  
+**Section II:** Drug pricing, and does the US subsidize the rest of the world?  
+**Section III:** Why are health economics so unlike other economics?  
+**Section IV:** Giant pile of comments by readers who live in different countries explaining their own countries’ health systems, and their experiences with them.
 
- **I.**
+**I.**
 
 GummyBearDoc [writes](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4588258):
 
@@ -76,7 +79,7 @@ I’m not sure it makes sense to call this “regressive” or “an underestima
 
 I see the problem, but I’m not convinced this matters. First of all, I think insurances [mostly make less profit than that](https://content.naic.org/sites/default/files/inline-files/2019%20Health%20Industry%20Commentary_0.pdf), so the cap probably doesn’t matter much in real life. Second, cost inflation seems to have decreased (or at least not worsened) since the ACA. Third, no matter what your profit margin is, you’re still always incentivized to spend more money, right? If your profit margin is 10%, you can make $1 by selling $10 of care; if it’s 20%, you can make $2 by selling $10 of care, and so on. You always want to sell more care!
 
- **II.**
+**II.**
 
 [Austin](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4601638) (who writes [Acrolectics](https://acrolectics.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) says:
 
@@ -144,7 +147,7 @@ ConnGator [writes](https://astralcodexten.substack.com/p/book-review-which-count
 
 > If I ran the zoo, I would say that drug companies must set prices in other countries as a ration of their per-capita GDP to America's.
 
- **III.**
+**III.**
 
 Bram Cohen [writes](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4601136):
 
@@ -170,11 +173,11 @@ But [Arnold Kling](https://astralcodexten.substack.com/p/book-review-which-count
 
 He kept his promise, so [here’s his Substack summary](https://arnoldkling.substack.com/p/some-health-economics-for-scott-alexander).
 
- **IV.**
+**IV.**
 
 And now, a giant pile of comments about specific countries!
 
- **Germany,** starting with [Mark](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4582320):
+**Germany,** starting with [Mark](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4582320):
 
 > The "secret" [of our German way of healthcare] seems to be to have the insurances compete on low administration cost. (Some smaller insurers who run into troubles here are regularly "integrated"/"bought" by bigger ones - and some "new" ones try their luck growing on streamlined procedures). - Those funny extras they throw at us to lure us into swapping are very secondary.
 > 
@@ -228,7 +231,7 @@ And [demost](https://astralcodexten.substack.com/p/book-review-which-country-has
 > 
 > Of course, companies can offer things that go beyond basic insurance, but this is a completely different market, and probably much closer to US system. But those are luxuries, not necessities. For details on the two countries (I was referring to public insurances in Germany, which is only part of the system), there are excellent description of those systems by Lars (on Germany) and Er Matto (comparison between Germany and Switzerland) in the comments.
 
- **The Netherlands** , starting with Majuscule:
+**The Netherlands** , starting with Majuscule:
 
 > I’m an American and lived in the Netherlands for several years (2012-2018). The Dutch and also the expats loved to complain about it, but I thought the Dutch system was pretty great. By far the best part of it was the transparency. My health insurance actually covered my needs- I never saw a bill. No copays, no surprise mystery bills of the kind I’ve always received in the US, even with “Cadillac” level insurance.
 > 
@@ -252,11 +255,11 @@ And [demost](https://astralcodexten.substack.com/p/book-review-which-country-has
 > 
 > (As an aside: there is a campaign among medical staff to stamp these documents with a picture of a purple crocodile. Why a purple crocodile? Because a famous Dutch advertisement (ironically by an insurance company) features a purple crocodile lost by a little girl in the swimming pool, which an obstinate pool employee refuses to hand over even though it's right behind him, until the mother of the girl has filled out several forms in capitals. Eventually he tells her they can pick it up in the morning between 9 and 10. You can watch it [here](https://www.youtube.com/watch?v=mJipJwDPJ-g), it works quite well even if you don't understand Dutch.)
 
- **UK** , starting with [Chris Allen](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4586520):
+**UK** , starting with [Chris Allen](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4586520):
 
 > Just to be clear, the UK has a private medical system including hospitals totally separate from the NHS where you can buy top up medical insurance to the NHS, which allows you to see specialists and get treatment quickly. Emergency cases though are usually treated on NHS. About 10% of the population pay into this or get it through work. It doesn’t seem to cause much resentment. There is little regulation on the cost and content of these plans, though of course the medical care can’t deviate from UK standards. For a family of 4 annual costs are around £2,000. To me the UK system is a good compromise between looking after the less fortunate with some pretty good health care at a low cost for the country but allowing those who want a higher standard of care without too much regulation.
 
- **Australia** , via [Patrick](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4586560):
+**Australia** , via [Patrick](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4586560):
 
 > I think it's worth noting that in Australia the private system only offers some services, with the most specialised procedures (transplants, major trauma, most paediatric specialties etc) only offered through the public system.
 > 
@@ -264,7 +267,7 @@ And [demost](https://astralcodexten.substack.com/p/book-review-which-country-has
 > 
 > I think there's a fair argument to be made that the private system skims off the healthiest and most straightforward cases and dumps the rest on the public system. I don't know whether this is cost effective or not - obviously there are efficiencies which come with higher throughput, but there is definitely overservicing and waste in the private system. It's a source of resentment.
 
- **Switzerland** , starting with Spruce:
+**Switzerland** , starting with Spruce:
 
 > As I understand the Swiss system, basic healthcare is mandatory, rates are more or less fixed by the government, and providers must accept any citizen who applies. This avoids any bias in who does or does not get insured. Insurers can offer extra products at their discretion on top of that, from rebates if you use a fitness app to private rooms in hospital if you pay more.
 > 
@@ -280,11 +283,11 @@ And [demost](https://astralcodexten.substack.com/p/book-review-which-country-has
 > 
 > The US health care industry would oppose moving to the Swiss model just as strongly as moving to a single-payer system, since it would eliminate profits and the ability to privately negotiate provider payments. These are the two main features which set the US apart, and which are cash cows for the winners of the system. Both of these reforms would effectively socialize the financing of the system, while just outsourcing administration to private entities.
 > 
->  **Edit** :A more American approach could be "Medicare Advantage for All". Medicare Advantage is an alternative people can opt into instead of the single-payer Original Medicare. The government pays a private insurance company to cover you based on the projected cost that Original Medicare would pay for your health care. Those private insurance companies then negotiate with individual providers for payments. Basically the same concept as charter schools. About 40% of Medicare beneficiaries use this option. To the extent the private insurance companies have lower costs, they can keep those as profits or provide additional benefits. Private insurance companies have an incentive to offer additional benefits to entice people to sign up. This would keep the healthcare industry happy, as they could keep their profits and privately negotiate provider payments. However, for the same reasons, it would not work to rein in health care spending.
+> **Edit** :A more American approach could be "Medicare Advantage for All". Medicare Advantage is an alternative people can opt into instead of the single-payer Original Medicare. The government pays a private insurance company to cover you based on the projected cost that Original Medicare would pay for your health care. Those private insurance companies then negotiate with individual providers for payments. Basically the same concept as charter schools. About 40% of Medicare beneficiaries use this option. To the extent the private insurance companies have lower costs, they can keep those as profits or provide additional benefits. Private insurance companies have an incentive to offer additional benefits to entice people to sign up. This would keep the healthcare industry happy, as they could keep their profits and privately negotiate provider payments. However, for the same reasons, it would not work to rein in health care spending.
 
 I would like to know more about Medicare Advantage.
 
- **Other countries** , starting with [David Roman](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4588534):
+**Other countries** , starting with [David Roman](https://astralcodexten.substack.com/p/book-review-which-country-has-the/comment/4588534):
 
 > I've lived in the US, China, Australia, Singapore and Spain. I'm really surprised that the book didn't even consider Spain, which has a pretty cheap system, the world's highest life expectancy at birth and, by far, the best health system of all those I've had a first-hand experience with. No need to tell you much about the US, and Australa's system is, in my limited experience, marginally better. Singapore is hyper-expensive and hyper-effective and anyone who includes China in such a comparison must be doing it for the laughs. Very expensive and second-rate at best in big cities, third-worldist for hundreds of millions in the countryside.
 

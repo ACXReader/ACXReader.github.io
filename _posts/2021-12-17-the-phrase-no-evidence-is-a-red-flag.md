@@ -3,11 +3,14 @@ title: "The Phrase \"No Evidence\" Is A Red Flag For Bad Science Communication"
 subtitle: "..."
 date: 2021-12-17
 likes: 330
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45503590/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe23c3be8-57fd-4c89-b959-488469a72f80_1861x1200.png
 original-url: https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag
 ---
 **Related to:** [Doctor, There Are Two Types Of No Evidence](https://www.overcomingbias.com/2008/08/doctor-there-ar.html); [A Failure, But Not Of Prediction](https://slatestarcodex.com/2020/04/14/a-failure-but-not-of-prediction/).
 
- **I.**
+**I.**
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe23c3be8-57fd-4c89-b959-488469a72f80_1861x1200.png)](http://slatestarcodex.com/blog_images/no_evidence_large.png) Click to [enlarge](http://slatestarcodex.com/blog_images/no_evidence_large.png)
 
@@ -30,7 +33,7 @@ This is _utterly corrosive_ to anybody trusting science journalism.
 
 Imagine you are John Q. Public. You read “no evidence of human-to-human transmission of coronavirus”, and then a month later it turns out such transmission is common. You read “no evidence linking COVID to indoor dining”, and a month later your governor has to shut down indoor dining because of all the COVID it causes. You read “no hard evidence new COVID strain is more transmissible”, and a month later everything is in panic mode because it was more transmissible after all. And _then_ you read “no evidence that 45,000 people died of vaccine-related complications”. Doesn’t sound very reassuring, does it?
 
- **II.**
+**II.**
 
 Unfortunately, I don’t think this is just a matter of scientists and journalists using the wrong words sometimes. I think they are fundamentally confused about this. 
 
@@ -38,13 +41,13 @@ In traditional science, you start with a “null hypothesis” along the lines o
 
 This is a perfectly fine statistical hack, but it doesn’t work in real life. In real life, there is no such thing as a state of “no evidence” and it’s impossible to even give the phrase a consistent meaning. EG:
 
- **Is there "no evidence" that using a parachute helps prevent injuries when jumping out of planes?** This was the conclusion of [a cute paper](https://www.bmj.com/content/327/7429/1459?ijkey=c3677213eca83ff6599127794fc58c4e0f6de55a&keytype2=tf_ipsecsha) in the _BMJ_ , which pointed out that as far as they could tell, nobody had ever done a study proving parachutes helped. Their point was that "evidence" isn't the same thing as "peer-reviewed journal articles". So maybe we should stop demanding journal articles, and accept informal evidence as valid?
+**Is there "no evidence" that using a parachute helps prevent injuries when jumping out of planes?** This was the conclusion of [a cute paper](https://www.bmj.com/content/327/7429/1459?ijkey=c3677213eca83ff6599127794fc58c4e0f6de55a&keytype2=tf_ipsecsha) in the _BMJ_ , which pointed out that as far as they could tell, nobody had ever done a study proving parachutes helped. Their point was that "evidence" isn't the same thing as "peer-reviewed journal articles". So maybe we should stop demanding journal articles, and accept informal evidence as valid?
 
- **Is there "no evidence" for alien abductions?** There are hundreds of people who say they've been abducted by aliens! By legal standards, hundreds of eyewitnesses is _great_ evidence! If a hundred people say that Bob stabbed them, Bob is a serial stabber - or, even if you thought all hundred witnesses were lying, you certainly wouldn't say the prosecution had “no evidence”! When we say "no evidence" here, we mean "no really strong evidence from scientists, worthy of a peer-reviewed journal article". But this is the opposite problem as with the parachutes - here we should stop accepting informal evidence, and demand more scientific rigor.
+**Is there "no evidence" for alien abductions?** There are hundreds of people who say they've been abducted by aliens! By legal standards, hundreds of eyewitnesses is _great_ evidence! If a hundred people say that Bob stabbed them, Bob is a serial stabber - or, even if you thought all hundred witnesses were lying, you certainly wouldn't say the prosecution had “no evidence”! When we say "no evidence" here, we mean "no really strong evidence from scientists, worthy of a peer-reviewed journal article". But this is the opposite problem as with the parachutes - here we should stop accepting informal evidence, and demand more scientific rigor.
 
- **Is there "no evidence" homeopathy works?** No, [here's a peer-reviewed study showing that it does](https://pubmed.ncbi.nlm.nih.gov/30202036/). Don't like it? I have [eighty-nine more peer-reviewed studies showing that right here](https://pubmed.ncbi.nlm.nih.gov/9310601). But a strong theoretical understanding of how water, chemicals, immunology, etc operate suggests homeopathy can't _possibly_ work, so I assume all those pro-homeopathy studies are methodologically flawed and useless, the same way [somewhere between 16% and 89%](https://en.wikipedia.org/wiki/Replication_crisis#In_medicine) of other medical studies are flawed and useless. Here we should reject _journal articles_ because they disagree with _informal_ evidence!
+**Is there "no evidence" homeopathy works?** No, [here's a peer-reviewed study showing that it does](https://pubmed.ncbi.nlm.nih.gov/30202036/). Don't like it? I have [eighty-nine more peer-reviewed studies showing that right here](https://pubmed.ncbi.nlm.nih.gov/9310601). But a strong theoretical understanding of how water, chemicals, immunology, etc operate suggests homeopathy can't _possibly_ work, so I assume all those pro-homeopathy studies are methodologically flawed and useless, the same way [somewhere between 16% and 89%](https://en.wikipedia.org/wiki/Replication_crisis#In_medicine) of other medical studies are flawed and useless. Here we should reject _journal articles_ because they disagree with _informal_ evidence!
 
- **Is there "no evidence" that King Henry VIII had a spleen?** Certainly nobody has published a peer-reviewed article weighing in on the matter. And probably nobody ever dissected him, or gave him an abdominal exam, or collected any informal evidence. Empirically, this issue is just a complete blank, an empty void in our map of the world. Here we should ignore the absence of journal articles _and_ the absence of informal evidence, and just assume it's true because _obviously_ it’s true.
+**Is there "no evidence" that King Henry VIII had a spleen?** Certainly nobody has published a peer-reviewed article weighing in on the matter. And probably nobody ever dissected him, or gave him an abdominal exam, or collected any informal evidence. Empirically, this issue is just a complete blank, an empty void in our map of the world. Here we should ignore the absence of journal articles _and_ the absence of informal evidence, and just assume it's true because _obviously_ it’s true.
 
 I challenge anyone to come up with a definition of "no evidence" that wouldn't be misleading in at least one of the above examples. If you can't do it, I think that's because the folk concept of "no evidence" doesn't match how real truth-seeking works. Real truth-seeking is [Bayesian](https://www.yudkowsky.net/rational/bayes). You start with a prior for how unlikely something is. Then you update the prior as you gather evidence. If you gather a lot of strong evidence, maybe you update the prior to somewhere very far away from where you started, like that some really implausible thing is nevertheless true. Or that some dogma you held unquestioningly is in fact false. If you gather only a little evidence, you mostly stay where you started.
 

@@ -3,6 +3,9 @@ title: "No, Really, Why Are So Many Christians In Colombia Converting To Orthodo
 subtitle: "..."
 date: 2021-04-21
 likes: 147
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/35275108/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7438841e-58b9-4c9a-a5ee-05132fbc273d_1200x967.jpeg
 original-url: https://www.astralcodexten.com/p/no-really-why-are-so-many-christians
 ---
 I enjoyed reading a recent Washington Post article, subtitled [Why Are So Many Christians In [Colombia] Converting To Orthodox Judaism?](https://www.washingtonpost.com/magazine/2021/04/14/converts-judaism-colombia/?itid=hp_magazine) It had good interviews and beautiful photos. The only thing it lacked was any explanation of why so many Christians in Colombia were converting to Orthodox Judaism, unless you count explanations like these:
@@ -21,7 +24,7 @@ Before we start - are we sure this is happening to any significant degree? On th
 
 The best information I can find comes from [this article](https://story.californiasunday.com/colombian-church-orthodox-judaism), which tells the story of a group of Colombian converts in more depth. A megachurch pastor visited Israel, met some Jews for Jesus, liked it, and incorporated Jews for Jesus ideas into his megachurch. But the more he learned about it, the more he realized Jews for Jesus was incoherent, and wanted the real thing. So after a while, he asked his church to convert to Judaism en masse; most of them said no, but a few hundred stuck around and became Orthodox Jews. You should really read the article, but here’s my favorite part:
 
->  **On the night** of April 28, 2002, as [pastor] Juan Carlos was returning to Bello from a spiritual retreat, the Marxist-Leninist ELN guerrillas, the Elenos, kidnapped him. After a month of being moved around the jungle, sleeping in the rain, and eating one serving of rice a day, he was released. He emerged emaciated and infected with leishmaniasis, a parasitic disease that produces ugly skin ulcers.
+> **On the night** of April 28, 2002, as [pastor] Juan Carlos was returning to Bello from a spiritual retreat, the Marxist-Leninist ELN guerrillas, the Elenos, kidnapped him. After a month of being moved around the jungle, sleeping in the rain, and eating one serving of rice a day, he was released. He emerged emaciated and infected with leishmaniasis, a parasitic disease that produces ugly skin ulcers.
 > 
 > His father had given the Elenos everything he had — $50,000. The payment depleted the family’s savings, but when questioned by journalists, Juan Carlos claimed, “Not a single peso was paid for my freedom.” Extortive kidnappings by guerrillas were a common feature of Colombian life — there had been 3,700 kidnappings in 2000 alone — and they were a sensitive political issue. The police had demanded that Juan Carlos not reveal that his father had paid ransom. Instead, he should say that he had converted his captors to Christianity, presenting them a Bible in exchange for his release.
 > 
@@ -45,7 +48,7 @@ The best information I can find comes from [this article](https://story.californ
 > 
 > For most, denying Jesus was soul ripping. A woman confided that she had spent the night crying, looking up at the starry sky, asking God if she could believe in the pastor’s new ideas. “What will I do without my Jesus?” she sobbed.
 > 
-> Puerta, who had also apologized to the flock, left for the United States without saying goodbye, never to return. It was the end of the Iglesia Cristiana para la Familia. Most of its members left to find a new church or abandoned religion altogether. Yet, to Juan Carlos’s surprise **,** 600 parishioners declared that they trusted him and would follow him into Judaism.
+> Puerta, who had also apologized to the flock, left for the United States without saying goodbye, never to return. It was the end of the Iglesia Cristiana para la Familia. Most of its members left to find a new church or abandoned religion altogether. Yet, to Juan Carlos’s surprise**,** 600 parishioners declared that they trusted him and would follow him into Judaism.
 
 Also:
 

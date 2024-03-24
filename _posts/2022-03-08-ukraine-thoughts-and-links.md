@@ -3,11 +3,14 @@ title: "Ukraine Thoughts And Links"
 subtitle: "..."
 date: 2022-03-08
 likes: 67
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/49910542/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a08d7338-2213-42be-9250-acdc9f586327_1944x1358.jpeg
 original-url: https://www.astralcodexten.com/p/ukraine-thoughts-and-links
 ---
 _Disclaimer: I am not an expert in international relations or military strategy, which is fine. In democracies, it’s normal and correct for ordinary citizens to have opinions on important world issues, and demands that they not do so are ahistorical and dangerous. Still, take anything I say with a grain of salt._
 
- **1:** **This isn’t “history restarting” . . . yet**
+**1:** **This isn’t “history restarting” . . . yet**
 
 Whatever Francis Fukuyama meant by “the end of history”, it probably wasn’t “nothing will ever happen”.
 
@@ -25,7 +28,7 @@ But the vast majority of people reading this have probably never been personally
 
 Outside of lulls in history and Pax Somewheres, one nation invading another is met with indifference. Russia’s invasion of Ukraine is being met with internal protests, global condemnation, and crippling economic sanctions. This is what it looks like when a civilization that’s got strong and well-functioning norms against aggressive wars encounters one and launches an immune response.
 
- **2: If the Pax Americana is dead, we need to try something different; but if it’s still alive, we should stick with what works.**
+**2: If the Pax Americana is dead, we need to try something different; but if it’s still alive, we should stick with what works.**
 
 The Pax Americana playbook for international norm violations is: the US slaps sanctions on the offender. The EU expresses “concern”. The UN proposes a resolution condemning it, which gets vetoed by whichever Security Council member is most complicit. And the CIA secretly gives Stinger missiles to everyone involved.
 
@@ -33,7 +36,7 @@ Lots of people have lost faith in the Pax Americana, which would mean we need so
 
 But if the Pax Americana still holds, then the playbook is still the right call.
 
- **3: A strong response right now isn’t just about Ukraine, it’s also about the next time.**
+**3: A strong response right now isn’t just about Ukraine, it’s also about the next time.**
 
 Everyone can sanction Russia as much as they want, and it can win anyway. Putin is in too deep to extricate himself easily; it’s become a matter of honor, of “not being seen to be weak”. The point isn’t to save Ukraine, it’s to establish expectations for next time. This is about Taiwan, Georgia, Iran, and all the other places that great powers want to invade but don’t.
 
@@ -41,7 +44,7 @@ The next time a big country wants to invade a little one, we want it to remember
 
 This is true not just for the West considering sanctions, but for Ukrainians considering how hard to fight. Commentators have drawn connections between the Taliban easily ousting the US-backed Afghan government, and Putin expecting an easy victory in Ukraine. Maybe that’s why he took the chance. But the heroic Ukrainian resistance will set the opposite example. Next time someone considers an invasion, they’ll expect such high costs it won’t be worth it. In this sense, the Ukrainians are sacrificing not just for their countrymen, but for the world and for peace itself.
 
- **4: International norms may be annoying, but they’re all that stands between us and nuclear war, so we had better respect them**
+**4: International norms may be annoying, but they’re all that stands between us and nuclear war, so we had better respect them**
 
 If you only get one thing from this essay, let it be: unless you know something I don’t, establishing a no-fly zone over Ukraine might be the worst decision in history. It would be a good way to get everyone in the world killed.
 
@@ -61,7 +64,7 @@ I am not an international relations expert. But every international relations ex
 
 Also, the last time this happened, in ‘62, it was the Russians who agreed to back down to prevent nuclear war. We owe them one, so this time it’s on us.
 
- **5: Really, I can’t emphasize this enough, a no-fly zone means shooting down Russian planes.**
+**5: Really, I can’t emphasize this enough, a no-fly zone means shooting down Russian planes.**
 
 America does not actually have a way to prevent people from flying. A no-fly zone means that if they do fly, you shoot them down. It would be more reasonable to call this a “shoot-down-anything-that-flies zone”, but at some point some Pentagon official must have wanted to sell it to the public really hard and come up with an innocuous-sounding name for it. 
 
@@ -77,7 +80,7 @@ Putin’s already proven a little irrational. He’s done good work establishing
 
 I also feel this way about letting Ukrainian jets use NATO bases, and anything else that diverges from the usual rules of noncombatants.
 
- **6: Huh, I guess we’re still capable of jingoism**
+**6: Huh, I guess we’re still capable of jingoism**
 
 One story you could tell - one story I think Putin was telling himself - goes something like: the West is pathetic and divided. The Western-backed Afghan government fell to the Taliban in a few weeks. That’s because the Westernized Afghans were the kind of people who cared about trigger warnings and misgendering, and the Taliban was Traditional Masculine Warrior Types. The Taliban could say “kill the infidels!” and the Westerners would argue over whether considering the Taliban an “enemy” was racist.
 
@@ -99,7 +102,7 @@ Of course, jingoism is bad. People are going crazy, trying to take out their fru
 
 All of this is terrible. But I was so concerned we were perma-stuck at the opposite extreme that it’s almost refreshing to see us fail in this particular way.
 
- **7: The Obligatory Acknowledgment That We Are Also Bad**
+**7: The Obligatory Acknowledgment That We Are Also Bad**
 
 America has invaded a lot of countries, even within my lifetime.
 
@@ -117,7 +120,7 @@ What if, whenever you admit an exception to the bright line, you know that tyran
 
 I have no good solution to this problem, but I admit that America’s standing to make the moral case against invading Ukraine is weaker than if it had shown the slightest ability to refrain from invading places _it_ wanted to invade.
 
- **8: The Obligatory Acknowledgment That We Are Also Bad (2)**
+**8: The Obligatory Acknowledgment That We Are Also Bad (2)**
 
 What to make of the claim that the West provoked this war by expanding NATO / refusing to rule out admitting Ukraine?
 
@@ -131,7 +134,7 @@ But also, Russia keeps trying to turn nearby countries into puppet states, somet
 
 Is it wrong for the West to support Ukraine in its efforts not to become Belarus 2? In terms of the lines-in-the-sand and vague-rules-of-international-diplomacy that prevent nuclear war, I think not really. Is it _imprudent_? It’s a risk, but at least it was taken in the defense of real principles, which is better than most of the imprudent things we do.
 
- **9: Peace is still the goal**
+**9: Peace is still the goal**
 
 Putting all of this together: Western countries have three conflicting goals here. First, avoiding nuclear war. Second, making this such a miserable experience for Russia that nobody tries anything like it again. Third, helping the people of Ukraine (and Russia) escape with as little death and suffering as possible.
 
@@ -149,7 +152,7 @@ These were most of Putin’s demands before the war, so one could argue that, if
 
 Now the situation is different. Russia has miscalculated, they know they’ve miscalculated, and the best ending for everyone is for them to leave in a way that sort of preserves what’s left of their honor - one that doesn’t humiliate them any more than they’re humiliated already. Giving Russia everything they wanted before the war lets Putin play it as a victory back home, saves the Ukrainian people, and defuses the chance of World War III. It might cost a small amount of honor, but the Ukrainians are rolling in honor right now. They have so much honor they don’t know what to do with it all. They can pay a little to make Russia go away, and still have enough left over to act as a deterrent in the future.
 
- **10: Links**
+**10: Links**
 
 a. [Metaculus Alerts](https://twitter.com/MetaculusAlert) is a Twitter bot that alerts you when a Metaculus prediction on the Ukraine war has changed drastically in a short time. For example, “the chance of Russia taking Kiev by April has decreased 10% in the past 24 hours”. I find this a good substitute to refreshing the news every minute to see if something interesting has happened.
 

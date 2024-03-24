@@ -3,9 +3,12 @@ title: "Your Book Review: Zuozhuan"
 subtitle: "Finalist #16 in the Book Review Contest"
 date: 2023-09-01
 likes: 122
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/123531654/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/d90ae5b2-ede5-4280-b973-941bba1d5a23_635x450.png
 original-url: https://www.astralcodexten.com/p/your-book-review-zuozhuan
 ---
-[ _This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked._ ]
+[_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked._]
 
 ## The Fall
 
@@ -99,14 +102,14 @@ disputing ritual propriety,
 
 > …The noble man considered this a deviation from ritual propriety: “In the performance of ritual there is nothing that does not follow the right order. Sacrifices are among the great affairs of a domain. Can it be called ritual propriety to violate the right sacrificial order? [...] That is the reason it says in a Lu hymn,
 > 
->  _Not taking our ease in spring and autumn,  
+> _Not taking our ease in spring and autumn,  
 >  We offer sacrifices without error  
 > To the greatly august sovereign god on high,  
 > To the august ancestor Lord Millet._
 > 
 > When the noble man calls this ‘proper ritual,’ he is saying that Lord Millet may be closer kin, but the god on high is placed before him. As it says in the _Odes_ ,
 > 
->  _I will make inquiries of my paternal aunts  
+> _I will make inquiries of my paternal aunts  
 >  And then I will come to my elder sisters._
 > 
 > When the noble man calls this ‘proper ritual,’ he is saying that older sisters may be closer kin, but paternal aunts are placed before them.”
@@ -141,7 +144,7 @@ Scatters of vivid anecdotes sketch out conflicted, impressionistic portraits of 
 > 
 > Confucius said, “It says in the _Odes_ ,
 > 
->  _When the people have many deviations,  
+> _When the people have many deviations,  
 >  Do not set up your own law against deviations!_
 > 
 > Does this not describe Xie Ye?”’
@@ -190,10 +193,10 @@ The _Zuozhuan_ can’t provide satisfying answers. But it can provide a sense of
 > 
 > “When there was disorder in the Xia government, they created the ‘Punishments of Yu.’ When there was disorder in the Shang government, they created the ‘Punishments of Tang.’ When there was disorder in the Zhou government, they composed the ‘Nine Punishments.’ These three penal codes in each case arose in the dynasty’s waning era. Now as chief minister in the domain of Zheng you, Zichan, have created fields and ditches, established an administration that is widely reviled, fixed the three statutes, and cast the penal code. Will it not be difficult to calm the people by such means? As it says in the _Odes_ , 
 > 
-> _Take the virtue of King Wen as a guide, a model, a pattern;  
+>  _Take the virtue of King Wen as a guide, a model, a pattern;  
 >  Day by day calm the four quarters.  
 > _And as it says elsewhere,  
->  _Take as model King Wen,  
+> _Take as model King Wen,  
 >  And the ten thousand realms have trust._
 > 
 > In such an ideal case, why should there be any penal codes at all? When the people have learned how to contend over points of law, they will abandon ritual propriety and appeal to what is written. Even at chisel’s tip and knife’s edge they will contend. A chaotic litigiousness will flourish and bribes will circulate everywhere.

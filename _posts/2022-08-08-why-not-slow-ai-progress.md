@@ -3,6 +3,9 @@ title: "Why Not Slow AI Progress?"
 subtitle: "Machine Alignment Monday 8/8/22"
 date: 2022-08-08
 likes: 175
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/64440194/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5f4127cf-642f-4acf-aa1a-8fbf610e3418_540x360.jpeg
 original-url: https://www.astralcodexten.com/p/why-not-slow-ai-progress
 ---
 ## The Broader Fossil Fuel Community
@@ -25,7 +28,7 @@ Still, most people aren’t doing this. Why not?
 
 First, a history lesson: the best AI capabilities companies got started by AI safety proponents, for AI safety related reasons.
 
- **DeepMind** was co-founded by Shane Legg, a very early AI safety proponent who did his 2007 PhD thesis on superintelligence
+**DeepMind** was co-founded by Shane Legg, a very early AI safety proponent who did his 2007 PhD thesis on superintelligence
 
 [![Twitter avatar for @ShaneLegg](https://substackcdn.com/image/twitter_name/w_96/ShaneLegg.jpg)Shane Legg @ShaneLeggEver since the early days of my PhD, AI safety has been a personal passion of mine. I hope this resource will be one of many ways that we continue to engage with the safety-interested community as we collectively build towards safe and beneficial AI. ](https://twitter.com/ShaneLegg/status/1045343927442841602)[![](https://substackcdn.com/image/fetch/w_600,h_314,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2c9f7f3-8260-4956-8b5f-092b72c50462_1000x863.png)medium.comBuilding safe artificial intelligence: specification, robustness, and assuranceBy Pedro A. Ortega, Vishal Maini, and the DeepMind safety team](https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1)[4:06 PM ∙ Sep 27, 2018
 
@@ -55,7 +58,7 @@ Toby Ord (here standing in for the broader existential-risk-quantifying communit
 
 (As for Musk, I don’t think we need any explanation deeper than his usual pattern of doing cool-sounding things on impulse, then regretting them at leisure.)
 
- **Anthropic** was founded when some OpenAI safety researchers struck out on their own to create what they billed as an even-more-safety-conscious alternative. Again, the headline was [Anthropic Raises $580 Million For AI Safety And Research](https://www.ns-businesshub.com/technology/anthropic-ai-safety-research-series-b-round/) (and most of that came from rationalists and effective altruists convinced by their safety-conscious pitch). Again, their announcement included reassuring language - their president said that “We’re focusing on ensuring Anthropic has the culture and governance to continue to responsibly explore and develop safe AI systems as we scale.” Clued-in people disagree about whether Anthropic has already pivoted to [building the Torment Nexus](https://twitter.com/alexblechman/status/1457842724128833538?lang=en), but it’s probably only a matter of time.
+**Anthropic** was founded when some OpenAI safety researchers struck out on their own to create what they billed as an even-more-safety-conscious alternative. Again, the headline was [Anthropic Raises $580 Million For AI Safety And Research](https://www.ns-businesshub.com/technology/anthropic-ai-safety-research-series-b-round/) (and most of that came from rationalists and effective altruists convinced by their safety-conscious pitch). Again, their announcement included reassuring language - their president said that “We’re focusing on ensuring Anthropic has the culture and governance to continue to responsibly explore and develop safe AI systems as we scale.” Clued-in people disagree about whether Anthropic has already pivoted to [building the Torment Nexus](https://twitter.com/alexblechman/status/1457842724128833538?lang=en), but it’s probably only a matter of time.
 
 Why this history lesson? Partly to highlight the depth of the AI alignment people’s involvement here. It’s not just that they’re not fighting AI companies, it’s that they keep creating them and leading investment in them. But also…
 

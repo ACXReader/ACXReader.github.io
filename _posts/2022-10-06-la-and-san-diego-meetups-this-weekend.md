@@ -3,13 +3,16 @@ title: "LA and San Diego Meetups This Weekend"
 subtitle: "Also Austin, Seattle, Tokyo, Rome, Mumbai, etc."
 date: 2022-10-06
 likes: 21
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/76770738/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6b7069f1-971b-4e70-a60c-feee72c8f187_1920x1080.webp
 original-url: https://www.astralcodexten.com/p/la-and-san-diego-meetups-this-weekend
 ---
 We have two Southern California meetups this weekend:
 
-  *  **Los Angeles** at 6:30 PM Saturday October 8 at 11841 Wagner St, Culver City.
+  * **Los Angeles** at 6:30 PM Saturday October 8 at 11841 Wagner St, Culver City.
 
-  *  **San Diego** at 3 PM on Sunday, October 9, at Bird Park, [these coordinates](https://plus.codes/8544PVQ8+Q7).
+  * **San Diego** at 3 PM on Sunday, October 9, at Bird Park, [these coordinates](https://plus.codes/8544PVQ8+Q7).
 
 
 

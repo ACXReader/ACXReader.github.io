@@ -3,13 +3,16 @@ title: "Book Review: Crazy Like Us"
 subtitle: "Summary and commentary on Ethan Watters' \"Crazy Like Us: The Globalization Of The American Psyche\""
 date: 2021-07-15
 likes: 144
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38622262/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/da8ce1db-c070-4ed9-b830-e4e87de16461_1280x720.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-crazy-like-us
 ---
 We talk a lot about falling biodiversity. Sometimes we apply the same metaphor to the human world, eg “falling linguistic biodiversity" when minority languages get replaced by English or whatever. In _[Crazy Like Us](https://amzn.to/3rayK3U) ,_ Ethan Watters sounds the alarm about falling psychiatric biodiversity. Along with all the usual effects of globalization, everyone is starting to have the same mental illnesses, and to understand them in the same way. This is bad insofar as greater diversity of mental illness could teach us something about the process that generates them, and greater diversity of frameworks and responses could teach us something about how to treat them.
 
 He makes his point through four case studies, starting with:
 
- **I. Anorexia In Hong Kong**
+**I. Anorexia In Hong Kong**
 
 Until the 1990s, there was almost no anorexia in Hong Kong. There were lots of patriarchal beauty standards, everyone was very obsessed with being thin, but anorexia as a disease was basically unknown.
 
@@ -43,7 +46,7 @@ So sure, 1980s Hong Kong had thinness-based beauty standards without any anorexi
 
 Third, what about the obvious null hypothesis: there were lots of anorexics, they were being anorexic in secret (as most anorexics do!), and nobody took them to the doctor because nobody realized “my weird daughter is dieting too much” was a medical problem? I am a little skeptical of this because in America most advanced cases of anorexia end up with psychiatrists whether or not the patient tries to cover it up, simply because they pass out from lack of food, end up at the hospital, and then the hospital doctors get a psych consult. Of all psych disorders, anorexia is kind of the hardest to push a “suffering in silence” hypothesis for. Still, this is going to come up again and again, so we should at least consider it.
 
- **II. Depression In Japan**
+**II. Depression In Japan**
 
 The frame story here is about a top anthropologist invited by GlaxoSmithKline to a lavish conference at a five-star resort in Japan. They asked him a bunch of questions about the cultural construction of mental illness. He pressed deeper and learned they were trying to “raise awareness of” depression in Japan as part of their effort to market the antidepressant Paxil there. This had, Watters thinks, much the same effect as “raising awareness of” anorexia in Hong Kong.
 
@@ -71,7 +74,7 @@ Finally everyone struck a compromise and agreed that most of the lower-class pat
 
 I find this about 1000% more interesting than some debate over whether GlaxoSmithKline marketed Paxil too aggressively. He who has ears to hear, let him listen.
 
- **III. PTSD In Sri Lanka**
+**III. PTSD In Sri Lanka**
 
 In 2004, a magnitude 9 earthquake struck the Indian Ocean. The resulting tsunami devastated Southeast Asia. One of the worst-affected countries was Sri Lanka, where 30,000 people died and millions were left homeless.
 
@@ -107,7 +110,7 @@ In fact, at the very beginning of the emergence of modern PTSD - around the Viet
 
 (once again, this is starting to feel less like true deep cross-cultural differences, and more like a couple of decade lag between an idea taking over America and it taking over somewhere else)
 
- **IV. Schizophrenia In Zanzibar**
+**IV. Schizophrenia In Zanzibar**
 
 If you want an objectively real psychiatric illness with no culture-bound component, schizophrenia is as close as you’re going to get. For one thing, it’s mostly genetic (80% in twin studies). For another, it has pretty uniform prevalence: everywhere from Abhkazia to Zanzibar, 1% of the population gets schizophrenia.
 
@@ -137,7 +140,7 @@ One background part of this chapter which I enjoyed was the section on biologica
 
 I am skeptical this actually worsens outcomes for schizophrenia; the developed vs. developing world thing is more likely diagnostic differences. Still, oops.
 
- **V. Conclusion: Towards Mental Health Unawareness Campaigns**
+**V. Conclusion: Towards Mental Health Unawareness Campaigns**
 
 Overall I was only moderately interested in the book’s thesis that we are globalizing American concepts of mental health. With the exception of the genuinely interesting anorexia chapter, the depression/PTSD/schizophrenia chapter all showed societies with pre-existing recognizable versions of these disorders. America got really interested in and heavily medicalized these disorders in the mid-20th century, and now these other societies are getting really interested in and heavily medicalizing them. People who like calling things “colonialist” should call this colonialist, and people who like debating whether or not things are colonialist should debate it, but I’m not sure how much extra we can learn about mental health here.
 

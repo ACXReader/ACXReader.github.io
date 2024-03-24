@@ -3,6 +3,9 @@ title: "Pascalian Medicine"
 subtitle: "THIS IS NOT MEDICAL ADVICE"
 date: 2021-11-24
 likes: 109
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/44375324/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/456a07fa-a544-4519-953c-a21e665e04fc_928x486.jpeg
 original-url: https://www.astralcodexten.com/p/pascalian-medicine
 ---
 **I.**
@@ -31,7 +34,7 @@ In fact, Insanity Wolf has a strong argument here: one chemical in this class is
 
 But why stop there? Sure, take twenty untested chemicals for COVID. But there are almost as many poorly-tested supplements that purport to treat depression. The cold! The flu! Diabetes! Some of these have known side effects, but others are about as safe as we can ever prove anything to be. Maybe we should be taking twenty untested supplements for _every_ condition!
 
- **II.**
+**II.**
 
 So what’s the counterargument?
 
@@ -61,7 +64,7 @@ I think this would be equally fraught. If doctors are setting this up, you can a
 
 There’s a potential compromise solution, where smart doctors come up with Pascalian medicine protocols for the few patients who would actually want them. But this would be a weird enough thing for a doctor to do that it would run into the “I wouldn’t trust any club that would accept me as a member” problem.
 
- **III.**
+**III.**
 
 Here’s the counterargument that bothers me the most:
 
@@ -75,7 +78,7 @@ From the Outside View, this argument seems strong. From the Inside View, I have 
 
 But as long as I can’t make that leap, I can be money-pumped by onion farmers. Reconciling Inside And Outside Views Remains Hard, More At 11.
 
- **IV.**
+**IV.**
 
 Does Pascalian medicine beat our current strategy of only using drugs that are proven to work? I don’t know. I think the current strategy makes sense on a social level, but I’m not sure that the Pascalian strategy wouldn’t work for an individual. At least an individual who is able to reliably identify which low-but-nonzero-probability-of-benefit drugs really do have very few potential side effects (if you didn’t already know about _loa loa_ encephalopathy, consider that this might not be you; I am very much not-recommending that any reader here do this on their own).
 

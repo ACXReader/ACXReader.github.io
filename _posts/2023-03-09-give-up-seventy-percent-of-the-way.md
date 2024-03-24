@@ -2,7 +2,10 @@
 title: "Give Up Seventy Percent Of The Way Through The Hyperstitious Slur Cascade"
 subtitle: "..."
 date: 2023-03-09
-likes: 544
+likes: 545
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/100598200/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/5582d281-3e9b-48b6-bcce-7087032484dc_800x450.jpeg
 original-url: https://www.astralcodexten.com/p/give-up-seventy-percent-of-the-way
 ---
 **I.**
@@ -15,7 +18,7 @@ At some point, someone must have commented on this explicitly: “Consider not u
 
 This is a very stable situation. The original reason for concern - World War II - is long since over. Japanese people are well-represented in all areas of life. Perhaps if there were a Language Czar, he could declare that the reasons for forbidding the word “Jap” are long since over, and we can go back to having convenient short forms of things. But there is no such Czar. What actually happens is that three or four unrepentant racists still deliberately use the word “Jap” in their quest to offend people, and if anyone else uses it, everyone else takes it as a signal that they are an unrepentant racist. Any Japanese person who heard you say it would _correctly_ feel unsafe. So nobody will say it, and they are correct not to do so. Like I said, a stable situation.
 
- **II.**
+**II.**
 
 This story shows that slurs are hyperstitions.
 
@@ -29,7 +32,7 @@ In 2019, I wrote a post about [respectability cascades](https://slatestarcodex.c
 
 [![What To Do With Juiced Lemons - Turn Juiced Lemons into a Sweet or Savory  Lemony Purée | Bon Appétit](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa26b1303-15f9-4372-97a7-791d3000b34d_2667x1778.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa26b1303-15f9-4372-97a7-791d3000b34d_2667x1778.jpeg)They’re also closely related to [the “market for lemons” scenario in economics](https://en.wikipedia.org/wiki/The_Market_for_Lemons). Think of neutral uses of the word as plums, offensive uses as lemons, and as lemons get more common people start assuming everything is a lemon and stop offering plums on the “market”, leading to a cascade.
 
- **III.**
+**III.**
 
 Things other than words can also be hyperstitious slurs.
 
@@ -43,7 +46,7 @@ True facts can be hyperstitious slurs. “Black people commit more crime” is a
 
 Entire ways of life can be hyperstitious slurs. Is being a Civil War re-enactor (on the Confederate side) sufficient for condemnation these days? I don’t know, but it depends on whether other people think it is. What about being in the military? A drone operator? Dating someone twenty years older/younger than you? Transacting in Bitcoin? In ZCash? Using marijuana? Using cigarettes? All of these are things that could mean nothing or could send strong signals about your personality, depending on whether the people who don’t want to send strong signals about their personality have stopped doing them.
 
- **IV.**
+**IV.**
 
 Okay, but this process is bad, right?
 
@@ -67,7 +70,7 @@ I feel the same way about people of Frenchness. Yes, the French example was sill
 
 This whole thing is stupid. But it’s a stupidity we have to fight against, really hard, because if it ever gets a foothold then everyone who doesn’t hate the poor _will_ eventually say “people of poverty”, it will be a stable equilibrium, and we’ll be stuck in it for all time.
 
- **V.**
+**V.**
 
 So one thing I think about a lot is: when do I join the cascade?
 

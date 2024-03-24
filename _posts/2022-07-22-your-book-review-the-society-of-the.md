@@ -3,9 +3,12 @@ title: "Your Book Review: The Society Of The Spectacle"
 subtitle: "Finalist #11 in the Book Review Contest"
 date: 2022-07-22
 likes: 104
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/65242740/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/51f96169-bf2b-4286-a3b6-66da001966ad_1024x1024.png
 original-url: https://www.astralcodexten.com/p/your-book-review-the-society-of-the
 ---
-[ _This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_ ]
+[_This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_]
 
 ## Introduction
 
@@ -72,7 +75,7 @@ This is an issue of The Map and The Territory. Pre-modern Maps were narrow but d
 
 Meanwhile, firsthand reality has been reduced to the narrow slices connecting house to car to work, with precious few exceptions.
 
-The Society Of The Spectacle is one long lament for this loss of The Real, although Debord doesn’t state it as such. Borrowing again from The Uruk Machine, this sense of loss tracks with the gradual displacement of _metis_ [4] by _episteme_ [5],[6].
+The Society Of The Spectacle is one long lament for this loss of The Real, although Debord doesn’t state it as such. Borrowing again from The Uruk Machine, this sense of loss tracks with the gradual displacement of _metis_[4] by _episteme_[5],[6].
 
 ## III. Everything New Is Old Again
 
@@ -351,7 +354,7 @@ I accidentally proved my point in the process of writing this. I planned to refe
 
 This stuff is scary, when you stop and think about all the thousands of random falsehoods and skewed impressions we accumulate while scrolling on the toilet.
 
- _Of course_ people buy into things like[ Dead Internet Theory](https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/). _Of course_ everyone’s flailing about, falling into rabbit holes that get more and more bizarre. Conspiracy theories are[ modern myths,](https://charleseisenstein.org/essays/the-conspiracy-myth/) blooming in the fertile soil of the spectacle. The mainstream news itself is little more than ceaseless conspiracy-mongering at this point. Look at the parade the last few years - Russiagate, Pizzagate, COVID, 2020 election, Jan. 6th… Whatever you might think about those highly controversial topics, many millions of people vehemently disagree with you. They live in an alternate universe. Many millions of other people agree with whatever your stance is - but for reasons so insane and illogical that they _also_ inhabit a totally different reality.
+_Of course_ people buy into things like[ Dead Internet Theory](https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/). _Of course_ everyone’s flailing about, falling into rabbit holes that get more and more bizarre. Conspiracy theories are[ modern myths,](https://charleseisenstein.org/essays/the-conspiracy-myth/) blooming in the fertile soil of the spectacle. The mainstream news itself is little more than ceaseless conspiracy-mongering at this point. Look at the parade the last few years - Russiagate, Pizzagate, COVID, 2020 election, Jan. 6th… Whatever you might think about those highly controversial topics, many millions of people vehemently disagree with you. They live in an alternate universe. Many millions of other people agree with whatever your stance is - but for reasons so insane and illogical that they _also_ inhabit a totally different reality.
 
 We have jumped the shark as a species. 
 
@@ -401,29 +404,29 @@ Me? I’ll be in[ the van](https://dailypopulous.com/2021-10-07-morning/birds-ar
 
 * * *
 
- **Endnotes**
+**Endnotes**
 
- **1:** I suppose it would be in poor taste to make a Bon Jovi reference, so I won’t.
+**1:** I suppose it would be in poor taste to make a Bon Jovi reference, so I won’t.
 
- **2:** [The Uruk series](https://samzdat.com/the-uruk-series/) by sam[]zdat is an excellent companion to this book, and I’ll reference it several times. The relevant piece here comes from Karl Polanyi’s The Great Transformation: “Polanyi calls the tendency to judge the world _solely financially_ the economic prejudice… A market society is one based entirely around a market. Any damage to the market damages the entire society.” All modern nations are market societies in some fashion, and fall prey to the economic prejudice.
+**2:** [The Uruk series](https://samzdat.com/the-uruk-series/) by sam[]zdat is an excellent companion to this book, and I’ll reference it several times. The relevant piece here comes from Karl Polanyi’s The Great Transformation: “Polanyi calls the tendency to judge the world _solely financially_ the economic prejudice… A market society is one based entirely around a market. Any damage to the market damages the entire society.” All modern nations are market societies in some fashion, and fall prey to the economic prejudice.
 
- **3:** If you’re holding out for Scott’s review to get into Girard, Alex Danco has[ a great introduction](https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/) to tide you over. He is embarrassingly off-base regarding Trump supporters, but he sums up the basics well. 
+**3:** If you’re holding out for Scott’s review to get into Girard, Alex Danco has[ a great introduction](https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/) to tide you over. He is embarrassingly off-base regarding Trump supporters, but he sums up the basics well. 
 
 **4:** _[Metis](https://samzdat.com/2017/08/28/the-uruk-machine/) “_...is a kind of accumulated, experiential knowledge. It’s the background process for whatever makes local knowledge work, and also the reason it’s hard to express in technical language. I tend to use it as shorthand…for the accumulated local knowledge of any given community.”
 
- **5:** _Episteme_ \- “Any nation-building requires a top-down view of the society it wants to organize. It’s either impossible or inefficient to draw a map with the same precision that local communities use. Because of this, certain details are elided, ignored, misplaced. This categorization process is ‘epistemic’, where _episteme_ (or epistemic rationalism, or just rationalism) means abstract, generalized, theoretical knowledge."
+**5:** _Episteme_ \- “Any nation-building requires a top-down view of the society it wants to organize. It’s either impossible or inefficient to draw a map with the same precision that local communities use. Because of this, certain details are elided, ignored, misplaced. This categorization process is ‘epistemic’, where _episteme_ (or epistemic rationalism, or just rationalism) means abstract, generalized, theoretical knowledge."
 
- **6:** “An important aspect of _metis_ is that it’s essentially a ‘worldview’. _Metis_ is deeply interwoven – performing one action also affirms the others, inasmuch as planting according to [ritual] tends to include much broader social and political and religious elements, all of which are affirmed and related… The fact that _metis_ is often explained…by ‘folksy’ reasoning at best means that epistemic knowledge rarely listens to it. The net result of this is that states tend to overrule _metis_ with _episteme_ , and that protesting citizenry cannot even express _why this is bad_. The net result of _that_ is generally inefficiency, anger, and confusion.”
+**6:** “An important aspect of _metis_ is that it’s essentially a ‘worldview’. _Metis_ is deeply interwoven – performing one action also affirms the others, inasmuch as planting according to [ritual] tends to include much broader social and political and religious elements, all of which are affirmed and related… The fact that _metis_ is often explained…by ‘folksy’ reasoning at best means that epistemic knowledge rarely listens to it. The net result of this is that states tend to overrule _metis_ with _episteme_ , and that protesting citizenry cannot even express _why this is bad_. The net result of _that_ is generally inefficiency, anger, and confusion.”
 
- **7:** Art was a major part of the Situationist movement - they would probably be mortally offended that I just glossed over it. I did so for two reasons. First, I only have a highschool understanding of the relevant topics, so I don’t have much to say. Second, I was thoroughly unimpressed by what I understood, and apparently[ I’m not alone](https://en.wikipedia.org/wiki/Situationist_International#Criticism): “Critics of the Situationists frequently assert that their ideas are not in fact complex and difficult to understand, but are at best simple ideas expressed in deliberately difficult language, and at worst actually nonsensical.”
+**7:** Art was a major part of the Situationist movement - they would probably be mortally offended that I just glossed over it. I did so for two reasons. First, I only have a highschool understanding of the relevant topics, so I don’t have much to say. Second, I was thoroughly unimpressed by what I understood, and apparently[ I’m not alone](https://en.wikipedia.org/wiki/Situationist_International#Criticism): “Critics of the Situationists frequently assert that their ideas are not in fact complex and difficult to understand, but are at best simple ideas expressed in deliberately difficult language, and at worst actually nonsensical.”
 
- **8:** Final Uruk reference, this time from [his piece](https://samzdat.com/2017/06/28/without-belief-in-a-god-but-never-without-belief-in-a-devil/) on Hoffer: “Mass movements are not the result of calculated thought, nor of a genuine interest in the ideology, but of _frustration_ … Frustration is, ultimately, about the inability to achieve a personal goal or a group goal…A corollary of this is that mass movements are less about _achieving_ anything meaningful than about fostering frustration. A ‘good’ movement – not as in ‘taking power’ (which plenty do), but as in completing goals, bettering the life of its adherents, making them more active, making them powerful – will leave them less frustrated. The movement will then disband – can’t have one without a frustrated mass.” 
+**8:** Final Uruk reference, this time from [his piece](https://samzdat.com/2017/06/28/without-belief-in-a-god-but-never-without-belief-in-a-devil/) on Hoffer: “Mass movements are not the result of calculated thought, nor of a genuine interest in the ideology, but of _frustration_ … Frustration is, ultimately, about the inability to achieve a personal goal or a group goal…A corollary of this is that mass movements are less about _achieving_ anything meaningful than about fostering frustration. A ‘good’ movement – not as in ‘taking power’ (which plenty do), but as in completing goals, bettering the life of its adherents, making them more active, making them powerful – will leave them less frustrated. The movement will then disband – can’t have one without a frustrated mass.” 
 
 **9:** Neil Gaiman has[ some thoughts](https://www.goodreads.com/quotes/477087-remember-when-people-tell-you-something-s-wrong-or-doesn-t-work) on the subject.
 
- **10:** Debord addresses Boorstin by name in The Society of the Spectacle, but I couldn’t fit it in. His critique in one sentence: Boorstin's views "...amount to blaming the spectacle on modern man's excessive inclination to be a spectator."
+**10:** Debord addresses Boorstin by name in The Society of the Spectacle, but I couldn’t fit it in. His critique in one sentence: Boorstin's views "...amount to blaming the spectacle on modern man's excessive inclination to be a spectator."
 
- **11:** _The Handbook Of 5GW_ is a truly terrible, poorly formatted, endlessly repetitive collection of essays. Nevertheless, it has some gold among the dross:
+**11:** _The Handbook Of 5GW_ is a truly terrible, poorly formatted, endlessly repetitive collection of essays. Nevertheless, it has some gold among the dross:
 
 > "The problem with using a narrower definition of war is that the enemy may fight you with a form of war that you not only can’t see, but, even worse, don’t even believe in. If the enemy uses a broader definition of war than you, any attack on that portion of the spectrum where you are defenseless may inflict a decisive defeat. The worst part of such a defeat may be that: 
 > 
@@ -439,10 +442,10 @@ Me? I’ll be in[ the van](https://dailypopulous.com/2021-10-07-morning/birds-ar
 > 
 > A successful fifth-generation war would be one that an opponent never even realized he lost."
 
- **12:** Many experts consider the generational model of warfare outdated, preferring a gradient framework (sometimes referred to as xGW). Depending on your definitions, you can find examples of counterinsurgency and hybrid warfare throughout history, which invalidates the notion of successive generations of war. Instead, warfare exists on a spectrum, with Hobbesian total war at one end and fifth generation/gradient warfare at the other. 
+**12:** Many experts consider the generational model of warfare outdated, preferring a gradient framework (sometimes referred to as xGW). Depending on your definitions, you can find examples of counterinsurgency and hybrid warfare throughout history, which invalidates the notion of successive generations of war. Instead, warfare exists on a spectrum, with Hobbesian total war at one end and fifth generation/gradient warfare at the other. 
 
 **13:** Both quotes from _The Handbook Of 5GW_.
 
- **14:** Shut up, I _like_ mixing metaphors.
+**14:** Shut up, I _like_ mixing metaphors.
 
- **15:** From the link: “The failure mode is that ‘Strong Opinions, Weakly Held’ turns into ‘Strong Opinions, Justified Loudly, Until Evidence Indicates Otherwise, At Which Point You Invoke It To Protect Your Ass.’”
+**15:** From the link: “The failure mode is that ‘Strong Opinions, Weakly Held’ turns into ‘Strong Opinions, Justified Loudly, Until Evidence Indicates Otherwise, At Which Point You Invoke It To Protect Your Ass.’”

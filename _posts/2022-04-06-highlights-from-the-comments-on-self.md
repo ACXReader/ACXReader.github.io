@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Self-Determination"
 subtitle: "..."
 date: 2022-04-06
 likes: 42
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/51617215/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/de599500-6916-4ef5-83ae-f77d6cf37c4b_635x349.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-self
 ---
 **1:**[Rosemary](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5788664) (writes [Parallel Republic](https://parallelrepublic.substack.com/)) says:
@@ -19,7 +22,7 @@ original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-s
 
 I don’t like this philosophically, but I have to admit that in the real world it’s the only way any of this is ever going to work.
 
- **2:**[Chipsie](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5788689):
+**2:**[Chipsie](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5788689):
 
 > Self-Determination is a sort of weird right, because it is inherently a right afforded to groups of people, but not individuals (unless you are an extremely principled libertarian). I think granting rights to groups that are independent of the rights of the constituent individuals makes very little sense. Groups don't have subjective experiences besides the subjective experiences of the individuals, and they can't decide to exercise their rights in the same way that individuals can because they can't want things or make decisions.
 > 
@@ -33,7 +36,7 @@ Is there any reason not to go with the greatest good for the greatest number her
 
 This seems a lot like the original Confederacy problem, in that it takes the usual world-policeman moral dilemma of “should good countries conquer bad countries to prevent them from being bad?” and twists it into the “should good countries prevent bad countries from gaining independence, to prevent them from being bad?” I’m not sure how to think about these questions.
 
- **3:** Evan Þ [writes](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5788721):
+**3:** Evan Þ [writes](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5788721):
 
 > My immediate response to "what about the Confederacy?" is to say that yes, the people of the South had the right to secede in 1861 if they wanted to - but they didn't.
 > 
@@ -47,7 +50,7 @@ A lot of people had this objection, which I don’t find very interesting. I don
 
 People seem to put a lot of effort into proving that some democratic process which returned a morally abhorrent result wasn’t _really_ democratic (eg Trump losing the popular vote, Hitler gaining power through a complicated process that wasn’t _just_ democracy). Often they’re right, but who cares? If you want to make the case that democracy _necessarily_ returns non-abhorrent results, I’d be very interested to hear that argument. Otherwise I think we should accept that possibility and try to plan around it when coming up with moral and political philosophies.
 
- **4:**[jumpingjacksplash](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5812427) writes:
+**4:**[jumpingjacksplash](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5812427) writes:
 
 > That’s nothing on the conclusions being consistent on this leads you to. Consider the following:
 > 
@@ -71,19 +74,19 @@ I’m mostly willing to bite these bullets. The one that bothers me the most is 
 
 I’m _definitely_ willing to bite US cities seceding as tourist gimmicks - see eg [the Conch Republic](https://en.wikipedia.org/wiki/Conch_Republic).
 
- **5:**[Robert Benkeser](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5788766) (writes [Humble Pie](https://robertbenkeser.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) says:
+**5:**[Robert Benkeser](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5788766) (writes [Humble Pie](https://robertbenkeser.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) says:
 
 > Every oblast in Ukraine, including Crimea, voted for independence. Support ranged from over 95 percent in western Ukraine and the Kiev region to 54 percent in Crimea, where ethnic Russians form a substantial majority of the population.
 
 Based on sources like [this](https://www.quora.com/Does-Crimea-want-to-become-part-of-Russia), I think the most likely scenario is that the Crimeans voted yes by a hair in ‘91, then became less excited as time went on. It might also be relevant that the ‘91 vote was about the Soviet Union, vs. later votes where the alternative was Russia.
 
- **6:**[Jacob](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5788815) (writes [Streams of Consciousness](https://streamsofconsciousness.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) says:
+**6:**[Jacob](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5788815) (writes [Streams of Consciousness](https://streamsofconsciousness.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) says:
 
 > Tokelau is a remote southern Pacific Ocean Island currently owned by New Zealand with a population of ~1500 and currently on the UN list of non-self-governing territories. The UN has pushed for referendums towards statehood, two of which have failed. In this case, it seems that by virtue of being an Island rather than just a small town off the interstate, Tokelau may deserve self determination. It's not clear what a 1500-member nation would look like.
 
 Yeah, being an island does seem like a pretty good replacement for being in a Civilization game, among the type of people who care about these things.
 
- **7:**[Mike G](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5789386) writes:
+**7:**[Mike G](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5789386) writes:
 
 > Good article but people make this stuff way to complicated. It's not about morality orethics but simply might makes right, and the victors get to write the history books. We didn't defeat the Nazis because the Nazis were bad and evil, we firebombed Dresden and killed them until they gave up. The answer to the question "Who gets self-determination?" is whoever can take it. If it can't be won peacefully, it must be won through force (see Clausewitz, Carl). Kill more of them then they kill you until they give up. This is the way it has always been and the way it always will be.
 
@@ -101,7 +104,7 @@ TGGP [asks](https://astralcodexten.substack.com/p/who-gets-self-determination/co
 
 Sort of? I think of it as something like - we have norms against murder. Those norms are real and important, but sometimes police (or, in some countries, organized crime) kill people and get away with it, because they’re powerful. We shouldn’t pretend the norms against murder are magic and work regardless of power relations. But we also shouldn’t dismiss them entirely and agree norms are meaningless and we’re in the state of nature. Instead we should be grateful that norms exist which constrain the little guys, be grateful that even powerful people at least have to think really hard before violating norms, and work to expand the norms so that even the powerful people follow them.
 
- **8:**[Obormot on DSL](https://www.datasecretslox.com/index.php/topic,6157.new.htm) says:
+**8:**[Obormot on DSL](https://www.datasecretslox.com/index.php/topic,6157.new.htm) says:
 
 > I would prefer that you read all of Unqualified Reservations, but that might be a bit much to ask, realistically. So why not start with this piece: <https://www.unqualified-reservations.org/2008/05/ol5-shortest-way-to-world-peace/>. (It comes in the middle of a long sequence, true, but I think it’s readable enough on its own.)
 
@@ -109,7 +112,7 @@ The post argues…well, it argues a lot of things, but mostly that modern norms 
 
 This ties into a lot of other UR assumptions I can’t argue with in the depth they deserve here. A poor and unfair summary might be: I actually don’t want countries doing as much genocide and repression as they want, and I think historic attempts to pressure them not to do these things have often been successful (though it’s hard to count since we don’t record atrocities that _don’t_ happen). Rebels will absolutely rebel even in the absence of domestic and foreign aid, and have done so from the Zealots to the Taiping Rebellion through today. Moldbug’s claim that the pre-WWI system was good at preventing wars and atrocities is dubious given how many wars and atrocities there were before WWI (I would guess eg more conflict deaths per capita in the 19th century than the 21st, although I know this sort of thing is hard to quantify).
 
- **9:**[Joel Long](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5789632) writes:
+**9:**[Joel Long](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5789632) writes:
 
 > I think the question of historical investment has some relevance here. If Texas wants to secede, fine, but the USA has invested heavily in it over the years...what's the divorce bill? Similar issue with US independence regarding taxation and Britain's capital and military investments.
 > 
@@ -117,7 +120,7 @@ This ties into a lot of other UR assumptions I can’t argue with in the depth t
 > 
 > Of course, given that the ethics of multi-generational collective debt/guilt/obligation are difficult in general, I don't think this *simplifies* the discussion.
 
- **10:**[Peter Gerdes](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5789929) writes:
+**10:**[Peter Gerdes](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5789929) writes:
 
 > I feel the whole assumption there is some list of features that grant a group of people the right to self-determination is kind of a category mistake. Sometimes it will make the world better to let a group of people form a separate country sometimes it won't. The difference between Ukraine and the confederacy is as simple as: the world was better off not letting the confederacy self-determine and worse if Russia stops Ukraine from doing so. It even plausibly depends on who the occupier is and how they treat them (if the Basque region was in China not Spain no question it would be better to allow self-determination...as of now unclear to me as it imposes costs on both sides).
 
@@ -133,7 +136,7 @@ I feel the same way about [Alex Mennen’s comment](https://astralcodexten.subst
 > 
 > One possible answer to this is that different people have different opinions about what's best for the world, and can end up in conflict over it, but if they can all agree to follow certain consistent principles instead, this can avoid conflict. I agree this is an issue (and isn't even the only source of conflict here; some people will simply have more provincial concerns than what's best for the world), but using consistent principles doesn't actually solve this, because there will be conflict over which principles to use. If you think self-determination is generally good, and I think too much self-determination creates too much coordination-problem headaches to be worth it, then "any at-least-city-sized group of people who want independence gets it" does not work as a compromise. I'd actually prefer just letting you choose every time, since then if there's some situation where letting some specific city declare independence ends up being obviously terrible, you might notice this and put a stop to it. Groups with conflicting interests can negotiate compromises without having clear abstract ethical principles behind their compromises, and that's okay. If the principles you come up with so that there doesn't need to be any conflict doesn't include anything like "... unless it's on this side of this arbitrary line, because we need to placate France", you're doing it wrong, and should probably stop trying to follow principles.
 
- **11:**[Name99](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5790375) writes:
+**11:**[Name99](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5790375) writes:
 
 > You missed one obvious aspect of the 'right' to "declare yourself to be independent", namely some version of fairness. Otherwise as soon as oil gets discovered, the oil-rich province decides it would rather secede than share the loot. This was, of course, a large part of the background in Biafra and the Second Sudanese Civil War, and versions of this seem (as far as I can tell) to be relevant to other places, from East Timor to various Myanmar would-be independence movements.
 > 
@@ -141,7 +144,7 @@ I feel the same way about [Alex Mennen’s comment](https://astralcodexten.subst
 
 I agree letting the people on top of the oil have it is weird, but it doesn't seem weirder than the fact that Qatar gets to be incredibly rich because it has oil and doesn't have to share it with eg Afghanistan.
 
- **12:**[ogogmad](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5791360) (writes [Ogogmad’s Newsletter](https://clunk.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) says:
+**12:**[ogogmad](https://astralcodexten.substack.com/p/who-gets-self-determination/comment/5791360) (writes [Ogogmad’s Newsletter](https://clunk.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) says:
 
 > I don't think anywhere you've mentioned what I thought the real "rule" was, in international law:
 > 

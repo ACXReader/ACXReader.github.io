@@ -3,9 +3,12 @@ title: "Your Book Review: The Righteous Mind"
 subtitle: "Finalist #10 in the Book Review Contest"
 date: 2022-07-15
 likes: 125
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/64253212/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c8606c9d-bb36-4028-873a-1ed4d719e84e_1010x674.png
 original-url: https://www.astralcodexten.com/p/your-book-review-the-righteous-mind
 ---
-[ _This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_ ]
+[_This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_]
 
 ## Introduction
 
@@ -90,7 +93,7 @@ This was never stated outright, certainly not in the helpful summary sections, b
 
 I was starting to feel like this might be a very difficult thing to explain, that I might have to quote extensive parts of the book to make the point that I felt he was implying some much more expansive bailey than his nicely confined and well-justified motte statements in the summaries. I thought I’d have to then make some sort of appeal that it was consistently implied by his tone, and by what he disagreed with or expressed frustration with, rather than being explicitly stated. I thought it was going to be a drag. But, then, late on in the book, Haidt produced a single paragraph that encapsulated the issue so perfectly, that it can stand for the whole thing:
 
->  _I find it ironic that liberals generally embrace Darwin and reject “intelligent design” as the explanation for design and adaptation in the natural world, but they don’t embrace Adam Smith as the explanation for design and adaptation in the economic world. They sometimes prefer the “intelligent design” of socialist economies, which often ends in disaster from a utilitarian point of view._
+> _I find it ironic that liberals generally embrace Darwin and reject “intelligent design” as the explanation for design and adaptation in the natural world, but they don’t embrace Adam Smith as the explanation for design and adaptation in the economic world. They sometimes prefer the “intelligent design” of socialist economies, which often ends in disaster from a utilitarian point of view._
 
 Darwin and Ken Ham aren’t making competing claims about whether evolution by natural selection is a morally upstanding or desirable way for species to have arisen, they’re arguing (not directly but you get the point) about whether it actually happened that way. Conversely, a modern socialist in the US is not “embracing intelligent design” in the sense of claiming the current US economy must have been intelligently designed based on some study of its history or current state, but arguing that it would be better if it were so – that a planned economy is morally desirable (and a libertarian is arguing that a free market is more desirable, not that they currently live in a free market).
 

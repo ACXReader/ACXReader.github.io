@@ -3,11 +3,14 @@ title: "Your Book Review: The Outlier"
 subtitle: "Finalist #9 in the Book Review Contest"
 date: 2022-07-08
 likes: 147
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/63203109/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F430675e6-6678-4617-b7e7-844321d20035_930x1280.png
 original-url: https://www.astralcodexten.com/p/your-book-review-the-outlier
 ---
-[ _This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_ ]
+[_This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_]
 
- **I.**
+**I.**
 
 I decided to read a 600-page book about Jimmy Carter because I was tired of only reading about the historical figures everyone already agrees are interesting.
 
@@ -47,7 +50,7 @@ Although his lead shrinks consistently up through election day, Carter nonethele
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f4195ba-e01a-4fc5-8eee-9a93c7d976f0_1600x930.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f4195ba-e01a-4fc5-8eee-9a93c7d976f0_1600x930.png)The electoral map of the 1976 campaign. The Democratic coalition was pretty different back then!
 
- **III.**
+**III.**
 
 You’re Jimmy Carter, and just 23 years ago you were an unemployed Navy dropout. Now, you’re the most powerful man in the world. What do you do next?
 
@@ -93,7 +96,7 @@ Although this analysis is about as sophisticated as the kind of thing a precocio
 
 To the astonishment of every single person other than Jimmy Carter, the speech actually goes over well—at first. Carter’s approval rating shoots up 11% overnight. But the good feelings don’t last. Within a few months, the polls are back to their previous lows, and the general feeling among the public is that Carter has been trying to blame the American people for his own failings. Today, the address commonly known as the “malaise speech” (though he never actually uses that word) is widely considered a political blunder of epic proportions.
 
- **IV.**
+**IV.**
 
 Nothing pairs better with an economic crisis than a foreign policy crisis. Luckily, fate has one at the ready. As usual for the 70’s, it starts in the Middle East.
 
@@ -103,7 +106,7 @@ Shortly after his escape from Iran to exile in Egypt, the Shah is diagnosed with
 
 Carter has no good options for freeing the hostages. A military operation would endanger their lives, but he can’t negotiate for their release without seeming like he’s cowing to terrorists. He waits the situation out for almost a year, until he finally decides to give the go-ahead to a risky helicopter rescue attempt that the military has come up with. But the mission is a complete calamity—it’s like the Mr. Bean version of a military operation. A series of mechanical errors followed by a fatal crash during what should be a routine refueling stop kills multiple service members, and they never even make it into Iranian airspace. The remaining participants return home in abject failure, where the public perception of Carter is only slipping further.
 
- **V.**
+**V.**
 
 Luckily, the President has an ace up his sleeve: the steadfast support of the last surviving member of the closest thing America has to a Royal Family, the beloved and inspiring liberal icon Senator Ted Kennedy.
 
@@ -123,7 +126,7 @@ In the end, Reagan wins in a 49-state landslide, the largest ever electoral win 
 
 On his way out, Carter gives a gloomy farewell address in which he warns against the risk of nuclear war in apocalyptic terms. The survivors—“if there are any,” he says—“would live in despair amid the poisoned ruins of a civilization that had committed suicide.” Hearing the speech, his wife says, “This kind of thing is why you lost.”
 
- **VI.**
+**VI.**
 
 I think you can draw two, somewhat contradictory lessons from the story of Carter’s presidency.
 
@@ -143,7 +146,7 @@ In the author’s defense, some of this may be because he has chosen an impossib
 
 Nonetheless, the slipperiness of its protagonist ultimately left me unsatisfied with this book. In the end, _The Outlier_ is a lot like the Carter presidency itself: easy to like and in certain ways admirable, but ultimately a missed opportunity.
 
- **Footnotes:**
+**Footnotes:**
 
 1: **** During the convention, Chicago cops indiscriminately attacked not just anti-war protestors but also journalists, photographers, and even innocent bystanders, to the horror of those watching on TV.
 
@@ -151,8 +154,8 @@ Nonetheless, the slipperiness of its protagonist ultimately left me unsatisfied 
 
 3: This is, of course, a grossly oversimplified summary of the actual deal; if you want more, [Wikipedia has a good overview](https://en.wikipedia.org/wiki/Camp_David_Accords)
 
-4: **** It’s never been definitely proven that Kennedy was drunk at the time, but it seems pretty safe to assume he was given that he was leaving a party where he was seen drinking—and because it’s extremely uncommon for sober people to drive off bridges.
+4:**** It’s never been definitely proven that Kennedy was drunk at the time, but it seems pretty safe to assume he was given that he was leaving a party where he was seen drinking—and because it’s extremely uncommon for sober people to drive off bridges.
 
-5: **** It also wouldn’t be unprecedented, as we now know for sure that the Nixon campaign [similarly conspired](https://www.politico.com/magazine/story/2017/08/06/nixon-vietnam-candidate-conspired-with-foreign-power-win-election-215461/) to mess up LBJ’s Vietnam peace talks.
+5:**** It also wouldn’t be unprecedented, as we now know for sure that the Nixon campaign [similarly conspired](https://www.politico.com/magazine/story/2017/08/06/nixon-vietnam-candidate-conspired-with-foreign-power-win-election-215461/) to mess up LBJ’s Vietnam peace talks.
 
 6: 20 years later, when someone steals George W. Bush’s debate prep materials and passes them to Al Gore, the Gore campaign immediately alerts the FBI.

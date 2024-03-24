@@ -2,6 +2,9 @@
 title: "[LINK] Unifying Predictive Coding With Backpropagation"
 date: 2021-04-14
 likes: 46
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/35138549/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/45478ba7-4e2e-4a8e-97d6-2bba593704db_1053x632.png
 original-url: https://www.astralcodexten.com/p/link-unifying-predictive-coding-with
 ---
 _[epistemic status: I know a little about the predictive coding side of this, but almost nothing about backpropagation or the math behind the unification. I am posting this mostly as a link to people who know more.]_

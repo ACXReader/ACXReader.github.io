@@ -3,6 +3,9 @@ title: "WebMD, And The Tragedy Of Legible Expertise"
 subtitle: "What does running a medical database teach you about why everything sucks?"
 date: 2021-02-05
 likes: 315
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32242316/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c164b79f-835d-4010-a364-91591a857eaf_417x436.png
 original-url: https://www.astralcodexten.com/p/webmd-and-the-tragedy-of-legible
 ---
 **I.**
@@ -11,13 +14,13 @@ I started a small database of psychiatry information. It's going well. I'm grate
 
 Here are some of the kinds of emails I get:
 
- **"You listed three major side effects of this drug, but I got a side effect that isn't on your list. Maybe you should add it in."** All drugs have an infinite number of possible side effects. One in a zillion people who use Naproxen ("Aleve") becomes red-green colorblind. Capecitabine ("Xeloda") can sometimes make you lose your fingerprints, which sucks if your computer has biometric security. If listed all side effects of anything, we would be here all day. Still, I get nervous when I get emails like this. What if an interior designer takes Aleve, loses their color vision, and it's my fault for not warning them?
+**"You listed three major side effects of this drug, but I got a side effect that isn't on your list. Maybe you should add it in."** All drugs have an infinite number of possible side effects. One in a zillion people who use Naproxen ("Aleve") becomes red-green colorblind. Capecitabine ("Xeloda") can sometimes make you lose your fingerprints, which sucks if your computer has biometric security. If listed all side effects of anything, we would be here all day. Still, I get nervous when I get emails like this. What if an interior designer takes Aleve, loses their color vision, and it's my fault for not warning them?
 
- **"You said Drug A is better for most people than Drug B. But I tried Drug A and it was terrible, then I tried Drug B and it cured everything. I think you need to make it clearer that Drug B can be better than Drug A sometimes."** Investing in index funds is usually better than investing in lottery tickets, but one guy will get a winning lottery ticket on the day the stock market crashes and have the opposite result; it's still valuable to warn investors that one thing is better than another. On the other hand, The Last Psychiatrist blames overly facile Drug A/Drug B comparisons for [killing David Foster Wallace](https://thelastpsychiatrist.com/2009/04/how_dangerous_is_academic_psyc_1.html). Do I want to kill David Foster Wallace? Sometimes, when I think about all the loose ends in _Infinite Jest_ \- but most of the time no.
+**"You said Drug A is better for most people than Drug B. But I tried Drug A and it was terrible, then I tried Drug B and it cured everything. I think you need to make it clearer that Drug B can be better than Drug A sometimes."** Investing in index funds is usually better than investing in lottery tickets, but one guy will get a winning lottery ticket on the day the stock market crashes and have the opposite result; it's still valuable to warn investors that one thing is better than another. On the other hand, The Last Psychiatrist blames overly facile Drug A/Drug B comparisons for [killing David Foster Wallace](https://thelastpsychiatrist.com/2009/04/how_dangerous_is_academic_psyc_1.html). Do I want to kill David Foster Wallace? Sometimes, when I think about all the loose ends in _Infinite Jest_ \- but most of the time no.
 
- **"You said this drug is occasionally mildly addictive but the risk/benefit calculation is worth it for most people. But my cousin's friend took it and became really addicted and it ruined his life. Maybe you should warn readers about it more emphatically."** The particular example I'm thinking of is something exotic, but something like Adderall could equally well be in this category. Still, I get nervous whenever I get emails like this. What if I do ruin somebody's life? Maybe I should just change the wording to "this drug has some benefits but is often addictive, be careful with it"?
+**"You said this drug is occasionally mildly addictive but the risk/benefit calculation is worth it for most people. But my cousin's friend took it and became really addicted and it ruined his life. Maybe you should warn readers about it more emphatically."** The particular example I'm thinking of is something exotic, but something like Adderall could equally well be in this category. Still, I get nervous whenever I get emails like this. What if I do ruin somebody's life? Maybe I should just change the wording to "this drug has some benefits but is often addictive, be careful with it"?
 
- **"You listed some funny facts about this disorder, but this disorder is really serious and killed my grandmother".** I have a lot of trouble being serious, and this has served me well in getting people to read and enjoy things I write. But almost everything in medicine has killed at least one person's grandmother. Obviously you should be sensitive, but can you never mention any of the weird and hilarious things that go on in psychiatry?
+**"You listed some funny facts about this disorder, but this disorder is really serious and killed my grandmother".** I have a lot of trouble being serious, and this has served me well in getting people to read and enjoy things I write. But almost everything in medicine has killed at least one person's grandmother. Obviously you should be sensitive, but can you never mention any of the weird and hilarious things that go on in psychiatry?
 
 In some sense I do appreciate all of this feedback; even when I don't take it, it helps compensate for my own biases. Still, there's a thin line between a compliment from an architecture connosseiur and a threat from a mafioso: "Nice house you have there, shame if something were to happen to it". In the same way, there's a thin line between helpful suggestions related to medicine and veiled threats of lawsuits, cancellation, and the like. 
 
@@ -41,7 +44,7 @@ I think the same concern motivates WebMD diagnosing everything as cancer. If the
 
 [![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f836147-a1f2-4ae1-8b87-18b603aa290b_680x372.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f836147-a1f2-4ae1-8b87-18b603aa290b_680x372.png)
 
- _([source](https://twitter.com/chaosprime/status/1356268346778509312))_
+_([source](https://twitter.com/chaosprime/status/1356268346778509312))_
 
 Right now I think my database is better and more useful than WebMD. This isn't because I'm smarter or more of an expert than whoever WebMD employs. It's because I'm small enough to have a sort of security by obscurity.
 
@@ -57,7 +60,7 @@ The essence of [Moloch ](https://slatestarcodex.com/2014/07/30/meditations-on-mo
 
 WebMD is too big, too legitimate, and too canonical to be good.
 
- **II.**
+**II.**
 
 Dr. Anthony Fauci is the WebMD of people.
 
@@ -87,7 +90,7 @@ Expertise isn't a sham. The Director of the CDC could generate opinions as accur
 
 Joe Biden can't appoint Zvi as CDC Director, at least not usefully. If Biden appointed Zvi as Director one of three things would happen. One, Zvi would learn to play politics as adroitly as the current Director, and lose his advantage over her. Two, Zvi would offend enough people that they would pressure Biden to fire him. Or three, Zvi would offend people, Biden would offend people by not firing Zvi, and eventually Biden would fall beneath some necessary threshold of support and not be able to be an effective President. I'm not saying that just appointing Zvi would inevitably get Biden impeached. I'm saying Biden has a certain amount of slack, given how many people he needs to keep happy in order to govern effectively, and appointing Zvi as CDC Director would use up so much of that slack that he couldn't do other equally useful things later without becoming ineffective and likely to lose reelection.
 
- **III.**
+**III.**
 
 The first reason I'm talking about this now is to respond to a point that came up in my discussions with Glen Weyl on technocracy.
 
@@ -119,7 +122,7 @@ Dr. Fauci (and WebMD) are legibly good (or at least legibly okay). They sit on a
   
 This interferes with his COVID predicting ability, but in the current system there’s no alternative. You can't trivially put Zvi on that throne, any more than you could trivially make Zvi benevolent dictator of the world (another job I think he would be good at). One of the big differences between good and bad systems of government is how much they rely on corruption vs. meritocracy in putting people on those thrones, and our system of government is only mediocre. As the saying goes, "there are no First World countries".
 
- **V.**
+**V.**
 
 The third reason I'm writing this is to explain a sort of missing mood.
 

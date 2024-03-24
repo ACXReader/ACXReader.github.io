@@ -3,6 +3,9 @@ title: "Why Is It Hard To Acknowledge Preferences?"
 subtitle: "..."
 date: 2021-05-05
 likes: 176
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36085289/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5b7d0396-398c-4640-8a12-c6a7bb6ec3bc_3500x2625.jpeg
 original-url: https://www.astralcodexten.com/p/why-is-it-hard-to-acknowledge-preferences
 ---
 I recently stayed at a B&B owned by a nice elderly couple. Very, very nice. The moment I stepped in the door, they asked how my flight was, where I was from, what I did, how I'd enjoyed my three minutes of visiting their city so far, what kind of food I liked, what my favorite color was, et cetera. I played along - no point in offending people - but I warned that my friend, who would be arriving a little later, was much more introverted, and would appreciate being efficiently directed to her room without the welcome committee.

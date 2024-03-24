@@ -3,6 +3,9 @@ title: "Why Is The Central Valley So Bad?"
 subtitle: "..."
 date: 2022-09-21
 likes: 176
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/73111127/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c613382-ec3d-421a-b13b-5fee75594959_1280x720.jpeg
 original-url: https://www.astralcodexten.com/p/why-is-the-central-valley-so-bad
 ---
 **I.**
@@ -21,7 +24,7 @@ But I didn’t realize how bad it was until reading [this piece on the San Joaqu
 
 This was kind of shocking. I always think of Mississippi as bad because of a history of racial violence, racial segregation, and getting burned down during the Civil War. But the Central Valley has none of those things, plus it has extremely fertile farmland, plus it’s in one of the richest states of the country and should at least get good subsidies and infrastructure. How did it get so bad?
 
- **II.**
+**II.**
 
 First of all, is this claim true?
 
@@ -33,11 +36,11 @@ Of large Central Valley cities, Sacramento has a median income of $33,565 (but i
 
 Still, it seems fair to say that the Central Valley is at least somewhat in the same league as Mississippi, even though exactly who outscores whom is inconsistent.
 
- **III.**
+**III.**
 
 What do the people who live in the Valley think went wrong?
 
- _[What The Hell Is Wrong With California’s Central Valley](https://youtu.be/zhTi0g9Nn-8)?, _starting around 9:30, interviews a local conservative realtor (most people in the Valley are conservative; I haven’t found a liberal equivalent).
+_[What The Hell Is Wrong With California’s Central Valley](https://youtu.be/zhTi0g9Nn-8)?, _starting around 9:30, interviews a local conservative realtor (most people in the Valley are conservative; I haven’t found a liberal equivalent).
 
 He says that the farms in the Central Valley used to be manned by migrant workers, who would come from Mexico, work for a season, then go back to Mexico and live off their earnings for the rest of the year. Later, policies shifted to welcoming them and granting them citizenship, so many of them came over and brought their families. But around the same time there was a drought, the farm industry crashed, the remaining farms mechanized, all the immigrants were left without work, they got on welfare, and they weren’t able to get off of it.
 
@@ -97,7 +100,7 @@ But by 2012, things were clearly very bad - here’s an article about how [Censu
 
 This sounds like things were already pretty bad in 2012, maybe bad enough that they must have been getting worse for longer than 10 or 15 years, I don’t know.
 
- **IV.**
+**IV.**
 
 What do the data say?
 
@@ -137,7 +140,7 @@ Factors of productivity in agriculture:
 
 [![Since 1948, labor and land inputs have fallen in U.S. agriculture while use of intermediate goods has risen](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36965205-4cb9-4f93-b855-91cc6b9047b5_450x397.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36965205-4cb9-4f93-b855-91cc6b9047b5_450x397.png)
 
- **V.**
+**V.**
 
 So why is the Central Valley so bad?
 
@@ -149,7 +152,7 @@ According to [Carolina Demography](https://www.ncdemography.org/2020/04/16/count
 
 > There are about 3 million farmworkers in the United States: about two million are family farmworkers and another one million are hired farmworkers…nationally, about three-fourths of hired farmworkers are foreign-born; most (69%) were born in Mexico; 6% were born in Central America; and 1% were born in another country.
 
-Given that these are mostly Mexican immigrants, we’re probably not talking about people who are hired to grow corn in Kansas. I think plausibly the majority of US hired farmworkers live in California’s Central Valley. This makes it a sort of plantation agriculture system, which naturally tends towards landowners taking all the gains and workers ending up as an underclass. In the mid-20th century, the local plantation underclass was made of [Okies](https://en.wikipedia.org/wiki/Okie) (cf. _The Grapes of Wrath_ ). In the later 20th century, many immigrants moved in, lowering wages. Although immigrants don’t usually lower wages, this is because there are usually lots of industries for people to branch out into, but the Central Valley only has agriculture. Also, agribusinesses were becoming better at mechanizing their operations. Although technology doesn’t usually lower wages, again, this requires lots of diverse industries, and the Central Valley only had agriculture. All of this corresponds to the 1975-1985 period on the graphs where wages were going down. 
+Given that these are mostly Mexican immigrants, we’re probably not talking about people who are hired to grow corn in Kansas. I think plausibly the majority of US hired farmworkers live in California’s Central Valley. This makes it a sort of plantation agriculture system, which naturally tends towards landowners taking all the gains and workers ending up as an underclass. In the mid-20th century, the local plantation underclass was made of [Okies](https://en.wikipedia.org/wiki/Okie) (cf. _The Grapes of Wrath_). In the later 20th century, many immigrants moved in, lowering wages. Although immigrants don’t usually lower wages, this is because there are usually lots of industries for people to branch out into, but the Central Valley only has agriculture. Also, agribusinesses were becoming better at mechanizing their operations. Although technology doesn’t usually lower wages, again, this requires lots of diverse industries, and the Central Valley only had agriculture. All of this corresponds to the 1975-1985 period on the graphs where wages were going down. 
 
 But it sounded from some of the testimonials above like the Central Valley didn’t become truly miserable until the late 90s. I’m not sure why this is. It could be the immigrants switching from being migrant laborers to raising families, and those families were impacted by poverty and inequality in a way the original migrants weren’t. It could be worsening drug problems as new drugs get invented and go down in price. 
 

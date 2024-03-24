@@ -3,6 +3,9 @@ title: "Book Review: The Cult Of Smart"
 subtitle: "Summary and commentary on The Cult Of Smart by Fredrik DeBoer"
 date: 2021-02-18
 likes: 382
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32657034/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/db037b76-eccd-41b0-a4a6-83e83dbe51a4_408x443.png
 original-url: https://www.astralcodexten.com/p/book-review-the-cult-of-smart
 ---
 Oscar Wilde supposedly said George Bernard Shaw "has no enemies, but is intensely disliked by his friends". Socialist blogger Freddie DeBoer is the opposite: few allies, but deeply respected by his enemies. I disagree with him about everything, so naturally I am a big fan of his work - which meant I was happy to read his latest book, _[The Cult Of Smart](https://www.amazon.com/Seed-Soil-Confronting-Differences-Educational/dp/1250200377/ref=sr_1_1?dchild=1&keywords=cult+of+smart&qid=1613608925&sr=8-1)_.
@@ -31,13 +34,13 @@ So maybe equality of opportunity is a stupid goal. DeBoer argues for equality of
 
 (the astute among you will notice this last one is more of a wish than a policy - don't blame me, I'm just the reviewer).
 
- **II.**
+**II.**
 
 I'm Freddie's ideological enemy, which means I have to respect him. And there's a lot to like about this book. I think its two major theses - that intelligence is mostly innate, and that this is incompatible with equating it to human value - are true, important, and poorly appreciated by the general population. I tried to make a somewhat similar argument in my [Parable Of The Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/), which DeBoer graciously quotes in his introduction. Some of the book's peripheral theses - that a lot of education science is based on fraud, that US schools are not declining in quality, etc - are also true, fascinating, and worth spreading. Overall, I think this book does more good than harm.
 
 It's also rambling, self-contradictory in places, and contains a lot of arguments I think are misguided or bizarre.
 
- _The Part About Meritocracy_
+_The Part About Meritocracy_
 
 I've complained about this before, but I can't review this book without returning to it: deBoer's view of meritocracy is bizarre. The overall picture one gets is of Society telling a new college graduate "I see you got all A's in Harvard, which means you have proven yourself a good person. To reward you for your virtue, I grant you the coveted high-paying job of Surgeon." Think I'm exaggerating? He writes (not in this book, from a different article):
 
@@ -49,7 +52,7 @@ The above does away with any notions of "desert", but I worry it's still accepti
 
 This not only does away with "desert", but also with reified Society deciding who should prosper. More meritorious surgeons get richer not because "Society" has selected them to get rich as a reward for virtue, but because individuals pursuing their incentives prefer, all else equal, not to die of botched surgeries. Meritocracy isn't an -ocracy like democracy or autocracy, where people in wigs sit down to frame a constitution and decide how things should work. It's a dubious abstraction over the fact that people prefer to have jobs done well rather than poorly, and use their financial and social clout to make this happen.
 
- _The Part About Reform Not Working_
+_The Part About Reform Not Working_
 
 The book sort of equivocates a little between "education cannot be improved" and "you can't improve education an infinite amount".
 
@@ -75,7 +78,7 @@ These are good points, and I would accept them from anyone other than DeBoer, wh
 
 I also have a more fundamental piece of criticism: even if charter schools' test scores were exactly the same as public schools', I think they would be more morally acceptable. I'll talk more about this at the end of the post.
 
- _The Part About Race_
+_The Part About Race_
 
 DeBoer spends several impassioned sections explaining how opposed he is to scientific racism, and arguing that the belief that individual-level IQ differences are partly genetic doesn't imply a belief that group-level IQ differences are partly genetic. Some reviewers of this book are still suspicious, wondering if he might be hiding his real position. I can assure you he is not. Seriously, he talks about how much he hates belief in genetic group-level IQ differences about thirty times per page. Also, sometimes when I write posts about race, he sends me angry emails ranting about how much he hates that some people believe in genetic group-level IQ differences - totally private emails nobody else will ever see. I have no reason to doubt that his hatred of this is as deep as he claims.
 
@@ -101,7 +104,7 @@ Normally I would cut DeBoer some slack and assume this was some kind of Straussi
 
 (Feel free to talk about the rest of the review, or about what DeBoer is doing here, but I will ban anyone who uses the comment section here to explicitly discuss the object-level question of race and IQ.)
 
- _The Part About Social Mobility Not Mattering Because It Doesn't Produce Equality_
+_The Part About Social Mobility Not Mattering Because It Doesn't Produce Equality_
 
 DeBoer is skeptical of the idea of education as a "leveller". Instead, he thinks it just produces another hierarchy - maybe one based on intelligence rather than whatever else, but a hierarchy nonetheless. He scoffs at a goal of "social mobility", pointing out that rearranging the hierarchy doesn't make it any less hierarchical:
 
@@ -119,7 +122,7 @@ Second, social mobility does indirectly increase equality. Spreading success acr
 
 Third, some kind of non-consequentialist aesthetic ground that's hard to explain. Even ignoring the effect on social sorting and the effect on equality, the idea that someone's not allowed to go to college or whatever because they're the wrong caste or race or whatever just makes me really angry. It is weird for a liberal/libertarian to have to insist to a socialist that equality can sometimes be an end in itself, but I am prepared to insist on this. Even if it doesn't help a single person get any richer, I feel like it's a terminal good that people have the opportunity to use their full potential, beyond my ability to explain exactly why.
 
- _The Part About There Being A Cult Of Smart_
+_The Part About There Being A Cult Of Smart_
 
 "Smart" equivocates over two concepts - high-IQ and successful-at-formal-education. These concepts are related; in general, high-IQ people get better grades, graduate from better colleges, etc. But they're not _exactly_ the same.
 
@@ -131,9 +134,9 @@ These are two sides of the same phenomenon. Some people are smarter than others 
 
 Still, I worry that the title - _The Cult Of Smart_ \- might lead people to think there is a cult surrounding intelligence, when exactly the opposite is true. But I guess _The Cult Of Successful At Formal Education_ sounds less snappy, so whatever.
 
- **III.**
+**III.**
 
- _The Cult Of Smart_ invites comparisons with Bryan Caplan's _The Case Against Education_. Both use largely the same studies to argue that education doesn't do as much as we thought. Caplan very reasonably thinks maybe that means we should have less education. DeBoer...definitely doesn't think that:
+_The Cult Of Smart_ invites comparisons with Bryan Caplan's _The Case Against Education_. Both use largely the same studies to argue that education doesn't do as much as we thought. Caplan very reasonably thinks maybe that means we should have less education. DeBoer...definitely doesn't think that:
 
 > As a socialist, my interest lies in expanding the degree to which the community takes responsibility each all of its members, in deepening our societal commitment to ensuring the wellbeing of everyone. One of the most profound and important ways that we've expanded the assumed responsibilities of society lies in our system of public education. Only 150 years ago, a child in the United States was not guaranteed to have access to publicly funded schooling. (Even 100 years ago it was not uncommon for a child to spend his days engaged in backbreaking physical labor.) When we as a society decided, in fits and starts and with all the usual bigotries of race and sex and class involved, to legally recognize a right for all children to an education, we fundamentally altered our culture's basic assumptions about what we owed every citizen. We did not make this profound change on the bais of altering test scores or with an eye on graduation rates or college participation. We did so out of the conviction that this suppot of children and their parents was a fundamental right no matter what the eventual outcomes might be for each student.
 > 

@@ -3,15 +3,18 @@ title: "Your Book Review: Man’s Search for Meaning"
 subtitle: "Finalist #4 in the Book Review Contest"
 date: 2023-06-10
 likes: 323
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/123311883/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/f7b0b8d2-5d60-4cc8-9c2c-b108b66d764b_650x340.webp
 original-url: https://www.astralcodexten.com/p/your-book-review-mans-search-for
 ---
-[ _This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_ ]
+[_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]
 
->  _ **Patient in Labor:** What do I do?_
+> _**Patient in Labor:** What do I do?_
 > 
->  _ **Obstetrician:** Nothing, dear, you're not qualified._
+> _**Obstetrician:** Nothing, dear, you're not qualified._
 > 
->  _— Monty Python's The Meaning of Life_
+> _— Monty Python's The Meaning of Life_
 
 ## Preface 
 
@@ -55,7 +58,7 @@ After the first stage comes the second, and in many cases the last one, the apat
 > 
 > [...]
 > 
-> I think it was Lessing who once said, “There are things which must cause you to lose your reason or you have none to lose.” **** An abnormal reaction to an abnormal situation is normal behavior.
+> I think it was Lessing who once said, “There are things which must cause you to lose your reason or you have none to lose.”**** An abnormal reaction to an abnormal situation is normal behavior.
 
 The apathetic stage was omnipresent in the camp, and Frankl clearly equates it with loss of the will to live. He attributes his own survival of this stage to two main anchors that occupied his mind and held him strongly tied to sanity and reality. One of them was love, and specifically constant thoughts of his wife, Tilly Grosser, who was taken to a women's camp nearby. These are probably the most poetic instances in this most pragmatic book — Frankl's recollections of the times he’s thinking about her. They are usually preceded by him discerning some sliver of beauty in the monotone camp life. He never saw his wife again. 
 
@@ -67,7 +70,7 @@ Going back to **Man’s Search for Meaning** , Frankl describes different aspect
 
 Maybe less peculiarly, there was humor in the camp.
 
-> To discover that there was any semblance of art in a concentration camp must be surprise enough for an outsider, but he may be even more astonished to hear that one could find a sense of humor as well; of course, only the faint trace of one, and then only for a few seconds or minutes. **** Humor was another of the soul’s weapons in the fight for self-preservation. It is well known that humor, more than anything else in the human make-up, can afford an aloofness and an ability to rise above any situation, even if only for a few seconds. 
+> To discover that there was any semblance of art in a concentration camp must be surprise enough for an outsider, but he may be even more astonished to hear that one could find a sense of humor as well; of course, only the faint trace of one, and then only for a few seconds or minutes.**** Humor was another of the soul’s weapons in the fight for self-preservation. It is well known that humor, more than anything else in the human make-up, can afford an aloofness and an ability to rise above any situation, even if only for a few seconds. 
 > 
 > [...]
 > 
@@ -241,7 +244,7 @@ You see, dear reader, I believe that this is where Frankl’s book comes into it
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe233dcb8-f8b8-4746-a3ba-886f65240c2a_225x300.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe233dcb8-f8b8-4746-a3ba-886f65240c2a_225x300.png)
 
-Dear reader, please imagine a young man in his twenties. His name is Kirill Smirnov. His family history is simple and sad. His grandfather was arrested and perished in a labor camp. His father was raised by his grandmother, a solitary and cold woman. After serving in the army, he married Kirill’s mom, started working in a factory and drinking copiously. __ He died at the age of 56, an old and frail man. Kirill’s mother is now 52, but she looks 65. She works as a teacher in a local school. She wholeheartedly supports the Russian government, no matter what it does. She hates her job and the children she teaches. Kirill went to this school for 11 years. After that he went to a vocational college under his mom’s insistence. 
+Dear reader, please imagine a young man in his twenties. His name is Kirill Smirnov. His family history is simple and sad. His grandfather was arrested and perished in a labor camp. His father was raised by his grandmother, a solitary and cold woman. After serving in the army, he married Kirill’s mom, started working in a factory and drinking copiously.__ He died at the age of 56, an old and frail man. Kirill’s mother is now 52, but she looks 65. She works as a teacher in a local school. She wholeheartedly supports the Russian government, no matter what it does. She hates her job and the children she teaches. Kirill went to this school for 11 years. After that he went to a vocational college under his mom’s insistence. 
 
 Kirill has no realistic prospects other than those of his father. He has no hobbies, no interests, no ambitions. He lives in a town of ~100,000 people. Two of his friends are heroin addicts; one of them is dying of AIDS contracted through the needle. They all hang around and drink, and discuss sports or politics, predominantly foreign, Ukraine or Europe or the US, mostly guided by rumors or rubbish websites or what they heard on TV. Kirill’s elder brother is about to return from prison, where he spent five years for assault with a deadly weapon, after a fight broke down at a party. This is another of Kirill’s realistic destinations in life. Kirill’s girlfriend is a few years younger and already had several abortions. She thinks Kirill is cool, but wishes he’d go to prison already to get extra street cred. Kirill could love her, if he knew what it means and if he ever got it from his parents. 
 

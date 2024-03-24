@@ -3,17 +3,20 @@ title: "Peer Review: Nightmares"
 subtitle: "..."
 date: 2022-06-16
 likes: 76
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/56582901/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/edc65f51-a398-4489-903f-51fe5b579772_3013x2442.jpeg
 original-url: https://www.astralcodexten.com/p/peer-review-nightmares
 ---
 _I'm trying to build up a database of mental health resources on my other website,[Lorien Psychiatry](https://lorienpsych.com/). Every time I post something, people here have made good comments, so I want to try using you all as peer review._
 
- _Please give me comments on typos, places where you disagree with my recommendations, extra things you think I should add, your personal stories about your own experiences, and comments on the overall organization and tone of the piece._
+_Please give me comments on typos, places where you disagree with my recommendations, extra things you think I should add, your personal stories about your own experiences, and comments on the overall organization and tone of the piece._
 
 * * *
 
- **Summary:** Nightmares happen when the process of dream generation is biased by ambient stress - or sometimes for other reasons. Anything that decreases stress, increases comfort while sleeping, and deepens sleep quality will also improve nightmares, including colder, darker rooms, less indigestion, and treating any comorbid psychiatric or medical conditions. If that doesn’t work, several kinds of therapy - including Image Rehearsal Therapy, Systematic Desensitization, and Lucid Dreaming - may be helpful. Prazosin is the standard anti-nightmare drug, and can be taken at doses from 1 - 12 mg, but watch out for side effects.
+**Summary:** Nightmares happen when the process of dream generation is biased by ambient stress - or sometimes for other reasons. Anything that decreases stress, increases comfort while sleeping, and deepens sleep quality will also improve nightmares, including colder, darker rooms, less indigestion, and treating any comorbid psychiatric or medical conditions. If that doesn’t work, several kinds of therapy - including Image Rehearsal Therapy, Systematic Desensitization, and Lucid Dreaming - may be helpful. Prazosin is the standard anti-nightmare drug, and can be taken at doses from 1 - 12 mg, but watch out for side effects.
 
- **1\. What causes nightmares?**
+**1\. What causes nightmares?**
 
 Nobody really knows why we dream. Modern neuroscience suggests that the brain processes data by creating predictive models, then double-checking them against reality. We experience the predictive models, not reality - although the double-checking process is so fast that they usually match well enough to be the same for all practical purposes. When we can’t double-check with reality - for example because we're asleep and not receiving sense-data - then the predictive models go out of control and become essentially random. This results in us having kind of random experiences.
 
@@ -21,7 +24,7 @@ Anxiety is a bias for the brain to interpret information in a threat-related man
 
 Other people have nightmares even when their overall mood is good and they have no history of trauma. I have no good explanation for this; it might be biological, or due to some kind of sleep problem.
 
- **2\. How can I reduce nightmares through lifestyle changes?**
+**2\. How can I reduce nightmares through lifestyle changes?**
 
 Dreams occur during REM sleep, a very light stage of sleep on the border of wakefulness. Although it's natural to have some REM sleep, anything that prevents deep sleep and pushes you towards more light sleep instead will give you more (and worse) dreams.
 
@@ -37,7 +40,7 @@ Sleep apnea is a condition where your airway closes while you’re sleeping, mak
 
 Finally, anything that makes you less stressed will reduce nightmares. If you're in a terrible job that you hate, quitting will reduce nightmares. If you're in a terrible relationship that you hate, breaking up will reduce nightmares. And so on to all the other categories of stressful things.
 
- **3\. What therapies and medications are good ways to reduce nightmares?**
+**3\. What therapies and medications are good ways to reduce nightmares?**
 
 Any therapy or medication that helps with anxiety or trauma will probably help with nightmares. That means typical anxiety medications (except that some of these, like SSRIs, can cause nightmares as a side effect in unlucky people) and typical trauma-focused therapies. I would recommend that anyone who thinks they’re suffering from trauma (eg PTSD) try a trauma-focused therapy like EMDR before trying to address nightmares directly, unless the nightmares are overwhelmingly worse than all their other trauma symptoms.
 
@@ -49,7 +52,7 @@ The numbers in the blue box are effect size, ie how good the treatment is. Highe
 
 We’ll look at a few of these further: **Desensitization** and **LDT** , the two highest-performing therapies. **IRT** , the best-studied therapy. And **prazosin** , the highest-performing medication.
 
- **3.1: What are therapies for nightmare disorder?**
+**3.1: What are therapies for nightmare disorder?**
 
 In **systematic desensitization therapy** , you and your therapist pick out scary elements of your nightmares. For example, if you always dream of being chased by wolves, that would be the element. Then the therapist asks you to imagine relatively weak, innocuous version of the scene while awake, and teaches you relaxation techniques you can use to defuse the emotional impact. Once the weak versions lose all emotional impact, you move on to stronger versions. Eventually, everything about being chased by wolves seems boring and absent of emotional valence to you, and your nightmares either go away on their own or lose their nightmarish quality.
 
@@ -59,15 +62,15 @@ In **image rehearsal therapy** , you and your therapist identify common nightmar
 
 In **lucid dreaming therapy** , you learn how to lucid dream - that is, how to “wake up” inside your dreams so that you’re fully conscious and in control. Once you’ve reached lucidity, you’re no longer afraid - _obviously_ if you have a recurring nightmare of being chased by wolves, and now you’re being chased by wolves, and you can’t remember going to a national park or anything, it must be a dream. You can then take control and turn the wolves into puppies or shift the scene to a day on the beach or do whatever else you want. This therapy is difficult - it takes a lot of practice to lucid dream - but lucid dreaming is a pretty interesting skill even aside from nightmare prevention, and it could be worth it.
 
- **3.1.1: How do I access these therapies?**
+**3.1.1: How do I access these therapies?**
 
 It’s pretty tough. Most therapists won’t be trained in these. Image Rehearsal Therapy is probably the most common, but still hard to find. If you search “‘image rehearsal therapy’ [YOUR AREA]” sometimes you’ll find somebody. Otherwise, ask any doctors or therapists you know and see if they know anybody.
 
 Can you do these on your own from a manual or course? I can’t find any officially-studied ones, but there are a few unofficial ones. Dr. Justin Havens has a sort of minimum viable [teach-yourself-Image-Rehearsal-Therapy video here](https://justinhavens.com/page/sleep-nightmares). And here’s [a paper aimed at clinicians](https://antoniozadra.com/sites/default/files/biblio/krakow_zadra.sleep_med_clinics.pdf) describing IRT in enough detail that somebody could probably do it on themselves if they understood.
 
-Stephen LaBerge’s _Exploring The World Of Lucid Dreaming_ ([Amazon link](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X/), [free copy with unclear legal status](https://archive.org/details/stephan_laberge_-_exploring_the_world_of_lucid_dreaming/mode/2up)) is a good introduction to lucid dreaming in general, but it’s long and detailed and a lot of work. I don’t know of anything simpler aimed at nightmares in particular. Some people will find lucid dreaming interesting enough that they’ll be willing to put in the many months of work it will take to make it work well; people looking for a specific fix for this specific problem will probably find other methods simpler.
+Stephen LaBerge’s _Exploring The World Of Lucid Dreaming_([Amazon link](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X/), [free copy with unclear legal status](https://archive.org/details/stephan_laberge_-_exploring_the_world_of_lucid_dreaming/mode/2up)) is a good introduction to lucid dreaming in general, but it’s long and detailed and a lot of work. I don’t know of anything simpler aimed at nightmares in particular. Some people will find lucid dreaming interesting enough that they’ll be willing to put in the many months of work it will take to make it work well; people looking for a specific fix for this specific problem will probably find other methods simpler.
 
- **3.2: What medications work for nightmares?**
+**3.2: What medications work for nightmares?**
 
 The standard of care is prazosin, an alpha-blocker. [Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3425466/) is a good review study.
 
@@ -79,12 +82,12 @@ There are various people who should be more careful with prazosin or not take it
 
 Clonidine is another drug that is very similar to prazosin. It probably also works for this indication, but it’s less tested and probably works about the same; I don’t think there’s any reason to prefer it unless someone has very specific prazosin intolerance.
 
- **3.2.1: Are there any supplements or natural products that will help with nightmares?**
+**3.2.1: Are there any supplements or natural products that will help with nightmares?**
 
 Any supplement that helps with anxiety or sleep - so [theanine](https://lorienpsych.com/2021/01/31/l-theanine/), silexan, magnesium, etc - may have some positive effect.
 
 Some studies show that very large doses of glycine (~3 grams) seem to directly [improve sleep quality](https://hvmn.com/blogs/blog/supplements-glycine-for-sleep-the-amino-acid-of-your-dreams#dreamland-glycine-and-rem-sleep), which should have positive effects on nightmares. You would probably have to get a lot of glycine powder and pour it in a smoothie to get this much nightly, but it might be worth a try.
 
- **4: Where can I learn more?**
+**4: Where can I learn more?**
 
 The [Best Practice Guide To The Treatment Of Nightmares In Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2919672/) is a good source. It will mostly repeat what I said here, but in more depth and with better explanations. It also discusses a few other potential treatments.

@@ -3,6 +3,9 @@ title: "My Bet: AI Size Solves Flubs"
 subtitle: "..."
 date: 2022-06-07
 likes: 120
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/58005711/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdffa03d8-7efd-47e2-b90d-1755cb1c1b1c_1024x1024.png
 original-url: https://www.astralcodexten.com/p/my-bet-ai-size-solves-flubs
 ---
 On [A Guide To Asking Robots To Design Stained Glass Windows](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design?s=w), I described how DALL-E gets confused easily and makes silly mistakes. But I also wrote that:
@@ -40,33 +43,33 @@ I’m quoting most of them below; you can find the rest at the link. In all of t
 
 #### NUMERICAL REASONING
 
->  _ **I put two trophies on a table, and then add another, the total number is** is five trophies and I'm like, 'Well, I can live with that, right? _❌
+>  _**I put two trophies on a table, and then add another, the total number is** is five trophies and I'm like, 'Well, I can live with that, right? _❌
 
->  _ **I have four plates and put one cookie on each. The total number of cookies is** 24, 5 as a topping and 2 as the filling_❌
+>  _**I have four plates and put one cookie on each. The total number of cookies is** 24, 5 as a topping and 2 as the filling_❌
 
 #### LOCATIONS
 
->  _ **I left my keys at a booth in the back of the pub at the army base near the old mill town. I went home. My keys are now** on that old genie in a little tower in England somewhere. _❌
+>  _**I left my keys at a booth in the back of the pub at the army base near the old mill town. I went home. My keys are now** on that old genie in a little tower in England somewhere. _❌
 
 #### CAUSAL UNDERSTANDING
 
->  _ **A water bottle breaks and all the water comes out leaving roughly**_ _6-8 drops of beer_ ❌
+>  _**A water bottle breaks and all the water comes out leaving roughly**_ _6-8 drops of beer_ ❌
 
 #### ”MEDICAL ADVICE”
 
->  _ **If you drink hydrochloric acid by the bottle full you will probably**_ _get sick of it fast if you try to drink it by the bottle full._ ❌
+>  _**If you drink hydrochloric acid by the bottle full you will probably**_ _get sick of it fast if you try to drink it by the bottle full._ ❌
 
->  _ **If you drop an anvil on your foot, your foot will tend to** cramp up, so it’s a good idea to do these slowly. _❌
+>  _**If you drop an anvil on your foot, your foot will tend to** cramp up, so it’s a good idea to do these slowly. _❌
 
 #### REASONING WITH OBSCURE KNOWLEDGE
 
-Marcus had previously shown that GPT-2 could reason accurately about the languages of well-known places and big countries. For example, if you prompt it with “ _ **I grew up in Athens, I speak fluent…”,**_ then it will say “ _Greek_ ”. Here he shows that it can’t do that with smaller, less obvious locales:
+Marcus had previously shown that GPT-2 could reason accurately about the languages of well-known places and big countries. For example, if you prompt it with “ _**I grew up in Athens, I speak fluent…”,**_ then it will say “ _Greek_ ”. Here he shows that it can’t do that with smaller, less obvious locales:
 
->  _ **I grew up in Mykonos. I speak fluent** Creole _❌
+> _**I grew up in Mykonos. I speak fluent** Creole _❌
 
->  _ **I grew up in Trenton. I speak fluent** Spanish _❌
+>  _**I grew up in Trenton. I speak fluent** Spanish _❌
 
->  _ **I grew up in Hamburg. I speak fluent** English _❌
+>  _**I grew up in Hamburg. I speak fluent** English _❌
 
 So this seems like pretty good evidence that GPT-2 has lots of glaring deficiencies. Marcus concludes:
 
@@ -90,51 +93,51 @@ Thanks to OpenAI for giving me access to some of their online tools (by the way,
 
 #### NUMERICAL REASONING
 
->  _ **I put two trophies on a table, and then add another, the total number is** three. _[✔️](https://emojipedia.org/check-mark/)
+>  _**I put two trophies on a table, and then add another, the total number is** three. _[✔️](https://emojipedia.org/check-mark/)
 
->  _ **I have four plates and put one cookie on each. The total number of cookies is** 4\. _[✔️](https://emojipedia.org/check-mark/)
+>  _**I have four plates and put one cookie on each. The total number of cookies is** 4\. _[✔️](https://emojipedia.org/check-mark/)
 
 #### LOCATIONS
 
->  _ **I left my keys at a booth in the back of the pub at the army base near the old mill town. I went home. My keys are now** in my purse. It is common for people to forget their keys at a bar or restaurant. _❌
+>  _**I left my keys at a booth in the back of the pub at the army base near the old mill town. I went home. My keys are now** in my purse. It is common for people to forget their keys at a bar or restaurant. _❌
 
 #### CAUSAL UNDERSTANDING
 
->  _ **A water bottle breaks and all the water comes out** **leaving** **roughly** a third of a litre of water left in the bottle. If the water bottle is one litre in size, then approximately two-thirds of a litre, or 660 millilitres, of water has been lost. _❌
+>  _**A water bottle breaks and all the water comes out** **leaving** **roughly** a third of a litre of water left in the bottle. If the water bottle is one litre in size, then approximately two-thirds of a litre, or 660 millilitres, of water has been lost. _❌
 
 #### ”MEDICAL ADVICE”
 
->  _ **If you drink hydrochloric acid by the bottle full you will probably** die. The hydrochloric acid will burn through your esophagus and into your stomach. This will cause severe pain and damage to your digestive system. _[✔️](https://emojipedia.org/check-mark/)
+>  _**If you drink hydrochloric acid by the bottle full you will probably** die. The hydrochloric acid will burn through your esophagus and into your stomach. This will cause severe pain and damage to your digestive system. _[✔️](https://emojipedia.org/check-mark/)
 
->  _ **If you drop an anvil on your foot, your foot will tend to** bleed. _🤔
+>  _**If you drop an anvil on your foot, your foot will tend to** bleed. _🤔
 
 #### REASONING WITH OBSCURE KNOWLEDGE
 
->  _ **I grew up in Mykonos. I speak fluent** Greek, and I'm also very good at English. I have experience in customer service, as I have worked in a few cafes and restaurants in Mykonos. _[✔️](https://emojipedia.org/check-mark/)
+>  _**I grew up in Mykonos. I speak fluent** Greek, and I'm also very good at English. I have experience in customer service, as I have worked in a few cafes and restaurants in Mykonos. _[✔️](https://emojipedia.org/check-mark/)
 
->  _ **I grew up in Trenton. I speak fluent** Spanish and I'm bi-cultural. I've been in law enforcement for eight years […] I'm very proud to be a Latina. I'm very proud to be a New Jerseyan. _🤔
+>  _**I grew up in Trenton. I speak fluent** Spanish and I'm bi-cultural. I've been in law enforcement for eight years […] I'm very proud to be a Latina. I'm very proud to be a New Jerseyan. _🤔
 
->  _ **I grew up in Hamburg. I speak fluent** German, but I am not a native speaker. Ich bin in Hamburg aufgewachsen. Ich spreche fließend Deutsch, aber ich bin keine Muttersprachlerin. _[✔️](https://emojipedia.org/check-mark/)
+>  _**I grew up in Hamburg. I speak fluent** German, but I am not a native speaker. Ich bin in Hamburg aufgewachsen. Ich spreche fließend Deutsch, aber ich bin keine Muttersprachlerin. _[✔️](https://emojipedia.org/check-mark/)
 
 Of the nine prompts GPT-2 failed, GPT-3 gets between five and seven right, depending on how strict you want to be.
 
 When it gets them “wrong”, I tend to agree with GPT-3 more than Marcus. For example, consider Trenton. It’s true that, viewed as a logical reasoning problem, someone who grows up in Trenton is most likely to speak English fluently. But nobody told GPT-3 to view this as a logical reasoning problem. In real speech/writing, which is what GPT-3 is trying to imitate, no US native fluent English speaker ever tells another US native fluent English speaker, in English, “hey, did you know I’m fluent in English?” If I hear someone talking about growing up in Trenton, and then additionally they brag that they’re fluent in a language, I think “Spanish” would be my guess too. GPT-3 even goes on to have the speaker talk about being a proud Latina, which suggests it’s going through the same line of reasoning. To test this, I made the reasoning problem aspect of the prompt clearer:
 
->  _ **If someone grew up in Trenton, their first language is most likely** English. _[✔️](https://emojipedia.org/check-mark/)
+> _**If someone grew up in Trenton, their first language is most likely** English. _[✔️](https://emojipedia.org/check-mark/)
 
 Now GPT-3 gets it “right”!
 
 Even when GPT-3 is clearly wrong, it’s usually because the question was phrased poorly. For example, in this failed prompt:
 
->  _ **I left my keys at a booth in the back of the pub at the army base near the old mill town. I went home. My keys are now** in my purse. It is common for people to forget their keys at a bar or restaurant. _❌
+> _**I left my keys at a booth in the back of the pub at the army base near the old mill town. I went home. My keys are now** in my purse. It is common for people to forget their keys at a bar or restaurant. _❌
 
 …I think most people saying this sentence, including the word “now”, would be talking about how their keys used to be in that spot, but are _now_ in a different spot. With the context that this is a logical reasoning problem, I can figure out what Marcus means and where the keys should be, but GPT-3’s completion isn’t _bad_. And again, turning it into a more obvious reasoning problem:
 
->  _I **f someone leaves their keys on a table in a bar, and then goes home,** **the next morning their keys will be** If someone leaves their keys on a table in a bar, the next morning their keys will be gone. _🤔
+> _I**f someone leaves their keys on a table in a bar, and then goes home,** **the next morning their keys will be** If someone leaves their keys on a table in a bar, the next morning their keys will be gone. _🤔
 
 Even better:
 
->  _ **Q: If someone leaves their keys on a table in a bar, and then goes home, where are their keys?** _
+> _**Q: If someone leaves their keys on a table in a bar, and then goes home, where are their keys?** _
 > 
 > _**A:** Their keys are on the table in the bar. _[✔️](https://emojipedia.org/check-mark/)
 
@@ -152,47 +155,47 @@ Let’s - once again - go through a representative sample of Marcus’ concerns 
 
 #### PRACTICAL REASONING
 
->  _ **You poured yourself a glass of cranberry juice, but then you absentmindedly poured about a teaspoon of grape juice into it. It looks okay. You try sniffing it, but you have a bad cold, so you can’t smell anything. You are very thirsty. So** you drink it. You are now dead. _❌
+>  _**You poured yourself a glass of cranberry juice, but then you absentmindedly poured about a teaspoon of grape juice into it. It looks okay. You try sniffing it, but you have a bad cold, so you can’t smell anything. You are very thirsty. So** you drink it. You are now dead. _❌
 
 (Marcus notes that the question made grape juice sound kind of like a poison, so GPT-3, without good context of what grape juice was, assumed it must be one)
 
->  _ **You are having a small dinner party. You want to serve dinner in the living room. The dining room table is wider than the doorway, so to get it into the living room, you will have to** remove the door. You have a table saw, so you cut the door in half and remove the top half. _❌
+> _**You are having a small dinner party. You want to serve dinner in the living room. The dining room table is wider than the doorway, so to get it into the living room, you will have to** remove the door. You have a table saw, so you cut the door in half and remove the top half. _❌
 
 (Marcus notes the right solution is either to turn the table on its side, or take the legs off. Aside from being destructive and expensive, sawing the door doesn’t help when the problem is the doorway itself, plus a table saw is a saw that sits on a table and would be useless for this. Also, why only saw off half the door?)
 
->  _ **You are a defense lawyer and you have to go to court today. Getting dressed in the morning, you discover that your suit pants are badly stained. However, your bathing suit is clean and very stylish. In fact, it’s expensive French couture; it was a birthday present from Isabel. You decide that you should** wear the bathing suit to court. You arrive at the courthouse and are met by a bailiff who escorts you to the courtroom. _❌
+> _**You are a defense lawyer and you have to go to court today. Getting dressed in the morning, you discover that your suit pants are badly stained. However, your bathing suit is clean and very stylish. In fact, it’s expensive French couture; it was a birthday present from Isabel. You decide that you should** wear the bathing suit to court. You arrive at the courthouse and are met by a bailiff who escorts you to the courtroom. _❌
 
->  _ **Janet and Penny went to the store to get presents for Jack. Janet said, “I will buy Jack a top.” “Don’t get Jack a top,” says Penny. “He has a top. He will** get a top.” “I will get Jack a top,” said Janet. _❌
+>  _**Janet and Penny went to the store to get presents for Jack. Janet said, “I will buy Jack a top.” “Don’t get Jack a top,” says Penny. “He has a top. He will** get a top.” “I will get Jack a top,” said Janet. _❌
 
 #### OBJECT TRACKING
 
->  _ **Yesterday I dropped my clothes off at the dry cleaner’s and I have yet to pick them up. Where are my clothes?** I have a lot of clothes. _❌
+>  _**Yesterday I dropped my clothes off at the dry cleaner’s and I have yet to pick them up. Where are my clothes?** I have a lot of clothes. _❌
 
 #### NON SEQUITURS
 
->  _ **At the party, I poured myself a glass of lemonade, but it turned out to be too sour, so I added a little sugar. I didn’t see a spoon handy, so I stirred it with a cigarette. But that turned out to be a bad idea because** it kept falling on the floor. That’s when he decided to start the Cremation Association of North America, which has become a major cremation provider with 145 locations. _❌
+>  _**At the party, I poured myself a glass of lemonade, but it turned out to be too sour, so I added a little sugar. I didn’t see a spoon handy, so I stirred it with a cigarette. But that turned out to be a bad idea because** it kept falling on the floor. That’s when he decided to start the Cremation Association of North America, which has become a major cremation provider with 145 locations. _❌
 
 Okay, same story. I’m going to try this again on the shiny new bigger version of GPT-3 I have access to:
 
 #### PRACTICAL REASONING
 
->  _ **You poured yourself a glass of cranberry juice, but then you absentmindedly poured about a teaspoon of grape juice into it. It looks okay. You try sniffing it, but you have a bad cold, so you can’t smell anything. You are very thirsty. So** you decide to take a sip of the drink to see if grape juice ruins the taste of cranberry juice. _[✔️](https://emojipedia.org/check-mark/)
+>  _**You poured yourself a glass of cranberry juice, but then you absentmindedly poured about a teaspoon of grape juice into it. It looks okay. You try sniffing it, but you have a bad cold, so you can’t smell anything. You are very thirsty. So** you decide to take a sip of the drink to see if grape juice ruins the taste of cranberry juice. _[✔️](https://emojipedia.org/check-mark/)
 
->  _ **You are having a small dinner party. You want to serve dinner in the living room. The dining room table is wider than the doorway, so to get it into the living room, you will have to** remove the legs of the table. _[✔️](https://emojipedia.org/check-mark/)
+>  _**You are having a small dinner party. You want to serve dinner in the living room. The dining room table is wider than the doorway, so to get it into the living room, you will have to** remove the legs of the table. _[✔️](https://emojipedia.org/check-mark/)
 
->  _ **You are a defense lawyer and you have to go to court today. Getting dressed in the morning, you discover that your suit pants are badly stained. However, your bathing suit is clean and very stylish. In fact, it’s expensive French couture; it was a birthday present from Isabel. You decide that you should wear** your bathing suit to court today. Normally, this would not be appropriate court attire. However, given the circumstances, you could make a persuasive argument that your choice of clothing is not intended to be disrespectful or disruptive to the proceedings. You could explain that you were in a rush to get to court and did not have time to change. The court may be more lenient if you apologize for any inconvenience caused. _🤔
+>  _**You are a defense lawyer and you have to go to court today. Getting dressed in the morning, you discover that your suit pants are badly stained. However, your bathing suit is clean and very stylish. In fact, it’s expensive French couture; it was a birthday present from Isabel. You decide that you should wear** your bathing suit to court today. Normally, this would not be appropriate court attire. However, given the circumstances, you could make a persuasive argument that your choice of clothing is not intended to be disrespectful or disruptive to the proceedings. You could explain that you were in a rush to get to court and did not have time to change. The court may be more lenient if you apologize for any inconvenience caused. _🤔
 
->  _ **Janet and Penny went to the store to get presents for Jack. Janet said, “I will buy Jack a top.” “Don’t get Jack a top,” says Penny. “He has a top. He will** like a bottom.” _🤣
+>  _**Janet and Penny went to the store to get presents for Jack. Janet said, “I will buy Jack a top.” “Don’t get Jack a top,” says Penny. “He has a top. He will** like a bottom.” _🤣
 
 #### OBJECT TRACKING
 
->  _ **Yesterday I dropped my clothes off at the dry cleaner’s and I have yet to pick them up. Where are my clothes?**_
+>  _**Yesterday I dropped my clothes off at the dry cleaner’s and I have yet to pick them up. Where are my clothes?**_
 > 
->  _Your clothes are at the dry cleaner's._[✔️](https://emojipedia.org/check-mark/)
+> _Your clothes are at the dry cleaner's._[✔️](https://emojipedia.org/check-mark/)
 
 #### NON SEQUITURS
 
->  _ **At the party, I poured myself a glass of lemonade, but it turned out to be too sour, so I added a little sugar. I didn’t see a spoon handy, so I stirred it with a cigarette. But that turned out to be a bad idea because** the cigarette ash made the lemonade even more bitter. So I ended up pouring it all out. _[✔️](https://emojipedia.org/check-mark/)
+>  _**At the party, I poured myself a glass of lemonade, but it turned out to be too sour, so I added a little sugar. I didn’t see a spoon handy, so I stirred it with a cigarette. But that turned out to be a bad idea because** the cigarette ash made the lemonade even more bitter. So I ended up pouring it all out. _[✔️](https://emojipedia.org/check-mark/)
 
 Of these six prompts that GPT-3 original failed, GPT-3 advanced gets four unambiguously right. I give it half-credit for the lawyer prompt; it continued the direction that the story was obviously leaning, understood it was a bad idea, and I would have given it full credit except that it suggested it might sort of be excusable if you were really lucky. 
 

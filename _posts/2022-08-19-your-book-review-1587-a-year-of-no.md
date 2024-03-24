@@ -3,9 +3,12 @@ title: "Your Book Review: 1587, A Year Of No Significance"
 subtitle: "Finalist #15 in the Book Review Contest"
 date: 2022-08-19
 likes: 165
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/69435385/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/119b3521-e041-4012-96a4-143a747f2219_1193x863.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-1587-a-year-of-no
 ---
-_[This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked._ ]
+_[This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked._]
 
 —
 
@@ -13,7 +16,7 @@ I bought this book because of its charming title: _1587, A Year of No Significan
 
 A year of no significance? It's not often a history book makes me laugh, but that did. Sure, many history books investigate the insignificant, but your typical author doesn't call your attention to it.
 
-This book, by Ray Huang, was first published in the early 1980s; I came across it only recently as a recommendation on _[The Scholar's Stage](https://scholars-stage.org/the-rise-and-fall-of-civilizations-a-reader-course/)_ (a blog which I found through some link on _[ACX](https://astralcodexten.substack.com)_ / _[SSC](https://slatestarcodex.com/about/)_ a while back.)
+This book, by Ray Huang, was first published in the early 1980s; I came across it only recently as a recommendation on _[The Scholar's Stage](https://scholars-stage.org/the-rise-and-fall-of-civilizations-a-reader-course/)_ (a blog which I found through some link on _[ACX](https://astralcodexten.substack.com)_ /_[SSC](https://slatestarcodex.com/about/)_ a while back.)
 
 A little backstory: in my younger days, I thought it might be fun and useful to learn the entire history of the world. To that end, I started with accounts of archaeology and prehistory, then the ancient civilizations, classical antiquity, and so on until I lost momentum somewhere around Tamerlane and the Black Death.
 
@@ -29,7 +32,7 @@ Like Edward Gibbon's monumental _Decline and Fall..._ , Ray Huang’s _1587_ als
 
 Mercifully, Huang's book is much shorter than Gibbon's multi-volume epic. 
 
-_1587_ is just 200-some pages, including the appendix. So is it worth reading? Yeah, I'd say so.
+ _1587_ is just 200-some pages, including the appendix. So is it worth reading? Yeah, I'd say so.
 
 Many Westerners are only familiar with the Ming dynasty as the source of those famously [priceless antique vases](https://tvtropes.org/pmwiki/pmwiki.php/Main/PricelessMingVase) which are forever getting accidentally smashed for the sake of comedy.
 
@@ -241,7 +244,7 @@ This is still pre-Enlightenment political thought, with entirely too much magica
 
 I can't point to any particular insights in this book as specifically relevant to present-day China, because the things I don't understand about present-day China would fill several books. But I am sure that a person better informed than I am about Chinese current events could draw some thought-provoking parallels.
 
- _1587_ does seem to me like an essential puzzle piece for anyone trying to get a deeper understanding of Chinese history. It emphasizes how people behaved when things were running true to form, instead of focusing on convulsive and dramatic changes, as history books tend to do. And it casts a glance toward the surprisingly important long-term effects of those seemingly ordinary events.
+_1587_ does seem to me like an essential puzzle piece for anyone trying to get a deeper understanding of Chinese history. It emphasizes how people behaved when things were running true to form, instead of focusing on convulsive and dramatic changes, as history books tend to do. And it casts a glance toward the surprisingly important long-term effects of those seemingly ordinary events.
 
 I mean, it's interesting in its own right that China is one of the oldest civilizations on Earth, but the really unusual aspect of Chinese civilization is how much continuity there's been. Dynasties came and went, and certainly the last century or two have differed greatly from previous millennia, but in some respects it's as if the cultural milieu of the ancient pharaohs continued to thrive as a potent undercurrent of cultural force in modern Egypt. It is difficult to understand the culture of any civilized land without knowing something of its history, but this is especially true in China's case.
 

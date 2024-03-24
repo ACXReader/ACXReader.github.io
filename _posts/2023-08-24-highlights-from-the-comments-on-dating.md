@@ -3,23 +3,26 @@ title: "Highlights From The Comments On Dating Preferences"
 subtitle: "..."
 date: 2023-08-24
 likes: 96
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/136214417/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/1e101458-6952-4730-9da1-eb6be64cde0a_320x213.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-dating
 ---
 Original post [here](https://astralcodexten.substack.com/p/in-defense-of-describable-dating). And I forgot to highlight a [link to the directory of dating docs](https://dateme.directory/).
 
- **Table Of Contents**
+**Table Of Contents**
 
- **1:** Comments That Remain At Least Sort Of Against Dating Docs  
- **2:** Comments Concerned That Dating Docs Are Bad For Status Or Signaling  
- **3:** Comments About Orthodox Judaism And Other Traditional Cultures  
- **4:** Comments Including Research  
- **5:** Comments By People With Demographically Unusual Relationships  
- **6:** Comments About The Five Fake Sample Profiles  
- **7:** Things I Changed My Mind About
+**1:** Comments That Remain At Least Sort Of Against Dating Docs  
+**2:** Comments Concerned That Dating Docs Are Bad For Status Or Signaling  
+**3:** Comments About Orthodox Judaism And Other Traditional Cultures  
+**4:** Comments Including Research  
+**5:** Comments By People With Demographically Unusual Relationships  
+**6:** Comments About The Five Fake Sample Profiles  
+**7:** Things I Changed My Mind About
 
 ## 1: Comments That Remain At Least Sort Of Against Dating Docs
 
- **JDR on Marginal Revolution[writes](https://marginalrevolution.com/marginalrevolution/2023/08/thursday-assorted-links-417.html?commentID=160642072):**
+**JDR on Marginal Revolution[writes](https://marginalrevolution.com/marginalrevolution/2023/08/thursday-assorted-links-417.html?commentID=160642072):**
 
 > I think the date me docs are a worthwhile experiment, so I'm not knocking them. But what worked for me is quite different. When I look at relationships that I admire they basically have three things: 1) shared values, 2) something in common besides just raising kids together, 3) both people want to make it work.
 > 
@@ -37,7 +40,7 @@ Or you could just have everyone list their values beforehand and only talk to th
 
 Likewise, I agree that lots of people don’t like answering personal questions right away. I’ve heard a suggestion not to bring up scary things like children until the third date at the earliest. Fine, so now you have _three_ dates per person in poorly-lit expensive restaurants before they tell you that actually they hate children and you were incompatible all along. Why would you inflict this on yourself when you can just start with a list of who wants kids and who doesn’t?
 
- **Loweren[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916098):**
+**Loweren[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916098):**
 
 > The problem here isn't that profile description is a bad filter - it's just that mutual physical attraction is a much more reliable one.
 > 
@@ -57,7 +60,7 @@ Compare this to values/interests/etc, where there’s less of a clear hierarchy 
 
 Of all the people I’ve had successful long-term flourishing enriching relationships with, only about half seemed more physically-attractive-by-my-standards than average, and none were as physically attractive as the suicidal borderline patient I had at the psych hospital who wouldn’t stop flirting inappropriately with the hospital staff. Still, I’m glad I’ve dated them and not her.
 
- **MaxEd[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/36668958): **
+**MaxEd[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/36668958): **
 
 > There are people out there like me, for whom "physical attraction" just don't work. I simply cannot from photo, or even a glance at the "real article" alone judge if I want to date that woman. I mean, a lot of women look very beautiful in their dating profiles, and I understand their beauty - I just don't have any reaction beyond "well, that's nice to look at for about 30 seconds".
 > 
@@ -65,7 +68,7 @@ Of all the people I’ve had successful long-term flourishing enriching relation
 > 
 > My guess is that there are at least two kind of people out there - for some, physical attraction is easy. But for a (sizeable?) minority, it just doesn't work and they NEED something like dating docs, essay-length profiles, questionnaires, anything but photos. As it often happens, the groups don't understand each other. People who find physical attraction easy think we're just ugly, or picky, or whatever. We think people who have success on Tinder are shallow and only look for one-night stands, not relationships. But reality is that we have different needs, and therefore it would be great to have different apps/sites to satisfy those needs. Which we no longer have, because everything is Tinder - it seems "looks" people are the profitable majority.
 
- **Hypatia[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22919115):**
+**Hypatia[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22919115):**
 
 > IRL you have three seconds to get someone's attention and it takes ten seconds max for them to decide if they even want to talk to you, which is why your first words to them must always be a question. The swipe-right apps are little different. You have only seconds to make an impression. On first contact a salesperson doesn't try to sell the sale. The salesperson tries to sell the appointment. Perhaps there are intellectuals who set aside time and sit down purposely to read through dating resumés, dull though they may be with little attempt to capture the reader from the first sentence. I think that a dating doc should only be communicated after initial contact and a primary expression of interest. At the very least it's more graceful than going straight to intimate pix.
 
@@ -73,7 +76,7 @@ Sorry, I only read the first three words of your comment, and they weren’t int
 
 Really, why do you expect me to read an entire paragraph to establish some boring point about dating docs, but _not_ to spend more than three seconds evaluating whether or not someone is the love of my life?
 
- **Walruss[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22933851):**
+**Walruss[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22933851):**
 
 > Determining dating preference is a multi-armed bandit problem.
 > 
@@ -83,7 +86,7 @@ Really, why do you expect me to read an entire paragraph to establish some borin
 > 
 > It's not necessarily true that dating docs/expansive profiles/checklists/whatever have to silo you, preventing exploration and putting you all in on your guessed preferences. Someone who thinks critically about their own assumptions about their preferences might use these tools in a different way that actually helps optimize. But in practice, I suspect they do way more often than not.
 
- **Kayla[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/36689334):**
+**Kayla[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/36689334):**
 
 > People don't think dating docs are weird and repellent because there are no legible criteria to screen potential partners. But these criteria should be a blunt, first-pass tool. If I want an atheist guy in his 30s in DC, and you're a 20-year-old Christian woman in Ohio, we're not compatible. Great. Tell people your basic criteria. But once you have someone who meets those first few basic, legible, criteria...go on a freaking date! You'll be able to tell within 30 minutes whether you're attracted to the person, like the person, and feel comfortable with the person. And you cannot determine this from any amount of reading and writing google docs.
 > 
@@ -95,7 +98,7 @@ I agree that like a good resume, a good dating doc should be short and to the po
 
 ## 2: Comments Concerned That Dating Docs Are Bad For Status Or Signaling
 
- **Chris[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22914964):**
+**Chris[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22914964):**
 
 > The thing that rubs people wrong about these dating docs isn’t so much that people express preferences or even that people try to make themselves sound good (this is bog standard for a dating profile) but that there is an implied “look at how high status I am” embedded in the assumption that lots of people are going to open your particular document and read through your personal essay to determine whether you would think they are a good match for you. On a normal dating site (or in real life) there is a certain symmetry: you see their (short) profile and say “yes”, they look at your (similarly short) profile and say “yes” back, then there’s a conversation that eats up time equally for both of you. It’s arguably true that requiring potential suitors to sign off on your 26 points of agreement before even starting to talk is more efficient since there are fewer false positives, but putting the burden of figuring that out on the other person just feels wrong to fairness-obsessed humans.
 
@@ -105,13 +108,13 @@ More seriously, this surprised me, since I think of dating docs as pretty respec
 
 Is it presumptuous of a restaurant to tell you what kind of food they serve? What their hours are? What their prices are? Where they’re located? The story of how they were founded by an Italian immigrant trying to create food like his mother made back in Sicily with ingredients from blah blah blah? “Oooh, look at this fancy pizza place, they think I care enough about them to read their menu online”. Again, why do you want to know less about the most important decision you’ll ever make in your life than about where to go for dinner?
 
- **Hank Wilbon ([blog](https://hankwilbon.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/24974358):**
+**Hank Wilbon ([blog](https://hankwilbon.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/24974358):**
 
 > I would think that the problem with dating docs is they come across as desperate. At least, so long as they aren't a normal way to meet people. Perhaps they will become so popular that they won't appear desperate in the future, but right now they seem to signal: "I'm failing at meeting romantic partners in the normal ways, so now I'm trying this."
 
 So far the directory has Ivy Leaguers, models, dancers, startup founders, attorneys, and at least one person who is 6’4. I agree this is a potential failure mode of anything new, but so far I think it’s avoiding it.
 
- **Melvin writes:**
+**Melvin writes:**
 
 > There's two questions here:
 > 
@@ -129,7 +132,7 @@ Clearly the everyone-is-rational-and-the-world-is-sane solution is for him to me
 
 ## 3: Comments About Orthodox Judaism And Other Traditional Cultures
 
- **Yosef_in_ToMo[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916535):**
+**Yosef_in_ToMo[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916535):**
 
 > Hi, I'm an ultra-orthodox Jew, and I would like to point out a few things about "shidduch resumes."
 > 
@@ -151,7 +154,7 @@ Clearly the everyone-is-rational-and-the-world-is-sane solution is for him to me
 > 
 > The orthodox Jewish process is a lot more complicated than resumes, and resumes are not a longstanding tradition.
 
- **Sholom[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/27679907):**
+**Sholom[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/27679907):**
 
 > I'll chime in here with a rough description of the dating process in my sub-section of the Orthodox Jewish population.
 > 
@@ -207,7 +210,7 @@ Clearly the everyone-is-rational-and-the-world-is-sane solution is for him to me
 
 I asked Sholom some followup questions, which you can find [here](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/35851124). Most interesting to me: “The average man will date 5-6 people before getting married, the average woman will date 3-4”.
 
- **Deepa[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916388):**
+**Deepa[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916388):**
 
 > You should see the matrimonial section of Indian newspapers. However, I hope you won't mock them.
 > 
@@ -221,7 +224,7 @@ I asked Sholom some followup questions, which you can find [here](https://astral
 
 ## 4: Comments Including Research
 
- **Tailcalled ([blog](https://tailcalled.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22920841):**
+**Tailcalled ([blog](https://tailcalled.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22920841):**
 
 > I recently did a quick study where I asked people for their personality-adjective partner preferences, and then asked them what they meant by those. I think the answers were pretty revealing: 
 > 
@@ -231,7 +234,7 @@ I asked Sholom some followup questions, which you can find [here](https://astral
 > 
 > I think part of the issue is in using abstract terms like "nice", when really everyone wants something more specific. Like the conservative guy wants a nice housewife, you probably want a nice girlfriend who doesn't mock nerds and doesn't aggressively push woke stuff, and a woke guy probably wants a nice woman who cares about the oppressed. You all agree that you want someone nice, but you disagree about what "nice" means.
 
- **Qwelp[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/25634149):**
+**Qwelp[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/25634149):**
 
 > The below article cites some research favourable to Scott's case. A quote -
 > 
@@ -239,7 +242,7 @@ I asked Sholom some followup questions, which you can find [here](https://astral
 > 
 > <https://www.psychologytoday.com/gb/blog/dating-decisions/201412/the-real-reason-we-date-people-we-shouldnt>
 
- **Kenny Easwaran[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/36692397):**
+**Kenny Easwaran[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/36692397):**
 
 > I think you're overestimating how significant those numbers say political compatibility is. The study said that 4% of marriages are between a Republican and a Democrat, which *sounds* low, but given that something like 30% of people are Republicans and 30% Democrats and 40% Independents, you would only expect 9% from pure mixing. There are 17% between Independents and non-Independents, but from random mixing you would only expect 24%.
 
@@ -247,7 +250,7 @@ Great point! (though some commenters say the correct number would be 18%)
 
 ## 5: Comments By People With Demographically Unusual Relationships
 
- **Doug S[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22917097):**
+**Doug S[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22917097):**
 
 > For what it's worth, my marriage is a statistical anomaly. I'm an atheist liberal Democrat with an undergraduate engineering degree, and my wife talks to ghosts, voted for Trump, hasn't finished community college, and, most astoundingly of all, does read books but does not like Terry Pratchett novels.
 > 
@@ -255,31 +258,31 @@ Great point! (though some commenters say the correct number would be 18%)
 > 
 > (Btw, she did give up on Trump after Jan 6.)
 
- **JohnFromNevada[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22924420):**
+**JohnFromNevada[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22924420):**
 
 > Interestingly, I’m an atheist (Dawkins, Dennett, the whole thing) and my wife of thirteen years is an ordained minister and our marriage is solid.
 
 His wife is a Unitarian. I maintain it’s not surprising she’s married to an atheist, it’s surprising that she’s _straight_.
 
- **Aristides[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22927117):**
+**Aristides[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22927117):**
 
 > I had no idea how statistically rare my relationship with my spouse is. I'm a Christian Republican with a JD and they are a Agnostic Democrat that dropped out of college.
 
 ## 6: Comments About The Five Fake Sample Profiles
 
- **Dave Rolsky[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916352):**
+**Dave Rolsky[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916352):**
 
 > Jane has remarkably narrow tastes in anime for someone who likes anime. Someone should introduce her to Monster and Nodame Cantabile. But she sounds like a nice person.
 
 Many of you had strong opinions about Jane’s anime preferences and what they said about her. I’m sorry if you wasted any brain cycles on this, I got them by Googling “what are famous animes” and including the ones in the list.
 
- **Eric Zhang[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916290):**
+**Eric Zhang[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22916290):**
 
 > I think I'm in love with Hana.
 
 Variants of this were the most popular comment. Sorry, I tried not to make it "five very different people and one of them is the rationalist and that's obviously the good one", but it was too hard.
 
- **cubeencumbered[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22937890):**
+**cubeencumbered[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/22937890):**
 
 > Not done reading but I'd love to see a poll on into/neutral/eww for your fake profiles. Hana sounds obviously awesome and I have a hard time imagining anyone (anyone here?) ranking someone above her, but also would love to be wrong about that.
 
@@ -287,7 +290,7 @@ Autantonym ran such a poll, you can see results [here](https://docs.google.com/s
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df1c14f-14ab-4d96-8107-2aef332ec17d_961x201.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df1c14f-14ab-4d96-8107-2aef332ec17d_961x201.png)
 
- **Anonymous[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/36737782):**
+**Anonymous[writes](https://astralcodexten.substack.com/p/in-defense-of-describable-dating/comment/36737782):**
 
 > This is an absurd question, Scott. I don't know if it's the asexuality or what, but the answer to your puzzle, or whatever you want to call it, of the five dating ads is:
 > 

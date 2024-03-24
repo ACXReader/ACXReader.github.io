@@ -3,6 +3,9 @@ title: "Model City Monday 12/6/21"
 subtitle: "How sinister do you have to be before you get to call your volcano-based structure a \"volcano lair\"?"
 date: 2021-12-06
 likes: 38
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45047366/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23a32c5f-3a13-40d3-963c-09f664f6bab0_320x214.jpeg
 original-url: https://www.astralcodexten.com/p/model-city-monday-12621
 ---
 ### Tegucigalpa, Honduras
@@ -61,7 +64,7 @@ Speaking of stumped, who _are_ these people?
 
 Right now, they’re a web page with a lot of buzz [promising the City Of The Future](https://www.praxissociety.com/content/introducing-praxis), in very poetic language:
 
->  **Praxis is a grassroots movement of modern pioneers building a new city.** We are technologists and artists, builders and dreamers. We are building a place where we can develop to our fullest potentials, physically, culturally, and spiritually. Bitcoin was developed as a financial technology with political goals identical to those of the Founding Fathers: liberation. The ultimate end of crypto is the possibility of a future for humanity unshackled from the institutions that seek to limit our growth. Our ultimate goal is to bring about a more vital future for humanity, and we will use technology to achieve this righteous end.
+> **Praxis is a grassroots movement of modern pioneers building a new city.** We are technologists and artists, builders and dreamers. We are building a place where we can develop to our fullest potentials, physically, culturally, and spiritually. Bitcoin was developed as a financial technology with political goals identical to those of the Founding Fathers: liberation. The ultimate end of crypto is the possibility of a future for humanity unshackled from the institutions that seek to limit our growth. Our ultimate goal is to bring about a more vital future for humanity, and we will use technology to achieve this righteous end.
 > 
 > Our civilization is unwell. We eat food that kills us, we’ve lost sight of beauty, and we neglect our spiritual lives. The world is deranged and decayed, and this frightens people. We don’t look up from our screens; we seek to live within them. Crypto is a fundamentally political technology -- escape to the metaverse is a betrayal of the principles on which it was founded. We are descended from the people who built Rome and Athens, who dared to split atoms and voyage to the Moon. We can build new worlds not just of bits, but of atoms.
 

@@ -3,6 +3,9 @@ title: "Yudkowsky Contra Christiano On AI Takeoff Speeds"
 subtitle: "..."
 date: 2022-04-04
 likes: 83
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/49755960/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b8ed3ac3-b76b-4b6b-947a-8161429e266f_2753x1590.jpeg
 original-url: https://www.astralcodexten.com/p/yudkowsky-contra-christiano-on-ai
 ---
 **Previously in series:** [Yudkowsky Contra Ngo On Agents](https://astralcodexten.substack.com/p/practically-a-book-review-yudkowsky?s=w), [Yudkowsky Contra Cotra On Biological Anchors](https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might?s=w)
@@ -167,7 +170,7 @@ So when Paul derives clean laws of economics showing that things move along slow
 
 Paul answers:
 
->  _Summary of my response: Before there is AI that is great at self-improvement there will be AI that is mediocre at self-improvement._
+> _Summary of my response: Before there is AI that is great at self-improvement there will be AI that is mediocre at self-improvement._
 > 
 > Powerful AI can be used to develop better AI (amongst other things). This will lead to runaway growth.
 > 

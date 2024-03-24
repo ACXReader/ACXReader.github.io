@@ -3,6 +3,9 @@ title: "Book Review: The New Sultan"
 subtitle: "Summary and commentary on Soner Cagaptay's \"The New Sultan: Erdogan And The Crisis Of Modern Turkey\""
 date: 2021-03-18
 likes: 202
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/33889879/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b845f5ab-342c-45d2-b525-1fbaeea3cd4f_822x617.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-the-new-sultan
 ---
 **I.**
@@ -19,7 +22,7 @@ I want to go into some of this in more depth, because I think this is the main r
 
 Given how hard it is to convince people of that moral, let's go through the full story in more detail.
 
- **II.**
+**II.**
 
 Medieval Turkey was dominated by the Ottoman Empire, officially an Islamic caliphate though in practice only inconsistently religious, ruled by autocratic sultans and a dizzying series of provincial governors. As time passed, they fell further and further behind Western Europe; by World War I, they were a mess. As the stress of the war caused the empire to fracture, General Mustafa Kemal seized power, reorganized the scraps of Ottoman Anatolia into modern Turkey, and was renamed ATATURK, meaning "Father of Turks".
 
@@ -71,7 +74,7 @@ Under pressure from the military, the courts banned the now-powerless RP as a "f
 
 So he waited a couple of years until his ban expired, then founded the No, Really, Totally Not Islamist At All, Trust Us This Time Party (AKP). The AKP was officially center-right. It was liberal capitalist, pro-West, pro-human-rights, and big on joining the EU - all things that gave it apparently unimpeachable non-Islamist credentials. Lots of actual center-rightists joined up, noticing that Erdogan was a better leader than any of the clowns in the Turkish center-right up to that point. "Ak" is Turkish for "white", so the AK Party was also the White Party, ie the party of being clean and pure and uncorrupt, a popular message in 90s Turkey. They won elections in a landslide, and Erdogan became Prime Minister.
 
- **III.**
+**III.**
 
 After one of its coups, the military made a law that only parties with at least 10% of votes could get seats in Parliament - the better to keep out small parties that the military might not be able to control. One unexpected consequence was to translate small victories into large victories, and large victories into colossal ones - many small parties would simply not make it to Parliament, and the remaining seats would be distributed among the larger winners. Something like this happened in 2002 - even though Erdogan got only 33% of the vote, he ended up with 67% of the seats in Parliament. 
 
@@ -87,7 +90,7 @@ In the end, Erdogan ends up not joining the EU. Partly this was due to a Europea
 
 After more and more humiliating demands, Erdogan said "f@#k it", with the support of the Turkish people. He'd gotten everything he wanted out of the EU, but in the end Europeanism just wasn't cutting it for him.
 
- **IV.**
+**IV.**
 
 The Turkish word for "deep state" is _derin devlet_. Americans only recently became interested in the Deep State; Turks have a longer history of concern. 
 
@@ -126,7 +129,7 @@ There's more to this story. There were some anti-Erdogan protests, with various 
 
 But the overall arc remains the same: Turkey went from somewhat-democratic-with-an-asterisk to somewhat-less-democratic-with-a-different-asterisk. On Freedom House's measure of press unfreedom (where 0 is best and 100 is worse), Turkey went from 58 to 71 during the Erdogan years. On a political unfreedom score from 0 to 40, it went from 23 to 30. Turkish presidents are allowed to sue citizens who insult them; Erdogan's predecessor+2 did this 26 times, his immediate predecessor 139 times, and Erdogan himself 1800 times. These kinds of numbers [aren't perfect](https://samzdat.com/2018/04/08/democracy-scales-are-still-bad-and-four-panicked-suggestions/), but enough of them have followed the same trajectory to confirm the narrative that Turkey is undergoing some bad times.
 
- **V.**
+**V.**
 
 So, again, can it happen here?
 
@@ -158,13 +161,13 @@ But even quashing conspiracy theories isn't enough. When Erdogan wasn't spinning
 
 If you asked me for my top three recommendations for shoring up American democracy against Erdogan’s particular playbook, I think at this point they would be something like:
 
- **1.** Constitutional amendment against court packing (to be fair, this has been on my mind a lot recently and may not be entirely coming from the Erdogan book)
+**1.** Constitutional amendment against court packing (to be fair, this has been on my mind a lot recently and may not be entirely coming from the Erdogan book)
 
- **2.** Stronger protections separating investigation of tax fraud (IRS?) and corruption (FBI?) from the executive.
+**2.** Stronger protections separating investigation of tax fraud (IRS?) and corruption (FBI?) from the executive.
 
- **3.** More things that might be used to hack the checks-and-balances system requiring 2/3 majorities instead of simple majorities.
+**3.** More things that might be used to hack the checks-and-balances system requiring 2/3 majorities instead of simple majorities.
 
- **VI.**
+**VI.**
 
 Erdogan gets described as a "right-wing populist", a term I've always had trouble understanding.
 
@@ -180,7 +183,7 @@ All the stuff about liberal cosmopolitan secular Europeanized Turks sipping cock
 
 In the course of normal politics, culture, or almost anything else, the elites will always end out on top. This flirts with tautology - of course whoever ends up on top will be a member of the elite! - but on a deeper level it isn't - the populace and elites are different social classes and cultures, so this claim identifies a particular class/culture that always gets its way. The American equivalent might be pointing out that the winner of the Academy Awards is probably going to be from a coastal liberal secular background, and not an evangelical Protestant from Nebraska. Same for the Dean of Harvard, the editor of the New York Times, etc. 
 
-The populace can try to protest this, but their efforts are doomed to failure. Maybe they can make their own movies (eg. _The Passion Of The Christ_ ), but for whatever reason these will never be as convincing or have the same sort of clout that the elite version does. Elites have enough advantages in power, connections, education, and maybe even genes (cf. the meritocracy debate) that in the natural course of events, they always come out on top. Trying to come up with a system where elites don't come out on top is an almost futile task, one where you will constantly be pumping against entropy.
+The populace can try to protest this, but their efforts are doomed to failure. Maybe they can make their own movies (eg. _The Passion Of The Christ_), but for whatever reason these will never be as convincing or have the same sort of clout that the elite version does. Elites have enough advantages in power, connections, education, and maybe even genes (cf. the meritocracy debate) that in the natural course of events, they always come out on top. Trying to come up with a system where elites don't come out on top is an almost futile task, one where you will constantly be pumping against entropy.
 
 The normal course of politics is various coalitions of elites and populace, each drawing from their own power bases. A normal political party, like a normal anything else, has elite leaders, analysts, propagandists, and managers, plus populace foot soldiers. Then there's an election, and sometimes our elites get in, and sometimes your elites get in, but getting a political party that's against the elites is really hard and usually the sort of thing that gets claimed rather than accomplished, because elites naturally rise to the top of everything.
 

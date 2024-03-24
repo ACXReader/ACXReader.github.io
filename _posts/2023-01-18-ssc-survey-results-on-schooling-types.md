@@ -3,6 +3,9 @@ title: "SSC Survey Results On Schooling Types"
 subtitle: "..."
 date: 2023-01-18
 likes: 106
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/92247960/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/1c441f48-197c-4ceb-9342-75e399e9cff1_960x500.webp
 original-url: https://www.astralcodexten.com/p/ssc-survey-results-on-schooling-types
 ---
 Taken from the[ 2020 Slate Star Codex Survey](https://slatestarcodex.com/2020/01/20/ssc-survey-results-2020/). SSC/ACX readers are a heavily-selected population and nothing about them necessarily generalizes to anyone who isn’t an SSC/ACX reader. But you are an SSC/ACX reader, so maybe they generalize to you. Most of these questions are heavily confounded by different types of people going to different schools. In a few cases, I’ve made feeble efforts to get past this, in other cases I haven’t tried. All of this is rough and weak, you don’t need to comment to tell me this.

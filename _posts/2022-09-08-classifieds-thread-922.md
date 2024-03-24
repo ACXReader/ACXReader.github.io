@@ -3,11 +3,14 @@ title: "Classifieds Thread 9/22"
 subtitle: "..."
 date: 2022-09-08
 likes: 43
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/72346723/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4e202cc0-682b-4103-8869-7fdd9df3702e_617x395.png
 original-url: https://www.astralcodexten.com/p/classifieds-thread-922
 ---
 This is the trimonthly (?) classifieds thread. Advertise whatever you want in the comments.
 
-We’re going to try keeping it organized again, so please respond to the appropriate top-level comment: **Employment, Dating, Read My Blog** (also includes podcasts, books, etc) **, Consume My Product/Service, Meetup,** or **Other.** I’ll delete anything that’s not in the appropriate category.
+We’re going to try keeping it organized again, so please respond to the appropriate top-level comment:**Employment, Dating, Read My Blog**(also includes podcasts, books, etc)**, Consume My Product/Service, Meetup,** or **Other.** I’ll delete anything that’s not in the appropriate category.
 
 Remember that posting dating ads is hard and scary. Please refrain from commenting too negatively on anyone’s value as a human being. I’ll be much less strict about employers, bloggers, etc.
 

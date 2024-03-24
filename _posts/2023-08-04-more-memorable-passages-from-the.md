@@ -3,6 +3,9 @@ title: "More Memorable Passages From \"The Man Without A Face\""
 subtitle: "..."
 date: 2023-08-04
 likes: 112
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/135677698/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/5340308e-4689-43a7-b0b5-23e60010995b_650x350.png
 original-url: https://www.astralcodexten.com/p/more-memorable-passages-from-the
 ---
 _Actual serious review[here](https://astralcodexten.substack.com/p/dictator-book-club-putin), Amazon link to the book [here](https://amzn.to/3XN9Ck7). These were just some extra parts that stuck out to me._
@@ -69,7 +72,7 @@ On Garry Kasparov’s anti-Putin campaign:
 
 Too long for me to quote in full, but there is a postscript for this second edition with the story of the one time Masha Gessen met Vladimir Putin. Putin shut down the pro-democracy paper Gessen was working at, so Gessen got a new job editing _Vokrug Sveta_ \- if you’re American, think _National Geographic_ : a nice, apolitical magazine with pretty pictures of wildlife. One of Putin’s lieutenants, Dmitry Peskov, thought it would be nice for the regime to patronize it and make it the official geographical magazine of the Russian government. 
 
-> Suddenly I seemed to be able to walk through walls: as a representative of RGS-affiliated Vokrug Sveta I was invited to state television and radio, where I had been blacklisted for years. I never went, but one of our editors used a live state-radio broadcast to speak up for Pussy Riot - and no one said a word to me. Did anyone even know? I put out feelers and soon found out that Putin’s press secretary, Dmitry Peskov, who was working on the RGS/ _Volkov Sveta_ project most closely, had not known I was the magazine’s editor at the time the partnership was announced - by Putin himself. Peskov found out from a mutual acquaintance of ours several weeks later.
+> Suddenly I seemed to be able to walk through walls: as a representative of RGS-affiliated Vokrug Sveta I was invited to state television and radio, where I had been blacklisted for years. I never went, but one of our editors used a live state-radio broadcast to speak up for Pussy Riot - and no one said a word to me. Did anyone even know? I put out feelers and soon found out that Putin’s press secretary, Dmitry Peskov, who was working on the RGS/_Volkov Sveta_ project most closely, had not known I was the magazine’s editor at the time the partnership was announced - by Putin himself. Peskov found out from a mutual acquaintance of ours several weeks later.
 > 
 > What would he do now? I wondered. Would he go to Putin and tell him they had an issue with the magazine the president himself had praised so highly? How would he define the issue> Did Putin even know I existed - let alone that I had written this book, which had received extensive press in the West? I had begun to suspect strongly that he did not. For him to know, someone would have had to tell him - to be the bearer of bad news. And now the news was doubly bad: Peskov would have had to tell Putin both that he had not done his homework on _Volkrug Sveta_ , and that I had written this book. I had a feeling he had not and would not.
 
@@ -81,4 +84,4 @@ Someone apparently told Putin about _this_ , and he called Gessen, said he liked
 
 Pretty boring climax. I wonder how it played out in other timelines:
 
-> I had wanted to bring my own book [ _Man Without A Face_ , the biography I’m reviewing here] as a gift to Putin, but my friends and family begged me not to; a midnight text-message plea from a colleague finally convinced me not to do it.
+> I had wanted to bring my own book [_Man Without A Face_ , the biography I’m reviewing here] as a gift to Putin, but my friends and family begged me not to; a midnight text-message plea from a colleague finally convinced me not to do it.

@@ -3,9 +3,12 @@ title: "Most Technologies Aren't Races"
 subtitle: "..."
 date: 2023-04-05
 likes: 255
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/108490927/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/1e9c03f2-ca4d-4183-9b36-771934f45961_768x432.jpeg
 original-url: https://www.astralcodexten.com/p/most-technologies-arent-races
 ---
-_[Disclaimer: I’m not an AI policy person, the people who are have thought about these scenarios in more depth, and if they disagree with this I’ll link to their rebuttals_ ]
+_[Disclaimer: I’m not an AI policy person, the people who are have thought about these scenarios in more depth, and if they disagree with this I’ll link to their rebuttals_]
 
 Some people argue against delaying AI because it might make China (or someone else) “win” the AI “race”.
 
@@ -21,11 +24,11 @@ The most consequential “races” have been for specific military technologies 
 
 I think some people hear transhumanists talk about an “AI race” and mindlessly repeat it, without asking what assumptions it commits them to. Transhumanists talk about winning an AI “race” for two reasons:
 
- **First** , because if you believe unaligned AI could destroy humanity at some point, it’s important to align AI before it gets to that point. Companies that care about alignment might race to reach that point before companies that don’t care about alignment. Right now this is all academic, because nobody knows how to align AIs. But if someone figured that out, we would want those people to win a race.[1](/p/most-technologies-arent-races#footnote-1-108490927)
+**First** , because if you believe unaligned AI could destroy humanity at some point, it’s important to align AI before it gets to that point. Companies that care about alignment might race to reach that point before companies that don’t care about alignment. Right now this is all academic, because nobody knows how to align AIs. But if someone figured that out, we would want those people to win a race.[^1]
 
- **Second** , because some transhumanists think AI could cause a technological singularity that speedruns the next several millennia worth of advances in a few years. This probably only happens if superintelligent AI can figure out ways to improve its own intelligence in a critical feedback loop. I’m pretty skeptical of these scenarios in the current AI paradigm where compute is often the limiting resource, but other people disagree. In a fast takeoff, it could be that you go to sleep with China six months ahead of the US, and wake up the next morning with China having fusion, nanotech, and starships,. 
+**Second** , because some transhumanists think AI could cause a technological singularity that speedruns the next several millennia worth of advances in a few years. This probably only happens if superintelligent AI can figure out ways to improve its own intelligence in a critical feedback loop. I’m pretty skeptical of these scenarios in the current AI paradigm where compute is often the limiting resource, but other people disagree. In a fast takeoff, it could be that you go to sleep with China six months ahead of the US, and wake up the next morning with China having fusion, nanotech, and starships,. 
 
-We remember the race for nuclear weapons because they’re a binary technology - either you have them, or you don’t. When the US invented stealth bombers, its enemies had slightly worse planes that were slightly less stealthy. But when the US invented nukes, its enemies were stuck with normal bombs; there is no slightly-worse-nuke that can only destroy half a city. Everywhere outside the most extreme transhumanist scenarios, AI is more like the stealth bomber. You may have GPT-3, GPT-4, some future GPT-5, but a two year gap means you have slightly worse AIs, not that you have no AI at all. The only case where there’s a single critical point - where you either have the transformative AI or nothing - is in the hard-takeoff scenario where at a certain threshold AI recursively self-improves to infinity. If someone reaches this threshold before you do, _then_ you’ve lost a race![2](/p/most-technologies-arent-races#footnote-2-108490927)
+We remember the race for nuclear weapons because they’re a binary technology - either you have them, or you don’t. When the US invented stealth bombers, its enemies had slightly worse planes that were slightly less stealthy. But when the US invented nukes, its enemies were stuck with normal bombs; there is no slightly-worse-nuke that can only destroy half a city. Everywhere outside the most extreme transhumanist scenarios, AI is more like the stealth bomber. You may have GPT-3, GPT-4, some future GPT-5, but a two year gap means you have slightly worse AIs, not that you have no AI at all. The only case where there’s a single critical point - where you either have the transformative AI or nothing - is in the hard-takeoff scenario where at a certain threshold AI recursively self-improves to infinity. If someone reaches this threshold before you do, _then_ you’ve lost a race![^2]
 
 Everyone I know who believes in fast takeoffs is a doomer. There’s no way you go to sleep with a normal only-slightly-above-human-level AI, wake up with the AI having godlike powers, and the AI is still doing what you want. You have no chance to debug the AI at level N and get it ready for level N+1. You skip straight from level N to level N + 1,000,000. The AI is radically rewriting its code many times in a single night. You are pretty doomed.
 
@@ -33,13 +36,9 @@ If you don’t believe in crazy science fiction scenarios like these, fine. But 
 
 I’m harping on this point because a lot of people want to have it both ways. They say we shouldn’t care about alignment, because AI will just be another technology. But also, we _can’t_ worry about alignment, because that would be an unacceptable delay when we need to “win” the AI “race”. If AI is just another technology, we don’t need to worry about this! And in the scenarios where you do need to win races, you _really_ want to worry about alignment.
 
-[1](/p/most-technologies-arent-races#footnote-anchor-1-108490927)
+[^1]: Or, rather, we’d want everyone to cooperate in implementing their solution. But if we can’t get this, then second-best would be for the good guys to win a race.
 
-Or, rather, we’d want everyone to cooperate in implementing their solution. But if we can’t get this, then second-best would be for the good guys to win a race.
-
-[2](/p/most-technologies-arent-races#footnote-anchor-2-108490927)
-
-Even in the unlikely scenario where AI causes a singularity and remains aligned, I have trouble worrying too much about races. The whole point of a singularity is that it’s hard to imagine what happens on the other side of it. I care a lot how much relative power Xi Jinping, Mark Zuckerberg, and Joe Biden have today, but I don’t know how much I care about them after a singularity.
+[^2]: Even in the unlikely scenario where AI causes a singularity and remains aligned, I have trouble worrying too much about races. The whole point of a singularity is that it’s hard to imagine what happens on the other side of it. I care a lot how much relative power Xi Jinping, Mark Zuckerberg, and Joe Biden have today, but I don’t know how much I care about them after a singularity.
 
 “Wouldn’t Xi Jinping put people in camps?” Why? He put the Uighurs in camps because he was afraid they would revolt against Chinese rule. Nobody can revolt against someone who controls a technological singularity, so why put them in camps?
 

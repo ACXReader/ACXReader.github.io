@@ -3,6 +3,9 @@ title: "Book Review: First Sixth Of Bobos In Paradise"
 subtitle: "..."
 date: 2022-12-01
 likes: 159
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/86889708/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1c874fbd-02ca-4833-964a-19a443782b7f_383x333.webp
 original-url: https://www.astralcodexten.com/p/book-review-first-sixth-of-bobos
 ---
 **I.**
@@ -31,7 +34,7 @@ Brooks on the consequences:
 
 There was a one-or-two generation interregnum where the new meritocrats silently battled the old WASP aristocracy. This wasn’t a political or economic battle; as a war to occupy the highest position in the class hierarchy, it could only be won through cultural prestige. What was cool? What was out of bounds? What would get printed in the _New York Times_ \- previously the WASP aristocracy’s mouthpiece, but now increasingly infiltrated by the more educated newcomers?
 
- **II.**
+**II.**
 
 The meritocrats didn’t exactly have a culture of their own to bring to the fight. They were a haphazard faction thrown together by 1950s college admissions policies. But their links to academia let them lift the pre-existing culture of the intelligentsia and bohemians. 
 
@@ -72,7 +75,7 @@ Pretty good for a blanket! And the white-water rafting hobby signals you’re a 
 
 . . . you get the picture. You can see the point where this is going to segue into the remaining avocado-toast-related five-sixths of the book.
 
- **III.**
+**III.**
 
 Still, Brooks takes the change-of-aristocracies hypothesis pretty seriously. For example, he writes:
 
@@ -90,7 +93,7 @@ Brooks kind of drops that paragraph in there and runs, as if he hadn’t just pr
 
   * [Partisan polarization](https://astralcodexten.substack.com/p/book-review-why-were-polarized). I don’t think this is the full story, maybe not even a big part of the story, but _some_ of the story could be that WASP aristocrats were the natural head of the Republican Party. Or, at the very least, they were a reality anchor and Strategic Classiness Reserve. As their power gradually declined, the party was left headless (with the blue-blooded Bush dynasty playing Canute trying to hold back the waves). When working-class Republicans lost their upper-class allies, their natural choice was hostility to all elites, leading to the [class-based politics](https://astralcodexten.substack.com/p/a-modest-proposal-for-republicans) of today.
 
-  *  _[Seeing Like A State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)_[ and high modernism](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/). Brooks namedrops _Seeing Like A State_ as the quintessential meritocrat book and high modernism as the quintessential meritocrat bogeyman. High Modernism was something like the legitimizing ideology of the WASP aristocracy: we are great because we have raised shining skyscrapers, blasted railways through mountains, and built giant eternally-churning factories. As part of their cultural revolt, the meritocrats had to ritually humiliate all of this, which made them adopt as _their_ legitimizing ideology a James Scott / Jane Jacobs - esque perspective of “skyscrapers disrupt the social fabric and blasting tunnels sounds environmentally unfriendly, how about some nice locally-sourced organic food?” [He who has ears to hear, let him hear](http://wimflyc.blogspot.com/2021/01/the-henry-adams-curve-closer-look.html).
+  * _[Seeing Like A State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)_[ and high modernism](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/). Brooks namedrops _Seeing Like A State_ as the quintessential meritocrat book and high modernism as the quintessential meritocrat bogeyman. High Modernism was something like the legitimizing ideology of the WASP aristocracy: we are great because we have raised shining skyscrapers, blasted railways through mountains, and built giant eternally-churning factories. As part of their cultural revolt, the meritocrats had to ritually humiliate all of this, which made them adopt as _their_ legitimizing ideology a James Scott / Jane Jacobs - esque perspective of “skyscrapers disrupt the social fabric and blasting tunnels sounds environmentally unfriendly, how about some nice locally-sourced organic food?” [He who has ears to hear, let him hear](http://wimflyc.blogspot.com/2021/01/the-henry-adams-curve-closer-look.html).
 
   * [The debate around meritocracy](https://slatestarcodex.com/2017/07/24/targeting-meritocracy/). I previously wrote that it was hard to be against meritocracy, in that the alternatives - cronyism, nepotism, titled nobility - seemed worse. _Bobos_ helps provide concrete details. The WASP aristocracy in fact seems bad to me; a lot of them really were arrogant boors who spent most of their energy conspicuously consuming and yachting. But if we grant a long chain of conjectures, they seemed to be better at some aspects of leading the country than their meritocratic successors. Why? Is there a simple patch, or is meritocracy inherently dangerous?
 
@@ -113,7 +116,7 @@ But if Brooks is right, Conant/Pusey’s fateful (and at the time unheralded) de
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F475c50b6-3ac7-474d-a5ee-96c57fc93325_288x399.png)](https://amzn.to/3Fg8bTA)
 
- **Related:**
+**Related:**
 
   * [David Brooks reconsiders Bobos 20 years later](https://www.theatlantic.com/magazine/archive/2021/09/blame-the-bobos-creative-class/619492/) (Atlantic)
 

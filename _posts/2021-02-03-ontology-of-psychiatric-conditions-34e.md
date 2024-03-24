@@ -3,11 +3,14 @@ title: "Ontology Of Psychiatric Conditions: Dynamical Systems"
 subtitle: "How do mental illnesses change over time?"
 date: 2021-02-03
 likes: 155
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32170113/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2f4f2ab5-301d-46d2-bdb7-83fd61adb004_447x351.png
 original-url: https://www.astralcodexten.com/p/ontology-of-psychiatric-conditions-34e
 ---
 _[Previously in sequence:_[Taxometrics](https://astralcodexten.substack.com/p/ontology-of-psychiatric-conditions) _]_
 
- **I.**
+**I.**
 
 Imagine Alice has a chronic disease. Luckily, as long as she has a job, she will have health insurance. And health insurance provides her with a treatment. Every day she takes the treatment, her health will go up one point on a 0-100 scale; every day she misses the treatment, it will go down one point. If her health ever gets below 75, she will be too ill to work.
 
@@ -33,7 +36,7 @@ This is an interesting twist to the recent discussion about taxometrics; it intr
 
 Anyone measuring Alice’s health will occasionally find that it’s in places other than 0 or 100; these are not logically impossible. But a closer analysis will find that those two values are privileged and need further investigation.
 
- **II.**
+**II.**
 
 Bob gets sad sometimes. When he’s sad, he stays in his room and refuses to talk to his friends. When he stays in his room and doesn’t talk to his friends, that makes him feel sadder.
 
@@ -45,7 +48,7 @@ And by “you could imagine” I mean “Borsboom et al have mapped this”:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7a36f073-fadd-43a1-9cc5-116b9b42798a_700x551.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7a36f073-fadd-43a1-9cc5-116b9b42798a_700x551.png)
 
-( _[source](https://www.researchgate.net/profile/Claudia_Van_Borkulo/publication/283710583_Association_of_Symptom_Network_Structure_With_the_Course_of_Depression/links/56439b4d08ae9f9c13e05796.pdf)_ )
+(_[source](https://www.researchgate.net/profile/Claudia_Van_Borkulo/publication/283710583_Association_of_Symptom_Network_Structure_With_the_Course_of_Depression/links/56439b4d08ae9f9c13e05796.pdf)_)
 
 Every person has different connections between their depressive symptoms. Being sad might make Bob stay in his room, but it might make _you_ go out and look for something to cheer you up. Still, we can notice some trends; people who are prone to depression seem to have much thicker connections than people who aren’t.
 
@@ -61,7 +64,7 @@ People often ask: is depression the just same thing as normal sadness? Taxometri
 
 So have Borsboom et al solved depression? I don’t think so. We know [inflammation plays a major role in depression](https://slatestarcodex.com/2015/01/05/chronic-psychitis/), so any dynamical systems perspective that doesn’t include a little circle for inflammation is going to be missing a lot of the picture. But the same is true of circadian rhythm, thyroid status, folate levels, and trauma history. Can you ever graph all of this effectively? Wouldn’t the graph start becoming so big and so complex that we stopped being able to conceive of it as a system at all?
 
- **III.**
+**III.**
 
 Imagine some benevolent aliens surveilling Earth from orbit. They don’t understand our languages, and their own culture is so exotic that even basic ideas like “money” or “war” are hard for them to grasp. Still, they have good telescopes, and they’re able to measure things like how much light our cities have, how much traffic is on our roads and sea-lanes, and how much smoke our industries emit.
 
@@ -101,7 +104,7 @@ Dr. Xjvar insists that “recession” is a natural part of the boom-bust cycle,
 
 (if you’re seeing this in your mind’s eye, picture it all as being underneath a giant solid-light hologram advertising Vraylar. Nowhere in the galaxy is safe from [the Vraylar ads](https://slatestarcodex.com/2019/05/22/the-apa-meeting-a-photo-essay/))
 
- **IV.**
+**IV.**
 
 The global economy behaves like a huge dynamical system. Everything affects everything else in so many different ways that it’s hard to keep track of.
 

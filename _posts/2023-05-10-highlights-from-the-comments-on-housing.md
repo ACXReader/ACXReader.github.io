@@ -3,19 +3,22 @@ title: "Highlights From The Comments On Housing Density And Prices"
 subtitle: "..."
 date: 2023-05-10
 likes: 72
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/119545176/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d6a6159-a16f-45e3-b15a-e62cb2c73336_1200x900.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-housing
 ---
 _Original post:[Change My Mind: Density Increases Local But Decreases Global Prices](https://astralcodexten.substack.com/p/change-my-mind-density-increases)_
 
- **Table Of Contents:**
+**Table Of Contents:**
 
- **1.** Comments About Whether Density Causes Desirability  
- **2.** Comments About Jobs And Amenities (And Not Density Per Se) Producing Desirability  
- **3.** Comments About Chinese Ghost Cities  
- **4.** Comments Accusing Me Of Not Considering Tokyo, Even Though I Included A Section In The Post On Why I Didn’t Think Tokyo Was Relevant  
- **5.** Comments Accusing Me Of Not Understanding Economics  
- **6.** Comments By Famous People Who Potentially Have Good Opinions  
- **7.** My Final Thoughts + Poll
+**1.** Comments About Whether Density Causes Desirability  
+**2.** Comments About Jobs And Amenities (And Not Density Per Se) Producing Desirability  
+**3.** Comments About Chinese Ghost Cities  
+**4.** Comments Accusing Me Of Not Considering Tokyo, Even Though I Included A Section In The Post On Why I Didn’t Think Tokyo Was Relevant  
+**5.** Comments Accusing Me Of Not Understanding Economics  
+**6.** Comments By Famous People Who Potentially Have Good Opinions  
+**7.** My Final Thoughts + Poll
 
 ## 1\. Comments About Whether Density Causes Desirability
 
@@ -91,7 +94,7 @@ Potential counterargument: Each new Bay Area resident gives the Bay another lott
 
 Potential counter-counter-argument: the Bay got Google, _and_ Facebook, _and_ Apple, _and_ . . . so these can’t all be separate lotteries. I think you should probably model it as a high-level lottery to become the next hub of a tech-sized industry, plus many low-level lotteries where once you’re the tech hub, you’re attracting lots of techies, and each techie gives you a ticket in a lottery where the denominator is the number of techies to found the next big tech company. And the Bay might have half the US’s techie population. So maybe here there _is_ a self-sustaining lottery-winning cycle, at least until tech plays itself out and nobody wants any more tech companies. And that might take a long time.
 
-Tom (author of _[Tom Thought](https://tomthought.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)_ ) writes:
+Tom (author of _[Tom Thought](https://tomthought.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)_) writes:
 
 > The primary drivers of demand for living in NYC are the specific opportunities available in NYC. It is true that on long time horizons, one of the reasons these opportunities have tended to collect in NYC is that it is a dense place. But those aren't the only reasons - NYC is much more important than other, bigger cities in other parts of the world for complex historical reasons. Even if a catastrophe were to wipe out half the city, there would still be a great deal of demand to live near important institutions like Broadway, Wall Street, Port of NY & NJ, Columbia, etc (assuming those institutions survived the catastrophe).
 > 
@@ -111,11 +114,11 @@ This just seems to be passing the buck. Yes, people move to New York because it 
 
 Some people brought these up as a good natural experiment: the Chinese really _did_ try building millions of houses on their equivalent of a North Dakota plain. What happened? 
 
-Jeremiah Johnson (author of _[Infinite Scroll](https://www.infinitescroll.us/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)_ ) [writes](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15487661):
+Jeremiah Johnson (author of _[Infinite Scroll](https://www.infinitescroll.us/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)_) [writes](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15487661):
 
 > You currently seem like you're at the stage of understanding the thought experiments pretty well, but not understanding them on a DEEP level. For example with your hypothetical, this has actually happened before! Kind of. China built a bunch of 'ghost cities' basically out of nothing, and while there was an initial craze of speculation and tons of investment and building... nobody went to live in those cities most of the time. And now they're deeply distressed assets worth basically nothing. When nobody actually lives in the ghost city, it doesn't matter that they have super dense housing. There's no demand. (the only reason they might be worth something is that the CCP very, very much does not want to pop their huge housing bubble and is likely to bail out some of the parties involved)
 
-Parmenides (author of _[Last House On The Left](https://houseleft.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)_ ) [writes](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15477800):
+Parmenides (author of _[Last House On The Left](https://houseleft.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)_) [writes](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15477800):
 
 > I think your mixing up the agglomeration effects of density, which is what induces the demand, and the housing supply. You can't just build a city and expect people to move in, China has tried that. But if you have the agglomeration effects of density and shortage of housing due to artificial constraints, which we have all across the US, then you get dense areas with high housing costs.
 
@@ -159,7 +162,7 @@ Still, the Chinese housing market is weird, with significant vacancies even in e
 > 
 > <https://www.researchgate.net/publication/345092218_Housing_Vacancy_Rate_in_Major_Cities_in_China_Perspectives_from_Nighttime_Light_Data>
 
-And Phil H (author of the blog _[Tang Poetry](https://tangpoetry.substack.com/)_ ) [writes](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15488352):
+And Phil H (author of the blog _[Tang Poetry](https://tangpoetry.substack.com/)_) [writes](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15488352):
 
 > The price of housing in China has skyrocketed over the past few decades, as all those extra apartments have been built. I live in a pleasant but unremarkable southern city, and I paid London prices (about 4.5m yuan/$650k for a 1,300 sq ft flat). That seems to match Scott's hypothesis that high density leads to high prices. House prices here have risen much faster than incomes. They've risen in rural areas, too, but the increases in price in cities have been stratospheric.
 
@@ -229,7 +232,7 @@ I still think this is missing my point, but I present it here in case anyone els
 
 ## 6\. Comments By Famous People Who Potentially Have Good Opinions
 
- **Scott Sumner** is an economist and blogger; he [writes:](https://www.econlib.org/why-scott-alexander-is-wrong/)
+**Scott Sumner** is an economist and blogger; he [writes:](https://www.econlib.org/why-scott-alexander-is-wrong/)
 
 > It is certainly the case that building more housing can make a city more desirable, and that this effect could be so strong that it overwhelms the price depressing impact of a greater quantity supplied. But studies suggest that this is not generally the case.
 > 
@@ -269,7 +272,7 @@ During the last fifty years, there was also deindustrialization and demographic 
 
 I agree with all this.
 
- **Jeremiah Johnson** is a co-founder of the [Center for New Liberalism](https://cnliberalism.org/who-we-are), host of [the Neoliberal Podcast](https://open.spotify.com/show/6EEUw7cOQ6ZqGJpe7QLRbw), and a YIMBY activist (not to be confused with [Jeremiah “Liver-Eating” Johnson](https://en.wikipedia.org/wiki/Liver-Eating_Johnson), who killed 300 Native Americans and ate their livers). He writes:
+**Jeremiah Johnson** is a co-founder of the [Center for New Liberalism](https://cnliberalism.org/who-we-are), host of [the Neoliberal Podcast](https://open.spotify.com/show/6EEUw7cOQ6ZqGJpe7QLRbw), and a YIMBY activist (not to be confused with [Jeremiah “Liver-Eating” Johnson](https://en.wikipedia.org/wiki/Liver-Eating_Johnson), who killed 300 Native Americans and ate their livers). He writes:
 
 > Here's why you're wrong in a single sentence: Demand causes high prices, not new units.
 > 
@@ -299,7 +302,7 @@ But maybe I should take this same lesson to heart myself. Dense cities are mostl
 
 There are a few very trendy small coastal villages in California (think eg [Sea Ranch](https://en.wikipedia.org/wiki/Sea_Ranch,_California)); maybe these (rather than North Dakota) are the natural control group for San Francisco. I think they are still cheaper than SF, but maybe not by very much.
 
- **Cameron Murray** is a housing economist whose work [some other commenters](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15482936) recommended; he also writes the blog _[Fresh Economic Thinking](https://www.fresheconomicthinking.com/)_. He very kindly showed up and [wrote](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15479733):
+**Cameron Murray** is a housing economist whose work [some other commenters](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15482936) recommended; he also writes the blog _[Fresh Economic Thinking](https://www.fresheconomicthinking.com/)_. He very kindly showed up and [wrote](https://astralcodexten.substack.com/p/change-my-mind-density-increases/comment/15479733):
 
 > I think you are in general right that agglomeration effects are real, which is why bigger cities have higher value to residents. I agree that people move locations. But I think you can go a step further. If one city is growing faster and densifying, surely those people are not demanding homes in other cities and those cities build slower. This is part of the spatial equilibrium story that further makes claims about “build density and get cheap homes” less plausible.
 
@@ -337,14 +340,14 @@ And although I believed these all along, here are some other things I still beli
 
 I’m curious to hear what people think, so I’m including a poll at the end of this post. The question is:
 
->  _Suppose the city of Oakland, California, was randomly chosen for an experiment in which they had to build 25,000 extra market-rate housing units per year beyond their current plan, with proportional increases in the number of office buildings, schools, etc. In terms of style, quality, location, etc, these homes would be distributed in exactly the same proportion as the city’s existing housing stock. If two people moved into each of these units, this would bring Oakland’s population from ~500,000 now to ~1,000,000 at the end of the decade. Suppose that every other city continues its current policy during this time._
+> _Suppose the city of Oakland, California, was randomly chosen for an experiment in which they had to build 25,000 extra market-rate housing units per year beyond their current plan, with proportional increases in the number of office buildings, schools, etc. In terms of style, quality, location, etc, these homes would be distributed in exactly the same proportion as the city’s existing housing stock. If two people moved into each of these units, this would bring Oakland’s population from ~500,000 now to ~1,000,000 at the end of the decade. Suppose that every other city continues its current policy during this time._
 > 
->  _At the end of the ten years, you would expect housing prices (compared to an alternate Oakland that didn’t perform this experiment) to be:_
+> _At the end of the ten years, you would expect housing prices (compared to an alternate Oakland that didn’t perform this experiment) to be:_
 > 
->  _1\. Less expensive_
+> _1\. Less expensive_
 > 
 >  _2\. No strong beliefs, it depends on various other factors that could go either way_
 > 
 >  _3\. More expensive_
 
- **[Vote here](https://forms.gle/zqsWgM9nZSWDtqjMA)** , I’ll report results in the next Open Thread.
+**[Vote here](https://forms.gle/zqsWgM9nZSWDtqjMA)** , I’ll report results in the next Open Thread.

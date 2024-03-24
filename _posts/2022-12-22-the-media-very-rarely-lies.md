@@ -3,11 +3,14 @@ title: "The Media Very Rarely Lies"
 subtitle: "\"With a title like that, obviously I will be making a nitpicky technical point.\""
 date: 2022-12-22
 likes: 515
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/81312519/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cf1c36f4-4f19-419a-9825-5e2b423e5b6a_976x549.jpeg
 original-url: https://www.astralcodexten.com/p/the-media-very-rarely-lies
 ---
 **Related:**[Bounded Distrust](https://astralcodexten.substack.com/p/bounded-distrust), [Moderation Is Different From Censorship](https://astralcodexten.substack.com/p/moderation-is-different-from-censorship)
 
- **I.**
+**I.**
 
 With a title like that, obviously I will be making a nitpicky technical point. I’ll start by making the point, then explain why I think it matters.
 
@@ -15,7 +18,7 @@ The point is: the media rarely lies explicitly and directly. Reporters rarely sa
 
 Let me give a few examples from both the alternative and establishment medias.
 
- **II.**
+**II.**
 
 Looking on Infowars, one of their top stories as I write this is [New Vaccine Data Shows Alarming Number Of Stillbirths And Miscarriages Caused By Covid Shot](https://www.infowars.com/posts/new-vaccine-data-shows-alarming-number-of-stillbirths-and-miscarriages-caused-by-covid-shot/). It’s based on the VAERS system of vaccine adverse events, which looks like this:
 
@@ -33,7 +36,7 @@ Looking through Infowars, it looks like many of their articles are around this q
 
 (if you disagree with this, it might be worth looking through the front page of [www.infowars.com](https://www.infowars.com/) and calculating what percent of the articles seem technically-true-but-misleading vs. completely-made-up. I tried this and had trouble finding the latter, but your experience might differ)
 
- **III.**
+**III.**
 
 So Infowars often provides accurate data, but interprets it incorrectly, without necessary context. They’re not alone in this; it’s much like how the _New York Times_ [reports on real child EEG data but interprets it incorrectly](https://astralcodexten.substack.com/p/against-that-poverty-and-infant-eegs), or how _Scientific American_ [reports real data on women in STEM but interprets it incorrectly](https://slatestarcodex.com/2015/01/24/perceptions-of-required-ability-act-as-a-proxy-for-actual-required-ability-in-explaining-the-gender-gap/), etc. This doesn’t mean these establishment papers are _exactly as bad_ as Infowars; just that when they do err, it’s by committing a more venial version of the same sin Infowars commits.
 
@@ -41,7 +44,7 @@ I [criticized this story](https://slatestarcodex.com/2015/02/14/drug-testing-wel
 
 Or consider this _New York Times_ article (which I’ve also criticized before): [Free Market For Education: Economists Don’t Buy It](http://mobile.nytimes.com/2016/12/30/upshot/free-market-for-education-economists-generally-dont-buy-it.html). It said that only 36% of economists on a survey supported school vouchers - and if even _economists_ don’t support a free market policy, surely that policy must be very stupid indeed. Not mentioned in the article: only 19% of economists in the same survey opposed school vouchers. The majority described themselves as uncertain - but among those who expressed an opinion, nearly twice as many were pro as con. Again, some might say this was important context. But NYT didn’t lie outright; they reported the headline number correctly.
 
- **IV.**
+**IV.**
 
 Okay, that’s my nitpicky point. Who cares? Obviously all of this kind of stuff is more than deceptive enough to in fact leave a bunch of people misinformed. So why do I care if it misinforms them by lying, or by misinterpreting things and taking them out of context?
 

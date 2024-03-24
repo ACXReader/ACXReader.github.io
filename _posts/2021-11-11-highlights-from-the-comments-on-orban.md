@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Orban"
 subtitle: "..."
 date: 2021-11-11
 likes: 54
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/43814429/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F112ea78f-c29c-47a5-b175-fa943b33e310_1200x800.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-orban
 ---
 [Lyman Stone](https://twitter.com/lymanstoneky/status/1456701957125591043) on Twitter:

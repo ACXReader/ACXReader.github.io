@@ -3,11 +3,14 @@ title: "ACX Classifieds 9/23"
 subtitle: "..."
 date: 2023-09-21
 likes: 56
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/137252614/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/b96f4703-1401-40bc-b365-d67c73868da4_617x395.png
 original-url: https://www.astralcodexten.com/p/acx-classifieds-923
 ---
 This is the trimonthly (?) classifieds thread. Advertise whatever you want in the comments.
 
-To keep things organized, please respond to the appropriate top-level comment: **Employment, Dating, Read My Blog** (also includes podcasts, books, etc) **, Consume My Product/Service, Meetup,** or **Other.** I’ll delete anything that’s not in the appropriate category.
+To keep things organized, please respond to the appropriate top-level comment:**Employment, Dating, Read My Blog**(also includes podcasts, books, etc)**, Consume My Product/Service, Meetup,** or **Other.** I’ll delete anything that’s not in the appropriate category.
 
 Remember that posting dating ads is hard and scary. Please refrain from commenting too negatively on anyone’s value as a human being. I’ll be much less strict about employers, bloggers, etc.
 

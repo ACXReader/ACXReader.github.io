@@ -3,11 +3,14 @@ title: "Highlights From The Comments On Aducanumab"
 subtitle: "..."
 date: 2021-08-20
 likes: 57
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/40054518/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3dd88876-59a4-4c01-b9bb-0f836bc333a0_400x214.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-aducanumab
 ---
 These are highlights from the comments of [Adumbrations Of Aducanumab](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab), [Details Of The Infant Fish Oil Story](https://astralcodexten.substack.com/p/details-of-the-infant-fish-oil-story), and discussion of those posts elsewhere.
 
- **C_B** [writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2538221):
+**C_B** [writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2538221):
 
 > I agree with this post's overall point that the FDA is not, on average, too lax, and that the Atlantic article's take that the aducanumab approval is a sign of them being too lax is a bad take.
 > 
@@ -63,7 +66,7 @@ But **Chebky** is willing to go on record [defending aducanumab](https://astralc
 > 
 > In class we placed bets on what would happen. I said the committee will say no, and the FDA won't approve. I've rarely been so glad to be wrong.
 
- **Will**[counters](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2538048):
+**Will**[counters](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2538048):
 
 > Strong disagree. There are 10 anti-amyloid drugs that failed clinical trials in the past, some of which succeeded in removing amyloid. There should be a presumption that amyloid reduction does NOT cause a clinical benefit.
 > 
@@ -79,7 +82,7 @@ Magic9Mushroom [adds](https://astralcodexten.substack.com/p/adumbrations-of-aduc
 
 The debate goes on another couple of iterations, [click here](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2537755) for the whole subthread.
 
- **Hook** [writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2550133):
+**Hook** [writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2550133):
 
 > The FDA is forbidden from considering price during the approval process. They don't exactly say this in <https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/frequently-asked-questions-about-cder#16> but they strongly hint at the fact that price doesn't enter into the evaluation. 
 > 
@@ -91,7 +94,7 @@ Not sure if this is good or bad. It seems good that the FDA is only considering 
 
 **nuclearspaceheater** on Tumblr [writes](https://nuclearspaceheater.tumblr.com/post/659819669973286912/poipoipoi-2016-first-greg-abbott-received-a):
 
->  _> [Texas Governor] Greg Abbott received a third booster dose of the vaccine, something not yet available to the public. Now he’s receiving monoclonal antibody treatment, something the FDA has only authorized for those with “high risk for progression to severe COVID-19.” Must be nice. _
+> _> [Texas Governor] Greg Abbott received a third booster dose of the vaccine, something not yet available to the public. Now he’s receiving monoclonal antibody treatment, something the FDA has only authorized for those with “high risk for progression to severe COVID-19.” Must be nice. _
 > 
 > It occurs to me that thinking of this as a privileged depends in part on thinking of the FDA process as very excessively long, which many people here do.
 > 
@@ -101,7 +104,7 @@ This is an interesting point. We sometimes see politicians “cutting in line”
 
 * * *
 
- **Peter** [writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2537541):
+**Peter** [writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2537541):
 
 > I think the lawsuit happy legal environment in the US should get a lot of blame for this also. There are many useless and wasteful things that I have to do in medicine mostly because of the fear of getting sued. I believe many guidelines are developed with this as a background threat also and tend to trigger too many follow-up tests and exams.
 
@@ -113,7 +116,7 @@ I don’t know enough history to know how true this is, but I’d like to learn 
 
 * * *
 
- **Fallon**[writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2538655):
+**Fallon**[writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2538655):
 
 > Strongly agree with most of this article. Work at a biopharma and it's so annoying how expensive and slow the process for bringing anything to market it. What's most shocking is always how much the doctors and even internal employees internalize the FDA mentality that you'd let 10,000 people die from approval delays vs one person go to the hospital from an unintended side effect. 
 > 
@@ -125,9 +128,9 @@ The one part of this I want to ask about is the “aren’t really any [other] A
 
 * * *
 
- **The NLRG**[writes](https://sci-hub.st/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2641547):
+**The NLRG**[writes](https://sci-hub.st/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2641547):
 
->  _“I think the current state of the art is something like Isakov, Lo, and Monterhozedjat , which finds that there are a tiny few disease categories where the FDA might be slightly too aggressive, but that overall the FDA is still much too conservative."_
+> _“I think the current state of the art is something like Isakov, Lo, and Monterhozedjat , which finds that there are a tiny few disease categories where the FDA might be slightly too aggressive, but that overall the FDA is still much too conservative."_
 > 
 > I might have missed something but I think this is a misinterpretation. They say that for severe diseases the FDA is too conservative, but for for more minor ones it's too lax. Since they only ran estimates for the 30 leading causes of premature mortality it shouldn't be surprising that, for most conditions they studied, the FDA is too conservative, because most of those are pretty severe diseases. But I'm not sure you can generalize that to say that there's only a tiny few disease categories where the FDA is too aggressive.
 
@@ -135,7 +138,7 @@ Thanks for this correction. I remember there being an older paper doing cost-ben
 
 * * *
 
- **Milt** [writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2546042):
+**Milt** [writes](https://astralcodexten.substack.com/p/adumbrations-of-aducanumab/comments#comment-2546042):
 
 > No discussion of FDA intransigence would be complete without a look at the life of John Nestor, <https://www.theatlantic.com/health/archive/2012/05/medicines-missing-measure/257901/>. I’m surprised he hasn’t been mentioned yet. He spent his spare time causing massive traffic jams on DC-area highways by insisting on driving 55 in the left lane. If an author tried to create an obstinate bureaucrat character based on his life, he would be panned for being too on-the-nose. 
 
@@ -161,7 +164,7 @@ Still, like every other good idea, doctors are prone to following this one off a
 
 * * *
 
- **Charlie**[writes](https://astralcodexten.substack.com/p/details-of-the-infant-fish-oil-story/comments#comment-2554750):
+**Charlie**[writes](https://astralcodexten.substack.com/p/details-of-the-infant-fish-oil-story/comments#comment-2554750):
 
 > It sounds like your qualm is with how American healthcare law is written, not with how the laws are administered by the FDA. 
 > 
@@ -232,7 +235,7 @@ I plan to make fun of doctors who prescribe this, and maybe to rib on Axsome _a 
 
 * * *
 
- **Dausuul** , a commenter on Kevin Drum’s blog, [writes](https://jabberwocking.com/a-3-part-story-about-short-bowel-syndrome-and-the-fda/comment-page-2/#comment-24369):
+**Dausuul** , a commenter on Kevin Drum’s blog, [writes](https://jabberwocking.com/a-3-part-story-about-short-bowel-syndrome-and-the-fda/comment-page-2/#comment-24369):
 
 > I have to say, I start giving a lot of side-eye to anybody who criticizes a scientific organization (which the FDA is) with talk about "common sense" and "the average guy on the street." Whoever said "common sense is merely the collection of prejudices acquired by age 18" was dead-on, and the average guy on the street knows f**k-all about science and medicine. 
 

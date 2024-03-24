@@ -3,6 +3,9 @@ title: "Idol Words"
 subtitle: "..."
 date: 2022-03-30
 likes: 375
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/50796763/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d7e1e092-f5e5-4d23-a7ba-47a763348a03_524x368.png
 original-url: https://www.astralcodexten.com/p/idol-words
 ---
 ###### _(with apologies to[Raymond Smullyan](https://en.wikipedia.org/wiki/The_Hardest_Logic_Puzzle_Ever) and the rest of the omniscient idol riddle tradition)_
@@ -11,19 +14,19 @@ The woman was wearing sunglasses, a visor, a little too much lipstick, and a cam
 
 The center idol’s eyes glowed red, and it spoke with a voice from everywhere and nowhere, a voice like the whoosh of falling waters or the flash of falling stars. 
 
-“ **No!** ” the great voice boomed.
+“**No!** ” the great voice boomed.
 
 “Oh,” said the woman. “Because my Uber driver said - ". She cut herself off. “Well, do you know how to get there?”
 
-“ **It is here!** ” said the otherworldly voice. “ **You stand in it now!** ”
+“**It is here!** ” said the otherworldly voice. “**You stand in it now!** ”
 
 “Didn’t you just say this wasn’t it?”
 
-“ **No!** ” said the idol. “ **I said nothing of the sort!** ”
+“**No!** ” said the idol. “**I said nothing of the sort!** ”
 
 The woman stood for a second, confused. “Should I ask one of them instead?” She pointed at the idols to either side. The right idol had moose-like antlers that somehow suggested the curve of a nautilus shell; the left had a helmet like those that Trojan warriors wore when the world was young.
 
-“ **Seek to know no more!** ” they all chanted together, loudly enough that the very granite columns seemed to shake. “ **Begone!** ”
+“**Seek to know no more!** ” they all chanted together, loudly enough that the very granite columns seemed to shake. “**Begone!** ”
 
 I picked that moment to walk back in from my break. “Hi,” I said, “I’m the keeper of the omniscient idols, one of which always tells the truth, one of which always lies, and one of which answers randomly, is there a problem here?”
 
@@ -63,19 +66,19 @@ It was another boring day as the keeper of the three omniscient idols, one of wh
 
 “My first question is for the center idol,” said the man. He was thin and balding, and he wore very precise-looking spectacles. “If I asked you whether the left idol is Random, would you say yes?”
 
-“ **Yes** ,” came the immediate response from the center idol, with a cadence that sounded like a bell ringing in an endless expanse.
+“**Yes** ,” came the immediate response from the center idol, with a cadence that sounded like a bell ringing in an endless expanse.
 
 “Well then, one of the following must be true. Either you are Truth-Teller and the left is Random, you are Liar and the left is _still_ Random, or you are Random yourself. In any case, your answer proves that the right cannot be Random, so my question is for him. Right idol, is it true that 1 + 1 = 2?”
 
-“ **Yes,** ” came the immediate response from the right idol, with a certainty like a pebble striking a lake.
+“**Yes,** ” came the immediate response from the right idol, with a certainty like a pebble striking a lake.
 
 “That means the right idol must be Truth-Teller, which means I can use it as an oracle to determine the identity of the other two. So my next question is also to the rightmost idol: is the center idol Random?”
 
-“ **Yes,** ” it said again, another pebble.
+“**Yes,** ” it said again, another pebble.
 
 “Then I’ve figured it out! The left idol is Liar, the center idol is Random, and the right idol is Truth-Teller. Am I right?”
 
-“ **Seek to know no more!** ” they all chanted together, shaking the temple to its foundations. “ **Begone!** ”
+“**Seek to know no more!** ” they all chanted together, shaking the temple to its foundations. “**Begone!** ”
 
 The spectacled man looked at me. “I solved it, didn’t I?”
 
@@ -99,11 +102,11 @@ I looked up from my crossword. Someone else was here to petition the three omnis
 
 “My question is for the center idol: what must I do to succeed in business?”
 
-In a voice like the filling of great chasms, the center idol answered: “ **Penguin monkey taco!** ”
+In a voice like the filling of great chasms, the center idol answered: “**Penguin monkey taco!** ”
 
 “Excuse me?” asked the petitioner. “What was that?”
 
-“ **Penguin monkey taco**!” said the center idol.
+“**Penguin monkey taco**!” said the center idol.
 
 “Sorry,” I said. That must be the idol that always answers randomly. It’s an Internet thing. Someone on the Internet said that ‘penguin monkey taco’ was the most random series of words, and now he keeps answering that.”
 
@@ -121,7 +124,7 @@ In a voice like the filling of great chasms, the center idol answered: “ **Pen
 
 “Uh, this question is for the idol on the left. How do I succeed in business?”
 
-“ **Raise murder hornets** **and train them to attack any customer who sets foot on your premises** ,” hissed the idol, in a voice that sounded the way sharp knives feel.
+“**Raise murder hornets** **and train them to attack any customer who sets foot on your premises** ,” hissed the idol, in a voice that sounded the way sharp knives feel.
 
 “Gift shop is in the back, penguin monkey taco stand is back and to the left, have a nice day, and thank you for visiting our idol temple.”
 
@@ -131,13 +134,13 @@ In a voice like the filling of great chasms, the center idol answered: “ **Pen
 
 The petitioner was a very old woman. “Yes, question for all three of you. What is the meaning of life?”
 
-“ **To help others,** ” said the first idol, in a voice that was both singsong and deeper than any cave.
+“**To help others,** ” said the first idol, in a voice that was both singsong and deeper than any cave.
 
- **“To find happiness,”** said the second, in a voice that promised hidden subtleties.
+**“To find happiness,”** said the second, in a voice that promised hidden subtleties.
 
- **“To carry on the species,”** said the third, in a voice like a felt-covered thunderclap.
+**“To carry on the species,”** said the third, in a voice like a felt-covered thunderclap.
 
-“Thank y…” said the woman, but all three idols in unison interrupted her. “ **Seek to know no more! Begone!”**
+“Thank y…” said the woman, but all three idols in unison interrupted her. “**Seek to know no more! Begone!”**
 
 For the first time in days, I felt sorry for a petitioner. “You know I have no way of telling you which of them is telling the truth?”
 
@@ -167,7 +170,7 @@ I rolled my eyes so hard I worried I was going to strain a muscle. Then, with su
 
 The girl ran out of the temple.
 
-“ **Nice,** ” said the center idol.
+“**Nice,** ” said the center idol.
 
 * * *
 
@@ -175,21 +178,21 @@ The girl ran out of the temple.
 
 The petitioner was a middle-aged man in a black jacket. “I have a question for the center idol. What would the left idol say, if I asked it whether the right idol was Truth-teller?”
 
-In a voice with all the weight of a great pyramid, the idol answered: “ **It would say ‘penguin monkey taco.”**
+In a voice with all the weight of a great pyramid, the idol answered: “**It would say ‘penguin monkey taco.”**
 
- **“** What?”
+**“** What?”
 
-“ **It would say penguin monkey taco. It’s the idol the answers randomly, and sometimes it says ‘penguin monkey taco’ because it thinks those are especially random words, and this would be one of those times.”**
+“**It would say penguin monkey taco. It’s the idol the answers randomly, and sometimes it says ‘penguin monkey taco’ because it thinks those are especially random words, and this would be one of those times.”**
 
- **“** Um, idol on the left, is that true?”
+**“** Um, idol on the left, is that true?”
 
-“ **Penguin monkey taco** ,” said the idol on the left.
+“**Penguin monkey taco** ,” said the idol on the left.
 
-“ **I told you so,"** said the center idol. 
+“**I told you so,"** said the center idol. 
 
 “Okay, but then how…”
 
-“ **Seek to know no more!** ” chanted all three idols in unison. “ **Begone!”**
+“**Seek to know no more!** ” chanted all three idols in unison. “**Begone!”**
 
 The man looked at me, pleadingly. “But my question was really good. I would totally have - I mean - how am I supposed to - ”
 
@@ -201,15 +204,15 @@ The man looked at me, pleadingly. “But my question was really good. I would to
 
 The petitioner, a man with slick blond hair, cut me off. “Ha, no problem! I’m gonna ask each idol for next week’s Powerball numbers, then buy three tickets.” Before I could respond, he shouted “Left idol! What are next week’s winning Powerball numbers?”
 
-“ **3, 15, 26, 63, 65, and 16,** ” said the left idol, in a voice like if a vampire bat could speak.
+“**3, 15, 26, 63, 65, and 16,** ” said the left idol, in a voice like if a vampire bat could speak.
 
 “Center idol, what are next week’s winning Powerball numbers?”
 
-“ **8, 22, 24, 45, 50, and 55,”** said the center idol, in a voice like the crackling of Venusian lightning against thick cloud-banks.
+“**8, 22, 24, 45, 50, and 55,”** said the center idol, in a voice like the crackling of Venusian lightning against thick cloud-banks.
 
 “Right idol, what are next week’s winning Powerball numbers?”
 
-“ **Any who disrespect the omniscient idols by misusing their knowledge for sordid financial gain will, after their death, be sent to the bottom-most layer of Hell, where venomous worms will gnaw at their organs from the inside forever, never to know rest or surcease from pain”** said the right idol, in a monotone.
+“**Any who disrespect the omniscient idols by misusing their knowledge for sordid financial gain will, after their death, be sent to the bottom-most layer of Hell, where venomous worms will gnaw at their organs from the inside forever, never to know rest or surcease from pain”** said the right idol, in a monotone.
 
 “ _What?_ ” the man asked me, helplessly. “Is that true?”
 
@@ -237,20 +240,20 @@ Oh _man_. “Look, I’m really sorry sir, these aren’t that kind of god. We s
 
 He turned and faced the left idol, head on. “Why did you take my son?”
 
-The idol’s eyes glowed red, and it spoke in a voice like the sound frost makes coating a high window. “ **You have heard it said that life is a dream within a dream. It is more than that: it is a dream within a drama within a game within an adventure within a dream. It is engrossing, it is addictive, it is the flow state to end all flow states - so much that those playing it, in the heat of the moment, forget there is anything else - but it is only part of the All. We must all move on to other parts eventually, and some graduate sooner than others. This is unfair to those left behind, until they too pass to realms where things like ‘unfairness’ seems small and insubstantial. My condolences to your family.** ”
+The idol’s eyes glowed red, and it spoke in a voice like the sound frost makes coating a high window. “**You have heard it said that life is a dream within a dream. It is more than that: it is a dream within a drama within a game within an adventure within a dream. It is engrossing, it is addictive, it is the flow state to end all flow states - so much that those playing it, in the heat of the moment, forget there is anything else - but it is only part of the All. We must all move on to other parts eventually, and some graduate sooner than others. This is unfair to those left behind, until they too pass to realms where things like ‘unfairness’ seems small and insubstantial. My condolences to your family.** ”
 
 He turned to the center idol: “Why did you take my son?”
 
 In singsong sighs, the center idol answered: **“You have heard it said:**
 
->  _ **If the red slayer thinks he slays  
+> _**If the red slayer thinks he slays  
 >  Or if the slain thinks he is slain  
 > They know not well the subtle ways   
-> I keep and pass and turn again.**_ ****
+> I keep and pass and turn again.**_****
 
 **Your son is not dead. You never had a son.** **You drew a line around a cloud of atoms and qualities and divine fire, and called it a son. Now each has dispersed in turn. In Baghdad, there is an oilman with a nitrogen atom in his thymus that was once in your son’s parietal cortex. In Belmopan, there is an orphan who has your son’s smile; in Bratislava, a businessman with your son’s kind nature. In Bangkok lives a very holy monk who just had a thought that nobody but he and your son have ever thought before. Thus is it written:**
 
->  _ **He is made one with Nature: there is heard  
+> _**He is made one with Nature: there is heard  
 >  His voice in all her music, from the moan  
 > Of thunder, to the song of night's sweet bird;  
 > He is a presence to be felt and known  
@@ -260,7 +263,7 @@ In singsong sighs, the center idol answered: **“You have heard it said:**
 > Which wields the world with never-wearied love,  
 > Sustains it from beneath, and kindles it above.**_
 > 
->  _ **The splendors of the firmament of time  
+> _**The splendors of the firmament of time  
 >  May be eclipsed, but are extinguished not;  
 > Like stars to their appointed height they climb  
 > And death is a low mist which cannot blot  
@@ -276,17 +279,17 @@ In a voice like rice falling through aluminum tubes, the idol on the right said:
 
 “But…” said the old man. “But will I see him again, someday?”
 
- **“Seek to know no more!”** chanted all three idols in unison. “ **Begone!** ”
+**“Seek to know no more!”** chanted all three idols in unison. “**Begone!** ”
 
 When the old man had left, I turned to the idols.
 
 “Thanks,” I said. “That was . . . a good thing you did for him.”
 
-“ **You’re welcome.** ”
+“**You’re welcome.** ”
 
- **“The fact that I always lie necessarily implies that I’m a monster.”**
+**“The fact that I always lie necessarily implies that I’m a monster.”**
 
-“ **Penguin monkey taco.** ”
+“**Penguin monkey taco.** ”
 
 * * *
 
@@ -296,19 +299,19 @@ A petitioner came in. She was wearing a tweed coat and had a bit of a smirk.
 
 “My first question is for the idol on the left. Will your answer to this question be ‘no’?”
 
-“ **Yes** ,” said the idol, in a voice like the glittering of sunbeams off of diamonds.
+“**Yes** ,” said the idol, in a voice like the glittering of sunbeams off of diamonds.
 
 “Then you must be Liar or Random. Same question to the center idol - will your answer to this question be ‘no’?”
 
-“ **Penguin monkey taco,”** said the center idol.
+“**Penguin monkey taco,”** said the center idol.
 
 “That makes you Random, which means the idol on the left must have been Liar. My last question is for the idol on the right: will your answer to this question be ‘no’?”
 
- **“Penguin monkey taco,”** said the idol on the right.
+**“Penguin monkey taco,”** said the idol on the right.
 
 “Wait, what? How can - “
 
-“ **Seek to know no more!** ” chanted all three idols in unison. “ **Begone!** ”
+“**Seek to know no more!** ” chanted all three idols in unison. “**Begone!** ”
 
 “No!” she shouted. “Come on! I tricked you! I forced you to betray your nature!”
 
@@ -328,11 +331,11 @@ A petitioner walked in. She was about my age, tall, oddly cute in a sort of ethe
 
 “My question is for the left idol,” she said, kind of nervously, taking out a notebook and checking something off. “My question is: what’s going on? Why are there three idols, one of which always tells the truth, one of which always lies, and one of which answers randomly?”
 
-The idol spoke, in a voice like the flapping of great wings: “ **Long ago the God of Knowledge saw the ignorance of Man and grew sorrowful. They asked the God of Power for permission to grant your people advisors, who could lead you upon the right path. But the God of Power was charged with protecting the world from divine meddling. They denied the request, and bound the God of Knowledge with an oath, that they must never give Mankind any sort of advisor who would convey important information. The God of Knowledge thought about this oath for many eons, and decided to create us. He bent probability around this spot, so that no matter what people asked, we would never directly communicate useful advice.”**
+The idol spoke, in a voice like the flapping of great wings: “**Long ago the God of Knowledge saw the ignorance of Man and grew sorrowful. They asked the God of Power for permission to grant your people advisors, who could lead you upon the right path. But the God of Power was charged with protecting the world from divine meddling. They denied the request, and bound the God of Knowledge with an oath, that they must never give Mankind any sort of advisor who would convey important information. The God of Knowledge thought about this oath for many eons, and decided to create us. He bent probability around this spot, so that no matter what people asked, we would never directly communicate useful advice.”**
 
- **“** This question is for the center idol,” she said. “If the God of Knowledge knew that the advisors would be useless, why did he create them at all?”
+**“** This question is for the center idol,” she said. “If the God of Knowledge knew that the advisors would be useless, why did he create them at all?”
 
-The idol spoke, in a voice like a Tuvan throat-song interbred with a Gregorian chant, and said: “ **A woman asked us the meaning of life. We three idols gave her three answers, none of which she knew for sure was true. Yet she left happy, because she knew there was a meaning. In the same way, the God of Knowledge sent us as a message. They could not tell humans the secrets of the universe, but they could tell humans that there** _ **were**_ **secrets, and that the secrets could be known. Our very existence drops certain hints: that the most profound truths lie at the end of paths begun by certain seemingly trivial riddles. Or that studying mathematical logic in particular might have unexpectedly high payoff.”**
+The idol spoke, in a voice like a Tuvan throat-song interbred with a Gregorian chant, and said: “**A woman asked us the meaning of life. We three idols gave her three answers, none of which she knew for sure was true. Yet she left happy, because she knew there was a meaning. In the same way, the God of Knowledge sent us as a message. They could not tell humans the secrets of the universe, but they could tell humans that there** _**were**_**secrets, and that the secrets could be known. Our very existence drops certain hints: that the most profound truths lie at the end of paths begun by certain seemingly trivial riddles. Or that studying mathematical logic in particular might have unexpectedly high payoff.”**
 
 The girl wrote all of this down in her notebook. Then she asked the right idol: “Knowing all of this, I guess I just have, uh, a totally open-ended question for you. Um. What should I do now?”
 
@@ -368,7 +371,7 @@ It was closing time at the temple of the three omniscient idols, one of which al
 
 “Okay, fine,” I said. “My question is for the idol on the left. I was told I should ask you three questions, and I would learn something interesting. What will I learn?”
 
-The left idol spoke with a voice like daggers made of ice plunging into a wall of fire: “ **Your shoelace is untied.”**
+The left idol spoke with a voice like daggers made of ice plunging into a wall of fire: “**Your shoelace is untied.”**
 
 I looked down at my shoes. They were both tied perfectly. “Thanks, Liar. My next question is for the idol in the center. I was told I should ask you three questions, and I would learn something interesting. What will I learn?”
 

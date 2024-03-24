@@ -3,11 +3,14 @@ title: "Movie Review: Don't Look Up"
 subtitle: "Warning: contains spoilers"
 date: 2022-01-04
 likes: 275
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/46274448/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0d8a6c2e-2d55-4c4d-980b-669839b97920_1280x720.jpeg
 original-url: https://www.astralcodexten.com/p/movie-review-dont-look-up
 ---
 **I.**
 
- _Don’t Look Up_ is primarily a movie about existential risk, and [many great people](https://www.slowboring.com/p/dont-look-up) have already reviewed it as such. I’m going to be less virtuous and use it as a springboard to talk about politics.
+_Don’t Look Up_ is primarily a movie about existential risk, and [many great people](https://www.slowboring.com/p/dont-look-up) have already reviewed it as such. I’m going to be less virtuous and use it as a springboard to talk about politics.
 
 But first, the plot in a nutshell: Male Scientist and Female Scientist discover a comet will hit Earth in six months. They contact the relevant authorities, Black Scientist and Asian Scientist, and go to meet the President (who, despite being a woman, is Donald Trump). The President says scientists are always doomsaying, if people get too panicked she’ll lose the midterm election, and she’ll get around to dealing with this later.
 
@@ -25,7 +28,7 @@ The comet becomes visible in the night sky. The President hits on a new slogan, 
 
 Tech CEO tries his comet disassembly plan, but it fails, leaving Earth officially doomed. Male Scientist has a redemption arc, admits that trying to work within the system was wrong, and reconciles with various people he needs reconciling with. Everyone has a touching moment of togetherness before the comet strikes and kills them all - except the elites, who escaped on a starship designed by Tech CEO! After many years, they reach another habitable planet, but get eaten by alien dinosaurs immediately after landing. The end :-)
 
- **II.**
+**II.**
 
 Unfortunately, _Don’t Look Up_ can’t stop contradicting itself.
 
@@ -47,13 +50,13 @@ But apply it to COVID, and it’s even worse. Dr. Fauci and the CDC tell me ever
 
 What went wrong? How can you try _so_ hard to convey your politics, yet fail so badly?
 
- **III.**
+**III.**
 
 Progressivism, like conservatism and every other political philosophy, is big and complicated and self-contradictory. It tells a lot of stories to define and justify itself. Here are two of them:
 
- **First** , a story of scruffy hippies and activists protesting the Man, that embodiment of capitalism and conformism and respectability. Think Stonewall, where gay people on the margins of society spat in the face of their supposed betters and demanded their rights. Even academics are part of this tradition: Chomsky and Herman’s _Manufacturing Consent_ accuses the mainstream media of being the Man. It’s jingoist and obsessed with justifying America’s foreign adventures; we need brave truth-tellers to point out where it goes wrong. Environmentalism shares some of this same ethos. In _Erin Brockovich_ , a giant corporation is poisoning people, lying about it, and has bribed or corrupted everyone else into taking their side. Only one brave activist is able to put the pieces together and stand up for ordinary people.
+**First** , a story of scruffy hippies and activists protesting the Man, that embodiment of capitalism and conformism and respectability. Think Stonewall, where gay people on the margins of society spat in the face of their supposed betters and demanded their rights. Even academics are part of this tradition: Chomsky and Herman’s _Manufacturing Consent_ accuses the mainstream media of being the Man. It’s jingoist and obsessed with justifying America’s foreign adventures; we need brave truth-tellers to point out where it goes wrong. Environmentalism shares some of this same ethos. In _Erin Brockovich_ , a giant corporation is poisoning people, lying about it, and has bribed or corrupted everyone else into taking their side. Only one brave activist is able to put the pieces together and stand up for ordinary people.
 
- **Second** , a story that comes out of the Creationism Wars of the early 00s. _We_ are the “reality-based community”, the sane people, the normal __ people, the people with college degrees and non-spittle-covered keyboards. _They_ are unwashed uneducated lunatics who think that evolution is a lie and Obama was born in Kenya and vaccines cause autism and COVID isn’t real. Maybe they should have been clued in by the fact that 100% of smart people and institutions are on _our_ side, and _they_ are just a couple of weirdos who don’t even agree with _each other_ consistently. If this narrative has a movie, it must be _Idiocracy_ \- though a runner up might be _Behind the Curve,_ the documentary about flat-earthers. 
+**Second** , a story that comes out of the Creationism Wars of the early 00s. _We_ are the “reality-based community”, the sane people, the normal __ people, the people with college degrees and non-spittle-covered keyboards. _They_ are unwashed uneducated lunatics who think that evolution is a lie and Obama was born in Kenya and vaccines cause autism and COVID isn’t real. Maybe they should have been clued in by the fact that 100% of smart people and institutions are on _our_ side, and _they_ are just a couple of weirdos who don’t even agree with _each other_ consistently. If this narrative has a movie, it must be _Idiocracy_ \- though a runner up might be _Behind the Curve,_ the documentary about flat-earthers. 
 
 The first narrative says “there’s a consensus reality constructed by respectable people, and a few wild-eyed weirdos saying they’ve seen through the veil and it’s all lies…and you should trust the weirdos!” The second starts the same way, but ends “…and you should trust consensus reality!” They’re not actually contradictory - you could be talking about different questions! You _are_ talking about different questions! But they’re contradictory at the mythic narrative level where they’re trying to operate. On _that_ level, there should always be a good guy and a bad guy, and you should be able to tell who’s who by their facial hair or at _least_ the color of their clothing. You shouldn’t have to learn a bunch of facts about the biochemistry of hexavalent chromium (or whatever it was Erin Brockovich was investigating) to resolve the object-level issue; nobody has time for that!
 
@@ -88,13 +91,13 @@ If you’re going to spout a lot of mutually contradictory narratives, it helps 
 
 And so some poor shmucks thought “What if we made a movie to show people why they should trust science?” And of _course_ it ended out contradictory.
 
- **IV.**
+**IV.**
 
 The one thing _Don’t Look Up_ manages to do consistently, without ever contradicting itself, is insist: this is an easy question.
 
 Many years ago, I wrote a post called [The Cowpox Of Doubt](https://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/). I complained about how people loved talking about flat-earthism or Holocaust denialism or whatever. The more you think about those kinds of questions, the more you absorb lessons like: everything has an obvious right answer, anyone who disagrees with me is an idiot, anyone trying to introduce subtlety is a concern troll, the proper length of time to debate something before dismissing it as obvious and your opponents as acting in bad faith is zero seconds. I argued you should basically never think about flat-earthism. Instead, think about when AGI will happen, or whether inflation will stabilize, or any of a thousand other questions where there are smart people on both sides of the issue. That way, you learn the right skills for solving hard questions, which are the only type you ever have any trouble solving in the first place.
 
- _Don’t Look Up_ decides - well, let’s just say it doesn’t take my advice. In the climactic final scene, obese white men in red baseball caps chant their slogan - “Don’t look up! Don’t look up!” - at a rally, while a clearly visible comet above them barrels towards Earth. The obvious feeling being elicited is condescension. You’re smarter than all those guys - the right answer is super obvious to _you._ You’re better than those Hollywood celebrities who say we need to “consider both sides”. You know there’s exactly one side to every question, it’s the drop-dead obvious one, and the right amount of time to spend thinking about it is zero seconds.
+_Don’t Look Up_ decides - well, let’s just say it doesn’t take my advice. In the climactic final scene, obese white men in red baseball caps chant their slogan - “Don’t look up! Don’t look up!” - at a rally, while a clearly visible comet above them barrels towards Earth. The obvious feeling being elicited is condescension. You’re smarter than all those guys - the right answer is super obvious to _you._ You’re better than those Hollywood celebrities who say we need to “consider both sides”. You know there’s exactly one side to every question, it’s the drop-dead obvious one, and the right amount of time to spend thinking about it is zero seconds.
 
 How are you so great at resolving questions about comets, when you know nothing about astronomy or orbital mechanics? Presumably because you have the right heuristics, the ones about which authorities to trust and which ones not to. But what _are_ those right heuristics? The writers of _Don’t Look Up_ spend 2 hours 18 minutes demonstrating that they have no idea and can’t even keep their answer consistent from one moment to the next. 
 

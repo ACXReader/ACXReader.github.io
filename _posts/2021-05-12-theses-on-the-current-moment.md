@@ -2,11 +2,14 @@
 title: "Theses On The Current Moment"
 date: 2021-05-12
 likes: 136
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36227347/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/41de84ca-d514-42f2-9c94-eeebe5a9686e_1440x907.jpeg
 original-url: https://www.astralcodexten.com/p/theses-on-the-current-moment
 ---
 _[followup to[The Rise And Fall Of Online Culture Wars](https://astralcodexten.substack.com/p/the-rise-and-fall-of-online-culture)]_
 
- **1\. The Salem Witch Hunts might not be the right metaphor**
+**1\. The Salem Witch Hunts might not be the right metaphor**
 
 We usually stick to the same stock examples of repression and retaliation against nonconformists - the Salem Witch Trials, the Red Scare, the Cultural Revolution. These are rightly remembered as awful, and reminders of them make good rallying cries.
 
@@ -18,7 +21,7 @@ This isn't to say the 1950s US was good! I think atheism, marijuana legalization
 
 Instead of thinking of ourselves in the middle of a new Salem Witch Hunt, we should think of ourselves as just coming out of a rare period of unusually high freedom of thought - a weird 1990s moment that gave us South Park, the phrase "if you don't like it then don't watch it", and most of the early Internet. That period wasn't part of an inexorable trend toward rising freedom, it was a weird anomaly that has to be actively defended lest we sink back into the normal regime that typified the 1950s and pretty much every other time period ever.
 
- **2\. There's an oversupply of tweeting and an undersupply of everything else**
+**2\. There's an oversupply of tweeting and an undersupply of everything else**
 
 I don't want to say angry tweets never accomplish anything, but there is a massive oversupply of angry tweets compared to almost any other part of the machinery of change.
 
@@ -28,7 +31,7 @@ When I was writing the first draft of this essay, the big news story was the Cap
 
 I'm not saying you have to write blog posts! Get in a discussion with a real Defund The Police supporter you know and like, and see if one of you can change the other one's mind. Sign a petition or something. Campaign for a politician whose policies you agree with. Just do anything, anything at all, other than tweet.
 
- **3\. Crushing hope is actually bad**
+**3\. Crushing hope is actually bad**
 
 Liberals lose the culture war if there's ever such a strong culture of fear that nobody is willing to assert any unpopular opinion, publish any heterodox research, or stand up for anybody who's gone against the mob.
 
@@ -48,7 +51,7 @@ But keep in mind that if you tell people "the enemy is all-powerful and omnipres
 
 How does one balance these two considerations? I don't know, but usually if I feel like I'm not being truthful, I expect I'm doing something wrong.
 
- **4\. There are some surprisingly strong reasons for hope**
+**4\. There are some surprisingly strong reasons for hope**
 
 I partly made this case already in The Rise And Fall Of Online Culture Wars, but I think it's worth emphasizing here.
 
@@ -60,7 +63,7 @@ If we can draw some kind of general principle from that, then I like where this 
 
 I admit that my social circle is tiny and highly atypical. It's just a bunch of weird Bay Area intellectuals and creative types who are really into sex and drugs. And they're up against the forces of an establishment so vast that it merges seamlessly into the very idea of American culture. Still, we had exactly that same fight in the 50s, and the weird Bay Area drug users won completely and overwhelmingly.
 
- **5\. "Don't cancel people" is not very well fleshed-out**
+**5\. "Don't cancel people" is not very well fleshed-out**
 
 In some ways that's fine. The hippies didn't have many well-fleshed-out policy proposals either. "Don't ostracize me for being gay" is a perfectly fine thing to demand even if you don't have a beautiful crystalline philosophy telling everyone exactly what to do in every possible edge case.
 
@@ -76,7 +79,7 @@ Nobody will ever have a complete solution to these problems, and that's fine. It
 
 Still, if we're arguing against cancel culture, we're proposing that our current social norms should be replaced by different social norms, and it would help to have at least a vague sketch of what those norms are. This is another thing you can work on instead of tweeting.
 
- **6\. Somebody should explore the fall of Puritanism in Massachussetts**
+**6\. Somebody should explore the fall of Puritanism in Massachussetts**
 
 Massachussetts in 1692 may have been one of the most repressive societies ever to exist. Anyone who spoke out against it was burned as a witch or exiled. Fine, okay, point taken, don't speak out against Puritanism. But by the 1820s, Massachussetts was one of the most _open_ societies in the world. The Puritan Church [turned into the Unitarian Church](https://en.wikipedia.org/wiki/Unitarian_Universalism#Puritan_roots_and_Congregationalist_background) (I swear this is true, the Unitarian Universalists are the direct descendants of the 1600 Puritans). Intellectuals like Ralph Waldo Emerson and Henry David Thoreau explored exciting new ideas like "what if Christianity sucked and the real religion was my headcanon of Hinduism I made up after learning three Sanskrit words?" How did this happen? I would love to read a book or a paper about it but I don't know of any.
 

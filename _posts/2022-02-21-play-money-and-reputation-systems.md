@@ -3,6 +3,9 @@ title: "Play Money And Reputation Systems"
 subtitle: "Mantic Monday 2/21/22"
 date: 2022-02-21
 likes: 56
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/49096803/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/26d7550c-c973-4160-aef0-ab5e69fc1e41_500x328.jpeg
 original-url: https://www.astralcodexten.com/p/play-money-and-reputation-systems
 ---
 For now, US-based prediction markets [can’t use real money](https://astralcodexten.substack.com/p/the-passage-of-polymarket?utm_source=url) without clearing near-impossible regulatory hurdles. So smaller and more innovative projects will have to stick with some kind of play money or reputation-based system.

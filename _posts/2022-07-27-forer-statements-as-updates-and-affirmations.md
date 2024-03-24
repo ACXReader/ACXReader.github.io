@@ -3,6 +3,9 @@ title: "Forer Statements As Updates And Affirmations"
 subtitle: "..."
 date: 2022-07-27
 likes: 165
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/65391645/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7d308b14-0217-4ac3-bd64-b54a2f32af9a_449x312.png
 original-url: https://www.astralcodexten.com/p/forer-statements-as-updates-and-affirmations
 ---
 The [Forer Effect](https://en.wikipedia.org/wiki/Barnum_effect) is a trick used by astrologers, psychics, and social psychologists. Given a list of statements [like these](https://en.wikipedia.org/wiki/Barnum_effect#Early_research):

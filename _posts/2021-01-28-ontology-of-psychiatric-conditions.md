@@ -3,11 +3,14 @@ title: "Ontology Of Psychiatric Conditions: Taxometrics"
 subtitle: "Is mental illness a thing? What kind of thing is it?"
 date: 2021-01-28
 likes: 245
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/31949589/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5162a0ab-9ad1-44d6-975a-5c430daff7ef_467x294.png
 original-url: https://www.astralcodexten.com/p/ontology-of-psychiatric-conditions
 ---
 _[reposted from[here](https://lorienpsych.com/2020/10/30/ontology-of-psychiatric-conditions-taxometrics/), with edits]_
 
- **I.**
+**I.**
 
 Taxometrics is the study of whether psychiatric conditions are categorical or dimensional.
 
@@ -75,7 +78,7 @@ The second graph depicts a dimensional depression that works like height or weal
 
 Clear as mud? Don’t worry, this isn’t really what most taxometricians use. They use things that are much more complicated. Any statisticians reading this might enjoy this paper on [using the comparison curve fit index in taxometric analyses](https://ruscio.pages.tcnj.edu/files/2018/06/Ruscio-et-al-2018-PA-CCFI.pdf); no guarantees about anyone else.
 
- **II.**
+**II.**
 
 In the [Brief Taxometrics Primer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2710982/) I’ve been trying to loosely follow in this post, Beauchaine strongly suggests, though doesn’t say outright, that most psychiatric disorders are dimensional, like height and wealth. But a few may be objective distinct categories, especially schizophrenia, narcissistic personality, and endogenous depression (a subtype of depression that happens for no reason, as opposed to the kind of depression you get when something bad happens). This is a completely reasonable set of findings which match my intuition and the intuitions of most other psychiatrists.
 
@@ -105,7 +108,7 @@ A few other things stand out here. Just for fun, the authors included some norma
 
 They also have a category called “gender”. They say they included measures like “femininity” and “sex-stereotyped activities” in there – I can’t find more specifics. It has a CCFI of 0.42 with confidence interval including 0.5, so looks slightly more dimensional, but can’t quite rule out it being slightly more categorical. If anyone ever demands you have an opinion on the question “is binary gender real?”, I think the most scientifically-supported answer would be “it has a Comparative Curve Fit Index of 0.42 plus or minus 0.1, which means it trends towards dimensionality but taxonicity cannot be ruled out”. There’s also a “sexuality” category on here, but it’s such a grab bag of different things (sexual orientation, how promiscuous you are, etc) that I’m not sure you can get much out of it; look at the individual studies if you want to know more.
 
- **III.**
+**III.**
 
 Does this mean that, contra all those public awareness campaigns, “depression is just normal sadness” or whatever?
 
@@ -127,7 +130,7 @@ In [Nassim Taleb’s language](https://slatestarcodex.com/2018/09/19/book-review
 
 If this is true, I think it's fair to think of severe ADHD as having the same relationship to normal absent-mindedness that Jeff Bezos has a to a guy making a little above median income. They’re the same sort of thing on the same distribution. But one is so much further out than our normal vocabulary for talking about these kinds of differences that it's okay to have a different word for it and different intuitions around it.
 
- **IV.**
+**IV.**
 
 If most mental disorders are dimensional variation rather than taxa, that kind of makes the DSM look pretty silly, doesn’t it?
 

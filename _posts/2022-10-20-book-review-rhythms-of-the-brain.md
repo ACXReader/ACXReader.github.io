@@ -3,6 +3,9 @@ title: "Book Review: Rhythms Of The Brain"
 subtitle: "..."
 date: 2022-10-20
 likes: 150
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/76187439/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/59b9a274-72d0-46fe-ac7e-dad3271526b3_1024x1024.png
 original-url: https://www.astralcodexten.com/p/book-review-rhythms-of-the-brain
 ---
 Brain waves have always felt like a mystery. You learn some psychology, some neuroscience, a bit of neuroanatomy. And then totally separate from all of this, you know that there are things called “brain waves” that get measured with an EEG. Why should the brain have waves? Are they involved in thinking or feeling or something? How do you do computation when your processors are firing in a rhythmic pattern dozens of times per second? Why don’t AIs have anything like brain waves? Should they?
@@ -27,19 +30,19 @@ I can’t stress enough how fake this model is. Buzsaki doesn’t use it; even h
 
 Here are five of the most important differences between this fake model and a real brain:
 
- **1:** The real brain has more sources of oscillations. For example, many are produced by inhibitory interneurons - neurons that, when turned “on”, turn other neurons off:
+**1:** The real brain has more sources of oscillations. For example, many are produced by inhibitory interneurons - neurons that, when turned “on”, turn other neurons off:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf360690-6ffc-41d9-8e6f-056bbe9e033e_1920x278.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf360690-6ffc-41d9-8e6f-056bbe9e033e_1920x278.png)
 
 A normal excitatory neuron is linked to an inhibitory neuron. Whenever the excitatory neuron fires, it makes the inhibitory neuron fire; whenever the inhibitor neuron fires, it turns off the excitatory neuron. Once the excitatory neuron is off, that turns off the inhibitory neuron, leaving the excitatory neuron free to fire again if the original stimulus is still there.
 
- **2:** Also, sometimes individual neurons oscillate on their own. Whenever they get too depolarized, that opens ion channels that repolarize them again, and vice versa. If you take a neuron out of the brain and put it in a test tube, it might fire at some natural frequency not necessarily related to its frequency in the broader network of the brain; it contributes its own frequency, which other nearby cells speed up or slow down.
+**2:** Also, sometimes individual neurons oscillate on their own. Whenever they get too depolarized, that opens ion channels that repolarize them again, and vice versa. If you take a neuron out of the brain and put it in a test tube, it might fire at some natural frequency not necessarily related to its frequency in the broader network of the brain; it contributes its own frequency, which other nearby cells speed up or slow down.
 
- **3:** In the fake model, every neuron was connected to a few nearby neighbors. The real brain has a much more complicated graph. Neurons can connect to thousands of other neurons, and one out of every X connections goes somewhere far away on the other side of the brain, for the same reason a good transportation network has some local trains vs. some express trains - you can get from Point A to Point B fastest with a combination of fast direct long-range connections and slower short-range ones.
+**3:** In the fake model, every neuron was connected to a few nearby neighbors. The real brain has a much more complicated graph. Neurons can connect to thousands of other neurons, and one out of every X connections goes somewhere far away on the other side of the brain, for the same reason a good transportation network has some local trains vs. some express trains - you can get from Point A to Point B fastest with a combination of fast direct long-range connections and slower short-range ones.
 
- **4:** The real brain includes many different kinds of neurons, inhibitory neurons, connections between neurons, and types of tissues with different graph theoretic organizations. If the fake model is kind of like the Game of Life, the real model is kind of like a version of the Game of Life in some contorted multidimensional space with each cell following a different rule set.
+**4:** The real brain includes many different kinds of neurons, inhibitory neurons, connections between neurons, and types of tissues with different graph theoretic organizations. If the fake model is kind of like the Game of Life, the real model is kind of like a version of the Game of Life in some contorted multidimensional space with each cell following a different rule set.
 
- **5:** Also there is actual sensory stimulation and cognition happening in lots of places at once, messing up the otherwise elegant wave pattern.
+**5:** Also there is actual sensory stimulation and cognition happening in lots of places at once, messing up the otherwise elegant wave pattern.
 
 So instead of one oscillation taking over the whole brain, you get lots of oscillations with different properties arising, competing against, and interfering with each other, producing complicated self-organizing patterns that arise and disappear from moment to moment
 
@@ -106,7 +109,7 @@ Along with these classic ones, _Rhythms_ briefly touches on much faster or slowe
 
 ## Okay, But Why Is This Interesting?
 
- _Rhythms Of The Brain_ is a very typical neuroscience book, which means it goes for phrases like “the grundicular region modulates output from the parashmoxular cortex” with the same fervor that the Bible hangs on “….and then Zebulav begat Ramulot.” There were a few hits of high-grade refined insight in it, but you had to look pretty hard to find them.
+_Rhythms Of The Brain_ is a very typical neuroscience book, which means it goes for phrases like “the grundicular region modulates output from the parashmoxular cortex” with the same fervor that the Bible hangs on “….and then Zebulav begat Ramulot.” There were a few hits of high-grade refined insight in it, but you had to look pretty hard to find them.
 
 I read it anyway because of a talk with Andres of Qualia Research that convinced me that brain waves are potentially fascinating. Let me try to explain this, while admitting that unlike the work of the sober Professor Buzsaki, this is all total wild speculation that I can’t back up at all.
 
@@ -140,6 +143,6 @@ If brain waves are really responsible for things like attention and cross-talk b
 
 But if brain waves are involved in selfhood, consciousness, and enlightenment, then would an AI that found some other route around this problem miss out on these things? Would this matter? Would it be a loss?
 
- _Rhythms Of The Brain_ will not answer these questions, but right now it’s the only starting point for anyone who wants to learn about brain oscillations. Read it, then explain to me what I missed. 
+_Rhythms Of The Brain_ will not answer these questions, but right now it’s the only starting point for anyone who wants to learn about brain oscillations. Read it, then explain to me what I missed. 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F896bd457-7b38-4eba-b745-1c3c28e97d32_264x398.png)](https://amzn.to/3CrVDHz)

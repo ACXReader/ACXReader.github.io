@@ -3,11 +3,14 @@ title: "Singing The Blues"
 subtitle: "..."
 date: 2024-01-03
 likes: 339
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/140279341/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/dfa07e16-fcff-4d9a-af9a-960bbfbc19e8_745x564.png
 original-url: https://www.astralcodexten.com/p/singing-the-blues
 ---
 _[epistemic status: speculative]_
 
- **I.**
+**I.**
 
 [Millgram et al (2015)](https://sci-hub.tw/10.1177/0956797615583295) find that depressed people prefer to listen to sad rather than happy music. This matches personal experience; when I'm feeling down, I also prefer sad music. But why? Try setting aside all your internal human knowledge: wouldn’t it make more sense for sad people to listen to happy music, to cheer themselves up?
 
@@ -17,7 +20,7 @@ I prefer Millgram’s explanation: there's something strange about depressed peo
 
 Why should this be?
 
- **II.**
+**II.**
 
 Let’s review control theory, ie the theory of homeostasis and bodily set points.
 
@@ -29,7 +32,7 @@ Although specific set points (eg 98.6) are set by evolution, they’re not hard-
 
 The funny thing about fevers is that _you feel cold_. Someone with a fever shivers. They demand to cover themselves in blankets. All of this makes sense, right? Your inner thermostat notices you’re at 98.6, and that’s colder than the desired temperature of 102. So it activates unconscious regulatory processes (like shivering) and conscious regulatory processes (like making you feel cold). Since you consciously feel cold, you engage in heat-seeking behaviors. You cover yourself in blankets, or turn up the space heater. This seems paradoxical (why does someone with a fever, ie someone who is too hot, feel cold?!) but it’s perfectly logical from the control theory perspective.
 
- **III.**
+**III.**
 
 [I’ve previously argued that anorexia](https://slatestarcodex.com/2017/04/26/anorexia-and-metabolic-set-point/) is another condition that only makes sense in the context of set points.
 
@@ -59,7 +62,7 @@ Now let’s take it all the way:
 
 
 
- **IV.**
+**IV.**
 
 In anorexia, some psychosocial event (like criticism from a ballet coach and subsequent voluntary self-starvation) causes a shock to the lipostat. Instead of correctly activating regulatory processes to get body weight back to normal, it accepts the new level as its new set point, and tries to defend it.
 
@@ -92,7 +95,7 @@ I’ve previously endorsed predictive coding theories of depression and other il
 
 [Many of the claims of predictive coding can be rephrased as claims about control theory](https://slatestarcodex.com/2019/03/20/translating-predictive-coding-into-perceptual-control/), and vice versa. You have to slightly fudge things to make this work on homeostatic bodily processes, but this is the kind of fudging that Karl Friston has already worked into his [free energy](https://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/) concept.
 
-In predictive coding, the equivalent of control theory’s “set point” is the “prior”. This suggests an elegant equivalence: an incorrectly fixed set point, like those in anorexia and depression, are the same thing as [a trapped prior](/p/trapped-priors-as-a-basic-problem).
+In predictive coding, the equivalent of control theory’s “set point” is the “prior”. This suggests an elegant equivalence: an incorrectly fixed set point, like those in anorexia and depression, are the same thing as [a trapped prior](/p/trapped-priors-as-a-basic-problem). 
 
 Depression is a trapped prior on low mood, which can also be thought of as a thymostat set to low mood. From a cognitive point of view, you can think of this as a deranged prior leading to [confirmation bias](https://slatestarcodex.com/2020/02/12/confirmation-bias-as-misfire-of-normal-bayesian-reasoning/) across thoughts and activities; from an enactive point of view, you can think of it as a control system maintaining a set point with effectively-regulatory thoughts and activities. The cognitive point of view is helpful when you’re thinking about cognitive half of CBT, and the enactive point of view is helpful when you’re thinking about the behavioral activation half of CBT.
 

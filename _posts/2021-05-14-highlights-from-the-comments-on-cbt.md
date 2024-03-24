@@ -3,17 +3,20 @@ title: "Highlights From The Comments On CBT-i Apps"
 subtitle: "Including some CBT-i apps that cost less than $899"
 date: 2021-05-14
 likes: 34
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36399568/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ec6a36ce-4e12-4251-99bc-5d083e434af9_2250x1500.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-cbt
 ---
 Several people in the comments pointed out existing lower-cost CBT-i apps! This was news to me - I'd searched pretty comprehensively and hadn't found any besides the VA's CBT-i Coach, which is not intended for individual use. They were:
 
- **1:** [Night Owl](https://apps.apple.com/us/app/night-owl-sleep-coach/id1044691086), seems good but only available for iOS
+**1:** [Night Owl](https://apps.apple.com/us/app/night-owl-sleep-coach/id1044691086), seems good but only available for iOS
 
- **2:** [Sleepedy](https://www.sleepedy.com/cbt-for-insomnia) is more of a service than an app, and involves consultations and coaches. When I tried to sign up, it made me take an annoying quiz, click through a bunch of testimonials, and then finally gave me a "Schedule your free call today!" page. Still probably less annoying than seeing an in-person therapist, I guess, and $29/month.
+**2:** [Sleepedy](https://www.sleepedy.com/cbt-for-insomnia) is more of a service than an app, and involves consultations and coaches. When I tried to sign up, it made me take an annoying quiz, click through a bunch of testimonials, and then finally gave me a "Schedule your free call today!" page. Still probably less annoying than seeing an in-person therapist, I guess, and $29/month.
 
- **3:** [Dozy](https://www.dozy.health/), seems potentially good but still in private beta. Will probably launch in a few months; expected $10 - $30 price point.
+**3:** [Dozy](https://www.dozy.health/), seems potentially good but still in private beta. Will probably launch in a few months; expected $10 - $30 price point.
 
-Someone mentioned the founder of Dozy was an effective altruist and connected to me through the social graph, so I reached out. He says he's a CS student who dropped out to work on "creat[ing] more accessible & impactful mental health treatments, with insomnia as a starting point". He writes that he's looking for potential co-founders, fundraising help, and advisors in the field. If you're interested, please contact him at sam@dozy.health **.**
+Someone mentioned the founder of Dozy was an effective altruist and connected to me through the social graph, so I reached out. He says he's a CS student who dropped out to work on "creat[ing] more accessible & impactful mental health treatments, with insomnia as a starting point". He writes that he's looking for potential co-founders, fundraising help, and advisors in the field. If you're interested, please contact him at sam@dozy.health**.**
 
 (I know some of you don’t like when I advertise things on here; feel free to tell me in the comments whether or not you think this example was appropriate)
 

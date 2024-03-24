@@ -3,11 +3,14 @@ title: "Ontology Of Psychiatric Conditions: Tradeoffs And Failures"
 subtitle: "To what degree are psychiatric conditions more like diseases (always bad) vs. diverse neurotypes (potentially good)?"
 date: 2021-02-11
 likes: 155
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32420505/comments?&all_comments=true
+image: https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61743c6b-5f33-4264-a722-cfb527351950_673x551.png
 original-url: https://www.astralcodexten.com/p/ontology-of-psychiatric-conditions-653
 ---
 _[previously in sequence:[Taxometrics](https://astralcodexten.substack.com/p/ontology-of-psychiatric-conditions), [Dynamical Systems](https://astralcodexten.substack.com/p/ontology-of-psychiatric-conditions-34e). Epistemic status: **speculative**. This should go without saying, but when I talk about “failures” in this post, I mean failures of biological processes, as in the term “congestive heart failure”; I don’t mean to accuse people with psychiatric conditions of being failures.]_
 
- **I.**
+**I.**
 
 Most psychiatric disorders are at least partly genetic. Some, like schizophrenia and ADHD, are very genetic, probably 80% plus. This is strange, because having psychiatric disorders seems bad, so you would expect evolution to have eliminated those genes. Researchers looking into this question argue between two hypotheses. 
 
@@ -53,7 +56,7 @@ This is all fun to think about, but again, the research is pretty discouraging. 
 
 I think the best way to reconcile this is to say it's sometimes failures and sometimes tradeoffs, with the failures sufficiently more common that studies that naively just sum everything up (eg check whether the overall genetic correlation is positive or negative, or whether average IQ is higher or lower) mostly find a failure. Let's discuss in more detail what this might look like.
 
- **II.**
+**II.**
 
 Suppose you hear of a nearby country where guilty criminals often walk free. There are just as many police officers as in your own country, they make just as many arrests, but when the trials are over, you hear a lot of stories about guilty people getting acquitted. You might consider two different hypotheses about why this happens.
 
@@ -69,7 +72,7 @@ But in reality, failures and tradeoffs will interact. In a country biased toward
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61743c6b-5f33-4264-a722-cfb527351950_673x551.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61743c6b-5f33-4264-a722-cfb527351950_673x551.png)
 
- _Or_ , consider the [Stanislav Petrov scenario](https://en.wikipedia.org/wiki/Stanislav_Petrov): apocalypse via nuclear false alarm. If the US falsely believes that Russia has launched nuclear missiles, they will "retaliate" with real nuclear missiles, starting a nuclear war. There are two sets of risk factors for such a false alarm. First, the US radar has to fail catastrophically, reporting a missile launch when no such launch has happened. Second, the US has to decide to respond to an apparent missile launch by immediate retaliation, rather than a "wait and see" approach.
+_Or_ , consider the [Stanislav Petrov scenario](https://en.wikipedia.org/wiki/Stanislav_Petrov): apocalypse via nuclear false alarm. If the US falsely believes that Russia has launched nuclear missiles, they will "retaliate" with real nuclear missiles, starting a nuclear war. There are two sets of risk factors for such a false alarm. First, the US radar has to fail catastrophically, reporting a missile launch when no such launch has happened. Second, the US has to decide to respond to an apparent missile launch by immediate retaliation, rather than a "wait and see" approach.
 
 The first risk factor is a failure. The missile system was poorly built, stupid, buggy, defective. There is no advantage to having a missile system like this. It just means you were too dumb to make a better one.
 
@@ -115,7 +118,7 @@ I don't know if this is quite right. But it would reconcile two seemingly contra
 
 Go back to the two ways a justice system can go wrong. First, it sets too many guilty people free. Second, it convicts too many innocent people. If you ask which tradeoffs cause each problem, you'll find they're opposites. But if you ask which failures cause each problem, you'll find they're mostly the same - lazy jurors, stupid detectives, insufficient funding. I think this matches the psychiatric case, where disorders can seem opposite in many ways but also share many of the same risk factors.
 
- **IV.**
+**IV.**
 
 I think most psychiatric disorders exist on a spectrum from mostly-tradeoff to mostly-failure (what we might call "high-functioning" and "low-functioning" versions of the same phenotype).
 

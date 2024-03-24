@@ -3,11 +3,14 @@ title: "Book Review: The Man From The Future"
 subtitle: "..."
 date: 2022-07-13
 likes: 246
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/62533781/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/81b62d4c-2bbc-46c9-898d-ff2a029ac874_800x500.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-the-man-from-the-future
 ---
 John von Neumann invented the digital computer. The fields of game theory and cellular automata. Important pieces of modern economics, set theory, and particle physics. A substantial part of the technology behind the atom and hydrogen bombs. Several whole fields of mathematics I hadn’t previously heard of, like “operator algebras”, “continuous geometry”, and “ergodic theory”.
 
- _[The Man From The Future](https://amzn.to/3ywbZM0) ,_ by Ananyo Bhattacharya, touches on all these things. But you don’t read a von Neumann biography to learn more about the invention of ergodic theory. You read it to gawk at an extreme human specimen, maybe the smartest man who ever lived.
+_[The Man From The Future](https://amzn.to/3ywbZM0) ,_ by Ananyo Bhattacharya, touches on all these things. But you don’t read a von Neumann biography to learn more about the invention of ergodic theory. You read it to gawk at an extreme human specimen, maybe the smartest man who ever lived.
 
 By age 6, he [could ](https://en.wikipedia.org/wiki/John_von_Neumann)multiply eight-digit numbers in his head. At the same age, he spoke conversational ancient Greek; later, he would add Latin, French, German, English, and Yiddish ([sometimes](https://www.ams.org/journals/bull/1958-64-03/S0002-9904-1958-10189-5/S0002-9904-1958-10189-5.pdf) he joked about also speaking Spanish, but he would just put "el" before English words and add -o to the end) . Rumor had it he memorized everything he ever read. A fellow mathematician once tried to test this by asking him to recite _Tale Of Two Cities_ , and reported that “he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes”. 
 
@@ -21,11 +24,11 @@ This is not really what Bhattacharya is here for. He does not _entirely_ resist 
 
 Still, for those of us who never made their high school math tutors cry with joy at ever having met them (another von Neumann story, this one well-attested), the man himself is more of a draw than his ergodic theory. And there’s enough in _The_ _Man From The Future -_ and in some of the few hundred references it cites - to start to get a coherent picture.
 
- **Where Did Von Neumann Even Come From?**
+**Where Did Von Neumann Even Come From?**
 
 The canonical answer is “Mars”.
 
- _Technically_ he was born in Hungary. But we’ve already been through this. A few years ago [I wrote about ](https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/)“The Martians” - a sudden spurt of Hungarian supergeniuses born around 1900. People low-key noticed this phenomenon almost as soon as it started, but it really became obvious during the Manhattan Project, when several of the project’s leading lights (including von Neumann) reconnected in the deserts of New Mexico c. 1940 and realized they’d gone to high school together in Budapest. Leo Szilard joked that “Hungary” was a front for Martian spies, and the group has been called “Martians” ever since..
+_Technically_ he was born in Hungary. But we’ve already been through this. A few years ago [I wrote about ](https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/)“The Martians” - a sudden spurt of Hungarian supergeniuses born around 1900. People low-key noticed this phenomenon almost as soon as it started, but it really became obvious during the Manhattan Project, when several of the project’s leading lights (including von Neumann) reconnected in the deserts of New Mexico c. 1940 and realized they’d gone to high school together in Budapest. Leo Szilard joked that “Hungary” was a front for Martian spies, and the group has been called “Martians” ever since..
 
 In my post, I was able to track down a few clues to the mystery. All of the Martians were Jewish, which linked the puzzle to the general puzzle of Jewish overachievement (for example, 36% of US Nobel Prize winners are Jews, compared to only 2% of the US population). Greg Cochran and others suggest [a genetic explanation](https://web.mit.edu/fustflum/documents/papers/AshkenaziIQ.jbiosocsci.pdf), with Daron Acemoglu and others suggesting[ a cultural/historical one](http://whynationsfail.com/blog/2012/9/3/why-the-jews-are-so-educated.html); unsurprisingly, I side with Cochran. Granting that this is a Jewish phenomenon, it’s not too hard to explain why it happened at the turn of the century in particular - too long before then, and anti-Semitism prevented European Jews from getting a good education; too long after then, and they all died in the Holocaust.
 
@@ -63,7 +66,7 @@ So the most successful Jews went to Budapest, and the poorest to America. If pas
 
 I think this clears up my remaining confusion around the Martians. For whatever reason, Eastern European Jews of the 19th century were unusually bright. The very brightest of this unusual group moved to Budapest, interbred with each other, and had one generation of totally unprecedentedly brilliant children before being wiped out. Everything about the Holocaust is so tragic that it’s hard to make it any worse, but credit to MacRae for his attempt.
 
- **What Was Von Neumann’s Education Like?**
+**What Was Von Neumann’s Education Like?**
 
 My wife and I are trying to conceive, and I found myself with a bit of an agenda when reading _The Man From The Future’s_ early chapters. Was there anything special about von Neumann’s early years or education that helped him rise above his fellow Martians? What can interested parents do to improve their kid’s chances of becoming the world’s smartest person?
 
@@ -90,7 +93,7 @@ So what’s the recipe for giving your children a von Neumann-level intellect? I
 
 What about those of us who, through poor planning and suboptimal life choices, have failed to do any of these in time? Here I am less sure. But I find myself charmed by the unstructured nature of John’s first ten years, and by Max’s nightly debates over the dinner table.
 
- **Was Von Neumann A Nerd?**
+**Was Von Neumann A Nerd?**
 
 No. You might expect someone who singlehandedly invented several fields of math to be at least a little aspie, but von Neumann defies the stereotypes. He loved parties, beautiful women, and fast cars. Especially the fast cars. According to Bhattacharya:
 
@@ -98,13 +101,13 @@ No. You might expect someone who singlehandedly invented several fields of math 
 
  _The Man From The Future_ avoids mentioning a rumor, spotted on Wikipedia, that part of von Neumann’s problem was a habit of reading books while driving.
 
-Although John could get lost in thought, he was far from demanding perfect silence. He reported doing his best work in chaotic environments, [and ](https://en.wikipedia.org/wiki/John_von_Neumann)at Princeton “he received complaints for regularly playing extremely loud German march music on his phonograph, which distracted those in neighboring offices, including Albert Einstein, from their work”. ****
+Although John could get lost in thought, he was far from demanding perfect silence. He reported doing his best work in chaotic environments, [and ](https://en.wikipedia.org/wiki/John_von_Neumann)at Princeton “he received complaints for regularly playing extremely loud German march music on his phonograph, which distracted those in neighboring offices, including Albert Einstein, from their work”.****
 
 Most surprising, at least to me, John von Neumann was reportedly quite fun to be around - the life of the party. He used his prodigious memory not just for mathematical theorems but for an almost limitless amount of jokes and gossip. You can find a list of his favorite jokes in his brother’s biography. Here’s one:
 
 > Berlin street scene. World War I: man at corner yelling repeatedly: “The Kaiser is an idiot!” Out of nowhere two police agents appear and arrest him for high treason. “But I was referring to the Austrian Kaiser, not to our Kaiser.” “You can't fool us! We know who the idiot is.”
 
- **Was Von Neumann A Psychopath?**
+**Was Von Neumann A Psychopath?**
 
 Granting that von Neumann was not a nerd, was he a psychopath? This has been a matter of more debate. His detractors called him “cold”, “calculating”, and “ruthless”, and pointed out that his game theory work, while brilliant, tended to focus on the most cutthroat scenarios (it was he who invented the term “zero-sum game”). While some of his Manhattan Project collaborators came to regret or at least agonize over their role in inventing the Bomb, von Neumann was disinclined to waste time questioning past decisions. Instead, he goaded the government to get to work building bigger, deadlier hydrogen bombs before the Russians managed the same.
 
@@ -130,7 +133,7 @@ Outside of geopolitical conflict, von Neumann could show great compassion. He mo
 
 And he was especially good with children, for whom he had seemingly unlimited patience. Edward Teller wrote that "Von Neumann would carry on a conversation with my 3-year-old son, and the two of them would talk as equals, and I sometimes wondered if he used the same principle when he talked to the rest of us.“
 
- **What Is It Like To Be A Martian?**
+**What Is It Like To Be A Martian?**
 
 So fine. He wasn’t a nerd and he might not have been a psychopath either. But, at the core, what _was_ he? What was it like to be John von Neumann? To remember everything you’ve ever read? To be (according to rumor) the only person who has ever completely and straightforwardly understood quantum mechanics? Do you feel amazing all the time, like a god? Is it lonely? What is your internal experience?
 
@@ -146,9 +149,9 @@ Bhattacharya returns to the same theme more darkly at the end. Von Neumann lies 
 
 Still, he had the presence of mind to make a last request: after a lifetime of culturally-Jewish atheism, he wished to be baptized. His daughter attributed her father’s “change of heart” to Pascal’s Wager: the idea that even a very small probability of gaining a better afterlife is worth the relatively trivial cost of a deathbed conversion. Even as his powers deserted him, John von Neumann remained a game theorist to the end.
 
- **Did Von Neumann Think We Would Make It?**
+**Did Von Neumann Think We Would Make It?**
 
- _The Man From The Future_ can seem a bit scatterbrained at times. Von Neumann revolutionized so many fields that it’s hard to find a unifying theme. What connects atom bombs and computers to climate, game theory, and self-replicators? 
+_The Man From The Future_ can seem a bit scatterbrained at times. Von Neumann revolutionized so many fields that it’s hard to find a unifying theme. What connects atom bombs and computers to climate, game theory, and self-replicators? 
 
 Bhattacharya’s inspired answer is: existential risk. 
 

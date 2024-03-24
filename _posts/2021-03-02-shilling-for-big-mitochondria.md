@@ -3,9 +3,12 @@ title: "Shilling For Big Mitochondria"
 subtitle: "The tragic history of the only diet pill that really worked"
 date: 2021-03-02
 likes: 132
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/33086248/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d159ada4-5ab7-470a-82ad-946d671859fd_618x496.jpeg
 original-url: https://www.astralcodexten.com/p/shilling-for-big-mitochondria
 ---
-[ **EDIT:** I’m hearing that some people are considering taking DNP after reading this post. I tried to stress very hard how bad an idea that was, but apparently it didn’t sink in. PLEASE DO NOT TAKE DNP AFTER READING THIS. I tried to cover some of the risks, but there are others I didn’t mention, and it’s just generally a terrible chemical.]
+[**EDIT:** I’m hearing that some people are considering taking DNP after reading this post. I tried to stress very hard how bad an idea that was, but apparently it didn’t sink in. PLEASE DO NOT TAKE DNP AFTER READING THIS. I tried to cover some of the risks, but there are others I didn’t mention, and it’s just generally a terrible chemical.]
 
 In the 1930s, a shady outfit called Isabella Laboratories made a popular over-the-counter diet pill called [Formula 281](https://www.sciencedirect.com/science/article/abs/pii/S0273230007000426) (slogan: "281 for the too weighty one"). If you're familiar with any of: the 1930s, shady pharma, or diet pills, your next question will be "did it contain amphetamines?". Actually, no! It contained 2,4-dinitrophenol, a mitochondrial uncoupling agent.
 

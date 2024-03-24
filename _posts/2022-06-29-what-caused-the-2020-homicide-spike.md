@@ -3,6 +3,9 @@ title: "What Caused The 2020 Homicide Spike?"
 subtitle: "..."
 date: 2022-06-29
 likes: 324
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/61103156/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5995aff8-6cb1-4164-95d7-2b9931bf22ae_1920x1080.webp
 original-url: https://www.astralcodexten.com/p/what-caused-the-2020-homicide-spike
 ---
 In [my review of ](https://astralcodexten.substack.com/p/book-review-san-fransicko)_[San Fransicko](https://astralcodexten.substack.com/p/book-review-san-fransicko)_ , I mentioned that it was hard to separate the effect of San Francisco’s local policies from the general 2020 spike in homicides, which I attributed to the Black Lives Matter protests and subsequent police pullback.

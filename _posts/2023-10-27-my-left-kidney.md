@@ -2,20 +2,23 @@
 title: "My Left Kidney"
 subtitle: "..."
 date: 2023-10-27
-likes: 513
+likes: 514
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/136660465/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/e6535d36-6786-4136-bbf5-3805a8f872ea_1397x913.png
 original-url: https://www.astralcodexten.com/p/my-left-kidney
 ---
 > _A person has two kidneys; one advises him to do good and one advises him to do evil. And it stands to reason that the one advising him to do good is to his right and the one that advises him to do evil is to his left._
 
 — Talmud (Berakhot 61a)
 
- **I.**
+**I.**
 
 As I left the Uber, I saw with horror the growing wet spot around my crotch. “It’s not urine!”, I almost blurted to the driver, before considering that _1)_ this would just call attention to it and _2)_ it was urine. “It’s not _my_ urine,” was my brain’s next proposal - but no, that was also false. “It is urine, and it is mine, but just because it’s pooling around my crotch doesn’t mean I peed myself; that’s just a coincidence!” That one would have been true, but by the time I thought of it he had driven away.
 
 Like most such situations, it began with a Vox article.
 
- **II.**
+**II.**
 
 I make fun of Vox journalists a lot, but I want to give them credit where credit is due: they contain valuable organs, which can be harvested and given to others.
 
@@ -27,11 +30,11 @@ I thought about this when reading Dylan Matthews’ [Why I Gave My Kidney To A S
 
 Something about that last line struck a chord in me. Still, making decisions about internal organs based on a Vox article sounded like the _worst_ idea. This was going to require more research.
 
- **III.**
+**III.**
 
 Matthews says kidney donation is fantastically low-risk:
 
-> The risk of death in surgery is 3.1 in 10,000, or 1.3 in 10,000 if (like me) you don't suffer from hypertension. For comparison, that’s a little higher and a little lower, respectively, than the risk of pregnancy-related death in the US[1](/p/my-left-kidney#footnote-1-136660465). The risk isn’t zero (this is still major surgery), but death is extraordinarily rare. Indeed, there’s no good evidence that donating reduces your life expectancy at all [...]
+> The risk of death in surgery is 3.1 in 10,000, or 1.3 in 10,000 if (like me) you don't suffer from hypertension. For comparison, that’s a little higher and a little lower, respectively, than the risk of pregnancy-related death in the US[^1]. The risk isn’t zero (this is still major surgery), but death is extraordinarily rare. Indeed, there’s no good evidence that donating reduces your life expectancy at all [...]
 > 
 > The procedure does increase your risk of kidney failure — but the average donor still has only a 1 to 2 percent chance of that happening. The vast majority of donors, 98 to 99 percent, don’t have kidney failure later on. And those who do get bumped up to the top of the waiting list due to their donation. 
 
@@ -39,9 +42,9 @@ I checked the same resources Matthews probably had, and I agreed.
 
 It was my girlfriend (at the time) who figured out the flaw in our calculation. She was both brilliant and pathologically anxious, which can be a powerful combination: her zeal to justify her neuroses gave her above-genius-level ability to ferret out medical risks that doctors and journalists had missed. She made it her project to dissuade me from donating, did a few hours’ research, and reported back that although the risk of dying from the surgery was indeed 1/10,000, the risk of dying from the _screening exam_ was 1/660 .
 
-I regret to inform you she may be right. The screening exam involves a “multiphase abdominal CT”, a CAT scan that looks at the kidneys and their associated blood vessels and checks if they’re all in the right place. This involves a radiation dose of [about 30 milli-Sieverts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635397/). The usual rule of thumb is that [one extra Sievert = 5% higher risk of dying from cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996147/), so a 30 mS dose increases death risk about one part in 660. There are about two nonfatal cases of cancer for every fatal case, so the total cancer risk from the exam could be as high as 1/220[2](/p/my-left-kidney#footnote-2-136660465). I’m not a radiologist, maybe I’m totally wrong here, but the numbers seemed to check out.
+I regret to inform you she may be right. The screening exam involves a “multiphase abdominal CT”, a CAT scan that looks at the kidneys and their associated blood vessels and checks if they’re all in the right place. This involves a radiation dose of [about 30 milli-Sieverts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635397/). The usual rule of thumb is that [one extra Sievert = 5% higher risk of dying from cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996147/), so a 30 mS dose increases death risk about one part in 660. There are about two nonfatal cases of cancer for every fatal case, so the total cancer risk from the exam could be as high as 1/220[^2]. I’m not a radiologist, maybe I’m totally wrong here, but the numbers seemed to check out.
 
-I discussed this concern with transplant doctors at UCSF and the National Kidney Foundation, who seemed very surprised to hear it, but couldn’t really come up with any evidence against. I asked if they could do the kidney scan with an MRI (non-radioactive) instead of a CT. They agreed[3](/p/my-left-kidney#footnote-3-136660465).
+I discussed this concern with transplant doctors at UCSF and the National Kidney Foundation, who seemed very surprised to hear it, but couldn’t really come up with any evidence against. I asked if they could do the kidney scan with an MRI (non-radioactive) instead of a CT. They agreed[^3].
 
 The short-term risks taken care of, my girlfriend and I moved on to arguing about the longer-term ones. One kidney starts out with half the GFR (glomerular filtration rate, a measure of the kidneys’ filtering ability) of two kidneys. After a few months, it grows a little to pick up the slack, stabilizing at about 70% of your pre-donation GFR. 70% of a normal healthy person’s GFR is more than enough. 
 
@@ -61,7 +64,7 @@ This isn’t controlling for selection bias - but neither was my uncle’s anecd
 
 Still, my girlfriend ending up begging me not to donate, and I caved. But we broke up in 2019. The next few years were [bumpy](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/), but by 2022 my life was in a more stable place and I started thinking about kidneys again. By then I was married. I discussed the risks with my wife and she decided to let me go ahead. So in early November 2022, for the second time, I sent a form to the University of California San Francisco Medical Center saying I wanted to donate a kidney.
 
- **IV.**
+**IV.**
 
 Something else happened that month. On November 11, FTX fell apart and was revealed as a giant scam. Suddenly everyone hated effective altruists. Publications that had been feting us a few months before pivoted to saying they knew we were evil all along. I practiced rehearsing the words “I have never donated to charity, and if I did, I _certainly_ wouldn’t care whether it was effective or not”.
 
@@ -69,9 +72,9 @@ But during the flurry of intakes, screenings, and evaluations that UCSF gave me 
 
 We _were_ giving them a lot of free kidneys. When I talked to my family and non-EA friends about wanting to donate, the usual reaction was “You want to _what?!”_ and then trying to convince me this was unfair to my wife or my potential future children or whatever. When I talked to my EA friends, the reaction was at least “Cool!”. But pretty often it was “Oh yeah, I donated two years ago, want to see my scar?” Most people don’t do interesting things unless they’re in a community where those things have been normalized. I was blessed with a community where this was so normal that I could read a Vox article about it and not vomit it back out.
 
-This is surprising, because kidney donation is only medium effective, as far as altruisms go[4](/p/my-left-kidney#footnote-4-136660465). The average donation buys the recipient about [5 - 7 extra years of life](https://sci-hub.st/10.1111/ajt.13490) (beyond the counterfactual of dialysis). It also [improves quality of life](https://www.researchgate.net/profile/Fernanda-Ortiz-4/publication/316319397_Oral_health_in_patients_with_renal_disease_a_longitudinal_study_from_predialysis_to_kidney_transplantation/links/60367a83299bf1cc26ebd84d/Oral-health-in-patients-with-renal-disease-a-longitudinal-study-from-predialysis-to-kidney-transplantation.pdf) from about 70% of the healthy average to about 90%. Non-directed kidney donations can also help the organ bank solve allocation problems around matching donors and recipients of different blood types. Most sources say that an average donated kidney [creates a “chain”](https://stanfordhealthcare.org/medical-treatments/k/kidney-transplant-surgery/types/chain-donation.html) of about five other donations, but most of these other donations would have happened anyway; the value over counterfactual is about 0.5 to 1 extra transplant completed before the intended recipient dies from waiting too long. So in total, a donation produces about 10 - 20 extra quality-adjusted life years.
+This is surprising, because kidney donation is only medium effective, as far as altruisms go[^4]. The average donation buys the recipient about [5 - 7 extra years of life](https://sci-hub.st/10.1111/ajt.13490) (beyond the counterfactual of dialysis). It also [improves quality of life](https://www.researchgate.net/profile/Fernanda-Ortiz-4/publication/316319397_Oral_health_in_patients_with_renal_disease_a_longitudinal_study_from_predialysis_to_kidney_transplantation/links/60367a83299bf1cc26ebd84d/Oral-health-in-patients-with-renal-disease-a-longitudinal-study-from-predialysis-to-kidney-transplantation.pdf) from about 70% of the healthy average to about 90%. Non-directed kidney donations can also help the organ bank solve allocation problems around matching donors and recipients of different blood types. Most sources say that an average donated kidney [creates a “chain”](https://stanfordhealthcare.org/medical-treatments/k/kidney-transplant-surgery/types/chain-donation.html) of about five other donations, but most of these other donations would have happened anyway; the value over counterfactual is about 0.5 to 1 extra transplant completed before the intended recipient dies from waiting too long. So in total, a donation produces about 10 - 20 extra quality-adjusted life years. 
 
-This is great - my grandfather died of kidney disease, and 10 - 20 more years with him would have meant a lot. But it only costs about [$5,000 - $10,000](https://www.givewell.org/impact-estimates#Impact_metrics_for_grants_to_GiveWells_top_charities_in_2021) to produce this many QALYs through bog-standard effective altruist interventions, like buying mosquito nets for malarial regions in Africa. In a Philosophy 101 Thought Experiment sense, if you’re going to miss a lot of work recovering from your surgery, you might as well skip the surgery, do the work, and donate the extra money to Against Malaria Foundation instead[5](/p/my-left-kidney#footnote-5-136660465).
+This is great - my grandfather died of kidney disease, and 10 - 20 more years with him would have meant a lot. But it only costs about [$5,000 - $10,000](https://www.givewell.org/impact-estimates#Impact_metrics_for_grants_to_GiveWells_top_charities_in_2021) to produce this many QALYs through bog-standard effective altruist interventions, like buying mosquito nets for malarial regions in Africa. In a Philosophy 101 Thought Experiment sense, if you’re going to miss a lot of work recovering from your surgery, you might as well skip the surgery, do the work, and donate the extra money to Against Malaria Foundation instead[^5].
 
 Obviously this kind of thing is why everyone hates effective altruists. People got _so_ mad at some British EAs who used donor money to “buy a castle”. I read the Brits’ arguments: they’d been running lots of conferences with policy-makers, researchers, etc; those conferences have gone really well and produced some of the systemic change everyone keeps wanting. But conference venues kept ripping them off, having a nice venue of their own would be cheaper in the long run, and after looking at many options, the “castle” was the cheapest. Their math checked out, and I believe them when they say this was the most effective use for that money. For their work, they got a million sneering thinkpieces on how “EA just takes people’s money to buy castles, then sit in them wearing crowns and waving scepters and laughing at poor people”. I respect the British organizers’ willingness to [sacrifice their reputation on the altar of doing what was actually good instead of just good-looking](/p/the-prophet-and-caesars-wife).
 
@@ -95,7 +98,7 @@ Dylan Matthews wrote:
 
 The Talmud is very clear: that voice is called the evil inclination, and it dwells in the left kidney. There is only one way to shut it off forever. I was ready.
 
- **V.**
+**V.**
 
 You might not be a masochist. But hospitals are sadists. They want to hear you beg.
 
@@ -137,7 +140,7 @@ Cornell was lovely. They tried to do as much of the process as they could via Ca
 
 So in late September 2023 - ten months after I started the process - I finally got fully cleared to donate, surgery set for October 12.
 
- **VI.**
+**VI.**
 
 I knew, in theory, that anaesthetics existed. Still, it’s weird. One moment you’re lying on a table in the OR, steeling yourself up for one of the big ordeals of your life. The next, you’re in a bed in the recovery room, feeling fine. The operation - this thing you’ve been thinking about and dreading for months - exists only as a lacuna in your memory. Not even some kind of fancy lacuna, where you remember the darkness closing in on you beforehand, or have to claw yourself back into consciousness afterwards. The most ordinary of lacunas, like a good night sleep.
 
@@ -151,7 +154,7 @@ A few hours after the surgery, I walked a few steps. After a day, I got the cath
 
 Still, I recently heard from the surgeon that my recipient’s side of the surgery was a success, that my kidney was in them and going fine - and that put things back into perspective. _To a first approximation_ , compared to the inherent gravity of taking an organ out of one person and putting it in a second person and saving their life - it was all easy and everything went well. When I look back on this in a decade, I’ll remember it as everything being easy and going well. Even now, with some lingering bladder pain, modern medicine still feels like a miracle.
 
- **VII.**
+**VII.**
 
 In [polls](https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-poll-shows-half-of-americans-would-consider-donating-a-kidney-to-a-stranger/), 25 - 50% of Americans say they would donate a kidney to a stranger in need.
 
@@ -163,19 +166,19 @@ This is going to be the preachy “and you should donate too!” section you wer
 
 20-year-old me was in that category. The process of making him feel comfortable involved fifteen years of meeting people who already done it. During residency, I met a fellow student doctor who had donated. Later, I got involved in effective altruism, and learned that movement leader Alexander Berger - a guy who can easily direct millions of dollars at whatever cause he wants - had donated his personal kidney as well. Some online friends. Some people I met at conferences. And Dylan Matthews, who I kept crossing paths with (most recently at the [Manifest journalism panel](https://www.youtube.com/watch?v=xMVaEYMp7_o)). After enough of these people, it no longer felt like something that nobody does, and then I felt like I had psychological permission to do it. 
 
-(obviously saints can do good things without needing psychological permission first, but not everyone has to be in that category, and I found it easier to get the psychological permission than to self-modify into a saint[6](/p/my-left-kidney#footnote-6-136660465).)
+(obviously saints can do good things without needing psychological permission first, but not everyone has to be in that category, and I found it easier to get the psychological permission than to self-modify into a saint[^6].)
 
-So I’m mostly not going to argue besides saying: this is a thing I did, it’s a thing hundreds of other people do each year, getting started is as simple as **[filling out a form](http://waitlistzero.org/living-donation/become-a-donor/)** , and if it works for you, you should go for it[7](/p/my-left-kidney#footnote-7-136660465).
+So I’m mostly not going to argue besides saying: this is a thing I did, it’s a thing hundreds of other people do each year, getting started is as simple as **[filling out a form](http://waitlistzero.org/living-donation/become-a-donor/)** , and if it works for you, you should go for it[^7].
 
 When I woke up in the recovery room after surgery, I felt great. Amazing. Content, peaceful, proud of myself. Mostly this was because I was on enough opioids to supply a San Francisco homeless encampment for a month. But probably some of it was also the warm glow of having made a difference or something. That could be you!
 
- **VIII.**
+**VIII.**
 
 The ten of you who will listen to this and donate are great. That brings the kidney shortage down from 40,000 to 39,990/year.
 
 Everyone knows we need a systemic solution, and everyone knows what that solution will eventually have to be: financial compensation for kidney donors. But so far they haven’t been able to get together enough of a coalition to overcome the [usual ](/p/book-review-from-oversight-to-overkill)cabal of evil bioethicists who thwart every medical advance.
 
-My kidney donation “mentor”[8](/p/my-left-kidney#footnote-8-136660465) Ned Brooks is starting a new push - [the ](https://www.modifynota.org/)**[Coalition To Modify NOTA](https://www.modifynota.org/)** \- which proposes a $100,000 refundable tax credit - $10,000 per year for 10 years - for kidney donors. There would be a waiting period and you’d have to get evaluated first, so junkies couldn’t walk in off the street and get $100K to spend on fentanyl. No intermediate company would “profit” off the transaction, and rich people wouldn’t be able to pay directly to jump in line. It would be the same kidney donation system we have now, except the donors get $100,000 back after saving the government $1MM+.
+My kidney donation “mentor”[^8] Ned Brooks is starting a new push - [the ](https://www.modifynota.org/)**[Coalition To Modify NOTA](https://www.modifynota.org/)** \- which proposes a $100,000 refundable tax credit - $10,000 per year for 10 years - for kidney donors. There would be a waiting period and you’d have to get evaluated first, so junkies couldn’t walk in off the street and get $100K to spend on fentanyl. No intermediate company would “profit” off the transaction, and rich people wouldn’t be able to pay directly to jump in line. It would be the same kidney donation system we have now, except the donors get $100,000 back after saving the government $1MM+. 
 
 (the libertarian in me would normally prefer a free market, but “avoid taxes by selling your organs” also has a certain libertarian appeal)
 
@@ -183,35 +186,21 @@ This came up often when I talked to other donors. They all had various motivatio
 
 This is also one of the answers to the question I asked in section IV: how do you balance acts of heroic altruism that everyone will love you for _vs_. acts of boring autistic altruism that will make everyone hate you, but which will accomplish more good in the end?) Coalition To Modify NOTA is full of previous living kidney donors, who are using the moral clout and recognition they’ve gotten to get attention and change the system in an unglamorous way. I find this an admirable way of squaring the circle: do the flashy heroic things to gain social capital, then spend the social capital on whatever’s ultimately most important.
 
-If you get one takeaway from this, let it be that those guys who bought the castle were good guys. Two takeaways, and it’s that plus modify NOTA. Three takeaways, and you should feel permission to (if you want) donate a kidney. You can sign up **[here](http://waitlistzero.org/living-donation/become-a-donor/)**.[9](/p/my-left-kidney#footnote-9-136660465) Feel free to email me at scott@slatestarcodex.com if you have questions about the process.
+If you get one takeaway from this, let it be that those guys who bought the castle were good guys. Two takeaways, and it’s that plus modify NOTA. Three takeaways, and you should feel permission to (if you want) donate a kidney. You can sign up **[here](http://waitlistzero.org/living-donation/become-a-donor/)**.[^9] Feel free to email me at scott@slatestarcodex.com if you have questions about the process.
 
-[1](/p/my-left-kidney#footnote-anchor-1-136660465)
+[^1]: Further perspective: I’m 38, which gives me a 2/million total chance of dying per day. So the likelihood that I would die during my kidney operation equals the likelihood that I would die during a randomly chosen two months of everyday life.
 
-Further perspective: I’m 38, which gives me a 2/million total chance of dying per day. So the likelihood that I would die during my kidney operation equals the likelihood that I would die during a randomly chosen two months of everyday life.
+[^2]: Maybe, kind of. Our knowledge of how radiation causes cancer comes primarily from Hiroshima and Nagasaki; we can follow survivors who were one mile, two miles, etc, from the center of the blast, calculate how much radiation exposure they sustained, and see how much cancer they got years later. But by the time we’re dealing with CAT scan levels of radiation, cancer levels are so close to background that it’s hard to adjust for possible confounders. So the first scientists to study the problem just drew a line through their high-radiation data points and extended it to the low radiation levels - ie if 1 Sievert caused one thousand extra cancers, probably 1 milli-Sievert would cause one extra cancer. This is called the [Linear Dose No Threshold](https://en.wikipedia.org/wiki/Radiation_exposure#Risk_of_cancer,_life-span_study,_linear-non-threshold_hypothesis) (LDNT) model, and has become a subject of intense and acrimonious debate. Some people think that at some very small dose, radiation stops being bad for you at all. Other people think maybe at low enough doses radiation is _good for you_ \- see [this claim](https://genesenvironment.biomedcentral.com/articles/10.1186/s41021-018-0114-3) that the atomic bomb “elongated lifespan” in survivors far enough away from the blast. If this were true, CTs probably wouldn’t increase cancer risk at all. I didn’t consider myself knowledgeable enough to take a firm position, and I noticed eminent scientists on both sides, so I am using the more cautious estimate here.
 
-[2](/p/my-left-kidney#footnote-anchor-2-136660465)
+[^3]: I told them I had an aunt who died of radiation-induced cancer. It’s true, but I feel grubby for bringing her into this; I thought doctors would be more likely to listen to an emotional story than cold logic.
 
-Maybe, kind of. Our knowledge of how radiation causes cancer comes primarily from Hiroshima and Nagasaki; we can follow survivors who were one mile, two miles, etc, from the center of the blast, calculate how much radiation exposure they sustained, and see how much cancer they got years later. But by the time we’re dealing with CAT scan levels of radiation, cancer levels are so close to background that it’s hard to adjust for possible confounders. So the first scientists to study the problem just drew a line through their high-radiation data points and extended it to the low radiation levels - ie if 1 Sievert caused one thousand extra cancers, probably 1 milli-Sievert would cause one extra cancer. This is called the [Linear Dose No Threshold](https://en.wikipedia.org/wiki/Radiation_exposure#Risk_of_cancer,_life-span_study,_linear-non-threshold_hypothesis) (LDNT) model, and has become a subject of intense and acrimonious debate. Some people think that at some very small dose, radiation stops being bad for you at all. Other people think maybe at low enough doses radiation is _good for you_ \- see [this claim](https://genesenvironment.biomedcentral.com/articles/10.1186/s41021-018-0114-3) that the atomic bomb “elongated lifespan” in survivors far enough away from the blast. If this were true, CTs probably wouldn’t increase cancer risk at all. I didn’t consider myself knowledgeable enough to take a firm position, and I noticed eminent scientists on both sides, so I am using the more cautious estimate here.
+[^4]: EAs have been debating the exact effectiveness of kidney donations for a long time. You can find good skeptical arguments by [Jeff Kaufman](https://www.jefftk.com/p/altruistic-kidney-donation) and [Derek Shiller](https://forum.effectivealtruism.org/posts/GbdK6WNv7GCsga5cW/notes-on-the-risks-and-benefits-of-kidney-donation), and good arguments in favor by [Alexander Berger](https://www.lesswrong.com/posts/wzdjAmeoPRmBE8v8o/altruistic-kidney-donation?commentId=DQ2B7xYQ2eYiA9Yfo) and [Tom Ash](https://forum.effectivealtruism.org/posts/yTu9pa9Po4hAuhETJ/kidney-donation-is-a-reasonable-choice-for-effective). 
 
-[3](/p/my-left-kidney#footnote-anchor-3-136660465)
+[^5]: Outside of Philosophy 101 thought experiments, there’s a nonprofit that will often reimburse you for lost wages from your donation.
 
-I told them I had an aunt who died of radiation-induced cancer. It’s true, but I feel grubby for bringing her into this; I thought doctors would be more likely to listen to an emotional story than cold logic.
+[^6]: Self-modifying into a person who can act boldly without social permission is a more general solution and has many other advantages. But the long version involves living a full life of accumulating moral wisdom, and the short version starts with removing guardrails that are there for good reasons.
 
-[4](/p/my-left-kidney#footnote-anchor-4-136660465)
-
-EAs have been debating the exact effectiveness of kidney donations for a long time. You can find good skeptical arguments by [Jeff Kaufman](https://www.jefftk.com/p/altruistic-kidney-donation) and [Derek Shiller](https://forum.effectivealtruism.org/posts/GbdK6WNv7GCsga5cW/notes-on-the-risks-and-benefits-of-kidney-donation), and good arguments in favor by [Alexander Berger](https://www.lesswrong.com/posts/wzdjAmeoPRmBE8v8o/altruistic-kidney-donation?commentId=DQ2B7xYQ2eYiA9Yfo) and [Tom Ash](https://forum.effectivealtruism.org/posts/yTu9pa9Po4hAuhETJ/kidney-donation-is-a-reasonable-choice-for-effective). 
-
-[5](/p/my-left-kidney#footnote-anchor-5-136660465)
-
-Outside of Philosophy 101 thought experiments, there’s a nonprofit that will often reimburse you for lost wages from your donation.
-
-[6](/p/my-left-kidney#footnote-anchor-6-136660465)
-
-Self-modifying into a person who can act boldly without social permission is a more general solution and has many other advantages. But the long version involves living a full life of accumulating moral wisdom, and the short version starts with removing guardrails that are there for good reasons.
-
-[7](/p/my-left-kidney#footnote-anchor-7-136660465)
-
-But here are some practical points you might not already appreciate:
+[^7]: But here are some practical points you might not already appreciate:
 
   * You shouldn’t have to pay much money. If, like me, you need to travel (eg to New York), kidney related charities will reimburse your travel costs (in theory, I haven’t yet proven this, and a few costs were illegible and I decided not to submit them).
 
@@ -224,13 +213,9 @@ But here are some practical points you might not already appreciate:
 
 
 
-[8](/p/my-left-kidney#footnote-anchor-8-136660465)
+[^8]: What’s a kidney donation mentor? I still don’t really know: I was told that I was assigned him as a mentor, and every so often he called me and asked if I was doing okay. I appreciate it, but hope it didn’t take him away from more important work.
 
-What’s a kidney donation mentor? I still don’t really know: I was told that I was assigned him as a mentor, and every so often he called me and asked if I was doing okay. I appreciate it, but hope it didn’t take him away from more important work.
-
-[9](/p/my-left-kidney#footnote-anchor-9-136660465)
-
-Kidney donation is a complicated and exhausting process, and I couldn’t have done it without the help of many other people. Thanking them in no particular order:
+[^9]: Kidney donation is a complicated and exhausting process, and I couldn’t have done it without the help of many other people. Thanking them in no particular order:
 
   * My ex-girlfriend, who helped me figure out to ask for an MRI instead of a CT.
 

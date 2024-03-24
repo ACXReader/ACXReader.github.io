@@ -3,6 +3,9 @@ title: "Moral Costs Of Chicken Vs. Beef"
 subtitle: "Also: does offsetting still work if you skip the step where you pay the offsets?"
 date: 2021-06-01
 likes: 83
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37087258/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9de1c2ae-546c-47f3-ab10-e41ceddf65ab_480x330.webp
 original-url: https://www.astralcodexten.com/p/moral-costs-of-chicken-vs-beef
 ---
 **I.**
@@ -25,7 +28,7 @@ Nobody agrees on exactly how much it costs to [offset](https://slatestarcodex.co
 
 Offsetting the carbon cost of going from an all-chicken diet to an all-beef diet would cost $22 per year, or about 5 cents per beef-based meal. Since you would be saving 60 chickens, this is three chickens saved per dollar, or one chicken per thirty cents. A factory farmed chicken lives about thirty days, usually in extreme suffering. So if you value preventing one day of suffering by one chicken at one cent, this is a good deal.
 
- **II.**
+**II.**
 
 This is the simple version of this argument for public consumption. Everything below is optional and makes things much worse and more complicated without an obvious change in the conclusion.
 

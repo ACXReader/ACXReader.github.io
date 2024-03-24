@@ -3,6 +3,9 @@ title: "If You're So Smart, Why Aren't You Governor Of California?"
 subtitle: "..."
 date: 2021-08-25
 likes: 122
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/40430745/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8174c060-0b21-4f0c-b4d0-ef33a09701ed_2500x1744.jpeg
 original-url: https://www.astralcodexten.com/p/if-youre-so-smart-why-arent-you-governor
 ---
 Californians love long-shot bets. Actors trying to make it big in LA, tech founders chasing unicorns in San Francisco, cult leaders trying to found religions in Pasadena. In Silicon Valley, VCs turn the long-shot bet into an art: if some new startup has a 5% chance of making a billion, that's $50 million in expectation. Just a whole state full of people looking for weird opportunities.

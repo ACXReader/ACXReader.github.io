@@ -3,6 +3,9 @@ title: "Book Review Contest Rules 2023"
 subtitle: "Basically the same as 2022 - this is just a reminder to start working on entries"
 date: 2023-02-02
 likes: 86
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/100381556/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/207d7b88-e7b2-4494-92be-ae931f5c183c_2560x1587.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-contest-rules-2023
 ---
 Sure, this seemed to go well last the last few times, let's do it again.

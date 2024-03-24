@@ -3,6 +3,9 @@ title: "Two Unexpected Multiple Hypothesis Testing Problems"
 subtitle: "That's what people want out of a Substack, right? Multiple hypothesis testing problems?"
 date: 2021-04-06
 likes: 67
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34839701/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf8d10c0-05ed-4325-94ac-65065816e9a0_705x1024.png
 original-url: https://www.astralcodexten.com/p/two-unexpected-multiple-hypothesis
 ---
 **I.**
@@ -23,7 +26,7 @@ But this raises a bigger issue - every randomized trial will have this problem. 
 
 I don't think there's a formal statistical answer for this. I think the informal answer is something like - suppose you test a hundred different confounders. By chance, you expect five to be significant. Maybe in fact you get five: amount of ice hockey played, number of nose hairs, eye color, percent who own Golden Retrievers, and digit ratio. Then you treat one group with Vitamin D, you don't treat the other group, and the Vitamin D group does much better. Now you have some extra evidence that one of (Vitamin D | playing ice hockey | having extra nose hairs | having green eyes | owning a golden retriever | having low digit ratio) treats coronavirus. After thinking about it for a second using common sense, you decide it's probably Vitamin D. And realistically, you shorten this process by not even checking for confounders such that, if you found them, you would dismiss them using common sense. If the list of confounders you wouldn't dismiss is shorter than 20, then probably you don't get any significant ones, in which case there's no problem.
 
-[ **edit** : a commenter notes a better answer - make your study big enough that even “significant” differences have too small an effect size to matter]
+[**edit** : a commenter notes a better answer - make your study big enough that even “significant” differences have too small an effect size to matter]
 
 Unfortunately, these guys didn't get a coincidental randomization failure in Golden Retrievers, they got a coincidental randomization failure in blood pressure. So their experiment can only tell us that either Vitamin D or healthy blood pressure improves your odds against COVID-19. And we already know healthy blood pressure improves your odds against COVID-19. So they're kind of screwed, in the sense that it's hard to use this study to say anything about Vitamin D, even though that was the study's whole point. Awkward.
 
@@ -31,7 +34,7 @@ Should they have checked for this right after randomizing, noticed the problem, 
 
 One more thing - although the pre-existing group difference in blood pressure was dramatic, their results were several orders of magnitude more dramatic. The paper Pachter is criticizing does a regression to determine whether the results are still significant even controlling for blood pressure, and finds that they are. I can't see any problem with their math, but it should be remembered that this is a pretty desperate attempt to wring significance out of a small study, and it shouldn't move our needle by very much either way.
 
- **II.**
+**II.**
 
 But also: the discussion [here](https://astralcodexten.substack.com/p/ambidexterity-and-cognitive-closure#comment-1638823).
 

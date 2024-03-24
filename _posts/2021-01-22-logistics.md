@@ -3,6 +3,9 @@ title: "Logistics"
 subtitle: "Don't worry, there will be real posts next week."
 date: 2021-01-22
 likes: 211
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/31783158/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f85785af-a63c-4fa3-99c3-9ce59949584d_427x287.png
 original-url: https://www.astralcodexten.com/p/logistics
 ---
 **Substack**
@@ -15,7 +18,7 @@ And I know some of you are concerned about the risk of corporate deplatforming. 
 
 And I know Substack is supposed to be an email newsletter thing, but consider reading it online instead so you can participate in the comments. If you miss the old layout, the anonymous author of [Applied Divinity Studies](https://applieddivinitystudies.com) has made a [Chrome extension thing](https://applieddivinitystudies.com/slatestarsubstack/) you can use to convert the Substack layout to the older one.
 
- **Paid Subscriptions**
+**Paid Subscriptions**
 
 The boring reason I'm at Substack is money. I'm not supposed to talk about numbers, but you can read about the deal they offered Matt Yglesias [here](https://www.honeycopy.com/marketing-ideas/paid-newsletter) and draw your own conclusions. I'm trying to build a new kind of medical practice that provides affordable care to uninsured people. The risk of failure is high - I expect the medical care part to go fine, but I'm less sure I'll be able to make money off it. I need a stable income stream while I experiment with this, and this is it. I realize how weird it is to accept a steady day job as a writer to support your pie-in-the-sky plans to practice medicine, yet here we are.
 
@@ -27,13 +30,13 @@ Please don't buy a paid subscription if it would be financially stressful for yo
 
 I've complained before that subscriber models annoy nonsubscribers and clog up search engines by presenting stubs for posts most people can't read. After talking to Substack about this concern, they've agreed not to display any hint of subscription-only posts to nonsubscribers. I might occasionally remind you that they exist, but you won't get teased by the titles or see stubs that cut off halfway. If you do see these, something has gone wrong and you should let me know.
 
- **Advertising Wrap-up**
+**Advertising Wrap-up**
 
 Speaking of money, I think I've paid back everyone who took out advertising on SSC that didn't happen because the blog closed down.
 
 If you took out advertising that got disrupted and I didn't pay you back, or I paid you the wrong amount, please contact me at scott[at]slatestarcodex[dot]com. If I have some other SSC-related obligation to you that I forgot about, remind me of that too.
 
- **Publicity**
+**Publicity**
 
 Still against it, sorry.
 
@@ -45,10 +48,10 @@ My new psychiatry practice is (I think) potentially genuinely interesting, but I
 
 If it's a boring enough news day that you want to cover me, consider instead covering the many other fascinating and under-covered people and institutions in and around the rationalist community, some of whom are probably women or minorities or whatever. The [Qualia Research Institute](https://www.qualiaresearchinstitute.org/) is doing absolutely picture-perfect mad science. [Metaculus](https://www.metaculus.com/questions/) is fast becoming what PredictIt should have been; I intend to shill it pretty hard but I can't do it all by myself. Catherine Olsson, Ibasho, and [MicroCOVID ](https://www.microcovid.org)already have [one WIRED article about how great they are](https://www.wired.com/story/group-house-covid-risk-points/), but they deserve at least a dozen.
 
- **Book Review Contest**
+**Book Review Contest**
 
 I'll have more information on how I'm going to do this in a week or two. I still have all the entries you sent in, and I'm still accepting new entries at least for now.
 
- **Normal Posts**
+**Normal Posts**
 
 ...will start next week. I have some from last year I still want to get up, so expect a few of them to be a bit outdated.

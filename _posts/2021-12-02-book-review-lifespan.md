@@ -3,6 +3,9 @@ title: "Book Review: Lifespan"
 subtitle: "..."
 date: 2021-12-02
 likes: 158
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/44050250/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/dbc8879b-4c67-4a27-956e-89c41145cec4_536x394.png
 original-url: https://www.astralcodexten.com/p/book-review-lifespan
 ---
 _[epistemic status: non-expert review of a book on a highly technical subject, sorry. If you are involved in biochemistry or anti-aging, feel free to correct my mistakes]_
@@ -55,7 +58,7 @@ Can sirtuins make us immortal? All of Sinclair’s examples involve slowing agin
 
 That doesn’t mean we can’t be immortal, though. Sinclair’s lab has another research program, focusing on stem cells. These produce new, epigenetically healthy cells wherever they’re placed. And we now know that with a couple of chemicals called Yamanaka factors, you can make adult cells become stem cells again. Sinclair’s idea is to genetically engineer triggerable Yamanaka factors into the cells of human adults. Then, when you’re starting to feel old, you trigger the factors, some of your cells revert to stem cells, and they replace your old decaying cells with epigenetically healthy ones. Every biologist I mention this to has the same objection, which is “won’t that make you have every kind of cancer at once?”, and, in their defense, the first hundred times Sinclair tried this his mice got some pretty crazy cancers. But he swears they have solved this problem and the mice are doing fine now. Some of them are living about 40% longer than normal, which I notice still isn’t immortal but seems like a step in the right direction.
 
- **II.**
+**II.**
 
 People who are not David Sinclair generally don’t expect conquering aging to be this easy.
 
@@ -77,7 +80,7 @@ Finally, a friend wasn’t impressed with Sinclair’s clone argument. They poin
 
 My impression of the consensus in anti-aging research is that many people are excited for the same reasons Sinclair is excited, that people are much more optimistic than they were five or ten years ago - but that their level of optimism hasn’t _quite_ caught up to Sinclair’s level yet.
 
- **III.**
+**III.**
 
 Interspersed with all this stuff about mTOR and sirtuins is discussion of a broader question: is stopping aging desirable?
 

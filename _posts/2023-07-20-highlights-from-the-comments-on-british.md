@@ -3,6 +3,9 @@ title: "Highlights From The Comments On British Economic Decline"
 subtitle: "..."
 date: 2023-07-20
 likes: 104
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/134953448/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/1ee77d86-12a4-4241-ae6b-0a04e9629c1a_867x650.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-british
 ---
 People are talking about British economic decline. 
@@ -29,7 +32,7 @@ I prefer the Our World In Data graphs since they let you clearly show relative g
 
 So what’s going on? I [asked about this in an Open Thread](https://astralcodexten.substack.com/p/open-thread-284/comment/18332099). Here were some of your responses.
 
- **Eric Rall[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18371297):**
+**Eric Rall[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18371297):**
 
 > There are two different ways of calculating real GDP per capita in an international context, both of which involve converting local currency to dollars and then inflation-adjusting the dollars based on the US's GDP deflator. One uses market exchange rates, while the other uses "Purchasing Power Parity", attempting to optimize the GDP figure as a proxy for standard-of-living by using local prices for equivalent goods and services as the currency conversion factor. For Brexit-related and COVID-related reasons, the relationship between PPP and market exchange rates for Britain have been highly unstable in the period in question: exchange rates have been very volatile (ranging from US$1.08 to US$1.40 per £1.00), and tariffs and COVID disruption have both radically changed the availability and prices of imported goods.
 > 
@@ -66,7 +69,7 @@ So maybe we can summarize Eric’s theory as “The British economy isn’t nece
 
 Is this economically possible? Suppose that it costs more for Britain to import goods. Some of those goods will be raw materials, which will hurt industry, which will lower production, which should make market exchange rate GDP look worse. I don’t know enough macroeconomics to be able to tell if this should be happening.
 
- **AH[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18336495):**
+**AH[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18336495):**
 
 > The belief in Britain's economic decline arises from an understanding of its long-standing, extractive, rentier economy. Post-WWII industrial decline and the subsequent financialisation of the economy have led to a dearth of technical jobs and over-reliance on property ownership, fuelled by planning restrictions that artificially limit supply (and in recent years, mass migration).
 > 
@@ -82,7 +85,7 @@ Is this economically possible? Suppose that it costs more for Britain to import 
 
 I’d be interested in seeing the “government decided to sit on industries in 1900” thesis fleshed out more. Also the “collapse of human capital after WWI”? Is this just saying lots of people died in WWI? If so, how come this didn’t happen in other deadly wars? For example, lots of Germans died in WWII, but Germany remained an economic powerhouse.
 
- **Nolan Eoghan[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18336080):**
+**Nolan Eoghan[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18336080):**
 
 > 1) Some of this is anti Brexit propaganda. I think Brexit is a folly myself, but it’s clear there is a clear attempt to blame it for everything and even to exaggerate it’s affects.
 > 
@@ -110,7 +113,7 @@ Yeah. Is that the whole story?
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a3c3ca5-dbba-40d5-9e5b-f7f432cfb2e8_868x488.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a3c3ca5-dbba-40d5-9e5b-f7f432cfb2e8_868x488.png)Stagnating UK productivity ([source](https://ourworldindata.org/grapher/labor-productivity-per-hour-PennWorldTable?tab=chart&stackMode=relative&time=2000..latest&country=USA~JPN~DEU~GBR~FRA~SWE~CAN~NZL~ESP~ITA))
 
- **Smith[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18335527):**
+**Smith[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18335527):**
 
 > As a Brit I’m not sure I would say we are becoming a third world country, but the last 10/15 years have been pretty bad. You can see this in the gdp per capita stats:
 > 
@@ -126,7 +129,7 @@ I don’t find the GDP stats listed here very convincing; in the context of the 
 
 Why are salaries so much lower in Britain, though? And why aren’t more companies relocating to Britain to get cheap British workers?
 
- **Citizen Penrose[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18334310):**
+**Citizen Penrose[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18334310):**
 
 > Adam Tooze [wrote a piece about the decline](https://adamtooze.substack.com/p/chartbook-184-nostalgia-for-decline).
 
@@ -142,7 +145,7 @@ I can’t find a clear graph of all country’s public R&D spending, but I think
 
 I’d also like to understand more about how public R&D spending works. Is the government just funding basic research? Or are they helping companies make products? If the basic research, why are the benefits so limited to the individual country that the research is being done in?
 
- **Erusian[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18333456):**
+**Erusian[writes](https://astralcodexten.substack.com/p/open-thread-284/comment/18333456):**
 
 > Britain leaving the EU has somewhat slowed economic growth. While some British nationalists deny this even the conservative UK government admits this and has sought free trade agreements with several East Asian countries to offset this. However, pro-EU types have a political incentive to exaggerate the damage because they want Britain to rejoin the EU. Which probably would genuinely have a positive economic effect but not to the degree either Brexiteers or Europhiles want to pretend it does.
 > 
@@ -152,7 +155,7 @@ I’d also like to understand more about how public R&D spending works. Is the g
 > 
 > I have no idea whether it will work (if I did I would be quite rich). But they are right that the EU has not really dealt with the degree to which they are experiencing economic decline. They really ought to be taking relatively radical action. Though whether Brexit as a specifically radical action is a good idea... well, it's too early to tell.
 
- **My summary:**
+**My summary:**
 
 Britain is suffering a decline in productivity and income which isn’t fully reflected in nominal GDP statistics. 
 

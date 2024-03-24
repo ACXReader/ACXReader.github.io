@@ -3,6 +3,9 @@ title: "Resubmit And Summarize Your Proposals For Grants ++"
 subtitle: "..."
 date: 2022-01-21
 likes: 65
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/47513188/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6466fa05-5dc4-4804-b92b-aa7d1b34d1e6_680x419.jpeg
 original-url: https://www.astralcodexten.com/p/resubmit-and-summarize-your-proposals
 ---
 I promised you all that once I was done with the main round of [ACX Grants](https://astralcodexten.substack.com/p/acx-grants-results), I would run Grants ++, where I publish the proposals that didn't get funded here, so readers could look at them, see if they’re interesting, and maybe get in touch and offer funding. 

@@ -3,6 +3,9 @@ title: "From Nostradamus To Fukuyama"
 subtitle: "..."
 date: 2022-09-28
 likes: 267
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/50427121/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/864ac707-dd2b-471b-ada9-7c66d97e23b4_1200x675.jpeg
 original-url: https://www.astralcodexten.com/p/from-nostradamus-to-fukuyama
 ---
 **I.**
@@ -15,10 +18,10 @@ His method was: read books of other people’s prophecies and calculate some ast
 
 In 1559, he got his big break. During a jousting match, a count killed King Henry II of France with a lance through the visor of his helmet. Years earlier, Nostradamus had written:
 
->  _The young lion will overcome the older one,_  
->  _On the field of combat in a single battle;_  
->  _He will pierce his eyes through a golden cage,_  
->  _Two wounds made one, then he dies a cruel death_
+> _The young lion will overcome the older one,_  
+> _On the field of combat in a single battle;_  
+> _He will pierce his eyes through a golden cage,_  
+> _Two wounds made one, then he dies a cruel death_
 
 The nobleman was a bit younger than the king, supposedly they both had lions on their shield ([false](https://sites.google.com/site/jeffsuzukiproject/nostradamus)), maybe King Henry was wearing a golden helmet (I can’t find evidence for this, but as a consolation prize please accept [this picture](https://en.wikipedia.org/wiki/Parade_Armour_of_Henry_II_of_France) of his amazing parade armor), and his slow agonizing death over ten days from his wounds was pretty cruel. Seems like a match, sort of. Anyway, for the next five hundred years lots of people were really into Nostradamus and spent goodness knows how many brain cycles trying to interpret his incomprehensible quatrains.
 
@@ -35,14 +38,14 @@ The basic Nostradamic strategy was:
 
 For example, prophecy 106:
 
->  _Near the gates and within two cities  
+> _Near the gates and within two cities  
 >  There will be two scourges the like of which was never seen,  
 > Famine within plague, people put out by steel,  
 > Crying to the great immortal God for relief_
 
 This is an okay match for the atomic bombs, in the sense that there were two cities where something really bad happened. But read on to prophecy 107:
 
->  _Amongst several transported to the isles,  
+> _Amongst several transported to the isles,  
 >  One to be born with two teeth in his mouth  
 > They will die of famine the trees stripped,  
 > For them a new King issues a new edict._
@@ -51,14 +54,14 @@ This is an okay match for the atomic bombs, in the sense that there were two cit
 
 A few prophecies sound more impressive than this, eg:
 
->  _The lost thing is discovered, hidden for many centuries.  
+> _The lost thing is discovered, hidden for many centuries.  
 >  Pasteur will be celebrated almost as a god-like figure.  
 > This is when the moon completes her great cycle,  
 > but by other rumours he shall be dishonoured_
 
 This seems to name Pasteur, who was indeed a celebrated discoverer of things. And Nostradamus scholars note that [a historian accused Pasteur of plagiarism in 1995](https://www.nytimes.com/1995/05/16/science/doctor-s-world-revisionist-history-sees-pasteur-liar-who-stole-rival-s-ideas.html), which is a kind of dishonorable rumor. But the work here is being done by the translator: _Pasteur_ is just French for “pastor”, and an honest translation would have just said “the pastor will be celebrated…”, which is in tune with all his other vague allusions to things happening.
 
->  _The blood of the just will be demanded of London  
+> _The blood of the just will be demanded of London  
 >  Burnt by fire in the year '66  
 > The ancient Lady will fall from her high place  
 > And many of the same sect will be killed._
@@ -67,7 +70,7 @@ Seems like a match for the London fire of 1666. But again checking the original 
 
 I had a weird experience writing the end of this first part of the post. When I was a kid, reading through my parents’ old books, I came across an weird almanac from the 70s that had a section on Nostradamus. It listed some of his most famous prophecies, including the ones above, but also (reconstructing from memory and probably getting some things wrong, sorry):
 
->  _The way of life according to Thomas More  
+> _The way of life according to Thomas More  
 >  Will give way to another more sweet and seductive  
 > In the land of cold winds that first gave it birth  
 > Without strife, without a war it will fall_
@@ -80,7 +83,7 @@ But I remember this very clearly - the almanac was from 1970-something. So _how 
 
 The moral of the story is: just because Nostradamus wasn’t a real prophet, doesn’t mean nobody else is.
 
- **II.**
+**II.**
 
 Francis Fukuyama was a political scientist who wrote a book saying nothing would ever happen.
 
@@ -102,11 +105,11 @@ I think of Fukuyama as a sort of anti-Nostradamus. Nostradamus said some meaning
 
 At best, you could imagine a century or two where a careful analysis shows events didn’t match Nostradamus’ prophecies better than chance, or where a study finds that liberal democracy is overall rising and upheavals are getting rarer. But this is a bad match for modern attention spans and demands for timely content.
 
- **III.**
+**III.**
 
 Where does everyone else fall on the Nostradamus - Fukuyama spectrum?
 
- **Nassim Taleb** has it really good. Every time something weird happens, people write articles saying “If only we had listened to Nassim Taleb, the man who tried to warn us that weird things sometimes happen!”
+**Nassim Taleb** has it really good. Every time something weird happens, people write articles saying “If only we had listened to Nassim Taleb, the man who tried to warn us that weird things sometimes happen!”
 
 Of course, this is as much an oversimplification of Taleb’s book as “nothing ever happens” is of Fukuyama’s. In fact, I give Taleb huge credit for trying to fight it. When the coronavirus started, there were so many articles calling it a “black swan” that Taleb [pushed back, ](https://www.newyorker.com/news/daily-comment/the-pandemic-isnt-a-black-swan-but-a-portent-of-a-more-fragile-global-system)saying that no, pandemics were pretty predictable - just totally ordinary white swans. 
 
@@ -124,13 +127,13 @@ I tried as hard as I could to emphasize I was not saying that Trump wouldn’t s
 
 I don’t want to re-litigate how right or wrong I was (no, _really_ , I don’t want to do that). I will just say that I was left with a strong desire to never end up in that situation again. And part of that process was figuring out the borders of “that situation”. This post is the result. It’s not about how to make good predictions. It’s about how to make predictions that don’t make you miserable and cost you lots of credibility.
 
- **IV.**
+**IV.**
 
- _First_ , be careful about predictions that sound like they’re claiming things won’t happen, or won’t be interesting, or won’t change very much. Suppose it is true, and in ten whole years, the most spectacular version of the thing only happens once or twice. Every day the thing doesn’t happen, nobody will write “NEWS FLASH: LOCAL PROPHET WAS RIGHT!” But the one or two times the thing does happen spectacularly, everyone will be focusing on it and obsessing over it, people who write takes will be looking on takes about it, and “NEWS FLASH: LOCAL PROPHET PROVEN WRONG” will be extremely available.
+_First_ , be careful about predictions that sound like they’re claiming things won’t happen, or won’t be interesting, or won’t change very much. Suppose it is true, and in ten whole years, the most spectacular version of the thing only happens once or twice. Every day the thing doesn’t happen, nobody will write “NEWS FLASH: LOCAL PROPHET WAS RIGHT!” But the one or two times the thing does happen spectacularly, everyone will be focusing on it and obsessing over it, people who write takes will be looking on takes about it, and “NEWS FLASH: LOCAL PROPHET PROVEN WRONG” will be extremely available.
 
 Never say we’ll be seeing declining terrorist attacks, or school shootings, or serial murders. Never say a certain technology won’t advance very much. Never say it will be a quiet year, or quiet month, even in a certain domain (“it’ll be a quiet year for Asian geopolitics”). Never say something has reached a final form and won’t change very much.
 
- _Second_ , be careful about predictions that sound like something or somebody will be good, or go well. I realize this is a weird asymmetry - why not be equally careful about saying something will be bad? Partly because we live in a pessimistic age. Partly because when things are going well, we don’t hear about them, but when things are going badly, we hear about them a lot. 
+_Second_ , be careful about predictions that sound like something or somebody will be good, or go well. I realize this is a weird asymmetry - why not be equally careful about saying something will be bad? Partly because we live in a pessimistic age. Partly because when things are going well, we don’t hear about them, but when things are going badly, we hear about them a lot. 
 
 But partly it’s because the world is so much worse than we’re used to, that it’s hard not to wilt when confronted with the badness of even something quite a bit better than normal. I think Obama was a better-than-average president. But if someone predicted “Oh yeah, Obama, great guy” - well, I mean, he did drone-bomb a lot of children. He failed to close Guantanamo, failed to end mass incarceration, failed to make significant progress on the climate, and had an important journalistic organization [call his administration](https://cpj.org/reports/2013/10/obama-and-the-press-us-leaks-surveillance-post-911/) the most closed, anti-transparency, and hostile to investigation presidency since Nixon. By his own admission, he [messed up his handling](https://www.cnn.com/2016/04/10/politics/obama-libya-biggest-mistake) of the Libyan revolt so badly that the country is now controlled by warlords and re-instituting slavery. I’m not trying to attack Obama here! Probably some of these things are exaggerations others aren’t really his fault. This is my point! It sounds kind of hollow when I say that! Even good presidents will have a lot of things going on that are so bad that it feels cruel or hollow to say they were good.
 
@@ -142,13 +145,13 @@ I think this is part of what happened to Steven Pinker. There are some good argu
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3db496b8-34cf-46ca-8440-f32228a1f024_591x154.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3db496b8-34cf-46ca-8440-f32228a1f024_591x154.png)STEVEN FUKUYAMA BTFO.
 
- _Third_ , be careful saying that certain categories of very extreme thing won’t happen. People who want to argue with you will rules-lawyer the definition of those words until they do. For example, it might have seemed like a fair prediction in 2000 that Britain would not commit genocide in the next twenty years. Genocide is an extreme event that usually happens in dysfunctional countries like Cambodia or Rwanda, and Britain is a developed liberal democracy. But you would have to deal with the people who think [Britain committed genocide](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwilrvCLvpz6AhUFSDABHUd-Bv8QFnoECAcQAQ&url=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Fpolitics%2Fblair-accused-of-genocide-in-iraq-98067.html&usg=AOvVaw1m1eIMcsxU-LG_3DyO_vro) by being in the Iraq War, or that Boris Johnson’s COVID policy [constituted genocide](https://www.ibei.org/en/-herd-immunity-and-let-the-old-people-die-boris-johnson-s-callous-policy-and-the-idea-of-genocide_183653) (an argument by a professional genocide scholar, no less). [Some people argue](https://en.wikipedia.org/wiki/Transgender_genocide) that various forms of opposition to gay or trans people constitute genocide, in the sense that it keeps them in the closet and prevents them from being a unique culture/population - and isn’t destroying unique cultures/populations genocide by definition? Unless you want all these people using you as a foil and example of a regime dupe, be very careful to clarify exactly what you’re saying (“I don’t think the British government will violently kill tens of thousands of members of its own population” might be safer than “I don’t think Britain will commit genocide”).
+_Third_ , be careful saying that certain categories of very extreme thing won’t happen. People who want to argue with you will rules-lawyer the definition of those words until they do. For example, it might have seemed like a fair prediction in 2000 that Britain would not commit genocide in the next twenty years. Genocide is an extreme event that usually happens in dysfunctional countries like Cambodia or Rwanda, and Britain is a developed liberal democracy. But you would have to deal with the people who think [Britain committed genocide](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwilrvCLvpz6AhUFSDABHUd-Bv8QFnoECAcQAQ&url=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Fpolitics%2Fblair-accused-of-genocide-in-iraq-98067.html&usg=AOvVaw1m1eIMcsxU-LG_3DyO_vro) by being in the Iraq War, or that Boris Johnson’s COVID policy [constituted genocide](https://www.ibei.org/en/-herd-immunity-and-let-the-old-people-die-boris-johnson-s-callous-policy-and-the-idea-of-genocide_183653) (an argument by a professional genocide scholar, no less). [Some people argue](https://en.wikipedia.org/wiki/Transgender_genocide) that various forms of opposition to gay or trans people constitute genocide, in the sense that it keeps them in the closet and prevents them from being a unique culture/population - and isn’t destroying unique cultures/populations genocide by definition? Unless you want all these people using you as a foil and example of a regime dupe, be very careful to clarify exactly what you’re saying (“I don’t think the British government will violently kill tens of thousands of members of its own population” might be safer than “I don’t think Britain will commit genocide”).
 
 It might have once seemed safe to say fascists or communists wouldn’t seize power in the US any time soon - or that if they did, there would at least be violent resistance. But millions of people are very dedicated to the proposition that Obama was a communist or that Trump was a fascist. And even though you might think you have a clear idea of what something is - isn’t genocide where they put people in gas chambers? - usually the dictionary definition is poorly-fleshed out and much weaker, plus people can just invent their own definitions and insist that they’re the real one (eg “racism is prejudice plus power”). 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5a20a3c-0257-4c8f-8b68-62d1bc4bad28_588x114.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5a20a3c-0257-4c8f-8b68-62d1bc4bad28_588x114.png)There is a vocal group of people on Twitter claiming that Britain is committing genocide against the Nigerian region of Biafra as we speak, based on Britain having ties with Nigeria which is apparently doing something bad.
 
- _Fourth,_ be extra careful about predictions of the form “X isn’t really that bad/important, the media is just hyping people into worrying about it”. If you’re right, then media is good at spinning the news to make it look like worrying things have happened. They’ll continue to do that, it will look to everyone else like even more worrying things are happening now than ever, and then all of those viewers will yell at you personally to tell you how wrong you were.
+_Fourth,_ be extra careful about predictions of the form “X isn’t really that bad/important, the media is just hyping people into worrying about it”. If you’re right, then media is good at spinning the news to make it look like worrying things have happened. They’ll continue to do that, it will look to everyone else like even more worrying things are happening now than ever, and then all of those viewers will yell at you personally to tell you how wrong you were.
 
 There have been some [strong and well-thought-out responses](https://doyourownresearch.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile&utm_source=%2Fprofile%2F11624209-alexandros-marinos&utm_medium=reader2) to [my piece on ivermectin](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) which I really appreciate. But also, every time someone does another crappy low-standards observational study showing that ivermectin cures COVID with 90% or 100% success rate, people act like this is devastating for the people who rejected previous crappy ivermectin studies.
 
@@ -158,7 +161,7 @@ There have been some [strong and well-thought-out responses](https://doyourownre
 
 This wasn’t too unpleasant for me - I was taking the mainstream side of this debate, and being in the majority has nice psychological benefits. But sometimes I’ve had this same thing happen when I’m in the minority and it’s NYT and WaPo instead of The Epoch Times and Truth_Seeker, and then it really sucks.
 
- **V.**
+**V.**
 
 The science of forecasting is about how to abstract away all these problems and judge forecasters on the truth or falsehood of their statements.
 

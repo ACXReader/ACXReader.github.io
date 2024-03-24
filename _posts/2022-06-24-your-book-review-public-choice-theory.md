@@ -3,15 +3,18 @@ title: "Your Book Review: Public Choice Theory And The Illusion Of Grand Strateg
 subtitle: "Finalist #7 In The Book Review Contest"
 date: 2022-06-24
 likes: 78
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/60978211/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8f73b339-5d1f-4c61-91e1-1e36195a4b30_405x286.png
 original-url: https://www.astralcodexten.com/p/your-book-review-public-choice-theory
 ---
-[ _This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_ ]
+[_This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked - SA_]
 
- _[update 6/26: at least one paragraph of this review appears to be plagiarized; see[here](https://astralcodexten.substack.com/p/open-thread-230/comment/7375551) for more information. I will be investigating this and possibly disqualifying it from the contest -SA]_
+_[update 6/26: at least one paragraph of this review appears to be plagiarized; see[here](https://astralcodexten.substack.com/p/open-thread-230/comment/7375551) for more information. I will be investigating this and possibly disqualifying it from the contest -SA]_
 
 ## Introduction
 
-[In _[Public Choice Theory And The Illusion Of Grand Strategy](https://amzn.to/3OBt7GE) ]_, Richard Hanania details how a public choice model (imported from [public choice theory](https://en.wikipedia.org/wiki/Public_choice#:~:text=Public%20choice%2C%20or%20public%20choice,the%20study%20of%20political%20behavior.) in economics) can explain the United State’s incoherent foreign policy much better than the unitary actor model (imported from [rational choice theory](https://en.wikipedia.org/wiki/Rational_choice_theory) in economics) that underlies the illusion of American [grand strategy](https://en.wikipedia.org/wiki/Grand_strategy) in international relations (IR), in particular the dominant school of [realism](https://en.wikipedia.org/wiki/Realism_\(international_relations\)). As the subtitle _How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy_ suggests, American foreign policy is driven by special interest groups, which results in millions of deaths for no good reason.
+[In _[Public Choice Theory And The Illusion Of Grand Strategy](https://amzn.to/3OBt7GE)]_, Richard Hanania details how a public choice model (imported from [public choice theory](https://en.wikipedia.org/wiki/Public_choice#:~:text=Public%20choice%2C%20or%20public%20choice,the%20study%20of%20political%20behavior.) in economics) can explain the United State’s incoherent foreign policy much better than the unitary actor model (imported from [rational choice theory](https://en.wikipedia.org/wiki/Rational_choice_theory) in economics) that underlies the illusion of American [grand strategy](https://en.wikipedia.org/wiki/Grand_strategy) in international relations (IR), in particular the dominant school of [realism](https://en.wikipedia.org/wiki/Realism_\(international_relations\)). As the subtitle _How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy_ suggests, American foreign policy is driven by special interest groups, which results in millions of deaths for no good reason.
 
 In the unitary actor model, the primary unit of analysis of inter-state relations is the state as a monolithic agent capable of making rational decisions (forming coherent, long-term “grand strategy”) from cost-benefit analysis based on preference ranking and expected “national interest” maximisation.
 
@@ -70,7 +73,7 @@ The mechanism of influence is outbidding all other competitors in the marketplac
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4683929f-6fab-4b6f-ae65-f65ee690add0_958x301.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4683929f-6fab-4b6f-ae65-f65ee690add0_958x301.png)
 
- _You know the book is dry when this is one of the only two graphics._
+_You know the book is dry when this is one of the only two graphics._
 
 ## 3\. Team America: World Police
 
@@ -80,13 +83,13 @@ Hanania argues that Ikenberry and other’s advocacy of America’s role in main
 
 International law allows the use of force either in self-defence or with the approval of the United Nations Security Council (UNSC). The “legal” American military interventions include:
 
-  *  **The Korean War** (1950-1953): UNSC declared a “breach of the peace” when North Korea crossed the 38th parallel
+  * **The Korean War**(1950-1953): UNSC declared a “breach of the peace” when North Korea crossed the 38th parallel
 
-  *  **The Vietnam War** (1954-1975): from the initial American involvement in fighting off communist insurgency in the South as requested by the sovereign state of the Republic of Vietnam, to the later ceding of governing responsibilities to South Vietnam with the signing of the Paris Peace Agreement in 1975 (notwithstanding the violation of proportionality in the Vietnam War, and the violation of international law in extending conflict to the sovereign nations of Cambodia and Laos)
+  * **The Vietnam War**(1954-1975): from the initial American involvement in fighting off communist insurgency in the South as requested by the sovereign state of the Republic of Vietnam, to the later ceding of governing responsibilities to South Vietnam with the signing of the Paris Peace Agreement in 1975 (notwithstanding the violation of proportionality in the Vietnam War, and the violation of international law in extending conflict to the sovereign nations of Cambodia and Laos)
 
-  *  **The First Gulf War** (1990-1991): UNSC authorised the US and 34 other countries to bomb Saddam Hussein’s Iraqi invation out of Kuwait at the Gulf Monarchy’s request
+  * **The First Gulf War** (1990-1991): UNSC authorised the US and 34 other countries to bomb Saddam Hussein’s Iraqi invation out of Kuwait at the Gulf Monarchy’s request
 
-  *  **The War in Afghanistan** (2001-2021): a series of UN Resolutions justified, out of self-defence, the US invasion of Afghanistan, overthrow of the Taliban government, and targeting of al-Qaeda, in spite of the failure of nation building when the Taliban returned to Kabul in the midst of the final American withdrawal
+  * **The War in Afghanistan** (2001-2021): a series of UN Resolutions justified, out of self-defence, the US invasion of Afghanistan, overthrow of the Taliban government, and targeting of al-Qaeda, in spite of the failure of nation building when the Taliban returned to Kabul in the midst of the final American withdrawal
 
 
 
@@ -95,13 +98,13 @@ Similarly, the Soviet Union did not violate the sovereignty of states when it in
 
 The US is truly singular in violating international law:
 
-  *  **Grenada Intervention** (1983): Reagan ordered an invasion, not out of self-defence nor with UNSC approval (in fact voted against by UN general assembly 108 to 9), of the small island off the coast of Venezuela where its communist military junta came into power
+  * **Grenada Intervention** (1983): Reagan ordered an invasion, not out of self-defence nor with UNSC approval (in fact voted against by UN general assembly 108 to 9), of the small island off the coast of Venezuela where its communist military junta came into power
 
-  *  **Yugoslavia Humanitarian Intervention** (1995, 1999): UNSC sanctioned NATO’s intervention against ethnic Serbs’ massacre of ethnic Bosnians in Srebrenica and Sarajevo in 1995, but not the so-called “illegal but legitimate” 1999 bombing of Kosovo to stop the Serbs’ ethnic cleansing of Bosnians as NATO would have been vetoed by Russia and China.
+  * **Yugoslavia Humanitarian Intervention** (1995, 1999): UNSC sanctioned NATO’s intervention against ethnic Serbs’ massacre of ethnic Bosnians in Srebrenica and Sarajevo in 1995, but not the so-called “illegal but legitimate” 1999 bombing of Kosovo to stop the Serbs’ ethnic cleansing of Bosnians as NATO would have been vetoed by Russia and China.
 
-  *  **The War in Iraq** (2003-2011): China, Russia, France, and Germany all opposed the invasion of Iraq and overthrow of the Saddam regime that was sold as a ‘preemptive war’, turns out there were no WMD and the supposed connection between Saddam Hussein and al-Qaeda was nonexistent.
+  * **The War in Iraq** (2003-2011): China, Russia, France, and Germany all opposed the invasion of Iraq and overthrow of the Saddam regime that was sold as a ‘preemptive war’, turns out there were no WMD and the supposed connection between Saddam Hussein and al-Qaeda was nonexistent.
 
-  *  **The bombing of Librya** (2011): a newly passed UNSC resolution allowed NATO to enforce a no-fly zone against al-Gadhaffi’s government “to protect civilians”, but did not sanction the no-fly zone intended for regime change, nor the subsequent airstrike that led to the capture and killling of al-Gadhaffi by rebels
+  * **The bombing of Librya**(2011): a newly passed UNSC resolution allowed NATO to enforce a no-fly zone against al-Gadhaffi’s government “to protect civilians”, but did not sanction the no-fly zone intended for regime change, nor the subsequent airstrike that led to the capture and killling of al-Gadhaffi by rebels
 
 
 
@@ -287,7 +290,7 @@ Despite how odd it is that some wars are “legal” while others aren’t, we s
 
 80,000 Hours has updated their top career recommendations to include [China specialist](https://80000hours.org/career-reviews/china-specialist/) to improve China-Western coordination on global catastrophic risk, which seems more important after reading how irrational and [captured](https://en.wikipedia.org/wiki/Regulatory_capture) the American foreign policy apparatus is. As Hanania [writes](https://www.defensepriorities.org/explainers/great-power-competition-as-an-anachronism), “great power competition” is an anachronism. If Ukraine is the first war warped by hyperreality, it won’t be the last. Now that US foreign policy elites have driven Putin into the arms of China, let’s hope IR specialists can imbibe the public choice model instead of antagonising yet another nuclear rival.
 
- _Public Choice Theory and the Illusion of Grand Strategy_ is an important work because it raises [the sanity waterline](https://www.lesswrong.com/posts/XqmjdBKa4ZaXJtNmf/raising-the-sanity-waterline), which at the least should make us stop killing millions for no reason, and at the most should make the human race more knowledgeable of how to prevent total extinction from nuclear armageddon. Pax Americana is dead, but [a multipolar world will be more humane](https://richardhanania.substack.com/p/why-a-multipolar-world-will-be-more?s=r). 
+_Public Choice Theory and the Illusion of Grand Strategy_ is an important work because it raises [the sanity waterline](https://www.lesswrong.com/posts/XqmjdBKa4ZaXJtNmf/raising-the-sanity-waterline), which at the least should make us stop killing millions for no reason, and at the most should make the human race more knowledgeable of how to prevent total extinction from nuclear armageddon. Pax Americana is dead, but [a multipolar world will be more humane](https://richardhanania.substack.com/p/why-a-multipolar-world-will-be-more?s=r). 
 
 ## Endnotes
 

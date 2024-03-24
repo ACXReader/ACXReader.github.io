@@ -3,6 +3,9 @@ title: "2020 Predictions: Calibration Results"
 subtitle: "My project of predicting years meets its hardest challenge yet"
 date: 2021-04-05
 likes: 61
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34773443/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F373991e5-c7de-4b1f-bc24-0f6d8bb816dc_462x337.png
 original-url: https://www.astralcodexten.com/p/2020-predictions-calibration-results
 ---
 At the beginning of every year, I make predictions. At the end of every year, I score them (this year I’m very late). Here are [2014](https://slatestarcodex.com/2015/01/01/2014-predictions-calibration-results/), [2015](https://slatestarcodex.com/2016/01/02/2015-predictions-calibration-results/), [2016](https://slatestarcodex.com/2016/12/31/2016-predictions-calibration-results/), [2017](https://slatestarcodex.com/2018/01/02/2017-predictions-calibration-results/), [2018](https://slatestarcodex.com/2019/01/22/2018-predictions-calibration-results/), and [2019](https://slatestarcodex.com/2020/04/08/2019-predictions-calibration-results/).
@@ -11,7 +14,7 @@ And here are the predictions I made for 2020. Some predictions are redacted beca
 
 (Remember, link means something that didn’t happen, not something I was wrong about. We have a debate every year over whether 50% predictions are meaningful in this paradigm; feel free to continue it.)
 
- **CORONAVIRUS:**  
+**CORONAVIRUS:**  
 1\. Bay Area lockdown (eg restaurants closed) will be extended beyond June 15: 60%  
 2\. …until Election Day: 10%  
 [ 3\. Fewer than 100,000 US coronavirus deaths: 10%](http://www.example.com)  
@@ -33,15 +36,15 @@ And here are the predictions I made for 2020. Some predictions are redacted beca
 [ 19\. At least half of states send every voter a mail-in ballot in 2020 presidential election: 20%](http://www.example.com)  
 20\. PredictIt is uncertain (less than 95% sure) who won the presidential election for more than 24 hours after Election Day. 20%
 
- **POLITICS:**  
+**POLITICS:**  
 21\. Democrats nominate Biden, and he remains nominee on Election Day: 90%  
 22\. Balance of evidence available on Election Day supports (as per my opinion) Tara Reade accusation: 90%  
- _23\. Conditional on me asking about Reade on SSC survey, average survey-taker’s credence in her accusation is greater than 50%: 70%_  
- _24\. …greater than 75%: 10%  
+_23\. Conditional on me asking about Reade on SSC survey, average survey-taker’s credence in her accusation is greater than 50%: 70%_  
+_24\. …greater than 75%: 10%  
 25\. …greater than credence in Kavanaugh accusation asked in the same format: 40%_  
 [ 26\. Trump is re-elected President: 50%](http://www.example.com)  
 27\. Democrats keep the House: 70%  
- _28\. Republicans keep the Senate: 50%_  
+_28\. Republicans keep the Senate: 50%_  
 [ 29\. Trump approval rating higher than 43% on June 1: 30%](http://www.example.com)  
 30\. Biden polling higher than Trump on June 1: 70%  
 31\. At least one new Supreme Court Justice: 20%  
@@ -60,7 +63,7 @@ ECON AND TECH:
 42\. Crew Dragon reaches orbit: 80%  
 [ 43\. Starship reaches orbit: 40%](http://www.example.com)
 
- **SSC, ETC:**  
+**SSC, ETC:**  
 44\. I do another Nootropics Survey this year: 70%  
 [ 45\. I do another SSC Survey this year: 90%](http://www.example.com)  
 [ 46\. I start a Reader SSC Survey this year: 60%](http://www.example.com)  
@@ -72,13 +75,13 @@ ECON AND TECH:
 52\. I publish [Studies On Slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/): 80%  
 [ 53\. …conditional on being published, it gets at least 40,000 pageviews: 10%](https://slatestarcodex.com/2020/05/12/studies-on-slack/)  
 [ 54\. I publish [redacted]: 60%](http://www.example.com)  
- _55\. …conditional on being published, it gets at least 40,000 pageviews: 50%_  
+_55\. …conditional on being published, it gets at least 40,000 pageviews: 50%_  
 [ 56\. More hits this year than last: 70%](http://example.com)  
 [ 57\. Most hits ever this year: 20%](http://example.com)  
 58\. I finish Unsong revision this year: 40%  
 [ 59\. New co-blogger with more than 3 posts: 10%](http://example.com)
 
- **FRIENDS:**  
+**FRIENDS:**  
 60\. No new long-term (1 month +) residents at group house by the end of the year: 70%  
 [ 61\. Koios has said his first clear comprehensible word: 50%](http://example.com)  
 [ 62\. [redacted] still lives here at the end of the year: 40%](http://example.com)  
@@ -92,13 +95,13 @@ ECON AND TECH:
 [ 70\. [redacted] and [redacted] are still dating: 80%](http://example.com)  
 [ 71\. [redacted]: 50%](http://example.com)
 
- **PROFESSIONAL**  
+**PROFESSIONAL**  
 72\. I’ve gotten at least one new patient to do a full wake therapy protocol: 60%  
 73\. I have specific, set-in-motion plans to quit work / start my own business: 5%  
 [ 74\. I work the same schedule and locations I did before the coronavirus: 80%](http://example.com)  
 [ 75\. I get a bonus for 2020: 20%](http://example.com)
 
- **PERSONAL:**  
+**PERSONAL:**  
 76\. [redacted]: 70%  
 77\. [redacted]: 70%  
 78\. [redacted]: 95%  

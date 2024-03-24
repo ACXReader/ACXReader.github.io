@@ -3,33 +3,36 @@ title: "Apply For An ACX Grant (2024)"
 subtitle: "..."
 date: 2023-12-08
 likes: 86
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/138846316/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/31c38237-08af-407b-baa7-16d74bf398e5_1388x896.jpeg
 original-url: https://www.astralcodexten.com/p/apply-for-an-acx-grant-2024
 ---
 I’m running another ACX Grants round. If you already know what this is and want to apply, use **[the form here](https://docs.google.com/forms/d/e/1FAIpQLSc6vmem8-XfhVkMde3PCyysAS_bwBImk3H9iJo0S1OsqfUHWg/viewform) **to apply, deadline December 29. Otherwise see below for more information.
 
- **What is ACX Grants?**
+**What is ACX Grants?**
 
-ACX Grants is a microgrants program where I help fund ACX readers’ charitable or scientific projects. You can see the 2022 cohort [here ](/p/acx-grants-results)and my 2022 retrospective [here](/p/so-you-want-to-run-a-microgrants).
+ACX Grants is a microgrants program where I help fund ACX readers’ charitable or scientific projects. You can see the 2022 cohort [here ](/p/acx-grants-results)and my 2022 retrospective [here](/p/so-you-want-to-run-a-microgrants). 
 
 This year we’re partnering with [Manifund](https://manifund.com/), the charity arm of Manifold Markets, who will be handling the administrative/infrastructure side of things.
 
- **How much money is involved?**
+**How much money is involved?**
 
 So far I am planning to contribute $250,000 of my own money. I have nonbinding commitments for an extra $70,000 from other people, for a total of $320,000. If you’re interested in helping, please email me at scott@slatestarcodex.com.
 
 Since we have less money than last year, I expect the average grant to be a little smaller. Most grants will probably be between $5,000 and $50,000, with maybe one or two up to $100,000. If the average is $20,000 and we stay at $320,000 total, we’ll give ~10 - 15 grants.
 
- **What’s the timeline?**
+**What’s the timeline?**
 
 I’d like to have grants awarded by February 1 and money in your hands by March 1. This is a goal, not a promise.
 
- **What will the application process be like?**
+**What will the application process be like?**
 
 You fill out [a form](https://docs.google.com/forms/d/e/1FAIpQLSc6vmem8-XfhVkMde3PCyysAS_bwBImk3H9iJo0S1OsqfUHWg/viewform) that should take 15 - 30 minutes. If I have questions, I might email you, in a way that hopefully won’t take more than another 15 - 30 minutes of your time to answer. 
 
 If you win a grant, Manifund will send you the money, probably by bank wire. I might ask you to fill out another 15 - 30 minute form letting me know how your project did after one year, three years, five years, etc.
 
- **What kind of projects might you fund?**
+**What kind of projects might you fund?**
 
 There are already lots of good charities that help people directly at scale, for example Against Malaria Foundation (which distributes malaria-preventing bed nets) and GiveDirectly (which gives money directly to very poor people in Africa). I think these are hard to beat.
 
@@ -56,9 +59,9 @@ I’m most interested in charities that pursue novel ways to change complex syst
 
 You can read the full list [here](/p/acx-grants-results).
 
- **What are impact certificates / impact markets?**
+**What are impact certificates / impact markets?**
 
-This year’s ACX Grants will be a hybrid design. Most of it will use the traditional funding model. But applicants whose projects don’t get funded by the traditional model will have the _option_ (not requirement! you don’t have to think about this if you don’t want to!) to opt in to an “impact market”, a non-traditional charitable funding institution.
+This year’s ACX Grants will be a hybrid design. Most of it will use the traditional funding model. But applicants whose projects don’t get funded by the traditional model will have the _option_(not requirement! you don’t have to think about this if you don’t want to!) to opt in to an “impact market”, a non-traditional charitable funding institution.
 
 In an impact market, charitable projects offer to sell a sort of “stock”, called “impact certificates”. Investors buy the impact certificates, funding the project.
 
@@ -68,7 +71,7 @@ The motivating idea is that a grantmaker might dismiss a charity’s plan as imp
 
 We ran a test grant of impact markets earlier this year, along with partner Manifund. You can see the announcement [here](/p/announcing-forecasting-impact-mini), the results [here](/p/impact-market-mini-grants-results), and Manifund’s continuing impact market [here](https://manifund.com).
 
- **How will this year’s ACX Grants (** _ **optionally!!!)**_ **use impact markets?**
+**How will this year’s ACX Grants (**_**optionally!!!)**_**use impact markets?**
 
 Most of ACX Grants will happen through the traditional grantmaking structure.
 
@@ -101,7 +104,7 @@ Obviously this involves trusting the people at these charities to make good esti
 
 If you want to join these four institutions as a potential final oracular funder of impact certificates, see [this document](https://manifoldmarkets.notion.site/ACX-Grants-2-Pitch-to-Retro-Funders-1e37f1ebf79b4df7bf38a9ad6cddb55e) and email rachel@manifund.org. If you want to invest in impact certificates, I’ll give you more information on the ACX Grants version later, and you can look over [the existing impact certs](https://manifund.com/) while you’re waiting.
 
- **Is there anything good about winning an ACX Grant other than getting money?**
+**Is there anything good about winning an ACX Grant other than getting money?**
 
 You will get my support, which is mostly useful in getting me to blog about your project. For example, I can put out updates or requests for help on Open Threads. I can also try to help network you with people I know. Some people who won ACX Grants last year were able to leverage the attention to attract larger grantmakers or VCs.
 
@@ -109,13 +112,13 @@ You can try to pitch me guest posts about your project. This could be a descript
 
 You’ll be invited to an ACX Grantee Discord server, where you can talk to other grantees. I don’t really understand why people want this so much, but some of last year’s grantees seemed to appreciate it. One of them is considering sponsoring a physical ACX Grantee meetup in the Bay Area, which you would be welcome to attend if it happened. I wouldn’t be able to give you extra money to travel to this, sorry.
 
- **What are the tax implications of an ACX Grant?**
+**What are the tax implications of an ACX Grant?**
 
 Consult your accountant, especially if you live outside the US.
 
 If you live inside the US, AFAICT it’s ordinary taxable income. If you’re an individual, you’ll have to pay taxes on it at your usual tax rate. If you’re a 501(c), you’ll get your normal level of tax exemption.
 
- **What’s the story behind why you have $250,000 to spend on grants, but are also looking for more funding?**
+**What’s the story behind why you have $250,000 to spend on grants, but are also looking for more funding?**
 
 Back during the crypto boom, some extremely generous readers told me to buy crypto, or asked to buy NFTs of my posts for crypto, or just sent me crypto and said “hold on to this, wait for it to go up, and thank me later”. Lots of it did go up, and I did pretty well. I’m eliding some details for security reasons, but I don’t think the full details would be scandalous or change anyone’s overall assessment of the situation.
 
@@ -125,6 +128,6 @@ My hope is that this will act as a seed, and other people will add more to the p
 
 If you’re interested in helping fund these grants, you can talk to me at scott@slatestarcodex.com
 
- **Sorry, I forgot, where do I go to apply for a grant again?**
+**Sorry, I forgot, where do I go to apply for a grant again?**
 
 See **[form here](https://docs.google.com/forms/d/e/1FAIpQLSc6vmem8-XfhVkMde3PCyysAS_bwBImk3H9iJo0S1OsqfUHWg/viewform)** _._ Please apply by 11:59 PM on December 29th.

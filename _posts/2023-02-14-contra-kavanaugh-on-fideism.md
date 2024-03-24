@@ -2,7 +2,10 @@
 title: "Contra Kavanagh On Fideism"
 subtitle: "..."
 date: 2023-02-14
-likes: 381
+likes: 382
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/102885079/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/9dbc8c56-6fa5-4a77-81ff-f34527c81dc9_1080x608.png
 original-url: https://www.astralcodexten.com/p/contra-kavanaugh-on-fideism
 ---
 **I.**
@@ -131,7 +134,7 @@ I don’t think I’m ignoring this. Some might even say I obsess over it. See e
 
 I discussed this in[ this other post on ivermectin](https://astralcodexten.substack.com/p/too-good-to-check-a-play-in-three), where I describe how a false pro-ivermectin claim provoked an equally false anti-ivermectin response provoked an equally false pro-ivermectin response and so on, both sides living entirely in their biases and imagination for several cycles. “Conspiracy ecosystems” don’t have some exotic reasoning style we can’t possibly understand. They have normal reasoning, and are just slightly worse at applying [CONSTANT VIGILANCE](https://slatestarcodex.com/2014/06/09/constant-vigilance/) than everyone else.
 
- **III.**
+**III.**
 
 One final complaint, a restatement of some of the arguments I made in [Cowpox Of Doubt](https://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/).
 

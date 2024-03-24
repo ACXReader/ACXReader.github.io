@@ -3,6 +3,9 @@ title: "ACX Grants Followup Impact Market"
 subtitle: "..."
 date: 2024-03-07
 likes: 27
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/142350630/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/9928e619-654c-4acc-b84a-183f339fb135_674x505.png
 original-url: https://www.astralcodexten.com/p/acx-grants-followup-impact-market
 ---
 ## I. What’s Going On
@@ -13,9 +16,9 @@ The plan has always been to run an _impact market_ \- a site where investors cro
 
 So in my ideal world, we’d be running an impact market where you could invest your money in the remaining 317 proposals and make a profit if they did well. We’ve encountered two flaws on the way to that ideal world:
 
- **First,** although about 140 of you expressed interest in and qualified for the impact market round, only 44 have responded to emails from Manifund, signed the necessary documents, and actually gotten featured. So there are only 44 proposals on the market so far. If you want to participate in the impact market, but aren’t on there yet, please check your email and spam folder for messages from Manifund. If you didn’t get any, but you applied to ACX Grants and want to participate, please email rachel@manifund.org.
+**First,** although about 140 of you expressed interest in and qualified for the impact market round, only 44 have responded to emails from Manifund, signed the necessary documents, and actually gotten featured. So there are only 44 proposals on the market so far. If you want to participate in the impact market, but aren’t on there yet, please check your email and spam folder for messages from Manifund. If you didn’t get any, but you applied to ACX Grants and want to participate, please email rachel@manifund.org.
 
- **Second,** you can’t legally run a stock-market-like institution without lots of SEC approvals that we’re not really specced to get. Last time we got around this problem by only selling to accredited investors (ie rich people). This time our sponsors at Manifund want to try something different. Anyone, accredited investor or not, can invest in charities. But when you sell your investment, you won’t get a payout in real money. You’ll get it in special Manifund dollars that you can donate to other charities, but can’t spend on non-charitable purposes. I realize this is less fun than real dollars, sorry.
+**Second,** you can’t legally run a stock-market-like institution without lots of SEC approvals that we’re not really specced to get. Last time we got around this problem by only selling to accredited investors (ie rich people). This time our sponsors at Manifund want to try something different. Anyone, accredited investor or not, can invest in charities. But when you sell your investment, you won’t get a payout in real money. You’ll get it in special Manifund dollars that you can donate to other charities, but can’t spend on non-charitable purposes. I realize this is less fun than real dollars, sorry.
 
 Despite these minor hiccups, I’m still pretty excited about this. Go to <https://manifund.com/causes/acx-grants-2024?tab=certs> to check this one out.
 

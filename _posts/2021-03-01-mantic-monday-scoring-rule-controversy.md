@@ -3,6 +3,9 @@ title: "Mantic Monday: Scoring Rule Controversy"
 subtitle: "..."
 date: 2021-03-01
 likes: 46
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/33060649/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/972ae339-67db-462b-a4af-508e937e5dbd_1280x1158.jpeg
 original-url: https://www.astralcodexten.com/p/mantic-monday-scoring-rule-controversy
 ---
 **Metaculus scoring rule controversy**
@@ -23,7 +26,7 @@ If you are spamming the questions to maximize points, the best strategy is to sp
 
 I find this a bit reassuring, but I still feel disincentivized to participate when I think about how my careful guesses net me less points than doing some sort of boring spamming strategy I’m not really going to do. I don’t think Metaculus considers accurately ranking people by predictive skill an especially high priority compared to actually important things like getting good predictions, and that’s fine, but it kind of sucks for people who were motivated by a competitive streak (but who aren’t _quite_ competitive enough to work out the best way to spam questions).
 
- **In the long run, are we all dead?**
+**In the long run, are we all dead?**
 
 Last week a commenter asked: how do you make a prediction market for something 50 years out? 100 years out?
 
@@ -43,7 +46,7 @@ I think probably prediction markets will lose a lot of reliability and precision
 
 Or here's a more optimistic way to think about this: if we can get good short-term and medium-term prediction markets, we'll learn a lot about forecasting and who's good at it. Then we can ask those same people to make long-term predictions pro bono, or for a flat fee. Even if there were some industry that (for some reason) couldn't issue stock or participate on the stock market, I would trust Wall Street to be able to apply the techniques it's learned playing the stock market to predict trends in that industry too. In the same way, whatever the prediction market's version of Wall Street is will probably be good at things beyond just playing prediction markets.
 
- **Short Links**
+**Short Links**
 
 Someone alerted me to the [Foresight Exchange](http://foresightexchange.com), an old-school prediction market operating since 1996! I’m trying to make sense of their “[Will The US Government Collapse By 2025?](http://foresightexchange.com/fx-bin/Claim?claim=USgn)” question, which records some interesting changes in perception of US government stability between 1996 and today. But why is it still at 20%? I’m not sure about this, but I think it’s because one of the valid signs of collapse was “US dollar becomes so devalued that gold is worth $2500/ounce” - gold is currently worth $1700/ounce, and 20% chance for $2500 by 2025 seems plausible. Let this be a lesson to be very careful about what numbers you put in a prediction you’re going to have to judge 30 years later.
 

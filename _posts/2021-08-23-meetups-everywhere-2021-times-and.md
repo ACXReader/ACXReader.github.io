@@ -3,6 +3,9 @@ title: "Meetups Everywhere 2021: Times And Places"
 subtitle: "..."
 date: 2021-08-23
 likes: 30
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/40351354/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a6daeafa-e0b7-4e0f-813a-c73f87081fc0_1000x667.jpeg
 original-url: https://www.astralcodexten.com/p/meetups-everywhere-2021-times-and
 ---
 _**[Meetup COVID alerts** : I’ve been informed that someone at the Salt Lake City meetup may have had COVID. Please let me know if you have any other information about COVID at meetups and I will list it here.] _
@@ -11,46 +14,46 @@ Thanks to everyone who responded to my [request for](https://astralcodexten.subs
 
 I’ll be trying to attend ~15 of the 170 meetups. Since I focused on the US last time, I’m going to focus on Europe this year (plus a few US cities on the way). My _very provisional_ itinerary (all dates in US month/day format) is:
 
- **Berkeley:** Saturday 8/28, 1 PM **  
-Boston:** Sunday 9/5, 5 PM **  
-New York: **Monday 9/6, 5 PM **  
-Washington DC:** Saturday **** 9/11, 5 PM **  
-Lisbon:** Saturday 9/18, 5 PM **  
-Madrid:** Saturday 9/25, 11 AM **  
-Zurich:** Sunday 9/26, 5 PM **  
-Vienna:** Saturday 10/2, 1 PM **  
-Prague:** Sunday 10/3, 5 PM **  
-Berlin:** Saturday 10/9, 1 PM **  
-Paris:** Sunday 10/10, 5 PM **  
+**Berkeley:** Saturday 8/28, 1 PM **  
+Boston:** Sunday 9/5, 5 PM**  
+New York: **Monday 9/6, 5 PM**  
+Washington DC:** Saturday **** 9/11, 5 PM**  
+Lisbon:** Saturday 9/18, 5 PM**  
+Madrid:** Saturday 9/25, 11 AM**  
+Zurich:** Sunday 9/26, 5 PM**  
+Vienna:** Saturday 10/2, 1 PM**  
+Prague:** Sunday 10/3, 5 PM**  
+Berlin:** Saturday 10/9, 1 PM**  
+Paris:** Sunday 10/10, 5 PM**  
 London:** Saturday 10/16, 1 PM  
- **Oxford:** Sunday 10/17, 5 PM **  
-Cambridge:** Saturday 10/23, 1 PM **  
+**Oxford:** Sunday 10/17, 5 PM**  
+Cambridge:** Saturday 10/23, 1 PM**  
 Edinburgh:** Sunday 10/24, 5 PM
 
 Again, this is very provisional; I don’t want to make confident predictions about how quickly I can travel through Europe. Also, if COVID or something else comes up, I might have to drop some cities from my list, in which case I’ll let you know and you can have a normal meetup at whatever time works for you.
 
- **Extra Info For Potential Attendees**
+**Extra Info For Potential Attendees**
 
- **1.** If you’re reading this, you’re invited. Please don’t feel like you “won’t be welcome” just because you’re new to the blog, demographically different from the average reader, or hate ACX and everything it stands for. You’ll be fine!   
+**1.** If you’re reading this, you’re invited. Please don’t feel like you “won’t be welcome” just because you’re new to the blog, demographically different from the average reader, or hate ACX and everything it stands for. You’ll be fine!   
 **2.** Please re-check [the spreadsheet](https://docs.google.com/spreadsheets/d/1QFbM5B9KfsiwqO6DvJ4D05dQitBtZ6kYDwXZ3Hj6SEc/edit#gid=1585750313) the day of/before the meetup. Some organizers might have to reschedule, updates are more likely to make it on the spreadsheet than to make it here, and the spreadsheet will be the canonical version if anything differs.  
- **3**. You don’t have to RSVP or contact the organizer if you don’t want to (unless the event description says otherwise); the RSVP links are just there to give organizers a better sense of how many people might show up. I’ve also given email addresses for all organizers in case you have a question.   
+**3**. You don’t have to RSVP or contact the organizer if you don’t want to (unless the event description says otherwise); the RSVP links are just there to give organizers a better sense of how many people might show up. I’ve also given email addresses for all organizers in case you have a question.   
 **4.** Last time I went traveling, some people gave me very nice gifts. I’m very grateful, but please don’t do that this time – I’ll be going a long way with no extra room in my suitcase.
 
- **Extra Info For Meetup Organizers:  
+**Extra Info For Meetup Organizers:  
   
 1.** If you’re the host, bring a sign that says “ACX MEETUP” and prop it up somewhere (or otherwise be identifiable).  
- **2.** Bring blank labels and pens for nametags.  
- **3.** Pass around a sign-up sheet where everyone gives their name and email address, so you can start a mailing list to make organizing future meetups easier.  
- **4.** If it’s the first meetup, people are probably just going to want to talk, and if you try to organize some kind of “fun” “event” it’ll probably just be annoying.  
- **5.** It’s easier to schedule a followup meetup while you’re having the first, compared to trying to do it later on by email.  
- **6.** In case people want to get to know each other better outside the meetup, you might want to mention [reciprocity.io](https://www.reciprocity.io/), the rationalist friend-finder/dating site.   
+**2.** Bring blank labels and pens for nametags.  
+**3.** Pass around a sign-up sheet where everyone gives their name and email address, so you can start a mailing list to make organizing future meetups easier.  
+**4.** If it’s the first meetup, people are probably just going to want to talk, and if you try to organize some kind of “fun” “event” it’ll probably just be annoying.  
+**5.** It’s easier to schedule a followup meetup while you’re having the first, compared to trying to do it later on by email.  
+**6.** In case people want to get to know each other better outside the meetup, you might want to mention [reciprocity.io](https://www.reciprocity.io/), the rationalist friend-finder/dating site.   
 **7.** To enable the RSVP system and send you email notifications for new RSVPs to your event, the LessWrong team created events and accounts for all the meetup organizers. You can claim your event and account by sending a message via the Intercom support chat in the bottom right corner of LessWrong, or by resetting your password with the email that you provided in the meetup organizer form.
 
 If you have any questions about any of this, contact ACX Meetup Czar Mingyuan (meetupsmingyuan@gmail.com). And without further ado, here are the meetups you can attend (version below is less canonical than [the spreadsheet](https://docs.google.com/spreadsheets/d/1QFbM5B9KfsiwqO6DvJ4D05dQitBtZ6kYDwXZ3Hj6SEc/edit#gid=1585750313), trust the latter if anything differs):
 
 ## ONLINE
 
- **ONLINE**  
+**ONLINE**  
 Contact: Joshua Fox, joshua[at]joshuafox[dot]com  
 Time: 5:30 PM GMT, Sunday, September 19  
 Location: See <https://joshuafox.com/acx-online-meetups/>  
@@ -58,7 +61,7 @@ Notes: The time given is GMT. Meetups include a speaker and then mingling. The l
 
 ## CANADA
 
- **CALGARY, AB ([RSVP](https://www.lesswrong.com/events/KfmCteKKBTw26qjnL/calgary-ab-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**CALGARY, AB ([RSVP](https://www.lesswrong.com/events/KfmCteKKBTw26qjnL/calgary-ab-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: David Piepgrass, qwertie256[at]gmail[dot]com  
 Time: 1:00 PM, Sunday, September 5  
 Location: Pearce Estate Park: parking on 17a St SE, one of the 10 picnic tables northeast of the parking area, unless full. Look for a red-shirt guy and "ACX".  
@@ -81,7 +84,7 @@ Contact: Rory, rorykaufmann[at]gmail[dot]com
 Time: 6:00 PM, Thursday, September 9  
 Location: The Forks, outside on the patio (or in the main building if the weather is bad). Look for the tall guy with a yellow sweater.
 
- **KITCHENER-WATERLOO, ON ([RSVP](https://www.lesswrong.com/events/hAk5WLdBAtB7vc6cJ/kitchener-waterloo-on-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**KITCHENER-WATERLOO, ON ([RSVP](https://www.lesswrong.com/events/hAk5WLdBAtB7vc6cJ/kitchener-waterloo-on-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: JC, blxxia[at]gmail[dot]com  
 Time: 3:00 PM, Sunday, September 19  
 Location: Waterloo Park, under the Wonders of Winter sign (it's an archway over a trail near the LRT station). I will be in scuffed white doc martens.  
@@ -100,7 +103,7 @@ Location: The Bentway, near big red art installation
 Coordinates: <https://w3w.co/tuxedos.issued.office>  
 Notes: Note the location has changed to the Bentway, which is underneath the Gardiner Expressway, due to forecasted rain. Despite being underneath a highway, it is still quite easy to have conversations in this setting and it is well ventilated. I apologize for the last minute change and will send people to Norway Park to collect anyone confused.
 
- **MONTREAL, QC ([RSVP](https://www.lesswrong.com/events/QmcakqftZu526rMHo/montreal-qc-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**MONTREAL, QC ([RSVP](https://www.lesswrong.com/events/QmcakqftZu526rMHo/montreal-qc-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: DS, sdaria375[at]gmail[dot]com  
 Time: 3:00 PM, Saturday, August 28  
 Location: Jeanne-Mance park on the corner of Duluth and Esplanade  
@@ -109,7 +112,7 @@ Coordinates: <https://w3w.co/apples.fevered.gasping>
 
 ## EUROPE
 
- **VIENNA, AUSTRIA ([RSVP](https://www.lesswrong.com/events/jfgieQsx5PxgEJycT/vienna-austria-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**VIENNA, AUSTRIA ([RSVP](https://www.lesswrong.com/events/jfgieQsx5PxgEJycT/vienna-austria-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Alexej Gerstmaier, alexej[dot]gerstmaier[at]gmail[dot]com  
 Time: 1:00 PM, Saturday, October 2  
 Location: Wiener Stadtpark at the Strauss Monument; will have an ACX Meetup sign.  
@@ -124,21 +127,21 @@ Coordinates: <https://w3w.co/badly.deliver.ducks>
 **VELDWEZELT, BELGIUM**  
  _See Maastricht, Netherlands_
 
- **SOFIA, BULGARIA ([RSVP](https://www.lesswrong.com/events/H33reTkAkMtwvtbeG/sofia-bulgaria-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**SOFIA, BULGARIA ([RSVP](https://www.lesswrong.com/events/H33reTkAkMtwvtbeG/sofia-bulgaria-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Anastasia, sofia[dot]acx[dot]meetup[at]gmail[dot]com  
 Time: 7:00 PM, Saturday, September 25  
 Location: NDK park, the benches behind (south of) the Pillars / Пилоните; I'll be wearing a blue shirt and carrying a sheet of paper with ACX MEETUP on it.  
 Coordinates: <https://w3w.co/noise.bridges.outpost>  
 Notes: I am not certain that there's even one other ACX person in the city/country, so if potential attendees could RSVP, that would be grand.
 
- **PRAGUE, CZECH REPUBLIC ([RSVP](https://www.lesswrong.com/events/evcNyyteFKiKLPKah/prague-czech-republic-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**PRAGUE, CZECH REPUBLIC ([RSVP](https://www.lesswrong.com/events/evcNyyteFKiKLPKah/prague-czech-republic-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Jiri Nadvornik, jiri[dot]nadvornik[at]efektivni-altruismus[dot]cz  
 Time: 5:00 PM, Sunday, October 3  
 Location: Garden of Dharmasala teahouse  
 Coordinates: <https://w3w.co/magnets.hurry.charm>  
 Notes: There is CFAR rEUnion on 24-27 September. I hope some people will attend both events.
 
- **AARHUS, DENMARK ([RSVP](https://www.lesswrong.com/events/HKxKyjSMdCHPaXHjC/aarhus-denmark-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**AARHUS, DENMARK ([RSVP](https://www.lesswrong.com/events/HKxKyjSMdCHPaXHjC/aarhus-denmark-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Jonas, proz[at]c[dot]dk  
 Time: 10:00 AM, Saturday, August 28  
 Location: Outside entrance of the Greenhouses in Aarhus Botanical Garden. I will be wearing a red shirt and carrying a sign with ACX MEETUP on it. Nearby parking lot: Poppelpladsen 2, 8000 Aarhus.  
@@ -163,14 +166,14 @@ Location: Jardin Public, under the large trees next to the main entrance (Cours 
 Coordinates: <https://w3w.co/prelude.rails.glades>  
 Notes: French/English bilingual
 
- **NANTES, FRANCE ([RSVP](https://www.lesswrong.com/events/vLuwowwnAufpGFaEC/nantes-france-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**NANTES, FRANCE ([RSVP](https://www.lesswrong.com/events/vLuwowwnAufpGFaEC/nantes-france-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Carado, carado[at]carado[dot]moe  
 Time: 3:00 PM, Saturday, August 28  
 Location: Parc de Procé, southwest entrance (Place Paul Doumer)  
 Coordinates: <https://w3w.co/consumed.pass.scans>  
 Notes: French/English bilingual
 
- **PARIS, FRANCE ([RSVP](https://www.lesswrong.com/events/vakKWxSjocrCXgSwm/paris-france-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**PARIS, FRANCE ([RSVP](https://www.lesswrong.com/events/vakKWxSjocrCXgSwm/paris-france-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Jules, jules[dot]lt[at]gmail[dot]com  
 Time: 4:00 PM, Sunday, October 10 (Scott expected to arrive at 5 PM)  
 Location: At the top of the Trocadero park, West of Musée de l'Homme, near the pond: <https://goo.gl/maps/e6x139yMRQyMBa5p8>. I'll have a Spinoza T-Shirt, pink pants, and a big ACX sign!  
@@ -184,7 +187,7 @@ Location: Jardin des Plantes, northwest part
 Coordinates: <https://w3w.co/promises.sentences.lance>  
 Notes: I can change the time, date, and/or location if needed.
 
- **BERLIN, GERMANY ([RSVP](https://www.lesswrong.com/events/KEnZqCoqBWAbRDDmF/berlin-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**BERLIN, GERMANY ([RSVP](https://www.lesswrong.com/events/KEnZqCoqBWAbRDDmF/berlin-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Ruben, ssc[at]alphabattle[dot]xyz  
 Time: 1:00 PM, Saturday, October 9  
 Location: [Südplateau](https://www.openstreetmap.org/search?whereami=1&query=52.52759%2C13.35787#map=19/52.52759/13.35788) Fritz-Schloss-Park  
@@ -203,28 +206,28 @@ Location: Hiroshima-Nagasaki-Park, Hill towards Aachener Weiher. I will put up a
 Coordinates: <https://w3w.co/benötigen.getränken.quadrat>  
 Notes: German/English bilingual
 
- **ERLANGEN, BAVARIA, GERMANY ([RSVP](https://www.lesswrong.com/events/8Yn8hMc6YsKdQuJkr/erlangen-bavaria-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**ERLANGEN, BAVARIA, GERMANY ([RSVP](https://www.lesswrong.com/events/8Yn8hMc6YsKdQuJkr/erlangen-bavaria-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: AA, burn_adi[at]yahoo[dot]de  
 Time: 2:00 PM, Saturday, September 18  
 Location: Röthelheimpark (Martin-Luther-King-Weg), at the big stone head  
 Coordinates: <https://w3w.co/läufer.lindwurm.anderem>  
 Notes: This date is after the school summer holidays (13.9.), but before university semester starts (18.10.). If a lot of students sign up, I am amenable to organizing another meetup at a later date.
 
- **FRANKFURT, GERMANY ([RSVP](https://www.lesswrong.com/events/soZsxsh4TQoSXtTfN/frankfurt-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**FRANKFURT, GERMANY ([RSVP](https://www.lesswrong.com/events/soZsxsh4TQoSXtTfN/frankfurt-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Jan, kirchner[dot]jan[at]icloud[dot]com  
 Time: 7:00 PM, Wednesday, August 25  
 Location: Grüneburgpark (4MF6+R4 Frankfurt), southwest part  
 Coordinates: <https://w3w.co/staple.buzzer.lance>  
 Notes: This will overlap with the first iteration of a EA Frankfurt meetup, so lots of potentially positive synergies!
 
- **FREIBERG, SACHSEN, GERMANY ([RSVP](https://www.lesswrong.com/events/zvYWuB6kekdt4vJ7C/freiberg-sachsen-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**FREIBERG, SACHSEN, GERMANY ([RSVP](https://www.lesswrong.com/events/zvYWuB6kekdt4vJ7C/freiberg-sachsen-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Alexander, act[dot]meets[dot]freiberg[at]gmail[dot]com  
 Time: 4:00 PM, Saturday, August 28  
 Location: At the central fountain in the city park just west of the city wall. I'll wear a bright shirt and will put up a sign.   
 Coordinates: <https://w3w.co/salt.diamonds.huddle>  
 Notes: English/German bilingual.
 
- **GÖTTINGEN, GERMANY ([RSVP](https://www.lesswrong.com/events/wc8nL3owHHc7DET2p/goettingen-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**GÖTTINGEN, GERMANY ([RSVP](https://www.lesswrong.com/events/wc8nL3owHHc7DET2p/goettingen-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Nikos, nikosbosse[at]gmail[dot]com  
 Time: 4:30 PM, Wednesday, September 15  
 Location: Schillerwiese, near Jérôme Pavillon  
@@ -249,7 +252,7 @@ Location: English Garden, within 50 meters of the given coordinates, wherever is
 Coordinates: <https://w3w.co/same.exacted.hears>  
 Notes: Anyone who wants to contact me without sacrificing their privacy can use a service like guerrillamail.com or temp-mail.org to send me an email from a temporary address. I promise to check my inbox several times from 20:00 to 21:00 German time every day, so you should have ample time to send me an email, get a reply, and read it before your temp email removes the reply. If you want to do that multiple times over a span of time larger than your address remains alive, just generate a random alphanumeric string (look up password generators online), put it somewhere in the first email, and include it in subsequent ones, that way I could figure out same person is talking to me from multiple addresses.
 
- **TÜBINGEN, GERMANY ([RSVP](https://www.lesswrong.com/events/jyTSufJMEALHDbbug/tuebingen-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**TÜBINGEN, GERMANY ([RSVP](https://www.lesswrong.com/events/jyTSufJMEALHDbbug/tuebingen-germany-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Laurenz Hemmen, laurenz[dot]hemmen[at]gmail[dot]com  
 Time: 6:00 PM, Friday, September 3  
 Location: We will meet at the stairs of the Neckarbrücke to the Neckarinsel. I will carry an "ACX meetup” sign. If its' raining we will go to a nearby cafe/restaurant from there.  
@@ -262,7 +265,7 @@ Location: Stavros Niarchos Foundation Cultural Center, at the tables by the main
 Coordinates: <https://w3w.co/sued.scouts.slows>  
 Notes: It will be really great if we manage to establish a small community of people that enjoy and get inspired reading ACX in Athens.
 
- **BUDAPEST, HUNGARY ([RSVP](https://www.lesswrong.com/events/TuSAquqcBtj4fHgMK/budapest-hungary-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**BUDAPEST, HUNGARY ([RSVP](https://www.lesswrong.com/events/TuSAquqcBtj4fHgMK/budapest-hungary-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Timothy Underwood, timunderwood9[at]gmail[dot]com  
 Time: 2:00 PM, Saturday, September 4  
 Location: We'll meet on Margit Island at Gulliver Park, which is a grassy area behind the bars that are past the fountain. I'll bring a green blanket like thing to sit on and have a purple hard cover copy of one of Richard Dawkins' books. We'll also have an open blue umbrella to mark who we are. If it is raining we'll go to champs sziget bar which is the first big bar on the right past the fountain.   
@@ -288,7 +291,7 @@ Location: Obelisco in Prato della Valle. I will have a sign with ACX MEETUP on i
 Coordinates: <https://w3w.co/capacity.saucepan.servers>  
 Notes: Padova can be a good meeting city for most people living in the north/north-east of Italy, but I'm more than happy to move to another (close) city if it is a better alternative for 1+ other people. I’m also co-organizing with someone from Udine.
 
- **ROMA, ITALY ([RSVP](https://www.lesswrong.com/events/Ru5MBFAzPdz7nkJpG/roma-italy-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**ROMA, ITALY ([RSVP](https://www.lesswrong.com/events/Ru5MBFAzPdz7nkJpG/roma-italy-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Christian, lambiguo[at]gmail[dot]com  
 Time: 4:00 PM, Sunday, September 5  
 Location: Città Universitaria Sapienza in front of the Philosophy building.  
@@ -332,12 +335,12 @@ Location: 2e Carabinierslaan 128, in the backyard. There is a green gate which i
 Coordinates: <https://w3w.co/paraded.progress.score>  
 Notes: I'm fully vaccinated and stats indicate the majority of Dutch adults are too. My address is technically in Belgium but it's practically touching the border, and quickly and easily reachable through all conventional modes of transport.
 
- **WARSAW, POLAND ([RSVP](https://www.lesswrong.com/events/p5pqS7zDnxhFhjSj5/warsaw-poland-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**WARSAW, POLAND ([RSVP](https://www.lesswrong.com/events/p5pqS7zDnxhFhjSj5/warsaw-poland-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: MK, lesswrongpoland[at]freelists[dot]org, [Meetup.com event](https://www.meetup.com/LessWrongWarsaw/events/280036893/)  
 Time: 6:00 PM, Sunday, August 29  
 Location: Bar Studio, Plac Defilad 1, outdoor tables
 
- **GDAŃSK, POLAND ([RSVP](https://www.lesswrong.com/events/takgmMqBmAjJMM9Tv/gdansk-poland-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**GDAŃSK, POLAND ([RSVP](https://www.lesswrong.com/events/takgmMqBmAjJMM9Tv/gdansk-poland-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Frank, frankastralcodexten[at]gmail[dot]com  
 Time: 1:00 PM, Saturday, September 18  
 Location: Park Akademicki opposite the Opera Bałtycka  
@@ -380,25 +383,25 @@ Location: We can meet in Tivoli, near the promenade, weather permitting. I'll tr
 Coordinates: <https://w3w.co/downhill.respects.oath>  
 Notes: I have no idea how many people might be interested, so please RSVP if you can.
 
- **MADRID, SPAIN ([RSVP](https://www.lesswrong.com/posts/gECjwasPyiHEDmLZh/madrid-spain-acx-meetups-everywhere-2021?rsvpDialog=true))  
+**MADRID, SPAIN ([RSVP](https://www.lesswrong.com/posts/gECjwasPyiHEDmLZh/madrid-spain-acx-meetups-everywhere-2021?rsvpDialog=true))  
 **Contact: t[at]tripu[dot]info  
 Time: 11:00 AM, Saturday, September 25  
 Location: "El Retiro" Park, puppet theater (<https://www.esmadrid.com/en/tourist-information/teatro-de-titeres-de-el-retiro>)  
 Coordinates: <https://w3w.co/pictures.proceeds.turned>  
 Notes: Setting this date because a few members of the EA/rationality community in Madrid have already settled on that date and said that that would work for most of us. I'm open to changing the date and time to accommodate more people (and Scott himself).
 
- **LUND, SWEDEN ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdR-Rb1nbYKWFm2uu6jbqGW1x8OU8KUESt1fqQiOS-J019KfQ/viewform))**  
+**LUND, SWEDEN ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdR-Rb1nbYKWFm2uu6jbqGW1x8OU8KUESt1fqQiOS-J019KfQ/viewform))**  
 Contact: Markus, ms[dot]salmela[at]gmail[dot]com  
 Notes: Please fill out [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSdR-Rb1nbYKWFm2uu6jbqGW1x8OU8KUESt1fqQiOS-J019KfQ/viewform) to be updated when we choose a time and date.
 
- **STOCKHOLM, SWEDEN ([RSVP](https://www.lesswrong.com/events/jF36LdqKRxh8ouoYo/stockholm-sweden-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**STOCKHOLM, SWEDEN ([RSVP](https://www.lesswrong.com/events/jF36LdqKRxh8ouoYo/stockholm-sweden-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Sal, sallat[at]protonmail[dot]com, [Facebook group](https://www.facebook.com/groups/Stockholm.Rationalists)  
 Time: 3:30 PM, Saturday, September 4  
 Location: Humlegården, Karlavägen. We will meet near blue gazebo, I will have "ACX meetup" sign.  
 Coordinates: <https://w3w.co/glow.fracture.retire>  
 Notes: We have an existing group that has been organizing regular SSC meetups for a while. I only recently took over as organizer, but the group has existed for several years.
 
- **BASEL, SWITZERLAND ([RSVP](https://www.lesswrong.com/events/hREoSgWkipZnhcjgC/basel-switzerland-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**BASEL, SWITZERLAND ([RSVP](https://www.lesswrong.com/events/hREoSgWkipZnhcjgC/basel-switzerland-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Julian, julian[dot]sscmeetup[at]gmail[dot]com  
 Time: 5:30 PM, Saturday, September 25  
 Location: At Wettepark, near the patio.   
@@ -422,7 +425,7 @@ Time: 5:00 PM, Sunday, September 26
 Location: TBD  
 Notes: People can email the address given to be added to the mailing list.
 
- **BIRMINGHAM, UK ([RSVP](https://www.lesswrong.com/events/XG9ufQ6sAdtiBDxkW/birmingham-uk-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**BIRMINGHAM, UK ([RSVP](https://www.lesswrong.com/events/XG9ufQ6sAdtiBDxkW/birmingham-uk-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Tom A, askew[dot]thomas[at]gmail[dot]com  
 Time: 1:00 PM, Saturday, September 4  
 Location: Cathedral Square, AKA Pigeon Park. Benches to the rear (east) of the Cathedral. There will be an A3 sign showing "ACX Meetup". The site is ~400 yards from New Street Station, making it accessible for anyone in the greater West Midlands area.  
@@ -435,14 +438,14 @@ Location: Brandon Hill, near Cabot Tower
 Coordinates: <https://w3w.co/excuse.intro.soft>  
 Notes: Join the FB page or the WhatsApp group for updates.
 
- **CAMBRIDGE, UK ([RSVP](https://www.lesswrong.com/events/MYPizotq6LN3iEvEM/cambridge-uk-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**CAMBRIDGE, UK ([RSVP](https://www.lesswrong.com/events/MYPizotq6LN3iEvEM/cambridge-uk-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Theodore Ehrenborg, jtae2[at]cam[dot]ac[dot]uk  
 Time: 1:00 PM, Saturday, October 23  
 Location: I'll be near the Jesus Green Skatepark, wearing a blue shirt and holding an ACX MEETUP sign  
 Coordinates: <https://w3w.co/proper.event.wiring>  
 Notes: If you want to attend but can't because of the time/date, email me.
 
- **EDINBURGH, UK ([RSVP](https://www.lesswrong.com/events/JMKXTgHCFiXe6nqjJ/edinburgh-uk-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**EDINBURGH, UK ([RSVP](https://www.lesswrong.com/events/JMKXTgHCFiXe6nqjJ/edinburgh-uk-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Sam, s[dot]enright[at]sms[dot]ed[dot]ac[dot]uk  
 Time: 5:00 PM, Sunday, October 24  
 Location: The Meadows, picnic tables next to the playground. I will be wearing a navy jumper  
@@ -473,7 +476,7 @@ Location: Whitworth Park, Oxford Road, Manchester, M14 4PW. We'll be gathered by
 Coordinates: <https://w3w.co/tigers.wasp.union>  
 Notes: Transport information: The 15/18/42/43/111/142/143/147 buses all stop right outside Whitworth Park, and all take cash or contactless. If you're not in Greater Manchester, you can get to Manchester Piccadilly train station pretty easily (most trains stop here) and walk up from there to the Piccadilly Gardens bus station, where buses to South Manchester depart at least once every 10 minutes. The closest parking place is the Q-Park Wilmslow Park on Hathersage Road, about 10 minutes' walk away. Free parking is somewhere between difficult and impossible to find.
 
- **NEWCASTLE, UK ([RSVP](https://www.lesswrong.com/events/dCezzHTbzpgmiExm8/newcastle-uk-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**NEWCASTLE, UK ([RSVP](https://www.lesswrong.com/events/dCezzHTbzpgmiExm8/newcastle-uk-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Chris G, wardle[at]live[dot]fr  
 Time: 11:00 AM, Saturday, October 9  
 Location: Old Eldon Square (Hippie Green), northwest quadrant. I'll be wearing a suit jacket and Hawaiian shirt.  
@@ -486,7 +489,7 @@ Location: South Park, near the Divinity Road entrance
 Coordinates: <https://w3w.co/nobody.joined.friend>  
 Notes: As an organiser I'm a bit of a bottleneck, and I'm open to be joined/replaced by someone more diligent.
 
- **DNIPRO, UKRAINE ([RSVP](https://www.lesswrong.com/events/GmxucgQ99NSDtWqgt/dnipro-ukraine-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**DNIPRO, UKRAINE ([RSVP](https://www.lesswrong.com/events/GmxucgQ99NSDtWqgt/dnipro-ukraine-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Vlad Sitalo, root[at]stvad[dot]org  
 Time: 5:00 PM, Saturday, September 4  
 Location: Shevchenko Park, near entrance to the bridge crossing to the Monastyrsky island  
@@ -494,14 +497,14 @@ Coordinates: <https://w3w.co/things.walls.proofs>
 
 ## ASIA & OCEANIA
 
- **PERTH, AUSTRALIA ([RSVP](https://www.lesswrong.com/events/faDZE9BAGzHq6Drek/perth-western-australia-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**PERTH, AUSTRALIA ([RSVP](https://www.lesswrong.com/events/faDZE9BAGzHq6Drek/perth-western-australia-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Madge, madgech[at]gmail[dot]com  
 Time: 2:00 PM, Sunday, September 19  
 Location: Russell Square, Northbridge, corner of Shenton and Aberdeen St. There will be some sort of ACX meetup sign. If it is raining, we will go to San Churro Northbridge instead.   
 Coordinates: <https://w3w.co/kept.locate.dose>  
 Notes: If there is an indoor mask mandate in place, consider that a proxy for the COVID situation being bad enough to cancel the meetup.
 
- **SYDNEY, AUSTRALIA**  
+**SYDNEY, AUSTRALIA**  
 Contact: Eliot, redeliot[at]gmail[dot]com   
 Time: 6:00 PM, Wednesday, September 1  
 Location: Sydney is in lockdown for the next month at least, so probably on [Zoom](https://us02web.zoom.us/j/2310802810).  
@@ -518,7 +521,7 @@ Contact: Nihal M, m[dot]nihalmohan[at]gmail[dot]com
 Time: 4:00 PM, Sunday, September 19  
 Location: ONLINE (due to COVID)
 
- **MUMBAI, INDIA ([RSVP](https://www.lesswrong.com/events/8mEKJuHKm8YxsoqNZ/mumbai-india-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**MUMBAI, INDIA ([RSVP](https://www.lesswrong.com/events/8mEKJuHKm8YxsoqNZ/mumbai-india-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Nitin Nair, nairnitin2424[at]gmail[dot]com  
 Time: 5:30 PM, Sunday, August 29  
 Location: BMC Park, Mindspace Landscape Garden, Malad West. Outside the main entrance/gate.  
@@ -549,7 +552,7 @@ Location: If the current COVID alert level allows indoor meetings, and the tempe
 Coordinates:[ https://w3w.co/jump.trial.films](http:// https://w3w.co/jump.trial.films)  
 Notes: Date is September 12th OR whichever Sunday first comes after the alert level once again permits gatherings
 
- **WELLINGTON, NEW ZEALAND ([RSVP](https://www.lesswrong.com/events/yvoMcLN4qbt3apDBS/wellington-new-zealand-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**WELLINGTON, NEW ZEALAND ([RSVP](https://www.lesswrong.com/events/yvoMcLN4qbt3apDBS/wellington-new-zealand-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Ben W, benwve[at]gmail[dot]com  
 Time: 1:00 PM, Sunday, September 26 (NOTE: postponed from the 5th due to Level 3 lockdown)  
 Location: Waitangi Park. Main grassy area, west-most corner.   
@@ -568,7 +571,7 @@ Location: BQ Bar, 39 Boat Quay. Outdoor Seating area, with a ACX Meetup sign.
 Coordinates: <https://w3w.co/units.jelly.chain>  
 Notes: Currently in Singapore there is a group size restriction of 5 fully vaccinated (2nd dose +14 days) people. To get into the bar you must show proof of full vaccination, a negative PET result that's valid for the dine-in duration, or proof of recovery from COVID-19.
 
- **TAIPEI, TAIWAN ([RSVP](https://www.lesswrong.com/events/74wGm2Bb5cWEFzYmi/taipei-taiwan-acx-meetups-everywhere-2021?rsvpDialog=true))  
+**TAIPEI, TAIWAN ([RSVP](https://www.lesswrong.com/events/74wGm2Bb5cWEFzYmi/taipei-taiwan-acx-meetups-everywhere-2021?rsvpDialog=true))  
 **Contact: KZ, kz[dot]acx[at]co[dot]sent[dot]com  
 Time: 12:00 PM, Sunday, September 19  
 Location: Inside the Nanmen Park Museum's cafe, look for the "ACX" sign. Coordinates point to the entrance.  
@@ -583,7 +586,7 @@ Notes: Since this is being added very late, I would strongly recommend RSVPing s
 
 ## LATIN AMERICA
 
- **BUENOS AIRES, ARGENTINA ([RSVP](https://www.lesswrong.com/events/gs3mYskDfkZocDmaD/buenos-aires-argentina-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**BUENOS AIRES, ARGENTINA ([RSVP](https://www.lesswrong.com/events/gs3mYskDfkZocDmaD/buenos-aires-argentina-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Juan, juan[dot]acxmeetup[at]gmail[dot]com  
 Time: 4:00 PM, Saturday, September 4  
 Location: The location will be Parque Centenario, which is located in the geographic center of the City of Buenos Aires. I will be seating at one of the benches by the central lake of the park, carrying a sign with ACX MEETUP on it.  
@@ -609,7 +612,7 @@ Coordinates: <https://w3w.co/spoiled.given.waving>
 
 ## MIDDLE EAST & AFRICA
 
- **BE'ER SHEVA, ISRAEL ([RSVP](https://www.lesswrong.com/events/quqPw9tfJYyjt68EW/be-er-sheva-israel-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**BE'ER SHEVA, ISRAEL ([RSVP](https://www.lesswrong.com/events/quqPw9tfJYyjt68EW/be-er-sheva-israel-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Oren, oren-acxmeetup[at]opayq[dot]com  
 Time: 7:00 PM, Thursday, September 9  
 Location: רגע, מקום בפארק  
@@ -627,12 +630,12 @@ Coordinates: <https://w3w.co/market.coherent.muddle>
 Time: 4:00 PM, Sunday, September 5  
 Location: Obafemi Awolowo Campus, Main Square
 
- **LAGOS, NIGERIA ([RSVP](https://www.lesswrong.com/events/YeR3WWp34RxYvKGmR/lagos-nigeria-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**LAGOS, NIGERIA ([RSVP](https://www.lesswrong.com/events/YeR3WWp34RxYvKGmR/lagos-nigeria-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Damola, social[at]damolamorenikeji[dot]com  
 Time: 3:35 PM, Sunday, September 26  
 Location: TBD
 
- **JOHANNESBURG, SOUTH AFRICA ([RSVP](https://www.lesswrong.com/events/BdWSMNtxDimxfPDMg/johannesburg-south-africa-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**JOHANNESBURG, SOUTH AFRICA ([RSVP](https://www.lesswrong.com/events/BdWSMNtxDimxfPDMg/johannesburg-south-africa-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: DS, 87robertjames[at]gmail[dot]com  
 Time: 3:00 PM, Sunday, September 5  
 Location: Delta Park, within 100m of the parking area on the west. I will be wearing a red shirt or jacket, carrying a sign that says ACX MEETUP.  
@@ -647,7 +650,7 @@ Notes: This is probably going to be a tiny group, so I'm open to change time or 
 
 ## UNITED STATES
 
- **PHOENIX, AZ ([RSVP](https://www.lesswrong.com/events/cJ4pH4KHyntSgqp8o/phoenix-az-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**PHOENIX, AZ ([RSVP](https://www.lesswrong.com/events/cJ4pH4KHyntSgqp8o/phoenix-az-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Ben Morin & aK, benjamin[dot]j[dot]morin[at]gmail[dot]com & sareenyoga[at]gmail[dot]com  
 Time: 5:00 PM, Sunday, September 19  
 Location: Cactus Park, 7202 E Cactus Rd, Scottsdale, AZ 85260. We will meet under the east ramada closest to the parking lot. aK will be wearing a red t-shirt.  
@@ -678,7 +681,7 @@ Location: Ken Malloy Harbor Regional Park, on the lakeside, on the same latitude
 Coordinates: <https://w3w.co/test.obliges.paces>  
 Notes: I am doing this primarily because I am bringing my chess set and want to go a few rounds. If there is also ACX themed discussions going on around us, icing on the cake.
 
- **IRVINE, CA ([RSVP](https://www.lesswrong.com/events/Gr5yfhSkgLRjffgWE/irvine-ca-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**IRVINE, CA ([RSVP](https://www.lesswrong.com/events/Gr5yfhSkgLRjffgWE/irvine-ca-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Nick, cohenskijanuary1[at]mail[dot]com  
 Time: 3:00 PM, Saturday, October 2  
 Location: William R Mason Regional Park. Look for ACX Meetup sign.  
@@ -697,7 +700,7 @@ Location: Marina Lawn, Jack London Square, we’ll be on the grass (you can brin
 Coordinates: <https://w3w.co/softly.finishing.risks>  
 Notes: I hope someone uses this chance to start a public weekend meetup in the East Bay — but if not I hope my weeknight meetup can suffice.
 
- **PASADENA, CA ([RSVP](https://www.lesswrong.com/events/ExAAuLuDXGXFZpQyr/pasadena-ca-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**PASADENA, CA ([RSVP](https://www.lesswrong.com/events/ExAAuLuDXGXFZpQyr/pasadena-ca-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: SG, sgord512[at]gmail[dot]com  
 Time: 3:00 PM, Sunday, August 29  
 Location: Central Park in Pasadena; we'll be in the southeast corner and there will be a sign that says ACX on it.  
@@ -728,14 +731,14 @@ Location: Freitas Water Park. I will be wearing scrubs and I’ll bring a sign. 
 Coordinates: <https://w3w.co/code.salads.issue>  
 Notes: Kids play in the park and I don’t want to displace them. Still, it should be quite possible for us to have space to hang out and chat, etc.
 
- **SANTA CRUZ, CA ([RSVP](https://www.lesswrong.com/events/aoarssE8jmSvTHNXf/santa-cruz-ca-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**SANTA CRUZ, CA ([RSVP](https://www.lesswrong.com/events/aoarssE8jmSvTHNXf/santa-cruz-ca-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Maxwell, maxwelljoslyn[at]gmail[dot]com  
 Time: 11:00 AM, Saturday, October 2  
 Location: Ocean View Park. I will wear a magenta shirt and carry a balloon.  
 Coordinates: <https://w3w.co/racing.piles.swan>  
 Notes: I am open to hosting a regular meetup if there is sufficient interest.
 
- **SUNNYVALE, CA ([RSVP](https://www.lesswrong.com/events/ntuDDGNnHJpF59WCN/sunnyvale-ca-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**SUNNYVALE, CA ([RSVP](https://www.lesswrong.com/events/ntuDDGNnHJpF59WCN/sunnyvale-ca-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: IS, svmeetup[at]protonmail[dot]com  
 Time: 3:00 PM, Saturday, September 18  
 Location: On the roundish grassy area in the northeast corner of Washington Park, 840 W Washington Ave. We'll have a dark blue picnic blanket and a ACX Meetup sign attached to a red camping chair.  
@@ -754,14 +757,14 @@ Location: 3266 Inglewood Blvd, Los Angeles, CA 90066
 Coordinates: <https://w3w.co/labs.motion.cherry>  
 Notes: Location is subject to change; join the Google Group for updates. Meetups are every Wednesday at 7 pm.
 
- **BOULDER, CO ([RSVP](https://www.lesswrong.com/events/mdj3eAvHaiRrstxsr/boulder-co-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**BOULDER, CO ([RSVP](https://www.lesswrong.com/events/mdj3eAvHaiRrstxsr/boulder-co-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Josh Sacks, josh[dot]sacks+acx[at]gmail[dot]com  
 Time: 4:00 PM, Sunday, September 26  
 Location: 9191 Tahoe Ln, Boulder, CO 80301  
 Coordinates: <https://w3w.co/complex.politicians.appointing>  
 Notes: We have a large landscaped outdoor area near the house + 55 acres in case folks *really* want to social distance. Also happy to cater with pizza/BBQ if that will bring more peeps.
 
- **DENVER, CO ([RSVP](https://www.lesswrong.com/events/PmAxKM5rNQ7zP5fAe/denver-co-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**DENVER, CO ([RSVP](https://www.lesswrong.com/events/PmAxKM5rNQ7zP5fAe/denver-co-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Ian, iansphilips[at]gmail[dot]com  
 Time: 1:00 PM, Sunday, September 19  
 Location: Washington Park northwest corner   
@@ -774,7 +777,7 @@ Location: 2800 S Estes St, Lakewood, CO 80227. It's a park, walk just a bit into
 Coordinates: <https://w3w.co/chances.envisaged.ruffle>  
 Notes: We have a regular crew of 8-10 people that come to most of these meetups, and we'd love to meet other rationalist-adjacent people in the Denver area. We meet the first Wednesday of every month.
 
- **FAIRFIELD, CT ([RSVP](https://www.lesswrong.com/events/4HMw62iwegfRaFPj7/fairfield-ct-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**FAIRFIELD, CT ([RSVP](https://www.lesswrong.com/events/4HMw62iwegfRaFPj7/fairfield-ct-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Justin Barclay, barclay[dot]justin[at]gmail[dot]com  
 Time: 10:00 AM, Saturday, August 28  
 Location: South Pine Creek Beach near the lifeguard chair  
@@ -805,14 +808,14 @@ Location: 4th Ave Food Park, I’ll be wearing a maroon shirt
 Coordinates: <https://w3w.co/briefer.releases.loyal>  
 Notes: Will consider delaying if the COVID situation in FL doesn’t improve
 
- **GULF BREEZE, FL ([RSVP](https://www.lesswrong.com/events/TrshwMpQmtdksSGhB/gulf-breeze-fl-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**GULF BREEZE, FL ([RSVP](https://www.lesswrong.com/events/TrshwMpQmtdksSGhB/gulf-breeze-fl-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Christian, christian[dot]h[dot]williams[at]gmail[dot]com  
 Time: 5:30 PM, Sunday, August 29  
 Location: The outdoor deck at The Grey Taproom. I'll be wearing a blue t-shirt with a crudely drawn wizard on it that says Pavement Ist Rad. It's a band shirt fyi.   
 Coordinates: <https://w3w.co/legroom.trustees.feather>  
 Notes: If no one emails me saying they'll be there, I won't be there.
 
- **MIAMI, FL ([RSVP](https://www.lesswrong.com/events/huJsQZaFTyegg9rvp/miami-fl-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**MIAMI, FL ([RSVP](https://www.lesswrong.com/events/huJsQZaFTyegg9rvp/miami-fl-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Eric, eric135033 at gmail  
 Time: 5:00 PM, Saturday, October 9  
 Location: Books & Books, 265 Aragon Ave, Coral Gables, FL 33134 --- We'll be seated in the outdoor patio area with an ACX MEETUP sign on the table.  
@@ -843,14 +846,14 @@ Location: The Beltline on Memorial Drive, near Muchacho Coffeehouse - I will hav
 Coordinates: <https://w3w.co/cheered.marker.recipient>  
 Notes: Please RSVP! We will be on grass, so lawn chairs, blankets, towels, etc might be a good idea
 
- **HONOLULU, HI ([RSVP](https://www.lesswrong.com/events/e6h2rm8YaLecaJAXZ/honolulu-hi-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**HONOLULU, HI ([RSVP](https://www.lesswrong.com/events/e6h2rm8YaLecaJAXZ/honolulu-hi-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: James, jglamine[at]gmail[dot]com, [Google group](https://groups.google.com/g/acx-meetup-honolulu)  
 Time: 4:00 PM, Saturday, September 11  
 Location: Magic Island, on the grass under a tree by [this drop pin](https://goo.gl/maps/PJ7dJjgZusNsjVd7A).  
 Coordinates: <https://w3w.co/tingled.steer.tricky>  
 Notes: Look for the ACX sign. We will be sitting on the grass so you may want to bring a blanket, towel, or beach chair to sit on. Consider bringing water and sunscreen. It would be helpful if you RSVP in the google group.
 
- **CHAMPAIGN-URBANA, IL ([RSVP](https://www.lesswrong.com/events/SWFfLvBy3mcocAJBh/champaign-urbana-il-acx-meetups-everywhere-2021))**  
+**CHAMPAIGN-URBANA, IL ([RSVP](https://www.lesswrong.com/events/SWFfLvBy3mcocAJBh/champaign-urbana-il-acx-meetups-everywhere-2021))**  
 Contact: nk, nmkiahrne[at]outlook[dot]com  
 Time: 1:00 PM, Saturday, September 11  
 Location: UIUC main quad, south end. I will wear a red t-shirt and have an ACX meetup sign.  
@@ -869,7 +872,7 @@ Location: Switchyard Park. Will be at one of the tables near the Rogers Street p
 Coordinates: <https://w3w.co/tell.store.dish>  
 Note: I’d appreciate if you RSVP’d, but I’ll show up regardless!
 
- **LOUISVILLE, KY ([RSVP](https://www.lesswrong.com/events/GopifrKCZvKNbcqJv/louisville-ky-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**LOUISVILLE, KY ([RSVP](https://www.lesswrong.com/events/GopifrKCZvKNbcqJv/louisville-ky-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: KWT, kris[at]ipocandy[dot]com  
 Time: 3:00 PM, Saturday, September 18  
 Location: Tom Sawyer State Park - Shelter #3  
@@ -912,7 +915,7 @@ Location: Outdoor seating area, Tenacity Craft, 8517 2nd Ave, Detroit, MI 48202.
 Coordinates: <https://w3w.co/helps.volunteered.ankle>  
 Notes: I might be the only potential attendee here. I will cancel if there is not at least 1 RSVP.
 
- **ROCHESTER, MN ([RSVP](https://www.lesswrong.com/events/Prt8qSHwwDnbysRL7/rochester-mn-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**ROCHESTER, MN ([RSVP](https://www.lesswrong.com/events/Prt8qSHwwDnbysRL7/rochester-mn-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Brandon, brandoninrochester[at]gmail[dot]com  
 Time: 4:00 PM, Saturday, September 25  
 Location: Essex Park @ the picnic tables. We'll have a sign with "ACX MEETUP" on it!  
@@ -924,14 +927,14 @@ Contact: Maryana Pinchuk, justdandy[at]gmail[dot]com
 Time: 11:00 AM, Saturday, September 25  
 Location: Outdoor courtyard of Brookside51 (5100 Oak Street). Will have runners at the entrance on the Oak Street side to let people into the building.
 
- **ST. LOUIS, MO ([RSVP](https://www.lesswrong.com/events/yA5wiZcxunbuvH5Ew/st-louis-mo-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**ST. LOUIS, MO ([RSVP](https://www.lesswrong.com/events/yA5wiZcxunbuvH5Ew/st-louis-mo-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: JohnBuridan, littlejohnburidan[at]gmail[dot]com  
 Time: 3:00 PM, Saturday, September 25  
 Location: Tower Grove Park. Chinese Pavilion.  
 Coordinates: <https://w3w.co/fields.flank.feed>  
 Notes: All vaguely connected rationalsphere types welcome. I'm not connected to Wash U or SLU. If anyone in the ACX world is, they should do us a favor by promoting the event on campus.
 
- **DURHAM, NC ([RSVP](https://www.lesswrong.com/events/Xekex22cqBNreY4ce/durham-nc-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**DURHAM, NC ([RSVP](https://www.lesswrong.com/events/Xekex22cqBNreY4ce/durham-nc-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Will Jarvis, willdjarvis[at]gmail[dot]com  
 Time: 7:30 PM, Thursday, August 26  
 Location: Ponysaurus Brewing, 219 Hood St, Durham, NC 27701, outdoor seating area. I will have a sign.  
@@ -950,7 +953,7 @@ Location: Memorial Park - We will be near the white stone monument at the center
 Coordinates: <https://w3w.co/ashes.salt.green>  
 Notes: I've arranged a meetup before, but never in Omaha, and to be frank I don't know if there are more than one or two other ACX readers there, so this meetup is an experimental roll of the dice to see if anyone will show. I encourage interested parties to email me so I can get a sense of how many people to expect.
 
- **CONCORD, NH ([RSVP](https://www.lesswrong.com/events/4bJHef7fEohYpGhT6/concord-nh-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**CONCORD, NH ([RSVP](https://www.lesswrong.com/events/4bJHef7fEohYpGhT6/concord-nh-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Lincoln, lincoln[at]techhouse[dot]org  
 Time: 11:00 AM, Saturday, September 4  
 Location: Marjory Swope Park, specifically the bench and vista point overlooking Penacook Lake. Accessible via a 15 minute hike (some uphill) from [the Marjory Swope Park trailhead](https://w3w.co/spurring.declare.towards) on Long Pond Road. You can see the trail on [this map](https://www.concordnh.gov/DocumentCenter/View/9159/Map-25-Swope-Park-Trails). Bring a lunch!  
@@ -969,28 +972,28 @@ Location: Silverado Ranch Park at one of the south pavilions with a big ACX sign
 Coordinates: <https://w3w.co/compiles.graduating.logged>  
 Notes: The last time I tried to organize a meetup.com event a few RSVPed but none of them showed up. I would appreciate it if people RSVP and pinky swear that they'll actually show up if they do RSVP.
 
- **RENO, NV ([RSVP](https://www.lesswrong.com/events/Q96zBZz5htPN3NQms/reno-nv-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**RENO, NV ([RSVP](https://www.lesswrong.com/events/Q96zBZz5htPN3NQms/reno-nv-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Steven Lee, stevenbrycelee[at]gmail[dot]com  
 Time: 6:00 PM, Friday, September 17  
 Location: Idlewild Park, by the workout station near the western entrance of the park. I'll be the tall person in a pink shirt.  
 Coordinates: <https://w3w.co/island.normal.agents>  
 Notes: This is an outdoor park by a river, but there have been smoke problems recently. I might cancel if the air quality is too bad and reschedule later, but let me know if you’d be interested in coming and I’ll let you know the new date.
 
- **ALBANY, NY ([RSVP](https://www.lesswrong.com/events/Hi7rKKtGtKPdFpxje/albany-ny-acx-meetups-everywhere-2021))**  
+**ALBANY, NY ([RSVP](https://www.lesswrong.com/events/Hi7rKKtGtKPdFpxje/albany-ny-acx-meetups-everywhere-2021))**  
 Contact: Steve, plexluthor[at]yahoo[dot]com  
 Time: 10:00 AM, Sunday, September 19  
 Location: Professor Java's Coffee Sanctuary on Wolf Rd  
 Coordinates: <https://w3w.co/hillside.spark.weaving>  
 Notes: We may also do a second meetup outdoors, possibly on a Albany Pine Bush trail once the leaves are changing, date/time TBD
 
- **BUFFALO, NY ([RSVP](https://www.lesswrong.com/events/bAzKiwFCF42TBcDgq/buffalo-ny-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**BUFFALO, NY ([RSVP](https://www.lesswrong.com/events/bAzKiwFCF42TBcDgq/buffalo-ny-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: George Herold, ggherold[at]gmail[dot]com  
 Time: 1:00 PM, Sunday, September 5  
 Location: Private home at 932 Welch Rd., Java Center (half-hour drive from Buffalo)  
 Coordinates: <https://w3w.co/witnessing.balanced.stand>  
 Notes: I live in the country, woods, trails, a stream with waterfalls. Walking the creek is a great way to cool off it it's hot, so bring 'creek shoes' if you might be so inclined. I also have two or three dogs if that would be a problem. I'll cook up some hamburgers, hot dogs along with local sweet corn... Yum!
 
- **ITHACA, NY ([RSVP](https://www.lesswrong.com/events/C5NqZfqQoCMSFiszD/ithaca-ny-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**ITHACA, NY ([RSVP](https://www.lesswrong.com/events/C5NqZfqQoCMSFiszD/ithaca-ny-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Russ Nelson, russnelson[at]gmail[dot]com  
 Time: 12:00 PM, Sunday, September 12  
 Location: Ithaca Commons "Child of Ithaca" statue  
@@ -1027,7 +1030,7 @@ Location: Oregon Park, outdoors at southeast picnic tables, will have large bann
 Coordinates: <https://w3w.co/mining.skills.mess>  
 Notes: RSVP encouraged but not required, check Meetup group or Google group for weather-dependent location changes.
 
- **ASHLAND, OR ([RSVP](https://www.lesswrong.com/events/JBLYkwcczxEjWwjZP/ashland-or-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**ASHLAND, OR ([RSVP](https://www.lesswrong.com/events/JBLYkwcczxEjWwjZP/ashland-or-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: David, ashland[dot]acx[dot]meetup[at]gmail[dot]com  
 Time: 10:00 AM, Saturday, September 18  
 Location: Lithia Park, in the meadow at the main (north) entrance, across the street from Skout Taphouse. I'll have a sign with ACX MEETUP on it.   
@@ -1046,14 +1049,14 @@ Location: 210 Ardmore Avenue, Ardmore PA. We’ll be meeting on the spacious cov
 Coordinates: <https://w3w.co/heap.tracks.fantastic>  
 Notes: We've been doing meetups since 2018, join our Google Group for updates and announcements. RSVP encouraged but not required.
 
- **PITTSBURGH, PA ([RSVP](https://www.lesswrong.com/events/WuujoHuouahnsHTd7/pittsburgh-pa-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**PITTSBURGH, PA ([RSVP](https://www.lesswrong.com/events/WuujoHuouahnsHTd7/pittsburgh-pa-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Matthew Marks, matthewfmarks[at]gmail[dot]com  
 Time: 12:00 PM, Saturday, September 11  
 Location: Outside [the Frick Park gate](https://goo.gl/maps/q3T7iMmp6HGQnoTv9)  
 Coordinates: <https://w3w.co/pulse.cubes.admiral>  
 Notes: Location may be updated, so (1) email to confirm, (2) thanks in advance for any suggestions.
 
- **STATE COLLEGE, PA ([RSVP](https://www.lesswrong.com/events/ZtXSb3z4aibk5xeFH/state-college-pa-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**STATE COLLEGE, PA ([RSVP](https://www.lesswrong.com/events/ZtXSb3z4aibk5xeFH/state-college-pa-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: John Slow, auk480[at]psu[dot]edu  
 Time: 4:00 PM, Sunday, September 5  
 Location: Sunset Park. I will be wearing a blue hat.  
@@ -1072,7 +1075,7 @@ Location: McPherson Park, 120 E. Park Avenue, Greenville, SC 29601 at the shelte
 Coordinates: <https://w3w.co/hotel.knee.copper>  
 Notes: Please fill out [this form](https://forms.gle/9cy659xzSfvzi7Mx5) if interested in attending!
 
- **SIOUX FALLS, SD ([RSVP](https://www.lesswrong.com/events/cuwMvbF9vqt7cHiA5/sioux-falls-sd-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**SIOUX FALLS, SD ([RSVP](https://www.lesswrong.com/events/cuwMvbF9vqt7cHiA5/sioux-falls-sd-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: S. C., villainsplus[at]protonmail[dot]com  
 Time: 6:00 PM, Monday, September 27  
 Location: McKennan Park, near the stone circle in the center of the park  
@@ -1091,7 +1094,7 @@ Location: French Truck Coffee at Crosstown Concourse, Central Atrium, 1350 Conco
 Coordinates: <https://w3w.co/smiled.limbs.oiled>  
 Notes: We're a pre-existing meetup, we use Google groups to send emails.
 
- **AUSTIN, TX ([RSVP](https://www.lesswrong.com/events/AYDK7s6gtLfeYiatp/austin-tx-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**AUSTIN, TX ([RSVP](https://www.lesswrong.com/events/AYDK7s6gtLfeYiatp/austin-tx-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Silas Barta, sbarta[at]gmail[dot]com  
 Time: 1:30 PM, Saturday, October 2  
 Location: Tables in the park area by pond behind Central Market 4001 N. Lamar  
@@ -1134,7 +1137,7 @@ Location: Monroe Park: Near the fountain in the middle of the park, and I'll bri
 Coordinates: <https://w3w.co/panels.above.cases>  
 Notes: RSVPs encouraged; Richmond isn't that big of a city, but if there are even just a handful of interested people, I would still be happy to meet up and talk.
 
- **BURLINGTON, VT ([RSVP](https://www.lesswrong.com/events/Hx2JdGtWqXJABbGka/burlington-vt-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**BURLINGTON, VT ([RSVP](https://www.lesswrong.com/events/Hx2JdGtWqXJABbGka/burlington-vt-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Jaspar, fjabujaber[at]icloud[dot]com  
 Time: 6:00 PM, Tuesday, September 7  
 Location: Battery park, near the cannons. I’ll be wearing a bright yellow floral button up shirt.   
@@ -1165,7 +1168,7 @@ Location: Cathedral Square Park
 Coordinates: <https://w3w.co/dining.harp.hero>  
 Notes: Time and date are very flexible.
 
- **LUSK, WY ([RSVP](https://www.lesswrong.com/events/nSnsASctpxuCsdmsw/lusk-wy-acx-meetups-everywhere-2021?rsvpDialog=true))**  
+**LUSK, WY ([RSVP](https://www.lesswrong.com/events/nSnsASctpxuCsdmsw/lusk-wy-acx-meetups-everywhere-2021?rsvpDialog=true))**  
 Contact: Michael Hendricks, m[dot]acx[at]ndrix[dot]org  
 Time: 1:00 PM, Saturday, September 18  
 Location: Washington Park, 325 S Barrett Blvd, Lusk, WY 82225 (covered picnic benches in the center of the park)  

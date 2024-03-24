@@ -2,6 +2,9 @@
 title: "Comments / Register Of Bans"
 date: 2021-06-01
 likes: 24
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37057093/comments?&all_comments=true
+image: None
 original-url: https://www.astralcodexten.com/p/register-of-bans
 ---
 There’s [an ancient Sufi saying ](https://towardsenlightment.wordpress.com/2012/08/28/is-it/)[beloved of the Buddha](http://tinybuddha.com/wisdom-quotes/if-you-propose-to-speak-always-ask-yourself-is-it-true-is-it-necessary-is-it-kind/), which like a surprising number of ancient Sufi sayings beloved of the Buddha comes [from a book of preachy Victorian poetry](http://www.fakebuddhaquotes.com/if-you-propose-to-speak-always-ask-yourself-is-it-true-is-it-necessary-is-it-kind/). It goes:

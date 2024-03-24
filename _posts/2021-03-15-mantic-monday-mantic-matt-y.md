@@ -3,6 +3,9 @@ title: "Mantic Monday: Mantic Matt Y"
 subtitle: "..."
 date: 2021-03-15
 likes: 109
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/33710409/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/152fd5f4-dcb2-4c70-847f-2c7a1376c55e_800x640.jpeg
 original-url: https://www.astralcodexten.com/p/mantic-monday-mantic-matt-y
 ---
 The current interest in forecasting grew out of Iraq-War-era exasperation with the pundit class. Pundits were constantly saying stuff, like "Saddam definitely has WMDs, trust me, I'm an expert", then getting proven wrong, then continuing to get treated as authorities and thought leaders. Occasionally they would apologize, but they'd be back to telling us what we Had To Believe the next week.
@@ -51,21 +54,21 @@ Metaculus asked Yglesias for permission to [put some of the predictions up on th
 8\. Lakers win the NBA championship **(25%)** [25%]  
 9\. Joe Biden ends the year as president **(95%)** [96%]  
 10\. Nancy Pelosi sets a definitive retirement schedule **(60%)**  
-11\. A vacancy arises on the Supreme Court **(70%)** [50%]  
-12\. The EU ends the year with more confirmed Covid-19 deaths than the US **(60%)** [80%]  
+11\. A vacancy arises on the Supreme Court**(70%)** [50%]  
+12\. The EU ends the year with more confirmed Covid-19 deaths than the US **(60%)**[80%]  
 13\. Substack will still be around **(95%)**  
 14\. People will still be writing takes asking if Substack is really sustainable **(80%)**  
-15\. Apple releases new iMacs powered by Apple silicon **(90%)** [84%]  
-16\. Apple does not release a new Mac Pro powered by Apple silicon **(70%)** [53%]  
+15\. Apple releases new iMacs powered by Apple silicon**(90%)** [84%]  
+16\. Apple does not release a new Mac Pro powered by Apple silicon**(70%)** [53%]  
 17\. Monthly year-on-year core CPI growth does not go above 2 percent **(70%)**  
 18\. Monthly year-on-year core CPI growth does not go above 3 percent **(90%)**  
-19\. Lloyd Austin not confirmed as Defense Secretary **(60%)**  
+19\. Lloyd Austin not confirmed as Defense Secretary**(60%)**  
 20\. No federal tax increases are enacted **(95%)**  
 21\. Biden administration unilaterally relieves some but not all student debt **(80%)**  
 22\. United States rejoins JCPOA and Iran resumes compliance **(80%)**  
-23\. Israel and Saudi Arabia establish official diplomatic relations **(70%)** [38%]  
+23\. Israel and Saudi Arabia establish official diplomatic relations **(70%)**[38%]  
 24\. US and China reach agreement to lift Trump-era tariffs **(70%)**  
-25\. Slow Boring will exceed 10,000 paid members **(70%)** [75%]
+25\. Slow Boring will exceed 10,000 paid members**(70%)** [75%]
 
 Yglesias and Metaculus agree on most things (not Israel/Saudi Arabia, though!). Some of the disagreements might come from Yglesias making his predictions in late December and Metaculus opening theirs in February, which is kind of unfair to Matt.
 

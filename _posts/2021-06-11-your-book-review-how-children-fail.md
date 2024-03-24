@@ -3,11 +3,14 @@ title: "Your Book Review: How Children Fail"
 subtitle: "Finalist #16 in the Book Review Contest"
 date: 2021-06-11
 likes: 143
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37502358/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6b1035f3-55b2-4552-aa2f-946ff465e3a0_500x333.webp
 original-url: https://www.astralcodexten.com/p/your-book-review-how-children-fail
 ---
-[ _This is the sixteenth of seventeen finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. This entry was promoted to finalist status by readers; thanks to everyone who voted! - SA_ ]
+[_This is the sixteenth of seventeen finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. This entry was promoted to finalist status by readers; thanks to everyone who voted! - SA_]
 
- **1:**
+**1:**
 
 Why are all children so bad at learning in school?
 
@@ -25,7 +28,7 @@ As an adult, when I’m in the middle of researching something, and I get hungry
 
 Which is not to say that children don’t try, or don’t care. They sweat and cry over tests. They care so deeply that they have nightmares about missing class that last well into adulthood. But by any standard other than comparing them to other schoolchildren, they universally fail. Why?
 
- **2:**
+**2:**
 
 In 1958, John Holt was trying to teach math, writing, and French to a class of ten-year-olds. It was going as this normally does--a large proportion were absolutely terrible at it. He wrote to a colleague,
 
@@ -33,7 +36,7 @@ In 1958, John Holt was trying to teach math, writing, and French to a class of t
 
 He collected the memos and essays he wrote that year into a book, How Children Fail, meant to be read by educators and parents to help them understand what is going wrong in schools, as a first step toward figuring out ways of fixing it. Holt was a big believer in “hold off on proposing solutions until you’ve really analyzed the problem.” When I first read this book, though, I wasn’t in its intended audience. I was nine years old, which meant it was a handbook, not on education, but on rationality.
 
- **3:**
+**3:**
 
 More than thirty years after those students were frustrating Holt, I was the dolt in another small, private school. At home I was teaching myself to code in HyperTalk. At school I was exactly this kid from a Holt memo:
 
@@ -55,11 +58,11 @@ These lessons were helpful to me at the time. As someone generally much better t
 
 Per the last demographic survey of the readership of this blog, you are most likely not nine years old. However, you are almost certainly a _former_ nine-year-old, and that’s another excellent audience for this book. Holt, like Graham and Yudkowsky, sees school as instilling permanent cognitive biases--habits that are best unlearned whenever you can.
 
- **4:**
+**4:**
 
 Holt identifies three broad categories of failure modes.
 
- _Strategy_ \- Perhaps uniquely for a rationality text, Holt identifies thinking strategically as a failure. Not in general--he encourages adults to ask themselves more often where they are trying to get, and then whether their current approach is getting them there. And he taught, often, through strategy games. But for a child, learning due to disinterested curiosity is much more effective than learning due to incentives. We’re born with powerful drives to learn (learning could hardly start as a learned behavior). Replacing that with a desire to gain reward or approval, or to avoid punishment, or to even to Be A Good Student, distorts behavior. Children, consciously and unconsciously, start trying to maximize their perceived score. They seize on the most reliable way of figuring out the right answer, even if that’s something overfitted to the classroom, like reading the teacher’s face. They find a level of achievement they can reliably hit, then manage expectations to make sure they’re never pushed to a higher one. If they’re punished for giving wrong answers in class, they’ll stop talking and disengage when they think they might not understand something. It’s a familiar problem across domains--once you attach incentives to a convenient measurement of something, it stops being a good measurement. Readers of this blog may remember examples from machine learning or centrally planned economies. Holt’s revised edition gives a quick one from the Navy:
+_Strategy_ \- Perhaps uniquely for a rationality text, Holt identifies thinking strategically as a failure. Not in general--he encourages adults to ask themselves more often where they are trying to get, and then whether their current approach is getting them there. And he taught, often, through strategy games. But for a child, learning due to disinterested curiosity is much more effective than learning due to incentives. We’re born with powerful drives to learn (learning could hardly start as a learned behavior). Replacing that with a desire to gain reward or approval, or to avoid punishment, or to even to Be A Good Student, distorts behavior. Children, consciously and unconsciously, start trying to maximize their perceived score. They seize on the most reliable way of figuring out the right answer, even if that’s something overfitted to the classroom, like reading the teacher’s face. They find a level of achievement they can reliably hit, then manage expectations to make sure they’re never pushed to a higher one. If they’re punished for giving wrong answers in class, they’ll stop talking and disengage when they think they might not understand something. It’s a familiar problem across domains--once you attach incentives to a convenient measurement of something, it stops being a good measurement. Readers of this blog may remember examples from machine learning or centrally planned economies. Holt’s revised edition gives a quick one from the Navy:
 
 > I remember an old chief machinist on an obsolete training submarine in Key West saying bitterly about his worn-out engines, which he had spent many hours polishing up for an official inspection, "They shine, don't they? Who the hell cares if they don't work?" 
 
@@ -67,7 +70,7 @@ _Fear_ \- The more visibly dysfunctional response to incentives. Fear is the min
 
 _Boredom_ \- Holt talks at length about children being bored in schools, but I’m going to skip over that for the same reason people rarely yawn in plays--you don’t want it to spread to the audience. I don’t think I need to sell you on the notion, anyway.
 
- **5:**
+**5:**
 
 All of these failure modes have the same cause. Learning in schools is externally imposed, not intrinsically motivated. School requires a power structure, with incentives and accountability, to cause children to reliably learn, to learn the Right Things, and to be able to prove that they did. In 1998, you didn’t need to assign chapters to get one out of three kids to read _Harry Potter and the Chamber of Secrets_ \--they read it because they wanted to see what happened next. You didn’t need to test them in order to find out how much they’d read and understood--they would insist on telling you about the book’s plot, and ask questions about anything they didn’t understand. You didn’t need to find any way to get them to reliably sit still for it--they could be allowed to set their own schedule.
 
@@ -89,13 +92,13 @@ Holt never stopped looking for ways to make school incrementally better, but the
 
 Holt wasn’t always explicit about this, at least until the revised edition. He was still employed by schools, still trying to make schools work, and therefore reluctant to characterize schools as outright destructive. But not _that_ reluctant, and the connections are inescapable. Failing students blindly follow “recipes” to solve math problems, too insecure to stop and think about why the recipes exist or whether they’re moving in the right direction. Failing teachers use traditional pedagogy even when it’s demonstrably not working, too insecure to even consider they might be making things worse. Fear and insecurity beget fear and insecurity down the generations, with bullied students growing up to become bullying teachers. Students conditioned to think of schoolwork as an abstract character-building exercise become parents who don’t care whether what’s taught in school has any meaning or utility. I suspect this is at least a little true and is why it took a frustratingly long time for me to persuade my parents to let me drop out of school. (I ended up “self-schooling” for three years, from 15 to 18, before going to a traditional four-year liberal arts college. It was great.)
 
- **7:**
+**7:**
 
 The long-term psychological effects of school are, as far as I know, ambiguous. Perhaps it damages our rationality or disinterested love of learning. Perhaps that’s just a natural part of growing up, and schools help us develop the skills that we’ll need to do work we’re not always interested in. The child welfare case against directed learning is also hardly a slam dunk. Plenty of children like the control structure in school; it’s gamifying something that’s already fun. But if we set those issues aside for a moment and zoom out, there seems to be a clear tradeoff between efficiency and control. Children are naturally learning at high velocity, but may not be learning the most useful or important things they could be. You can exert control to optimize the set of topics they’re learning, but at a cost of reduced velocity.
 
 Holt gives an anecdote of a fifth grader caught sneakily reading a science book when he was supposed to be learning about “Romans in Britain.” By forcing him to put the book away, the teacher traded an hour of high quality science education for an hour of low-quality history education, during which the child is less engaged and will remember less. But perhaps the marginal value of the latter was still higher; maybe knowing one thing about Romans in Britain, rather than zero, will be more valuable than knowing a hundred more things about a scientific topic you’ve already gone deep on. When you take away the babysitting and socialization benefits of school (as has happened recently) this marginal value proposition is what’s left. You might not buy it for the Science vs. Romans story, but surely forcing kids to learn just a little reading, writing, and arithmetic is worth it in the long run, no matter what else they’d rather be learning. But we’ve taken this to an absurd extreme, where self-directed learning becomes a tiny part of a typical childhood, something you carve out a little time for during your nth year in state-mandated courses of study you have no interest in. Why did we all have to learn that the mitochondria is the powerhouse of the cell? That’s not even the most interesting or useful fact _about mitochondria_. Society does not depend on universal lifelong literacy in cell biology; we could get along just fine if 5% of us knew the powerhouse thing, and the other 95% had skipped bio class that year. I assert we would, in fact, be better off, because those 95% would have learned more. Our desire for scalable, testable instruction leads, by middle school, not to ensuring breadth of learning, but to forcing identical amounts of depth in the same set of somewhat arbitrary subjects.
 
- **8:**
+**8:**
 
 How Children Fail was published sixty years ago, when the most exciting piece of educational technology was [a set of wooden blocks](https://spec.commonmark.org/dingus/”https://en.wikipedia.org/wiki/Cuisenaire_rods”). John Holt wrote a revised edition of How Children Fail in 1982, after becoming an advocate for homeschooling and child emancipation. The original edition ended by calling for reform of the school system, saying it should provide buffet tables for students to browse, rather than force feeding. The revised edition adds a postscript:
 
@@ -109,7 +112,7 @@ The internet’s collapse of scale also removes much of the need for standardize
 
 And the internet is a far more powerful engine of serendipity than a pavilion of unwanted books.
 
- **9:**
+**9:**
 
 School is an institution. We come to depend on it, it defends itself, it’s not easy to change from inside or out. I mostly believe the critiques in Holt’s book, but I generally haven’t felt that radical reforms were possible. I’ve encouraged children who don’t need as much socialization or supervision to consider getting parental support for dropping out of school, and that’s been more or less it, reform-wise. But we maybe do have a moment here, in 2021. We’ve had a massive disruption in traditional schooling, which could be an opening to escape from inertia. We’ll at least have a natural experiment as different schools physically reopen at different times.
 

@@ -3,6 +3,9 @@ title: "Does Georgism Work, Part 3: Can Unimproved Land Value be Accurately Asse
 subtitle: "A guest post on Georgism by Lars Doucet"
 date: 2021-12-11
 likes: 52
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45309834/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/be6ab4f8-1185-44d3-9922-ce42f82c9594_719x511.jpeg
 original-url: https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved
 ---
 _[Lars Doucet won this year’s[Book Review Contest](https://astralcodexten.substack.com/p/book-review-contest-winners) with his review of Henry George’s [Progress and Poverty](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty). Since then, he’s been researching Georgism in more depth, and wants to follow up with what he’s learned. I’ll be posting three of his Georgism essays here this week, and you can read his other work at [Fortress Of Doors](https://www.fortressofdoors.com/)]_
@@ -12,7 +15,7 @@ Hi, my name's Lars Doucet (not Scott Alexander), and this is a guest post in an 
 [Part 0 - Book Review: Progress & Poverty](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty)  
 [Part I - Is Land Really a Big Deal?](https://astralcodexten.substack.com/p/does-georgism-work-is-land-really)  
 [Part II - Can Land Value Tax be passed on to Tenants?](https://astralcodexten.substack.com/p/does-georgism-work-part-2-can-landlords)  
- **Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings? 👈** (You are here)
+**Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings? 👈**(You are here)
 
 * * *
 
@@ -49,7 +52,7 @@ I'll cover specific case studies where Georgism has been successfully tried in a
 
 Pretty much everybody agrees on the basic algebraic formula for deriving land value:
 
->  **T** otal Value = **L** and Value + **I** mprovements Value
+> **T** otal Value = **L** and Value + **I** mprovements Value
 
 The total value is whatever the property actually sells for. The value of improvements is the value of all of the buildings and other permanent structures and investments that sit on top of the land. The land value is the value of the location itself and any of its natural endowments. When two factors are known, you can calculate the third, which is then known as the _residual_. The high level strategy for doing valuations thus becomes to use whatever evidence you have to get at least two of these values. From there you can simply deduce the missing residual.
 
@@ -84,7 +87,7 @@ The cost approach has two chief limitations. The first is that it requires a lot
 
 In this approach, you look at the net income (rent - expenses) that a commercial or residential property generates and then use the prevailing capitalization rate of the area to get the property value. You typically use this formula:
 
->  **V** alue = **I** ncome / **R** ate
+> **V** alue = **I** ncome / **R** ate
 
 This gives you the total property value, and from there, you can use one of the other two approaches to separate land value from building value. Crucially, any observed land or property tax needs to be factored into the observed "income" portion. Even if the state is collecting the tax, it's part of the flow that originates from the property, and thus affects the full untaxed market value of the property. Naively you might expect a 100% Land Value Tax to drive itself to zero because it also drives down the purchase price of the land to approximately nothing. To avoid this, you figure out the capitalized value of the LVT that's already been applied to get the untaxed land value.
 
@@ -172,7 +175,7 @@ Let's dive in and examine some methods.
 
 Here are some of the latest mass appraisal methods cribbed from the research papers listed above. All of these are based on taking market transaction data, plotting them out on a map, and running computations over them to estimate valuations for the properties you don't have known values for. Furthermore, all of these methods are able to value land and building values separately.
 
- **Multiple Regression Analysis**
+**Multiple Regression Analysis**
 
 This paper by [Yalpir and Unel](https://www.isites.info/PastConferences/ISITES2017/ISITES2017/papers/C3-ISITES2017ID307.pdf) out of Turkey gives a straightforward example of using Multiple Regression Analysis for land valuation.
 
@@ -204,7 +207,7 @@ In the verification section the authors say:
 
 Unfortunately, they don't say anything about how accurate their model is for assessing land values specifically. Otherwise, this is a pretty good example of using the Multiple Regression method for estimating the individual contributions of various factors to overall property values. Gwartney says Multiple Regression Analysis was a standard method he typically used, of which this specific paper is just one example.
 
- **Nonparametric kernel regression**
+**Nonparametric kernel regression**
 
 This will be a method familiar to the programmers in the audience who have any experience with image processing algorithms. Here's an example from this old [Gamasutra article](https://www.gamasutra.com/view/feature/3102/four_tricks_for_fast_blurring_in_.php?print=1):
 
@@ -226,13 +229,13 @@ Of course, it has limitations. First and foremost, it's a highly local operation
 
 In the end, basic kernel estimation just fills in the land value of unmeasured locations with a local weighted average of known locations.
 
- **Nonparametric adaptive regression**
+**Nonparametric adaptive regression**
 
 Kolbe, et al. build on the kernel regression method with a technique called Adaptive Weights Smoothing (AWS), which runs in several iterations and adds additional weight to any observed data points that are sufficiently close to the point being estimated. I'm not 100% sure about what all the math means, but it seems like it's basically a "smarter" version of the basic kernel method.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77ea4f72-0e51-4c63-b14b-15c603ac2500_901x418.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77ea4f72-0e51-4c63-b14b-15c603ac2500_901x418.png)Left: Nonparametric kernel regression, Right: Adaptive Weights Smoothing. I think the authors goofed and printed the same figure twice with different headings because they're identical if you overlay them in Photoshop.
 
- **Semiparametric regression**
+**Semiparametric regression**
 
 Now, the above two methods assume you have plenty of "pure" land sale records to work with. But if you're trying to work out prices in the city center, you've probably mostly got land and buildings mixed together. To do this effectively, we need more data, and this is where the "parameter" in "semiparametric" comes in.
 
@@ -264,7 +267,7 @@ That sounds pretty good. It seems their margin for error is about plus or minus 
 
 The last three models came from the Berlin case study, where you have excellent market transaction data in an extremely wealthy and high-trust society. But what if you're trying to assess land in a developing nation with poor market transaction records, weak institutions, and widespread poverty?
 
- **Innovative Land Valuation Model (iLVM)**
+**Innovative Land Valuation Model (iLVM)**
 
 This is the particular name of the method described in _[Development of an Innovative Land Valuation Model (iLVM) for Mass Appraisal Application in Sub-Urban Areas Using AHP: An Integration of Theoretical and Practical Approaches](https://www.researchgate.net/publication/334304723_Development_of_an_Innovative_Land_Valuation_Model_iLVM_for_Mass_Appraisal_Application_in_Sub-Urban_Areas_Using_AHP_An_Integration_of_Theoretical_and_Practical_Approaches) _by Bencure, Tripathi, Miyazaki, Ninsawat, and Kim. They used BayBay City, Philippines as their case study.
 
@@ -362,7 +365,7 @@ Countries that have implemented Land Value Taxes, such as Denmark, are already s
 
 Given that Astral Codex Ten is a blog where ideas as lofty as full brain uploading, superhuman AI, and biological immortality are frequently discussed in earnest, it doesn't seem outlandish to suggest that human beings can probably use math and science to get better at estimating the market value of land relative to buildings.
 
- **Conclusion**  
+**Conclusion**  
 By George, Unimproved Land Value can (probably) be accurately assessed.
 
 * * *
@@ -435,18 +438,18 @@ If ATCOR (All Taxes Come Out of Rent) holds up empirically, it would be a super 
 
 I've been absolutely drowning in comments since the first article posted and there's no way I'll be able to address everything. Doing full justice to some of these will require their own entire articles, but I can leave some brief notes here.
 
- **Zoning**  
+**Zoning**  
 Many people replied that Land Value Tax is useless until or unless you first fix zoning. First of all, Georgists are natural allies in fixing restrictive zoning policies. This is something they definitely want and will fight for. Second, one of the reasons for restrictive zoning policies is broken incentives. A city doesn't have a huge incentive to repeal restrictive zoning policies because it isn't hurting their tax base. According to Georgists, a city whose tax base is land value has well-aligned incentives. It is incentivized to maximize land value by making the city a more desirable place to live, which also raises their tax base. It is dis-incentivized to over-assess or over-tax the land, however, because that will cause people to leave, which will lower their land values and also their tax base. One of the principle things that depresses land values and the tax base in this scenario is restrictive zoning. I personally don't care whether you first pass LVT or first repeal restrictive zoning, you can and should do both. Either one helps the other along.
 
- **Transitional Politics**  
+**Transitional Politics**  
 Honestly this needs its own entire article without me going out on a limb and accidentally saying something dumb. Suffice it to say, a lot of smart people have spent a _lot_ of time thinking about this, and you'll have to wait for a future article to find out what they are. I will let the commentariat duke this one out in the meantime.
 
- **Corruption**  
+**Corruption**  
 Some people agreed to all of the points raised _in theory_ , but pointed out that human beings are wicked sinners, and LVT will be bent towards the malevolent will of our overlords, just like the old policies. And they're not wrong!
 
 The problem with this argument is that it's a fully general argument against change. The overlords game _every_ system to their benefit. Rely on standardized tests? They'll game the SAT's with phony disability accommodations and outright cheating. Abolish standardized tests? They'll make their kids take fifty extracurriculars and pay a ghost writer to pen their college entrance essay about their life-changing volunteer work in Ghana.
 
-The right question is not " _can_ the rich game this system?" but rather, "can they game it _less_ than the existing one?" This is why you should keep standardized tests, even though rich people can and do game them. The [evidence](https://senate.universityofcalifornia.edu/_files/underreview/sttf-report.pdf) [shows](https://www.city-journal.org/standardized-tests-student-merit) that on balance standardized tests are one of the few ways a minority student from a poor background even has a chance to move upwards.
+The right question is not "_can_ the rich game this system?" but rather, "can they game it _less_ than the existing one?" This is why you should keep standardized tests, even though rich people can and do game them. The [evidence](https://senate.universityofcalifornia.edu/_files/underreview/sttf-report.pdf) [shows](https://www.city-journal.org/standardized-tests-student-merit) that on balance standardized tests are one of the few ways a minority student from a poor background even has a chance to move upwards.
 
 So let's dig in. The chief way you can game Land Value Tax is to cozy up to your local assessor and get them to say your land is garbage and it's not valuable. However, you have to do this kind of corruption in the open. Your land value assessment is public record, and highly visible on a map, and will stick out like a sore thumb unless the entire area has been corrupted too. I grant that motivated people could plausibly pull this off to various degrees.
 
@@ -460,7 +463,7 @@ Finally, defeatism is corruption's best friend. _If_ you believe everything I'm 
 
 Finally, we come to the most important comment of all.
 
- **By George**  
+**By George**  
 Some people said I did the whole "By George" schtick too much.
 
 I'm sorry you feel that way, but...
@@ -481,7 +484,7 @@ Thanks very much to this readership and to our host, Scott, for graciously letti
 
 * * *
 
- **Acknowledgements:**  
+**Acknowledgements:**  
 I would like to thank the following people and organizations without whom this series would not have been possible:
 
   * My wonderful wife Emily, for everything
@@ -527,7 +530,7 @@ I would like to thank the following people and organizations without whom this s
 
 
 
- **Further reading and resources**
+**Further reading and resources**
 
 Discussion:
 
@@ -540,7 +543,7 @@ Discussion:
 
 Organizations:
 
-  *  **[Common Ground](https://commonground-usa.net) **(the go-to organizing body I recommend joining)
+  * **[Common Ground](https://commonground-usa.net) **(the go-to organizing body I recommend joining)
 
   * [Strong Towns](https://www.strongtowns.org/landvaluetax)
 

@@ -3,6 +3,9 @@ title: "Mantic Monday: Let Me Google That For You"
 subtitle: "Plus options, prisons, obesity, and human sacrifice"
 date: 2021-12-20
 likes: 41
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45727338/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e3348fda-07f3-4795-8841-0cfc419cc068_408x218.png
 original-url: https://www.astralcodexten.com/p/mantic-monday-let-me-google-that
 ---
 ### Let Me Google That For You
@@ -23,9 +26,9 @@ Unlike most prediction markets, anybody can create a question on Gleangen. This 
 
 So far it’s not doing much else. The Googlers I talked to saw no evidence that company executives were paying much attention to it when making decisions. Why not? Hal Varian, Google’s chief economist, said in a [Conversation](https://conversationswithtyler.com/episodes/hal-varian/) with Tyler Cowen:
 
->  **COWEN:** Why doesn’t business use more prediction markets? They would seem to make sense, right? Bet on ideas. Aggregate information. We’ve all read Hayek.
+> **COWEN:** Why doesn’t business use more prediction markets? They would seem to make sense, right? Bet on ideas. Aggregate information. We’ve all read Hayek.
 > 
->  **VARIAN:** Right. And we had a prediction market [referring to Prophit in 2007]. I’ll tell you the problem with it. The problem is, the things that we really wanted to get a probability assessment on were things that were so sensitive that we thought we would violate the SEC rules on insider knowledge because, if a small group of people knows about some acquisition or something like that, there is a secret among this small group.
+> **VARIAN:** Right. And we had a prediction market [referring to Prophit in 2007]. I’ll tell you the problem with it. The problem is, the things that we really wanted to get a probability assessment on were things that were so sensitive that we thought we would violate the SEC rules on insider knowledge because, if a small group of people knows about some acquisition or something like that, there is a secret among this small group.
 > 
 > You might like to have a probability assessment of whether that would go through. But then, anybody who looks at the auction is now an insider. So there’s a problem in you have to find things that (a) are of interest to the company but (b) do not reveal financially critical information. That’s not so easy to do.
 
@@ -115,10 +118,10 @@ Will small modular nuclear reactors provide more than 1% of any country’s ener
 
 ### Shorts
 
- **1:** Richard Hanania [interviews Robin Hanson](https://richardhanania.substack.com/p/futarchy-robin-hanson-on-how-prediction), inventor of prediction markets.
+**1:** Richard Hanania [interviews Robin Hanson](https://richardhanania.substack.com/p/futarchy-robin-hanson-on-how-prediction), inventor of prediction markets.
 
- **2:** Interesting new prediction market [Futuur](https://futuur.com/), I haven’t investigated it yet but I appreciate their silly pictures representing possible outcomes:
+**2:** Interesting new prediction market [Futuur](https://futuur.com/), I haven’t investigated it yet but I appreciate their silly pictures representing possible outcomes:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa240a599-867a-497e-ab04-73abacd80472_478x291.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa240a599-867a-497e-ab04-73abacd80472_478x291.png)
 
- **3:** Wikipedia: [Cimbrian Seeresses](https://en.wikipedia.org/wiki/Cimbrian_seeresses). “The seeresses led prisoners of war up a platform where they cut their throats and watching the blood stream down into a cauldron they made predictions about the future.” I’m tempted to disapprove of this, but first I want to know if they made it onto the Metaculus leaderboard.
+**3:** Wikipedia: [Cimbrian Seeresses](https://en.wikipedia.org/wiki/Cimbrian_seeresses). “The seeresses led prisoners of war up a platform where they cut their throats and watching the blood stream down into a cauldron they made predictions about the future.” I’m tempted to disapprove of this, but first I want to know if they made it onto the Metaculus leaderboard.

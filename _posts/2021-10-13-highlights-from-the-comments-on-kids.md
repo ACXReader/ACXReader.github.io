@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Kids And Climate Change"
 subtitle: "..."
 date: 2021-10-13
 likes: 91
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/42503142/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb86922b-b202-4ae5-b6f2-6a89ff98ba66_768x432.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-kids
 ---
 Ramparen [writes](https://astralcodexten.substack.com/p/please-dont-give-up-on-having-kids/comment/3201665):
@@ -123,21 +126,21 @@ Other people think I’m _overestimating_ the risks from climate change. David F
 
 > I agree with your conclusion, but you should not be so willing to believe alarmist scare stories.
 > 
->  _"This has already been pretty bad, with unusually many hurricanes, wildfires, and droughts."_
+> _"This has already been pretty bad, with unusually many hurricanes, wildfires, and droughts."_
 > 
 > The IPCC claimed that climate change had increased droughts in the fourth report, retracted that claim in the fifth. For hurricanes, a long discussion by Chris Landsea, who wrote a substantial part of one of the IPCC report's section on hurricanes is at <https://www.aoml.noaa.gov/hrd/Landsea/gw_hurricanes/>
 > 
 > If you actually read the IPCC reports with care, instead of the news media, things look a lot less bleak. Here are some of my favorite quotes:
 > 
->  _There is no evidence that surface water and groundwater drought frequency has changed over the last few decades, although impacts of drought have increased mostly due to increased water demand._
+> _There is no evidence that surface water and groundwater drought frequency has changed over the last few decades, although impacts of drought have increased mostly due to increased water demand._
 > 
->  _Economic losses due to extreme weather events have increased globally, mostly due to increase in wealth and exposure, with a possible influence of climate change (low confidence in attribution to climate change)._
+> _Economic losses due to extreme weather events have increased globally, mostly due to increase in wealth and exposure, with a possible influence of climate change (low confidence in attribution to climate change)._
 > 
->  _Some low-lying developing countries and small island states are expected to face very high impacts that, in some cases, could have associated damage and adaptation costs of several percentage points of GDP._
+> _Some low-lying developing countries and small island states are expected to face very high impacts that, in some cases, could have associated damage and adaptation costs of several percentage points of GDP._
 > 
->  _... most recent observed terrestrial-species extinctions have not been attributed to recent climate change, despite some speculative efforts (high confidence)._
+> _... most recent observed terrestrial-species extinctions have not been attributed to recent climate change, despite some speculative efforts (high confidence)._
 > 
->  _With these recognized limitations, the incomplete estimates of global annual economic losses for additional temperature increases of ~2°C are between 0.2 and 2.0% of income ... ._
+> _With these recognized limitations, the incomplete estimates of global annual economic losses for additional temperature increases of ~2°C are between 0.2 and 2.0% of income ... ._
 > 
 > I was also struck some years ago by a piece written by William Nordhaus responding to a WSJ OpEd that argued that climate change was not a catastrophe requiring immediate response. His calculation at the time was that the net cost of doing nothing for fifty years instead the optimal policy starting immediately was about $4.1 trillion. Spread out over a century and the entire world, that works out to a reduction of average world GNP of about one twentieth of one percent. He didn't put it that way. You can find my comments on his piece and a link to it at:
 
@@ -187,7 +190,7 @@ Thank you. I had previously used “California devotes a lot of water to growing
 
 Prince Machiavelli [writes](https://astralcodexten.substack.com/p/please-dont-give-up-on-having-kids/comment/3207388):
 
->  _"Life in the First World will continue, with worse weather and maybe a weaker economy, but more or less the same as always."_
+> _"Life in the First World will continue, with worse weather and maybe a weaker economy, but more or less the same as always."_
 > 
 > Exactly, life will be slightly harder and will get harder until we reach an equilibrium or intervene to prevent further climate change. A slightly worse economy probably also means the cost of having a child increases even further into absurdity i.e people with children will burden *more* of the climate change induced costs even if the average person isn't effected much.
 
@@ -239,11 +242,11 @@ Restam [writes](https://astralcodexten.substack.com/p/please-dont-give-up-on-hav
 
 > I'm reminded again of C.S. Lewis's "[How Will The Bomb Find You?](https://www.crossroads.net/media/articles/how-will-the-bomb-find-you)" essay. It was quoted a fair bit in light of coronavirus fears, but I think it applies even better to climate change:
 > 
->  _In one way we think a great deal too much of the atomic bomb. ‘How are we to live in an atomic age?’ I am tempted to reply: ‘Why, as you would have lived in the sixteenth century when the plague visited London almost every year [...]; or indeed, as you are already living in an age of cancer, an age of syphilis, an age of paralysis, an age of air raids, an age of railway accidents, an age of motor accidents._
+> _In one way we think a great deal too much of the atomic bomb. ‘How are we to live in an atomic age?’ I am tempted to reply: ‘Why, as you would have lived in the sixteenth century when the plague visited London almost every year [...]; or indeed, as you are already living in an age of cancer, an age of syphilis, an age of paralysis, an age of air raids, an age of railway accidents, an age of motor accidents._
 > 
->  _In other words, do not let us begin by exaggerating the novelty of our situation. Believe me, dear sir or madam, you and all whom you love were already sentenced to death before the atomic bomb was invented… It is perfectly ridiculous to go about whimpering and drawing long faces because the scientists have added one more chance of painful and premature death to a world which already bristled with such chances and in which death itself was not a chance at all, but a certainty._
+> _In other words, do not let us begin by exaggerating the novelty of our situation. Believe me, dear sir or madam, you and all whom you love were already sentenced to death before the atomic bomb was invented… It is perfectly ridiculous to go about whimpering and drawing long faces because the scientists have added one more chance of painful and premature death to a world which already bristled with such chances and in which death itself was not a chance at all, but a certainty._
 > 
->  _[...] If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things—praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs._
+> _[...] If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things—praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs._
 > 
 > To be clear, this doesn't preclude advocating sensible policies about climate change (or sensible precautions against a virus), any more than C.S. Lewis would have opposed sensible policies about nuclear weapons.
 > 

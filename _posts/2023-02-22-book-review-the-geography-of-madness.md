@@ -2,7 +2,10 @@
 title: "Book Review: The Geography Of Madness"
 subtitle: "..."
 date: 2023-02-22
-likes: 353
+likes: 354
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/102517490/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/76955b76-1b4a-4653-878f-d094e8358d91_378x260.png
 original-url: https://www.astralcodexten.com/p/book-review-the-geography-of-madness
 ---
 **I.**
@@ -15,7 +18,7 @@ Nobody knows when the penis-stealing witches began their malign activities. Baby
 
 When I wrote [my review of the ](https://astralcodexten.substack.com/p/book-review-malleus-maleficarum)_[Malleus](https://astralcodexten.substack.com/p/book-review-malleus-maleficarum)_ , people were surprised at the penis-stealing witch chapters. Yet nothing could possibly be less surprising; the penis-stealing witches are timeless and omnipresent. When commenters continued to doubt, I promised them this review of Frank Bures’ _[Geography Of Madness](https://amzn.to/3xGU4T1)._
 
- **II.**
+**II.**
 
 Frank Bures is a journalist. In 2001, he came across an unusual BBC article: a mob had killed twelve people in Nigeria, believing them to be penis-stealing witches. A few months later, a similar article: five people, Benin. He tried to pitch a story about the phenomenon to his editor, who “said he couldn’t pay me to fly to Nigeria and find essentially . . . nothing”.
 
@@ -37,7 +40,7 @@ Africa is a relative newcomer to penis-stealing witches:
 
 Whatever weird itch this topic had given Bures, this didn’t satisfy him. He writes, very lucidly, about a desire to get closer to “the story”. He started bumping up against random Nigerians in suspicious ways, hoping one of them would accuse him of stealing their penis. Bures was an obvious foreigner, and a these panics often resulted in the suspected penis-stealer getting lynched, so this was a crazy thing to do. He could easily have died. Instead, everyone politely ignored him, nothing happened, and a slightly-disappointed Bures flew back to his poor family and abandoned his weird obsession.
 
- **III.**
+**III.**
 
 …for four years. After that the bug bit him again and he flew to Asia, long a center of penis-stealing witch activity.
 
@@ -57,7 +60,7 @@ Bures decides end his own nature documentary with an expedition to the Cape York
 > 
 > Panic about _koro_ would hit a village and last three to four days. When residents heard about a case in a neighboring village, the panic would subside, since that meant the ghost had moved on. The attacks slowly made their way around the island. The ghost struck at night, when villagers were sleeping. A chill would creep into the room, and suddenly the victim would feel his penis shrinking inward. He would grab it and run outside for help. A twenty-eight-year-old office worker was at home one night when:
 > 
->  _> “ . . . he heard a gong being beaten and the terrifying noises made by people who were panicking in a nearby neighborhood. He suddenly became anxious and experienced the sensation that his penis was shrinking. He was seized with panic and shouted loudly for help. Several men in the neighborhood rushed in and tried to rescue him by forcefully pulling his penis and making loud sounds to chase away the evil ghost that was thought to be affecting him.”_
+> _> “ . . . he heard a gong being beaten and the terrifying noises made by people who were panicking in a nearby neighborhood. He suddenly became anxious and experienced the sensation that his penis was shrinking. He was seized with panic and shouted loudly for help. Several men in the neighborhood rushed in and tried to rescue him by forcefully pulling his penis and making loud sounds to chase away the evil ghost that was thought to be affecting him.”_
 > 
 > Neighbors and family members were enlisted in rescue operations. Victims were beaten with sandals and slippers while the middle finger of their left had was squeezed, so that the ghost could exit the body there.
 > 
@@ -71,7 +74,7 @@ I want you to picture the scene. An American journalist has been traveling the w
 
 . . . and the shaman answers: “Haha, no one believes in that stuff anymore.”
 
- **IV.**
+**IV.**
 
 So as a nature documentary, _The Geography of Madness_ is kind of a bust. Still, Bures rescues it with some great analysis of culture-bound mental illness.
 
@@ -144,7 +147,7 @@ I’ll discuss these questions more later, but I want to finish Bures’ argumen
 
 Is it weird to stay on the crazy train long enough to agree that cultural effects are strong enough to make you think witches are stealing your penis, and then get off it once people start talking about voodoo death? I think no - these are very different situations. Believing in koro can make you hallucinate that your penis is shrunken or gone, but no belief, however strong, can (directly) remove your penis itself. Culture → beliefs is fine; culture → reality is a step I’m not willing to take.
 
- **V.**
+**V.**
 
 Since I rejected Bures’ PMDD example, I want to digress to what I think is a stronger argument: anorexia, which [Ethan Watters discusses in his book ](https://astralcodexten.substack.com/p/book-review-crazy-like-us)_[Crazy Like Us.](https://astralcodexten.substack.com/p/book-review-crazy-like-us)_
 
@@ -156,7 +159,7 @@ In 1994, Hong Kong got its own Karen Carpenter - a young girl died of anorexia, 
 
 This story raises a lot of questions. For example: where did the first anorexics (Karen Carpenter, the girl in Hong Kong) come from? Why anorexia and not something else? And how come knowing about anorexia makes it spread so quickly?
 
- **VI.**
+**VI.**
 
 Past this point I’m using this review to discuss my own thoughts, not Bures’ or Watters’.
 
@@ -195,7 +198,7 @@ So a unified theory of these conditions might be:
 
 The weak points of the theory are surely (2) and (4) - what does it mean to “prime people” for the condition? I want to talk about three interpretations:
 
- _A ) Sensitization_
+_A ) Sensitization_
 
 Megabytes of data assault the brain every second. How does it decide what to focus on when building world-models? Predictive-coding says: it uses pre-existing categories/narratives/guesses to determine what’s most likely to be important.
 
@@ -220,7 +223,7 @@ Bodily sensations seem to be especially sensitive to this. For example:
 
 Chronic pain is a unfortunately a [bog-standard sensitization problem](https://slatestarcodex.com/2016/06/26/book-review-unlearn-your-pain/) plus [trapped prior](https://astralcodexten.substack.com/p/trapped-priors-as-a-basic-problem); panic disorder is probably something similar. I have some kind of misophonia (extreme irritation/sensitivity to sound) that as far as I can tell got significantly more severe after someone told me “you’re really sensitive to sound, aren’t you?” Probably I had always been slightly sensitive, but now I was in some sense _sensitive to being sensitive_ , and _looking for it_ , and that was worse.
 
- _B ) Reinterpretation of ambiguous stimuli_
+_B ) Reinterpretation of ambiguous stimuli_
 
 This is probably the same thing as sensitization, just considered on a different level.
 
@@ -240,7 +243,7 @@ These two examples are weak, because vision is a really good sense which is hard
 
 Imagine the picture above, except instead of a normal cube, it’s a 2000-dimensional irregular hyperfractal with a million potential interpretations. When viewed from the right angle, with the right preconception, it looks exactly like a witch stealing your penis.
 
- _C ) Signaling spirals_
+_C ) Signaling spirals_
 
 This is the odd one out - a bit more speculative, more Hansonian than Fristonian.
 
@@ -260,7 +263,7 @@ In our society, it’s commonly believed that War Is Hell, and if you enjoy it t
 
 We’re conducting a massive experiment in how far you can take this. People now believe that you can be traumatized by hearing someone express the wrong opinion during a college class - and that intellectuals with sensitive souls and diverse equity-loving justice-promoting minorities will be traumatized most of all. I suspect all of this is true, if you believe it.
 
- **VI.**
+**VI.**
 
 The sun rises in the east, sets in the west. Snow falls in winter, melts in spring. With the certainty of natural law, I know two things. People will ask “Okay, so which of our mental disorders are culture-bound?” and “it’s definitely gender dysphoria, right?”
 

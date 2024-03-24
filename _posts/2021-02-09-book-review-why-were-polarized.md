@@ -3,6 +3,9 @@ title: "Book Review: Why We're Polarized"
 subtitle: "\"Why We're Polarized\", by Ezra Klein"
 date: 2021-02-09
 likes: 128
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32376959/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cb517171-60a9-49ae-b4ca-516e85cf3689_1024x503.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-why-were-polarized
 ---
 **I.**
@@ -27,7 +30,7 @@ In 1964, the Civil Rights Act threatened the Dixiecrats' key issue. It wasn't qu
 
 Klein says this successfully got all the conservatives on one side of the aisle and all the liberals on the other, allowing polarization to begin. Essentially, he believes polarization is a natural process, which the odd coalitions of the early 20th century temporarily prevented. Once the coalitions were broken, it could begin to do its work. He spends the rest of the book talking about why exactly polarization is so natural, what aspects of modernization have made it worse, and what sort of feedback loops make it keep going. Some highlights:
 
- _1\. Alignment of identities_
+_1\. Alignment of identities_
 
 Here Klein draws on the usual research around ingroups and outgroups. He says that we naturally have many different ingroups and outgroups, ie identities. For example, I am white, Jewish, Californian, and well-off. In the world of the 1960s, these might have been split across the two parties - one party would be more popular among Jews, the other more popular in California, and overall it would be kind of a wash. But starting after the Civil Rights Act, the parties begin to align on identities, so that now popular identities like "white male evangelical Protestant farmer" and "poor city-dwelling Muslim factory worker" fit entirely into one party. That party becomes our Ingroup, with a capital I, and the rest follows from there.
 
@@ -37,13 +40,13 @@ But also, maybe polarization changes identities? Maybe farmers became more relig
 
 If you're still a little confused by this part, that's fine - I am too.
 
- _2\. Loss of geography_
+_2\. Loss of geography_
 
 In the old days, when national news wasn't very cohesive and you mostly worried about your city council and state legislature, every state would have its own Democratic and Republican parties tailored to the needs of the state. Kansas would have its Kansas Republicans and its Kansas Democrats, centered around the median Kansas voter, and they would both do about equally well in Kansas. As cable TV, Internet, and fast travel made national news more of a thing, and people switched from local-politics-as-part-of-daily-life to national-politics-as-entertainment, it turned out that almost everyone in Kansas was more similar to everyone else in Kansas than any of them were to people in New York, and so Kansas went solid Republican and New York went solid Democrat. But a national Democratic Party that has to include Kansas Democrats under its tent is a Democratic Party that's going to naturally be a bit conservative, a bit sensitive to the interests of religious people, a bit sensitive to the interests of farmers, etc. Once you move from within-state sorting to national-level sorting, things get a lot more sorted very quickly.
 
 Along with the nationalization of politics came a nationalization of news. In the old days, you either read the city paper or watched your one local news channel. Since these papers/channels had both Democratic and Republican readers, they would try pretty hard to avoid offending either group, and had some incentive towards objective journalism. Once cable and the Internet nationalized news consumption, business models shifted; now you could make more money by carving out an ideological niche among a national or global market of potential readers, and pandering to the identities and beliefs of your niche.
 
- _3\. Negative polarization_
+_3\. Negative polarization_
 
 Aligned identities don't necessarily make people more loyal to their own party; in fact, people are generally less pro-their-own-party than before. In the 1960s, 80% of people were in a political party; nowadays only 63% are. In the 80s, people's average favorability rating for their own party was 72 on a 100 point scale; today it's only 63. So it's not the average voter has suddenly realized their party is great and super-important to them.
 
@@ -53,7 +56,7 @@ This is called negative partisanship, and apparently it's the driver of our enti
 
 I don't feel like I totally understand this one either. Maybe one way to look at it is as a feedback loop. Democrats hate and fear the Republicans, which convinces them to rally around the party line and become further left, less subtle, and less civil. Republicans see these leftier, more confrontational Democrats, hate and fear them more, and become further right, less subtle, and less civil. And so on forever. I think something like this is definitely happening, though I wish I had a better model of it, and I'm not sure it's exactly what the book meant in this section.
 
- _4\. Republicans suck_
+_4\. Republicans suck_
 
 Klein argues that although polarization has affected both sides, the Democrats have managed to muddle on, but the Republicans have gone completely off the rails. 
 
@@ -83,7 +86,7 @@ But he suggests we also do some things to make sure polarization doesn't cause n
 
 Finally, he suggests some increased individual reflectivity and thoughtfulness on our own parts. If all of us just do a tiny bit each day to fight the polarization within ourselves, together we can form a growing tide of compassion and mutual understanding. Haha, yeah right.
 
- **II.**
+**II.**
 
 This hit basically the notes a book like this should hit, but I don't feel too much more enlightened about Why We're Polarized.
 
@@ -121,7 +124,7 @@ A Democrat like Klein would interpret this as Republicans promoting racism to sc
 
 Overall summary: It looks like Congress started polarizing around 1975, probably as a delayed reaction to the Dixiecrat split. Normal people didn’t really start polarizing until around 2000 - 2005, but the reasons seem less clear. It probably wasn’t because of technology and social media, which were happening in lots of other countries that didn’t follow the same course. It might have been a very delayed reaction to Congress, or a very confusing reaction to racial demographics, or something something inequality and the economy (though nobody has been able to fill in the something something). I still don’t feel like I understand this very well.
 
- **III.**
+**III.**
 
 Klein ends by saying he cannot be entirely against polarization. But his arguments are unconvincing. I much prefer the Ezra Klein who writes things like [Why We Can't Build: America's Inability To Act Is Killing People](https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus).
 
@@ -137,4 +140,4 @@ Every so often, people ask what an effective altruism of politics would look lik
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcbfa418-df43-463f-a806-680cd73954a4_106x160.jpeg)](https://amzn.to/2Z20YAYhttps://amzn.to/2Z20YAY)
 
- _[preview image on this post is credit[Polar Bear Town](https://www.facebook.com/polarbeartown/)]_
+_[preview image on this post is credit[Polar Bear Town](https://www.facebook.com/polarbeartown/)]_

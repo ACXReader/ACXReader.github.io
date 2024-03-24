@@ -3,6 +3,9 @@ title: "In Partial, Grudging Defense Of The Hearing Voices Movement"
 subtitle: "..."
 date: 2022-05-25
 likes: 317
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/55407058/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5dcb9650-ccee-44c7-8f7c-1ef0ebb9b2bd_495x331.jpeg
 original-url: https://www.astralcodexten.com/p/in-partial-grudging-defense-of-the
 ---
 **1:**
@@ -13,7 +16,7 @@ The New York Times has [an article](https://www.nytimes.com/2022/05/17/magazine/
 
 I’ve met some Hearing Voices members. My impression is that everyone on every side of this discussion is a good person trying to make the best of a bad situation (except of course _New York Times_ journalists, who are evil people destroying America). Some specific thoughts:
 
- **2:**
+**2:**
 
 Plenty of people hear voices. Some of these people are your typical homeless schizophrenic, but many aren’t. One of my patients was a successful computer programmer who had near-daily auditory hallucinations. He realized they weren’t real, did his best to ignore them, and got on with his successful life - just like he had been doing for the past twenty years. He was seeing me for unrelated depression.
 
@@ -21,7 +24,7 @@ This guy kept his condition secret from his friends and co-workers. I don’t bl
 
 I recommended Hearing Voices Movement to this guy. I can’t remember whether he took me up on it or not. But I thought it would be helpful for him to have people he could talk to about his situation who wouldn’t think he was crazy, or try to get him locked up.
 
- **3:**
+**3:**
 
 People hate admitting that some cases are mild, and others are severe. Especially the kind of people who work at the _New York Times_
 
@@ -33,7 +36,7 @@ And that’s just the activists! We psychiatrists have the same problem from a d
 
 Still, some cases are mild and others are severe. People with mild psychosis - like my patient the programmer - probably don’t need to be on really strong medications with severe side effects. They probably just need support. In a perfect world, expert psychiatrists would have a major role in providing that support. In the real world, a lot of these patients expect their psychiatrist to freak out, overmedicate them, and maybe even commit them to a hospital. This being the real world, many of those patients are right. So they look elsewhere.
 
- **4:**
+**4:**
 
 To a first approximation, communities are good for people in need. 
 
@@ -51,7 +54,7 @@ I think these claims are false, but that’s exactly the point: they’re the so
 
 (Alcoholics Anonymous makes an interesting comparison: they’re solving this problem in their own way, by being more conservative and unforgiving than the psychiatric establishment would like. Hearing Voices is more liberal and accepting than the establishment, but the key point is not landing in the exact same place.)
 
- **5:**
+**5:**
 
 Imagine that you go to the top of a Himalayan peak, take some obscure Ecuadorian psychedelic, sink deep into meditation, and have the most profound experience of your life. You see God approaching in the form of an arrow of pure light, which splits open your head and then blossoms like a flower, and this makes you realize that your whole childhood was [and so on in this vein].
 
@@ -61,7 +64,7 @@ This is probably the right response, and if someone had been willing to do this 
 
 I don’t know whether there’s something to be gained from picking over experiences like these, but it’s natural and human to want to do it. Generations of Freudians made good livings by flattering their patients’ preconceptions that their dreams had to mean something. As a psychiatrist, I try not to engage with patients about the meanings of their hallucinations, because my words carry some sort of scientific authority and Science very much does not have an opinion on this. But _somebody_ ought to do it, and “let mildly psychotic people do it for each other” seems like a good solution.
 
- **6:**
+**6:**
 
 Actually, this is an important point. The Hearing Voices Movement makes a specific clinical claim: trying to reason with or even befriend your voices works better than trying to repress them.
 
@@ -75,7 +78,7 @@ So am I saying “voices aren’t _really_ intelligent and agentic, but if you p
 
 Is all of this mealy-mouthed and post-modernist and denying the existence of ground-level truth? Sort of, but “your subjective experience of your psyche is culturally relative” is a weaker and more defensible claim than “reality is culturally relative”, and one with a lot of support - see eg [Julian Jaynes](https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/) and [Ethan Watters](https://astralcodexten.substack.com/p/book-review-crazy-like-us?s=w) for more.
 
- **7:**
+**7:**
 
 One of Freddie’s big complaints about Hearing Voices - and about a lot of mental health advocacy groups - is that they’re doing the Special Snowflake thing too hard. They think that having a mental illness makes them quirky and substitutes for a personality. 
 
@@ -85,7 +88,7 @@ You can think of this in a condescending way, something like: yeah, but you can 
 
 The non-condescending version is that _everyone_ is in this situation. The Hearing Voices people pat themselves on the back because they have interesting hallucinations and are more creative than everyone else. Freddie pats himself on the back because he has an uncompromising commitment to taking his psychiatric problems seriously, warts and all, and not glossing over the negative aspects. I pat myself on the back because I’m balanced and reasonable and empathetic to both sides. It’s really hard not to do the special snowflake thing in some way or other. Prudence consists of doing it in ways that don’t step on other people’s toes, wildly contradict reality, or make society worse off.
 
- **8:**
+**8:**
 
 Since we’re on the topic of Special Snowflakes, a point only tangentially related to mental health.
 
@@ -103,7 +106,7 @@ And on one level it’s definitely true that mankind will not be free until the 
 
 But if you do insist on unusual experiences as the measure of a valid person, then there will always be a pressure to exaggerate how unusual your experience is. Everyone will either rock-climb or cultivate a personality disorder, those are the two options. And lots of people are afraid of heights.
 
- **9:**
+**9:**
 
 I think there’s a difference between psychotic people exploring their psychosis, among themselves, in ways that serve their psychological needs, and the _New York Times_ running an article about it where you’re supposed to conclude that they’re right and good and the stupid square psychiatric establishment who want them to take medication are just dumb and out of touch.
 
@@ -121,7 +124,7 @@ This is also how I feel about hearing voices. Is hearing voices socially contagi
 
 I don’t feel like the Hearing Voices Movement is doing this, exactly. They just sit around being an accepting place for people who already have this experience and problem. I do think _New York Times_ articles about how cool and accepting and normal they are - and how much better they are than boring people who just take their medications - probably don’t do anyone any favors.
 
- **10:**
+**10:**
 
 The article talks about peer mental health counselors - people with a mental illness who try to help others with the same condition.
 
@@ -153,7 +156,7 @@ I’m glad people like this exist; they keep the rest of us honest. But if you g
 
 Please, _please_ just use the cheat sheet.
 
- **12:**
+**12:**
 
 The usual human and humane provisions - food, shelter, counseling, acceptance, support, friendship - make a big difference. Not just in depression. Even in things like psychosis that you’d expect are way too biological to affect through fuzzy things like that. There are a lot of people who are psychotic under stress but do well in an ideal environment. There are a lot of other people who will be psychotic no matter what you do, but depending on environment their psychosis can be benign and compatible with a happy life, vs. violent and uncontrollable.
 

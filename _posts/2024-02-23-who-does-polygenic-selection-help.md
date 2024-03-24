@@ -2,7 +2,10 @@
 title: "Who Does Polygenic Selection Help?"
 subtitle: "..."
 date: 2024-02-23
-likes: 168
+likes: 169
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/141267301/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/26e7774d-e64b-4ad4-ada2-c7624fe96921_1200x500.jpeg
 original-url: https://www.astralcodexten.com/p/who-does-polygenic-selection-help
 ---
 Suppose a couple has a strong family history of schizophrenia. They expect their children will be at high risk. They do IVF and get ten embryos. Polygenic screening reveals that nine of the embryos are at high risk for schizophrenia, but one is low-risk. They implant the low-risk embryo, and have a healthy child who never develops the disease.
@@ -15,7 +18,7 @@ One easy argument: even if this doesn’t prevent schizophrenia on an individual
 
 Still, I think that - even though this is a weird situation - it’s fair to gloss selection as “preventing a case of schizophrenia”, such that we should treat it approximately the same as prevention via improved nutrition or any other intervention. Once again, my thought process centers around avoiding [isolated demands for rigor](https://slatestarcodex.com/2014/08/14/beware-isolated-demands-for-rigor/) \- ie what happens when we try to think of this the same way we think of other clearer examples where everyone already agrees. Here are three situations that I use as intuition pumps for this case:
 
- **Situation 1: The Alcoholic**
+**Situation 1: The Alcoholic**
 
 A woman is planning on getting pregnant. She talks this over with her doctor, who asks her some screening questions and discovers she is a heavy drinker. The doctor warns the woman that her child is at risk of fetal alcohol syndrome, and advises her to quit alcohol before becoming pregnant. She goes to a rehab for three months and quits alcohol. Then she becomes pregnant and has a healthy child without fetal alcohol syndrome.
 
@@ -23,7 +26,7 @@ In common language, we would say that the doctor’s intervention prevented the 
 
 Still, in common language we call this “preventing the baby from having fetal alcohol syndrome”. Nobody thinks there are any ethical ramifications. Nobody thinks this is a creepy case of putting the needs of the mother and society above the needs of the baby. It’s just an obvious unalloyed good thing.
 
- **Situation 2: The Intern**
+**Situation 2: The Intern**
 
 A woman goes in for IVF. She produces ten embryos. The usual technique for deciding which of the ten embryos to implant is for a doctor to look them over and see which one looks generally the most normally-shaped and healthiest. This time, the doctor tells the intern to make this decision. The intern chooses embryo #5. But a few hours later the doctor gets nervous, decides to double-check, disagrees with the intern’s assessment, and picks embryo #7. Embryo #7 gets implanted, and the woman gives birth to a healthy child.
 

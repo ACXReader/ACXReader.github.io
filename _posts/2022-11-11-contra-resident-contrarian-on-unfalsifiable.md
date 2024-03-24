@@ -3,6 +3,9 @@ title: "Contra Resident Contrarian On Unfalsifiable Internal States"
 subtitle: "..."
 date: 2022-11-11
 likes: 169
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/82765003/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a4e87a79-f72c-49e0-b958-cf2141e29fe0_994x541.png
 original-url: https://www.astralcodexten.com/p/contra-resident-contrarian-on-unfalsifiable
 ---
 **I. Contra Resident Contrarian . . .**
@@ -15,11 +18,11 @@ Resident Contrarian writes [On Unfalsifiable Internal States](https://www.reside
 > 
 > There’s an internet community of people, mostly young women, who pretend to be sick. [They call themselves Spoonies](https://www.commonsense.news/p/hurts-so-good); it’s a name derived from the idea that physically and mentally well people have unlimited “spoons”, or mental/physical resources they use to deal with their day. Spoonies are claiming to have fewer spoons, but also en masse have undiagnosable illnesses. They trade tips on how to force their doctors to give them diagnoses:
 > 
->  _> In a [TikTok video](https://www.tiktok.com/@geodendrochromosaur/video/7072914858823568686?is_copy_url=1&is_from_webapp=v1), a woman with over 30,000 followers offers advice on how to lie to your doctor. “If you have learned to eat salt and follow internet instructions and buy compression socks and squeeze your thighs before you stand up to not faint…and you would faint without those things, go into that appointment and tell them you faint.” Translation: You know your body best. And if twisting the facts (like saying you faint when you don’t) will get you what you want (a diagnosis, meds), then go for it. One commenter added, “I tell docs I'm adopted. They'll order every test under the sun”—because adoption means there may be no family history to help with diagnoses._
+> _> In a [TikTok video](https://www.tiktok.com/@geodendrochromosaur/video/7072914858823568686?is_copy_url=1&is_from_webapp=v1), a woman with over 30,000 followers offers advice on how to lie to your doctor. “If you have learned to eat salt and follow internet instructions and buy compression socks and squeeze your thighs before you stand up to not faint…and you would faint without those things, go into that appointment and tell them you faint.” Translation: You know your body best. And if twisting the facts (like saying you faint when you don’t) will get you what you want (a diagnosis, meds), then go for it. One commenter added, “I tell docs I'm adopted. They'll order every test under the sun”—because adoption means there may be no family history to help with diagnoses._
 > 
 > And doctors note being able to sort of track when particular versions of illnesses get flavor-of-the-week status:
 > 
->  _> Over the pandemic, neurologists across the globe noticed a sharp uptick in teen girls with tics, according to a report in the [Wall Street Journal](https://www.wsj.com/articles/teen-girls-are-developing-tics-doctors-say-tiktok-could-be-a-factor-11634389201). Many at one clinic in Chicago were exhibiting the same tic: uncontrollably blurting out the word “beans.” It turned out the teens were taking after a popular [British TikToker](https://www.tiktok.com/@thistrippyhippie) with over 15 million followers. The neurologist who discovered the “beans” thread, Dr. Caroline Olvera at Rush University Medical Center, declined to speak with me—because of “the negativity that can come from the TikTok community,” according to a university spokesperson._
+> _> Over the pandemic, neurologists across the globe noticed a sharp uptick in teen girls with tics, according to a report in the [Wall Street Journal](https://www.wsj.com/articles/teen-girls-are-developing-tics-doctors-say-tiktok-could-be-a-factor-11634389201). Many at one clinic in Chicago were exhibiting the same tic: uncontrollably blurting out the word “beans.” It turned out the teens were taking after a popular [British TikToker](https://www.tiktok.com/@thistrippyhippie) with over 15 million followers. The neurologist who discovered the “beans” thread, Dr. Caroline Olvera at Rush University Medical Center, declined to speak with me—because of “the negativity that can come from the TikTok community,” according to a university spokesperson._
 > 
 > Almost no one who encounters them assumes they are actually sick.
 > 
@@ -31,7 +34,7 @@ Resident Contrarian writes [On Unfalsifiable Internal States](https://www.reside
 
 Granting that this is not the part of the article RC wants to write, he starts by bringing up “spoonies” and people with multiple personalities as people who it’s reasonable to doubt. I want to go over both cases before responding to the broader point.
 
- **II. . . . On Spoonies**
+**II. . . . On Spoonies**
 
 “Spoonies” are people with unexplained medical symptoms. RC says he thinks a few may be for real, but most aren’t. I have the opposite impression. Certainly RC’s examples don’t prove what he thinks they prove. He brings up one TikToker’s advice:
 
@@ -77,7 +80,7 @@ This isn’t to say that you can’t come up with some strategy for blaming vict
 
 I think this is a more productive lens to use for “spoonies” than “look! here are people who are faking stuff!” Also, everyone on TikTok is terrible and shouldn’t be considered a representative of their respective communities.
 
- **III. . . . On Dissociative Identity Disorder**
+**III. . . . On Dissociative Identity Disorder**
 
 What about multiple personality?
 
@@ -113,7 +116,7 @@ RC goes on to use these two cases as proof that sometimes large groups of people
 > 
 > Sometimes this is nice, but at some extremes, it ends up being a lot like if someone looked at [Douglas Adams’] description of a person catching a baseball above, realized that they can’t really explain how that happens, and then concluded that baseball catching was not a skill that does or could exist.
 > 
-> At the extremes of those extremes, you see things like the jhana thing: where it’s something that seems unlikely to most but is unfalsifiable, and because of that unfalsifiability is then assumed to be true because it was claimed at all. __ By Scott’s standard above, we would basically assume that any claim we couldn’t disprove was true, provided we could find at least a few thousand people who claimed it.
+> At the extremes of those extremes, you see things like the jhana thing: where it’s something that seems unlikely to most but is unfalsifiable, and because of that unfalsifiability is then assumed to be true because it was claimed at all.__ By Scott’s standard above, we would basically assume that any claim we couldn’t disprove was true, provided we could find at least a few thousand people who claimed it.
 
 This sounds like: “I, RC, have the mysterious mental ability to detect liars. I admit I can’t prove this, but come on, you should probably just trust me because it’s perfectly reasonable to think other people have mysterious mental abilities you don’t.”
 
@@ -123,7 +126,7 @@ The evidence for jhanas is thousands of people over thousands of years saying th
 
 I don’t think RC is lying. I think he has the internal experience of seeing some people say weird stuff, and feeling sure that those people are lying. Probably most times he felt this way, the people _were_ lying, because [lots of heuristics almost always work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work). On the other hand, my lie detector - which also usually works - gets different results from his in this case. It’s perfectly fine if we want to go our different ways and believe our respective intuitive lie detectors. But if we’re going to try to come to debate the issue publicly, I think we need more than just “well my lie detector says X”. We have to do something in between reasoning it out, or at least sharing the data we used to train our lie detectors.
 
- **V. . . . On What The Prior Should Be**
+**V. . . . On What The Prior Should Be**
 
 So here’s the training data that got me to this point:
 

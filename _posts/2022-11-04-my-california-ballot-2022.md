@@ -3,6 +3,9 @@ title: "My California Ballot 2022"
 subtitle: "..."
 date: 2022-11-04
 likes: 122
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/80091555/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/388827de-c913-4e88-a096-befd696f35cb_578x422.png
 original-url: https://www.astralcodexten.com/p/my-california-ballot-2022
 ---
 **Previously:** [2018](https://slatestarcodex.com/2018/11/04/my-california-ballot/), [2020](https://www.reddit.com/r/slatestarcodex/comments/j9kxl0/my_california_ballot_2020/)
@@ -17,7 +20,7 @@ I lean liberal-to-libertarian; the further you are from that, the less useful yo
 
 ## State Propositions
 
- **Proposition 1: Constitutional Amendment Enshrining Right To Abortion**
+**Proposition 1: Constitutional Amendment Enshrining Right To Abortion**
 
 California will never decide to ban abortion. If the federal government decides to ban abortion, California’s state constitution won’t matter. So you would think that having a right to abortion in the Constitution is a purely symbolic matter.
 
@@ -27,7 +30,7 @@ The people arguing against the proposition claim that this is a Trojan Horse int
 
 It’s true that California currently doesn’t allow abortions [past 24 weeks](https://health.ucdavis.edu/obgyn/services/family-planning/medical-surgical-abortion.html). It’s true that the exact text of the proposed amendment is:
 
->  _The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection_
+> _The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection_
 
 …which sure doesn’t sound like it’s saying the state can continue to ban abortion after 24 weeks. But [this article](https://www.latimes.com/california/story/2022-07-14/skelton-california-abortion-ballot-measure-constitutional-amendment) quotes law professors who reassure us that courts would totally understand that this amendment has to be interpreted in the context in which it was written - ie a state which supports a 24-week abortion ban - so no court would ever interpret it as making 24-week abortion bans unconstitutional. So apparently our defense against this is . . . that all California judges will be die-hard originalists completely immune to the temptation of judicial activism even when the text is begging them to do it.
 
@@ -35,7 +38,7 @@ A friend brings up that late-term partial-birth abortions happen more often in R
 
 I interpret this as a purely symbolic measure that has no real benefits, probably also has no real risks, but writes a poorly-worded thing whose explicit text nobody wants into the state constitution. I vote NO.
 
- **Proposition 26: Legalize In Person Sports Gambling At Racetracks And Indian Casinos**
+**Proposition 26: Legalize In Person Sports Gambling At Racetracks And Indian Casinos**
 
 Allows four racetracks in the state to offer in person sports betting, and tribal casinos to allow “sports betting, roulette, and games played with dice”. 
 
@@ -49,7 +52,7 @@ But this law also allows random people to sue “card clubs”, ie small-scale p
 
 Although I think the first prong of the law - allowing roulette and sports betting at casinos - makes sense, the second prong seems to be casinos making it easier to shut down their competitors. These competitors are probably ordinary people who want to gamble in a backroom somewhere without hurting anyone else. And the argument against on the ballot is by the Black Chamber of Commerce, saying that these card clubs are a useful source of revenue for poor minority communities. I don’t want to help giant casinos put a bounty on their heads. I vote NO.
 
- **Proposition 27: Legalize Online Sports Betting, Tax It, And Give A Tiny Fraction Of The Money To Various Sympathetic Causes**
+**Proposition 27: Legalize Online Sports Betting, Tax It, And Give A Tiny Fraction Of The Money To Various Sympathetic Causes**
 
 That’s not the official name. The official name is California Solutions To Homelessness And Mental Health Support Act. I think mine is more honest.
 
@@ -65,7 +68,7 @@ In fact, that day will be tomorrow, when I announce my new sport, Predictelectio
 
 I vote YES.
 
- **Proposition 28: Provide Additional Funding For Arts And Music In Public Schools Without Raising Taxes Somehow**
+**Proposition 28: Provide Additional Funding For Arts And Music In Public Schools Without Raising Taxes Somehow**
 
 This proposition would mandate the California legislature to devote $1 billion more to public schools, earmarked for arts and music, than it is doing already.
 
@@ -75,7 +78,7 @@ Supposing we have an extra billion dollars, is arts and music education really t
 
 I vote NO.
 
- **Proposition 29: It’s The Kidney One Again**
+**Proposition 29: It’s The Kidney One Again**
 
 Some special interest group - I have never been able to figure out which one - would apparently profit from over-regulating kidney dialysis clinics. It’s not the doctors! Last time I accused the medical guild, and a doctor politely corrected me and said the medical guild opposes this. It’s not nurses or patients either, their advocacy groups oppose this too. Everyone hates this proposition! And yet every election year, like a monster shambling from the grave once more in _Monster Movie X: The Re-Monstering_ , this proposition appears on the California ballot. Every election year, like a plucky team of heroes armed with an ancient sword, the voters defeat it. Every election year, it returns to wreak revenge by annoying the living.
 
@@ -85,7 +88,7 @@ And yet the argument against is that we must never surrender to The Kidney One. 
 
 I stand with these brave defenders of liberty, and will cast the same vote as my father, and his father before him, and _his_ father before _him_ , and so on to the creation of the world: NO on The Kidney One.
 
- **Proposition 30: Tax The Rich To Fund Electric Cars And Wildfire Prevention**
+**Proposition 30: Tax The Rich To Fund Electric Cars And Wildfire Prevention**
 
 This one is simple. Taxpayers will pay an extra 1.75% on income above $2 million, and the money will go to electric car stuff and wildfire prevention. 
 
@@ -95,7 +98,7 @@ According to [this website](https://votenoprop30.com/), which I trust because it
 
 Probably this will pass, because Californians respond to “tax the rich to fund environmentalist-sounding-thingies” like sharks respond to chum. Probably the California government deserves it, because they keep coming up with dumb laws to hurt Lyft, and turnabout is fair play. Still, _corporations_ using the rich as their personal piggy bank is a worrying development even by California standards. Also, I hate Lyft because their app keeps pretending it’s right on the verge of finding me a driver, then stringing me along for ten minutes before admitting there are no drivers within miles of me. I vote NO.
 
- **Proposition 31: Ban Flavored Tobacco Products**
+**Proposition 31: Ban Flavored Tobacco Products**
 
 In 2020, the legislature voted in favor of banning flavored tobacco products from retail stores. Tobacco companies didn’t like this and figured out some way to shift the decision onto voters, so now voters have to ratify or contradict the legislature.
 
@@ -103,19 +106,19 @@ The argument in favor is made by people trying to make us panicked that flavored
 
 I can’t understand the argument against because it’s written entirely in the Black Speech of Barad-Dur. Visions of horror and torment fill my mind, and of a sun like sackcloth rising over bloody seas, but the exact intricacies escape me. For some reason this always happens when I read stuff written by tobacco companies.
 
- ~~I’m usually pretty libertarian, but the tobacco companies trying to weasel out of a legislative decision like this annoys me. Plus if I have to make an exception for anything it will be for cigarettes. Plus you can always buy your flavored cigarettes online if you want. I vote YES.~~
+~~I’m usually pretty libertarian, but the tobacco companies trying to weasel out of a legislative decision like this annoys me. Plus if I have to make an exception for anything it will be for cigarettes. Plus you can always buy your flavored cigarettes online if you want. I vote YES.~~
 
 Apparently more complicated, see comment thread [here](https://astralcodexten.substack.com/p/my-california-ballot-2022/comment/10213198).
 
 ## State Offices
 
- **Governor: Newsom (D) vs. Dahle (R)**
+**Governor: Newsom (D) vs. Dahle (R)**
 
 Gavin Newsom is so certain of himself that he didn’t even submit a photo or candidate statement:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4261a91a-577e-4dfc-861e-496f107ca57a_579x772.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4261a91a-577e-4dfc-861e-496f107ca57a_579x772.png)
 
- ~~Probably he is too busy writing his candidate statement for President in 2024~~. [EDIT: See [here](https://astralcodexten.substack.com/p/my-california-ballot-2022/comment/10213813), commenter claims you’re not allowed to have a candidate statement if you go above spending limits]
+~~Probably he is too busy writing his candidate statement for President in 2024~~. [EDIT: See [here](https://astralcodexten.substack.com/p/my-california-ballot-2022/comment/10213813), commenter claims you’re not allowed to have a candidate statement if you go above spending limits]
 
 This got me thinking: I [make fun of Gavin Newsom](https://astralcodexten.substack.com/p/california-gubernatorial-candidates) a lot. I say he has no characteristics except good hair and the ability to pander to every interest group the exact right amount. But Newsom is favored as the Democratic nominee in 2024 if Biden chooses not to run again. Why? Usually people who become a major party candidate for President have some positive quality that has helped them get that far. Donald Trump is a master showman and figured out how to tap a vein of populist anger no one else could. Joe Biden has folksy charm and 75,000 years of experience in the Senate. Hillary Clinton had stratospheric name recognition and the support of the Democrats’ best political machine. If Gavin Newsom becomes President, or even a nominee, to what will we attribute this? I have lived in his state for four years now and I am baffled. He is a mystery, a gaping void where a candidate statement and photo should be, certain of victory with no explanation.
 
@@ -125,7 +128,7 @@ I originally planned to vote Dahle because I hate everything about California’
 
 I vote NEWSOM.
 
- **Lieutenant Governor: Kounalakis (D) vs. Jacobs (R)**
+**Lieutenant Governor: Kounalakis (D) vs. Jacobs (R)**
 
 In the extremely narrow band within which Californian Democrats vary, Elena Kounalakis seems better than most. Her quirky personal detail is that she and her equally-rich husband fund a bunch of research into Hellenistic Greece, which I support. I voted for her last time and would be happy to do so again.
 
@@ -133,7 +136,7 @@ This time it’s the Republican, Angela Jacobs, who refuses to send a photo or c
 
 I vote KOUNALAKIS.
 
- **US Senator: Meuser (R) vs. Padilla (D)**
+**US Senator: Meuser (R) vs. Padilla (D)**
 
 Alex Padilla is the incumbent, appointed to fill Kamala Harris’ seat after she became VP. He seems kind of like Generic Democrat #9381. [Wikipedia says](https://en.wikipedia.org/wiki/Alex_Padilla#Personal_life) Wall Street Journal calls him a “business friendly moderate”, but also that Padilla “supported the Green New Deal” - which I guess is what being a business-friendly moderate Democrat gets you in 2022.
 
@@ -141,7 +144,7 @@ Mark Meuser says that running for Senate as a Republican in California [is like]
 
 I vote PADILLA.
 
- **Secretary Of State: Bernosky (R) vs. Weber (D)**
+**Secretary Of State: Bernosky (R) vs. Weber (D)**
 
 The Secretary of State mostly oversees elections.
 
@@ -151,7 +154,7 @@ Shirley Weber just says that in her last term she oversaw a “safe, secure, and
 
 I vote WEBER.
 
- **Controller: Cohen (D) vs. Chen (R)**
+**Controller: Cohen (D) vs. Chen (R)**
 
 Malia Cohen is a black person with the last name Cohen. How did this happen? Apparently not by marriage - her husband has a different name. I eventually found [this article on black Cohens](https://www.tabletmag.com/sections/sports/articles/the-black-cohens), which says that about 4,000 of the 87,000 Cohens in America are black. Some of them are descended from a Cohen in South Carolina who married a black woman in the 1800s, and others are descended from a Cohen who was a pirate in the Caribbean (really!) Most are not Jewish. I can’t tell if Malia is Jewish - I listened to the first few minutes of [this talk she gave at a synagogue,](https://podcasts.apple.com/ke/podcast/malia-cohen-black-american-jewish-relationship-in-fighting/id508966423?i=1000430613957) and although she sounds extremely at home there and pronounces her Hebrew surprisingly well, she also mentions she’s the daughter of a pastor, so I’m guessing no. She was formerly a San Francisco Supervisor, but I will try not to hold that against her. Her opponent accuses her of [literally going to Venezuela to study socialism](https://www.foxnews.com/politics/dem-seeking-serve-californias-next-financial-watchdog-took-2006-trip-study-socialism-venezuela), but I already assume every San Francisco Supervisor did that.
 
@@ -161,7 +164,7 @@ Somehow Chen has endorsements from the LA Times, the San Francisco Chronicle, an
 
 I vote CHEN.
 
- **Treasurer: Ma (D) vs. Guerrero (R)**
+**Treasurer: Ma (D) vs. Guerrero (R)**
 
 Fiona Ma is embroiled in various scandals, including sexual harassment and mismanagement of funds. But people [seem to like her treasuring](https://www.sandiegouniontribune.com/opinion/editorials/story/2022-09-22/opinion-endorsement-fiona-ma-california-treasurer), especially her work simplifying rules around affordable housing.
 
@@ -169,7 +172,7 @@ Jack Guerrero is an accountant and former mayor who supposedly did a good job fi
 
 I'm going to sit this one out. ABSTAIN.
 
- **Attorney General: Hochman (R) vs. Bonta (D)**
+**Attorney General: Hochman (R) vs. Bonta (D)**
 
 Rob Bonta is a partisan Democrat who seems to really like publicity stunts for Democratic causes. When Texas set a bounty for reporting illegal abortions, Bonta had California set a bounty for reporting illegal guns to troll Texas (he seems to think it is immoral and unconstitutional, but wants the Supreme Court to “call his bluff”). He has gone to all 58 counties of California telling them to fight hate crimes more, and constantly comes up with newer and showier ways of demonstrating how much he hates guns. More substantially, he has been a powerful advocate for increased housing and has successfully sued cities that oppose denser zoning.
 
@@ -177,7 +180,7 @@ Nathan Hochman is a prosecutor whose message is to cut the politics and get toug
 
 I dislike both of these people, ABSTAIN.
 
- **Insurance Commissioner: Howell (R) vs. Lara (D)**
+**Insurance Commissioner: Howell (R) vs. Lara (D)**
 
 Robert Howell is an Independent Businessperson and Family Man who supports Random Capital Letters In Candidate Statements. His website has apostrophe’s in unusual place’s. Otherwise he mostly does the usual Republican thing of mentioning that everything about California is terrible, and maybe we should try electing politicians slightly different than the ones who keep getting us ever deeper into this mess
 
@@ -191,7 +194,7 @@ The [San Francisco Chronicle](https://www.sfchronicle.com/opinion/editorials/art
 
 I vote HOWELL.
 
- **Superintendent Of Schools: Thurmond Vs. Christensen**
+**Superintendent Of Schools: Thurmond Vs. Christensen**
 
 Superintendent is supposedly a nonpartisan office, but one of the candidates is called “Lance Ray Christensen”, which is the most Republican name ever - two weapons plus a religion - and that means his opponent Tony Thurmond must secretly be the Democrat.
 
@@ -203,4 +206,4 @@ LA Times [endorses Thurmond](https://www.latimes.com/opinion/story/2022-09-07/ed
 
 I vote CHRISTENSEN.
 
- _Thanks to the Valinor group house and to Clara Collier in particular for helping research some of these votes; all bad decisions are ultimately my own._
+_Thanks to the Valinor group house and to Clara Collier in particular for helping research some of these votes; all bad decisions are ultimately my own._

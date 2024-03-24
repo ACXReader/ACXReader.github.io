@@ -3,9 +3,12 @@ title: "Your Book Review: On The Natural Faculties"
 subtitle: "Finalist #2 of the book review contest"
 date: 2021-04-09
 likes: 148
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34926767/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/41c63a80-46db-4de7-b739-dbca470e2c10_960x600.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-on-the-natural-faculties
 ---
-[ _This is the second of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for the next few months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_ ] 
+[_This is the second of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for the next few months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_] 
 
 **I.**
 
@@ -33,7 +36,7 @@ When you press a seashell into the sand, it leaves an impression that is its own
 
 So for these reasons and others, I decided to review one of Galen’s books.
 
- **II.**
+**II.**
 
 First, a little biographical context.
 
@@ -89,7 +92,7 @@ I chose to review the longest piece I could find, which is _On the Natural Facul
 
 **III.**
 
- _On the Natural Faculties_ is divided into three books, though if the three books have any structure to them, I wasn’t able to figure it out. 
+_On the Natural Faculties_ is divided into three books, though if the three books have any structure to them, I wasn’t able to figure it out. 
 
 Galen is pretty straightforward in naming his pieces, and this book is about him trying to describe all of the “natural faculties”. This doesn’t really correspond to any modern concept, but essentially he means the fundamental or basic biological functions common to all living things. He begins by contrasting the functions of the soul, like feeling and voluntary motion (we might say “mental functions”), which occur only in animals, with the natural functions common to both animals and plants. You could maybe translate “natural faculties” as something like “basic biological functions”. 
 
@@ -113,7 +116,7 @@ Galen makes it pretty plain that he thinks that diseases are caused by failures 
 
 The four humors do make their way into this mix eventually, especially in the second and third books. (Though the translator often insists on translating “humor” as “juice”, which makes me very uncomfortable.) The relationship seems to be that the humors are the building material of the body, but that all the activity is carried out through the natural faculties. The student needs to know the humors to understand what is being moved around, but the humors are primitive. To Galen, biology is all about these faculties shuffling, transforming, and combining different humors.
 
- **VI.**
+**VI.**
 
 Anyways, that’s what Galen _wants_ to be talking about. But about halfway through book one, he goes entirely off the rails and never really gets back on track. 
 
@@ -139,7 +142,7 @@ Of course, in the very next paragraph, he is immediately drawn back into a discu
 
 In some ways, _On the Natural Faculties_ is less of a medical treatise and more of a fascinating snapshot of the state of the academic medical world in the latter half of the second century CE. The tone sounds really contemporary in a lot of ways, and has a quality of acrimonious quibbling that is more than a little familiar, though I don’t think modern physicians are likely to be poisoned by their colleagues (but what do I know).
 
- **V.**
+**V.**
 
 We’ve established that Galen has a problem with other experts and schools of medical thought. That leaves us wondering how justified he is. Is he criticizing them for real problems in their work, or is this just partisan squabbling? 
 
@@ -254,7 +257,7 @@ As with many other things, it’s ironic that people haven’t actually read Gal
 
 You know, reading about Galen reminded me of someone… a physician… trained all around the world… a prolific writer… constantly drawn into disputes about philosophy and empirical practice… who am I thinking of…
 
- **IX.**
+**IX.**
 
 Ok, so it looks like there was an intellectual hit job on Galen. Why?
 

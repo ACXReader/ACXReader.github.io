@@ -3,13 +3,16 @@ title: "Highlights From The Comments On Brain Waves"
 subtitle: "..."
 date: 2022-11-08
 likes: 52
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/83156610/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2e93b9f7-17c8-42f5-a0a1-ccbb93ed4f2e_255x255.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-brain
 ---
 [original post [here](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain)]
 
 * * *
 
- **On What Kind Of Thing Brain Waves Are:**
+**On What Kind Of Thing Brain Waves Are:**
 
 Loweren [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9874786): 
 
@@ -27,7 +30,7 @@ Loweren [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-th
 
 * * *
 
- **On Grandmother Neurons:**
+**On Grandmother Neurons:**
 
 Doug Summers Stay [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9875103):
 
@@ -47,7 +50,7 @@ NotPeerReviewed [says ](https://astralcodexten.substack.com/p/book-review-rhythm
 
 * * *
 
- **On Waves In AI:**
+**On Waves In AI:**
 
 Mirrormere [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9875170):
 
@@ -61,7 +64,7 @@ And [Grum](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brai
 
 [B Civil](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9882215):
 
->  _> which raises the question of how our brains don't just collapse into noise or get stuck in endless loops..._
+> _> which raises the question of how our brains don't just collapse into noise or get stuck in endless loops..._
 > 
 > I would submit that this does happen with some people. Think obsessive/compulsive behavior and other kinds of neurosis.
 > 
@@ -71,7 +74,7 @@ And [Grum](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brai
 
 * * *
 
- **On The Case Against Brain Waves Being Important**
+**On The Case Against Brain Waves Being Important**
 
 Justin L [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9878202):
 
@@ -101,7 +104,7 @@ Justin L [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-t
 
 [Paul B](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9881301):
 
->  _> Everyone agrees that the oscillations exist, and that changes in the oscillations are often correlated with changes in brain state, but making *causal* statements about their impact has proven much more difficult._
+> _> Everyone agrees that the oscillations exist, and that changes in the oscillations are often correlated with changes in brain state, but making *causal* statements about their impact has proven much more difficult._
 > 
 > One argument I heard against this that struck me went along the lines of: "People have this gripe about oscillations being causal and many intuitively see oscillations as epiphenomenal. However, the same people take, at face value, that increases in brain activity has causal effects. Why is this? There is no stronger philosophic argument for activations rather rather than oscillations
 
@@ -115,7 +118,7 @@ Justin L [again](https://astralcodexten.substack.com/p/book-review-rhythms-of-th
 
 * * *
 
- **On Other Things That Aren’t Named For The Reason You Think:**
+**On Other Things That Aren’t Named For The Reason You Think:**
 
 Larry Baum [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9885277):
 
@@ -131,7 +134,7 @@ And [DizzleMizzles](https://www.reddit.com/r/slatestarcodex/comments/y98gwb/book
 
 * * *
 
- **On Other Interesting Facts About Brain Waves:**
+**On Other Interesting Facts About Brain Waves:**
 
 Kevin Binz [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9876060):
 
@@ -179,7 +182,7 @@ And Drake Thomas [explains](https://astralcodexten.substack.com/p/book-review-rh
 
 Jared [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9876571):
 
->  _> And the waves solve wetware-specific problems, like conduction delay (silicon chips operate at the speed of light) and synchronization (computers have internal clocks, or can synchronize with atomic clocks via the Internet)._
+> _> And the waves solve wetware-specific problems, like conduction delay (silicon chips operate at the speed of light) and synchronization (computers have internal clocks, or can synchronize with atomic clocks via the Internet)._
 > 
 > Silicon chips definitely deal with conduction delay. The speed of light is very fast, but at 4 GHz electric signals (moving at roughly 2/3 the speed of light) can only travel 5 cm in one clock cycle. Traveling 1 cm uses 20% of the cycle, etc. Computers also have to deal with various types of synchronization issues for a variety of reasons.
 > 
@@ -191,7 +194,7 @@ Jared [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-
 
 * * *
 
- **On Synchrony**
+**On Synchrony**
 
 FeepingCreature [helps me understand the synchrony perspective](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9883719):
 
@@ -205,7 +208,7 @@ Alexander Buhl [describes an even more unexpected domain that this is like](http
 
 * * *
 
- **On Buzsaki’s Next Book:**
+**On Buzsaki’s Next Book:**
 
 Grum writes:
 
@@ -215,7 +218,7 @@ Grum writes:
 
 * * *
 
- **On Crypto:**
+**On Crypto:**
 
 Scroobius [writes](https://astralcodexten.substack.com/p/book-review-rhythms-of-the-brain/comment/9958078):
 

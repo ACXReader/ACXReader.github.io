@@ -3,6 +3,9 @@ title: "Critical Periods For Language: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2023-08-23
 likes: 141
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/136047600/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/578d8b6d-6fbb-4a11-8adf-4605c1eab0d2_1400x804.jpeg
 original-url: https://www.astralcodexten.com/p/critical-periods-for-language-much
 ---
 Scott Young writes about [Seven Expert Opinions I Agree With That Most People Don’t](https://www.scotthyoung.com/blog/2023/08/08/expert-opinions/). I like most of them, but #6, **Children don’t learn languages faster than adults** , deserves a closer look.

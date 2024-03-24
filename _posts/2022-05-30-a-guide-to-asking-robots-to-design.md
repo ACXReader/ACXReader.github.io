@@ -3,6 +3,9 @@ title: "A Guide To Asking Robots To Design Stained Glass Windows"
 subtitle: "..."
 date: 2022-05-30
 likes: 231
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/57243633/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c97677e3-9c88-4c6c-85b2-93fc66788b54_323x239.png
 original-url: https://www.astralcodexten.com/p/a-guide-to-asking-robots-to-design
 ---
 I love stained glass. Not so much your usual suburban house stained glass with a picture of lilies. The good stuff. Cathedral windows, Art Nouveau, Art Deco. Why did we stop doing that? I blame [the conspiracy](https://astralcodexten.substack.com/p/whither-tartaria?s=w).
@@ -131,7 +134,7 @@ The knife-like razor was also used during medieval times, though probably not wi
 
 GilaWhamm might be some kind of demented spoonerism of “William Ockham”, though I think it would also be a good name for a shaving brand:
 
->  _Think BurmaShave’s / a pricy scam?  
+> _Think BurmaShave’s / a pricy scam?  
 >  Save on cash / With GilaWhamm!_
 
 But also, these stained glass windows are a very different style than some of the earlier ones. Compare Darwin’s finches with Occam’s razor:

@@ -2,10 +2,13 @@
 title: "The Mystery Of Internet Survey IQs"
 subtitle: "..."
 date: 2024-03-20
-likes: 12
+likes: 110
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/136151229/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2cfc82a-1d04-4b3a-9e6b-0ac0f213a00d_674x558.png
 original-url: https://www.astralcodexten.com/p/the-mystery-of-internet-survey-iqs
 ---
-I have data from two big Internet surveys, Less Wrong 2015 and Clearer Thinking 2023. Both asked questions about IQ:
+I have data from two big Internet surveys, [Less Wrong 2014](https://www.lesswrong.com/posts/YAkpzvjC768Jm2TYb/2014-survey-results) and [Clearer Thinking 2023](https://twitter.com/SpencrGreenberg/status/1681775113065070592). Both asked questions about IQ:
 
   * The average LessWronger reported their IQ as 138.
 
@@ -85,7 +88,7 @@ It looks like up to about 140, self-reported IQ and normed IQ rise together, and
 
 But this can’t be the whole problem. Notice that people who reported getting scores around 100 on previous IQ tests overwhelmingly got scores _less than_ 100 on this one.
 
-So are people just taking terrible Internet IQ tests that inflate their score about about 20 points?
+So are people just taking terrible Internet IQ tests that inflate their score about 20 points?
 
 The ClearerThinking sample didn’t ask people what IQ test they took, but the LessWrong sample did. It found approximately the same score from WAIS, WISC, Stanford-Binet, and Mensa - all of which were about 10 points above what you would predict from SAT scores.
 

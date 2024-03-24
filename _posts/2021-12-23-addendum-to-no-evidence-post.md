@@ -3,6 +3,9 @@ title: "Addendum To \"No Evidence\" Post"
 subtitle: "..."
 date: 2021-12-23
 likes: 87
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/45744837/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/34c327ae-7749-4f7e-bb2a-a3a8ccf1edf6_680x439.jpeg
 original-url: https://www.astralcodexten.com/p/addendum-to-no-evidence-post
 ---
 The day after I wrote [The Phrase “No Evidence” Is A Red Flag For Bad Science Communication](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag), FT published [this article](https://www.ft.com/content/020534b3-5a54-4517-9fd1-167a5db50786):

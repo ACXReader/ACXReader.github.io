@@ -3,6 +3,9 @@ title: "Here's Why Automaticity Is Real Actually"
 subtitle: "..."
 date: 2023-08-31
 likes: 273
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/136441865/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/e5279c5c-1a40-4d6d-8eac-d6a2f8581d89_722x406.jpeg
 original-url: https://www.astralcodexten.com/p/heres-why-automaticity-is-real-actually
 ---
 “Literal Banana” on Carcinization writes **[Against Automaticity](https://carcinisation.com/2023/08/22/against-automaticity/)** , which they describe as:
@@ -55,7 +58,7 @@ These aren’t minor points; prospect theory won Kahneman the Nobel Prize. When 
 
 Psychologists have been researching priming since the 1950s. Most forms of priming replicate just fine, but since nobody believes studies anymore, here are a few experiments you can try at home to see if they work on you:
 
- **1: Word Scrambles**
+**1: Word Scrambles**
 
 Quick, unscramble these as fast as you can!
 
@@ -100,13 +103,13 @@ Most people unscramble 6 as ANGEL and 7 as GOD, ignoring the more mundane words 
 
 Likewise, many people unscramble 10 as PURGATORY, even though there’s no U; fewer people get the correct answer (PREROGATORY). Although PURGATORY is a slightly (?) more common word than PREROGATORY, I propose very few people would make this mistake in a neutral (ie non-religious) word list; at worst they would say they couldn’t think of the answer.
 
- **2: The Stroop Effect** \- try to read the _color_ (not the text) of the each of the following words as fast as you can:
+**2: The Stroop Effect** \- try to read the _color_ (not the text) of the each of the following words as fast as you can:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe05e4f7-2e14-4c86-a877-b7458412fa35_1920x1186.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe05e4f7-2e14-4c86-a877-b7458412fa35_1920x1186.png)
 
 Most people find the first set easy, because the text is positively priming the color, and the second set hard, because the text is negatively priming the color.
 
- **3: The Implicit Association Test** \- there have been some good studies showing the IAT doesn’t really predict racism. But as far as I know, nobody has ever challenged its basic finding - that white people are faster and more accurate at learning white-good black-bad reflex-level category associations than vice versa. You can easily test this for yourself [here](https://implicit.harvard.edu/implicit/takeatest.html).
+**3: The Implicit Association Test** \- there have been some good studies showing the IAT doesn’t really predict racism. But as far as I know, nobody has ever challenged its basic finding - that white people are faster and more accurate at learning white-good black-bad reflex-level category associations than vice versa. You can easily test this for yourself [here](https://implicit.harvard.edu/implicit/takeatest.html).
 
 Hopefully these three exercises feel like I’m cheating - “This stuff is trivial and obvious! Surely it can’t be the dreaded _priming_ , scourge of all honest scientists!” But priming only ever claimed to be the observation that our interpretation of stimuli can be slowed down / altered by other stimuli or the broader context, which is obviously true (doubly so if you understand [predictive coding](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/)).
 

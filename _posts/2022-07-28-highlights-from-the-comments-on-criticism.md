@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Criticism Of Criticism Of Criticism"
 subtitle: "..."
 date: 2022-07-28
 likes: 66
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/65879375/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ba7f68b6-644c-438a-9048-5deabf5c6546_600x600.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-criticism
 ---
 **1:** I said in the original post that I wrote this because I knew someone would write the opposite article (that organizations accept specific criticism in order to fend off paradigmatic criticism), and then later Zvi did write an article kind of like that. He writes:
@@ -17,7 +20,7 @@ original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-c
 > 
 > Also note that you can (A) do the thing they're doing at the conference, (B) do the thing where you get into some holy war and start a fight or (C) you can actually question psychiatry in general (correctly or otherwise) but if you do that at the conference people will mostly look at you funny and find a way to ignore you.
 
- **2:** The anonymous original reviewer of _Anti-Politics Machine_ wrote:
+**2:** The anonymous original reviewer of _Anti-Politics Machine_ wrote:
 
 > I have a lot of thoughts on this that I do not have time to write up properly, but I do think you’re kind of missing the point of this kind of critique. “The Anti-Politics Machine” is standard reading in grad-level development economics (I’ve now had it assigned twice for courses) -- not because we all believe “development economics is bad” or “to figure out how to respond to the critiques” but because fighting poverty / disease is really hard and understanding ways people have failed in the past is necessary to avoid the same mistakes in the future. So we’re aware of the skulls, but it still takes active effort to avoid them and regularly people don’t. My review gave a handful of ideas to change systems based on this critique, but in a much more fundamental way these critiques shape and change the many individual choices it takes to run an EA or development-style intervention.
 > 
@@ -35,7 +38,7 @@ And added:
 
 I think all of this is fair and agree with all of it.
 
- **3:** A surprising amount of discussion focused around the perihelion of Mercury example in particular! For example, archpawn [writes](https://www.reddit.com/r/slatestarcodex/comments/w3cfoi/criticism_of_criticism_of_criticism/igviv3i/) (my emphasis):
+**3:** A surprising amount of discussion focused around the perihelion of Mercury example in particular! For example, archpawn [writes](https://www.reddit.com/r/slatestarcodex/comments/w3cfoi/criticism_of_criticism_of_criticism/igviv3i/) (my emphasis):
 
 > "It's insufficiently elegant" _was_ how Einstein figured out the true theory. "Its estimate for the precession of the orbit of Mercury is off by forty arc-seconds per century" is just how Einstein was able to convince other scientists. Of course, outside of math and physics, looking for elegance won't get you very far.
 
@@ -65,7 +68,7 @@ There was also some discussion of paradigms that seemed opposed at first getting
 > 
 > To a Neo-Darwinian, we don't think of Mendelism and Darwinism as competitors, but they clearly were at the time - Darwin said traits had continuous variation around the traits of the parents, so that small differences can accumulate; Mendel said traits had binary variation, so that the only differences possible were those already in the gene pool. Once we understood that most traits were controlled by many genes, and that there are rare mutations in any, we were able to synthesize these.
 
- **4:** Kronopath [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7853217):
+**4:** Kronopath [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7853217):
 
 > If your point is that specific, well-researched criticism is harder than general, paradigmatic criticism, I agree. I think that's why you tend to see more of the latter, though much of it is low-quality.
 > 
@@ -89,7 +92,7 @@ I don’t think a pastor who asked for criticism/suggestions/advice about basic 
 
 So maybe my thoughts on the actual EA criticism contest are something like “I haven’t checked exactly what things they do or don’t want criticism of, but I’m prepared to be basically fine if they want criticism of some stuff but not others”.
 
- **5:** Yuliaverse (writes [Yuliaverse](https://yuliaverse.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7853655):
+**5:** Yuliaverse (writes [Yuliaverse](https://yuliaverse.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7853655):
 
 > So far, I've assumed that many EA-aligned people welcome criticism because of a culture of (performative) openmindedness. I think the point this essay makes is better, though.
 > 
@@ -103,7 +106,7 @@ I think some organizations are actually just good, and genuinely solicit critici
 
 (this isn’t to say they will necessarily agree with anyone else’s assessment, any more than the pastor is required to agree that there is no God).
 
- **6:** Remmelt, who wrote the criticism post I called too paradigmatic in the original essay, [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7920736):
+**6:** Remmelt, who wrote the criticism post I called too paradigmatic in the original essay, [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7920736):
 
 > Actually, [that post] was an attempt at clarifying common attentional/perception blindspots I had mapped out for groups in the community over the preceding two years. Part of that was illustrating how Glen Weyl might be thinking differently than thought leaders in the community.
 > 
@@ -123,7 +126,7 @@ I think some organizations are actually just good, and genuinely solicit critici
 > 
 > Note also that I had not had a conversation with Glen when I wrote the post. In our first call, Glen said that the post roughly resonated for him (my paraphrase), but that he also thought it overlooked how like EA/rationality concepts. Eg. he said that Hindu religious conceptions can also be very far in psychological distance and abstraction, meaning there is diversity of human culture and thought that the blindspots post did not represent much.
 
- **7:** Alex [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7861192):
+**7:** Alex [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7861192):
 
 > I feel like the example of paradigmatic criticism given in the article about how do we know we know reality is real or that capitalism is good is a bit of a straw man. I've always thought paradigmatic criticism of EA work was more more points like:
 > 
@@ -147,7 +150,7 @@ I agree that to some degree these are good paradigmatic criticisms.
 
 One thing I get out of this is that all of these have been discussed a zillion times before, and if you still support EA it’s because you disagree with them for some reason or have some argument against them. Maybe one advantage of specific vs. broad criticism is that specific criticisms are more likely to be new, simply because there are so many details you can criticize? Or that they’re more likely to get debated rather than just create in-the-movement vs. out-of-the-movement fault lines, since you can’t schism your movement over every tiny detail?
 
- **8:** Matthew Carlin [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7867730):
+**8:** Matthew Carlin [writes](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism/comment/7867730):
 
 > I am not and have never been a Ba'hai, but it's worth sharing two elements of the Ba'hai faith. Note that these are ideals, not necessarily practiced by the average adherent.
 > 

@@ -3,13 +3,16 @@ title: "Predictions For 2022"
 subtitle: "Plus a contest where you try to beat me"
 date: 2022-02-01
 likes: 42
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/47551031/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4f24ecb7-36d0-4c6b-b0c9-c748c6de499d_1244x750.png
 original-url: https://www.astralcodexten.com/p/predictions-for-2022-contest
 ---
 _I didn’t let myself check prediction markets when making these forecasts since that would spoil the fun. I also only permitted myself at most five minutes of research on any one question._
 
- _ **See the bottom of the post for a contest/survey.**_
+_**See the bottom of the post for a contest/survey.**_
 
- **US/WORLD  
+**US/WORLD  
 ** 1\. Biden approval rating (as per 538) is greater than fifty percent: 40%  
 2\. At least $250 million in damage from a single round of mass protests in US: 10%  
 3\. PredictIt thinks Joe Biden is most likely 2024 Dem nominee: 80%  
@@ -21,7 +24,7 @@ _I didn’t let myself check prediction markets when making these forecasts sinc
 9\. Honduran ZEDEs legally crippled to the point where no reasonable person would invest in them further: 5%  
 10\. New ZEDE approved in Honduras: 30%
 
- **ECON/TECH**  
+**ECON/TECH**  
 11\. Gamestop stock price still above $100: 30%  
 12\. Bitcoin above 100K: 20%  
 13\. Ethereum above 5K: 20%  
@@ -34,7 +37,7 @@ _I didn’t let myself check prediction markets when making these forecasts sinc
 20\. Google widely allows remote work, no questions asked: 50%  
 21\. Starship reaches orbit: 90%
 
- **COVID**  
+**COVID**  
 22\. Fewer than 10K daily average official COVID cases in US in December 2022: 20%  
 23\. Fewer than 50K daily average COVID cases worldwide in December 2022: 1%  
 24\. >66% US population fully vaccinated (by current standards) against COVID: 70%  
@@ -47,7 +50,7 @@ _I didn’t let myself check prediction markets when making these forecasts sinc
 31\. CDC recommends that triple-vaxxed people get at least one more vax: 70%  
 32\. China has fewer than 100,000 COVID cases this year (official estimate): 30%
 
- **COMMUNITY**  
+**COMMUNITY**  
 33\. [redacted]: 80%  
 34\. No new (non-baby) residents at our housing cluster: 80%  
 35\. No current residents leave our housing cluster: 80%  
@@ -66,7 +69,7 @@ _I didn’t let myself check prediction markets when making these forecasts sinc
 48\. [friend] gets engaged: 40%  
 49\. [friend] takes on additional medical work beyond his job for the Board: 50%
 
- **PERSONAL**  
+**PERSONAL**  
 50\. I have a child: 20%  
 51\. I still live in my current house: 95%  
 52\. I’ve broken up with someone I’m seriously dating: 5%  
@@ -87,7 +90,7 @@ _I didn’t let myself check prediction markets when making these forecasts sinc
 67\. [redacted]: 70%  
 68\. [redacted]: 20%
 
- **WORK**  
+**WORK**  
 69\. Lorien has 150+ patients: 40%  
 70\. 200+ patients: 10%  
 71\. I write at least five more Lorien pages: 40%  
@@ -97,7 +100,7 @@ _I didn’t let myself check prediction markets when making these forecasts sinc
 75\. I have changed my pricing scheme: 20%  
 76\. I make a time-off coverage agreement with someone
 
- **BLOG**  
+**BLOG**  
 77\. ACX is making more than $400K: 80%   
 78\. ...more than $500K: 50%  
 79\. ...more than $600K: 30%  
@@ -110,16 +113,16 @@ _I didn’t let myself check prediction markets when making these forecasts sinc
 86\. I add at least two more dictators to the Book Club: 80%  
 87\. I’m still the top-ranked blog in Substack’s “Science” category: 70%
 
- **PREDICTION MARKETS**  
+**PREDICTION MARKETS**  
 88\. No new real-money prediction market becomes bigger than Polymarket: 70%  
 89\. Manifold Markets is still alive and active: 30%  
 90\. New legal US real-money prediction market at least half as big as Kalshi: 5%  
 91\. New illegal but easy-to-use market satisfying the above: 20%  
 92\. I post my scores on these predictions before 2/1/23: 80%
 
- _These next two sections are based on Vox’s[22 Predictions For 2022](https://www.vox.com/future-perfect/22824620/predicting-midterms-covid-roe-wade-oscars-2022) and and Matt Yglesias’ predictions in his [Predictions Are Hard](https://www.slowboring.com/p/predictions-are-hard) post. In both cases, inspired by Zvi, I’ve given the original predictor’s estimate, then either stuck with it, or bought/sold to some other level. This is kind of unfair, because I get to see the original predictor’s thoughts and they don’t get to see mine - also, I’m a few weeks later than they are, and in a few cases that gives me extra knowledge. So:_
+_These next two sections are based on Vox’s[22 Predictions For 2022](https://www.vox.com/future-perfect/22824620/predicting-midterms-covid-roe-wade-oscars-2022) and and Matt Yglesias’ predictions in his [Predictions Are Hard](https://www.slowboring.com/p/predictions-are-hard) post. In both cases, inspired by Zvi, I’ve given the original predictor’s estimate, then either stuck with it, or bought/sold to some other level. This is kind of unfair, because I get to see the original predictor’s thoughts and they don’t get to see mine - also, I’m a few weeks later than they are, and in a few cases that gives me extra knowledge. So:_
 
- **VOX PREDICTIONS**  
+**VOX PREDICTIONS**  
 1\. Democrats will lose their majorities in the House and Senate (95%): SELL TO 90%  
 2\. Inflation in the US will average under three percent (80%): HOLD  
 3\. Unemployment in the US will fall below four percent by November (80%): SELL to 60% if they mean _in_ November, otherwise hold  
@@ -145,7 +148,7 @@ _I didn’t let myself check prediction markets when making these forecasts sinc
 
  _While I agree things don’t look good for the Democrats, 95% chance they lose both houses of Congress implies 97.5% chance of losing each house, which seems too high. I’m smashing the BUY button as hard as I can on “at least one country will fail to get to 10% vaccination rate” - there are a lot of countries, and as far as I know North Korea is refusing all vaccines out of general evilness. Although I’m not supposed to check betting markets, Dylan writes that he checked the betting markets for the Academy Awards, saw a 30% chance that Belfast would win, but he thinks the number is more like 55%. I know nothing about movies, but where markets and a puny mortal disagree I’ll go with the market. I’ve rated a few options N/A because they’ve already resolved or had big updates since Vox made their predictions._
 
- **YGLESIAS PREDICTIONS**  
+**YGLESIAS PREDICTIONS**  
 1\. Democrats lose both houses of Congress (90%) HOLD  
 2\. Democrats lose at least two Senate seats (80%) HOLD  
 3\. Democrats lose fewer than six Senate seats (80%) HOLD  

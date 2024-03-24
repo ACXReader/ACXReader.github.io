@@ -3,22 +3,25 @@ title: "Highlights From The Comments On Social Model Of Disability"
 subtitle: "..."
 date: 2023-07-25
 likes: 74
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/135367481/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/29f2276f-aa75-42c1-b687-a5dd39dbb919_320x213.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-social
 ---
 _[original post:[Contra The Social Model Of Disability](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability)]_
 
 ## Table Of Contents
 
- **1:** Comments Defending The Social Model **  
-2:** Comments About The Social Model Being Used (Or Not) In Real Life **  
-3:** Other Comments **  
+**1:** Comments Defending The Social Model**  
+2:** Comments About The Social Model Being Used (Or Not) In Real Life**  
+3:** Other Comments**  
 4:** Summary / What I Learned
 
 ## 1: Comments Defending The Social Model
 
 I argued against the Social Model, and most commenters agreed with me. Some agreed with me too much, arguing that nobody really means it, or that it’s not worth my time to challenge it. In their honor, I want to focus this Highlights post on the comments trying to defend the model, either fully or in part.
 
- **CleverBeast[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18658655):**
+**CleverBeast[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18658655):**
 
 > I’ll partially defend the social model of disability.
 > 
@@ -52,7 +55,7 @@ I argued against the Social Model, and most commenters agreed with me. Some agre
 
 You can see my response and a short debate [here](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18658957).
 
- **MugaSofer[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20846464):**
+**MugaSofer[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20846464):**
 
 > I think the Biopsychosocial Model might be missing the factor of ... minority-ness.
 > 
@@ -68,7 +71,7 @@ You can see my response and a short debate [here](https://astralcodexten.substac
 > 
 > (Some disabilities would outright make a society where they're possessed by the supermajority impossible - quadropalegia, extreme schizophrenia, perhaps. Others might not offer much disadvantage to those without them if they were the minority, e.g. I think people who can walk would do fine in a society of wheelchair users, and "in the land of the blind, the one-eyed man is king" is probably correct.)
 
- **ne.hh ([blog](https://lightedroom.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18656721):**
+**ne.hh ([blog](https://lightedroom.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18656721):**
 
 > overall point taken, but i do think the more salient/useful feature of the social model is that its theory of social causation intuitively produces a sense of social responsibility. does it matter necessarily if society "caused" the disability if the larger motivation is to promote social action? whether the approach is infrastructural or medical in nature, either way the responsibility to accommodate falls on society's shoulders at large. i think the social model's recognition of this necessity still advantages it over the biopsychosocial model […]
 > 
@@ -76,7 +79,7 @@ You can see my response and a short debate [here](https://astralcodexten.substac
 
 I asked what differentiates this perspective from a more general end-justifies-the-means defense of false propaganda; you can see ne.hh’s response (and many other people debating the point) in [the thread below here](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18657409) and [another subthread here](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18659275).
 
- **organoid[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18657442):**
+**organoid[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18657442):**
 
 > Like a lot of my woke beliefs that irritate rationalists (standpoint epistemology, systemic explanations for racial disparities, etc), I think an important and easily-missed feature of this discourse is that whether we admit it or not, most adherents of the social model treat it "seriously but not literally"—specifically, as a moderately strong prior rather than a brittle, irrational foregone conclusion.
 > 
@@ -86,7 +89,7 @@ I asked what differentiates this perspective from a more general end-justifies-t
 
 When I wrote that I basically agreed with all of this but didn’t like hanging it on a theory which wasn’t literally true, organoid said that “Personally, while I'm not a full-on continental philosophy fan I do think there's a time and place for saying things that are obviously not literally true on reflection, as provocative correctives to a complacent status quo.” I asked whether this was really what continental philosophers were doing, which turned into [this interesting subthread](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18658092).
 
- **Allan Smith[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20828354):**
+**Allan Smith[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20828354):**
 
 > So, I agree with you for the most part, but I think you missed a crucial part of the history of the Social Model that really should be mentioned (to cover off, I prefer pluralist/intersectional models mysel and would prefer that be the default hands down).
 > 
@@ -108,7 +111,7 @@ When I wrote that I basically agreed with all of this but didn’t like hanging 
 
 I appreciate this explanation, but I hope I’m not being too hostile by summarizing it as “Yes, it may be false, but people are promoting the false thing for propaganda purposes.” _How is that an extenuating factor?_
 
- **Sarah Constantin ([blog](https://sarahconstantin.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/21090509):**
+**Sarah Constantin ([blog](https://sarahconstantin.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/21090509):**
 
 > I found Unspeakable Conversations, by Harriet McBryde Johnson, useful for getting insight on the Social Model from the perspective of one of its advocates. <https://www.nytimes.com/2003/02/16/magazine/unspeakable-conversations.html>
 > 
@@ -124,7 +127,7 @@ I appreciate this explanation, but I hope I’m not being too hostile by summari
 > 
 > An impairment is also only a cause of *socially recognized* dysfunction if society considers it sub-normal. If all people used wheelchairs, there would be no valued professions (like admirals) from which wheelchair users were excluded. We'd either have wheelchair-using admirals or no admirals, tautologically.
 
- **HalfRadish[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20157992):**
+**HalfRadish[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20157992):**
 
 > Deep down I can see that the Social Model of Disability isn't really relevant to the world of natural human relationships, where common sense applies. Rather, it's the sort of thing that results from the world of modern bureaucracy, where individuals are subject to the agents of vast interconnected institutions, whose actions are the result of policies set by obscure processes involving negotiations between countless levels and arms of authority, and in which any individual actor is incentivized more than anything to cover their own ass.
 > 
@@ -142,7 +145,7 @@ I appreciate this explanation, but I hope I’m not being too hostile by summari
 > 
 > I agree with you that 1) this dichotomy is outdated and doesn't correspond to modern beliefs very well and 2) that we could stand to be less skeptical of medical interventions that do work, especially with regards to mental health. Nevertheless, I think there are circumstances where the parable of the social model versus the medical model is incredibly valuable. Specifically, the circumstance when someone suggests the most humane medical intervention for a disability is to sterilize the affected population to prevent them from perpetuating their inadequacy.
 
- **KTGeorge[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18685385):**
+**KTGeorge[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18685385):**
 
 > I think you are slightly misunderstanding the LITERAL interpretation of social model.
 > 
@@ -156,7 +159,7 @@ I appreciate this explanation, but I hope I’m not being too hostile by summari
 > 
 > Also you bring up the example of a blind person being disadvantaged on a desert island, but it’s not like there aren’t natural environments where blindness is advantaged, hence why blindness has evolved more times than sightedness has (though blindness is easier to evolve than sightedness)
 
- **Sara Tasker ([blog](https://meandorla.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) writes:**
+**Sara Tasker ([blog](https://meandorla.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) writes:**
 
 > I didn’t ever understand this until I became disabled myself. I had to leave my clinical NHS job because I was unable to work a conventional job - 9-5, office-based, with a commute. This was pre-pandemic and there were few alternative options. My employer (understandably) told me they could not accommodate my level of disability that meant I would need shorter days and time spent lying down. Nobody could. I was facing a lifelong dependency on disability benefits.
 > 
@@ -219,7 +222,7 @@ Several people questioned whether anyone uses this model in real life; here were
 > 
 > The most extreme example I can think of is a social worker I know vociferously arguing that someone's tendency towards physical aggression towards roommates was just a "different way of being" that we needed to find better ways to accommodate rather than seek to modify. Given that offering plans for behavior modification was my role on the support team, this put us at opposed positions, and it became necessary for me to find professional and sophisticated ways of saying, "What the hell?" in emails.
 
- **Alan Smith ([blog](https://psyvacy.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20999515):**
+**Alan Smith ([blog](https://psyvacy.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20999515):**
 
 > Without going into details, I have two examples.
 > 
@@ -229,7 +232,7 @@ Several people questioned whether anyone uses this model in real life; here were
 > 
 > That isn't direct, concrete consequences, but if both average people are being taught this stuff, and academics are actively swallowing/repeating it, that seems plausible to lead to said consequences?
 
- **murphy[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18689207):**
+**murphy[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18689207):**
 
 > there's a chunk of the deaf community who very much hold that the social model is right and are (literally) violently opposed to things like other deaf people getting cochlear implants and see it as a kind of betrayal of the community combined with steps towards society forcing all deaf people to get implants instead of providing services like translations, interpreters etc
 > 
@@ -237,11 +240,11 @@ Several people questioned whether anyone uses this model in real life; here were
 
 The deaf community is certainly a good example of disabled people having opinions that abled people find strange and even abhorrent, but I don’t know how much to blame the Social Model - my impression is they were like this before the Social Model was invented. I agree the Social Model makes things like this easier to defend. Beowulf888 talks more about the deaf community’s perspective [here](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/19555794).
 
- **Pride Jia ([blog](https://pridejia.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18713646):**
+**Pride Jia ([blog](https://pridejia.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18713646):**
 
 > I was taught the social model in a disabilities studies class that I took last fall semester in college. I'm not sure how it is taught in other courses/activist groups but I remember that it was largely used to critique capitalism and the emphasis on productivity and labor. The idea was that if it wasn't for society's unhealthy emphasis for production and labor, there would be no such thing as disability, as disabled only meant so in the context of being less productive. I think the social model serves as one of the intuitive and easy ways to support current negative attitudes on capitalism in college campuses.
 
- **Anonymous[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20841006):**
+**Anonymous[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20841006):**
 
 > In the article linked below, student activists explain how they learned to use the “social model” to force university administrators to give in to their demands on campus. When asking nicely didn’t work, accusing the administrators of prejudice akin to racial prejudice helped them force administrators to give in. The students also call it the “minority model” in which they “reframe…disabled people as an oppressed minority.” <https://library.osu.edu/ojs/index.php/dsq/article/view/4253/3593>
 
@@ -259,7 +262,7 @@ The deaf community is certainly a good example of disabled people having opinion
 
 I had suggested “biopsychosocial model” as a bucket for the standard interactionist model that makes the most sense and everyone seems likely to converge on. But other people have gotten there first and are using it in bad ways:
 
- **Michelle Taylor[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18656486):**
+**Michelle Taylor[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18656486):**
 
 > The biopsychosocial model has a bad reputation in disability activism circles because it is regularly used to tell disabled people that their problems are all their own fault and should be fixed with the power of positive thinking rather than, say, painkillers, or that all disabled people could work if they tried hard and believed in themselves. Especially in the UK where the phrase has been used extensively by the DWP to deny a lot of people disability benefits on the grounds that their impairments are theoretically within their gift to overcome.
 > 
@@ -269,7 +272,7 @@ I had suggested “biopsychosocial model” as a bucket for the standard interac
 
 I thought the big difference between the Biopsychosocial Model and the Social Model was that it included biological treatments (like medicine). But it sounds like some people in the field of chronic pain have focused on the “psycho-” part and are using it to insist on therapy and _prevent_ people from getting their chronic pain medications.
 
- **Harold Wilson[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20893709):**
+**Harold Wilson[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20893709):**
 
 > After an admittedly brief internet skim of the topic, a somewhat notable absence from this post may be Mike Oliver, who seems to have to coined the term 'social model' and whose work, Wikipedia tells me at least, so make of this what you will, was 'widely cited as a major moment in the adoption of this model', and a 1990 paper of his on the topic paints a fairly different picture to the one you offer us from Mr Finkelstein (he does credit UPIAS's ideas for forming the basis of the model, but seems to have engaged in a bit of sanewashing).
 > 
@@ -297,7 +300,7 @@ I thought the big difference between the Biopsychosocial Model and the Social Mo
 
 Thanks. I had looked up the history of the Social Model and gotten the alternate origin story from Finkelstein, but I agree Oliver’s framing makes more sense.
 
- **Steve Sailer[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18683981):**
+**Steve Sailer[writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18683981):**
 
 > Left-handedness was much discriminated against in the past. For example, Ronald Reagan was a natural lefty who was brought up to write righthanded. But then discrimination against left-handers greatly declined in the US. I wouldn't be surprised if the immense popularity of lefthanded baseball heroes like Ty Cobb and Babe Ruth changed American attitudes. For example, in the 1992 Presidential debate, all three candidates (Clinton, Bush, and Perot) took notes lefthanded.
 > 
@@ -307,19 +310,19 @@ Thanks. I had looked up the history of the Social Model and gotten the alternate
 
 I hadn’t thought about the first part of this and it’s really interesting! This does seem to be a “civil rights victory” that we’ve almost forgotten about and have no interest in pursuing further. I suppose the boring real explanation is that left-handers were never _that_ discriminated again and there’s no left-hander genocide or anything to memorialize.
 
- **Some people tried calculating the cost of a literal wheelchair ramp up Everest, for example[_demost here](https://substack.com/profile/25950688-demost_):**
+**Some people tried calculating the cost of a literal wheelchair ramp up Everest, for example[_demost here](https://substack.com/profile/25950688-demost_):**
 
 > The Karakorum highway of 800km goes up to 4.7km and costs 10 billions. Let's say the Mount Everest Wheelchair Lane needs to cover 4km altitude at a 1:12 ratio, that's roughly 50km, so a factor of 20 shorter. The altitude will make construction a lot more ambitious, but the MEWL can be much smaller than a highway, which cancels some of the difficulty. My very wild guess would be that it ends up at most twice as expensive per km, which brings us to 1 billion in total. Perhaps even less.
 > 
 > Not so expensive after all. Though the cost for snow clearance will be a nightmare. Much easier and cheaper to build a tunnel+elevator.
 
- **Lapsed Pacifist has[a more all-things-considered estimate](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20815077):**
+**Lapsed Pacifist has[a more all-things-considered estimate](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/20815077):**
 
 > Transportation costs will be much much higher, as there are few improved roads that even get close to your starting point. There is no open ground to base your road on, you have to defrost the whole thing as you go, I guess, and keep it open while you build. As you remove the snow and ice, the soil will rebound and need to be constantly stabilized. You have a very small time window every year to work in, so you need to start and stop building over a period of years, with repairs to your existing structure and whatever routes your are using to transport all your materials. BTW, these routes will mostly be built brand new for this project because they don't exist now, and they will need to be of a large size to bear the weight of all your equipment. You will need to house all your workers, providing every need since Everest is so far from any city capable of providing these needs. You need to buy the land from Nepal, or the official landowners. Since Everest is something of a natural attraction, and you are forever despoiling it, I imagine that will be costly. The final tens of kilometers will be at extremely high altitude, you will need special engines for all your construction equipment, which will probably have to be specially designed and built, making them probably an order of magnitude more expensive.
 > 
 > This is just of the top of my head. 1 Trillion sounds about right.
 
- **Peter Gerdes ([blog](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18657335)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18657335):**
+**Peter Gerdes ([blog](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18657335)) [writes](https://astralcodexten.substack.com/p/contra-the-social-model-of-disability/comment/18657335):**
 
 > I've long wondered if it wouldn't make more sense to simply offer some disabled individuals large sums of cash rather than ask people constructing buildings etc to accommodate them. Obviously wouldn't make sense for the common easy to accommodate cases and it would have to be enough to account for the harms resulting from potential lack of community/etc but at the very least it seems to me that we should ask the disabled if they'd prefer yearly/lump sum cash payments whose NPV is less than the NPV cost of accomodations.
 > 

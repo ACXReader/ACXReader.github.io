@@ -3,13 +3,16 @@ title: "Highlights From The Comments On Columbus Day"
 subtitle: "..."
 date: 2022-10-10
 likes: 60
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/77117609/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/313fef30-9124-41fa-9bba-fb4613c4c374_504x331.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-columbus
 ---
 [Original post: [A Columbian Exchange](https://astralcodexten.substack.com/p/a-columbian-exchange)]
 
- **1:** The most popular comments were those objecting to my paragraph about holidays replacing older holidays:
+**1:** The most popular comments were those objecting to my paragraph about holidays replacing older holidays:
 
->  _All of our best holidays have begun as anti-holidays to neutralize older rites. Jesus was born in the spring; they moved Christmas to December to neutralize the pagan Solstice celebration. Easter got its name because it neutralized the rites of the spring goddess Eostre. Hanukkah was originally a minor celebration of a third-tier Bible story; American Jews bumped it up several notches of importance in order to neutralize Christmas._
+> _All of our best holidays have begun as anti-holidays to neutralize older rites. Jesus was born in the spring; they moved Christmas to December to neutralize the pagan Solstice celebration. Easter got its name because it neutralized the rites of the spring goddess Eostre. Hanukkah was originally a minor celebration of a third-tier Bible story; American Jews bumped it up several notches of importance in order to neutralize Christmas._
 
 Starting with Christmas, Retsam [says ](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9564693)that there are three main theories - Adraste’s plus two others:
 
@@ -65,7 +68,7 @@ But also, use common sense. US celebrations of Hanukkah are centered around gift
 
 * * *
 
- **2:** Other people objected that I was wrong to say Columbus was an evil genocidal slaver. Vizcacha [writes](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9555487):
+**2:** Other people objected that I was wrong to say Columbus was an evil genocidal slaver. Vizcacha [writes](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9555487):
 
 > A, B, and C seem to accept as a given that Columbus was a horrible, vicious person. This may be the case, but nearly all of the horrible things he supposedly did were reported by a single source, a Spaniard named Francisco de Bobadilla who was sent (in 1499) to evaluate how things were going. Most of his negative information was supplied by enemies of Columbus. Needless to say, there is a great deal of back and forth controversy about the truth of Bobadilla's assertions.
 > 
@@ -99,7 +102,7 @@ Of course, there’s the broader issue - whatever Columbus did or didn’t do hi
 
 * * *
 
- **3:** The _third_ big controversy in the comments was whether Santa Claus was justified in punching Arius.
+**3:** The _third_ big controversy in the comments was whether Santa Claus was justified in punching Arius.
 
 First things first - this story is probably fake. The first reference to St. Nicholas hitting someone at a council was a thousand years after his death. The story says he lightly slapped (rather than punched) an Arian heretic (rather than Arius himself). So this false-to-begin-with tale grew in the telling - but we’re talking holiday myths, so fine, let’s say Santa Claus punched Arius. Valjean [writes](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9555659):
 
@@ -141,7 +144,7 @@ Deiseach inevitably continues with a Chesterton quote:
 
 * * *
 
- **4:**[LHN](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9551919) on whether anyone actually cares about Columbus Day:
+**4:**[LHN](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9551919) on whether anyone actually cares about Columbus Day:
 
 > The size of Chicago’s Columbus Day parade and the continuing efforts to have the Columbus statue (removed in 2020) returned to its place of honor point to “Yes” on the sentiment question, at least for an influential community here.
 > 
@@ -159,9 +162,9 @@ Who knows? Maybe this is all just extreme commitment to the bit!
 
 * * *
 
- **5:** Evariste [writes](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9553100):
+**5:** Evariste [writes](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9553100):
 
->  _> suppose we were to replace Christmas with another holiday that tested equally well in focus groups. It had just as much potential for holiday specials, provided just as much of an excuse to get together with family, even had delightful mythological characters who, starting ex nihilo, would have just as much appeal as Santa. Would you feel like something had been lost?_
+> _> suppose we were to replace Christmas with another holiday that tested equally well in focus groups. It had just as much potential for holiday specials, provided just as much of an excuse to get together with family, even had delightful mythological characters who, starting ex nihilo, would have just as much appeal as Santa. Would you feel like something had been lost?_
 > 
 > I have had weird feelings reading this. I am from Russia, and this precisely what has happened here (without focus groups though). In soviet era, Christmas was banned as too religious, and replaced with New Year celebrations (in the night from 31st of December to the 1st of January), which are as massive a holiday as Christmas is in the US. For New Year, families come together, decorate a spruce tree (which is called a New Year Tree rather than a Christmas Tree), and give each other presents which are supposedly distributed by Grandfather Frost, who is totally not Santa Claus despite being an old jolly bearded guy giving the presents. (He has evolved from the East Slavic mythology rather Cristianity, so while he was briefly banned, the soviet government was much less strict about that, as, in accordance with the post, they feared Pagan opposition much less than Christian opposition). And Christmas in Russia is mostly celebrated by people who are indeed religious.
 > 
@@ -177,7 +180,7 @@ When I lived in Ireland I was creeped out by things like the May Bank Holiday. I
 
 * * *
 
- **6:** Chlopodo [writes](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9585316):
+**6:** Chlopodo [writes](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9585316):
 
 > Nobody cares about *Columbus* for the sake of Columbus. I find the vilification of him every bit as annoying as the exaltation of him, since it always comes from people who clearly have no genuine interest in the history of the age of exploration, the conquest of the Antilles, or the Caribbean indigenes.
 > 
@@ -189,7 +192,7 @@ I have never been able to find a good online version of the _Book of Prophecies_
 
 * * *
 
- **7:**[Red Barchetta](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9562993):
+**7:**[Red Barchetta](https://astralcodexten.substack.com/p/a-columbian-exchange/comment/9562993):
 
 > I haven't read the comments yet, but why must some authority "set" holidays in the first place? The best and most enduring holidays rise up organically from the culture and are simply formally observed by a government. I think this dialogue mixes what are really two types of holidays.
 
@@ -201,7 +204,7 @@ My best counterexample is 9-11, which seems to have semi-organically become a na
 
 * * *
 
- **8:** Albatross11 [writes](https://www.datasecretslox.com/index.php/topic,7792.msg308827.html#msg308827):
+**8:** Albatross11 [writes](https://www.datasecretslox.com/index.php/topic,7792.msg308827.html#msg308827):
 
 > In practice, I'm glad Columbus showed up in America, because that led to my civilization existing and my nation existing and me existing, and I think all three of these are good things. 
 
@@ -211,7 +214,7 @@ A possible counterexample: my family descends from various Jews who emigrated fr
 
 * * *
 
- **9:** BBA on the Discord writes **:**
+**9:** BBA on the Discord writes**:**
 
 > Many countries have some kind of holiday on October 12 but the US is the only one to call it "Columbus Day" in most of Latin America it's Dia de la Raza, celebrating the undeniable fact that Hispanics literally would not exist if not for October 12, 1492
 

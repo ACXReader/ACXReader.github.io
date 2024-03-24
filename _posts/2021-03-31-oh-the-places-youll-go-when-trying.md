@@ -3,6 +3,9 @@ title: "Oh, The Places You'll Go When Trying To Figure Out The Right Dose Of Esc
 subtitle: "How high can you dose Lexapro before you stop getting extra benefit? And why is this such a hard question?"
 date: 2021-03-31
 likes: 74
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34574897/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4cf54939-1c3c-4fda-87ee-d3cf64464b76_997x639.jpeg
 original-url: https://www.astralcodexten.com/p/oh-the-places-youll-go-when-trying
 ---
 **I.**
@@ -25,7 +28,7 @@ Now that we know the heart risk was overblown, should we increase the maximum do
 
 But if we're kind of under-dosing it, why should it work so well?
 
- **II.**
+**II.**
 
 The first reason Lexapro might work so well despite its low dose is that we’re prescribing too-high doses of every other SSRI for no reason.
 
@@ -53,7 +56,7 @@ Do studies back this concern up? Sort of. We have [Frequency Of Positive Studies
 
 I think the conclusion I draw from all of this is that it's _possible_ that high dose antidepressants are no better than low-to-medium dose, but that this hasn't been proven completely to my satisfaction.
 
- **III.**
+**III.**
 
 The second reason Lexapro might work so well despite its low dose is that it's just better than other antidepressants. So good that even a little bit of Lexapro is as good as a lot of something else. This is the position suggested by [Sanchez, Reines, and Montgomery (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4047306/).
 
@@ -67,7 +70,7 @@ Sanchez, Reines, and Montgomery are so excited by this that they are willing to 
 
 This is pretty cool and could potentially explain why Lexapro seems to work a bit better than other antidepressants. But I don't want to fall for it too quickly. Attempts to map the exact degree of serotonin increase to antidepressant effectiveness are fraught; vilazodone ("Viibryd") [seems to increase serotonin a lot more](https://slatestarcodex.com/2020/06/15/the-vision-of-vilazodone-and-vortioxetine/) than any traditional SSRI, but doesn't work any better. It's all pretty mysterious. But maybe Viibryd increases serotonin in a mysteriously-bad way and Lexapro increases serotonin in a mysteriously-good way.
 
- **IV.**
+**IV.**
 
 So that could explain why Lexapro works so well. If psychiatrists prescribed it at the same high doses as other antidepressants would it work even better?
 

@@ -3,6 +3,9 @@ title: "The Canal Papers"
 subtitle: "..."
 date: 2023-06-14
 likes: 207
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/123664324/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/7f4b75e3-ea54-407e-805d-da12a56385a8_1080x605.jpeg
 original-url: https://www.astralcodexten.com/p/the-canal-papers
 ---
 ## The First Canal Paper
@@ -13,7 +16,7 @@ A quick review: you can model the brain as an energy landscape . . .
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5688830a-2ebd-4f89-aa76-857e744248cd_637x298.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5688830a-2ebd-4f89-aa76-857e744248cd_637x298.png)
 
-. . . with various peaks and valleys in some multidimensional space[1](/p/the-canal-papers#footnote-1-123664324). Situations and stimuli plant “you” at some point on the landscape, and then you “roll down” towards some local minimum. If you’re the sort of person who repeats “I hate myself, I hate myself” in a lot of different situations, then you can think of the action of saying “I hate myself” as an _attractor_ \- a particularly steep, deep valley which it’s easy to fall into and hard to get out of. Many situations are close to the slopes of the “I hate myself” valley, so it’s easy to roll down and get caught there.
+. . . with various peaks and valleys in some multidimensional space[^1]. Situations and stimuli plant “you” at some point on the landscape, and then you “roll down” towards some local minimum. If you’re the sort of person who repeats “I hate myself, I hate myself” in a lot of different situations, then you can think of the action of saying “I hate myself” as an _attractor_ \- a particularly steep, deep valley which it’s easy to fall into and hard to get out of. Many situations are close to the slopes of the “I hate myself” valley, so it’s easy to roll down and get caught there.
 
 What are examples of valleys other than saying “I hate myself”? The authors suggest habits. If you always make the sign of the cross when passing a graveyard, there’s a steep slope from the situation of passing a graveyard to the action of signing the cross. We can be even broader: something really basic like edge-detection in the visual system is a valley. When you see a scene, you almost always want to automatically do edge-detection on it. Walking normally is a valley; there’s a certain correct sequence of muscle movements, and you don’t want to start rotating your ligaments in some weird direction halfway through. 
 
@@ -85,9 +88,9 @@ Let’s go back to our original energy landscape:
 
 This time I’ve added a ball as a sort of “cursor” representing the current position of “the train of thought” or “the self”. We can distinguish between two types of change.
 
- **The first type** is change in the position of the ball. This corresponds to your everyday life. Sometimes you are thinking about some topics; other times about other topics.
+**The first type** is change in the position of the ball. This corresponds to your everyday life. Sometimes you are thinking about some topics; other times about other topics.
 
- **The second type** is change in the energy landscape itself. New mountains rise from the plain; new canyons are cut into its depths. Or maybe there is global “erosion” and everything becomes flat again. This corresponds to personality change, personal growth, or (on a temporary basis) using research chemicals.
+**The second type** is change in the energy landscape itself. New mountains rise from the plain; new canyons are cut into its depths. Or maybe there is global “erosion” and everything becomes flat again. This corresponds to personality change, personal growth, or (on a temporary basis) using research chemicals.
 
 During my bad experience, the first type of change was stuck in a circle. But the second type of change was, if anything, accelerated. It eventually changed the landscape so dramatically that the thought loop disappeared and I was able to think about food and sleep and blog posts again.
 
@@ -109,15 +112,15 @@ We can expand the metaphor from these kinds of pathological states into normal l
 
 These are two dichotomies that AI researchers think about a lot:
 
- **Overfitting vs. Underfitting**
+**Overfitting vs. Underfitting**
 
 Suppose you have a good old-fashioned neural network, like the ones that classified whether a picture was a dog or not. And suppose you started by teaching it that these four pictures were dogs:
 
 [![undefined](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d81066a-9eb6-4fa4-b9c6-1f70f02a5a5e_768x805.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d81066a-9eb6-4fa4-b9c6-1f70f02a5a5e_768x805.png)Source: https://en.wikipedia.org/wiki/Dog#/media/File:Dog_coat_variation.png
 
- _DESIRED RESULT_ **:** your model learns to recognize all dogs as dogs, and all non-dogs as non-dogs.
+ _DESIRED RESULT_**:** your model learns to recognize all dogs as dogs, and all non-dogs as non-dogs.
 
- _UNDERFITTING_ **:** your model isn’t specific enough. A maximally underfitted model might classify all images as dogs. In less severe cases, it might classify all animals as a dogs, or all mammals. 
+_UNDERFITTING_**:** your model isn’t specific enough. A maximally underfitted model might classify all images as dogs. In less severe cases, it might classify all animals as a dogs, or all mammals. 
 
 _OVERFITTING:_ your model is too specific. A maximally overfitted model might only classify these exact four images, pixel-by-pixel, as dogs. In less severe cases, it might only classify dogs of these four breeds, or dogs photographed in these four positions.
 
@@ -129,23 +132,23 @@ The underfitted curve fails to make use of all the signal the data points (eg th
 
 There’s no perfect way to get the exact right fit. You just have to strike a balance. Penalize overfitting some amount; then, if you find your network underfitting, you know you’ve gone too far.
 
- **Stability vs. Plasticity**
+**Stability vs. Plasticity**
 
 Now suppose you train your model on 1,000 pictures of Golden Retrievers. It eventually gets pretty good, but you want to add in Chihuahuas, so that it can recognize dogs of either breed. So you train it again on 1,000 pictures of Chihuahuas.
 
- _DESIRED RESULT_ **:** you get a model that can identify both Golden Retrievers and Chihuahuas. It recognizes some core of dogness that transcends either breed.
+_DESIRED RESULT_**:** you get a model that can identify both Golden Retrievers and Chihuahuas. It recognizes some core of dogness that transcends either breed.
 
- _OVER-PLASTICITY_ **** (aka “catastrophic forgetting”). After training on 1,000 pictures of Chihuahuas, your model becomes so specialized in identifying Chihuahuas that it completely forgets how to identify Golden Retrievers. All Retriever-related weights have been overwritten with more Chihuahua-suited weights. You might as well have never trained it on Golden Retrievers in the first place. 
+_OVER-PLASTICITY_****(aka “catastrophic forgetting”). After training on 1,000 pictures of Chihuahuas, your model becomes so specialized in identifying Chihuahuas that it completely forgets how to identify Golden Retrievers. All Retriever-related weights have been overwritten with more Chihuahua-suited weights. You might as well have never trained it on Golden Retrievers in the first place. 
 
 In extreme situations, you don’t even need to switch from one breed to another. You might show it a picture of a Chihuahua standing up, and it learns “a dog is a Chihuahua standing up”. Then you show it another picture of a Chihuahua sitting down, and it thinks “no, actually, a dog is a Chihuahua sitting down.” This is related to overfitting, but not exactly the same thing: overfitting is a general tendency across all data, and catastrophic forgetting favors newer data.
 
- _OVER-STABILITY_ **** (aka “plasticity loss”). A model trying to avoid catastrophic forgetting defends its original concept so hard that it can’t learn anything new. A model sees 1,000 pictures of Golden Retrievers, learns how to identify Golden Retrievers, and - in the process of trying to preserve that knowledge - can see 1,000 pictures of Chihuahuas without learning anything about Chihuahuas, because that knowledge would risk displacing some of its (overly specific) knowledge about Golden Retrievers.
+_OVER-STABILITY_****(aka “plasticity loss”). A model trying to avoid catastrophic forgetting defends its original concept so hard that it can’t learn anything new. A model sees 1,000 pictures of Golden Retrievers, learns how to identify Golden Retrievers, and - in the process of trying to preserve that knowledge - can see 1,000 pictures of Chihuahuas without learning anything about Chihuahuas, because that knowledge would risk displacing some of its (overly specific) knowledge about Golden Retrievers.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f8eeef9-5bb1-4772-bebd-9a3411ba959b_763x472.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f8eeef9-5bb1-4772-bebd-9a3411ba959b_763x472.png)Source: https://www.cell.com/trends/neurosciences/fulltext/S0166-2236%2822%2900120-5
 
 As with overfitting and underfitting, there’s no simple solution to the stability-plasticity dilemma. You just need to tweak parameters until you get something that doesn’t err too badly in either direction.
 
- **Fitting, Plasticity, And The Training/Inference Distinction**
+**Fitting, Plasticity, And The Training/Inference Distinction**
 
 The current paper definitely isn’t the first to apply this to the brain; AI specialists and neuroscientists have both been thinking about this for decades. I can’t tell who came first, or whether both fields cross-pollinated the other. 
 
@@ -185,6 +188,4 @@ The strongest argument for such a system would be this: psychiatric diseases can
 
 So I think this is probably some of the story. But “the brain is like a telephone switchboard, is has wires and stuff” is also some of the story. No doubt reality will be much more annoying and harder to conceptualize.
 
-[1](/p/the-canal-papers#footnote-anchor-1-123664324)
-
-Embarrassingly for someone who’s been following these theories for years, I find I can’t answer the question “what do the dimensions of the space represent?” or even “what does the height of the landscape represent?” My best guess is something like “some kind of artificial space representing all possible thoughts, analogous to [thingspace](https://www.lesswrong.com/posts/WBw8dDkAWohFjWQSk/the-cluster-structure-of-thingspace) or [ML latent spaces](https://towardsdatascience.com/understanding-latent-space-in-machine-learning-de5a7c687d8d)”, and “[free energy](https://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/)”, but if you ask me to explain further, I mostly can’t. Unless I missed it, the canalization paper mostly doesn’t explain this either.
+[^1]: Embarrassingly for someone who’s been following these theories for years, I find I can’t answer the question “what do the dimensions of the space represent?” or even “what does the height of the landscape represent?” My best guess is something like “some kind of artificial space representing all possible thoughts, analogous to [thingspace](https://www.lesswrong.com/posts/WBw8dDkAWohFjWQSk/the-cluster-structure-of-thingspace) or [ML latent spaces](https://towardsdatascience.com/understanding-latent-space-in-machine-learning-de5a7c687d8d)”, and “[free energy](https://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/)”, but if you ask me to explain further, I mostly can’t. Unless I missed it, the canalization paper mostly doesn’t explain this either.

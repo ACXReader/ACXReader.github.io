@@ -3,11 +3,14 @@ title: "Book Review Contest: Winners"
 subtitle: "..."
 date: 2021-07-10
 likes: 61
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38322815/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b94f2cbb-997a-445a-8105-5fd2d0dd3c41_2560x1587.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-contest-winners
 ---
 Thanks to everyone who participated or voted in the Book Review Contest. The winners are:
 
- **FIRST PLACE** :   
+**FIRST PLACE** :   
 _[Progress and Poverty](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty)_ , reviewed by Lars Doucet
 
 Lars is a Norwegian-Texan game designer, and you can read his game design blog [here](https://www.fortressofdoors.com/). He's a pretty serious Georgist and posts regularly in the [Georgism subreddit](https://www.reddit.com/r/georgism/). 
@@ -17,12 +20,12 @@ _[Down And Out In Paris And London](https://astralcodexten.substack.com/p/your-b
 
 Whimsi blogs [here](https://whimsi.substack.com/people/25790234-hwe), but otherwise asks to remain mysterious.
 
- **THIRD PLACE:**   
+**THIRD PLACE:**   
 _[On The Natural Faculties](https://astralcodexten.substack.com/p/your-book-review-on-the-natural-faculties)_ , reviewed by ELP. 
 
 E is a researcher and an author of the blog [Slime Mold Time Mold](https://slimemoldtimemold.com/)
 
- **READERS' CHOICE AWARD:**   
+**READERS' CHOICE AWARD:**   
 _[Disunited Nations vs. Dawn Of Eurasia](https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ/edit)_ , reviewed by Misha Saul
 
 Misha is an investor in Sydney, Australia, and blogs [here](https://mishasaul.com/essays/).
@@ -31,7 +34,7 @@ Misha is an investor in Sydney, Australia, and blogs [here](https://mishasaul.co
 
 And congratulations to all other finalists (here listed in order of appearance), whose secret identities were:
 
- _[Order Without Law](https://astralcodexten.substack.com/p/your-book-review-order-without-law)_ , reviewed by [Phil Hazelden](http://reasonableapproximation.net/)  
+_[Order Without Law](https://astralcodexten.substack.com/p/your-book-review-order-without-law)_ , reviewed by [Phil Hazelden](http://reasonableapproximation.net/)  
  _[Are We Smart Enough To Know How Smart Animals Are](https://astralcodexten.substack.com/p/your-book-review-are-we-smart-enough)_ , reviewed by [Jeff Russell](https://jpowellrussell.com/)  
  _[Why Buddhism Is True](https://astralcodexten.substack.com/p/your-book-review-why-buddhism-is)_ , reviewed by [Eve Bigaj](https://evebigaj.com/category/essays/)  
  _[Double Fold](https://astralcodexten.substack.com/p/your-book-review-double-fold)_ , reviewed by [Boštjan P](https://thefateofbooks.wordpress.com/)  

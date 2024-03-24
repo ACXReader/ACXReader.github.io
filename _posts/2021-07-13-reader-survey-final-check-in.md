@@ -3,6 +3,9 @@ title: "Reader Survey Final Check-In"
 subtitle: "..."
 date: 2021-07-13
 likes: 25
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38684663/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e03df3b5-337a-4222-84ac-85366ddf943b_2250x1500.jpeg
 original-url: https://www.astralcodexten.com/p/reader-survey-final-check-in
 ---
 I accidentally missed some Book Review Contest entries, so I want to make sure I have everything lined up right for the Reader Survey. Below is a list of surveys I’m currently planning to include. If you sent me an email before the deadline, please confirm that your name is there. If it’s not, _please don’t email me about it_ \- we’ve already established that I don’t get your emails for some reason. Instead, leave a comment below with your information.

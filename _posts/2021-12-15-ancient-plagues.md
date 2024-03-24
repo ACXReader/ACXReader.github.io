@@ -3,6 +3,9 @@ title: "Ancient Plagues"
 subtitle: "..."
 date: 2021-12-15
 likes: 100
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/43332746/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/29d2eea2-1b8a-4dfd-9a53-c0fd59e7448c_1272x846.jpeg
 original-url: https://www.astralcodexten.com/p/ancient-plagues
 ---
 During our recent discussion of climate change, someone linked me to [this New York Magazine piece](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) making the case for doomism.

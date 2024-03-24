@@ -2,12 +2,15 @@
 title: "Still Alive"
 subtitle: "You just keep on trying till you run out of cake"
 date: 2021-01-21
-likes: 1,196
+likes: 1,197
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/31751211/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c6711968-876b-4c79-ba53-5a6f9c60e338_920x720.jpeg
 original-url: https://www.astralcodexten.com/p/still-alive
 ---
 **I.**
 
- _This was a triumph  
+_This was a triumph  
 I'm making a note here, huge success_
 
 No, seriously, it was awful. I [deleted my blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/) of 1,557 posts. I wanted to protect my privacy, but I ended up with articles about me in _New Yorker_ , _Reason_ , and _The Daily Beast_. I wanted to protect my anonymity, but I Streisand-Effected myself, and a bunch of trolls went around posting my real name everywhere they could find. I wanted to avoid losing my day job, but ended up quitting so they wouldn't be affected by the fallout. I lost a five-digit sum in advertising and Patreon fees. I accidentally sent about three hundred emails to each of five thousand people in the process of trying to put my blog back up. 
@@ -32,7 +35,7 @@ Eventually it became kind of overwhelming. 7500 people signed a petition in my f
 
 **II.**
 
- _I'm not even angry  
+_I'm not even angry  
 I'm being so sincere right now_
 
 Before we go any further: your conspiracy theories are false. An SSC reader admitted to telling a _New York Times_ reporter that SSC was interesting and he should write a story about it. The reporter pursued the story on his recommendation. It wasn't an attempt by the _Times_ to crush a competitor, it wasn't retaliation for my having written some critical things about the news business, it wasn't even a political attempt to cancel me. Someone just told a reporter I would make a cool story, and the reporter went along with it.
@@ -55,7 +58,7 @@ But I still had this really strong sense that my career hung on this thread of s
 
 After all that, yeah, I had a phobia of being doxxed. But psychotherapy classes _also_ teach you to not to let past traumas control your life even after they've stopped being relevant. Was I getting too worked up over an issue that no longer mattered?
 
- _The New York Times_ thought so. Some people kept me abreast of their private discussions (in Soviet America, newspaper's discussions get leaked to _you_!) and their reporters had spirited internal debates about whether I really needed anonymity. Sure, I'd gotten some death threats, but everyone gets death threats on the Internet, and I'd provided no proof mine were credible. Sure, I might get SWATted, but realistically that's a really scary fifteen seconds before the cops apologize and go away. Sure, my job was at risk, but I was a well-off person and could probably get another. Also, hadn't I blogged under my real name before? Hadn't I published papers under my real name in ways that a clever person could use to unmask my identity? Hadn't I played fast and loose with every form of opsec other than whether the average patient or employer could Google me in five seconds?
+_The New York Times_ thought so. Some people kept me abreast of their private discussions (in Soviet America, newspaper's discussions get leaked to _you_!) and their reporters had spirited internal debates about whether I really needed anonymity. Sure, I'd gotten some death threats, but everyone gets death threats on the Internet, and I'd provided no proof mine were credible. Sure, I might get SWATted, but realistically that's a really scary fifteen seconds before the cops apologize and go away. Sure, my job was at risk, but I was a well-off person and could probably get another. Also, hadn't I blogged under my real name before? Hadn't I published papers under my real name in ways that a clever person could use to unmask my identity? Hadn't I played fast and loose with every form of opsec other than whether the average patient or employer could Google me in five seconds?
 
 Some of the savvy people giving me advice suggested I fight back against this. Release the exact death threats I'd received and explain why I thought they were scary. Play up exactly how many people lived with me and exactly why it would be traumatic for them to get SWATted. Explain exactly how seriously it would harm my patients if I lost my job. Say why it was necessary for my career to publish those papers under my real name. 
 
@@ -75,9 +78,9 @@ Or, in layman's terms, sometimes you have to be a crazy bastard so people won't 
 
 In 2010, a corrupt policewoman demanded a bribe from impoverished pushcart vendor Mohammed Bouazizi. He couldn't afford it. She confiscated his goods, insulted him, and (according to some sources) slapped him. He was humiliated and destitute and had no hope of ever getting back at a police officer. So he made the very reasonable decision to douse himself in gasoline and set himself on fire in the public square. One thing led to another, and eventually a mostly-peaceful revolution [ousted the government of Tunisia](https://en.wikipedia.org/wiki/Tunisian_Revolution). I am very sorry for Mr. Bouazizi and his family. But he did find a way to make the offending policewoman remember the day she harassed him as something other than Tuesday. As the saying goes, "sometimes setting yourself on fire sheds light on the situation".
 
- **III.**
+**III.**
 
- _As I burned it hurt because  
+_As I burned it hurt because  
 I was so happy for you_
 
 But as I was thinking about all this, I got other emails. Not just the prediction aggregators and Russians and so on; emails of a totally different sort.
@@ -110,9 +113,9 @@ I'm not trying to convince the _New York Times_ \- obviously it would very much 
 
 If me setting myself on fire got the _New York Times_ to rethink some of its policies, and accidentally helped some of these people win their own fights, it was totally worth it.
 
- **IV.**
+**IV.**
 
- _Now these points of data make a beautiful line  
+_Now these points of data make a beautiful line  
 And we're out of beta, we're releasing on time  
 So I'm glad I got burned   
 Think of all the things we learned  
@@ -148,7 +151,7 @@ So here goes. With malice towards none, with charity towards all, with firmness 
 
 My name is Scott Siskind, and I love all of you so, so much.  
   
- _But look at me, still talking when there's Science to do  
+_But look at me, still talking when there's Science to do  
 When I look out there it makes me glad I've got you  
 I've experiments to run, there is research to be done  
 On the people who are still alive  

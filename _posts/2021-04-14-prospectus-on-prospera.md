@@ -3,6 +3,9 @@ title: "Prospectus On Próspera"
 subtitle: "A look at Próspera, the charter city taking shape in Honduras"
 date: 2021-04-14
 likes: 222
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34436669/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ffb82f5f-5495-46a6-ac11-a9252ef549d8_1631x908.png
 original-url: https://www.astralcodexten.com/p/prospectus-on-prospera
 ---
 Who among us hasn't looked out at the great edifice of human civilization in all its complexity, and thought "Yeah okay but I could do it better"? Centuries of utopian communes, micronations, and seasteads have dreamed of rebuilding society from first principles, free from entrenched interests and the debris of the past. If you got all the laws and values just right, maybe you could prevent poverty and corruption from finding their first footholds. Do the "liberty and justice for all" thing, but for real.
@@ -19,7 +22,7 @@ Also, it will look like this:
 
 So, starting from the beginning:
 
- **1\. What is this? What’s a ZEDE? What’s going on? Where am I?**
+**1\. What is this? What’s a ZEDE? What’s going on? Where am I?**
 
 In 2009, Nobel-winning economist Paul Romer proposed a new type of governance structure. Underdeveloped countries looking for an economic boost could donate territory to some entity considered non-corrupt and skilled at governance - for example, a successful country like Switzerland. The recipient entity would govern the territory as effectively as it could, bringing improved human rights and economic growth. 
 
@@ -27,7 +30,7 @@ If this went well, it could be win-win-win. The region's citizens would get good
 
 Honduras - with 70% of its population in poverty, the 5th highest murder rate in the world, and a political system widely recognized as corrupt and dysfunctional - was running low on options. They approached Romer and expressed interest in his idea. Together, Romer and Honduran officials developed the ZEDE (Spanish acronym for "Zone for Employment and Economic Development"), a generic model for creating special economic zones ("charter cities") within Honduras.
 
- **1.1. Sounds nice and straightforward, I guess?**
+**1.1. Sounds nice and straightforward, I guess?**
 
 Nope, the original implementation of the ZEDE law was a disaster.
 
@@ -45,7 +48,7 @@ This became part of a broader conflict in Honduran politics, which came to a hea
 
 After various other failed projects and false starts, we come to Próspera and the present.
 
- **1.2. Could this work?**
+**1.2. Could this work?**
 
 Maybe.
 
@@ -63,7 +66,7 @@ And poor countries don’t have corruption, crime, and incompetence because they
 
 Honduras allowed ZEDEs in order test this hypothesis and see if it offered a radical solution to poverty.
 
- **2\. So what is Próspera?**
+**2\. So what is Próspera?**
 
 Próspera is Honduras’ first ZEDE.
 
@@ -93,7 +96,7 @@ But before we get ahead of ourselves, remember that right now, in the real world
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb39aaf1b-45b6-4c4f-ad29-aa8bd57ff8b7_800x592.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb39aaf1b-45b6-4c4f-ad29-aa8bd57ff8b7_800x592.png)The Próspera Beta Building.
 
- **3\. Who’s doing this?**
+**3\. Who’s doing this?**
 
 In the original plan, charter cities would be governed by some respected and competent foreign power like Switzerland. That fell apart for various reasons (worries about national sovereignty and colonialism, no sign Switzerland actually wanted to help) and the new version is that they'll be governed by a corporation full of visionaries and experts and other hopefully non-corrupt people. The corporation will only make money if the ZEDE becomes economically productive, corporations seem to like making money, so in theory this gives them an incentive to govern wisely.
 
@@ -145,7 +148,7 @@ In case demand ever exceeds supply, HPI is already reaching out to NGOs that wor
 
 Interested parties who don’t want to move to Roatan can seek [“virtual residency” / “e-residency”](https://www.bbc.com/worklife/article/20190718-e-residency), a concept pioneered by Estonia in 2014. This mostly allows virtual residents to set up companies in Próspera, governed by Prósperan law. In keeping with their usual modus operandi, HPI has already hired Ott Vatter, the leader of the Estonian project, to design their system.
 
- **6\. Will Próspera be a libertarian / anarcho-capitalist utopia?**
+**6\. Will Próspera be a libertarian / anarcho-capitalist utopia?**
 
 Sort of but not really.
 
@@ -161,7 +164,7 @@ So for example, when you buy land in Próspera, you’ll have to sign a Covenant
 
 Also, Próspera remains bound by several Honduran laws that Honduras refuses to exempt them from, including laws against abortion, euthanasia, and most gun ownership.
 
- **6.1. But they’ll at least have really low taxes, right?**
+**6.1. But they’ll at least have really low taxes, right?**
 
 The lowest in the world.
 
@@ -177,13 +180,13 @@ Where do the taxes go?
 
 How does HPI make money? They get a cut of the membership fees and the General Service Provider money, but their real cash cow is probably land development. They buy empty land, develop it into a thriving city, then sell it to people who want to live in thriving cities at a huge markup. The more thriving the city, the higher the land value, and the more money HPI makes - which they think puts the incentives in the right place.
 
- **7.Okay, but what will Próspera be like?**
+**7.Okay, but what will Próspera be like?**
 
 So some businesspeople have gotten a once-in-a-lifetime chance to design a utopian city of the future from the ground up. The Honduras government will let them do great innovative things. They’re incentivized to do great innovative things. They have enough money and talent to be able to do great innovative things. What particular kinds of great innovative things are they planning to do?
 
 Going through the list:
 
- **7.1. What will the houses in Próspera be like?**
+**7.1. What will the houses in Próspera be like?**
 
 Modular, customizable, community-oriented, and beautiful.
 
@@ -217,7 +220,7 @@ Here they are:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa57eac4a-9803-4bc0-97bb-a2a6d24e4def_699x461.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa57eac4a-9803-4bc0-97bb-a2a6d24e4def_699x461.png)
 
- **7.2. What will the education system be like?**
+**7.2. What will the education system be like?**
 
 From their white paper:
 
@@ -229,7 +232,7 @@ Trey says they’re negotiating with someone involved in Montessori schools to b
 
 In terms of secondary education, they had a deal with Technical University of Munich, a very well regarded German university, but it looks like [German leftists pressured them into withdrawing](https://www.bethgeglia.com/blog/a-munich-university-partner-withdraws-from-the-pr%C3%B3spera-zede). Currently they are investigating a partnership with [Universidad Francisco Marroquin](https://en.wikipedia.org/wiki/Universidad_Francisco_Marroqu%C3%ADn), a libertarian university in Guatemala City which (for example) has a "Ludwig von Mises library [which] has 100,000 visitors annually and is the most extensive collection of works on liberty in Latin America", and whose alumni include eg [one of Julian Assange's defense lawyers](https://en.wikipedia.org/wiki/Renata_%C3%81vila_Pinto).
 
- **7.3. What will the health care system be like?**
+**7.3. What will the health care system be like?**
 
 Próspera currently advertises a partnership with CEMESA Hospital, a nice and completely normal local hospital in Roatan that would be well-placed to expand into Próspera. But they also want to become a center of medical tourism, ie people going to foreign countries to get better or more affordable medical care than is available at home. Their Master Plan hopes to have a medical center like this available within the first few years.
 
@@ -239,7 +242,7 @@ This policy is close to my heart, because like many people I’ve had Uber drive
 
 Likewise, Próspera has 100% drug approval reciprocity. If a drug has been approved in an OECD country (eg by the FDA), it’s approved in Próspera. Again, close to my heart. Amisulpride is a great antipsychotic, probably better then most of the ones we use here. It’s approved in Europe, the UK, Australia, Israel, etc, where many studies have shown it’s safe and effective. Because none of those studies were done in the US, the FDA refuses to approve it here, and has demanded several hundred million dollars worth of more studies, which the company involved has chosen not to do (an injectable version was recently approved for nausea, but can’t be easily used for psychosis). Meanwhile, bupropion (“Wellbutrin”), the fourth-most prescribed antidepressant in the US, isn’t approved for depression in Britain; the subset of patients who respond to this medication and nothing else are out of luck. Próspera will be one of the only places in the world where patients will have access to amisulpride, bupropion, and all the other medications that one country or another is restricting because “it wasn’t invented here”.
 
- **7.3.1. How will hospitals and medical practices be regulated?**
+**7.3.1. How will hospitals and medical practices be regulated?**
 
 The same way as everything else in Próspera - pick a country or get insurance.
 
@@ -261,7 +264,7 @@ The idea is to put the burden on insurance companies to figure out whether an in
 
 What if a regulatory issue can’t be expressed financially? I asked Trey about human genetic engineering. He said that extreme or irresponsible forms of medical experimentation will probably be banned by Honduran law or international law or something. If they’re not, he expects that insurance companies will keep their distance. If they don’t, he expects they’ll find a way to ban it anyway, for PR reasons if nothing else.
 
- **7.4. What are property rights like?**
+**7.4. What are property rights like?**
 
 3D, possibly on the blockchain.
 
@@ -279,7 +282,7 @@ Though it’s just a throwaway sentence in one of their more speculative documen
 
 > Land backed tokens: One way to capitalize and fund the purchase and development of land is through the use of a land backed crypto token. In effect, anyone in the world could buy one of the tokens issued for a specific plot of land. This capital would then be used to purchase and develop the land, with a secondary market enabling early movers to profit as the development grows and with [HPI] or some other financial partner potentially buying all the tokens back at the successful development of the lot. This would powerfully democratize land development away from the wealthy and open the space up to everyone else.
 
- **7.5: What’s the government?**
+**7.5: What’s the government?**
 
 Garrett Jones famously recommended [10% less democracy](https://www.amazon.com/10-Less-Democracy-Should-Elites/dp/1503603571) . Próspera goes further: 44% less democracy. The city will be governed by a Council of nine people, of whom five are elected and four appointed by HPI.
 
@@ -303,7 +306,7 @@ Honduras requires Próspera to use the regular Honduran criminal justice system,
 
 I don’t envy the PAC if they have adjudicate disputes involving, say, a doctor who has chosen to be regulated by the medical code of Norway suing her office building regulated by the laws of Houston, Texas. But they’re trying to rise to the occasion: [their arbiters](https://pac.hn/about-us-2/) include a former Arizona Supreme Court judge, the head of the Cato Institute’s Center for Constitutional Studies, and “the first Chilean lawyer to obtain permission from the Berlin Bar Association to act as a legal advisor in Chilean law in Germany”, which I guess sounds like the level of convolutedness you would need to be experienced in to make this work.
 
- **7.6. What if I move to this weird charter city that’s schismed from the rest of Honduras, and I decide I don’t like it? Am I allowed to meta-schism from it and form my own even weirder, charter-er city?**
+**7.6. What if I move to this weird charter city that’s schismed from the rest of Honduras, and I decide I don’t like it? Am I allowed to meta-schism from it and form my own even weirder, charter-er city?**
 
 Allowed, encouraged, and your right to do so is enshrined into law!
 
@@ -315,7 +318,7 @@ Trey writes:
 
 This mostly applies to provision of services (eg electricity, sanitation, policing). But partly that’s because Próspera already provides optionality in other areas. For example, by default contracts disputes are resolved under Prósperan law by the Próspera Arbitration Center, but you and your fellow commune-members can agree that all of your contracts will be resolved under your own private law that you made up, by some other arbiter you selected. Most of the schools will be private anyway, but if your commune wants to have its own separate private school, nobody can stop you there either.
 
- **8\. What stops Honduras from pulling the rug out from under them after they’re successful?**
+**8\. What stops Honduras from pulling the rug out from under them after they’re successful?**
 
 A timely question, given recent news about Hong Kong. Its unique position outside the Chinese system helped it grow rich and important, China promised to preserve that position, and - once it became inconvenient to China, they reneged on their promise and reapplied Chinese law. Why couldn’t the same happen here?
 
@@ -325,7 +328,7 @@ Próspera says they are “guaranteed by international treaty”. The particular
 
 Finally, what would Honduras’ incentive be? They went into this hoping that ZEDEs would be economically productive, and this would benefit the rest of Honduras and let them skim a little off the top. If ZEDEs actually become economically productive, letting that benefit the rest of Honduras and skimming a little off the top still seems like their best bet. Sure, if push came to shove, they could take over the ZEDE by military force. But that would be killing the goose that lays golden eggs. China didn’t take over Hong Kong because they wanted its money. They already had as much of its money as they cared to take. They took over Hong Kong because they wanted to maintain autocratic rule, and having a successful democracy inside their borders was too awkward. The Charter Cities Institute’s blog [talks about this further](https://www.chartercitiesinstitute.org/post/charter-cities-are-not-an-exit-strategy).
 
- **9\. Is anyone else doing anything like this?**
+**9\. Is anyone else doing anything like this?**
 
 There's another ZEDE project called [Ciudad Morazán](https://www.morazan.city/), on the Honduran mainland. They are almost exactly the same size - 59 acres. They're less flashy and ideological and publicity-seeking than Próspera. They just seems to want to build a nice neighborhood in the suburbs of Choloma, Honduras. Looking at their website, they talk a lot about crime and "freedom from fear". I think at least part of their business case is to be able to give poorer Hondurans a place to live that has private security and good policing, which would be a big attraction in such a violence-ridden country. They promise that:
 
@@ -343,7 +346,7 @@ Still, they have a lot of advantages over Próspera. For one thing, their ambiti
 
 Speaking of which…
 
- **10\. Will Próspera expropriate land?**
+**10\. Will Próspera expropriate land?**
 
 There’s a whole small industry of anti-Próspera activism, almost all of which centers around the same concerns: Próspera is going to steal people’s land, Próspera will nonconsensually annex the surrounding towns, thousands of people will be forced into Próspera against their will, Próspera will evict indigenous people from their own territory, then sell it back to them at sky-high prices. 
 
@@ -363,7 +366,7 @@ Do the Prósperans seem a little defensive about this? I think it’s warranted.
 
 But everyone keeps ignoring Honduras’ repeated and flagrant land expropriation in favor of freaking out over completely fictional land expropriation by Próspera.
 
- **10.1. Could Próspera commit human rights abuses?**
+**10.1. Could Próspera commit human rights abuses?**
 
 Well, they _say_ they won’t. 
 
@@ -377,7 +380,7 @@ And also: I'm writing this post off of some internal documents I was allowed to 
 
 So if you've read enough Matt Levine, you know where I'm going with this: if anything bad ever happens in Próspera, you can probably sue them for securities fraud.
 
- **10.2. What’s the case against Próspera?**
+**10.2. What’s the case against Próspera?**
 
 You can read what actual anti-Próspera people have to say [here](https://bakerstreetherald.com/2020/09/three-displacements-garifuna/), [here](https://nacla.org/news/2021/02/12/private-government-honduras-zede-prospera), and [of course on Vice](https://www.vice.com/en/article/k7a7ae/foreign-investors-are-building-a-hong-kong-of-the-caribbean-on-a-remote-honduran-island). But I can’t stress enough how misleading and awful most of it is.
 
@@ -411,7 +414,7 @@ Fourth, is Honduras really getting its money worth? Próspera has 10% taxes, and
 
 I’m pretty surprised Honduras didn’t hold out for a better deal. I don’t think this is Próspera’s fault. Próspera didn’t exist when the original ZEDE negotiations were going on. But they have a monopoly - no one else is offering a ZEDE-like product - and you’d think they could have gotten a better price from it.
 
- **10.3 And what’s the case for?**
+**10.3 And what’s the case for?**
 
 Thousands of Hondurans make the dangerous journey to the United States in search of freedom, safety, and a living wage. They're tired of poverty and murder and corruption and think that a well-run polity with capitalist institutions can help them build a better life. I can’t blame them one whit. America is a better place to live than Honduras. This isn't because Americans are smarter, or harder-working, or morally superior. It's because Honduras has bad institutions. 
 
@@ -421,7 +424,7 @@ If you were a completely ordinary Honduran, making $1,300 a year, having a mediu
 
 Also, remember status quo bias. If Próspera already existed, and somebody asked to take some of their land and create Honduras, would that be ethical? Absent a great answer to that question, it's hard for me to worry about the reverse.
 
- **10.3.1. So the case is that it’ll be good for Hondurans?**
+**10.3.1. So the case is that it’ll be good for Hondurans?**
 
 That’s the medium-good-case scenario. In the best-case scenario, it could also be good for everyone else.
 
@@ -435,7 +438,7 @@ Never underestimate embarrassment as a driver of progress. When the US was dragg
 
 If Próspera gets - I don’t know, let’s say a network of cheap VTOL air taxi drones - maybe we’ll find we can still feel shame. Maybe it’ll be embarrassing to have Honduras beat us to the future. Maybe we’ll start wondering if we can learn something.
 
- **10.4. What’s the case for being neither outraged or inspired but just kind of bored?**
+**10.4. What’s the case for being neither outraged or inspired but just kind of bored?**
 
 I can't stress enough that right now, Próspera is 58 acres (the size of an average housing development), with three buildings on it, next to a golf course. It has big potential. But right now, it's that.
 
@@ -447,7 +450,7 @@ Also, Honduras is very poor and has many people who need help. But that poverty 
 
 This isn't to say there are no poor people on Roatan. There are. But those poor people mostly aren't poor because they lack access to the amenities of modern civilization. They're poor because the giant golf resort next door doesn't pay much for their particular skills, or because they can’t / don't want to work for a golf resort. Adding more development to Roatan has limited ability to fix those problems, and Próspera isn't going to be playing on hard mode until they start expanding to the rest of the country.
 
- **10.5. What’s your opinion?**
+**10.5. What’s your opinion?**
 
 It’s hard for me to get too freaked out about corporate model cities - I grew up in one. The Irvine family of California ranchers founded the Irvine Company to develop their land, and in the 1970s they partnered with the UC system and local real estate developers to build a new city. The result - Irvine, California - is constantly showing up in[ various Best City lists](https://www.cityofirvine.org/2021-2018-awards) \- #5 best public schools in America, #1 fiscally strongest city, #10 best place to raise a family, #8 healthiest, #3 greenest, #1 safest, etc, etc, etc. Also, Irvine Company head honcho Donald Bren made $17 billion and is now the 32nd richest man in America. I may not have extracted _quite_ as much value from the experiment as Mr. Bren did, but I got a very good childhood out of it and I feel suitably grateful.
 
@@ -459,7 +462,7 @@ Próspera is a lot more ambitious than Irvine - not just planned streets and uti
 
 Maybe the extra ambition will ruin the magic formula and it won’t work out. I have no idea. But you miss a hundred percent of the moonshots you don’t take. I like the way Próspera thinks, and I look forward to seeing what happens.
 
- **11\. Where can I learn more?**
+**11\. Where can I learn more?**
 
 Próspera’s website is at <https://prospera.hn/>. 
 

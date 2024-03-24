@@ -3,6 +3,9 @@ title: "Highlights From The Comments On \"Sadly, Porn\""
 subtitle: "..."
 date: 2022-04-20
 likes: 59
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/50269257/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23362c2d-0cda-4d51-b198-c516fb01de80_425x315.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-sadly
 ---
 ### I. The Duality Of Man
@@ -193,7 +196,7 @@ I should introduce this section by admitting that most of what I wrote about ant
 > 
 > It may well be that the company, or agency, or combination was exceptionally formal, maybe because they lacked a brilliant manipulator of psychology and had to brute force it. Maybe those people are out there. But I can say with certainty not all advertising is based in psychological insight.
 > 
->  _“I obviously have to add that people want advertising to work like you describe, because it absolves them of responsibility”_
+> _“I obviously have to add that people want advertising to work like you describe, because it absolves them of responsibility”_
 > 
 > That's really funny! I would say the same about a belief that advertising is created by superhuman psychological manipulation that the masses are powerless to resist.
 > 
@@ -217,7 +220,7 @@ In the post, I wrote:
 
 [LukaC99](https://www.reddit.com/r/slatestarcodex/comments/su658m/book_review_sadly_porn/hx8bvuy/):
 
->  _“someone complimented me, but it was for the thing I already know I’m good at, so it doesn’t count”_
+> _“someone complimented me, but it was for the thing I already know I’m good at, so it doesn’t count”_
 > 
 > This was/is basically my thought process for some compliments, so I can confirm some people, sometimes, do really think something like that.
 
@@ -229,7 +232,7 @@ In the post, I wrote:
 
 > Oh my, yes.
 > 
->  _“I fished for compliments and someone complimented me but it doesn’t count because I know I was just fishing for it”_
+> _“I fished for compliments and someone complimented me but it doesn’t count because I know I was just fishing for it”_
 > 
 > Me, a trans person, asking if I pass
 > 
@@ -259,13 +262,13 @@ There was also some discussion of how common the attitude towards music I confes
 
 — [Snav](https://astralcodexten.substack.com/p/book-review-sadly-porn/comment/5105669) (writes [Snav’s Digest](https://snav.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) tries to explain the psychoanalytic perspective:
 
->  _“What’s the equivalent for Sadly, Porn? If Teach ever felt motivated to explain his technique as clearly as this roshi, what would he say?”_
+> _“What’s the equivalent for Sadly, Porn? If Teach ever felt motivated to explain his technique as clearly as this roshi, what would he say?”_
 > 
 > He hints at this early on, when he says:
 > 
->  _“In this book you will find one sentence that will engage you and one sentence that will enrage you, and if you tell both those sentences to anyone else they will have all the information necessary to determine whether to sleep with you or abandon you at a rest stop._
+> _“In this book you will find one sentence that will engage you and one sentence that will enrage you, and if you tell both those sentences to anyone else they will have all the information necessary to determine whether to sleep with you or abandon you at a rest stop._
 > 
->  _‘Will this book help me learn more about myself?’ Ugh. The whole earth is sick of your search for knowledge. In here you will not find explanations, I am not offering you information, this is an attempt to destroy the wisdom of the wise and frustrate the intelligence of the intelligent.”_
+> _‘Will this book help me learn more about myself?’ Ugh. The whole earth is sick of your search for knowledge. In here you will not find explanations, I am not offering you information, this is an attempt to destroy the wisdom of the wise and frustrate the intelligence of the intelligent.”_
 > 
 > The book is meant to frustrate the reader. One difference between psychoanalysis and psychology is that the former is a series of meta-frames which allow you to scientifically generate knowledge about a single individual. So, to say the book has an overarching "point" is to miss the "meta-point", which is that the book takes as many angles as possible in hopes that one will hit, make you pissed off, and then hopefully get you thinking about why you got pissed off, and maybe discover something about yourself/your knowledge.
 

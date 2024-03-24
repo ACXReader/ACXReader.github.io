@@ -3,6 +3,9 @@ title: "Announcing Forecasting Impact Mini-Grants"
 subtitle: "..."
 date: 2023-02-24
 likes: 63
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/103936664/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/0fd62e2b-94e7-4a8f-ab72-613a07bafa97_674x505.png
 original-url: https://www.astralcodexten.com/p/announcing-forecasting-impact-mini
 ---
 I still dream of running an ACX Grants round using impact certificates, but I want to run a lower-stakes test of the technology first. In conjunction with the Manifold Markets team, we’re announcing the Forecasting Impact Mini-Grants, a $20,000 grants round for forecasting projects.
@@ -26,7 +29,7 @@ Creators (ie people with forecasting projects that need funding) can participate
 
 
 
- **For Us:**
+**For Us:**
 
   1. On September 1, we’ll look at all of the projects that got funded and try to value all of them. 
 
@@ -40,7 +43,7 @@ We reserve the right to not buy impact certificates up to our full commitment, o
 
 
 
- **For Accredited Investors:**
+**For Accredited Investors:**
 
   1. Register on [Manifund ](https://manifund.org/)as an accredited investor. Accredited investors must have either net worth of > $1 million, or have made $200,000 ($300,000 combined income if married) for each of the past two years, with an expectation of continuing to make that amount. Manifund may ask you for a bank/tax statement proving that you meet this requirements.
 
@@ -55,7 +58,7 @@ We reserve the right to not buy impact certificates up to our full commitment, o
 
 
 
- **For Other People Who Might Be Interested In Funding Forecasting**
+**For Other People Who Might Be Interested In Funding Forecasting**
 
   1. If you want to add to our $20,000 commitment, let me know at scott@slatestarcodex.com, and I’ll advertise this. I wouldn’t necessarily recommend this right now unless you really understand how impact markets work.
 
@@ -66,68 +69,68 @@ We reserve the right to not buy impact certificates up to our full commitment, o
 
 ## FAQ:
 
-  *  **Q:** What is an impact certificate? Why would I want to do this?
+  * **Q:** What is an impact certificate? Why would I want to do this?
 
-  *  **A:** See [here](https://forum.effectivealtruism.org/topics/certificate-of-impact).  
+  * **A:** See [here](https://forum.effectivealtruism.org/topics/certificate-of-impact).  
 
 
-  *  **Q:** Who are you? Where am I?
+  * **Q:** Who are you? Where am I?
 
-  *  **A:** This is Astral Codex Ten, a blog about various science / technology / philosophy / politics issues, which sometimes does grants rounds and projects like this one. I think I have a good reputation of paying for things I say I am going to pay for, see for example last year’s [ACX Grants](https://astralcodexten.substack.com/p/acx-grants-results).   
+  * **A:** This is Astral Codex Ten, a blog about various science / technology / philosophy / politics issues, which sometimes does grants rounds and projects like this one. I think I have a good reputation of paying for things I say I am going to pay for, see for example last year’s [ACX Grants](https://astralcodexten.substack.com/p/acx-grants-results).   
   
 [Manifold Markets](https://manifold.markets/home) is a company that runs a prediction market website and is generally interested in unusual market structures solving social problems. We’re co-sponsoring this impact market in order to test impact markets as a charitable funding mechanism.  
 
 
-  *  **Q:** What do you mean by “forecasting”?
+  * **Q:** What do you mean by “forecasting”?
 
-  *  **A:** Any project about trying to improve our knowledge of the future will be eligible. This can include writing prediction market / Metaculus questions, fortified essays for Metaculus, studying forecasting/prediction-related topics, new websites or companies in this space (yes, Manifold will fund its own competitors) or anything else you can think of.  
-
-
-  *  **Q:** Who will be the final judges?
-
-  *  **A:** We’re trying to figure that out. I would have liked to do it myself, but I think there are legal issues about me both providing the money and determining who gets it. Probably they will be some respected people from Metaculus or Manifold, or someone with forecasting grant-making experience.  
+  * **A:** Any project about trying to improve our knowledge of the future will be eligible. This can include writing prediction market / Metaculus questions, fortified essays for Metaculus, studying forecasting/prediction-related topics, new websites or companies in this space (yes, Manifold will fund its own competitors) or anything else you can think of.  
 
 
-  *  **Q:** What if I’m not a US citizen?
+  * **Q:** Who will be the final judges?
 
-  *  **A:** You may want to consult a lawyer in your home country, but it seems to us that the US allows you to invest in this project as long as you’re an accredited investor by the US definition of the term.  
+  * **A:** We’re trying to figure that out. I would have liked to do it myself, but I think there are legal issues about me both providing the money and determining who gets it. Probably they will be some respected people from Metaculus or Manifold, or someone with forecasting grant-making experience.  
 
 
-  *  **Q:** Do I need to prove I’m an accredited investor?
+  * **Q:** What if I’m not a US citizen?
 
-  *  **A:** Manifund will ask you for documents demonstrating your net worth and/or income; hopefully these won’t be too painful to provide.
+  * **A:** You may want to consult a lawyer in your home country, but it seems to us that the US allows you to invest in this project as long as you’re an accredited investor by the US definition of the term.  
 
-  *  **Q:** Who’s funding this?
 
-  *  **A:** I’m funding it, thanks to the money I’ve received from generous donors and paid subscribers like you.   
+  * **Q:** Do I need to prove I’m an accredited investor?
+
+  * **A:** Manifund will ask you for documents demonstrating your net worth and/or income; hopefully these won’t be too painful to provide.
+
+  * **Q:** Who’s funding this?
+
+  * **A:** I’m funding it, thanks to the money I’ve received from generous donors and paid subscribers like you.   
 
 
   * **Q:** Oh, good, so definitely not any fraudulent companies embroiled in giant legal disasters who are known for trying to claw back their previously spent money?
 
-  *  **A:** Manifold received some money from the Future Fund, an FTX-associated charity, for a related project. Some of those funds have been used for [Manifold's charity program](https://manifold.markets/charity) and platform development; the rest is sitting in an account pending final disposition. None of the final oracular funding for the Forecasting Impact Mini-Grants round is coming from an FTX-related source.  
+  * **A:** Manifold received some money from the Future Fund, an FTX-associated charity, for a related project. Some of those funds have been used for [Manifold's charity program](https://manifold.markets/charity) and platform development; the rest is sitting in an account pending final disposition. None of the final oracular funding for the Forecasting Impact Mini-Grants round is coming from an FTX-related source.  
 
 
-  *  **Q:** Are you sure this is legal?
+  * **Q:** Are you sure this is legal?
 
-  *  **A:** Impact market supporters have been trying to get guidance on this for years without a clear answer. Finally last year the Future Fund was able to get some lawyers’ opinions on this issue; they said that impact markets were definitely legal as long as they were restricted to accredited investors. But I think these lawyers worked for FTX, so I don’t have complete confidence in their judgment.   
+  * **A:** Impact market supporters have been trying to get guidance on this for years without a clear answer. Finally last year the Future Fund was able to get some lawyers’ opinions on this issue; they said that impact markets were definitely legal as long as they were restricted to accredited investors. But I think these lawyers worked for FTX, so I don’t have complete confidence in their judgment.   
   
 Our understanding is that the recognized way to solve issues like this is to start the project, try to comply with all relevant laws as best we can, and see what happens. If the government tells us to stop, we’ll stop and refund everyone all their money, up to the first $20,000 spent.  
 
 
-  *  **Q:** So it sounds like it might be risky to invest more money after the first $20,000 of investments have come in?
+  * **Q:** So it sounds like it might be risky to invest more money after the first $20,000 of investments have come in?
 
-  *  **A:** Right, for two reasons. First, our final oracular funding will only be $20,000, so if more than $20,000 goes into investing, investors will lose money on average (although individual investors could still gain). Second, if this project explodes for some reason, we’ll only refund the first $20,000 spent. If you don’t care about either of these issues, we won’t _stop you_ from investing more money once there’s already $20,000 in the pot. Earlier investors should keep in mind that if someone else makes this decision, there could be more than $20,000 in investments chasing only $20,000 in final oracular funding.
+  * **A:** Right, for two reasons. First, our final oracular funding will only be $20,000, so if more than $20,000 goes into investing, investors will lose money on average (although individual investors could still gain). Second, if this project explodes for some reason, we’ll only refund the first $20,000 spent. If you don’t care about either of these issues, we won’t _stop you_ from investing more money once there’s already $20,000 in the pot. Earlier investors should keep in mind that if someone else makes this decision, there could be more than $20,000 in investments chasing only $20,000 in final oracular funding.
 
-  *  **Q:** I have a project that isn’t about forecasting / requires more than $20,000 / won’t be done by September 1 / is a bad match for the ACX Grants team - may I add it to the impact market?
+  * **Q:** I have a project that isn’t about forecasting / requires more than $20,000 / won’t be done by September 1 / is a bad match for the ACX Grants team - may I add it to the impact market?
 
-  *  **A:** Yes! We’re trying to kickstart the existence of a broader impact market. Your project won’t be eligible for our contest, but someone else could provide oracular funding for it, or someone could invest without oracular funding. Both of these would be risky decisions that I would only expect people to make if they cared a lot about weird charity experiments - but if that’s you, then I salute you. Projects like these will carry a warning flag advising everyone that they’re not part of our contest, don’t have guaranteed oracular funding, and don’t get our $20,000 backstop if the impact market stops working.  
+  * **A:** Yes! We’re trying to kickstart the existence of a broader impact market. Your project won’t be eligible for our contest, but someone else could provide oracular funding for it, or someone could invest without oracular funding. Both of these would be risky decisions that I would only expect people to make if they cared a lot about weird charity experiments - but if that’s you, then I salute you. Projects like these will carry a warning flag advising everyone that they’re not part of our contest, don’t have guaranteed oracular funding, and don’t get our $20,000 backstop if the impact market stops working.  
   
 If you’re going to do this, go to Advanced Settings on the top right of your project proposal and click the “This project is NOT a part of the ACX Mini-Grants round” checkbox.  
 
 
-  *  **Q:** How will participating in this affect my taxes?
+  * **Q:** How will participating in this affect my taxes?
 
-  *  **A:** You should ask a lawyer or accountant in your jurisdiction, but our guess is that funding to creators will be ordinary taxable income unless you’re otherwise tax-exempt, and money made by investors will be ordinary investment income taxed at the usual short-term capital gains rate.
+  * **A:** You should ask a lawyer or accountant in your jurisdiction, but our guess is that funding to creators will be ordinary taxable income unless you’re otherwise tax-exempt, and money made by investors will be ordinary investment income taxed at the usual short-term capital gains rate.
 
 
 

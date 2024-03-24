@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Modern Architecture"
 subtitle: "..."
 date: 2021-10-04
 likes: 77
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/42030368/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2de2665a-20fe-4de6-a9c2-e7c1df2f1dd8_680x471.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-modern
 ---
 Thanks to everyone who commented on [Whither Tartaria](https://astralcodexten.substack.com/p/whither-tartaria) (currently 1079 comments). Many of you _really_ like modern architecture, and many others of you _really_ hate it. I appreciate most of you being able to accept disagreement on that and move on to the bigger question of why there’s so much more of it now.
@@ -119,7 +122,7 @@ And one of the responses is by Jim, who is finally (hallelujah!) a real architec
 
 > I'm a professional architect, albeit one of the minority who does traditional design work. Will try to answer a few of your questions here and below.
 > 
->  _> >But if the changes wrought by these thinkers are so unpopular, why haven't market forces simply swept them away? People have agency over which art they buy, which galleries they visit and over which houses they buy. In the UK, where I'm based, basic market logic supports your intuitions: old houses command a premium. But that preference hasn't been carried through into the housing projects that are built._
+> _> >But if the changes wrought by these thinkers are so unpopular, why haven't market forces simply swept them away? People have agency over which art they buy, which galleries they visit and over which houses they buy. In the UK, where I'm based, basic market logic supports your intuitions: old houses command a premium. But that preference hasn't been carried through into the housing projects that are built._
 > 
 > Because almost all of the architects are modernists, and you need to hire an architect to get a new building built. The complexity of design and construction has increased enormously in the past century, in part because of new technologies and in part because of regulation. The design professionals have the licenses and expertise that you need to navigate the maze, which puts you at their mercy. They can throw you a few bones by making vague references to your preferred aesthetic, but mostly they’ll do what they’ve been taught to do and like.
 > 
@@ -381,19 +384,19 @@ Simultan [writes](https://astralcodexten.substack.com/p/whither-tartaria/comment
 > 
 > [...]
 > 
->  **ERICH:** I know some great American composers, like Arnold Rosner and Harold Shapero, have spoken of having felt alienated in American music departments, due to the dogmatic serialism there. In your experience, have the conservatoires of Paris been more accepting of 19th-century idioms?
+> **ERICH:** I know some great American composers, like Arnold Rosner and Harold Shapero, have spoken of having felt alienated in American music departments, due to the dogmatic serialism there. In your experience, have the conservatoires of Paris been more accepting of 19th-century idioms?
 > 
->  **CORENTIN:** Absolutely not – quite the contrary! Western Europe, and France in particular, has spearheaded this systematic destruction of all artistic tradition, of any style that could be related to the past. The conservatories have been forced to practice a clean slate policy. This undermining action, well supervised by the institutions and the media, has had the disastrous result that, for several decades, composition – in the original sense of the word – is no longer taught in the conservatories. I did all my musical courses at the Conservatoire National Supérieur de Musique (CNSM) of Paris. I obtained five Prizes … but I was not able to attempt the “Composition” Prize since this Prize is only for composers of so-called “contemporary” music, that is to say “experimental”.
+> **CORENTIN:** Absolutely not – quite the contrary! Western Europe, and France in particular, has spearheaded this systematic destruction of all artistic tradition, of any style that could be related to the past. The conservatories have been forced to practice a clean slate policy. This undermining action, well supervised by the institutions and the media, has had the disastrous result that, for several decades, composition – in the original sense of the word – is no longer taught in the conservatories. I did all my musical courses at the Conservatoire National Supérieur de Musique (CNSM) of Paris. I obtained five Prizes … but I was not able to attempt the “Composition” Prize since this Prize is only for composers of so-called “contemporary” music, that is to say “experimental”.
 
 * * *
 
 Many people recommended books or papers on this subject. I haven’t read them yet, but the most enthusiastically mooted were:
 
- _The Work Of Art In The Age Of Mechanical Reproduction_  
+_The Work Of Art In The Age Of Mechanical Reproduction_  
  _From Bauhaus To Our House_  
  _The Rite of Spring_ by Modris Eksteins  
  _Art and Culture: Critical Essays_ by Clement Greenberg  
  _The Intellectuals and the Masses. Pride and Prejudice among the Literary Intelligentsia 1880-1939_  
  _Shock of the New_ (TV series)  
- _The Civilizing Process_ by Norbert Elias  
+_The Civilizing Process_ by Norbert Elias  
  _Distinction_ by Bourdieu

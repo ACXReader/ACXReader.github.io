@@ -3,6 +3,9 @@ title: "The Extinction Tournament"
 subtitle: "..."
 date: 2023-07-20
 likes: 138
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/134996398/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/9a353b82-9f14-4076-85fd-2d40119152d3_3100x2325.jpeg
 original-url: https://www.astralcodexten.com/p/the-extinction-tournament
 ---
 This month’s big news in forecasting: the Forecasting Research Institute has **[released the results of the Existential Risk Persuasion Tournament](https://static1.squarespace.com/static/635693acf15a3e2a14a56a4a/t/64abffe3f024747dd0e38d71/1688993798938/XPT.pdf)** (XPT). XPT was supposed to use cutting-edge forecasting techniques to develop consensus estimates of the danger from various global risks like climate change, nuclear war, etc.
@@ -89,7 +92,7 @@ Peter McCluskey, one of the more-AI-concerned superforecasters in the tournament
 > 
 > Skeptics pointed to memories of other technologies that had less impact (e.g. on GDP growth) than predicted (the internet). That generates a presumption that the people who predict the biggest effects from a new technology tend to be wrong.
 > 
->  _> Superforecasters' doubts about AI risk relative to the experts isn't primarily driven by an expectation of another "AI winter" where technical progress slows. ... That said, views on the likelihood of artificial general intelligence (AGI) do seem important: in the postmortem survey, conducted in the months following the tournament, we asked several conditional forecasting questions. The median superforecaster's unconditional forecast of AI-driven extinction by 2100 was 0.38%. When we asked them to forecast again, conditional on AGI coming into existence by 2070, that figure rose to 1%. There was also little or no separation between the groups on the three questions about 2030 performance on AI benchmarks (MATH, Massive Multitask Language Understanding, QuALITY)._
+> _> Superforecasters' doubts about AI risk relative to the experts isn't primarily driven by an expectation of another "AI winter" where technical progress slows. ... That said, views on the likelihood of artificial general intelligence (AGI) do seem important: in the postmortem survey, conducted in the months following the tournament, we asked several conditional forecasting questions. The median superforecaster's unconditional forecast of AI-driven extinction by 2100 was 0.38%. When we asked them to forecast again, conditional on AGI coming into existence by 2070, that figure rose to 1%. There was also little or no separation between the groups on the three questions about 2030 performance on AI benchmarks (MATH, Massive Multitask Language Understanding, QuALITY)._
 > 
 > This suggests that a good deal of the disagreement is over whether measures of progress represent optimization for narrow tasks, versus symptoms of more general intelligence.
 
@@ -182,4 +185,4 @@ Still, the considerations for Outside View don't completely lack compelling powe
 
 I’m heartened to remember that the superforecasters and domain experts in this study did the same. Confronted with the fact that domain experts/superforecasters had different estimates than they did, superforecasters/domain experts refused to update, and ended an order of magnitude away from each other. That seems like an endorsement of non-updating from superforecasters and domain experts! And who am I to disagree with such luminaries? It would be like trying to take over a difficult plane-landing from a pilot! Far better to continue stubbornly disagreeing with domain experts and superforecasters, just like my role models the superforecasters and domain experts do.
 
- _[XPT co-author Philip Tetlock will be at[the ACX meetup this Sunday](https://astralcodexten.substack.com/p/berkeley-meetup-on-sunday-special). If you have any questions, maybe he can answer them for you!]_
+_[XPT co-author Philip Tetlock will be at[the ACX meetup this Sunday](https://astralcodexten.substack.com/p/berkeley-meetup-on-sunday-special). If you have any questions, maybe he can answer them for you!]_

@@ -3,9 +3,12 @@ title: "Your Book Review: Lying for Money"
 subtitle: "Finalist #2 in the ACX Book Review contest"
 date: 2023-05-26
 likes: 168
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/123307142/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/226c98fa-2b08-4872-91f0-058597bb9cab_900x556.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-lying-for-money
 ---
-[ _This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_ ]
+[_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]
 
 At the time of its maiden voyage, the Titanic was considered an unsinkable ship. It was regarded as a marvel of engineering, a state-of-the-art vessel constructed by a shipyard with a long-standing track record and reputation for constructing high-quality, reliable ships. In the incredibly unlikely event of a hull breach, it was built with watertight compartments that were specifically designed to contain flooding. When 2,240 passengers and crew boarded the ship for its maiden voyage, probably none of them doubted its seaworthiness, and those that did could reassure themselves with the reporting of numerous newspapers touting the ship as "unsinkable."
 
@@ -103,11 +106,11 @@ Davies loosely divides his book into four sections (plus an intro and outro and 
 
   1. The Long Firm. (Of the white collar frauds that Davies describes, the "long firm" is the easiest to understand from a conceptual standpoint, but the hardest to understand semantically, because it has nothing to do with lengths or firms: etymologically, it comes from the Anglo-Saxon “galang” – fraudulent – and the Latin “firma” – signature). "The most basic kind of fraud is simply to borrow some money and not pay it back, or alternatively buy some goods and not pay for them. … **A long firm makes you question whether you can trust anyone."**
 
-  2. Counterfeiting. "The only practical way to do many types of business is to trust that, for the most part, documents are what they appear to be, and that they prove what they claim to prove. Abusing this trust by creating false documents to verify false claims is counterfeiting. … **A counterfeit makes you question the evidence of your eyes."**
+  2. Counterfeiting. "The only practical way to do many types of business is to trust that, for the most part, documents are what they appear to be, and that they prove what they claim to prove. Abusing this trust by creating false documents to verify false claims is counterfeiting. …**A counterfeit makes you question the evidence of your eyes."**
 
   3. Control Fraud. "A control fraud differs from the simpler kind because the means by which the value is extracted to the criminal is generally legitimate – high salaries, bonuses, stock options and dividends, but the legitimate payments are made on the basis of fictitious profits and unreal assets, and the manager tends to take vastly higher risks than those which would be taken by an honest businessman. … **A control fraud makes you question your trust in the institutions of society."**
 
-  4. And lastly, Market Crimes. Davies admits that "market crimes'' are the most abstract, and difficult to define: "More than any other, this kind of crime is a matter of judgment, local convention and practice, rather than one of cut and dried criminality. A blatant market crime in one jurisdiction could be considered aggressive but legal practice in another, and the definition of good business somewhere else. A long firm clearly falls under ‘Thou shalt not steal’, and a counterfeit under ‘Thou shalt not bear false witness’, but where’s the commandment ‘Thou shalt not trade securities while in possession of material non-public information’?" Still, even if norms may not be universal across time and geography, the existence of norms implies the existence of norm violations, and people don't like it when they see a violation of the way they think the world (or markets) are supposed to work. " **A market crime makes you question society itself."**
+  4. And lastly, Market Crimes. Davies admits that "market crimes'' are the most abstract, and difficult to define: "More than any other, this kind of crime is a matter of judgment, local convention and practice, rather than one of cut and dried criminality. A blatant market crime in one jurisdiction could be considered aggressive but legal practice in another, and the definition of good business somewhere else. A long firm clearly falls under ‘Thou shalt not steal’, and a counterfeit under ‘Thou shalt not bear false witness’, but where’s the commandment ‘Thou shalt not trade securities while in possession of material non-public information’?" Still, even if norms may not be universal across time and geography, the existence of norms implies the existence of norm violations, and people don't like it when they see a violation of the way they think the world (or markets) are supposed to work. "**A market crime makes you question society itself."**
 
 
 
@@ -154,7 +157,7 @@ After spending 54 days in jail for the aforementioned railway embezzlement, Alve
 
 The Bank of Portugal, wanting the latest in anti-counterfeiting technology, had previously decided to outsource their production to the trusted and prestigious London firm of Waterlow & Sons. The London firm had printed the legitimate bank notes and they entered circulation, largely without incident. Knowing this, Alves Reis forged a contract (and other documents), approached Waterlow & Sons, and claimed that he had been authorized by the Bank of Portugal to print more banknotes. The printing firm, believing Alves Reis was a legitimate representative of the Portuguese government, produced 200,000 banknotes with a face value of 500 escudos each, totaling 100 million escudos. At the time, this amount represented around 1% of Portugal's GDP.
 
-Some of the details of Alves dos Reis's story could make for the plot of a heist movie, which might strain audience credulity when arriving at the scene where the scheme started to unravel. Because he had a literal license to print money, each of the notes he printed had a unique serial number (though, not knowing the exact serial numbers of the legal notes already in circulation, it was possible that one of his counterfeit notes might be printed with the same serial number for a previously-printed legal bank note that was already in circulation). By sheer coincidence, during an investigation into Alves dos Reis, one investigator happened to spot a counterfeit bank note that had been placed next to a legitimate bank note of the same serial number.[1](/p/your-book-review-lying-for-money#footnote-1-123307142) At that point, the jig was up, and it was only a matter of time before he was caught and arrested.
+Some of the details of Alves dos Reis's story could make for the plot of a heist movie, which might strain audience credulity when arriving at the scene where the scheme started to unravel. Because he had a literal license to print money, each of the notes he printed had a unique serial number (though, not knowing the exact serial numbers of the legal notes already in circulation, it was possible that one of his counterfeit notes might be printed with the same serial number for a previously-printed legal bank note that was already in circulation). By sheer coincidence, during an investigation into Alves dos Reis, one investigator happened to spot a counterfeit bank note that had been placed next to a legitimate bank note of the same serial number.[^1] At that point, the jig was up, and it was only a matter of time before he was caught and arrested.
 
 The scheme ended up shaking the foundations of Portuguese society:
 
@@ -174,11 +177,11 @@ Davies notes that sometimes "counterfeiting" – which Davies stretches past its
 
 > In the 1990s, British Biotech was at the very earliest stages of testing an anticancer drug called marimastat. It filed plans with the FDA saying that it intended to test marimastat on cancer patients, and to measure its progress in reducing their tumors by monitoring levels of cancer antigens in their blood. The FDA’s immediate response was to say that “you cannot measure tumor size by counting antigen levels, they are not closely enough correlated in that way,” and that it would only accept data based on actual measurements of the tumors.
 > 
-> However, the FDA does not actually ban you from doing a trial it considers to be worthless (unless it’s also dangerous), and so British Biotech went ahead. It then commenced to send out a stream of positive-sounding press releases about how well the antigen-level trials were going, omitting to mention in any of them that so far as getting closer to an approved drug, they might as well not have bothered. The company ended up getting in serious trouble with the securities regulators, as it was felt that the investing public should not be expected to know quite so much about the FDA’s views on antigens. ~~~~
+> However, the FDA does not actually ban you from doing a trial it considers to be worthless (unless it’s also dangerous), and so British Biotech went ahead. It then commenced to send out a stream of positive-sounding press releases about how well the antigen-level trials were going, omitting to mention in any of them that so far as getting closer to an approved drug, they might as well not have bothered. The company ended up getting in serious trouble with the securities regulators, as it was felt that the investing public should not be expected to know quite so much about the FDA’s views on antigens.~~~~
 
 In this case, no test results or approval documents were forged: the company got into trouble when they took something that was legal and real and truthful ("we got approval from the FDA to move ahead with antigen trials") and used it to suggest something misleading (in this case, falsely implying "the approval to perform these tests gets us materially closer to obtaining FDA approval.")
 
- **Counterfeit loans**
+**Counterfeit loans**
 
 Another form of counterfeiting is to take bad loans and try to pass them off as good loans, which is an example that's more interesting for what it says about loans than for what it says about counterfeiting.
 
@@ -214,7 +217,7 @@ But when you have thousands of bank branch employees lying to meet their quotas 
 
 > The bosses … were responsible for creating the conditions under which the UK banking branch networks become a criminogenic environment. But, as far as anyone can tell, they didn’t tell the branch staff to misrepresent the PPI policies and were horrified and took appropriate action on the occasions when they found out what was going on. The problem was simply that they never did find out, because they didn’t make enough effort to find out.
 > 
-> This is why nobody went to jail over PPI. Prosecuting the small fry and letting off the big bosses is unedifying and leaves a bad taste. … But prosecuting the people at the top of the tree only works in situations when they meet you halfway by committing a crime. To the frustration of all, it is not a crime to set stupid targets for your sales force, nor is it a crime to fail to check up on them. At the time when the PPI scandal happened, it just wasn’t a crime to run your bank really badly.[2](/p/your-book-review-lying-for-money#footnote-2-123307142)
+> This is why nobody went to jail over PPI. Prosecuting the small fry and letting off the big bosses is unedifying and leaves a bad taste. … But prosecuting the people at the top of the tree only works in situations when they meet you halfway by committing a crime. To the frustration of all, it is not a crime to set stupid targets for your sales force, nor is it a crime to fail to check up on them. At the time when the PPI scandal happened, it just wasn’t a crime to run your bank really badly.[^2]
 
 This is the essence of a "distributed control fraud." Davies summarizes it by saying "it shows us how an organization can become criminogenic without ever really intending to, simply as the natural result of what happens when a dysfunctional industry meets a weak management structure, under pressure."
 
@@ -284,7 +287,7 @@ Thus, a caveat for the following advice:
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa74a5ef3-431f-4ef0-a19d-c67de0478827_745x230.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa74a5ef3-431f-4ef0-a19d-c67de0478827_745x230.png)
 
->  _Alt text:[@eigenrobot tweet](https://twitter.com/eigenrobot/status/1643477485034635266): "america is a land of innovation and its baked into our constitution. our prohibition on ex post facto law, for example, means there's immense alpha for firms that successfully productize new types of crimes_
+> _Alt text:[@eigenrobot tweet](https://twitter.com/eigenrobot/status/1643477485034635266): "america is a land of innovation and its baked into our constitution. our prohibition on ex post facto law, for example, means there's immense alpha for firms that successfully productize new types of crimes_
 
 If you plan to put this into action, make sure that your "new type of crime" isn't a market crime. "Ex post facto law" applies to the courts, but regulators have ways of punishing you even when you technically haven't broken the law.
 
@@ -324,9 +327,9 @@ But running a trading firm costs money, and so Ponzi and SBF had to raise capita
 
 "High returns with no risk" sounds too good to be true, but a 2018 fundraising deck for Alameda Research makes exactly that promise:
 
->  **Investment offerings**
+> **Investment offerings**
 > 
->  **PACKAGES**
+> **PACKAGES**
 > 
 > We offer one investment product: 
 > 
@@ -334,7 +337,7 @@ But running a trading firm costs money, and so Ponzi and SBF had to raise capita
 > 
 > [...]
 > 
->  **HIGH RETURNS WITH NO RISK**
+> **HIGH RETURNS WITH NO RISK**
 > 
 > These loans have no downside – we guarantee full payment the principle and interest _[sic]_ , enforceable under US law and established by all parties' legal counsel. We are extremely confident we will be able to pay this amount. In the unlikely case where we lose more than 2% over a month we will give investors the opportunity to recall funds and we will still guarantee full repayment.
 > 
@@ -388,10 +391,6 @@ But the book's 140+ footnotes aren't just random witticisms. Some are simply inf
 
 If I tried to provide a "list of things that didn't exactly fit in the review but were too interesting not to share," it would probably double the length of this review. Fortunately, I don't need to include that list, because [Ozy has already written "Interesting Facts From Lying For Money," which you can read at Thing of Things](https://thingofthings.substack.com/p/interesting-facts-from-lying-for). (If you want to get an idea for the breadth of topics that are covered in the book, rather than a summary of its main "theses," that's the post you should be reading.)
 
-[1](/p/your-book-review-lying-for-money#footnote-anchor-1-123307142)
+[^1]: A big part of the fun of _Lying For Money_ is reading stories with details that would be too outlandish to be considered plausible, except for the fact that they actually happened.
 
-A big part of the fun of _Lying For Money_ is reading stories with details that would be too outlandish to be considered plausible, except for the fact that they actually happened.
-
-[2](/p/your-book-review-lying-for-money#footnote-anchor-2-123307142)
-
-Davies footnotes this by adding, "It has since been made one, in the UK at least. The 2013 Financial Services (Banking Reform) Act provides criminal penalties for a senior executive of a failed financial institution if they should have known that their institution was being run recklessly. Whether this criminal offence will survive its first contact with human rights legislation is yet to be tested at the time of writing; the corresponding US legislation under the Sarbanes-Oxley Act is regarded by a lot of lawyers to be probably unconstitutional."
+[^2]: Davies footnotes this by adding, "It has since been made one, in the UK at least. The 2013 Financial Services (Banking Reform) Act provides criminal penalties for a senior executive of a failed financial institution if they should have known that their institution was being run recklessly. Whether this criminal offence will survive its first contact with human rights legislation is yet to be tested at the time of writing; the corresponding US legislation under the Sarbanes-Oxley Act is regarded by a lot of lawyers to be probably unconstitutional."

@@ -3,6 +3,9 @@ title: "Contra Acemoglu On...Oh God, We're Doing This Again, Aren't We?"
 subtitle: "Another popular article against AI concerns"
 date: 2021-07-27
 likes: 126
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39168323/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9b519e58-91d3-4936-be63-6d7f380a2bb4_1200x673.webp
 original-url: https://www.astralcodexten.com/p/contra-acemoglu-onoh-god-were-doing
 ---
 The Washington Post [has published yet another](https://www.washingtonpost.com/opinions/2021/07/21/ai-we-should-fear-is-already-here/) "luminary in unrelated field discovers AI risk, pronounces it stupid" article. This time it's Daron Acemoglu. I respect Daron Acemoglu and appreciate the many things I’ve learned from his work in economics. In particular, I respect him so much that I wish he would stop embarrassing himself by writing this kind of article (I feel the same way about Steven Pinker and [Ted Chiang](https://slatestarcodex.com/2018/01/15/maybe-the-real-superintelligent-ai-is-extremely-smart-computers/)). 
@@ -20,15 +23,15 @@ This is the basic structure around which this article is written. It goes:
 
 I have no idea why Daron Acemoglu and every single other person who writes articles on AI for the popular media thinks this is such a knockdown argument. But here we are. He writes:
 
->  _AI detractors have focused on the potential danger to human civilization from a super-intelligence if it were to run amok. Such warnings have been sounded by tech entrepreneurs Bill Gates and Elon Musk, physicist Stephen Hawking and leading AI researcher Stuart Russell._
+> _AI detractors have focused on the potential danger to human civilization from a super-intelligence if it were to run amok. Such warnings have been sounded by tech entrepreneurs Bill Gates and Elon Musk, physicist Stephen Hawking and leading AI researcher Stuart Russell._
 > 
->  _We should indeed be afraid — not of what AI might become, but of what it is now._
+> _We should indeed be afraid — not of what AI might become, but of what it is now._
 > 
->  _Almost all of the progress in artificial intelligence to date has little to do with the imagined Artificial General Intelligence; instead, it has concentrated on narrow tasks. AI capabilities do not involve anything close to true reasoning. Still, the effects can be pernicious._
+> _Almost all of the progress in artificial intelligence to date has little to do with the imagined Artificial General Intelligence; instead, it has concentrated on narrow tasks. AI capabilities do not involve anything close to true reasoning. Still, the effects can be pernicious._
 
 Then he goes on to talk about several ways in which existing narrow AI is pernicious, like potential technological unemployment or use by authoritarian states. Then, without any further discussion of superintelligence, he concludes:
 
->  _The best way to reverse this trend is to recognize the tangible costs that AI is imposing right now — and stop worrying about evil super-intelligence._
+> _The best way to reverse this trend is to recognize the tangible costs that AI is imposing right now — and stop worrying about evil super-intelligence._
 
 I wonder if other fields have to deal with this. “People have said climate change could cause mass famine and global instability by 2100. But actually, climate change is contributing to hurricanes and wildfires _right now_! So obviously those alarmists are wrong and nobody needs to worry about future famine and global instability at all.”
 
@@ -44,7 +47,7 @@ Despite that, I personally tend to put down a lot of the narrow AI risk research
 
 I just…don’t find it convincing. Acemoglu says the “most ominous” effect of existing AI is its contribution to employment, and devotes most of the article to the damage this is supposedly causing. There are a lot of links involved, but if you follow them, none actually support his argument. The closest he gets is [this paper](https://economics.mit.edu/files/20931), which he describes in the article as showing that “firms that increase their AI adoption by 1 percent reduce their hiring by approximately 1 percent”. But the paper itself is less convincing. It says that:
 
->  _Establishment-level estimates suggest that AI-exposed establishments are reducing hiring in non-AI positions as they expand AI hiring. However, **we find no discernible relationship between AI exposure and employment or wage growth** at the occupation or industry level, implying that AI is currently substituting for humans in a subset of tasks but **it is not yet having detectable aggregate labor market consequences**. _
+> _Establishment-level estimates suggest that AI-exposed establishments are reducing hiring in non-AI positions as they expand AI hiring. However,**we find no discernible relationship between AI exposure and employment or wage growth** at the occupation or industry level, implying that AI is currently substituting for humans in a subset of tasks but **it is not yet having detectable aggregate labor market consequences**. _
 
 I guess I can’t accuse Acemoglu of not reading the paper, given that he wrote it. Still, I think this result is pretty typical of the literature. Hanson and Scholl tried the same analysis and got the same result ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496364), [MR article](https://marginalrevolution.com/marginalrevolution/2020/06/keller-scholl-and-robin-hanson-on-automation.html)). This has made me much more skeptical of a _current_ AI unemployment problem than I was a few years ago. 
 
@@ -56,7 +59,7 @@ For all the other stuff on algorithmic bias, destroying democracy, etc, please s
 
 Along with all this, Acemoglu does mention one thing I agree is real and extremely bad. That is:
 
->  _And of course narrow AI is powering new monitoring technologies used by corporations and governments — as with the surveillance state that Uyghurs live under in China._
+> _And of course narrow AI is powering new monitoring technologies used by corporations and governments — as with the surveillance state that Uyghurs live under in China._
 
 This is definitely happening, I am super against it, and I hope everyone else is too.
 

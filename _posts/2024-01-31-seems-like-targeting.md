@@ -3,6 +3,9 @@ title: "Seems Like Targeting"
 subtitle: "..."
 date: 2024-01-31
 likes: 324
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/140437487/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/0793601c-d0a8-46b9-a336-32ca3b8e3092_1920x1080.webp
 original-url: https://www.astralcodexten.com/p/seems-like-targeting
 ---
 **I.**
@@ -24,7 +27,7 @@ I’m not criticizing Rufo and Brunet. Investigative journalism is important, th
 
 But it’s the sort of thing that you can imagine having chilling effects. Imagine if, every time someone let their students/employees/whatever criticize Israel, journalists searched really hard for unrelated dirt on them. Assuming that many important people have skeletons in their closets (or can be believably accused of such in ways hard for them to disprove), that creates chilling effects against letting anyone criticize Israel. If you know investigative journalism is a weapon pointed against people who do X, that scares people out of doing X.
 
- **II.**
+**II.**
 
 The latest chapter in the Claudine Gay saga is that Business Insider published [an expose accusing Neri Oxman of plagiarism](https://www.businessinsider.com/neri-oxman-plagiarize-wikipedia-mit-dissertation-2024-1).
 
@@ -32,7 +35,7 @@ Neri Oxman was a Professor of Media Arts and Sciences at MIT, but nobody in hist
 
 Compare to the hypothetical situation about Israel above. Investigative journalists have credibly signaled that if you go after their allies in academia, they’ll go after you and your loved ones - elevating fifteen-year-stale peccadillos by nobodies into front page news. Business Insider did investigate itself, [and found no wrongdoing](https://www.washingtonpost.com/style/2024/01/14/business-insider-oxman-ackman-axel-springer/). But is it really normal to mention the name of the plagiarist’s husband four times in a plagiarism article?
 
- **III.**
+**III.**
 
 I have a personal interest in this because of my experiences with effective altruism.
 

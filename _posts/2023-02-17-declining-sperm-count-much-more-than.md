@@ -3,6 +3,9 @@ title: "Declining Sperm Count: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2023-02-17
 likes: 149
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/103404975/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/acc3c846-5037-4a8b-a490-ffccbc48a78d_336x189.webp
 original-url: https://www.astralcodexten.com/p/declining-sperm-count-much-more-than
 ---
 ## Is Sperm Count Declining?
@@ -179,7 +182,7 @@ The hypotheses I’ve seen are:
 
 Going in order:
 
- **Plastics** are sometimes “endocrine disruptors”. They mimic reproductive hormones, causing the reproductive tract to be getting random signals all the time and develop incorrectly. This is probably the most commonly cited hypothesis. 
+**Plastics** are sometimes “endocrine disruptors”. They mimic reproductive hormones, causing the reproductive tract to be getting random signals all the time and develop incorrectly. This is probably the most commonly cited hypothesis. 
 
 (a plastics engineer in the comments wants me to clarify that most of the offending chemicals are technically plasticizers - substances added to plastic to change its properties - and not the plastics themselves. Phthalates are an example of this; BPA is a counterexample).
 
@@ -191,7 +194,7 @@ If sperm counts really did decline between 1951 and 1974, as the [Nelson & Bunge
 
 This is [Our World In Data’s map of plastic waste per capita](https://ourworldindata.org/plastic-pollution). It’s actually not a bad match for the geography of sperm count decline, though it’s not amazingly perfect either.
 
- **Pesticides** can also be endocrine disruptors. This is a good match for the “Missouri is worst US state” result, and in fact [that same study](https://sci-hub.st/https://pubmed.ncbi.nlm.nih.gov/16466525/) separates Missourians by pesticide exposure. 
+**Pesticides** can also be endocrine disruptors. This is a good match for the “Missouri is worst US state” result, and in fact [that same study](https://sci-hub.st/https://pubmed.ncbi.nlm.nih.gov/16466525/) separates Missourians by pesticide exposure. 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F796b7eac-5bee-42ec-a271-fa21c3b00d61_384x287.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F796b7eac-5bee-42ec-a271-fa21c3b00d61_384x287.png)
 
@@ -210,21 +213,21 @@ Two meta-analyses ([1](https://pubmed.ncbi.nlm.nih.gov/18281240/), [2](https://w
 
 There is probably publication bias in this literature, and nobody has done even basic tests to look for it, but overall I find it pretty suggestive.
 
- **Sunlight and circadian rhythm** are known to affect sperm count (did you know that [men produce more sperm in winter than summer](https://fertilityinstitute.com/blog/healthier-sperm-cooler-months/), and any study that doesn’t account for this is potentially confounded?) People working office jobs and staring at screens all day have worse-defined circadian rhythm, and maybe this is bad in some way.
+**Sunlight and circadian rhythm** are known to affect sperm count (did you know that [men produce more sperm in winter than summer](https://fertilityinstitute.com/blog/healthier-sperm-cooler-months/), and any study that doesn’t account for this is potentially confounded?) People working office jobs and staring at screens all day have worse-defined circadian rhythm, and maybe this is bad in some way.
 
 Sperm quality displays a classic pattern where it [seems correlated with Vitamin D](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7076312/), but [supplementing Vitamin D does not improve it](https://pubmed.ncbi.nlm.nih.gov/29126319/). This can either mean it is correlated with some other sunshine-related process we don’t understand, or that Vitamin D is a more general marker of (the relevant facets of) good health.
 
 Only one team did [the study I wanted](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7368401/) \- seeing if sperm count was lower in workers with night shifts or confusing shifts than in more regular workers; they concluded it was, but I find their results kind of weak and unconvincing.
 
- **Obesity and bad diets** [can impact sperm count](https://www.healthymale.org.au/news/obesity-overweight-can-impact-male-fertility). But the US, a world center of obesity, seems to be doing better than many less obese countries, and countries like China and France that have maintained relatively low rates of obesity and overweight seem heavily affected. If modern diets are the problem, then it has to be something more insidious than obvious you-are-very-fat obesity - unless you want to use the “all regional comparisons are too low sample size for us to care” card.
+**Obesity and bad diets** [can impact sperm count](https://www.healthymale.org.au/news/obesity-overweight-can-impact-male-fertility). But the US, a world center of obesity, seems to be doing better than many less obese countries, and countries like China and France that have maintained relatively low rates of obesity and overweight seem heavily affected. If modern diets are the problem, then it has to be something more insidious than obvious you-are-very-fat obesity - unless you want to use the “all regional comparisons are too low sample size for us to care” card.
 
- **Porn** hasn’t actually been proposed as a cause of declining sperm count as far as I know, but I found myself wondering about it when writing this piece. Doesn’t frequent masturbation decrease sperm count? 
+**Porn** hasn’t actually been proposed as a cause of declining sperm count as far as I know, but I found myself wondering about it when writing this piece. Doesn’t frequent masturbation decrease sperm count? 
 
 [Yes, somewhat, for a few days](https://pubmed.ncbi.nlm.nih.gov/2054949/). But people doing official studies usually ask men to abstain for a few days before giving samples, and when they don’t, they adjust for this as a confounder. So if this were a cause, it would have to be some kind of long-term negative effect separate from the well-established effect where you ejaculate all your sperm and can’t make new ones for a few days. 
 
 There is [one extremely weak study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8461095/) finding evidence for such an effect. But also, many sources find that [Middle Eastern countries watch the most porn](https://www.mic.com/articles/108552/the-countries-that-watch-the-most-porn-aren-t-the-ones-you-d-expect), and these are also the countries with lowest sperm count. Obviously an ecological argument like this is extremely weak, even before we get to the problem where all cross-country comparisons might be bunk.
 
- **Other things** that don’t get their own paragraph:
+**Other things** that don’t get their own paragraph:
 
   * Marijuana decreases sperm count and people use it a lot more recently
 
@@ -253,35 +256,35 @@ But right now, not knowing which side is right, we don’t have any of these eas
 
 I’m not actually very good at this in this situation, and I’m pretty split about how concerned to be. Trying to turn this into concrete predictions, with a market for each:
 
- **1: In twenty years, the best evidence will suggest that sperm counts have been substantially declining across most of the world: 50%**
+**1: In twenty years, the best evidence will suggest that sperm counts have been substantially declining across most of the world: 50%**
 
 Auger and Fisch make great points about confounders and measurement difficulties. Nobody denies how noisy these data are. I think the case in their favor is that there are so many studies that you’d need a strong directional bias to explain the strong directional finding - plus the sheer magnitude of the effect, from counts of 100 million + in the Fifties to ~40 million today, is impressive.
 
 I wrote this post at the same time I wrote my response to Alexandros Marinos on ivermectin. If I applied the same hyper-skeptical eye to these studies that I apply to the ivermectin studies, they fail. But I admitted I was more cynical than usual about the ivermectin studies because of the many large RCTs that found no effect. Should I be more forgiving here? I’m not sure.
 
- **2: In twenty years, the best evidence will show very substantial ( >one quarter) declines in fertility rate (relative to couples trying equally hard to conceive in the past) due to decreasing sperm count, in at least one country: 20%**
+**2: In twenty years, the best evidence will show very substantial ( >one quarter) declines in fertility rate (relative to couples trying equally hard to conceive in the past) due to decreasing sperm count, in at least one country: 20%**
 
 If sperm counts are declining as fast as Swann and Levine think, this should definitely happen. 
 
 So why is my number for this prediction so much lower than for the one above? Partly because the decline could be sublinear. Partly because the decline could stop - either because we identify the cause and correct it, or for more mysterious reasons. But partly it’s just an unjustifiable penalty for something that it seems very hard to imagine happening.
 
- **3: Conditional on a consensus 20 years from now being that sperm count was declining, scientists will believe the most important factor is:**
+**3: Conditional on a consensus 20 years from now being that sperm count was declining, scientists will believe the most important factor is:**
 
-  *  **Plastics:** 25%
+  * **Plastics:** 25%
 
-  *  **Pesticides:** 30%
+  * **Pesticides:** 30%
 
-  *  **Sunlight and circadian rhythm:** 2%
+  * **Sunlight and circadian rhythm:** 2%
 
-  *  **Diet and obesity:** 13%
+  * **Diet and obesity:** 13%
 
-  *  **Porn:** 5%
+  * **Porn:** 5%
 
-  *  **Something else:** 25%
+  * **Something else:** 25%
 
 
 
 
 Pesticides mostly going off the many studies supporting this hypothesis; plastics mostly going off superficial plausibility and the number of scientists talking about it.
 
- _[Thanks to[paid subscribers](https://astralcodexten.substack.com/subscribe) for reviewing an earlier draft of this post.]_
+_[Thanks to[paid subscribers](https://astralcodexten.substack.com/subscribe) for reviewing an earlier draft of this post.]_

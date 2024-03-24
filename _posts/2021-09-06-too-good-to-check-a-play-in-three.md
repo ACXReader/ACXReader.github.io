@@ -3,6 +3,9 @@ title: "Too Good To Check: A Play In Three Acts"
 subtitle: "..."
 date: 2021-09-06
 likes: 323
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/40966737/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/324424c5-a4de-4449-829f-a35b96e8bdec_755x458.jpeg
 original-url: https://www.astralcodexten.com/p/too-good-to-check-a-play-in-three
 ---
 **I.**
@@ -27,7 +30,7 @@ I’ve recently been reading _[Scout Mindset](https://www.amazon.com/Scout-Minds
 
 The media was already looking to discredit ivermectin. So the report of one doctor - without even a phone call to confirm - was good enough for _Rolling Stone_ , _The Guardian_ , _BBC_ , etc. It was “too good to check”.
 
- **II.**
+**II.**
 
 Did you believe that?
 
@@ -49,7 +52,7 @@ Apparently I’m not the only person who doesn’t scroll down to the third twee
 
 Their story was - I guess - too good to check.
 
- **III.**
+**III.**
 
 Did you believe that?
 
@@ -59,7 +62,7 @@ Sequoyah Hospital might not be the particular hospital that the doctor in the st
 
 Okay, this time I promise I’m not trying to psych you out. Here’s what I’ve actually been able to figure out about this situation:
 
-  *  _Rolling Stone_ seems to think that the Sequoyah Hospital statement casts doubt on their account. They changed the title of their article to “[One Hospital Denies Oklahoma Doctor’s Story](https://www.rollingstone.com/politics/politics-news/gunshot-victims-horse-dewormer-ivermectin-oklahoma-hospitals-covid-1220608/)…” and edited in a long prologue about the hospital’s statement in a way that suggests they feel bad about their reporting. They say that they have reached out to various relevant doctors and hospitals for comments but have not heard back from them - which I guess is good, because if your hospital is so busy that you don’t have time to treat gunshot victims, you really shouldn’t have time to give interviews to _Rolling Stone_.
+  * _Rolling Stone_ seems to think that the Sequoyah Hospital statement casts doubt on their account. They changed the title of their article to “[One Hospital Denies Oklahoma Doctor’s Story](https://www.rollingstone.com/politics/politics-news/gunshot-victims-horse-dewormer-ivermectin-oklahoma-hospitals-covid-1220608/)…” and edited in a long prologue about the hospital’s statement in a way that suggests they feel bad about their reporting. They say that they have reached out to various relevant doctors and hospitals for comments but have not heard back from them - which I guess is good, because if your hospital is so busy that you don’t have time to treat gunshot victims, you really shouldn’t have time to give interviews to _Rolling Stone_.
 
   * In an unrelated issue, the photo on top of their article was previously a bunch of Oklahoman-looking people standing in a long line outside a building. This had a caption, in small print, saying that it was of Oklahomans waiting for the COVID vaccine. Critics pointed out that in context, people would have interpreted it as being a picture of people waiting outside a hospital which had long lines because it was too full of ivermectin victims. Whether or not that criticism was fair, _Rolling Stone_ has taken down that photo and replaced it with a photo of ivermectin pills.
 

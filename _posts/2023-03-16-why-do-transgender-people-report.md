@@ -3,11 +3,14 @@ title: "Why Do Transgender People Report Hypermobile Joints?"
 subtitle: "..."
 date: 2023-03-16
 likes: 143
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/102968563/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/973174a3-7682-43a1-8dd4-cf161ea7ae96_1200x798.jpeg
 original-url: https://www.astralcodexten.com/p/why-do-transgender-people-report
 ---
 _[Related:[Why Are Transgender People Immune To Optical Illusions?](https://slatestarcodex.com/2017/06/28/why-are-transgender-people-immune-to-optical-illusions/)]_
 
- **I.**
+**I.**
 
 Ehlers-Danlos syndrome is a category of connective tissue disorder; it usually involves stretchy skin and loose, hypermobile joints.
 
@@ -19,27 +22,27 @@ Coming from the other direction, [Jones et al](https://journals.sagepub.com/doi/
 
 Why should this be? I know of four and a half theories:
 
- **1 ) Spurious result:** Although EDS is technically a well-defined disease caused by specific measurable genetic mutations, in practice some cases are just sort of diagnosed on vibes, and the vibes have been getting more popular lately. [This doctor calls it an](https://www.reddit.com/r/medicine/comments/yerdlb/ehlers_danlos_syndrome_medical_literature_vs/) “Instagrammable illness”; [this doctor](https://www.reddit.com/r/medicine/comments/yerdlb/ehlers_danlos_syndrome_medical_literature_vs/itzt7nn/) gives an account of EDS patients which stops just short of using the term “special snowflakes”. All Instagrammable conditions cluster together among Instagram users; if transgender is also Instagrammable, that could explain the finding.
+**1 ) Spurious result:** Although EDS is technically a well-defined disease caused by specific measurable genetic mutations, in practice some cases are just sort of diagnosed on vibes, and the vibes have been getting more popular lately. [This doctor calls it an](https://www.reddit.com/r/medicine/comments/yerdlb/ehlers_danlos_syndrome_medical_literature_vs/) “Instagrammable illness”; [this doctor](https://www.reddit.com/r/medicine/comments/yerdlb/ehlers_danlos_syndrome_medical_literature_vs/itzt7nn/) gives an account of EDS patients which stops just short of using the term “special snowflakes”. All Instagrammable conditions cluster together among Instagram users; if transgender is also Instagrammable, that could explain the finding.
 
 [Pirate Wires recently reported](https://www.piratewires.com/p/bisexuals-long-covid) that transgender and bisexual people were more likely (20 - 25%) to report Long COVID compared to cisgender and straight people (~15%, yes, all these numbers are really high and you shouldn’t exactly believe them). There are lots of possible confounders, and I’ll post a replication attempt from the ACX survey data sometime, but a pretty plausible explanation is that some Long COVID is psychosomatic, all forms of neurodivergence correlate with each other, and so bi and trans people will report more of every psychosomatic condition.
 
 But Long COVID is maximally easy to psych yourself into thinking you have - it’s just fatigue - and Ehlers-Danlos is pretty hard. And Pirate Wires was able to find 1.25x relative risk for bi people and Long COVID, and Najafian found 132x relative risk for trans people and EDS. Also, many trans people are able to easily demonstrate skin/joint abnormalities that are obvious to anyone who looks at them - although it’s possible this is selection bias - a subgroup who have real EDS (at the same rate as cis people) and are very salient because of their gender identity, while cis people with EDS (and trans people with psychosomatic EDS) don’t talk about it as much.
 
- **2 ) Estrogen:** Women have more EDS (and other joint disorders) than men. They also have looser joints in general. This is mostly because estrogen makes joints more mobile. Maybe there’s something about trans women suddenly taking estrogen after a lifetime of not having estrogen which causes joint problems (or just makes them notice the kinds of minor issues cis women deal with their whole lives). 
+**2 ) Estrogen:** Women have more EDS (and other joint disorders) than men. They also have looser joints in general. This is mostly because estrogen makes joints more mobile. Maybe there’s something about trans women suddenly taking estrogen after a lifetime of not having estrogen which causes joint problems (or just makes them notice the kinds of minor issues cis women deal with their whole lives). 
 
 In contrast to this theory, trans women say they had them even before starting estrogen, and these conditions also seem elevated in trans men.
 
- **3 ) Genetics:** The gene for congenital adrenal hyperplasia, a sex hormone condition that frequently causes gender divergence, is interwoven on chromosome 6 with the gene for tenascin-X, a joint-related protein whose abnormality causes Ehlers-Danlos syndrome. Maybe if there’s a problem in that part of chromosome 6, you could get both conditions. [See here for more discussion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8913572/).
+**3 ) Genetics:** The gene for congenital adrenal hyperplasia, a sex hormone condition that frequently causes gender divergence, is interwoven on chromosome 6 with the gene for tenascin-X, a joint-related protein whose abnormality causes Ehlers-Danlos syndrome. Maybe if there’s a problem in that part of chromosome 6, you could get both conditions. [See here for more discussion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8913572/).
 
 In contrast to this theory, congenital adrenal hyperplasia is extremely rare, maybe [1/15,000 births among people of European descent](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia#Epidemiology). Although many cases of CAH cause gender divergence, most cases of gender divergence cannot be CAH (unless we’re misunderstanding this really badly). CAH can very easily cause biological women to identify as men, but only very very rarely causes biological men to identify as women, whereas the trans-EDS connection seems strong among both genders. Also, there are so many genes involved in everything that I’m skeptical a coincidental alignment of two genes can have much of an effect.
 
- **4 ) Autism:** There’s an equally mysterious relationship between EDS and autism; [autistic people are about 7x more likely to have EDS than controls](https://pubmed.ncbi.nlm.nih.gov/27377649/). This suffers from all the same questions as the transgender link, including the tendency of Instagrammable conditions to correlate together (although in this case it would have to be the parents with Instagram - many of these studies were in very young children). Also, [people with autism are about 8x more likely to be gender divergent than the general population](https://www.theatlantic.com/health/archive/2016/11/the-link-between-autism-and-trans-identity/507509/). I don’t think anyone knows the exact causal graph here, but it’s at least possible that EDS and transgender are linked because autism is a shared causative factor for both.
+**4 ) Autism:** There’s an equally mysterious relationship between EDS and autism; [autistic people are about 7x more likely to have EDS than controls](https://pubmed.ncbi.nlm.nih.gov/27377649/). This suffers from all the same questions as the transgender link, including the tendency of Instagrammable conditions to correlate together (although in this case it would have to be the parents with Instagram - many of these studies were in very young children). Also, [people with autism are about 8x more likely to be gender divergent than the general population](https://www.theatlantic.com/health/archive/2016/11/the-link-between-autism-and-trans-identity/507509/). I don’t think anyone knows the exact causal graph here, but it’s at least possible that EDS and transgender are linked because autism is a shared causative factor for both.
 
 My guess is something like joint issues → poor proprioception → all sensory experience is noisy and confusing → the brain, which is embodied and spends most of its time trying to process sensory experience, learns a different reasoning style → different reasoning style is less context-dependent (producing symptoms of autism) → different reasoning style when trying to interpret bodily correlates of gender (eg sex hormones) → transgender.
 
 For more on why I would think this, see [here](https://slatestarcodex.com/2016/09/12/its-bayes-all-the-way-up/). But also, consider the many reports by autistic people that having [weighted blankets](https://psychcentral.com/autism/weighted-blankets-and-autism), [very tight clothing](https://www.thechaosandtheclutter.com/archives/tight-fitting-clothing-sensory), or other forms of “thing pressing very hard against the skin” alleviates some of their symptoms. Things pressing very hard against the skin are strong proprioceptive feedback! I think of people with proprioceptive disorders as essentially being under negative one weighted blankets at all times.
 
- **II.**
+**II.**
 
 In order to learn more about this, I asked people about their gender and their joint disorders on the ACX survey, taken by about 7000 people.
 

@@ -3,11 +3,14 @@ title: "Sam Altman Wants $7 Trillion"
 subtitle: "Machine Alignment Monday 2/12/24"
 date: 2024-02-13
 likes: 242
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/141569076/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/7eb2039d-4e6a-445d-99f5-571657ea85e1_2000x1423.jpeg
 original-url: https://www.astralcodexten.com/p/sam-altman-wants-7-trillion
 ---
 _[All numbers here are very rough and presented in a sloppy way. For the more rigorous versions of this, read[Tom Davidson](/p/davidson-on-takeoff-speeds), [Yafah Edelman](https://www.lesswrong.com/posts/nXcHe7t4rqHMjhzau/report-on-frontier-model-training), and [EpochAI](https://epochai.org/blog/trends-in-the-dollar-training-cost-of-machine-learning-systems))_
 
- **I.**
+**I.**
 
 Sam Altman [wants $7 trillion](https://www.cnbc.com/2024/02/09/openai-ceo-sam-altman-reportedly-seeking-trillions-of-dollars-for-ai-chip-project.html).
 
@@ -42,7 +45,7 @@ If we keep our 30x scaling factor, GPT-5 will take 1/70th of all the computers i
 
 Probably you can’t get 1/3 of the world’s computers, especially when all the other AI companies want them too. You would need to vastly scale up chip manufacturing.
 
- _Energy_
+_Energy_
 
 GPT-4 took about [50 gigawatt-hours](https://www.ri.se/en/news/blog/generative-ai-does-not-run-on-thin-air) of energy to train. Using our scaling factor of 30x, we expect GPT-5 to need 1,500, GPT-6 to need 45,000, and GPT-7 to need 1.3 million.
 
@@ -50,7 +53,7 @@ Let’s say the training run lasts six months, ie 4,320 hours. That means GPT-6 
 
 ([Sam Altman is working on fusion power](https://www.cnbc.com/2023/05/10/microsoft-agrees-to-buy-power-from-sam-altman-backed-helion-in-2028.html), but this seems to be a coincidence. At least, he’s been interested in fusion since at least 2016, which is way too early for him to have known about any of this.)
 
- _Training Data_
+_Training Data_
 
 This is the text or images or whatever that the AI reads to understand how its domain works. [GPT-3](https://lambdalabs.com/blog/demystifying-gpt-3) used 300 billion tokens. [GPT-4](https://www.springboard.com/blog/data-science/machine-learning-gpt-3-open-ai/) used 13 trillion tokens (another source says 6 trillion). This sort of looks like our scaling factor of 30x still kind of holds, but in theory training data is supposed to scale as the square root of compute - so you should expect a scaling factor of 5.5x. That means GPT-5 will need somewhere in the vicinity of 50 trillion tokens, GPT-6 somewhere in the three-digit trillions, and GPT-7 somewhere in the quadrillions.
 
@@ -64,11 +67,11 @@ Maybe you can create a smart AI through some combination of text, chess, math, a
 
 This is kind of the odd one out - compute and electricity can be solved with lots of money, but this one might take more of a breakthrough.
 
- _Algorithmic Progress_
+_Algorithmic Progress_
 
 This means “people make breakthroughs and become better at building AI”. It seems to be another one of those things that gives an order of magnitude of progress per five years or so, so I’m revising the estimates above down by a little.
 
- _Putting It All Together_
+_Putting It All Together_
 
 GPT-5 might need about 1% the world’s computers, a small power plant’s worth of energy, and a lot of training data.
 
@@ -82,7 +85,7 @@ Building GPT-8 is currently impossible. Even if you solve synthetic data and fus
 
 You might call this “speculative” and “insane”. But if Sam Altman didn’t believe something at least this speculative and insane, he wouldn’t be asking for $7 trillion.
 
- **II.**
+**II.**
 
 Let’s back up.
 
@@ -102,13 +105,13 @@ But if each new generation of AI isn’t exciting enough to inspire the massive 
 
 Even when R < 1, we still get the bigger models eventually. Chip factories can gradually churn out more chips. Researchers can gradually churn out more algorithmic breakthroughs. If nothing else, you can spend ten years training GPT-7 very slowly. It just means we get human or above-human level AI in the mid-21st century, instead of the early part.
 
- **III.**
+**III.**
 
 When Sam Altman asks for $7 trillion, I interpret him as wanting to do this process in a centralized, quick, efficient way. One guy builds the chip factories and power plants and has them all nice and ready by the time he needs to train the next big model.
 
 Probably he won’t get his $7 trillion. Then this same process will happen, but slower, more piecemeal, and more decentralized. They’ll come out with GPT-5. If it’s good, someone will want to build GPT-6. Normal capitalism will cause people to gradually increase chip capacity. People will make a lot of GPT-5.1s and GPT-5.2s until finally someone takes the plunge and builds the giant power plant somewhere. All of this will take decades, happen pretty naturally, and no one person or corporation will have a monopoly.
 
-I would be happier with the second situation: [the safety perspective](/p/pause-for-thought-the-ai-pause-debate) here is that we want as much time as we can get to prepare for disruptive AI.
+I would be happier with the second situation: [the safety perspective](/p/pause-for-thought-the-ai-pause-debate) here is that we want as much time as we can get to prepare for disruptive AI. 
 
 Sam Altman previously endorsed this position! He said that OpenAI’s efforts were good for safety, because you want to avoid _compute overhang_. That is, you want AI progress to be as gradual as possible, not to progress in sudden jerks. And one way you can keep things gradual is to max out the level of AI you can build with your current chips, and then AI can grow (at worst) as fast as the chip supply, which naturally grows pretty slowly.
 

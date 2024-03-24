@@ -3,9 +3,12 @@ title: "Your Book Review: Why Buddhism Is True"
 subtitle: "Finalist #5 of the book review contest"
 date: 2021-04-23
 likes: 52
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/35452414/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a5795c71-caa6-4c55-b547-110ecac8bee2_1200x900.webp
 original-url: https://www.astralcodexten.com/p/your-book-review-why-buddhism-is
 ---
-[ _This is the fifth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_ ] 
+[_This is the fifth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_] 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60dde4c6-4ba5-4813-9452-5c496db4df3b_412x401.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60dde4c6-4ba5-4813-9452-5c496db4df3b_412x401.png)The dark side of enlightenment
 
@@ -29,7 +32,7 @@ So why am I reviewing this disappointment of a book? Because beating my head aga
 
 This review is going to be a journey from depression to mania. Taking you through some of the worst fragments of the book, I’ll be intentionally strawmanning Wright. Hopefully, this route will help you see that the second part of the review is really a steelman.
 
- **I. The Depresstrawman**
+**I. The Depresstrawman**
 
 In “The Last Hippie," Oliver Sacks tells the story of Greg F., a Grateful Dead fan and onetime acidhead who joined a Hare Krishna temple in 1970. Greg appeared to thrive there:
 
@@ -91,7 +94,7 @@ In conclusion, it's unclear how Wright's enlightened person can think, act, or r
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6f369e5-b506-4f95-bbb1-d8f1f016b394_586x348.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6f369e5-b506-4f95-bbb1-d8f1f016b394_586x348.png)
 
- **II. The Steelmanic**
+**II. The Steelmanic**
 
 I think there's a way to remove the scalpel from Wright's hand and turn his view into something much more compelling.
 
@@ -155,7 +158,7 @@ I think it means it was a _moral_ illusion. Other beings' pain and pleasure is a
 
 Maybe I’m experiencing a bout of mania, but that doesn’t sound so bad anymore.
 
- **III. Sex Scandals and Universal Love**
+**III. Sex Scandals and Universal Love**
 
 If you're one of Scott's regular readers, at this point you're probably wondering: okay, but what about [sex scandals](https://slatestarcodex.com/2019/10/16/is-enlightenment-compatible-with-sex-scandals/)? We can rhapsodize about how meditation will make us more moral all we want, but isn't the cold hard truth that people who claim to be enlightened are suspiciously likely to be sexual predators?
 
@@ -183,4 +186,4 @@ So my personal experience matches Wright’s triumphant vision of a meditative p
 
 After all, during that retreat, I also [hallucinated](https://evebigaj.com/2020/01/30/the-wisdom-of-the-nostril/) a Buddha with a finger up each nostril, the most beautifully bewhiskered otter I had ever seen, and a pile of loose teeth.
 
- _Thanks to Ben Kuhn for discussion and comments on a draft of this post._
+_Thanks to Ben Kuhn for discussion and comments on a draft of this post._

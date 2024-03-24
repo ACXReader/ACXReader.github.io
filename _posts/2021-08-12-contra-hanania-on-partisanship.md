@@ -3,11 +3,14 @@ title: "Contra Hanania On Partisanship"
 subtitle: "My one regret is that I can no longer use the \"too many graphs\" tag"
 date: 2021-08-12
 likes: 99
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37799371/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F03152c46-c574-4c2f-8e28-bd810572b408_1069x1017.png
 original-url: https://www.astralcodexten.com/p/contra-hanania-on-partisanship
 ---
 Richard Hanania of the [Center For The Study Of Partisanship And Ideology](https://cspicenter.org/) asks "[why is everything liberal](https://richardhanania.substack.com/p/why-is-everything-liberal)?" Given that there are approximately equal numbers of Trump voters and Biden voters in elections, how come we have "woke capital" celebrating Pride Month, instead of unwoke capital celebrating some conservative cause (as might have happened fifty years ago)? How come conservatives worry about censorship by liberal tech companies instead of vice versa? How come conservatives worry about college turning their kids liberal instead of vice versa?
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F03152c46-c574-4c2f-8e28-bd810572b408_1069x1017.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F03152c46-c574-4c2f-8e28-bd810572b408_1069x1017.png) _Source:[Hanania’s post](https://richardhanania.substack.com/p/why-is-everything-liberal)_
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F03152c46-c574-4c2f-8e28-bd810572b408_1069x1017.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F03152c46-c574-4c2f-8e28-bd810572b408_1069x1017.png)_Source:[Hanania’s post](https://richardhanania.substack.com/p/why-is-everything-liberal)_
 
 He concludes that "liberals win because they care about politics more". This may come as a surprise to anyone familiar with Fox News, YouTube, Twitter, or the federal government, but he has lots of data in support (and note that Hanania himself is conservative, so this isn't a cheap attack). Liberals donate more, even though both sides control about equal pools of money. Liberal protests attract orders of magnitude more protests than conservative ones. Liberals express more willingness to shun people for being conservative than vice versa. And liberals are more willing to take low-paying (but important-for-gaining-power) activist jobs. He writes:
 
@@ -15,7 +18,7 @@ He concludes that "liberals win because they care about politics more". This may
 
 I don't want to argue with his data showing that conservatives care less. But even if it’s true, I don't think it's the root issue. The reason everything is liberal is because of the stuff Thomas Piketty keeps trying to tell us about our shifting coalition system.
 
- **II.**
+**II.**
 
 You can find this in Piketty’s new book [Capital And Ideology](https://www.amazon.com/Capital-Ideology-Thomas-Piketty/dp/0674980824/), or if you don't have the attention span to get through a 1104 page book, his more recent paper [Brahmin Left Vs. Merchant Right: Changing Political Cleavages In 21 Western Democracies 1948-2020](https://wid.world/document/brahmin-left-versus-merchant-right-changing-political-cleavages-in-21-western-democracies-1948-2020-world-inequality-lab-wp-2021-15/). Or, if even a 32 page paper is pushing it, here are three graphs:
 
@@ -65,7 +68,7 @@ So if you rephrase Hanania’s question as "how come the party of highly-educate
 
 My overall model of this is that the US two party system forces everyone to divide into two coalitions with equal number of voters (slightly modulated by structural issues like the Republican electoral advantage in eg the Senate). For some reason - maybe the one Piketty mentioned - a lot of this sorting is now being done by education. If you have two coalitions with equal numbers of people, but all the educated people on one side, that side is going to control more institutions. Then those institutions will support the interests and values of the people in that coalition (including people in the coalition for reasons other than education) and be against the opposite coalition. This will be a self-perpetuating cycle as those institutions start selecting for people who share their values, both explicitly ("we don't like this person because they have bad values") and implicitly (networking, "bad culture fit", etc). This is partly worsened by, and partly another way of describing, the class gap between educated and uneducated people, where they end up with different aesthetics, dialects, social norms, etc - which transmutes fear of transgressing class norms into fear of having the wrong opinion.
 
- **III.**
+**III.**
 
 This is a little more pressing than it might otherwise be, because I get the feeling Hanania is using his own explanation (liberals care more) as an apology for dictatorship. After quoting some of [my piece on Turkish dictator Recep Erdogan](https://astralcodexten.substack.com/p/book-review-the-new-sultan), he writes:
 

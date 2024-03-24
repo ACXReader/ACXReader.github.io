@@ -3,6 +3,9 @@ title: "Who Gets Self-Determination?"
 subtitle: "..."
 date: 2022-03-30
 likes: 171
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/51096603/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3fe4994f-f1e2-4691-92c5-44f8e8af33e8_1430x645.jpeg
 original-url: https://www.astralcodexten.com/p/who-gets-self-determination
 ---
 **I.**
@@ -39,7 +42,7 @@ Vox has a whole Voxsplainer about how [”Vladimir Putin says Ukraine isn’t a 
 
 I find all of this unsatisfying. It’s like we’re debating whether a certain region has enough history and culture to “deserve” independence. But any such debate is inherently subjective. Does Texas qualify? Kurdistan? Scotland? Palestine? How should we know?
 
- **II.**
+**II.**
 
 As best I can tell, international law on this question centers around a UN-backed [covenant ](https://en.wikipedia.org/wiki/International_Covenant_on_Civil_and_Political_Rights)which says that “all peoples have the right to self-determination”. So are Texans/Kurds/Scots/Palestinians a “people”? International law makes no effort to answer this question. Presumably Volodymyr Zelenskyy thinks Ukrainians count as a people, and Vladmir Putin isn’t so sure.
 
@@ -55,7 +58,7 @@ Other sources have defined “a people” based on exclusion from existing polit
 
 Realistically “people” (like “[obscenity](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it)” and [everything else](https://www.lesswrong.com/posts/FaJaCgqBKphrDzDSj/37-ways-that-words-can-be-wrong)) are a kind of know-it-when-you-see-it combination of all these factors. I hate this. It means any would-be conqueror can say “come on, this place I want to conquer isn’t a _real_ ‘people’” - and then you need to litigate annoying questions about exactly how glorious a history they had, and which version of _Civilization_ they appeared in, in order to prove him wrong.
 
- **III.**
+**III.**
 
 Consider an alternative: _everyone_ has the right to self-determination. If Ukraine prefers not to be part of Russia, they don’t have to be. We don’t have to consult the history books to determine whether or not their desire to maintain independence is valid.
 
@@ -81,7 +84,7 @@ None of these big problems are the _enormous_ problem, which is that internation
 
 Still, I think it’s useful to have an opinion on this. My opinion is that I’m in favor of the right of self-determination for any region big enough that it’s not inherently ridiculous for them to be their own country. I don’t care if they have their own language or ethnicity or glorious history, I will vote ‘yes’ before I even hear about any of those things. That means I don’t have to care about Putin’s argument for why he should get to have Ukraine.
 
- **IV.**
+**IV.**
 
 But if you believe this, shouldn’t Russia get Crimea?
 

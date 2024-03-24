@@ -3,6 +3,9 @@ title: "A Cyclic Theory Of Subcultures"
 subtitle: "..."
 date: 2022-08-10
 likes: 308
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/67112750/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/84ec8576-024b-4df2-a619-e32d1fc10bbe_584x350.png
 original-url: https://www.astralcodexten.com/p/a-cyclic-theory-of-subcultures
 ---
 David Chapman’s [Geeks, MOPs, and Sociopaths In Subculture Evolution](https://meaningness.com/geeks-mops-sociopaths) is rightfully a classic, but it doesn’t match my own experience. Either through good luck or poor observational skills, I’ve never seen a lot of sociopath takeovers. Instead, I’ve seen a gradual process of declining _asabiyyah._ Good people start out working together, then work together a little less, then turn on each other, all while staying good people and thinking they alone embody the true spirit of the movement.
@@ -17,9 +20,9 @@ People start a movement around a weird thing, with no hope of payoff, for sheer 
 
 The zeitgeist changes. The thing catches on. Because it’s so new, there is a vast frontier, waiting to be explored. Anyone willing to work hard can go to some virgin tract of ideaspace and start mining it for status. The returns on talent are high. During this phase, the movement grows in three ways.
 
- **Forward:** People do more of the thing, better. If it’s an artistic movement, they make more art. If it’s an intellectual movement, they discover new things and explore new arguments. If it’s a political movement, they get better-organized and more powerful. Anyone with even a little talent can participate and create something genuinely new. Their work will probably be appreciated within the movement. It might even be appreciated by outsiders, as an example of an exciting new trend.
+**Forward:** People do more of the thing, better. If it’s an artistic movement, they make more art. If it’s an intellectual movement, they discover new things and explore new arguments. If it’s a political movement, they get better-organized and more powerful. Anyone with even a little talent can participate and create something genuinely new. Their work will probably be appreciated within the movement. It might even be appreciated by outsiders, as an example of an exciting new trend.
 
- **Upward:** People build infrastructure for the movement. They start newsletters. They hold conferences or conventions. They found organizations. Everything is so new, and growing so fast, that even a little talent is enough to succeed. Even if you aren’t an artist yourself, you can still join the art movement, start an art-related newsletter, be the first newsletter to accurately cover the new art form, and make it into the inner circle of the movement, with only a little effort. 
+**Upward:** People build infrastructure for the movement. They start newsletters. They hold conferences or conventions. They found organizations. Everything is so new, and growing so fast, that even a little talent is enough to succeed. Even if you aren’t an artist yourself, you can still join the art movement, start an art-related newsletter, be the first newsletter to accurately cover the new art form, and make it into the inner circle of the movement, with only a little effort. 
 
 **Outward:** All subcultures are, in a sense, status Ponzi schemes. 
 
@@ -59,7 +62,7 @@ At some point, everyone realizes you can’t get easy status from the subculture
 
 One way for this to happen is institutionalization. A movement rises. It founds some groups to promote its agenda. The fires of excitement die down, and the groups remain. Feminism is no longer as big a deal as it once was, but we still have NOW and Planned Parenthood. These institutions have stopped being social Ponzi schemes. You join them as a day job. You expect to work hard, and _at best_ get a position commensurate to your talent and diligence. It’s not really worth criticizing the leadership, because everything happens through formal governance structures which are hard to affect. Most people who want to be feminists have already decided to support Planned Parenthood and not you. And you cannot take over Planned Parenthood unless you win over their Board of Directors, which you won’t.
 
-(I don’t usually think of karate as an “institution” in the same sense as NOW, but it has strong defenses against criticism and counterelites; you can’t just walk in and argue that _you_ should be the black belt and the master should defer to _you_ )
+(I don’t usually think of karate as an “institution” in the same sense as NOW, but it has strong defenses against criticism and counterelites; you can’t just walk in and argue that _you_ should be the black belt and the master should defer to _you_)
 
 Other times, the movement just becomes so uncool for so long that it returns to Phase 1. There aren’t a lot of stained glass artisans or Thomist philosophers anymore. But I expect that being a stained glass artisan or Thomist philosopher is an okay job. You might not make much money, but you can have fun exploring your chosen medium in a nerdy way.
 

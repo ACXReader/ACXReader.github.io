@@ -3,6 +3,9 @@ title: "Highlights From The Comments On \"Don't Look Up\""
 subtitle: "..."
 date: 2022-01-07
 likes: 81
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/46674069/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/087a1ca9-998a-4c16-b92f-ea9973349818_391x259.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-dont
 ---
 Lots of people thought I was being unfair to the movie. [G. Retriever](https://astralcodexten.substack.com/p/movie-review-dont-look-up/comment/4298369) writes:
@@ -77,7 +80,7 @@ And [Alex](https://astralcodexten.substack.com/p/movie-review-dont-look-up/comme
 
 > FWIW, the science consultant on the movie, Amy Mainzer, agrees with [this skeptical take]:
 >
->>  _"McKay and Mainzer first connected two years ago, when McKay was writing the screenplay. One issue was Comet Dibiasky’s size, which McKay had imagined at thirty-two kilometres in diameter. “I said, ‘No, no—if it’s too big, people just throw up their hands,’ ” Mainzer recalled. They settled on nine kilometres: big enough to wipe out humanity, but small enough that there was a chance of stopping it. Mainzer had pushed for a longer interval between discovery and impact, since you’d want four or five years to build a comet-busting spacecraft, but, for dramaturgical reasons, McKay stuck with six months. “It would be like doing ‘Jaws’ where the shark attacks take place over a fourteen-year period,” he said."_
+>> _"McKay and Mainzer first connected two years ago, when McKay was writing the screenplay. One issue was Comet Dibiasky’s size, which McKay had imagined at thirty-two kilometres in diameter. “I said, ‘No, no—if it’s too big, people just throw up their hands,’ ” Mainzer recalled. They settled on nine kilometres: big enough to wipe out humanity, but small enough that there was a chance of stopping it. Mainzer had pushed for a longer interval between discovery and impact, since you’d want four or five years to build a comet-busting spacecraft, but, for dramaturgical reasons, McKay stuck with six months. “It would be like doing ‘Jaws’ where the shark attacks take place over a fourteen-year period,” he said."_
 > 
 > Source: <https://www.newyorker.com/magazine/2021/12/27/how-to-design-a-world-killing-comet>
 
@@ -131,7 +134,7 @@ Why choose this random second-tier tech titan? Federighi is famous for giving wa
 
 But my favorite comment was by Panama_Camel on the Discord:
 
->  _'22,740 years later, the people who left Earth before the impact land on a lush alien planet, ending their cryogenic sleep'_
+> _'22,740 years later, the people who left Earth before the impact land on a lush alien planet, ending their cryogenic sleep'_
 > 
 > [imagine having the] intelligence to achieve that, but not the wisdom to just do a loop and come back to earth a while after the comet thing.
 

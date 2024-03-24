@@ -3,6 +3,9 @@ title: "Janus' Simulators"
 subtitle: "This post isn't exactly about AI, but bear with me"
 date: 2023-01-26
 likes: 313
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/97825611/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/f64967b5-1b58-44d1-ac1b-749abc89cf42_318x259.png
 original-url: https://www.astralcodexten.com/p/janus-simulators
 ---
 This post isn’t exactly about AI. But the first three parts will be kind of technical AI stuff, so bear with me.
@@ -15,11 +18,11 @@ In the early 2000s, the early AI alignment pioneers - Eliezer Yudkowsky, Nick Bo
 
 Without knowing how future AIs would work, they speculated on three potential motivational systems:
 
->  **Agent:** An AI with a built-in goal. It pursues this goal without further human intervention. For example, we create an AI that wants to stop global warming, then let it do its thing.
+> **Agent:** An AI with a built-in goal. It pursues this goal without further human intervention. For example, we create an AI that wants to stop global warming, then let it do its thing.
 > 
->  **Genie:** An AI that follows orders. For example, you could tell it “Write and send an angry letter to the coal industry”, and it will do that, then await further instructions.
+> **Genie:** An AI that follows orders. For example, you could tell it “Write and send an angry letter to the coal industry”, and it will do that, then await further instructions.
 > 
->  **Oracle:** An AI that answers questions. For example, you could ask it “How can we best stop global warming?” and it will come up with a plan and tell you, then await further questions.
+> **Oracle:** An AI that answers questions. For example, you could ask it “How can we best stop global warming?” and it will come up with a plan and tell you, then await further questions.
 
 These early pioneers spent the 2010s writing long scholarly works arguing over which of these designs was safest, or how you might align one rather than the other.
 
@@ -91,11 +94,11 @@ A human, faced with the job of predicting this text as accurately as possible, m
 
 If future superintelligences look like GPT, is there anything to worry about?
 
- **Answer 1:** Irrelevant, future superintelligences will be too different from GPT for this to matter.
+**Answer 1:** Irrelevant, future superintelligences will be too different from GPT for this to matter.
 
- **Answer 2:** There’s nothing to worry about with pure GPT (a simulator), but there is something to worry about with GPT+RLHF (a simulator successfully simulating an agent). The inner agent can have misaligned goals and be dangerous. For example, if you train a future superintelligence to simulate Darth Vader, you’ll probably get what you deserve. Even if you avoid such obvious failure modes, the inner agent can be misaligned for all the usual agent reasons. For example, an agent trained to be Helpful might want to take over the world in order to help people more effectively, including people who don’t want to be helped.
+**Answer 2:** There’s nothing to worry about with pure GPT (a simulator), but there is something to worry about with GPT+RLHF (a simulator successfully simulating an agent). The inner agent can have misaligned goals and be dangerous. For example, if you train a future superintelligence to simulate Darth Vader, you’ll probably get what you deserve. Even if you avoid such obvious failure modes, the inner agent can be misaligned for all the usual agent reasons. For example, an agent trained to be Helpful might want to take over the world in order to help people more effectively, including people who don’t want to be helped.
 
- **Answer 3:** Even if you don’t ask it to simulate an agent, it might come up with agents anyway. For example, if you ask it “What is the best way to obtain paperclips?”, and it takes “best way” literally, it would have to simulate a paperclip maximizer to answer that question. Can the paperclip maximizer do mischief from inside GPT’s simulation of it? Probably the sort of people who come up with extreme AI risk scenarios think yes. [This post](https://www.alignmentforum.org/posts/kpPnReyBC54KESiSn/optimality-is-the-tiger-and-agents-are-its-teeth) gives the example of it answering with “The best way to get paperclips is to run this code” (which will turn the AI into a paperclip maximizer). If the user is very dumb, they might agree.
+**Answer 3:** Even if you don’t ask it to simulate an agent, it might come up with agents anyway. For example, if you ask it “What is the best way to obtain paperclips?”, and it takes “best way” literally, it would have to simulate a paperclip maximizer to answer that question. Can the paperclip maximizer do mischief from inside GPT’s simulation of it? Probably the sort of people who come up with extreme AI risk scenarios think yes. [This post](https://www.alignmentforum.org/posts/kpPnReyBC54KESiSn/optimality-is-the-tiger-and-agents-are-its-teeth) gives the example of it answering with “The best way to get paperclips is to run this code” (which will turn the AI into a paperclip maximizer). If the user is very dumb, they might agree.
 
 Does thinking of GPT as a simulator give us any useful alignment insight besides that which we would get from thinking about agents directly? I’m not sure. It seems probably good that there is this unusually non-agentic AI around. Maybe someone can figure out ways to use it to detect or ward against agents. But this is just Eric Drexler’s [Tool AI argument](https://slatestarcodex.com/2019/08/27/book-review-reframing-superintelligence/) all over again.
 

@@ -3,11 +3,14 @@ title: "Chilling Effects"
 subtitle: "In what sense do 10% of people die of the cold? And why is heat-related death most common in Greenland?"
 date: 2021-10-20
 likes: 105
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/42609174/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a79a76-2fb9-4865-b0aa-9ce59b618f9c_501x341.jpeg
 original-url: https://www.astralcodexten.com/p/chilling-effects
 ---
 _[Epistemic status: Extremely confused! Low confidence in all of this]_
 
- **I.**
+**I.**
 
 On [the recent global warming post](https://astralcodexten.substack.com/p/highlights-from-the-comments-on-kids), a commenter argued that at least fewer people would die of cold. I was prepared to dismiss this on the grounds that it couldn’t possibly be enough people to matter, but, um:
 
@@ -23,7 +26,7 @@ People are most likely to die of extreme cold in Sub-Saharan Africa, and most li
 
 This has got to all be wrong, right? 10% of Africans freezing to death, a substantial number of Greenlanders dying of the heat? The paper doesn’t have any answers. It just presents its mathematical model and runs away. So what’s going on?
 
- **II.**
+**II.**
 
 When you’re skeptical of complicated models, sometimes it helps to go back to the rawest data you can find. So here’s a graph of mortality rates in New York City over time. It was published to put the coronavirus in context, but we can use it to look at seasonal effects:
 
@@ -55,7 +58,7 @@ But it can’t all be cultural adaptation, can it? Look at Bangkok in the figure
 
 The only logical explanation is that this is an artifact of mortality being higher in the winter. In Kuwait, temperatures below 35C/95F mean you’re in the winter half of the year.
 
-Why is mortality higher in the winter (as opposed to in the cold)? Probably flu and other respiratory illnesses. We still don’t really know why flu is seasonal (it doesn’t seem to be about cold _per se_ ) but it definitely is. Observed cases of flu only make up a small fraction of excess winter deaths, I think even only a small fraction of excess seasonal-as-opposed-to-cold deaths. I find this suspicious, and I wonder if there are a bunch of less obvious seasonal viruses going around causing deaths that don’t get recorded as “seasonal viruses”. Or: we know that sometimes people can get strokes and heart attacks as complications of the flu - maybe we don’t notice the flu, or coroners don’t record it, and it just gets marked as a stroke or heart attack.
+Why is mortality higher in the winter (as opposed to in the cold)? Probably flu and other respiratory illnesses. We still don’t really know why flu is seasonal (it doesn’t seem to be about cold _per se_) but it definitely is. Observed cases of flu only make up a small fraction of excess winter deaths, I think even only a small fraction of excess seasonal-as-opposed-to-cold deaths. I find this suspicious, and I wonder if there are a bunch of less obvious seasonal viruses going around causing deaths that don’t get recorded as “seasonal viruses”. Or: we know that sometimes people can get strokes and heart attacks as complications of the flu - maybe we don’t notice the flu, or coroners don’t record it, and it just gets marked as a stroke or heart attack.
 
 [Other studies](https://www.sciencedirect.com/science/article/pii/S0160412018308997) find cold related mortality, separate from winter-related mortality. What could cause this?
 
@@ -65,7 +68,7 @@ Since heart attacks and strokes are among the most common causes death, a 15% in
 
 Okay, but why are cold-related deaths most common in Africa? And why are heat-related deaths most common in Greenland?
 
- **III.**
+**III.**
 
 It’s actually worse than this. There are more cold-related deaths the warmer and more tropical you get, and they’re worst of all in Africa, but I think these two findings are for different reasons.
 
@@ -87,7 +90,7 @@ The only treatment of Greenland I can find is in [this article](https://books.go
 
 I can’t find anything on Tibet or the Andes. The obvious connection is that these are both very high mountains, so I don’t know, something something altitude? The way evaporation works means [it’s easier to dehydrate at high altitudes](https://hydrapak.com/blogs/beyond-adventure/high-altitude-hydration), and dehydration is a common cause of summer heat death, so maybe this checks out? Please let me know if you have any better data or theories on this.
 
- **IV.**
+**IV.**
 
 So let’s get back to the original question? Will global warming increase heat-related death? Will it decrease cold-related death? And which effect will predominate?
 

@@ -3,6 +3,9 @@ title: "Metaculus Monday"
 subtitle: "What do prediction markets think of the coronavirus?"
 date: 2021-02-01
 likes: 88
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32042050/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e5722078-e6b5-4d7a-8d9d-7d0f70a7fcb2_248x248.png
 original-url: https://www.astralcodexten.com/p/metaculus-monday
 ---
 Prediction markets are the future. They're a type of trustless, decentralized expertise that often equals or outperforms official sources. 
@@ -11,11 +14,11 @@ But they're not quite the present. Right now I only know of three prediction mar
 
 Each of the three big prediction markets tries to solve this in a different way.
 
- **[PredictIt](https://www.predictit.org/)** struck a special deal with the government where they can run a limited number of predictions as long as nobody is allowed to bet very much. They probably have the most users, but most of them are dumb money, and the restrictions prevent smart money from coming in and replacing them. Also, the market fritters away its limited number of predictions on dumb political horse race stuff. I think of this as a missed opportunity.
+**[PredictIt](https://www.predictit.org/)** struck a special deal with the government where they can run a limited number of predictions as long as nobody is allowed to bet very much. They probably have the most users, but most of them are dumb money, and the restrictions prevent smart money from coming in and replacing them. Also, the market fritters away its limited number of predictions on dumb political horse race stuff. I think of this as a missed opportunity.
 
- **[Augur](https://augur.net/)** is a decentralized Ethereum-based prediction market. Since it's crypto, it ought to be able to violate laws with impunity, and in theory this should make it the leader of the pack. In practice it's either nonfunctional or so minimally functional as to be useless. The team involved seems pretty dedicated and competent, and I assume they have some good reason for pretending their product currently exists instead of replacing the whole thing with a COMING SOON banner. I hope this will one day be our savior. But like the real Messiah, it’s taking its sweet time.
+**[Augur](https://augur.net/)** is a decentralized Ethereum-based prediction market. Since it's crypto, it ought to be able to violate laws with impunity, and in theory this should make it the leader of the pack. In practice it's either nonfunctional or so minimally functional as to be useless. The team involved seems pretty dedicated and competent, and I assume they have some good reason for pretending their product currently exists instead of replacing the whole thing with a COMING SOON banner. I hope this will one day be our savior. But like the real Messiah, it’s taking its sweet time.
 
- **[Metaculus](https://www.metaculus.com/questions/)** solves the regulatory problem by using fake Internet points instead of money. This is a disappointing solution; it limits the user base to Internet obsessives instead of (say) investment bankers. Still, there are a lot of Internet obsessives. And the team running it is really top-notch, interested in pushing the limits of what prediction markets can do, and trying to focus on some of the most important questions. 
+**[Metaculus](https://www.metaculus.com/questions/)** solves the regulatory problem by using fake Internet points instead of money. This is a disappointing solution; it limits the user base to Internet obsessives instead of (say) investment bankers. Still, there are a lot of Internet obsessives. And the team running it is really top-notch, interested in pushing the limits of what prediction markets can do, and trying to focus on some of the most important questions. 
 
 I want to raise awareness of prediction markets, and right now Metaculus seem like the best people to raise awareness of. So welcome to Metaculus Mondays, where I make you listen to reports of how the prediction markets did this week and what they're predicting for later.
 

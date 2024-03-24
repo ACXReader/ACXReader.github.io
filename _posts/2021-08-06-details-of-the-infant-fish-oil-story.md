@@ -3,6 +3,9 @@ title: "Details Of The Infant Fish Oil Story"
 subtitle: "..."
 date: 2021-08-06
 likes: 127
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/39676895/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/afe9a03e-da4a-4507-99c6-f54f1a709f72_600x324.jpeg
 original-url: https://www.astralcodexten.com/p/details-of-the-infant-fish-oil-story
 ---
 **I.**
@@ -13,7 +16,7 @@ I plucked that from the anti-FDA blogosphere, where it had been floating around 
 
 After more research, I’ve concluded that the story I told is basically true, although I got a few details wrong. I want to go over it at more length here to set the record straight and see what we can learn from it. My main source will be Dr. Kathleen Gura, the pharmacist most responsible for getting Omegaven approved. She won an award for her work, she gave a very long acceptance speech describing her adventure, and [the transcript of her speech](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7671012/) is where I’m getting most of this information.
 
- **II.**
+**II.**
 
 Omegaven is a fluid for parenteral nutrition. If your digestive tract doesn’t work (a problem frequently associated with newborn babies), then you risk starving to death. Doctors can avert this by pumping nutrients directly into your veins through an IV. This is notoriously hard, because food has lots of nutrients, and if you try to put together a complete replacement for food you will probably miss something. The US standard is a nutrient fluid called Intralipid, which uses soybean oil as its main fat. Because of [the usual random cross-national differences in medicine](https://slatestarcodex.com/2014/08/16/an-iron-curtain-has-descended-upon-psychopharmacology/), Europe used a formulation with fish oil as the main fat (though I’m not sure whether they used it along with soybean or on its own). In the early 2000s, nobody thought there was any interesting difference between these.
 
@@ -63,7 +66,7 @@ UpToDate, the US gold standard medical evidence aggregator, [says](https://www.u
 
 So although this is couched in the appropriate level of uncertainty, they do seem to believe it works better and they do recommend the new product.
 
- **III.**
+**III.**
 
 My earlier version of the story made at least the following mistakes:
 
@@ -88,7 +91,7 @@ I mentioned in a section of my recent post, “Sympathy For The Devil”, that I
 
 My problem is: doing anything in medicine is illegal until you clear a giant hurdle. To clear the hurdle, you have to pay millions (sometimes billions) of dollars, fill in thousands of pages of forms, conduct a bunch of studies that can be sabotaged for reasons like “this drug is too good so it would be unethical to have a control group”, and wait approximately ten years. You have to clear this hurdle to do anything, even the most obviously correct actions. Everything starts out illegal, and then a tiny set of possible actions is exempted from the general illegality. The easiest name for this hurdle is “the FDA”, since they’re the agency charged with enforcing it.
 
- _Given the existence of the hurdle_ , various people come off looking like villains, eg:
+_Given the existence of the hurdle_ , various people come off looking like villains, eg:
 
 Yes, funding agencies look bad, insofar as they refused to provide enough millions of dollars to clear the hurdle. But there’s no funding agency so rich that they can can give hurdle-clearing amounts of money to every promising new treatment.
 

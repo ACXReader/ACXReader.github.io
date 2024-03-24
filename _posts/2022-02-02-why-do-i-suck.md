@@ -2,7 +2,10 @@
 title: "Why Do I Suck?"
 subtitle: "Speculations on a surprisingly popular question"
 date: 2022-02-02
-likes: 254
+likes: 255
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/47927663/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/45e4f023-5af7-4bd7-bbf1-c2559ac4f77b_800x461.webp
 original-url: https://www.astralcodexten.com/p/why-do-i-suck
 ---
 I recently ran a subscriber-only AMA, and one of the most frequent questions was some version of “why do you suck?”
@@ -17,19 +20,19 @@ Most people think my quality is about the same, although the minority who do see
 
 Still, a lot of people think I suck. If only to fend off the inevitable future AMA questions, I should probably speculate about why that is.
 
- **1: You have your whole life to write your first book, and one year to write your second**
+**1: You have your whole life to write your first book, and one year to write your second**
 
 This is a publishing industry proverb; your first book gets to use all the ideas you developed over the course of a lifetime, and then they expect you to write an equally good book the next year.
 
 I started SSC at age 28. By that time I already had well-developed thoughts on lots of stuff. Over the course of five hundred essays, I explained most of them to you. Now I’m still learning things and refining my thinking. But not always at the rate of two essays per week.
 
- **2: The** **rationalist community was really great**
+**2: The** **rationalist community was really great**
 
 It still is! But in the same sense that I was clearing a personal backlog of unwritten-up ideas, the rationalist community was clearing a backlog of scientific and philosophical ideas sitting in journals or obscure old books that it turned out were really interesting to a lot of people. The early Internet provided a critical mass where people interested in cognition and math and the future could suddenly all share the parts of the puzzle they knew about with each other and make rapid progress. Eliezer Yudkowsky, Robin Hanson, Nick Bostrom, and other intellectuals all had their own backlog of stuff which had probably been published in journals or something but which the wider world had yet to appreciate. I was the biggest-name blogger who was sitting around listening to them talk about it, so I got access to a stream of amazing content that most people didn’t know about.
 
 There was a time when “bets are a tax on bullshit” or “words are cluster-structures in thingspace” were new and exciting ideas. There was a time when nobody had heard of the replication crisis unless they happened to be reading the medical journals where John Ioannidis was publishing. The rationalist community scooped all this stuff up, broke it down into easily digestible bits, and put it in one place. I happened to be sitting in that place, which meant I had the privilege of transmitting it to many of you.
 
- **3: Some things have genuinely gotten better**
+**3: Some things have genuinely gotten better**
 
 Everything’s relative. In 2015 I was - no offense - surrounded by morons, which made me look like a leading light. I think the media has genuinely improved! When I read the articles on [that poverty and EEGs study](https://astralcodexten.substack.com/p/against-that-poverty-and-infant-eegs), my first thought was “this is the kind of piece I would have expected to see in 2015, not today”. Sure enough, I wrote the kind of jaded debunking I would have written in 2015, and the sort of people who liked my 2015 essays liked it.
 
@@ -41,7 +44,7 @@ In the same way, I see fewer people outright denying the existence of genetics, 
 
 You could argue this represents a failure on my part: the zeitgeist has caught up to what I knew in 2015, but I haven’t learned new things to keep me ahead of the zeitgeist. Seems plausible. Half of what I know, I know from the Less Wrong Sequences; the other half, from a basic medical school education. But nobody else explains things quite like Eliezer, and I’m sure as heck not going back to med school.
 
- **4: I no longer feel the same burning need to criticize wokeness**
+**4: I no longer feel the same burning need to criticize wokeness**
 
 It would be presumptuous to say I was the first liberal to criticize wokeness, so I’ll retreat to the less arrogant claim that my anti-wokeness was autochthonous. If other people were saying the same things, I didn’t hear about them. I invented it independently.
 
@@ -51,7 +54,7 @@ I was an early adopter here for two reasons:
 
 First: in basically every other way, I am an extremely unfashionable person. But in this case, somehow I ended up near the top of the [barberpole model of fashion](https://slatestarcodex.com/2014/04/22/right-is-the-new-left/). I felt like all my friends were social justice warriors, back when other people described barely knowing one or two. So I got annoyed with them early and rebelled against them early.
 
-Second: I hate conforming. Hate hate hate it. As Mencken said, “it’s not worth an intelligent person’s time to be in the majority, _by definition_ there are already enough people to do that.” Expressing a majority viewpoint feels like punching down, or like kicking an underdog. I’ll do it if I have to, because you should still defend the truth even when it’s popular, but I don’t enjoy it. So back when it seemed like everyone was an SJW ( _which apparently was earlier for me than for anyone else!!)_ my natural inclination was to push back. 
+Second: I hate conforming. Hate hate hate it. As Mencken said, “it’s not worth an intelligent person’s time to be in the majority, _by definition_ there are already enough people to do that.” Expressing a majority viewpoint feels like punching down, or like kicking an underdog. I’ll do it if I have to, because you should still defend the truth even when it’s popular, but I don’t enjoy it. So back when it seemed like everyone was an SJW (_which apparently was earlier for me than for anyone else!!)_ my natural inclination was to push back. 
 
 But it seems like I must _still_ be near the top of the barberpole - because while everyone else is freaking out about wokeness, I’m starting to feel like all my friends are anti-woke. Who’s woke anymore? Are there really still woke people? Other than all corporations, every government agency, and all media properties, I mean. Those don’t count. Any real people? I guess I know one or two SJWs. But I also know one or two Catholics. Doesn’t mean they’re not the intellectual equivalent of out-of-place artifacts.
 
@@ -61,7 +64,7 @@ Also: in 2010, I didn’t believe in God, but I think I mostly avoided being one
 
 I continue to post some vaguely anti-woke stuff ([1](https://astralcodexten.substack.com/p/movie-review-dont-look-up), [2](https://astralcodexten.substack.com/p/too-good-to-check-a-play-in-three), [3](https://astralcodexten.substack.com/p/contra-smith-on-jewish-selective)), but I’m trying to have it be more meta-level or at least the things that fall through the cracks of the many, many other people amply covering this field. Don’t worry - if I think there’s something important and under-explored, I will still write about it.
 
- **5: Sometimes the bastards do grind you down**
+**5: Sometimes the bastards do grind you down**
 
 Lately I’ve been finding it helpful to think of the brain in terms of tropisms - unconscious structures that organically grow towards a reward signal without any conscious awareness.
 
@@ -79,7 +82,7 @@ If you have a small blog, and you have a cool thought or insight, you can post y
 
 I try really hard to block or ignore these people when I spot them, but they do a little bit of psychic damage each time.
 
- **6: Simulated annealing**
+**6: Simulated annealing**
 
 Maybe I’m using [this term](https://en.wikipedia.org/wiki/Simulated_annealing) wrong. I mean the thing where if you’re doing an optimization problem, you start by making big jumps to explore the macro-landscape of the solution space, then as time goes make smaller and smaller jumps to explore the micro-landscape of whichever high-reward region you’ve settled upon, until you finally end up at some local optimum.
 
@@ -89,7 +92,7 @@ It would be arrogant to say the reason I make fewer large updates now than I did
 
 Someone less into machine-learning metaphors and more into leftism than I am (20-year-old me could easily have gone down that road!) might say I’ve grown too comfortable and sold out and joined the Man. Same result: smaller jumps.
 
- **7: Emerging bloggers and big-name bloggers have different comparative advantages**
+**7: Emerging bloggers and big-name bloggers have different comparative advantages**
 
 Emerging bloggers’ big advantage is speaking truth to power, because they have low downside and high upside. Low downside because they’re unlikely to become a Twitter main character - most big accounts and publications won’t get too many clicks from ruining your life at that level, and only the most vicious will try it. High upside because if you do a good job, you’ll get famous. Famous people are already famous whether they take giant risks or not.
 
@@ -99,7 +102,7 @@ But big-name bloggers have comparative advantages too. I’ve found an increasin
 
 Also, apparently sometimes I can now affect the real world. My blog had a very slight but nonzero influence on at least one country’s coronavirus policies. Once you know you can do that, you start optimizing pretty heavily for that, even if that means saying a lot of things which bore the majority of your readers. It could be worse. I once talked to a very prestigious journalist who said he sometimes knows exactly which Biden administration official he’s writing a particular article to catch the attention of. If anyone else likes it, that’s just an added bonus. Talk about a comparative advantage!
 
- **8: Intellectual progress**
+**8: Intellectual progress**
 
 I’m probably not going to blog about abortion. I know it’s an important issue, I know there are lots of subtle points on both sides, but I feel like I covered every conceivable argument and counter-argument and counter-counterargument long ago. It’s just no longer interesting. The same is true of religion vs. atheism, capitalism vs. communism, and a bunch of other things. I am bored of those debates. If I forced myself into them, I would do a bad job.
 
@@ -109,20 +112,20 @@ I think it’s natural for younger people to continue to want to debate the real
 
 There’s a more arrogant-sounding version of this argument: I think I’m smarter and more thoughtful than I was in my 20s. Some of the good ideas I came up with in my 20s now feel extremely basic, to the point where I’m surprised other people found them helpful. If the discourse wants ideas at that level of basic-ness, I’m no longer producing them - it would feel like talking down to people. I realize it’s self-serving to write a post on why you suck and transition to “maybe I’m just too good for everyone”. But I think I’m more sophisticated than I was ten years ago, and people ten years ago seemed to find me the right level of sophistication, so maybe lack of sophistication sells.
 
- **9: Answers to other common related questions**
+**9: Answers to other common related questions**
 
  _A. Do you suck because you sold out by moving to Substack?_
 
 This doesn’t match my internal experience. Also, people who think I suck mostly think this started (and/or bottomed out) a few years before I moved to Substack. Some of them even very kindly say I’ve gotten better recently ([1](https://www.reddit.com/r/slatestarcodex/comments/sfl7wr/one_year_of_acx_what_are_your_favourite_posts_and/huub9c0/), [2](https://www.reddit.com/r/slatestarcodex/comments/sfl7wr/one_year_of_acx_what_are_your_favourite_posts_and/huv9pei/)).
 
- _B **.** Do you suck because you moved to California, with its climate of conformist liberalism?_
+_B**.** Do you suck because you moved to California, with its climate of conformist liberalism?_
 
 This doesn’t match my internal experience, although the timing lines up (2017). I would protest that I don’t interact with other people enough for my location to have much effect on me.
 
- _C. Do you suck because the New York Times brouhaha scared you into submission?_
+_C. Do you suck because the New York Times brouhaha scared you into submission?_
 
 This doesn’t match my internal experience; you’ll have to decide how much weight that carries for you.
 
- _D. Do you suck because the censorious establishment has become too powerful and that scared you into submission?_
+_D. Do you suck because the censorious establishment has become too powerful and that scared you into submission?_
 
 This doesn’t match my internal experience; you’ll have to decide how much weight that carries for you.

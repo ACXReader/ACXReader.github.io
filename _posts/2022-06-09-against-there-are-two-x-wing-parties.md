@@ -3,6 +3,9 @@ title: "Against \"There Are Two X-Wing Parties\""
 subtitle: "..."
 date: 2022-06-09
 likes: 145
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/58628984/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f1525b83-14f9-40a3-99a4-71f140037077_1536x769.jpeg
 original-url: https://www.astralcodexten.com/p/against-there-are-two-x-wing-parties
 ---
 One of my least favorite political tropes is the claim that "America has two left-wing parties" or "America has two right-wing parties" or "both major parties are socialist" or however else you want frame this. The argument goes that even the Democrats aren't truly left (or even the Republicans aren't truly right), and so one side of the political spectrum completely controls discourse.

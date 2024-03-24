@@ -3,6 +3,9 @@ title: "Zounds! It's Zulresso and Zuranolone!"
 subtitle: "How excited should we be about the latest class of antidepressants?"
 date: 2022-03-08
 likes: 70
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/49209345/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/900c5907-9192-4a92-b13d-631a6fcfbb25_372x205.png
 original-url: https://www.astralcodexten.com/p/zounds-its-zulresso-and-zuranolone
 ---
 #### 1: What is Zulresso?

@@ -3,11 +3,14 @@ title: "Unpredictable Reward, Predictable Happiness"
 subtitle: "..."
 date: 2022-09-13
 likes: 147
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/70797304/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3d3554c1-79d9-4549-bbcc-437cb5a16e43_840x529.jpeg
 original-url: https://www.astralcodexten.com/p/unpredictable-reward-predictable
 ---
 _[Epistemic status: very conjectural. I am not a neuroscientist and they should feel free to tell me if any of this is totally wrong.]_
 
- **I.**
+**I.**
 
 Seen on the subreddit: [You Seek Serotonin, But Dopamine Can’t Deliver](https://apxhard.substack.com/p/you-seek-serotonin-but-dopamine-cant?sd=pf). Commenters correctly ripped apart its neuroscience; for one thing, there’s no evidence people actually “seek serotonin”, or that serotonin is involved in good mood at all. Sure, it seems to have some antidepressant effects, but these are weak and probably far downstream; even though SSRIs increase serotonin within hours, they take weeks to improve mood. Maxing out serotonin levels mostly seems to cause a blunted state where patients can’t feel anything at all.
 
@@ -41,7 +44,7 @@ This isn’t to say people eventually fully recover from a spouse’s death (alt
 
 Here it seems like there’s an extra kind of sadness associated with prediction error. It takes a few months or years to fully update predictions, and then you just have a normal stable sadness.
 
- **III.**
+**III.**
 
 My old psych 101 textbook said that romantic love lasts between a few months and a few years. Jonathan Haidt [apparently has](https://www.bbc.com/news/magazine-35535424) this graph in his book _Happiness Hypothesis_ , though I don’t have the book and can’t evaluate the source:
 
@@ -57,7 +60,7 @@ New relationship energy seems like a good match for bereavement. Both last a few
 
 This sort of tracks with Part I and II. There seems to be an extra-sparkly type of happiness associated with new relationships (relationships you haven’t adjusted to yet, that aren’t baked into your predictions, that haven’t already been hedonic-treadmilled away). This lasts a few months or years while you slowly update your predictions. Then hopefully you end up with a more stable type of happiness associated with good long-term relationships.
 
- **IV.**
+**IV.**
 
 Here’s some advice for aspiring psychiatrists: never tell your patient “yeah, seems like you’re cursed to be perpetually unhappy”.
 
@@ -75,13 +78,13 @@ What if for some reason you can’t do companionate love? I wonder if you would 
 
 This also reminds me of the bane of relationship counselors everywhere: the wife (yes, it’s usually the wife) who complains that the husband never gets her flowers. Then the husband gets her flowers, and the wife says “it doesn’t count, you should have known without me telling you”. To this couple, gestures of affection are meaningless unless unpredictable. If the husband had gotten the wife flowers before she had asked, she would have been delighted. If he’d tried the same thing a second time, it wouldn’t have counted; she would have already predicted it and factored it in.
 
- **V.**
+**V.**
 
 Some more serious psychiatry advice: when patients start taking stimulants (eg Adderall) daily, a common pattern is that they feel euphoric and on-top-of-the-world for a few days to a week. After that, the euphoria will go away, and the stimulant will just do its normal job of helping them focus. Sometimes, additionally, after a few months or years, they’ll gain complete tolerance to the stimulant, and it won’t help them focus anymore. It seems to be a minority of people who get this complete tolerance, and usually a short break (a few weeks to months) can reset it and make the stimulant work again. Sometimes a very long break (months to years) can reset the euphoria, and they can feel on top of the world for a few days again after restarting it. But there’s no way to get the euphoria for more than a few days per months-to-years, sorry.
 
 How similar is the euphoria → focus → nothing pattern to the passionate love → companionate love → nothing pattern, and the grief → lingering unhappiness → nothing pattern? Are the unlucky people who gain quick tolerance to stimulants analogous to the unlucky people who can’t enjoy normal relationships and have affairs or emotionally manipulative partners? Would they be the same people? I don’t know of any research on this (though I would expect them not to be literally the same people; different people seem to have addictions to different drugs and behaviors).
 
- **VI.**
+**VI.**
 
 I recently read TurnTrout’s [Reward Is Not The Optimization Target](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target) on Less Wrong. It’s technically about AI, but half the useful things I’ve learned about psychology recently have started out being about AI, so let’s not hold that against it.
 
@@ -97,7 +100,7 @@ What would it mean if reward wasn’t my optimization target? One way I imagine 
 
 I think the main thing I get from this article is a renewed determination to think of reward as “that thing which changes behavioral programs” rather than as some sort of fuzzy concept of “the target” or “good things that I like”. This softens the blow of the original question - eating cake on my birthday might not produce behavior change, but it might still be enjoyable.
 
- **VII.**
+**VII.**
 
 All of these examples are meant to point to a similar phenomenon: an extra kind of happiness that persists only in the context of prediction error, and eventually goes away, plus a lingering kind of happiness which can be enjoyed even after prediction error has been corrected. What explains this pattern?
 
@@ -111,4 +114,4 @@ I got a chance to talk to Andres from [Qualia Research](https://qri.org/) about 
 
 So I would amend the original post on the subreddit to “You seek unpredicted reward, but by definition you can never get this consistently; luckily predicted reward can be pretty good too.” I still don’t feel like I understand exactly how this is implemented.
 
- _[image credit[this video](https://www.youtube.com/watch?v=oj49j1OtrHA)]_
+_[image credit[this video](https://www.youtube.com/watch?v=oj49j1OtrHA)]_

@@ -2,7 +2,10 @@
 title: "The Psychopolitics Of Trauma"
 subtitle: "..."
 date: 2024-01-25
-likes: 477
+likes: 478
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/125990073/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/c972ff1d-8fef-405b-9a57-8989db36225c_904x640.gif
 original-url: https://www.astralcodexten.com/p/the-psychopolitics-of-trauma
 ---
 **I.**
@@ -28,7 +31,7 @@ In any other situation, a condition with impaired cognition, psychotic symptoms,
 
 This post is about the possibility that it might be trauma.
 
-##  **II.**
+## **II.**
 
 When Donald Trump was elected, some people described themselves as “traumatized”. Someone asked me for comment on the record, hoping I would say something like “as a real psychiatrist, trauma is a real disorder with strict criteria, and all you people are dumb”. 
 
@@ -71,7 +74,7 @@ I think of all of this in a deflationist, spectrum-y type of way. Anything can b
 
 (I’m not saying that Trump’s election was _inherently_ traumatizing, or that trauma was the _correct_ response. If you prefer, you can think of it as a condemnation of the media for irresponsibly fanning fear of Trump. I’m just saying, without trying to lay blame, that lots of people did experience feelings of fear and helplessness around Trump’s election.)
 
-##  **III.**
+## **III.**
 
 I didn’t personally feel traumatized by Trump’s election. My own story, which I don’t claim is atypical or sympathetic in any way, is that in college a bunch of people tried to cancel me for something I’d intended to be an anti-racist joke, but which apparently didn’t come out that way. Former friends turned against me, I got a few death threats, and I was told to attend a criticism session at a local social justice meeting group (which I foolishly did; I thought people would realize I was cooperative and agreed with them, and so lay off - obviously this didn’t work). I briefly considered dropping out of college to avoid the hatred; instead I spent a month locked in my room, waiting for the storm to blow over. It was the worst experience of my life. 
 
@@ -91,11 +94,11 @@ If you’re not famous, this might not happen to you personally - nobody says �
 
 I think a lot of people feel persecuted and threatened by politics, a lot of people feel emotionally abused by politics, and a lot of people feel like they’ve had vicarious experiences of people they identify with being harmed by politics. This isn’t enough for a formal PTSD diagnosis - they probably didn’t watch the relevant TV news segments in a work-related context. But it might be enough to start doing some really unhealthy things to their brains.
 
-##  **IV.**
+## **IV.**
 
 Here’s what the DSM has to say about some symptoms of PTSD:
 
- **B4: Intense or prolonged psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event.**
+**B4: Intense or prolonged psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event.**
 
 The popular term for criterion B4 is “a trigger”. For example, if you were raped, you might be triggered by hearing someone describe rape. This is justification for so-called “trigger warnings” in books and movies.
 
@@ -109,11 +112,11 @@ This is only the tip of the iceberg. Donald Trump Jr has a book called [Triggere
 
 I think this makes the most sense if political triggering and psychiatric triggering are literally the same thing because political toxicity is a subspecies of PTSD.
 
- **D2: Persistent and exaggerated negative beliefs or expectations about oneself, others, or the world.**
+**D2: Persistent and exaggerated negative beliefs or expectations about oneself, others, or the world.**
 
 Do I even need to explain this one?
 
- **D3: Persistent distorted cognitions about the cause or consequences of the traumatic events that lead the individual to blame himself or others.**
+**D3: Persistent distorted cognitions about the cause or consequences of the traumatic events that lead the individual to blame himself or others.**
 
 As stated, this doesn’t really apply to politics. But I claim this is an overly restrictive description of the true problem, which is a general distortion of cognition around traumatic stimuli.
 
@@ -123,11 +126,11 @@ Other people have even more general findings. You may remember the Stroop Effect
 
 See also [The Precision Of Sensory Evidence](https://astralcodexten.substack.com/p/the-precision-of-sensory-evidence) for a discussion of how this effect might happen.
 
- **E1: Irritable behavior and angry outbursts (with little or no provocation) typically expressed as verbal or physical aggression toward people and objects.**
+**E1: Irritable behavior and angry outbursts (with little or no provocation) typically expressed as verbal or physical aggression toward people and objects.**
 
 As seen at your family Thanksgiving table. Politics makes otherwise kind people into angry jerks.
 
- **E3: Hypervigilance**
+**E3: Hypervigilance**
 
 This is defined as a heightened awareness of surroundings, constantly scanning for danger, and misinterpreting innocuous stimuli as threatening. Wikipedia describes it as “there is a perpetual scanning of the environment to search for sights, sounds, people, behaviors, smells, or anything else that is reminiscent of activity, threat or trauma”.
 
@@ -150,7 +153,7 @@ For the past ten years, I’ve been involved in the anti-AI-existential risk mov
 
 It constantly fascinates me how, confronted with an apparently nonpolitical stimulus, everyone will hallucinate whatever feels most politically threatening to them personally. If this example doesn’t move you, think up one of your own. Or just pick a random blog post on the economics of oil prices, or the life cycle of the Latvian pine slug, and see how long it takes someone to use the word “woke” in the comments section.
 
-##  **V.**
+## **V.**
 
 I want to be transparent: I’m cherry-picking here; there are about a dozen other criteria for PTSD that politics _don’t_ meet. Most of these are optional. Not all cases need to have all symptoms. The ones I mentioned are almost enough for a diagnosis on their own.
 
@@ -172,7 +175,7 @@ This last one rings true to me. I had my bad cancellation experience before “c
 
 Everyone agrees we’re [“addicted to outrage”](https://icccr.tc.columbia.edu/news-and-events/news/the-new-addiction-to-outrage-our-american-psychosis/). I find this phenomenon fascinating, and analogizing it to trauma addiction is the only way I’ve been able to make sense of it.
 
-##  **VI.**
+## **VI.**
 
 In order to defuse the question of whether political partisans literally have PTSD, I want to take a step back and discuss the neuroscience of trauma. No two psychiatrists ever agree on anything and this is my interpretation of the science only.
 
@@ -204,7 +207,7 @@ I discuss this a little in the Trapped Priors post:
 
 In that post, I speculated that trapped priors might be responsible for some of the cognitive symptoms of political hyperpartisanship. But trapped priors have both cognitive and emotional manifestations, and I’m starting to think that they might just explain the whole picture. I think the easiest way to express this concept for public consumption is “political hyperpartisanship is a form of trauma.”
 
-##  **VII.**
+## **VII.**
 
 Is this actually a good way to express a concept for public consumption?
 

@@ -3,9 +3,12 @@ title: "Your Book Review: God Emperor Of Dune"
 subtitle: "Finalist #14 in the Book Review Contest"
 date: 2022-08-13
 likes: 119
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/68422934/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a621dc83-7e87-4745-8ceb-c6ba1acaf1de_498x344.png
 original-url: https://www.astralcodexten.com/p/your-book-review-god-emperor-of-dune
 ---
-_[This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked. **This contains spoilers for the Dune series.** \- SA_]
+_[This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked.**This contains spoilers for the Dune series.** \- SA_]
 
 —
 
@@ -64,7 +67,7 @@ Perhaps the most dangerous aspect of Leto is his firm, unshakeable belief that h
 
 This means that there is nothing Leto will not do if he perceives it as necessary; there is no cruelty he would not enact to push forward his golden path. But he is a mind that emerged from humanity and sees things humanity cannot itself see. His good deeds are not understood, and he works quasi-endlessly for what he considers to be the ultimate good while bearing the burden of the knowledge that he is viewed as nothing more or less than a dictator, a personification of the restriction under which humanity itself chafes.
 
-####  **The Duncan Idaho**
+#### **The Duncan Idaho**
 
 In the second and third books of the series, Duncan Idaho returned to life (and death) in the service of the Atreides. In the Duniverse, both your mind and your cells have memory, each Duncan clone carries the memories of the original. Through the same mechanism of ancestral/cellular memory, Leto has seen Duncan’s sacrifices through two generations of eyes in addition to his own.
 
@@ -82,7 +85,7 @@ Duncan is also faced with the reality any legendary swordsman faces 3500 years i
 
 This combined with other frustrations lends his character a tone of someone casting about for something significant to do; he is almost from the first waiting on a match that can light his fuse and force him into meaningful action of any kind.
 
-####  **Siona**
+#### **Siona**
 
 Remember those people running from the wolves at the onset of the novel? They were led by Siona in a successful effort to steal some intel from Leto’s own backyard. Siona is a rebel; she detests Leto and Leto’s rule. She will do anything to make even small progress towards hurting him, including sacrificing the lives of her friends, which was the eventual outcome of everyone who followed along on her lupine 5k theft-run.
 
@@ -92,7 +95,7 @@ She is unpleasant to most people, most of the time. Here is the nicest thing she
 
 It might sound as if she’s a bad character, but like most of the other major players she is more representative of a facet of humanity than she is a fully fleshed human being. She is humanity, developed, advanced and unconquered. She is as refined as her father, with none of his domestication.
 
-####  **Hwi Noree**
+#### **Hwi Noree**
 
 You might occasionally hear someone talk about Ernest Hemingway not being able to write women - that they exist purely for the male characters in his book. They have not met Hwi Noree, a character who is literally designed to like a particular housebound rationalist utilitarian and who has no other characteristics whatsoever.
 
@@ -110,7 +113,7 @@ Besides being very nice to people who haven’t earned it from her (this is almo
 
 Herbert dug deep and tried to figure out what the most appealing woman possible would be, and came up with a personification of subservience and unearned affection so blatant it makes love interests from harem anime look like Susan B. Anthony in comparison. Lacking any kind of a personality or desires of her own, Hwi Noree exists almost entirely as a desirable object - a particularly shiny apple would have done just as well in her place.
 
-####  **Moneo**
+#### **Moneo**
 
 If Duncan Idaho represents the “mongrel strength” of the wild, primitive human as Leto claims, Moneo is a fully domesticated purebred. He is a direct line descendent of the Atreides, and thus a result of 35 centuries of Leto’s behavioral and genetic design. In a way also similar to the purebred, he is high-strung. He spends the greater part of the book being really, really nervous any time he’s around Leto, for whom he serves as a right-hand man.
 
@@ -158,7 +161,7 @@ An AI that was created accidentally may one day be destroyed accidentally, eithe
 
 Travel is restricted in Leto’s empire. While ornithopters and spacecraft still exist, he limits their uses entirely to official travel of the sort necessary to make the empire run. The vast majority of people are planet-bound and mostly restricted to such travel as they can accomplish on foot. They are trapped in place in a society he engineered to be banal and boring.
 
-The goal (which is possible in Leto’s world, if not ours) is to encourage a kind of genetic yearning, a desire to travel and settle that is ingrained in humanity at a cellular level. Leto pushes for the accumulated voices of thousands of ancestors to scream “go west, my son” in unison, too loud to ignore. In the _Dune_ universe, ancestral memories are a factual truth; this is how genetics work there. __ To build the desire, all you need is time - but the desire to do something and the wherewithal are two very different things.
+The goal (which is possible in Leto’s world, if not ours) is to encourage a kind of genetic yearning, a desire to travel and settle that is ingrained in humanity at a cellular level. Leto pushes for the accumulated voices of thousands of ancestors to scream “go west, my son” in unison, too loud to ignore. In the _Dune_ universe, ancestral memories are a factual truth; this is how genetics work there.__ To build the desire, all you need is time - but the desire to do something and the wherewithal are two very different things.
 
 Early in the novel, Leto makes an off-hand mention that some forces in the universe are terrified he will die away from water. When a sandworm dies, it breaks apart into sandtrout, which encapsulate environmental water until they’re surrounded by desert. Only when the environment is absolutely arid do they combine to create their adult sandworm forms.
 
@@ -210,10 +213,10 @@ How much better would it then be if we could create an AI that restricts all oth
 
 I am not an AI expert. I’m not sure if any of this is possible even without the theoretical framework of AI risk. But I do know people, at least a bit, and I know that the reflex to run from danger is often stronger than the impulse to run towards safety. If all-powerful AI is inevitable, then running away from the wrong AI is merely delaying our eventual fatal mistake. Running towards the correct AI is necessary. As Leto says:
 
->  _Run Faster. History is a constant race between invention and catastrophe. Education helps, but it’s never enough. You must also run._
+> _Run Faster. History is a constant race between invention and catastrophe. Education helps, but it’s never enough. You must also run._
 
 ## Endnotes
 
- **1:** Leto’s family, the Atreides(es?) are basically magic; the Bene Gesserit were essentially witches who could draw on the ancestral memories of women in their ancestral line, and they bred this ability into Paul, Leto’s father. As a bonus, they can also draw on male ancestor’s memories, as well as having a pretty good ability to predict the future and know what’s going on in the present.
+**1:** Leto’s family, the Atreides(es?) are basically magic; the Bene Gesserit were essentially witches who could draw on the ancestral memories of women in their ancestral line, and they bred this ability into Paul, Leto’s father. As a bonus, they can also draw on male ancestor’s memories, as well as having a pretty good ability to predict the future and know what’s going on in the present.
 
 If this seems like cheating, it is; Leto is not only 3500 years old, but also has the combined leadership/political experience of every member of his family line at least as far back as the ancient Greeks. Did I mention he’s also mentat and can do computer-level mental calculations? He can also do mind control with his voice, and roll into you to kill you like Sonic the Hedgehog. It’s like Frank Herbert was worried you’d mistake him for _the Reasonably Tough Emperor of Dune_ and over-corrected in the other direction.

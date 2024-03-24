@@ -3,6 +3,9 @@ title: "Meetups Everywhere 2023: Times & Places"
 subtitle: "..."
 date: 2023-08-25
 likes: 36
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/136380189/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/f45955be-e7f7-4533-8a54-755aa49c7496_1000x667.jpeg
 original-url: https://www.astralcodexten.com/p/meetups-everywhere-2023-times-and
 ---
 Thanks to everyone who responded to my request for ACX meetup organizers. Volunteers have arranged meetups in 183 cities around the world, from Baghdad to Bangalore to Buenos Aires.
@@ -28,20 +31,20 @@ Within each region, it’s alphabetized first by country, then by city. For inst
 
 Scott will provisionally be attending the meetup in Berkeley. ACX meetups coordinator Skyler will provisionally be attending Boston, Cavendish, Burlington, Berlin, Bremen, Amsterdam, Cardiff, London, and Berkeley. Some of the biggest ones might be announced on the blog, regardless of whether or not Scott or Skyler attends.
 
- **Extra Info For Potential Attendees**
+**Extra Info For Potential Attendees**
 
- **1.** If you’re reading this, you’re invited. Please don’t feel like you “won’t be welcome” just because you’re new to the blog, demographically different from the average reader, don’t want to buy anything at the cafe or restaurant where it’s held, or hate ACX and everything it stands for. You’ll be fine!   
+**1.** If you’re reading this, you’re invited. Please don’t feel like you “won’t be welcome” just because you’re new to the blog, demographically different from the average reader, don’t want to buy anything at the cafe or restaurant where it’s held, or hate ACX and everything it stands for. You’ll be fine!   
 **2**. You don’t have to RSVP or contact the organizer to be able to attend (unless the event description says otherwise); RSVPs are mostly to give organizers a better sense of how many people might show up, and let them tell you if there are last-second changes. I’ve also given email addresses for all organizers in case you have a question.
 
- **Extra Info For Meetup Organizers:  
+**Extra Info For Meetup Organizers:  
   
 1.** If you’re the host, bring a sign that says “ACX MEETUP” and prop it up somewhere (or otherwise be identifiable).  
- **2.** Bring blank labels and pens for nametags.  
- **3.** Have people type their name and email address in a spreadsheet or in a Google Form (accessed via a bit.ly link or QR code), so you can start a mailing list to make organizing future meetups easier.  
- **4.** If it’s the first meetup, people are probably just going to want to talk, and if you try to organize some kind of “fun” “event” it’ll probably just be annoying.  
- **5.** It’s easier to schedule a followup meetup while you’re having the first, compared to trying to do it later on by email.  
- **6.** In case people want to get to know each other better outside the meetup, you might want to mention [reciprocity.io](https://www.reciprocity.io/), the rationalist friend-finder/dating site.  
- **7.** If you didn’t make a LessWrong event for your meetup (or if you did but Skyler didn’t know about it) the LessWrong team did it for you using the email address you gave here. To claim your event, log into LW (or create an account) using that email address, or message the LW team on Intercom (chat button in the bottom right corner of lesswrong.com).
+**2.** Bring blank labels and pens for nametags.  
+**3.** Have people type their name and email address in a spreadsheet or in a Google Form (accessed via a bit.ly link or QR code), so you can start a mailing list to make organizing future meetups easier.  
+**4.** If it’s the first meetup, people are probably just going to want to talk, and if you try to organize some kind of “fun” “event” it’ll probably just be annoying.  
+**5.** It’s easier to schedule a followup meetup while you’re having the first, compared to trying to do it later on by email.  
+**6.** In case people want to get to know each other better outside the meetup, you might want to mention [reciprocity.io](https://www.reciprocity.io/), the rationalist friend-finder/dating site.  
+**7.** If you didn’t make a LessWrong event for your meetup (or if you did but Skyler didn’t know about it) the LessWrong team did it for you using the email address you gave here. To claim your event, log into LW (or create an account) using that email address, or message the LW team on Intercom (chat button in the bottom right corner of lesswrong.com).
 
 If you need to change a meetup date or you have any other questions, please email skyler[at]rationalitymeetups[dot]org.
 
@@ -49,7 +52,7 @@ If you need to change a meetup date or you have any other questions, please emai
 
 ## Iraq
 
- **BAGHDAD, IRAQ  
+**BAGHDAD, IRAQ  
 ** Contact: Mustafa Ahmed  
 Contact Info: tofiahmed117[at]gmail[dot]com  
 Time: Friday, September 8th, 10:00 AM  
@@ -59,7 +62,7 @@ Group Link:[ https://t.me/ACX_BGH](https://t.me/ACX_BGH)
 
 ## Israel
 
- **TEL AVIV, ISRAEL  
+**TEL AVIV, ISRAEL  
 ** Contact: Inbar  
 Contact Info: inbar192[at]gmail[dot]com  
 Time: Thursday, September 21st, 7:00 PM  
@@ -69,7 +72,7 @@ Group Link: <https://facebook.com/groups/5389163051129361/>
 
 ## Nigeria
 
- **ABUJA, NIGERIA**  
+**ABUJA, NIGERIA**  
 Contact: Olaoluwa  
 Contact Info: akinloluwa[dot]olaoluwa[at]gmail[dot]com  
 Time: Saturday, September 23rd, 2:00 PM  
@@ -78,7 +81,7 @@ Coordinates: <https://plus.codes/6FX93F9H+J9>
 
 ## South Africa
 
- **CAPE TOWN, SOUTH AFRICA  
+**CAPE TOWN, SOUTH AFRICA  
 ** Contact: Yaseen Mowzer  
 Contact Info: yaseen[at]mowzer[dot]co[dot]za  
 Time: Saturday, September 16th, 11:00 AM  
@@ -88,7 +91,7 @@ Notes: Please RSVP so I know how big a table to reserve
 
 ## UAE
 
- **DUBAI, UAE  
+**DUBAI, UAE  
 ** Contact: RS  
 Contact Info: xyxyxz[at]gmail[dot]com  
 Time: Sunday, September 24th, 7:00 PM  
@@ -98,7 +101,7 @@ Notes: Please RSVP on LessWrong or send an email
 
 ### Uganda
 
- **MUKONO, UGANDA  
+**MUKONO, UGANDA  
 ** Contact: Neil  
 Contact Info: neilsotherinbox[at]gmail[dot]com  
 Time: Sunday, October 15th, 11:00 AM  
@@ -110,7 +113,7 @@ Notes: Tea and coffee will be served. Other food and drinks available for purcha
 
 ## Australia
 
- **CANBERRA, ACT, AUSTRALIA  
+**CANBERRA, ACT, AUSTRALIA  
 ** Contact: Andy B  
 Contact Info: Andy[dot]Bachler[at]gmail.com  
 Time: Tuesday, October 10th, 5:00 PM  
@@ -118,7 +121,7 @@ Location: Looking to meet at Grease Monkey in Braddon. I will book a table under
 Coordinates: <https://plus.codes/4RPFP4GM+Q2X>  
 Notes: GreaseMonkey have half-price drinks and snacks from 4pm-6pm. I will look to organise a chip-in for pizzas for those that are keen :-) I run a small regular meetup on the first Monday of every month.
 
- **GOLD COAST, QUEENSLAND, AUSTRALIA  
+**GOLD COAST, QUEENSLAND, AUSTRALIA  
 ** Contact: Lerancan  
 Contact Info: lerancan[at]gmail[dot]com  
 Time: Sunday, October 8th, 2:00 PM  
@@ -126,7 +129,7 @@ Location: A picnic table, Wyberba Street Reserve, Tugun
 Coordinates: <https://plus.codes/5R3MVF5W+26>  
 Notes: I will have an ACX sign. Email me in case of bad weather/you can't find me/you can't make that time but would still like to meet etc.
 
- **MELBOURNE, VICTORIA, AUSTRALIA  
+**MELBOURNE, VICTORIA, AUSTRALIA  
 ** Contact: RS  
 Contact Info: xgravityx[at]hotmail[dot]com  
 Time: Friday, October 6th, 6:00 PM  
@@ -135,7 +138,7 @@ Coordinates: <https://plus.codes/4RJ65XW7+46>
 Group Link: [https://m.facebook.com/groups/lesswrongmelbourne/?ref=share&mibextid=NSMWBT](https://m.facebook.com/groups/lesswrongmelbourne/?ref=share&mibextid=NSMWBT) I can also give out a WhatsApp link via email if you don't use Facebook  
 Notes: Email me or join the Facebook group Less Wrong Melbourne to RSVP so I can book a big enough table.
 
- **SYDNEY, NEW SOUTH WALES, AUSTRALIA  
+**SYDNEY, NEW SOUTH WALES, AUSTRALIA  
 ** Contact: Eliot  
 Contact Info: Redeliot[at]gmail[dot]com  
 Time: Thursday, September 21st, 6:00 PM  
@@ -146,7 +149,7 @@ Notes: Please RSVP to meetup.com
 
 # China
 
- **CENTRAL, HONG KONG  
+**CENTRAL, HONG KONG  
 ** Contact: Max Bolingbroke  
 Contact Info: acx[at]alpha[dot]engineering  
 Time: Saturday, October 7th, 3:00 PM  
@@ -156,7 +159,7 @@ Notes: We had to change to the alternative location, 3rd Wave Art Studio, Room B
 
 # India
 
- **BANGALORE, INDIA  
+**BANGALORE, INDIA  
 ** Contact: Nihal  
 Contact Info: propwash[at]duck[dot]com  
 Time: Sunday, September 24th, 4:00 PM  
@@ -165,7 +168,7 @@ Coordinates: https://plus.codes/7J4VXJF4+PR
 Group Link: <https://www.lesswrong.com/groups/i5vLw9xnG9iwXNQZZ>  
 Notes: Please RSVP on LessWrong
 
- **MUMBAI, INDIA  
+**MUMBAI, INDIA  
 ** Contact: PB  
 Contact Info: e2y94n1nv[at]relay[dot]firefox[dot]com  
 Time: Sunday, September 24th, 3:00 PM  
@@ -176,7 +179,7 @@ Notes: Please RSVP on LessWrong or via email, so we can arrange for enough food 
 
 # Indonesia
 
- **JAKARTA, INDONESIA**   
+**JAKARTA, INDONESIA**   
 Contact: Fawwaz  
 Contact Info: fawwazanvi[at]gmail[dot]com  
 Time: Sunday, September 10th, 3:00 PM  
@@ -186,7 +189,7 @@ Notes: Please RSVP on my twitter account -- @fawwazanvilen -- so I have an idea 
 
 ## Japan
 
- **TOKYO, JAPAN  
+**TOKYO, JAPAN  
 ** Contact: Harold and Andrew  
 Contact Info: rationalitysalon[at]gmail[dot]com  
 Time: Saturday, October 14th, 10:00 AM  
@@ -197,7 +200,7 @@ Notes: Please contact the organizer to RSVP and for exact details.
 
 ## Malaysia
 
- **KUALA LUMPUR, MALAYSIA  
+**KUALA LUMPUR, MALAYSIA  
 ** Contact: Yi-Yang  
 Contact Info: yi[dot]yang[dot]chua[at]gmail[dot]com  
 Time: Sunday, September 3rd, 2:00 PM  
@@ -207,7 +210,7 @@ Notes: Please RSVP on LessWrong so I'm more prepared
 
 ## New Zealand
 
- **AUCKLAND, NEW ZEALAND**   
+**AUCKLAND, NEW ZEALAND**   
 Contact: Jonathan  
 Contact Info: jonpdw[at]gmail[dot]com  
 Time: Saturday, September 16th, 10:30 AM  
@@ -215,7 +218,7 @@ Location: Brunch at the cafe "Sugar at Chelsea Bay"
 Coordinates: <https://plus.codes/4VMP5PHG+H2>  
 Notes: Please RSVP through email so I can book a table beforehand
 
- **CHRISTCHURCH, NEW ZEALAND  
+**CHRISTCHURCH, NEW ZEALAND  
 ** Contact: Pat  
 Contact Info: MyAutoForm1[at]protonmail[dot]com  
 Time: Saturday, September 09th, 02:30 PM  
@@ -223,7 +226,7 @@ Location: Ilex Cafe, Christchurch Botanic Gardens. I'll have an ACX sign
 Coordinates: <https://plus.codes/4V8JFJCF+22>  
 Notes: Likely a small group so open to change if we want to co-ordinate that. Please RSVP so I'm not waiting for no-one :)
 
- **WELLINGTON, NEW ZEALAND  
+**WELLINGTON, NEW ZEALAND  
 ** Contact: Ben W  
 Contact Info: benwve[at]gmail[dot]com  
 Time: Tuesday, October 3rd, 5:30 PM  
@@ -234,7 +237,7 @@ Notes: This meetup will be run in collaboration with Effective Altruism Wellingt
 
 ## Singapore
 
- **SINGAPORE  
+**SINGAPORE  
 ** Contact: Kon  
 Contact Info: konquek[at]gmail[dot]com  
 Time: Sunday, October 8th, 4:00 PM  
@@ -243,7 +246,7 @@ Coordinates: <https://plus.codes/6PH58R75+MX>
 
 ## Türkiye
 
- **ÇANKAYA, ANKARA, TÜRKIYE  
+**ÇANKAYA, ANKARA, TÜRKIYE  
 ** Contact: Erol C. A.  
 Contact Info: erolca0451[at]gmail[dot]com  
 Time: Saturday, September 2nd, 6:00 PM  
@@ -251,7 +254,7 @@ Location: Seymenler Parkı büfeler
 Coordinates: <https://plus.codes/8GFJVVW7+V8>  
 Notes: Gelmeyi düşünenler önden mail atarsa sevinirim, hiç mail gelmezse uzun süre boş boş beklemeyeyim. - I'd appreciate it if prospective attendees send an email beforehand so I won't have to wait for no one to appear.
 
- **ISTANBUL, TÜRKIYE  
+**ISTANBUL, TÜRKIYE  
 ** Contact: Birce Sultan Karabey  
 Contact Info: bircesultan[at]gmail[dot]com  
 Time: Sunday, September 17th, 5:00 PM  
@@ -261,7 +264,7 @@ Notes: Please RSVP so I can get an approximate headcount for the venue.
 
 ## Vietnam
 
- **HO CHI MINH CITY, VIETNAM  
+**HO CHI MINH CITY, VIETNAM  
 ** Contact: Hiep  
 Contact Info: hiepbq14408[at]gmail[dot]com  
 Time: Sunday, September 10th, 9:30 AM  
@@ -272,7 +275,7 @@ Coordinates: <https://plus.codes/7P28RP69+72>
 
 ## Austria
 
- **VIENNA, AUSTRIA**  
+**VIENNA, AUSTRIA**  
 Contact: Alexej Gerstmaier  
 Contact Info: alexej[dot]gerstmaier[at]gmail[dot]com  
 Time: Saturday, September 9th, 1:00 PM  
@@ -281,7 +284,7 @@ Coordinates: <https://plus.codes/8FWR693H+GM>
 
 ## Bulgaria
 
- **SOFIA, BULGARIA  
+**SOFIA, BULGARIA  
 ** Contact: Daniel Bensen  
 Contact Info: bensen[dot]daniel[at]gmail[dot]com  
 Time: Sunday, September 17th, 4:00 PM  
@@ -291,7 +294,7 @@ Notes: Everyone is welcome. Feel free to bring kids and dogs. Looking forward to
 
 ## Czech Republic
 
- **BRNO, CZECH REPUBLIC  
+**BRNO, CZECH REPUBLIC  
 ** Contact: Michal  
 Contact Info: adekcz[at]gmail[dot]com  
 Time: Monday, September 25th, 7:00 PM  
@@ -299,7 +302,7 @@ Location: Veselá 5, 4th floor, EA clubroom, there will also be a sign on the fr
 Coordinates: <https://plus.codes/8FXR5JV4+RM2>  
 Group Link:[ https://www.efektivni-altruismus.cz/en/kalendar-akci/](https://www.efektivni-altruismus.cz/en/kalendar-akci/)
 
- **PRAGUE, CZECH REPUBLIC  
+**PRAGUE, CZECH REPUBLIC  
 ** Contact: Daniel  
 Contact Info: betualphu[at]gmail[dot]com  
 Time: Tuesday, October 3rd, 6:30 PM  
@@ -310,7 +313,7 @@ Notes: Please RSVP on Facebook <https://fb.me/e/1bQg1Bitu> so we know how much f
 
 ## Denmark
 
- **COPENHAGEN, DENMARK  
+**COPENHAGEN, DENMARK  
 ** Contact: Søren Elverlin  
 Contact Info: soeren[dot]elverlin[at]gmail[dot]com  
 Time: Saturday, October 7th, 3:00 PM  
@@ -320,7 +323,7 @@ Notes: RSVP on LessWrong: <https://www.lesswrong.com/events/Ei3MKRfdH4eXnPjnD/as
 
 ## Estonia
 
- **TALLINN, ESTONIA**  
+**TALLINN, ESTONIA**  
 Contact: Andrew West  
 Contact Info: andrew_n_west[at]yahoo[dot]co[dot]uk  
 Time: Friday, October 13th, 7:00 PM  
@@ -329,7 +332,7 @@ Coordinates: <https://plus.codes/9GF6CPRH+MQ>
 
 ## Finland
 
- **HELSINKI, FINLAND  
+**HELSINKI, FINLAND  
 ** Contact: Joe Nash  
 Contact Info: sschelsinkimeetup[at]gmail[dot]com  
 Time: Tuesday, September 26th, 6:00 PM  
@@ -339,7 +342,7 @@ Group Link: <https://www.meetup.com/helsinki-slate-star-codex-readers-meetup/>
 
 ## France
 
- **NICE, PARIS  
+**NICE, PARIS  
 ** Contact: Jack S  
 Contact Info: jack[dot]stennett[at]sciencespo[dot]fr  
 Time: Friday October 6th, 7:30 PM  
@@ -347,7 +350,7 @@ Location: Just off Place Masséna- the green area with the fountains. I'll be we
 Coordinates: <https://plus.codes/8FM9M7XC+3X>  
 Notes: Just offering to set something up in the hope that there's someone interested. I know zero interested people as of yet, so ideally email in advance if you're interested. EN + FR discussion both okay.
 
- **PARIS, ÎLE-DE-FRANCE/PARIS, FRANCE  
+**PARIS, ÎLE-DE-FRANCE/PARIS, FRANCE  
 ** Contact: Épiphanie Gédéon (Épi)  
 Contact Info: iwonder[at]whatisthis[dot]world  
 Time: Sunday, October 15th, 5:30 PM  
@@ -363,7 +366,7 @@ Location: Parc Peixotto, middle of the path connecting the two main entrances (o
 Coordinates: <https://plus.codes/8CPXRC56+H3W>  
 Notes: Please RSVP on LessWrong so I know that someone is indeed coming. This will be a small meetup with no fixed topic, so whatever you want to discuss, we can discuss it!
 
- **TOULOUSE, FRANCE  
+**TOULOUSE, FRANCE  
 ** Contact: Alfonso  
 Contact Info: barsom[dot]maelwys[at]gmail[dot]com  
 Time: Sunday, October 15th, 7:00 PM  
@@ -373,7 +376,7 @@ Notes: Please, RSVP by emailing barsom.maelwys@gmail.com. Thank you!
 
 ## Germany
 
- **BERLIN, GERMANY**   
+**BERLIN, GERMANY**   
 Contact: Milli   
 Contact Info: acx-meetups[at]martinmilbradt[dot]de   
 Time: Saturday, September 16th, 2:00 PM   
@@ -389,7 +392,7 @@ Location: Fehrfeld (the bar, not the street); there will be an Epic Perplexus Ba
 Coordinates: <https://plus.codes/9F5C3RFF+9Q>   
 Notes: At the spring meetup, we decided to kick off a regular event. Since then, our group has grown from two to four people! We now gather on the fourth Tuesday evening of every month, so if you can't make it for the September meetup, we will also meet on October 24th, same place and time. Of course, you are also cordially invited if you don't want to commit to attend the meetup regularly. And if you can't make it, do not hesitate to reach out to me.
 
- **COLOGNE, GERMANY  
+**COLOGNE, GERMANY  
 ** Contact: Marcel Müller  
 Contact Info: marcel_mueller[at]mail[dot]de  
 Time: Saturday, September 9th, 5:00 PM  
@@ -405,7 +408,7 @@ Location: Chaos Computer Club Darmstadt, https://www.chaos-darmstadt.de/hackspac
 Coordinates: <https://plus.codes/8FXCVMC2+8FQ>  
 Notes: RSVP appreciated, but not required. _IF_ we plan something for food, we will calculate it based on that
 
- **FRANKFURT, GERMANY  
+**FRANKFURT, GERMANY  
 ** Contact: Birce Sultan Karabey  
 Contact Info: bircesultan[at]gmail[dot]com  
 Time: Tuesday, September 19th, 7:30 PM  
@@ -413,7 +416,7 @@ Location: Amp Bar, Gallusanlage 2, 60329 Frankfurt am Main, Germany
 Coordinates: <https://plus.codes/9F2C4M5C+JJ>  
 Notes: RSVP so I can inform the venue
 
- **FREIBURG, GERMANY  
+**FREIBURG, GERMANY  
 ** Contact: Omar  
 Contact Info: info[at]rationality-freiburg[dot]de  
 Time: Friday, September 15th, 6:00 PM  
@@ -430,7 +433,7 @@ Location: Planten un Blomen, Japanischer Garten, Pavillon
 Coordinates: <https://plus.codes/9F5FHX6M+76X>  
 Notes: Just looking to get in touch with other interested people, so no knowledge or expertise of any kind necessary to attend the meetup. If you intend to come I would appreciate a short email, but feel free to join spontaneously : ) Bring along what makes for a nice afternoon/evening in the park. In case of harsh weather, we could switch to a cafe or bar (I will check my email regularly and could quickly respond to you with the new location).
 
- **HEIDELBERG, GERMANY  
+**HEIDELBERG, GERMANY  
 ** _Duplicate of Mannheim_  
 Contact: Simon  
 Contact Info: acxmannheim[at]mailbox[dot]org  
@@ -439,7 +442,7 @@ Location: Murphy's Law, Mannheim
 Coordinates: <https://plus.codes/8FXCFFJC+5G>  
 Notes: Depending on how many people sign up we might need to find a different spot. Let me know if you are interested in coming, so I can estimate!
 
- **LEIPZIG, GERMANY  
+**LEIPZIG, GERMANY  
 ** Contact: Roman L  
 Contact Info: roman[dot]leipe[at]gmx[dot]de  
 Time: Tuesday, September 12th, 6:30 PM  
@@ -454,7 +457,7 @@ Location: Murphy's Law, Mannheim
 Coordinates: <https://plus.codes/8FXCFFJC+5G>  
 Notes: Depending on how many people sign up we might need to find a different spot. Let me know if you are interested in coming, so I can estimate!
 
- **MUNICH, GERMANY  
+**MUNICH, GERMANY  
 ** Contact: Erich  
 Contact Info: erich[at]meetanyway[dot]com  
 Time: Tuesday, September 5th, 7:00 PM  
@@ -465,7 +468,7 @@ Notes: I'll have some drinks, but it would be great if you could also bring some
 
 ## Greece
 
- **ATHENS, GREECE  
+**ATHENS, GREECE  
 ** Contact: Spyros  
 Contact Info: acx[dot]meetup[dot]athens[dot]greece[at]gmail[dot]com   
 Time: Wednesday, September 27th, 7:00 PM  
@@ -474,7 +477,7 @@ Coordinates: <https://plus.codes/8G95WMQR+WRP>
 
 ## Hungary
 
- **BUDAPEST, HUNGARY  
+**BUDAPEST, HUNGARY  
 ** Contact: Timothy  
 Contact Info: Timunderwood9[at]gmail[dot]com  
 Time: Sunday, September 10th, 2:00 PM  
@@ -484,7 +487,7 @@ Group Link: <https://groups.google.com/g/rationality-budapest/members>
 
 ## Italy
 
- **FOLIGNO, UMBRIA, ITALY  
+**FOLIGNO, UMBRIA, ITALY  
 ** Contact: Mauro   
 Contact Info: acx[at]cicio[dot]org  
 Time: Sunday, September 24th, 5:00 PM  
@@ -525,7 +528,7 @@ Notes: If you contact me I can add you to the relevant Telegram group
 
 ## Latvia
 
- **RIGA, LATVIA  
+**RIGA, LATVIA  
 ** Contact: Artūrs and Anastasia  
 Contact Info: effectivealtruismlatvia[at]gmail[dot]com  
 Time: Wednesday, September 13th, 6:30 PM  
@@ -534,7 +537,7 @@ Coordinates: <https://plus.codes/9G86W4RC+PF>
 
 ## Lithuania
 
- **VILNIUS, LITHUANIA  
+**VILNIUS, LITHUANIA  
 ** Contact: Tom  
 Contact Info: acx[dot]vilnius[at]gmail[dot]com  
 Time: Saturday, September 16th, 3:00 PM  
@@ -544,7 +547,7 @@ Notes: RSVP via LessWrong or email (acx.vilnius@gmail.com) preferred, but not re
 
 ## Netherlands
 
- **AMSTERDAM, NETHERLANDS  
+**AMSTERDAM, NETHERLANDS  
 ** Contact: Igor Bakutin  
 Contact Info: Igorbakutin[at]gmail[dot]com  
 Time: Saturday, September 30th, 2:00 PM  
@@ -563,7 +566,7 @@ Notes: Effective Altruism Eindhoven has biweekly meetups in the Hubble cafe on t
 
 ## Norway
 
- **OSLO, NORWAY  
+**OSLO, NORWAY  
 ** Contact: Hans Andreas  
 Contact Info: acxoslomeetup[at]gmail[dot]com  
 Time: Saturday, October 14th, 1:00 PM  
@@ -573,7 +576,7 @@ Group Link: <https://meetu.ps/c/4ZQXG/YsDP4/d>
 
 ## Portugal
 
- **LISBON, PORTUGAL  
+**LISBON, PORTUGAL  
 ** Contact: Luís Campos  
 Contact Info: luis[dot]filipe[dot]lcampos[at]gmail[dot]com  
 Time: Saturday, September 16th, 3:00 PM  
@@ -584,7 +587,7 @@ Notes: For comfort, bring sunglasses and a blanket to sit on. There is some natu
 
 ## Russia
 
- **MOSCOW, MOSCOW OBLAST, RUSSIA  
+**MOSCOW, MOSCOW OBLAST, RUSSIA  
 ** Contact: UselessCommon  
 Contact Info: titon[dot]a[at]yandex[dot]ru  
 Time: Saturday, September 16th, 2:00 PM  
@@ -594,7 +597,7 @@ Notes: I don't really use LW, and would prefer to be contacted (as uselesscommon
 
 ## Serbia
 
- **BELGRADE, SERBIA  
+**BELGRADE, SERBIA  
 ** Contact: Dušan  
 Contact Info: tatiana[dot]n[dot]skuratova[at]efektivnialtruizam[dot]rs  
 Time: Sunday, September 24th, 3:00 PM  
@@ -606,7 +609,7 @@ Notes: Please RSVP by email to Tatiana on the email above! The meet-up is the mo
 
 ## Slovakia
 
- **BRATISLAVA, SLOVAKIA  
+**BRATISLAVA, SLOVAKIA  
 ** Contact: Demjan (Demian)  
 Contact Info: demjan[dot]vester[at]gmail[dot]com  
 Time: Sunday, October 1st, 3:00 PM  
@@ -616,7 +619,7 @@ Group Link: <https://www.facebook.com/EffectiveAltruismSlovakia>
 
 ## Slovenia
 
- **LJUBLJANA, SLOVENIA  
+**LJUBLJANA, SLOVENIA  
 ** Contact: Demjan (Demian)  
 Contact Info: demjan[dot]vester[at]gmail[dot]com  
 Time: Wednesday, September 13th, 7:00 PM  
@@ -627,7 +630,7 @@ Notes: Please RSVP on LessWrong
 
 ## Spain
 
- **BARCELONA, SPAIN  
+**BARCELONA, SPAIN  
 ** Contact: Alfonso   
 Contact Info: alfonso[dot]martinez[at]upf[dot]edu  
 Time: Sunday, October 01st, 5:00 PM  
@@ -644,7 +647,7 @@ Group Link: <https://www.lesswrong.com/groups/NyFGBvrXj6i7NQzjv>
 
 ## Sweden
 
- **GOTHENBURG, SWEDEN  
+**GOTHENBURG, SWEDEN  
 ** Contact: Stefan  
 Contact Info: acx_gbg[at]posteo[dot]se  
 Time: Thursday, September 28th, 6:00 PM  
@@ -662,7 +665,7 @@ Notes: Please RSVP so I know if we'll be more than about 7: if so, we may need t
 
 ## Switzerland
 
- **BERN, SWITZERLAND**   
+**BERN, SWITZERLAND**   
 Contact: Daniel  
 Contact Info: Dd14214[at]gmail[dot]com  
 Time: Sunday, September 17th, 12:00 PM  
@@ -670,7 +673,7 @@ Location: Grosse Schanze, Haller statue
 Coordinates: <https://plus.codes/8FR9XC2Q+3G>  
 Notes: Please RSVP on LessWrong
 
- **GENEVA, SWITZERLAND  
+**GENEVA, SWITZERLAND  
 ** Contact: Valts  
 Contact Info: valtskr[at]inbox[dot]lv  
 Time: Sunday, September 24th, 10:00 AM  
@@ -678,7 +681,7 @@ Location: Alpine Botanical Garden of Meyrin, round chair thingy in northern part
 Coordinates: <https://plus.codes/8FR863HM+23R>  
 Notes: Meetup is going to be in English
 
- **ZURICH, ZURICH, SWITZERLAND  
+**ZURICH, ZURICH, SWITZERLAND  
 ** Contact: MB  
 Contact Info: acxzurich[at]proton[dot]me  
 Time: Saturday, September 30th, 3:00 PM  
@@ -688,7 +691,7 @@ Notes: I appreciate it when people who have a LW account anyways RSVP there.
 
 ## UK
 
- **BRISTOL, UK  
+**BRISTOL, UK  
 ** Contact: Nick Lowry  
 Contact Info: bristoleffectivealtruism[at]gmail[dot]com  
 Time: Saturday, October 21st, 2:00 PM  
@@ -705,7 +708,7 @@ Location: Arco Carpanel, Westgate Gardens walk. I have long fair hair and will h
 Coordinates: <https://plus.codes/9F3373JG+F3>  
 Notes: Please send email so I know how many to expect. If many, I could book somewhere
 
- **CAMBRIDGE, UK  
+**CAMBRIDGE, UK  
 ** Contact: Hamish  
 Contact Info: hamish[dot]todd1[at]gmail[dot]com  
 Time: Saturday, September 09th, 2:00 PM  
@@ -713,7 +716,7 @@ Location: Bath House pub, Upstairs
 Coordinates: <https://plus.codes/9F426439+J9>  
 Group Link: Email me to be put on the list
 
- **CARDIFF, WALES, UK  
+**CARDIFF, WALES, UK  
 ** Contact: Anna  
 Contact Info: strmnova[at]gmail[dot]com  
 Time: Tuesday, October 3rd, 7:00 PM  
@@ -728,7 +731,7 @@ Location: The basement of Black Medicine Coffee Company on Nicolson Street
 Coordinates: <https://plus.codes/9C7RWRW7+VJ>  
 Group Link: Please email [acxedinburgh@gmail.com](mailto:acxedinburgh@gmail.com) to join the mailing list. Each month, we run a meetup where we discuss ~three essays, sent out in advance. Please email [acxedinburgh@gmail.com](mailto:acxedinburgh@gmail.com) to join the mailing list and/or WhatsApp group, and see the September readings.
 
- **LIVERPOOL, UK  
+**LIVERPOOL, UK  
 ** Contact: Leon  
 Contact Info: leon[dot]citrine[at]gmail[dot]com  
 Time: Sunday, October 8th, 12:30 PM  
@@ -736,7 +739,7 @@ Location: The Merchant, 40 Slater St, Liverpool L1 4BX. I am a tall man with lon
 Coordinates: <https://plus.codes/9C5VC229+QR>  
 Notes: Please RSVP by email if you’re coming
 
- **LONDON, UK  
+**LONDON, UK  
 ** Contact: Edward Saperia  
 Contact Info: ed[at]newspeak[dot]house  
 Time: Saturday, October 7th, 12:00 PM  
@@ -745,7 +748,7 @@ Coordinates: <https://plus.codes/9C3XGWGH+3FG>
 Group Link: <https://tinyletter.com/acxlondon>  
 Notes: To attend you must register at <https://lu.ma/ACX-London-Oct-2023>.
 
- **MANCHESTER, GREATER MANCHESTER, U.K  
+**MANCHESTER, GREATER MANCHESTER, U.K  
 ** Contact: Matthew   
 Contact Info: melkartmtg[at]hotmail[dot]com  
 Time: Saturday, September 16th, 10:00 AM  
@@ -753,7 +756,7 @@ Location: St John's Gardens, adjacent to the cenotaph. I'll be there bearded man
 Coordinates: <https://plus.codes/9C5VFPHW+5V>  
 Notes: Meet in quiet park and can move on from there. Will stay until at least 11 for stragglers.
 
- **NEWCASTLE/DURHAM, NE ENGLAND, UK  
+**NEWCASTLE/DURHAM, NE ENGLAND, UK  
 ** Contact: Chris  
 Contact Info: wardle[at]live[dot]fr  
 Time: Sunday, October 1st, 11:00 AM  
@@ -769,7 +772,7 @@ Coordinates: <https://plus.codes/9C3WPQX6+QP7>
 Group Link: Mailing list signup: <https://tinyurl.com/oxrat-signup> ; <https://www.facebook.com/groups/oxfordrationalish> ; <https://www.lesswrong.com/groups/wQA8BE5e8mETeWb8A>  
 Notes: Please RSVP on LessWrong so I know how much food to get
 
- **SHEFFIELD, UK  
+**SHEFFIELD, UK  
 ** Contact: Colin  
 Contact Info: czr[at]rtnl[dot]org[dot]uk  
 Time: Saturday, September 16th, 3:00 PM  
@@ -781,7 +784,7 @@ Notes: I'll be there from 3pm to at least 5pm, and maybe later if other people w
 
 ## Canada
 
- **CALGARY, ALBERTA, CANADA  
+**CALGARY, ALBERTA, CANADA  
 ** Contact: David Piepgrass  
 Contact Info: qwertie256[at]gmail[dot]com  
 Time: Saturday, September 16th, 2:00 PM  
@@ -822,7 +825,7 @@ Location: McAllister's Place food court, assuming there's anyone interested in c
 Coordinates: <https://plus.codes/87QM8X4M+WC>  
 Notes: If you're late -- keep in mind that we might move over to a nearby rest areas if that turns to be more convenient. If you are thinking about coming, please get in touch via e-mail and I'll share a phone number so that's easier to find me if needed. If you're late by more than ~20 minutes, you might want to get in touch and confirm as we might move.
 
- **MISSISSAUGA, ONTARIO, CANADA  
+**MISSISSAUGA, ONTARIO, CANADA  
 ** Contact: Brett Reynolds  
 Contact Info: brett[dot]reynolds[at]humber[dot]ca  
 Time: Sunday, September 10th, 2:00 PM  
@@ -849,7 +852,7 @@ Event Link: <https://www.lesswrong.com/events/hjaWfJpbhyb8cyDZ6/ottawa-ontario-c
 Group Link: Facebook group: <https://www.facebook.com/groups/rationalottawa/>. Discord: [ https://discord.com/invite/G6ps5h9tQ](https://discord.com/invite/G6ps5h9tQ)  
 Notes: Please RSVP by any of discord, email, facebook, or lesswrong! The meetup is indoors- kids welcome, but no pets, sorry. We'll be providing food at the meetup. Rational Ottawa has been meeting up in the current form for 5 years! We meet weekly on Friday evenings, rotating between restaurants, the homes of members, outdoor meetups, and lately Rosemount Hall, where we'll be holding ACX Meetups Everywhere 2023!
 
- **TORONTO, ONTARIO, CANADA  
+**TORONTO, ONTARIO, CANADA  
 ** Contact: Sean Aubin  
 Contact Info: seanaubin[at]gmail[dot]com  
 Time: Sunday, September 10th, 2:00 PM  
@@ -877,7 +880,7 @@ Coordinates: <https://plus.codes/84XR7WGH+PH>
 
 ## Mexico
 
- **MEXICO CITY, MEXICO  
+**MEXICO CITY, MEXICO  
 ** Contact: Francisco  
 Contact Info: fagarrido[at]gmail[dot]com  
 Time: Saturday, October 14th, 4:00 PM  
@@ -885,7 +888,7 @@ Location: Cafebrería El Péndulo, Av Nuevo León 115, Hipódromo, Cuauhtémoc, 
 Coordinates: <https://plus.codes/76F2CR6G+6R>  
 Notes: Please RSVP on LW, so that I can let you know of any potential change of plans.
 
- **MERIDA, YUCATAN, MEXICO  
+**MERIDA, YUCATAN, MEXICO  
 ** Contact: Silvia  
 Contact Info: silviafidelina[at]hotmail[dot]com  
 Time: Thursday, October 21st, 10:00 AM  
@@ -894,7 +897,7 @@ Coordinates: <https://plus.codes/76GGX9JV+V6C>
 Group Link: <https://www.facebook.com/groups/lesswrongmerida/>  
 Notes: Please RSVP on LessWrong so I know how much food to get. The languages of the meeting will be Spanish (preferred) and English (rescue tool).
 
- **PLAYA DEL CARMEN, MEXICO  
+**PLAYA DEL CARMEN, MEXICO  
 ** Contact: Andrew  
 Contact Info: andrew[dot]d[dot]cutler[at]gmail[dot]com  
 Time: Monday, September 25th, 7:00 PM  
@@ -906,7 +909,7 @@ Notes: Please RSVP via email
 
 ### Alabama
 
- **HUNTSVILLE, ALABAMA, USA  
+**HUNTSVILLE, ALABAMA, USA  
 ** Contact: Mike  
 Contact Info: mjhouse[at]protonmail[dot]com  
 Time: Saturday, October 14th, 5:00 PM  
@@ -914,7 +917,7 @@ Location: 300 The Bridge St, Huntsville, AL 35806. We will be in the cafe with a
 Coordinates: <https://plus.codes/866MP88G+4V>  
 Notes: I don't think they allow animals except for service dogs.
 
- **TUSCALOOSA, ALABAMA, USA**  
+**TUSCALOOSA, ALABAMA, USA**  
 Contact: Nate  
 Contact Info: natestrum[at]rocketmail[dot]com  
 Time: Saturday, September 2nd, 12:00 PM  
@@ -924,7 +927,7 @@ Notes: If you can't make the meetup, email me so we can hang out some other time
 
 ### Alaska
 
- **ANCHORAGE, ALASKA, USA  
+**ANCHORAGE, ALASKA, USA  
 ** Contact: Matthew  
 Contact Info: 7o2wzrybd[at]mozmail[dot]com  
 Time: Sunday, October 29th, 1:00 PM  
@@ -934,7 +937,7 @@ Notes: Please RSVP using my provided email, so that I know what I should prepare
 
 ### Arizona
 
- **PHOENIX, ARIZONA, USA**  
+**PHOENIX, ARIZONA, USA**  
 Contact: Nathan  
 Contact Info: natoboo2000[at]gmail[dot]com  
 Time: Saturday, September 30th, 3:00 PM  
@@ -952,7 +955,7 @@ Notes: Boxyard is outdoor seating. It's likely that we'll have shade, but not a 
 
 ### Arkansas
 
- **FAYETTEVILLE, ARKANSAS, USA  
+**FAYETTEVILLE, ARKANSAS, USA  
 ** Contact: Antanas  
 Contact Info: antanasriskus27[at]gmail[dot]com  
 Time: Thursday, September 21st, 6:30 PM  
@@ -961,7 +964,7 @@ Coordinates: <https://plus.codes/86873RFQ+9M>
 
 ### California
 
- **BERKELEY, CALIFORNIA, USA  
+**BERKELEY, CALIFORNIA, USA  
 ** Contact: Scott and Skyler  
 Contact Info: skyler[at]rationalitymeetups[dot]org  
 Time: Saturday, October 21st, 3:00 PM  
@@ -969,7 +972,7 @@ Location: 2740 Telegraph Avenue
 Coordinates: <https://plus.codes/849VVP5R+X5>  
 (I [Scott] will try to make it to this one!)
 
- **DAVIS, CALIFORNIA, USA  
+**DAVIS, CALIFORNIA, USA  
 ** Contact: Arjun Singh  
 Contact Info: arjunsingh8797[at]gmail[dot]com  
 Time: Saturday, October 7th, 1:00 PM  
@@ -977,7 +980,7 @@ Location: John Natsoulas Gallery, 521 1st St, Davis, CA 95616. We'll meet on the
 Coordinates: <https://plus.codes/84CWG7R5+VJ>  
 Notes: Please feel free to bring anyone who may be interested in meeting new people, chatting, and playing social deduction board games like Avalon, Secret Hitler, Coup, etc. Dogs likely aren't allowed into the gallery, but children are absolutely fine!
 
- **EL CENTRO, CALIFORNIA, U.S.A  
+**EL CENTRO, CALIFORNIA, U.S.A  
 ** Contact: SP  
 Contact Info: spatelcuhsd[at]gmail[dot]com  
 Time: Sunday, October 29th, 8:30 AM  
@@ -985,7 +988,7 @@ Location: Bucklin Park, El Centro, California. I'll be at the pond by the playgr
 Coordinates: <https://plus.codes/8546QCHP+GF4>  
 Notes: Please RSVP by emailing me by October 26th
 
- **GRASS VALLEY, CALIFORNIA, USA  
+**GRASS VALLEY, CALIFORNIA, USA  
 ** Contact: Max Harms  
 Contact Info: Raelifin[at]gmail[dot]com  
 Time: Saturday, September 9th, 2:00 PM  
@@ -993,8 +996,8 @@ Location: 18154 Justice Ct. (It's a residence at the end of a long, mostly-dirt 
 Coordinates: <https://plus.codes/84FX5235+WRW>|  
 Notes: Please RSVP on LessWrong or email the organizer at raelifin@gmail.com if you're planning to come.
 
- **IRVINE, CALIFORNIA, USA  
-** _Duplicate of Newport Beach_ **  
+**IRVINE, CALIFORNIA, USA  
+** _Duplicate of Newport Beach_**  
 **Contact: Michael Michalchik  
 Contact Info: michaelmichalchik[at]gmail[dot]com  
 Time: Saturday, September 2nd, 2:00 PM  
@@ -1003,7 +1006,7 @@ Coordinates: <https://plus.codes/8554J47R+Q8>
 Group Link: Send requests to be included on the mailing list to michaelmichalchik[at]gmail[dot]com  
 Notes: This meeting repeats most Saturdays year around. Email me with the subject line ACXLW to be added to the mailing list.
 
- **LOS ANGELES, CALIFORNIA, USA  
+**LOS ANGELES, CALIFORNIA, USA  
 ** Contact: Vishal  
 Contact Info: Direct questions to "Vishal" on the LAR discord[dot] Invite here: <https://discord.gg/TaYjsvN>  
 Time: Wednesday, September 13th, 6:30 PM  
@@ -1021,7 +1024,7 @@ Coordinates: <https://plus.codes/8554J47R+Q8>
 Group Link: Send requests to be included on the mailing list to michaelmichalchik[at]gmail[dot]com  
 Notes: This meeting repeats most Saturdays year around. Email me with the subject line ACXLW to be added to the mailing list.
 
- **OAKLAND, CALIFORNIA, USA**  
+**OAKLAND, CALIFORNIA, USA**  
  _Duplicate of Berkeley_  
 Contact: Scott and Skyler  
 Contact Info: skyler[at]rationalitymeetups[dot]org  
@@ -1030,7 +1033,7 @@ Location: Rose Garden Inn
 Coordinates: <https://plus.codes/849VVP5R+X5>  
 (I [Scott] will try to make it to this one!)
 
- **SACRAMENTO, CALIFORNIA, USA**  
+**SACRAMENTO, CALIFORNIA, USA**  
 Contact: Willsen  
 Contact Info: nightfall9[at]gmail[dot]com  
 Time: Sunday, October 29th, 3:00 PM  
@@ -1038,7 +1041,7 @@ Location: Backyard of private residence at 23rd and W St, in Midtown
 Coordinates: <https://plus.codes/84CWHG69+M2>  
 Notes: Email me for the specific address, it's easy to find
 
- **SAN DIEGO, CALIFORNIA, USA**  
+**SAN DIEGO, CALIFORNIA, USA**  
 Contact: Julius  
 Contact Info: julius[dot]simonelli[at]gmail[dot]com  
 Time: Saturday, September 2nd, 1:00 PM  
@@ -1047,7 +1050,7 @@ Coordinates: <https://plus.codes/8544PVQ8+P6>
 Group Link: <https://www.meetup.com/san-diego-rationalists/>  
 Notes: We'll have an ACX sign and I'll be wearing a red shirt.
 
- **SAN FRANCISCO, CALIFORNIA, USA**  
+**SAN FRANCISCO, CALIFORNIA, USA**  
 Contact: Jill & Daniel  
 Contact Info: jill[dot]dma[at]gmail[dot]com  
 Time: Saturday, September 16th, 10:00 AM  
@@ -1055,15 +1058,15 @@ Location: The giant wooden bench overlooking the city right outside Cafe Josephi
 Coordinates: <https://plus.codes/849VQH76+PWW>  
 Notes: Kids and dogs are very welcome. Great bathrooms, café, and children's museum on premises. Also tree shade and stunning view of the city.
 
- ** ~~SAN JOSE, CALIFORNIA, USA~~** ~~  
+**~~SAN JOSE, CALIFORNIA, USA~~**~~  
 Contact: David  
 Contact Info: ddfr[at]daviddfriedman[dot]com  
 Time: Saturday, September 23rd, 2:00 PM  
 Location: 3806 Williams Rd.  
-Coordinates: ~~[~~https://plus.codes/849W825J+6P~~](https://plus.codes/849W825J+6P) ~~  
+Coordinates: ~~[~~https://plus.codes/849W825J+6P~~](https://plus.codes/849W825J+6P)~~  
 ~~[CANCELLED, SORRY, EMAIL DAVID FOR MORE INFO]
 
- **SUNNYVALE, CALIFORNIA, USA**  
+**SUNNYVALE, CALIFORNIA, USA**  
 Contact: Allison  
 Contact Info: southbaymeetup[at]gmail[dot]com  
 Time: Saturday, October 14th, 2:00 PM  
@@ -1074,7 +1077,7 @@ Notes: Please RSVP on LessWrong so I bring enough food/drinks. Children and on-l
 
 ### Colorado
 
- **BOULDER, COLORADO, USA  
+**BOULDER, COLORADO, USA  
 ** Contact: Josh Sacks  
 Contact Info: josh[dot]sacks+acx[at]gmail[dot]com  
 Time: Saturday, September 23th, 3:00 PM  
@@ -1084,7 +1087,7 @@ Event Link: <https://www.lesswrong.com/posts/oC4DJsGTcxMBRE8Ej/acx-ssc-boulder-m
 Group Link: <https://groups.google.com/g/boulder-acx-ssc>  
 Notes: Please RSVP on LessWrong so we have a rough guest count!
 
- **CARBONDALE, COLORADO, USA  
+**CARBONDALE, COLORADO, USA  
 ** Contact: Nick  
 Contact Info: naj[at]njarboe[dot]com  
 Time: Wednesday, September 20th, 6:00 PM  
@@ -1092,7 +1095,7 @@ Location: Sopris Park, Main picnic table area|
 Coordinates: <https://plus.codes/85FJ9QXP+QM>  
 Notes: An RSVP is helpful but please come even if you haven’t. Kids are great.
 
- **DENVER, COLORADO, USA  
+**DENVER, COLORADO, USA  
 ** Contact: Eneasz Brodski  
 Contact Info: embrodski[at]gmail[dot]com  
 Time: Sunday, September 17th, 3:00 PM  
@@ -1104,7 +1107,7 @@ Notes: There will be BBQ food and snacks available, including some vegan hot dog
 
 ### Connecticut
 
- **HARTFORD, CONNECTICUT, USA  
+**HARTFORD, CONNECTICUT, USA  
 ** Contact: Dawson  
 Contact Info: dawson[dot]beatty[at]gmail[dot]com  
 Time: Saturday, September 23rd, 10:00 AM  
@@ -1113,7 +1116,7 @@ Coordinates: <https://plus.codes/87H9Q78Q+CX>
 
 ### DC
 
- **WASHINGTON, DC, USA**  
+**WASHINGTON, DC, USA**  
 Contact: John Bennett  
 Contact Info: WashingtonDCAstralCodexTen[at]gmail[dot]com  
 Time: Saturday, September 9th, 6:00 PM  
@@ -1125,7 +1128,7 @@ Notes: We've rented out the Froggy Bottom Pub for the night, dinner and soft dri
 
 ### Florida
 
- **FORT LAUDERDALE, FLORIDA, USA  
+**FORT LAUDERDALE, FLORIDA, USA  
 ** Contact: Britt  
 Contact Info: miamiacx[at]gmail[dot]com  
 Time: Sunday, September 24th, 5:00 PM  
@@ -1134,7 +1137,7 @@ Coordinates: <https://plus.codes/76RX4V26+5W>
 Group Link: <https://discord.gg/tDf8fYPRRP>  
 Notes: Hosted by the local ACX group that does meetups throughout south Florida, including Palm Beach, Broward, and Miami-Dade counties. Come join our Discord!
 
- **GULF BREEZE, FLORIDA, USA  
+**GULF BREEZE, FLORIDA, USA  
 ** Contact: Christian  
 Contact Info: christian[at]metaculus[dot]com  
 Time: Wednesday, October 18th, 8:00 PM  
@@ -1151,7 +1154,7 @@ Location: Margaret Pace Park in Edgewater, northeast corner on the benches overl
 Coordinates: <https://plus.codes/76QXQRW7+7M>  
 Group Link: [https://discord.gg/tDf8fYPRRP](https://plus.codes/76QXQRW7+7M)
 
- **WEST PALM BEACH, FLORIDA, USA**  
+**WEST PALM BEACH, FLORIDA, USA**  
 Contact: Charlie  
 Contact Info: chuckwilson477[at]yahoo[dot]com  
 Time: Saturday, September 2nd, 1:00 PM  
@@ -1162,7 +1165,7 @@ Notes: The meetup will go on for several hours so don't worry if you have to arr
 
 ### Georgia
 
- **ATLANTA, GEORGIA, USA  
+**ATLANTA, GEORGIA, USA  
 ** Contact: Steve French  
 Contact Info: steve[at]digitaltoolfactory[dot]net  
 Time: Saturday, September 16th, 2:00 PM  
@@ -1173,7 +1176,7 @@ Notes: Please RSVP on LessWrong or Meetup.com
 
 ### Illinois
 
- **CHICAGO, ILLINOIS, USA  
+**CHICAGO, ILLINOIS, USA  
 ** Contact: Todd  
 Contact Info: info[at]chicagorationality[dot]com  
 Time: Saturday, September 09th, 2:00 PM  
@@ -1192,7 +1195,7 @@ Notes: RSVPs are appreciated but not at all required. You can RSVP on LW or by e
 
 ### Indiana
 
- **SOUTH BEND, INDIANA, USA**  
+**SOUTH BEND, INDIANA, USA**  
 Contact: Darcey Riley  
 Contact Info: darcey[dot]riley[at]gmail[dot]com  
 Time: Saturday, September 23rd, 2:00 PM  
@@ -1209,7 +1212,7 @@ Notes: We've had a couple meetups during previous rounds of ACX Everywhere and t
 
 ### Louisiana
 
- **NEW ORLEANS, LOUISIANA, USA  
+**NEW ORLEANS, LOUISIANA, USA  
 ** Contact: Blake  
 Contact Info: blake[at]bertuccelli-booth[dot]org  
 Time: Saturday, September 9th, 11:11 AM  
@@ -1220,7 +1223,7 @@ Notes: Text/Signal/WhatsApp me (Blake) at +1 504 377 3650 or email 1111@philosop
 
 ### Maryland
 
- **BALTIMORE, MARYLAND, USA  
+**BALTIMORE, MARYLAND, USA  
 ** Contact: Rivka  
 Contact Info: rivka[at]adrusi[dot]com  
 Time: Sunday, September 24th, 7:00 PM  
@@ -1229,7 +1232,7 @@ Coordinates: <https://plus.codes/87F5774P+53>
 Group Link: We have a mailing list. Please email me if you would like to be added to it. Here is a link to our discord. <https://discord.gg/KUXMuMbkH>  
 Notes: There will be snacks and drinks
 
- **COLLEGE PARK, MARYLAND, USA  
+**COLLEGE PARK, MARYLAND, USA  
 ** Contact: Dan Moller  
 Contact Info: dmoller[at]umd[dot]edu  
 Time: Saturday, September 16th, 2:00 PM  
@@ -1238,7 +1241,7 @@ Coordinates: <https://plus.codes/87C5X3P4+97>
 
 ### Massachusetts
 
- **BOSTON, MASSACHUSETTS, USA  
+**BOSTON, MASSACHUSETTS, USA  
 ** Contact: Skyler and Dan  
 Contact Info: skyler[at]rationalitymeetups[dot]org  
 Time: Sunday, September 03rd, 03:00 PM  
@@ -1264,7 +1267,7 @@ Coordinates: <https://plus.codes/87JC8RJ4+76>
 Event Link: <https://www.lesswrong.com/events/fMcxBfAimukmqpAzB/2023-acx-meetups-everywhere-newton-ma>  
 Notes: If I run this it'll be totally open-ended (I'm planning ~12pm to ~2pm, but can totally go to any time). Also open beyond the rat community proper (I'll welcome postrats, alignment researchers, predictors, effective altruists, and rationalists).
 
- **NORTHAMPTON, MASSACHUSETTS, USA**  
+**NORTHAMPTON, MASSACHUSETTS, USA**  
 Contact: Alex Liebowitz  
 Contact Info: alex[at]alexliebowitz[dot]com  
 Time: Saturday, September 2nd, 6:00 PM  
@@ -1276,7 +1279,7 @@ Notes: We're meeting in the Library Room in the way back of Packard's (we have i
 
 ### Michigan
 
- **ANN ARBOR, MICHIGAN, USA  
+**ANN ARBOR, MICHIGAN, USA  
 ** Contact: Joseph  
 Contact Info: jwpryorprojects[at]gmail[dot]com  
 Time: Saturday, September 16th, 1:00 PM  
@@ -1286,7 +1289,7 @@ Event Link: <https://www.meetup.com/ann-arbor-ssc-rationalist-meetup-group/event
 Group Link:[ https://www.meetup.com/Ann-Arbor-SSC-Rationalist-Meetup-Group/](https://www.meetup.com/Ann-Arbor-SSC-Rationalist-Meetup-Group/)  
 Notes: Feel free to contact me through the meetup app or by email. We'll also be meeting on Saturday October 21st. We have Monthly Zoom meetups on Thursday evenings!
 
- **JACKSON, MICHIGAN, USA  
+**JACKSON, MICHIGAN, USA  
 ** Contact: Joseph  
 Contact Info: jwpryorprojects[at]gmail[dot]com  
 Time: Saturday, September 23rd, 3:00 PM  
@@ -1297,7 +1300,7 @@ Notes: Please rsvp by email. I organize the Ann Arbor meetups but I live in Jack
 
 ### Minnesota
 
- **MINNEAPOLIS, MINNESOTA, USA  
+**MINNEAPOLIS, MINNESOTA, USA  
 ** Contact: Timothy M.  
 Contact Info: tmbond[at]gmail[dot]com  
 Time: Saturday, September 16th, 1:00 PM  
@@ -1308,7 +1311,7 @@ Notes: Make sure to RSVP on LessWrong - <https://www.lesswrong.com/events/6xBdod
 
 ### Missouri
 
- **KANSAS CITY, MISSOURI, USA  
+**KANSAS CITY, MISSOURI, USA  
 ** Contact: Alex Hedtke  
 Contact Info: alex[dot]hedtke[at]gmail[dot]com  
 Time: Friday, October 27th, 6:30 PM  
@@ -1329,7 +1332,7 @@ Notes: "Please RSVP on LessWrong so I know how much food to get" and "Feel free 
 
 ### Navada
 
- **LAS VEGAS, NEVADA, USA  
+**LAS VEGAS, NEVADA, USA  
 ** Contact: Jonathan Ray  
 Contact Info: Ray[dot]Jonathan[dot]W[at]gmail[dot]com  
 Time: Sunday, September 24th, 12:00 PM  
@@ -1339,7 +1342,7 @@ Notes: We use discord for all meetup announcements and communications: <https://
 
 ### New Jersey
 
- **PRINCETON, NEW JERSEY, USA**  
+**PRINCETON, NEW JERSEY, USA**  
 Contact: Danny Kumpf  
 Contact Info: dskumpf[at]gmail[dot]com  
 Time: Thursday, September 21st, 7:00 PM  
@@ -1349,7 +1352,7 @@ Group Link: <https://discord.gg/RjdunaR3S2>
 
 ### New Mexico
 
- **TAOS, NEW MEXICO, USA**  
+**TAOS, NEW MEXICO, USA**  
 Contact: Jess  
 Contact Info: jordanslowik52[at]gmail[dot]com  
 Time: Saturday, September 23rd, 1:00 PM  
@@ -1359,8 +1362,8 @@ Notes: Please RSVP to my email so I know if I should expect anyone.
 
 ### New York
 
- **BUFFALO, NEW YORK, USA  
-** _Duplicate of Java Village._ **  
+**BUFFALO, NEW YORK, USA  
+** _Duplicate of Java Village._**  
 **Contact: George H  
 Contact Info: ggherold[at]gmail[dot]com  
 Time: Sunday, September 10th, 1:00 PM  
@@ -1389,7 +1392,7 @@ Location: 47 clinton pl., Massapequa NY, 11758
 Coordinates: <https://plus.codes/87G8MG4F+3W>  
 Notes: Please RSVP via email so I know how much food to get.
 
- **NEW YORK CITY, NEW YORK, USA  
+**NEW YORK CITY, NEW YORK, USA  
 ** _Duplicate of Manhattan_  
 Contact: Robi Rahman  
 Contact Info: robirahman94[at]gmail[dot]com  
@@ -1406,7 +1409,7 @@ Coordinates: <https://plus.codes/87M45C42+H9>
 
 ### North Carolina
 
- **ASHEVILLE, NORTH CAROLINA  
+**ASHEVILLE, NORTH CAROLINA  
 ** Contact: Vicki Williams  
 Contact Info: VickiRWilliams[at]gmail[dot]com  
 Time: Saturday, September 16th, 11:00 AM  
@@ -1414,7 +1417,7 @@ Location: Lake Julian Park. We'll try to grab a picnic table near the playground
 Coordinates: <https://plus.codes/867VFFJ6+2G5>  
 Notes: Please rsvp so I can update on our exact location and in case we need to reschedule for weather.
 
- **CHARLOTTE, NORTH CAROLINA, USA  
+**CHARLOTTE, NORTH CAROLINA, USA  
 ** Contact: Cat  
 Contact Info: cat[dot]esposito[at]gmail[dot]com  
 Time: Tuesday, October 10th, 6:30 PM  
@@ -1423,7 +1426,7 @@ outdoor seating section that is in front of the residential apartment buildings 
 Coordinates: <https://plus.codes/867X65RP+6P>  
 Notes: It's a brewery that typically serves food on Tuesday nights.
 
- **DURHAM, NORTH CAROLINA, USA  
+**DURHAM, NORTH CAROLINA, USA  
 ** Contact: Logan  
 Contact Info: logan[dot]the[dot]word[at]gmail[dot]com  
 Time: Saturday, September 23rd, 1:00 PM  
@@ -1434,7 +1437,7 @@ Notes: LAST MINUTE LOCATION CHANGE! Hi-Wire Brewing instead of Ponysaurus. Feel 
 
 ### Ohio
 
- **CINCINNATI, OHIO, USA  
+**CINCINNATI, OHIO, USA  
 ** Contact: Alex Smith  
 Contact Info: acsmith818[at]gmail[dot]com  
 Time: Sunday, October 22nd, 2:00 PM  
@@ -1442,7 +1445,7 @@ Location: Bean and Barley, 2005 Madison Road
 Coordinates: <https://plus.codes/86FQ4GJP+QW>  
 Notes: I've hosted various meetings of other kinds here, so I imagine it'll be fine. I'll call first to confirm. If they tell me no for some reason, I'll put it somewhere else in Cincinnati. There are plenty of good places.
 
- **CLEVELAND, OHIO, USA  
+**CLEVELAND, OHIO, USA  
 ** Contact: Andrew  
 Contact Info: ajl161[at]case[dot]edu  
 Time: Sunday, September 17th, 3:00 PM  
@@ -1450,7 +1453,7 @@ Location: Nano brew Cleveland- 1859 W 25th St, Cleveland, OH 44113
 Coordinates: <https://plus.codes/86HWF7PW+C5>  
 Notes: Can bring dogs
 
- **COLUMBUS, OHIO, USA  
+**COLUMBUS, OHIO, USA  
 ** Contact: Russell  
 Contact Info: russell[dot]emmer[at]gmail[dot]com  
 Time: Sunday, September 10th, 3:00 PM  
@@ -1458,7 +1461,7 @@ Location: Clifton Park Shelterhouse, Jeffrey Park, Bexley. We will be at one of 
 Coordinates: <https://plus.codes/86FVX3C3+QF>  
 Notes: Please send an email if you'd like to join our mailing list for future invitations.
 
- **TOLEDO, OHIO, USA**  
+**TOLEDO, OHIO, USA**  
 Contact: Norman Perlmutter  
 Contact Info: NLPerlmutter+ACX[at]gmail[dot]com  
 Time: Sunday, September 10th, 3:00 PM  
@@ -1469,7 +1472,7 @@ Notes: Please RSVP on LessWrong or on the Meetup group (but not on both, it woul
 
 ### Oregon
 
- **CORVALLIS, OREGON, USA  
+**CORVALLIS, OREGON, USA  
 ** Contact: Kenan S.  
 Contact Info: kbitikofer[at]gmail[dot]com  
 Time: Saturday, September 9th, 7:00 PM  
@@ -1484,7 +1487,7 @@ Location: Beergarden. we'll have a large silver cuboid balloon with an EA logo.
 Coordinates: <https://plus.codes/84PR3V3W+C7>  
 Group Link: https://www.meetup.com/effective-altruism-eugene
 
- **PORTLAND, OREGON, USA**  
+**PORTLAND, OREGON, USA**  
 Contact: Sam Celarek  
 Contact Info: scelarek[at]gmail[dot]com  
 Time: Saturday, September 9th, 5:00 PM  
@@ -1496,7 +1499,7 @@ Notes: Please RSVP on our meetup site!
 
 ### Pennslyvania
 
- **PHILADELPHIA, PENNSYLVANIA, USA**  
+**PHILADELPHIA, PENNSYLVANIA, USA**  
 Contact: Wes  
 Contact Info: rationalphilly[at]gmail[dot]com  
 Time: Tuesday, September 26th, 7:00 PM  
@@ -1506,7 +1509,7 @@ Group Link: Email - <https://groups.google.com/g/ACXPhiladelphia>; Google Calend
 Notable Guests: Wes, one of the hosts of the Mindkiller podcast  
 Notes: Free dim sum! There will be vegetarian and non-vegetarian selections. We have a social meetup once a month.
 
- **PITTSBURGH, PENNSYLVANIA, USA**  
+**PITTSBURGH, PENNSYLVANIA, USA**  
 Contact: Justin  
 Contact Info: pghacx[at]gmail[dot]com  
 Time: Saturday, September 16th, 2:00 PM  
@@ -1516,7 +1519,7 @@ Coordinates: <https://plus.codes/87G2F32J+QX>
 Group Link: <https://discord.gg/PM77wYwpj>  
 Notes: INDOOR CONTINGENCY OPTION: In the event of rain, we will instead meet at City Kitchen at Bakery Square, which is a short walk from Melon Park. (City Kitchen has two levels, so be sure to check upstairs if you can't find us.) If we shift meeting locations, Justin will send an email update >2 hours before the scheduled meetup time, as well as a follow-up email with the table number once we have arrived and claimed a space; please contact pghacx@gmail.com if you would like to be added to the email list in advance.
 
- **HARRISBURG, PENNSYLVANIA, USA  
+**HARRISBURG, PENNSYLVANIA, USA  
 ** Contact: Phil Persing  
 Contact Info: acxharrisburg[at]gmail[dot]com  
 Time: Saturday, September 9th, 3:00 PM  
@@ -1526,7 +1529,7 @@ Group Link: acxharrisburg[at]gmail[dot]com
 
 ### South Dakota
 
- **SIOUX FALLS, SOUTH DAKOTA, USA**  
+**SIOUX FALLS, SOUTH DAKOTA, USA**  
 Contact: S.C.  
 Contact Info: villainsplus[at]protonmail[dot]com  
 Time: Monday, October 2nd, 5:30 PM  
@@ -1536,7 +1539,7 @@ Notes: Please RSVP on LessWrong or EMail me (but don't do both!)
 
 ### Tennesee
 
- **MEMPHIS, TENNESSEE, USA  
+**MEMPHIS, TENNESSEE, USA  
 ** Contact: Michael  
 Contact Info: michael[at]postlibertarian[dot]com  
 Time: Saturday, September 9th, 1:30 PM  
@@ -1546,7 +1549,7 @@ Group Link: <https://discord.com/invite/3C74kCmsD9>
 
 ### Texas
 
- **AUSTIN, TEXAS, USA  
+**AUSTIN, TEXAS, USA  
 ** Contact: Silas Barta  
 Contact Info: sbarta[at]gmail[dot]com  
 Time: Saturday, September 30th, 12:00 PM  
@@ -1555,7 +1558,7 @@ Coordinates: <https://plus.codes/86248746+9C>
 Group Link: <https://groups.google.com/g/austin-less-wrong>  
 Notes: Feel free to bring kids/dogs. We will have tents set up for shade and provide food.
 
- **COLLEGE STATION, TEXAS, USA  
+**COLLEGE STATION, TEXAS, USA  
 ** Contact: Michael Frost  
 Contact Info: mikefrosttx[at]gmail[dot]com  
 Time: Saturday, October 21st, 7:00 PM  
@@ -1563,7 +1566,7 @@ Location: On the outside porch at Torchy’s at 1037 Texas Ave South. I will hav
 Coordinates: <https://plus.codes/8625JMFC+5J9>  
 Notes: Please RSVP on LessWrong so that I know how many people are coming or shoot me an email! Students and adults welcome.
 
- **DALLAS, TEXAS, USA  
+**DALLAS, TEXAS, USA  
 ** Contact: Ethan  
 Contact Info: ethan[dot]morse97[at]gmail[dot]com  
 Time: Sunday, October 8th, 1:00 PM  
@@ -1595,16 +1598,16 @@ Coordinates: <https://plus.codes/76X3CGP9+JJ>
 Group Link: <https://www.meetup.com/rationality-san-antonio/>  
 Notes: I will be wearing a black cowboy hat
 
- **WESTLAKE, TEXAS, USA**  
- **Contact** : Jacob Elliott  
- **Contact Info** : jake[at]gnomidion[dot]com  
- **Time** : Friday, September 8th, 7:00 PM  
- **Location** : Social Oak Lounge, Trophy Club  
- **Coordinates** : <https://plus.codes/8644XRV5+6W>
+**WESTLAKE, TEXAS, USA**  
+**Contact** : Jacob Elliott  
+**Contact Info** : jake[at]gnomidion[dot]com  
+**Time** : Friday, September 8th, 7:00 PM  
+**Location** : Social Oak Lounge, Trophy Club  
+**Coordinates** : <https://plus.codes/8644XRV5+6W>
 
 ### Utah
 
- **LOGAN, UTAH, USA  
+**LOGAN, UTAH, USA  
 ** Contact: J Ladner  
 Contact Info: jladner20vpa[at]gmail[dot]com  
 Time: Saturday, September 23rd, 4:00 PM  
@@ -1612,7 +1615,7 @@ Location: Picnic tables on the north side of Adams Park. I will be wearing a cow
 Coordinates: <https://plus.codes/85HCP5RH+P4>  
 Notes: I'll bring a few games.
 
- **SALT LAKE CITY, UTAH, USA**  
+**SALT LAKE CITY, UTAH, USA**  
 Contact: Adam   
 Contact Info: adam[dot]r[dot]isom[at]gmail[dot]com  
 Time: Saturday, October 14th, 3:00 PM  
@@ -1622,7 +1625,7 @@ Group Link: <https://discord.gg/3etRHcRs>
 
 ### Vermont
 
- **BURLINGTON, VERMONT, USA**  
+**BURLINGTON, VERMONT, USA**  
 Contact: Skyler  
 Contact Info: skyler[at]rationalitymeetups[dot]org  
 Time: Sunday, September 10th, 3:00 PM  
@@ -1630,7 +1633,7 @@ Location: In the Oakledge park. I’ll be wearing a tall blue and green hat.
 Coordinates: <https://plus.codes/87P8FQ4F+5C>  
 Notable Guests: Tristan Roberts, Vermont State Representative and also blogger.
 
- **CAVENDISH, VERMONT, USA  
+**CAVENDISH, VERMONT, USA  
 ** Contact: Joe  
 Contact Info: joe[at]cavendishlabs[dot]org  
 Time: Saturday, September 9th, 04:00 PM  
@@ -1639,7 +1642,7 @@ Coordinates: <https://plus.codes/87M999JR+WVM>
 
 ### Virginia
 
- **CHARLOTTESVILLE, VIRGINIA, USA  
+**CHARLOTTESVILLE, VIRGINIA, USA  
 ** Contact: Ryan  
 Contact Info: effectivealtruismatuva[at]gmail[dot]com  
 Time: Saturday, September 23rd, 5:00 PM  
@@ -1666,7 +1669,7 @@ Group Link: <https://discord.gg/27hr8Jp925>
 
 ### Washington
 
- **BELLINGHAM, WASHINGTON, USA  
+**BELLINGHAM, WASHINGTON, USA  
 ** Contact: Alex  
 Contact Info: bellinghamrationalish[at]gmail[dot]com  
 Time: Wednesday, September 20th, 5:30 PM  
@@ -1675,7 +1678,7 @@ Coordinates: <https://plus.codes/84WVQG45+WQ>
 Group Link: <https://www.meetup.com/bellingham-rationalish-community>/  
 Notes: Please RSVP on Meetup so we have an idea of how many people to expect (so we can grab enough table space).
 
- **REDMOND, WASHINGTON, USA**  
+**REDMOND, WASHINGTON, USA**  
 Contact: Surendar  
 Contact Info: surendargoud[at]gmail[dot]com  
 Time: Friday, October 13th, 6:00 PM  
@@ -1683,7 +1686,7 @@ Location: 18651 NE 61st Ct
 Coordinates: <https://plus.codes/84VVMW65+C5>  
 Notes: If you need to get in touch, use the number 425-301-0640.
 
- **SEATTLE, WASHINGTON, USA**  
+**SEATTLE, WASHINGTON, USA**  
 Contact: Spencer Pearson  
 Contact Info: speeze[dot]pearson+acx[at]gmail[dot]com  
 Time: Saturday, September 9th, 2:00 PM  
@@ -1693,7 +1696,7 @@ Group Link: <https://www.meetup.com/seattle-rationality/>
 
 ### West Virginia
 
- **CHARLESTON, WEST VIRGINIA, USA  
+**CHARLESTON, WEST VIRGINIA, USA  
 ** Contact: Ryan  
 Contact Info: ryan[dot]matera1[at]gmail[dot]com  
 Time: Sunday, September 10th, 1:00 PM  
@@ -1702,7 +1705,7 @@ Coordinates: <https://plus.codes/86CW9928+M2F>
 
 ### Wisconsin
 
- **LA CROSSE, WISCONSIN, USA  
+**LA CROSSE, WISCONSIN, USA  
 ** Contact: Dan Uebele  
 Contact Info: daniel[at]westsalemtool[dot]com  
 Time: Saturday, September 9th, 2:00 PM  
@@ -1710,7 +1713,7 @@ Location: The Turtle Stack Brewery @ 125 2nd St S, La Crosse, WI 54601
 Coordinates: <https://plus.codes/86MCRP7W+28>  
 Notes: No need to drink, even though it's a brewery, it just has good ambiance. Please RSVP on Meetup.com, because then the app will ding me and I'll know someone is coming. Search for Rationality La Crosse.
 
- **MADISON, WISCONSIN, USA  
+**MADISON, WISCONSIN, USA  
 ** Contact: Sidney  
 Contact Info: sidneyparham[at]gmail[dot]com  
 Time: Saturday, September 30th, 12:00 PM  
@@ -1729,7 +1732,7 @@ Notes: A regularly scheduled 2nd Saturday Barn Dance will be held in the dance h
 
 ## Argentina
 
- **BUENOS AIRES, ARGENTINA  
+**BUENOS AIRES, ARGENTINA  
 ** Contact: David  
 Contact Info: david[dot]f[dot]rivadeneira[at]gmail[dot]com  
 Time: Saturday, September 9th, 11:30 AM  
@@ -1739,16 +1742,16 @@ Notable Guests: Luca de Leo
 
 ### Brazil
 
- **RIO DE JANEIRO, RJ, BRAZIL**  
- **Contact** : Tiago Macedo  
- **Contact Info** : tiago[dot]s[dot]m[dot]macedo[at]gmail[dot]com  
- **Time** : Saturday, September 16th, 4:00 PM  
- **Location** : Praça Nelson Mandela, right at the Botafogo subway station. It is possible that, once everyone is there, we'll go to a nearby Starbucks, just one street-crossing from the initial location.  
- **Coordinates** : <https://plus.codes/589R2RX8+H7>  
+**RIO DE JANEIRO, RJ, BRAZIL**  
+**Contact** : Tiago Macedo  
+**Contact Info** : tiago[dot]s[dot]m[dot]macedo[at]gmail[dot]com  
+**Time** : Saturday, September 16th, 4:00 PM  
+**Location** : Praça Nelson Mandela, right at the Botafogo subway station. It is possible that, once everyone is there, we'll go to a nearby Starbucks, just one street-crossing from the initial location.  
+**Coordinates** : <https://plus.codes/589R2RX8+H7>  
 **Group Link:** gist.github.com/tiago-macedo/40c1cdfd3bde6d2bcadde463ac8b3cf2  
- **Notes** : I'll bring a chessboard. If at most 5 people show up (other than me), I'll either order pizza or coffee for everyone.
+**Notes** : I'll bring a chessboard. If at most 5 people show up (other than me), I'll either order pizza or coffee for everyone.
 
- **CURITIBA, PARANA, BRAZIL**  
+**CURITIBA, PARANA, BRAZIL**  
 Contact: Demian  
 Contact Info: demianet[at]gmail[dot]com  
 Time: Saturday, September 23rd, 4:00 PM  
@@ -1758,9 +1761,9 @@ Notes: All welcome. If possible, RSVP by e-mail
 
 ### Uruguay
 
- **PUNTA DEL ESTE, URUGUAY**  
- **Contact:** Manu  
- **Contact Info:** astralcodexten[at]maraoz[dot]com  
- **Time:** Saturday, October 14th, 2:00 PM  
- **Location:** Borneo Coffee  
- **Coordinates:** <https://plus.codes/48Q734PQ+58>
+**PUNTA DEL ESTE, URUGUAY**  
+**Contact:** Manu  
+**Contact Info:** astralcodexten[at]maraoz[dot]com  
+**Time:** Saturday, October 14th, 2:00 PM  
+**Location:** Borneo Coffee  
+**Coordinates:** <https://plus.codes/48Q734PQ+58>

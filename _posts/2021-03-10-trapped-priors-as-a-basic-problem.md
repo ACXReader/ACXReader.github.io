@@ -2,6 +2,9 @@
 title: "Trapped Priors As A Basic Problem Of Rationality"
 date: 2021-03-10
 likes: 294
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/32649286/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7507fb9c-07a2-4f03-bfe6-430357f8aa3c_433x240.png
 original-url: https://www.astralcodexten.com/p/trapped-priors-as-a-basic-problem
 ---
 **Introduction and review**
@@ -34,7 +37,7 @@ Still, this ought to work eventually. Your friend just has to give you a _good e
 
 But in fact many political zealots never accept reality. It's not just that they're inherently skeptical of what the other party says. It's that even when something is proven beyond a shadow of a doubt, they _still_ won't believe it. This is where we need to bring in the idea of trapped priors.
 
- **Trapped priors: the basic cognitive version**
+**Trapped priors: the basic cognitive version**
 
 Phobias are a very simple case of trapped priors. They can be more technically defined as a failure of habituation, the fancy word for "learning a previously scary thing isn't scary anymore". There are lots of habituation studies on rats. You ring a bell, then give the rats an electric shock. After you do this enough times, they're scared of the bell - they run and cower as soon as they hear it. Then you switch to ringing the bell and _not_ giving an electric shock. At the beginning, the rats are still scared of the bell. But after a while, they realize the bell can't hurt them anymore. They adjust to treating it just like any other noise; they lose their fear - they habituate.
 
@@ -60,7 +63,7 @@ This is the trapped prior. It's trapped because it can never update, no matter w
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F79fbef0a-e2d8-497b-9e2d-d5289130d91d_537x259.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F79fbef0a-e2d8-497b-9e2d-d5289130d91d_537x259.png)
 
- **Trapped prior: the more complicated emotional version**
+**Trapped prior: the more complicated emotional version**
 
 The section above describes a simple cognitive case for trapped priors. It doesn't bring in the idea of emotion at all - an emotionless threat-assessment computer program could have the same problem if it used the same kind of Bayesian reasoning people do. But people find themselves more likely to be biased when they have strong emotions. Why?
 
@@ -72,7 +75,7 @@ You can't update on the evidence that the dog was friendly because your raw expe
 
 I've heard some people call this[ "bitch eating cracker syndrome"](https://www.urbandictionary.com/define.php?term=Bitch%20Eating%20Crackers). The idea is - you're in an abusive or otherwise terrible relationship. Your partner has given you ample reason to hate them. But now you don't just hate them when they abuse you. Now even something as seemingly innocent as seeing them eating crackers makes you actively angry. In theory, an interaction with your partner where they just eat crackers and don't bother you in any way ought to produce some habituation, be a tiny piece of evidence that they're not always that bad. In reality, it will just make you hate them worse. At this point, your prior on them being bad is so high that every single interaction, regardless of how it goes, will make you hate them more. Your prior that they're bad has become trapped. And it colors every aspect of your interaction with them, so that even interactions which out-of-context are perfectly innocuous feel nightmarish from the inside.
 
- **From phobia to bias**
+**From phobia to bias**
 
 I think this is a fruitful way to think of cognitive biases in general. If I'm a Republican, I might have a prior that Democrats are often wrong or lying or otherwise untrustworthy. In itself, that's fine and normal. It's a model shaped by my past experiences, the same as my prior against someone’s claim to have seen a polar bear. But if enough evidence showed up - bear tracks, clumps of fur, photographs - I should eventually overcome my prior and admit that the bear people had a point. Somehow in politics that rarely seems to happen.
 
@@ -88,7 +91,7 @@ I want to tie this back to[ one of my occasional hobbyhorses](https://slatestarc
 
 Maybe this kind of thing is real sometimes. But think about how it interacts with a trapped prior. Whenever the party you don't like says something seemingly reasonable, you can interpret in context as them wanting something horrible. Whenever they want a seemingly desirable thing, you secretly know it means they want a horrible moral atrocity. If a Republican talks about "law and order", it doesn't mean they're concerned about the victims of violent crime, it means they want to lock up as many black people as possible to strike a blow for white supremacy. When a Democrat talks about "gay rights", it doesn't mean letting people marry the people they love, it means destroying the family so they can replace it with state control over your children. I've had arguments with people who believe that no pro-life conservative really cares about fetuses, they just want to punish women for being sluts by denying them control over their bodies. And I've had arguments with people who believe that no pro-lockdown liberal really cares about COVID deaths, they just like the government being able to force people to wear masks as a sign of submission. Once you're at the point where all these things sound plausible, _you are doomed_. You can get a piece of evidence as neutral as "there's a deadly pandemic, so those people think you should wear a mask" and convert it into "they're trying to create an authoritarian dictatorship". And if someone calls you on it, you'll just tell them they need to look at it _in context_. It’s the bitch eating cracker syndrome except for politics - even when the other party does something completely neutral, it seems like extra reason to hate them.
 
- **Reiterating the cognitive vs. emotional distinction**
+**Reiterating the cognitive vs. emotional distinction**
 
 When I showed some people an early draft of this article, they thought I was talking about "emotional bias". For example, the phobic patient _fears_ the dog, so his anti-dog prior stays trapped. The partisan _hates_ the other party, so she can't update about it normally.
 
@@ -98,13 +101,13 @@ Where does the emotional component come in? I think van der Bergh argues that wh
 
 Along with the cognitive and emotional sources of bias, there's a third source: self-serving bias. People are more likely to believe ideas that would benefit them if true; for example, rich people are more likely to believe low taxes on the rich would help the economy; minimum-wage workers are more likely to believe that raising the minimum wage would be good for everyone. Although I don't have any formal evidence for this, I suspect that these are honest beliefs; the rich people aren't just pretending to believe that in order to trick you into voting for it. I don't consider the idea of bias as trapped priors to account for this third type of bias at all; it might relate in some way that I don't understand, or it may happen through a totally different process.
 
- **Future research directions**
+**Future research directions**
 
 If this model is true, is there any hope?
 
 I've sort of lazily written as if there's a "point of no return" - priors can update normally until they reach a certain strength, and after that they're trapped and can't update anymore. Probably this isn't true. Probably they just become trapped _relative to the amount of evidence an ordinary person is likely to experience_. Given immense, overwhelming evidence, the evidence could still drown out the prior and cause an update. But it would have to be really big.
 
-(...but now I'm thinking of the stories of apocalypse cultists who, when the predicted apocalypse doesn't arrive, double down on their cult in one way or another. Festinger, Rieken, and Schachter's classic book on the subject, _[When Prophecy Fails](https://en.wikipedia.org/wiki/When_Prophecy_Fails)_ , finds that these people "become a more fervent believer after a failure or disconfirmation". I'm not sure what level of evidence could possibly convince them. My usual metaphor is "if God came down from the heavens and told you..." - but God coming down from the heavens and telling you _anything_ probably makes apocalypse cultism more probable, not less.)
+(...but now I'm thinking of the stories of apocalypse cultists who, when the predicted apocalypse doesn't arrive, double down on their cult in one way or another. Festinger, Rieken, and Schachter's classic book on the subject,_[When Prophecy Fails](https://en.wikipedia.org/wiki/When_Prophecy_Fails)_ , finds that these people "become a more fervent believer after a failure or disconfirmation". I'm not sure what level of evidence could possibly convince them. My usual metaphor is "if God came down from the heavens and told you..." - but God coming down from the heavens and telling you _anything_ probably makes apocalypse cultism more probable, not less.)
 
 If you want to get out of a trapped prior, the most promising source of hope is the psychotherapeutic tradition of treating phobias and PTSD. These people tend to recommend very gradual exposure to the phobic stimulus, sometimes with special gimmicks to prevent you from getting scared or help you "process" the information (there's no consensus as to whether the eye movements in EMDR operate through some complicated neurological pathway, work as placebo, or just distract you from the fear). A lot of times the "processing" involves trying to remember the stimulus multimodally, in as much detail as possible - for example drawing your trauma, or acting it out.
 

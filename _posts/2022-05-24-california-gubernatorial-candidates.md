@@ -3,6 +3,9 @@ title: "California Gubernatorial Candidates From Z to Z"
 subtitle: "..."
 date: 2022-05-24
 likes: 197
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/56015946/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7ab4b6f5-ea81-4100-8003-242d610f84a2_680x453.png
 original-url: https://www.astralcodexten.com/p/california-gubernatorial-candidates
 ---
 California is the home of Alphabet Inc, so it’s symbolically appropriate that we have twenty-six candidates in this year’s gubernatorial primary. The summer soldier and the sunshine patriot will get bored after looking into two or three. Not us! We are going to do our civic duty and evaluate them all, in the order they’re listed on the ballot. Starting with:
@@ -223,7 +226,7 @@ I am really split on this guy. He is clearly thinking very hard and developing o
 
 > Newsom and many school districts went too far on Covid. It was reasonable to take precautions early in the pandemic to avoid hospitals being overwhelmed. But the continued masking of children and the demand for vaccination against a virus that hurt children the least was unreasonable.
 
-But like many people who have original opinions, he also gets some things really wrong. ~~On his mental health-related opinions - the rare field I am qualified to assess - he comes to opposite conclusions from me. I~~[ ~~support suboxone treatment~~](https://slatestarcodex.com/2015/02/02/practically-a-book-review-dying-to-be-free/) ~~, he’s against it; I~~[ ~~oppose sweeping institutionalization of the mentally ill~~](https://slatestarcodex.com/2016/03/31/book-review-my-brother-ron/) ~~, he’s for it~~ [ **EDIT:** Shellenberger has objected to this characterization of his position and says he believes the opposite of what I ascribed to him] . Also, he wants the school day to be longer in order to be more convenient for parents, which is thoughtful and makes sense, but only in the same way that never letting people out of prison would be more convenient for parole boards. Lots of hits, lots of misses.
+But like many people who have original opinions, he also gets some things really wrong. ~~On his mental health-related opinions - the rare field I am qualified to assess - he comes to opposite conclusions from me. I~~[~~support suboxone treatment~~](https://slatestarcodex.com/2015/02/02/practically-a-book-review-dying-to-be-free/)~~, he’s against it; I~~[~~oppose sweeping institutionalization of the mentally ill~~](https://slatestarcodex.com/2016/03/31/book-review-my-brother-ron/)~~, he’s for it~~ [**EDIT:** Shellenberger has objected to this characterization of his position and says he believes the opposite of what I ascribed to him] . Also, he wants the school day to be longer in order to be more convenient for parents, which is thoughtful and makes sense, but only in the same way that never letting people out of prison would be more convenient for parole boards. Lots of hits, lots of misses.
 
 The San Francisco Chronicle accuses him of being “obsessed with stoicism”, and I don’t know whether this is some kind of attack or if he is actually obsessed with the philosophy. He does recommend Victor Frankl books to people on Twitter:
 
@@ -255,7 +258,7 @@ He is very against the war on drugs, which he says costs us trillions of dollars
 
 But he also has other beliefs, for example:
 
->  **Robots driving cars:** also, we should not allow robots to drive cars. We have no other choice if we want to live, and we do. we can barely trust people to drive our cars. Now we’re supposed to let a robot decide if we live or die? And all computers can be, and are, hacked daily! No!
+> **Robots driving cars:** also, we should not allow robots to drive cars. We have no other choice if we want to live, and we do. we can barely trust people to drive our cars. Now we’re supposed to let a robot decide if we live or die? And all computers can be, and are, hacked daily! No!
 
 …including some which surprised me. He’s pretty angry about the police in a lot of ways, thinks they’re prosecuting victimless crimes and contributing to a culture of mass incarceration - but also, he supports police militarization, because:
 
@@ -265,7 +268,7 @@ But he also has other beliefs, for example:
 
 Followed by:
 
->  **Update:** Hillary Clinton has hinted she now has changed her mind and supports arming police with military weapons, but only to fight terrorists. So, all her experience led her to the wrong conclusion on this issue until police proved they needed to use combat weapons and armor in the recent murders of police in Dallas Texas, which we all still mourn. so, i don't want to hear how my "lack of experience" should prevent me from holding office, when i am right consistently on issues that save lives, and Hillary (and trump certainly!) are wrong on issues that would kill so many here and abroad
+> **Update:** Hillary Clinton has hinted she now has changed her mind and supports arming police with military weapons, but only to fight terrorists. So, all her experience led her to the wrong conclusion on this issue until police proved they needed to use combat weapons and armor in the recent murders of police in Dallas Texas, which we all still mourn. so, i don't want to hear how my "lack of experience" should prevent me from holding office, when i am right consistently on issues that save lives, and Hillary (and trump certainly!) are wrong on issues that would kill so many here and abroad
 
 Schultz is a practicing lawyer. You can learn more about him at this video:
 
@@ -479,7 +482,7 @@ Needless to say, he is running for the Green Party and wants “no more capitali
 
 The important question is: are his poems good? A typical example is [To The Police Officer Who Refused To Sit In The Same Room As My Son Because He’s A ‘Gang Banger](https://www.poetryfoundation.org/poems/151343/to-the-police-officer-who-refused-to-sit-in-the-same-room-as-my-son-because-he39s-a-gang-banger):
 
->  _How dare you!  
+> _How dare you!  
 >  How dare you pull this mantle from your sloven  
 > sleeve and think it worthy enough to cover my boy.  
 > How dare you judge when you also wallow in this mud.  

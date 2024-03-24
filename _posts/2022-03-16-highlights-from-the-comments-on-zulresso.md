@@ -3,6 +3,9 @@ title: "Highlights From The Comments On Zulresso"
 subtitle: "..."
 date: 2022-03-16
 likes: 37
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/50266343/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/974cbaa1-29db-4ee3-8d48-cd0c49c5ffa0_341x246.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-zulresso
 ---
 Thanks to everyone who commented on [Zounds! It’s Zulresso and Zuranolone](https://astralcodexten.substack.com/p/zounds-its-zulresso-and-zuranolone) and on the followup [Progesterone Megadoses Might Be A Cheap Zulresso Substitute](https://astralcodexten.substack.com/p/progesterone-megadoses-might-be-a?s=w). I’m constantly impressed by the expertise of commenters here and on how much _better_ the biomedical comment threads are compared to some of the others. Among the things I learned:
@@ -27,13 +30,13 @@ He also wrote a longer blog post about the science of progesterone [here](https:
 > 
 > I doubt that the concept of "positive allosteric modulator" existed in 1955 when chlordiazepoxide was invented; in those days drugs were discovered by making random chemicals and feeding them to animals to see what happened. The receptor theory of medchem (i.e. that drugs have a specific biochemical target in the body) is generally credited to James Black and his fellow Nobel laureates, and propranolol (the first drug discovered in the target-based way) wasn't patented until 1962.
 
- **—[Jimmy Steier](https://twitter.com/JimmySteier/status/1501967457136820231)** on Twitter gives more information on tolerance development:
+**—[Jimmy Steier](https://twitter.com/JimmySteier/status/1501967457136820231)** on Twitter gives more information on tolerance development:
 
 > Key point missing in this post is that ALLO/zulresso mediates tonic GABA inhibitory tone (as opposed to phasic for benzos). I wouldn't touch an exogenous analog of ALLO w/ a ten foot pole. Context on severe issues w/ tolerance and withdrawal: [Tolerance to allopregnanolone with focus on the GABA-A receptor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3031054/#:~:text=Tolerance%20to%20the%20anaesthetic%20effect,negative%20effects%20in%20the%20Morris).
 
 This paper confirms that women with PMDD or PPD (but not other women) get tolerance to allopregnanolone within the normal course of the menstrual cycle or pregnancy. There’s actually a study showing that these women get less effect from benzos during this time, since the allopregnanolone and benzos have cross-tolerance!
 
- **— Thomas Reilly** has a new blog [Rational Psychiatry](https://rationalpsychiatry.substack.com/) where he’s written up [some more info](https://rationalpsychiatry.substack.com/p/10-facts-every-psychiatrist-should?r=g83wq&s=w&utm_campaign=post&utm_medium=web&utm_source=direct) on premenstrual dysphoria and progesterone. For example:
+**— Thomas Reilly** has a new blog [Rational Psychiatry](https://rationalpsychiatry.substack.com/) where he’s written up [some more info](https://rationalpsychiatry.substack.com/p/10-facts-every-psychiatrist-should?r=g83wq&s=w&utm_campaign=post&utm_medium=web&utm_source=direct) on premenstrual dysphoria and progesterone. For example:
 
 > In an elegant [series of experiments](https://pubmed.ncbi.nlm.nih.gov/9435325/), Peter Schmidt and David Rubinow gave participants a medication (leuprolide) that suppresses oestrogen and progesterone. This eliminated PMDD symptoms. Whats more, when they reintroduced either oestrogen or progesterone, symptoms returned.
 

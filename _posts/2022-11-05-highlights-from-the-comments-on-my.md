@@ -3,6 +3,9 @@ title: "Highlights From The Comments On My California Ballot"
 subtitle: "Plus: my Oakland ballot"
 date: 2022-11-05
 likes: 57
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/82674929/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5423df6c-f795-4b0e-9a6c-69a8c839c476_604x422.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-my
 ---
 _[Original post[here](https://astralcodexten.substack.com/p/my-california-ballot-2022)]_
@@ -104,7 +107,7 @@ I generally really like our current mayor, Libby Schaaf. She has generally had g
 
 Taylor has entered into a vote transfer pact with **Treva Reid** , where both of them ask their supporters to vote for the other as second choice. The people in my house who watched the mayoral debate (not me!) said they really liked Treva, so I put her second.
 
- **Greg Hodge** is a local community leader who raises money for good causes and does various inspirational things. He is involved in a lot of black community organizations, but somehow avoids sounding incredibly annoying and woke in a way that drives me away. He was the Lead Minister for the [Wo’Se Community](https://wosecommunity.org/our-theology/), which seems to be maybe some kind of ancient Egyptian polytheism + Christianity + pan-Africanist syncretism; it has a sort of refreshing old-school dignity to it. According to the Principia Discordia, the word “[HODGE](https://discordia.fandom.com/wiki/Sacred_Chao)” represents the principle of Order, which I think Oakland needs more of right now.
+**Greg Hodge** is a local community leader who raises money for good causes and does various inspirational things. He is involved in a lot of black community organizations, but somehow avoids sounding incredibly annoying and woke in a way that drives me away. He was the Lead Minister for the [Wo’Se Community](https://wosecommunity.org/our-theology/), which seems to be maybe some kind of ancient Egyptian polytheism + Christianity + pan-Africanist syncretism; it has a sort of refreshing old-school dignity to it. According to the Principia Discordia, the word “[HODGE](https://discordia.fandom.com/wiki/Sacred_Chao)” represents the principle of Order, which I think Oakland needs more of right now.
 
 The polls say this is a two way race between Loren Taylor and **Sheng Thao**. Both are way to the left by national standards, but by Oakland standards Taylor is more centrist and Thao further left. The house members who watched the mayoral debate were very impressed with Thao and called her smart and well-spoken. But she is [apparently involved in a scandal](https://oaklandside.org/2022/11/02/investigation-alleged-misconduct-sheng-thao-leana-powell-public-ethics-commission-timeline/) where she (allegedly) tried to bully a subordinate in the city government into working for her campaign (illegal) and then fired him when he refused to comply.
 
@@ -118,7 +121,7 @@ I think if you hate the Jews and get your divine messages at a ziggurat, you sho
 
 ### Other Interesting Comments
 
- **Would Prop 1 Permit Genetic Engineering?**
+**Would Prop 1 Permit Genetic Engineering?**
 
 Sniffnoy [writes](https://astralcodexten.substack.com/p/my-california-ballot-2022/comment/10213923):
 
@@ -132,7 +135,7 @@ It does seem true that, taking it literally as written, this does kind of seem l
 
 I am sort of skeptical of this. Read purely literally, it looks like maybe this should permit genetic engineering. But I suspect the judges tasked to interpret it won’t see things that way!
 
- **Probably YIMBYs Should Vote For Bonta**
+**Probably YIMBYs Should Vote For Bonta**
 
 Andrew L [writes](https://astralcodexten.substack.com/p/my-california-ballot-2022/comment/10213459):
 
@@ -154,7 +157,7 @@ Auros [agrees](https://astralcodexten.substack.com/p/my-california-ballot-2022/c
 
 Fine, I switch my recommendation from ABSTAIN to BONTA, but if there is extra space on your ballot please also groan slightly while voting.
 
- **Attention Santa Clarans**
+**Attention Santa Clarans**
 
 Glenn on a Discord server I frequent writes:
 
@@ -166,7 +169,7 @@ But in case that isn’t enough for you, said match.com founder - Gary Kremen - 
 
 Rebecca Eisenberg is running against him; I urge Santa Clarans to support her.
 
- **Christiansen Good On Math**
+**Christiansen Good On Math**
 
 > Daniel Filan [writes](https://astralcodexten.substack.com/p/my-california-ballot-2022/comment/10213433):
 > 
@@ -174,7 +177,7 @@ Rebecca Eisenberg is running against him; I urge Santa Clarans to support her.
 > 
 > One part of the Framework you might like is the assertion that people are better at math when neurons in different regions of the brain are more connected, so the math curriculum should draw connections to other subjects. Tony Thurmond does not seem troubled by any of this, and has been in charge while the Framework was being developed. So I consider this an additional reason to support Christensen.
 
- **Cohen Family History**
+**Cohen Family History**
 
 The Genealogian writes:
 

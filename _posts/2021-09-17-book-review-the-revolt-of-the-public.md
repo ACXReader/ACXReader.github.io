@@ -3,6 +3,9 @@ title: "Book Review: The Revolt Of The Public"
 subtitle: "..."
 date: 2021-09-17
 likes: 92
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/41442728/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9d0e8a0b-720a-4654-bdcb-5a9b9bb72f9d_1280x908.jpeg
 original-url: https://www.astralcodexten.com/p/book-review-the-revolt-of-the-public
 ---
 **I.**
@@ -43,7 +46,7 @@ Gurri isn't shy about his contempt for this. Not only were these some of the mos
 
 So what's going on?
 
- **II.**
+**II.**
 
 Our story begins (says Gurri) in the early 20th century, when governments, drunk on the power of industrialization, sought to remake Society in their own image. This was the age of High Modernism, with all of its planned cities and collective farms and so on. Philosopher-bureaucrat-scientist-dictator-manager-kings would lead the way to a new era of gleaming steel towers, where society was managed with the same ease as a gardener pruning a hedgerow.
 
@@ -77,7 +80,7 @@ First, cultivate your garden. We got into this mess by believing the government 
 
 Second, start looking for a new set of elites who can achieve legitimacy. These will have to be genuinely decent and humble people - Gurri gives the example of George Washington. They won't claim to be able to solve everything. They won't claim the scientific-administrative mantle of High Modernism. They'll just be good honorable people who will try to govern wisely for the common good. Haha, yeah right.
 
- **III.**
+**III.**
 
 Speaking of humility, Gurri is nervous about being a false prophet, so he suggests a test to determine whether or not his thesis has stood the test of time:
 

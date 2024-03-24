@@ -3,6 +3,9 @@ title: "The Government Is Making Telemedicine Hard And Inconvenient Again"
 subtitle: "..."
 date: 2023-03-29
 likes: 251
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/111379839/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/afcd81bb-d26a-4a91-88d1-d44a69bb0c6a_3450x1946.webp
 original-url: https://www.astralcodexten.com/p/the-government-is-making-telemedicine
 ---
 _[I’m writing this quickly to deal with an evolving situation and I’m not sure I fully understand the intricacies of this law - please forgive any inaccuracies. I’ll edit them out as I learn about them.]_
@@ -53,17 +56,17 @@ I’m probably going to rent an office somewhere in Oakland for the month for a 
 
 The ones who are hours and hours away, or who don’t have cars, will have to find some other doctor. They’ll spend hours on the phone with their insurance, with the office, etc, scheduling an appointment. They’ll pay some hefty co-pay. The conversation will go like this:
 
->  **Patient:** Please sign this form so I can continue seeing my psychiatrist, who I like and who is treating me successfully. It just says you’ve evaluated me and think I’m a good candidate for a psych referral.
+> **Patient:** Please sign this form so I can continue seeing my psychiatrist, who I like and who is treating me successfully. It just says you’ve evaluated me and think I’m a good candidate for a psych referral.
 > 
->  **Doctor:** I don’t know anything about psychiatry.
+> **Doctor:** I don’t know anything about psychiatry.
 > 
->  **Patient:** Right, you’re not supposed to, that’s why you’re referring me to a psychiatrist.
+> **Patient:** Right, you’re not supposed to, that’s why you’re referring me to a psychiatrist.
 > 
->  **Doctor:** I don’t even know which psychiatrists are good to refer people to.
+> **Doctor:** I don’t even know which psychiatrists are good to refer people to.
 > 
->  **Patient:** I suggest the one I’m already seeing, who was doing a great job until the government demanded I get your signature to keep seeing them.
+> **Patient:** I suggest the one I’m already seeing, who was doing a great job until the government demanded I get your signature to keep seeing them.
 > 
->  **Doctor:** Okay, fine, that will be $200 please.
+> **Doctor:** Okay, fine, that will be $200 please.
 
 And that’s the best case scenario! The worst-case is that you get one of those doctors who think that Psych Drugs Aren’t Real Because You Just Need Jesus, and then the patient has to keep looking until they find someone else. 
 

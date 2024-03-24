@@ -3,9 +3,12 @@ title: "On Cerebralab On Nutt/Carhart-Harris On Serotonin"
 subtitle: "..."
 date: 2021-06-15
 likes: 61
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/37603831/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/41b1a567-2911-4003-809b-8f97aec2fcfa_900x681.jpeg
 original-url: https://www.astralcodexten.com/p/on-cerebralab-on-nuttcarhart-harris
 ---
-[ _epistemic status: extremely speculative_ ]
+[_epistemic status: extremely speculative_]
 
 George at CerebraLab has a [new review](https://cerebralab.com/Stress_and_Serotonin) of [Nutt and Carhart-Harris's paper on serotonin receptors](https://journals.sagepub.com/doi/pdf/10.1177/0269881117725915) (I previously reviewed it [here](https://slatestarcodex.com/2017/10/10/ssc-journal-club-serotonin-receptors/)). Two points stood out that I had previously missed:
 

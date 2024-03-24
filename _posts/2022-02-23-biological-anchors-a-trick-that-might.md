@@ -3,6 +3,9 @@ title: "Biological Anchors: A Trick That Might Or Might Not Work"
 subtitle: "..."
 date: 2022-02-23
 likes: 120
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/47594966/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2b41e01-7c92-466e-91bc-8c6fa356a5ef_982x645.png
 original-url: https://www.astralcodexten.com/p/biological-anchors-a-trick-that-might
 ---
 ## Introduction
@@ -43,7 +46,7 @@ Step one - figuring out how much computation the human brain does - is a dauntin
 
 So a human-level AI would also need to do 10^15 floating point operations per second? Unclear. Computers can run on more or less efficient algorithms; neural nets might use their computation more or less effectively than the brain. You might think it would be more efficient, since human designers can do better than the blind chance of evolution. Or you might think it would be less efficient, since many biological processes are still far beyond human technology. Or you might do what OpenPhil did and just look at a bunch of examples of evolved vs. designed systems and see which are generally better:
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F076623f5-43fb-4195-b55b-7db9d1583048_514x310.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F076623f5-43fb-4195-b55b-7db9d1583048_514x310.png) _Source:[This document](https://docs.google.com/document/d/1HUtUBpRbNnnWBxiO2bz3LumEsQcaZioAPZDNcsWPnos/edit) by Paul Christiano._
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F076623f5-43fb-4195-b55b-7db9d1583048_514x310.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F076623f5-43fb-4195-b55b-7db9d1583048_514x310.png)_Source:[This document](https://docs.google.com/document/d/1HUtUBpRbNnnWBxiO2bz3LumEsQcaZioAPZDNcsWPnos/edit) by Paul Christiano._
 
 Ajeya combines this with another metric where they see how existing AI compares to animals with apparently similar computational capacity; for example, she says that DeepMind’s Starcraft engine has about as much inferential compute as a honeybee and seems about equally subjectively impressive. I have no idea what this means. Impressive at what? Winning multiplayer online games? Stinging people? In any case, they decide to penalize AI by one order of magnitude compared to Nature, so a human-level AI would need to do 10^16 floating point operations per second.
 
@@ -53,7 +56,7 @@ So an AI could potentially equal the human brain with 10^16 FLOP/S.
 
 Good news! There’s[ a supercomputer in Japan](https://en.wikipedia.org/wiki/Fugaku_\(supercomputer\)) that can do 10^17 FLOP/S!
 
-[![Japan&#39;s Fugaku Supercomputer Completes First-Ever Sweep of High-Performance  Benchmarks - IEEE Spectrum](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5924b1f-a563-4332-b137-ff9dda5580d0_1240x516.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5924b1f-a563-4332-b137-ff9dda5580d0_1240x516.jpeg) _It looks like this ([source](https://spectrum.ieee.org/japans-fugaku-supercomputer-is-first-in-the-world-to-simultaneously-top-all-high-performance-benchmarks))_
+[![Japan&#39;s Fugaku Supercomputer Completes First-Ever Sweep of High-Performance  Benchmarks - IEEE Spectrum](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5924b1f-a563-4332-b137-ff9dda5580d0_1240x516.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5924b1f-a563-4332-b137-ff9dda5580d0_1240x516.jpeg)_It looks like this ([source](https://spectrum.ieee.org/japans-fugaku-supercomputer-is-first-in-the-world-to-simultaneously-top-all-high-performance-benchmarks))_
 
 So why don’t we have AI yet? Why don’t we have _ten_ AIs?
 
@@ -73,7 +76,7 @@ This is piling a lot of assumptions atop each other, so Ajeya tries three other 
 
 Humans seem to be human-level AIs. How much training do _we_ need? You can analogize our childhood to an AI’s training period. We receive a stream of sense-data. We start out flailing kind of randomly. Some of what we do gets rewarded. Some of what we do gets punished. Eventually our behavior becomes more sophisticated. We subject our new behavior to reward or punishment, fine-tune it further.
 
- _Rent_ asks us: how do you measure the life of a woman or man? It answers: __ “in daylights, in sunsets, in midnights, in cups of coffee; in inches, in miles, in laughter, in strife.” But you can also measure in floating point operations, in which case the answer is about 10^24. This is actually trivial: multiply the 10^15 FLOP/S of the human brain by the ~10^9 seconds of childhood and adolescence. This new estimate of 10^24 is much lower than our neural net estimate of 10^30 - 10^36 above. In fact, it’s only a hair above the amount it took to train GPT-3! If human-level AI was this easy, we should have hit it by accident sometime in the process of making a GPT-4 prototype. Since OpenAI hasn’t mentioned this, probably it’s harder than this and we’re missing something.
+_Rent_ asks us: how do you measure the life of a woman or man? It answers:__ “in daylights, in sunsets, in midnights, in cups of coffee; in inches, in miles, in laughter, in strife.” But you can also measure in floating point operations, in which case the answer is about 10^24. This is actually trivial: multiply the 10^15 FLOP/S of the human brain by the ~10^9 seconds of childhood and adolescence. This new estimate of 10^24 is much lower than our neural net estimate of 10^30 - 10^36 above. In fact, it’s only a hair above the amount it took to train GPT-3! If human-level AI was this easy, we should have hit it by accident sometime in the process of making a GPT-4 prototype. Since OpenAI hasn’t mentioned this, probably it’s harder than this and we’re missing something.
 
 Probably we’re missing that humans aren’t blank slates. We don’t start at zero and then only use our childhood to train us further. The very structure of our brain encodes certain assumptions about what kinds of data we should be looking out for and how we should use it. Our training data isn’t just what we observed during childhood, it’s everything that any of our ancestors observed during evolution. How many floating-point operations is the evolutionary process?
 
@@ -83,7 +86,7 @@ One more weird human training data estimate attempt: what about the genome? If i
 
 Okay, I’ve got to admit, this doesn’t have quite the same “huh?!” factor as trying to calculate the number of FLOs in evolution, but it is in a lot of ways even crazier. The[ Japanese canopy plant](https://en.wikipedia.org/wiki/Paris_japonica) has a genome fifty times larger than ours, which suggests that genome size doesn’t correspond very well to organism awesomeness. Also, most of the genome is coding for weird proteins that stabilize the shape of your kidney tubule or something, why should this matter for intelligence?
 
-[![Paris japonica Kinugasasou in Hakusan 2003 7 27.jpg](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F333dcbf2-1f63-42a1-821f-94f39818e62d_1280x897.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F333dcbf2-1f63-42a1-821f-94f39818e62d_1280x897.jpeg) _The Japanese canopy plant. I think it is very pretty, but probably low prettiness per megabyte of DNA_.
+[![Paris japonica Kinugasasou in Hakusan 2003 7 27.jpg](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F333dcbf2-1f63-42a1-821f-94f39818e62d_1280x897.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F333dcbf2-1f63-42a1-821f-94f39818e62d_1280x897.jpeg)_The Japanese canopy plant. I think it is very pretty, but probably low prettiness per megabyte of DNA_.
 
 I think Ajeya would answer that she’s debating orders of magnitude here, and each of these weird things costs only a few OOMs and probably they all even out. That still leaves the question of why she thinks this approach is interesting at all, to which she answers that:
 
@@ -123,7 +126,7 @@ What is the cost that somebody (company? government? billionaire?) is willing to
 
 The most expensive AI training in history was AlphaStar, a DeepMind project that spent over $1 million to train an AI to play StarCraft _(_ in their defense, it won). But people have been pouring more and more money into AI lately:
 
-[![The cost of training machines is becoming a problem | The Economist](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9496f1f-ec6c-41a2-8c2e-27f09da22097_1280x759.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9496f1f-ec6c-41a2-8c2e-27f09da22097_1280x759.png) _Source[ here](https://www.economist.com/technology-quarterly/2020/06/11/the-cost-of-training-machines-is-becoming-a-problem). This is about compute rather than cost, but most of the increase seen here has been companies willing to pay for more compute over time, rather than algorithmic or hardware progress._
+[![The cost of training machines is becoming a problem | The Economist](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9496f1f-ec6c-41a2-8c2e-27f09da22097_1280x759.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9496f1f-ec6c-41a2-8c2e-27f09da22097_1280x759.png)_Source[ here](https://www.economist.com/technology-quarterly/2020/06/11/the-cost-of-training-machines-is-becoming-a-problem). This is about compute rather than cost, but most of the increase seen here has been companies willing to pay for more compute over time, rather than algorithmic or hardware progress._
 
 The StarCraft AI was kind of a vanity project, or science for science’s sake, or whatever you want to call it. But AI is starting to become profitable, and human-level AI would be _very_ profitable. Who knows how much companies will be willing to pay in the future?
 
@@ -174,7 +177,7 @@ Back up a second. Here’s something that makes me kind of nervous.
 
 Most of Ajeya’s numbers are kind of made up, with several order-of-magnitude error bars and simplifying assumptions like “all animals are nematodes”. For a single parameter, we get estimates spanning seventeen different orders of magnitude: the upper bound is one hundred quadrillion times the lower bound.
 
- _And yet_ four of the six models, including two genuinely exotic ones, manage to get dates within twenty years of 2050.
+_And yet_ four of the six models, including two genuinely exotic ones, manage to get dates within twenty years of 2050.
 
 And 2050 is also the date everyone else focuses on. Here’s the prediction-market-like site[ Metaculus](https://www.metaculus.com/questions/5121/when-will-the-first-artificial-general-intelligence-system-be-devised-tested-and-publicly-known-of-stronger-operationalization/):
 
@@ -198,13 +201,13 @@ Imagine a scientist in Victorian Britain, speculating on when humankind might in
 
 Ships have certainly grown in size tremendously, from primitive kayaks to Roman triremes to Spanish galleons to the great ocean liners of the (Victorian) present.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fceba6aa0-dbde-41ca-805e-01af4fac9324_769x336.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fceba6aa0-dbde-41ca-805e-01af4fac9324_769x336.png) _The AI forecasting organization AI Impacts actually has[ a whole report on historical ship size trends](https://aiimpacts.org/historic-trends-in-ship-size/) to prove an unrelated point about technological progress, so I didn’t even have to make this graph up._
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fceba6aa0-dbde-41ca-805e-01af4fac9324_769x336.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fceba6aa0-dbde-41ca-805e-01af4fac9324_769x336.png)_The AI forecasting organization AI Impacts actually has[ a whole report on historical ship size trends](https://aiimpacts.org/historic-trends-in-ship-size/) to prove an unrelated point about technological progress, so I didn’t even have to make this graph up._
 
 Suppose our Victorian scientist lived in 1858, right when the Great Eastern was launched. The trend line for ship size crossed 100m around 1843, and 200m in 1858, so doubling time is 15 years - but perhaps they notice this is going to be an outlier, so let’s round up a bit and say 18 years. The (one order of magnitude off estimate for the size of the) Moon is 350,000m, so you’d need ships to scale up by 350,000/200 = 1,750x before they’re as big as the Moon. That’s about 10.8 doublings, and a doubling time is 18 years, so we’ll get spaceships in . . . 2052 exactly.
 
 (fudging numbers to land where you want is actually fun and easy)
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde3d97f4-afca-45c4-9ed2-521cd25041df_460x262.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde3d97f4-afca-45c4-9ed2-521cd25041df_460x262.jpeg) _SS Great Eastern, the extreme outlier large steamship from 1858. This has become sort of a mascot for quantitative technological progress forecasters._
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde3d97f4-afca-45c4-9ed2-521cd25041df_460x262.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde3d97f4-afca-45c4-9ed2-521cd25041df_460x262.jpeg)_SS Great Eastern, the extreme outlier large steamship from 1858. This has become sort of a mascot for quantitative technological progress forecasters._
 
 What is this scientist’s error? The big one is thinking that spaceship progress depends on some easily-measured quantity (size) instead of on fundamental advances (eg figuring out how rockets work). You can make the same accusation against Ajeya et al: you can have all the FLOPs in the world, but if you don’t understand how to make a machine think, your AI will be, well, a flop.
 
@@ -224,11 +227,11 @@ Ajeya's answer could be: Moravec didn't realize that, in the modern ML paradigm,
 
 Eliezer agrees as far as it goes, but says this points to a much deeper failure mode, which was that Moravec had no idea what he was doing. He was assuming processing power of human brain = processing power of computer necessary for AGI. Why?
 
->  _The human brain consumes around 20 watts of power. Can we thereby conclude that an AGI should consume around 20 watts of power, and that, when technology advances to the point of being able to supply around 20 watts of power to computers, we'll get AGI? […]_
+> _The human brain consumes around 20 watts of power. Can we thereby conclude that an AGI should consume around 20 watts of power, and that, when technology advances to the point of being able to supply around 20 watts of power to computers, we'll get AGI? […]_
 > 
->  _You say that AIs consume energy in a very different way from brains? Well, they'll also consume computations in a very different way from brains! The only difference between these two cases is that you know something about how humans eat food and break it down in their stomachs and convert it into ATP that gets consumed by neurons to pump ions back out of dendrites and axons, while computer chips consume electricity whose flow gets interrupted by transistors to transmit information. Since you know anything whatsoever about how AGIs and humans consume energy, you can see that the consumption is so vastly different as to obviate all comparisons entirely._
+> _You say that AIs consume energy in a very different way from brains? Well, they'll also consume computations in a very different way from brains! The only difference between these two cases is that you know something about how humans eat food and break it down in their stomachs and convert it into ATP that gets consumed by neurons to pump ions back out of dendrites and axons, while computer chips consume electricity whose flow gets interrupted by transistors to transmit information. Since you know anything whatsoever about how AGIs and humans consume energy, you can see that the consumption is so vastly different as to obviate all comparisons entirely._
 > 
->  _You are ignorant of how the brain consumes computation, you are ignorant of how the first AGIs built would consume computation, but "an unknown key does not open an unknown lock" and these two ignorant distributions should not assert much internal correlation between them._
+> _You are ignorant of how the brain consumes computation, you are ignorant of how the first AGIs built would consume computation, but "an unknown key does not open an unknown lock" and these two ignorant distributions should not assert much internal correlation between them._
 
 Cars don’t move by contracting their leg muscles and planes don’t fly by flapping their wings like birds. Telescopes _do_ form images the same way as the lenses in our eyes, but differ by so many orders of magnitude in every important way that they defy comparison. Why should AI be different? You have to use some specific algorithm when you’re creating AI; why should we expect it to be anywhere near the same efficiency as the ones Nature uses in our brains?
 
@@ -238,15 +241,15 @@ The same is true for arguments from evolution, eg Ajeya’s Evolutionary Anchor,
 
 This post is a dialogue, so (Eliezer’s hypothetical model of) OpenPhil gets a chance to respond. They object: this is why we put a term for algorithmic progress in our model. The model isn’t very sensitive to changes in that term. If you want you can set it to some kind of crazy high value and see what happens, but you can’t say we didn’t consider it.
 
->  **OpenPhil:** We did already consider that and try to take it into account: our model already includes a parameter for how algorithmic progress reduces hardware requirements. It's not easy to graph as exactly as Moore's Law, as you say, but our best-guess estimate is that compute costs halve every 2-3 years […]
+> **OpenPhil:** We did already consider that and try to take it into account: our model already includes a parameter for how algorithmic progress reduces hardware requirements. It's not easy to graph as exactly as Moore's Law, as you say, but our best-guess estimate is that compute costs halve every 2-3 years […]
 > 
->  **Eliezer:** The makers of AGI aren't going to be doing 10,000,000,000,000 rounds of gradient descent, on entire brain-sized 300,000,000,000,000-parameter models, _algorithmically faster than today._ They're going to get to AGI via some route that _you don't know how to take,_ at least if it happens in 2040. If it happens in 2025, it may be via a route that some modern researchers do know how to take, but in this case, of course, your model was also wrong.
+> **Eliezer:** The makers of AGI aren't going to be doing 10,000,000,000,000 rounds of gradient descent, on entire brain-sized 300,000,000,000,000-parameter models, _algorithmically faster than today._ They're going to get to AGI via some route that _you don't know how to take,_ at least if it happens in 2040. If it happens in 2025, it may be via a route that some modern researchers do know how to take, but in this case, of course, your model was also wrong.
 > 
 > They're not going to be taking your default-imagined approach _algorithmically faster,_ they're going to be taking an _algorithmically different approach_ that eats computing power in a different way than you imagine it being consumed.
 > 
->  **OpenPhil:** Shouldn't that just be folded into our estimate of how the computation required to accomplish a fixed task decreases by half every 2-3 years due to better algorithms?
+> **OpenPhil:** Shouldn't that just be folded into our estimate of how the computation required to accomplish a fixed task decreases by half every 2-3 years due to better algorithms?
 > 
->  **Eliezer:** Backtesting this viewpoint on the previous history of computer science, it seems to me to assert that it should be possible to:
+> **Eliezer:** Backtesting this viewpoint on the previous history of computer science, it seems to me to assert that it should be possible to:
 > 
 >   * Train a pre-Transformer RNN/CNN-based model, not using any other techniques invented after 2017, to GPT-2 levels of performance, using only around 2x as much compute as GPT-2;
 > 
@@ -259,11 +262,11 @@ This post is a dialogue, so (Eliezer’s hypothetical model of) OpenPhil gets a 
 > 
 > Your model apparently suggests that we have gotten around 50 times more efficient at turning computation into intelligence since that time; so, we should be able to replicate any modern feat of deep learning performed in 2021, using techniques from before deep learning and around fifty times as much computing power.
 > 
->  **OpenPhil:** No, that's totally not what our viewpoint says when you backfit it to past reality. Our model does a great job of retrodicting past reality.
+> **OpenPhil:** No, that's totally not what our viewpoint says when you backfit it to past reality. Our model does a great job of retrodicting past reality.
 > 
->  **Eliezer:** How so?
+> **Eliezer:** How so?
 > 
->  **OpenPhil:** <Eliezer cannot predict what they will say here.>
+> **OpenPhil:** <Eliezer cannot predict what they will say here.>
 
 I think the argument here is that OpenPhil is accounting for[ normal scientific progress in algorithms, but not for paradigm shifts](https://slatestarcodex.com/2019/01/08/book-review-the-structure-of-scientific-revolutions/).
 
@@ -293,13 +296,13 @@ I’d previously mentioned it as a plus that Ajeya got around the same year ever
 
 Hypothetical OpenPhil is BTFO:
 
->  **OpenPhil:** That part about Charles Platt's generalization is interesting, but just because we unwittingly chose literally exactly the median that Platt predicted people would always choose in consistent error, that doesn't justify dismissing our work, right? We could have used a completely valid method of estimation which would have pointed to 2050 no matter which year it was tried in, and, by sheer coincidence, have first written that up in 2020. In fact, we try to show in the report that the same methodology, evaluated in earlier years, would also have pointed to around 2050 -
+> **OpenPhil:** That part about Charles Platt's generalization is interesting, but just because we unwittingly chose literally exactly the median that Platt predicted people would always choose in consistent error, that doesn't justify dismissing our work, right? We could have used a completely valid method of estimation which would have pointed to 2050 no matter which year it was tried in, and, by sheer coincidence, have first written that up in 2020. In fact, we try to show in the report that the same methodology, evaluated in earlier years, would also have pointed to around 2050 -
 > 
->  **Eliezer:** Look, people keep trying this. It's never worked. It's never going to work. 2 years before the end of the world, there'll be another published biologically inspired estimate showing that AGI is 30 years away and it will be exactly as informative then as it is now. I'd love to know the timelines too, but you're not _going_ to get the answer you want until right before the end of the world, and maybe not even then unless you're paying very close attention. _Timing this stuff is just plain hard._
+> **Eliezer:** Look, people keep trying this. It's never worked. It's never going to work. 2 years before the end of the world, there'll be another published biologically inspired estimate showing that AGI is 30 years away and it will be exactly as informative then as it is now. I'd love to know the timelines too, but you're not _going_ to get the answer you want until right before the end of the world, and maybe not even then unless you're paying very close attention. _Timing this stuff is just plain hard._
 
 ## Part III: Responses And Commentary
 
- **Response 1: Less Wrong Comments**
+**Response 1: Less Wrong Comments**
 
 Less Wrong is a site founded by Eliezer Yudkowsky for Eliezer Yudkowsky fans who wanted to discuss Eliezer Yudkowsky’s ideas. So, for whatever it’s worth - [the comments](https://www.lesswrong.com/s/n945eovrA3oDueqtq/p/ax695frGJEzGxFBK4#comments) on his essay were pretty negative.
 
@@ -340,7 +343,7 @@ Carl Shulman, an independent researcher with links to both OpenPhil and MIRI (El
 
 I also found[ Vanessa’s summary](https://www.lesswrong.com/users/vanessa-kosoy) of this reply helpful:
 
-> Hmm... Interesting. So, this model says that algorithmic innovation is so fast that it is not much of a bottleneck: we always manage to find the best algorithm for given compute relatively quickly after this compute becomes available. Moreover, there is some smooth relation between compute and performance assuming the best algorithm for this level of compute. [ **EDIT** : The latter part seems really suspicious though, why would this relation persist across very different algorithms?] Or at least this is true is "best algorithm" is interpreted to mean "best algorithm out of some wide class of algorithms s.t. we never or almost never managed to discover any algorithm outside of this class".
+> Hmm... Interesting. So, this model says that algorithmic innovation is so fast that it is not much of a bottleneck: we always manage to find the best algorithm for given compute relatively quickly after this compute becomes available. Moreover, there is some smooth relation between compute and performance assuming the best algorithm for this level of compute. [**EDIT** : The latter part seems really suspicious though, why would this relation persist across very different algorithms?] Or at least this is true is "best algorithm" is interpreted to mean "best algorithm out of some wide class of algorithms s.t. we never or almost never managed to discover any algorithm outside of this class".
 > 
 > This can justify biological anchors as upper bounds[[1]](https://www.lesswrong.com/posts/ax695frGJEzGxFBK4/biology-inspired-agi-timelines-the-trick-that-never-works#fn-cCeH9Wga7mav4koHv-1): if biology is operating using the best algorithm then we will match its performance when we reach the same level of compute, whereas if biology is operating using a suboptimal algorithm then we will match its performance earlier.
 
@@ -374,7 +377,7 @@ Just eyeballing it, Platt’s Law looks pretty good. But Holden Karnofsky (see b
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1c354075-ecaa-4807-a1a5-07931736f093_403x268.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1c354075-ecaa-4807-a1a5-07931736f093_403x268.png)
 
- _Platt’s Law in blue, regression line in orange._
+_Platt’s Law in blue, regression line in orange._
 
 He[ writes](https://www.lesswrong.com/posts/nNqXfnjiezYukiMJi/reply-to-eliezer-on-biological-anchors?commentId=zJ8EGJ3cHdeyjQZvc):
 
@@ -392,7 +395,7 @@ The hypothetical OpenPhil in Eliezer’s mind having been utterly vanquished, th
 
 There’s a lot of back and forth about whether the report includes enough caveats (answer: it sure does include a lot of caveats!) but I was most interested in the attacks on Eliezer’s two main points.
 
- _First_ , the point that biological anchors are fatally flawed from the start and measuring FLOP/S is no better than measuring power consumption in watts. Holden:
+_First_ , the point that biological anchors are fatally flawed from the start and measuring FLOP/S is no better than measuring power consumption in watts. Holden:
 
 > If the world were such that:
 > 
@@ -413,7 +416,7 @@ There’s a lot of back and forth about whether the report includes enough cavea
 > 
 > ...Then I would be interested in a Bio Anchors-style analysis of projected power usage. As noted above, I would be interested in this as a tool for analysis rather than as "the way to get my probability distribution." That's also how I'm interested in Bio Anchors (and how it presents itself).
 
- _Second_ , the argument that paradigm shifts might speed up AI:
+_Second_ , the argument that paradigm shifts might speed up AI:
 
 > I think it's a distinct possibility that we're going to see dramatically new approaches to AI development by the time transformative AI is developed.
 > 

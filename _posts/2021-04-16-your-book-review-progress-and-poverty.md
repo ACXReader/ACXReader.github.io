@@ -3,9 +3,12 @@ title: "Your Book Review: Progress And Poverty"
 subtitle: "Finalist #3 of the book review contest"
 date: 2021-04-16
 likes: 157
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/35215568/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/616a5110-fc76-44c8-86b8-70517a591786_739x457.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-progress-and-poverty
 ---
-[ _This is the third of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_ ] 
+[_This is the third of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_] 
 
 * * *
 
@@ -124,7 +127,7 @@ Giving the mic back to George, he closes the chapter with this haunting quote, f
 
 I'll just leave this here:
 
- _[Number of Homeless Children in U.S. At All-Time High; California Among Worst States](https://web.archive.org/web/20160324104539/https://sanfrancisco.cbslocal.com/2014/11/17/number-of-homeless-children-in-u-s-at-all-time-high-california-among-worst-states/)._
+_[Number of Homeless Children in U.S. At All-Time High; California Among Worst States](https://web.archive.org/web/20160324104539/https://sanfrancisco.cbslocal.com/2014/11/17/number-of-homeless-children-in-u-s-at-all-time-high-california-among-worst-states/)._
 
 # I. Wages and Capital
 
@@ -160,15 +163,15 @@ George goes the other way:
 
 In other words, "a thing's value is whatever someone is willing to pay for it." This is in line with the so-called [marginal revolution](https://en.wikipedia.org/wiki/Marginal_utility#Marginal_Revolution) (the movement, not the [blog](https://marginalrevolution.com/)) and modern theories of value.
 
- **Labor**
+**Labor**
 
 Labor is the exertion of human beings. It's possible to labor to no avail (try punching a concrete wall), but typically humans labor towards an end, such as gaining wealth. But whether or not we accomplish anything with our efforts, George calls them labor. Labor isn't just making things, by the way – it's also moving or exchanging them.
 
- **Production**
+**Production**
 
 Production is labor applied "to the production _of wealth."_ You know, _productively_. This is all human exertion that isn't punching a concrete wall and rewards you for your efforts with something that fits the definition of wealth. Said wealth is the "product of labor."
 
- **Wages**
+**Wages**
 
 > whatever is received as the result or reward of exertion is "wages."
 
@@ -212,7 +215,7 @@ What about intellectual property? Copyrights, patents, and trademarks are all di
 
 But there is something big that _is_ wealth – the C-word.
 
- **Capital.**
+**Capital.**
 
 By George, Capital is "wealth devoted to procuring more wealth", and it's the next thing he insists everyone is hopelessly confused about.
 
@@ -242,7 +245,7 @@ Human exertion (labor) by itself can never be capital. The _products_ of human l
 
 And that brings us to land.
 
- **Land, land, land.**
+**Land, land, land.**
 
 By George, land is not wealth.
 
@@ -305,7 +308,7 @@ So it doesn't matter how much capital you throw at employing workers, it'll just
 
 George spends some time methodically poking holes in the theory (it's predictions don't line up with the facts he observes), and then sets out to prove his replacement theory (emphases mine):
 
->  **wages** , instead of being drawn from **capital** , are in reality drawn from the **product of the labor** for which they are paid.
+> **wages** , instead of being drawn from **capital** , are in reality drawn from the **product of the labor** for which they are paid.
 
 He pulls a G.K. Chesterton to make his point:
 
@@ -327,7 +330,7 @@ George will have none of it and spends three entire chapters relentlessly beatin
 
 He starts with the simple case where wages are paid in the form of direct, concrete wealth, then moves on to the more complex case where people are paid in money and other instruments.
 
- **Laboring for wages:**
+**Laboring for wages:**
 
 Imagine a fishing village where nobody cooperates – each person digs their own bait and catches their own fish. Then they discover labor specialization and realize they can catch more fish together if one specializes in digging and the other in catching. So the digger digs, the catcher catches, and they share the fish. The digger really contributes as much to the catch as the one who physically pulls the fish off the hook even though the digger never directly "caught" a fish, and the fish he gets for his work is directly paid out of his contribution to the total production. Later, our fisherfolk invent canoes, and one stays home making and repairing canoes. This increases the haul of the digger and catcher, and the canoe-er gets paid out of her contribution to the increased production. And so it goes as society continues to advance. The work the specialist puts in causes more fish to be caught, and that person's wages is drawn from the growing pile of fish. As George puts it: "Earning is making."
 
@@ -476,9 +479,9 @@ George spends a few pages talking about how everyone from Adam Smith on down got
 
 Here's George's model for how it all works:
 
- **Land** is"all natural opportunities or forces" and its return is **rent**  
- **Labor** is "all human exertion" and its return is **wages**  
- **Capital** is"all wealth used to produce more wealth" and its return is **interest**
+**Land** is"all natural opportunities or forces" and its return is **rent**  
+**Labor** is "all human exertion" and its return is **wages**  
+**Capital** is"all wealth used to produce more wealth" and its return is **interest**
 
 George says the false assumption at the root of the old theories is in thinking of "capital as the prime factor in production, land as its instrument, and labor as its agent or tool."
 
@@ -511,7 +514,7 @@ When George uses the word "Rent", he specifically means the return to land, and 
 
 Land has zero cost of production because it's already there and you can't make it. This means that any payment or benefit you can realize by excluding others from using land (or its fruits) is necessarily "in excess of the costs needed to bring that factor into production."
 
- **By George, all land rent is Economic Rent.**
+**By George, all land rent is Economic Rent.**
 
 Furthermore, any piece of land has only one seller, and no producers. This further meets the definition of **[Monopoly](https://en.wikipedia.org/wiki/Monopoly)** – Greek for "one seller." This is why you hear Georgists talking about "Land Monopoly."
 
@@ -532,13 +535,13 @@ But once I buy Lot B, now if you want access to 100-util Land you have to pay me
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F10603100-3169-4734-9ab1-574c9408e1f1_600x400.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F10603100-3169-4734-9ab1-574c9408e1f1_600x400.png)
 
-So here's the Law of Rent – **rent is determined by the** " **margin of production"** (AKA the "margin of cultivation") – the difference between how much you can produce from a particular piece of land (Lot A or B) compared to the least productive alternative (Lot C).
+So here's the Law of Rent – **rent is determined by the** "**margin of production"** (AKA the "margin of cultivation") – the difference between how much you can produce from a particular piece of land (Lot A or B) compared to the least productive alternative (Lot C).
 
 Notice that I as the landlord am not really doing anything here other than owning the land, and yet I can extract a huge amount of value, because unlike capital, land is a hard limit on labor – you can't work without a place to work or without material that comes from nature. And so I take my share first without really contributing anything to production other than gatekeeping access to land.
 
 > Rent, in short, is the price of monopoly, arising from the reduction to individual ownership of natural elements which human exertion can neither produce nor increase.
 
- **C'mon, is land really such a big deal?**
+**C'mon, is land really such a big deal?**
 
 In the popular imagination we pit "capitalists" against "laborers" but a lot of those "capitalists" are landowners in disguise, because in non-Georgist frameworks land is typically considered a kind of capital. George says landowners oppress both labor _and_ capital, cheating both hard work and investment out of their fair share.
 
@@ -709,7 +712,7 @@ We had two questions at the beginning of this book: why are there industrial dep
 
 You guess it, it's all because of land and rent.
 
- **By George, industrial depressions are caused by land speculation**
+**By George, industrial depressions are caused by land speculation**
 
 Speculation has a tendency to press the margin of production down until it's just past its limit, forcing labor and capital to accept returns so small that it actually hinders production or ceases altogether.
 
@@ -723,7 +726,7 @@ This is how you get the baffling situation where able hands are eager and willin
 
 So that's it for industrial depressions. What about the other paradox of poverty advancing alongside progress?
 
- **By George, poverty advances alongside progress because of rent**
+**By George, poverty advances alongside progress because of rent**
 
 > The reason why, in spite of increase of productive power, wages constantly tend to a minimum which will give but a bare living, is that, with increase in productive power, rent tends to even greater increase, thus producing a constant tendency to the forcing down of wages.
 
@@ -1128,7 +1131,7 @@ Okay, they had to pay some rent, so what? Didn't they bring their suffering on t
 
 By George, because _The Rent Was Too Damn High!_
 
-> tenants... even if the rack-rents which they were forced to pay had permitted them, **did not dare to make improvements** which would have been **but the signal for an increase of rent.** Labor was thus applied in the most inefficient and wasteful manner.
+> tenants... even if the rack-rents which they were forced to pay had permitted them,**did not dare to make improvements** which would have been**but the signal for an increase of rent.** Labor was thus applied in the most inefficient and wasteful manner.
 
 (emphases mine)
 
@@ -1151,9 +1154,9 @@ George gets _really_ mad about this, and calls out John Stuart Mill and Henry Th
 ## Appendix B: George dunks on the Conventional Laws of Distribution  
 
 
- **Conventional Law 1: Wages** aredetermined by the ratio between capital devoted to the payment & subsistence of labor, divided up by the number of laborers.  
+**Conventional Law 1: Wages** aredetermined by the ratio between capital devoted to the payment & subsistence of labor, divided up by the number of laborers.  
   
- **Conventional Law 2: Rent** is determined by something called the "margin of production," AKA the "margin of cultivation."   
+**Conventional Law 2: Rent** is determined by something called the "margin of production," AKA the "margin of cultivation."   
   
 What's that?  
   
@@ -1167,7 +1170,7 @@ The margin of production/cultivation is the difference between how much you can 
 
 This is the only conventional law of distribution that George accepts as correct.
 
- **Conventional Law 3: Interest** is the ratio between capital demanded by borrowers and supplied by lenders, falling as wages rise and vice versa. To quote Mill, interest is determined "by the cost of labor to the capitalist."
+**Conventional Law 3: Interest** is the ratio between capital demanded by borrowers and supplied by lenders, falling as wages rise and vice versa. To quote Mill, interest is determined "by the cost of labor to the capitalist."
 
 The problem with these three laws is if Land, Labor, and Capital are the only three factors of production, and each gets its own return, than the three returns should balance. In other words:
 

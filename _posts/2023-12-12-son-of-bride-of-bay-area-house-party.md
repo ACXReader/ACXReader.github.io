@@ -3,6 +3,9 @@ title: "Son Of Bride Of Bay Area House Party"
 subtitle: "..."
 date: 2023-12-12
 likes: 439
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/139607723/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/8604f5d8-98e3-4fa6-a111-fdd5530c1c4d_1792x1024.webp
 original-url: https://www.astralcodexten.com/p/son-of-bride-of-bay-area-house-party
 ---
 _[previously in series:[1](https://astralcodexten.substack.com/p/every-bay-area-house-party), [2](https://astralcodexten.substack.com/p/another-bay-area-house-party), [3](https://astralcodexten.substack.com/p/even-more-bay-area-house-party), [4](/p/bride-of-bay-area-house-party)]_

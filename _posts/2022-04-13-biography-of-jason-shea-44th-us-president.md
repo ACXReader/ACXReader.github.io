@@ -3,6 +3,9 @@ title: "Biography of Jason Shea, 44th US President"
 subtitle: "..."
 date: 2022-04-13
 likes: 76
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/51754880/comments?&all_comments=true
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd46f0a1-919f-4e17-96dc-a379b389afa9_748x505.png
 original-url: https://www.astralcodexten.com/p/biography-of-jason-shea-44th-us-president
 ---
 **I.**
@@ -25,7 +28,7 @@ He started with some built-in advantages. After eight years of Republican rule, 
 
 Then he declared himself dictator-for-life and imprisoned half the inhabitants of Alaska.
 
- **II.**
+**II.**
 
 In _Le Ton beau de Marot_ , Douglas Hofstadter discusses philosophy of translation.
 
@@ -51,4 +54,4 @@ The other thing that didn’t work was the timing. Xi’s father was purged in 1
 
 I consider this mostly a failed project, which is why I’m showing it to subscribers only and not releasing it to the wider world.
 
- _PS: The picture on the top is what happens if you ask the[Artbreeder](https://www.artbreeder.com/browse) AI to make Xi Jinping’s face look like a white person. I think it’s pretty good!_
+_PS: The picture on the top is what happens if you ask the[Artbreeder](https://www.artbreeder.com/browse) AI to make Xi Jinping’s face look like a white person. I think it’s pretty good!_

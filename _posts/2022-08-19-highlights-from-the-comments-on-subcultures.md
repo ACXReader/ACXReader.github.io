@@ -3,13 +3,16 @@ title: "Highlights From The Comments On Subcultures"
 subtitle: "..."
 date: 2022-08-19
 likes: 63
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/68682708/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c75c2da-b210-4dc9-a2cc-14944879b608_584x350.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-subcultures
 ---
 _(see original post[here](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures))_
 
 * * *
 
- **1:**[Maximum Limelihood Estimator](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8287212) writes:
+**1:**[Maximum Limelihood Estimator](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8287212) writes:
 
 > I firmly believe that cycles don't exist and never have existed. This is my shitposting way of saying "I have never, once, in my years of experience modeling human behavioral time series, come across an honest-to-god cyclical pattern (excluding time of year/month/week/day effects)." And yet for some reason, every time I show a time series to anyone ever, people swear to god the data looks cyclical.
 
@@ -23,7 +26,7 @@ Except for cicada population! I think that’s genuinely cyclic! You can argue i
 
 __________________________
 
- **2:** People giving specific examples that either agree or disagree with the model:
+**2:** People giving specific examples that either agree or disagree with the model:
 
 [Guy Downs](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8287383) (who I think should come up with an excuse to debate [Guy Standing](https://en.wikipedia.org/wiki/Guy_Standing_\(economist\))), writes:
 
@@ -55,7 +58,7 @@ __________________________
 
 _______________________
 
- **3:**[Erusian](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8287676) writes:
+**3:**[Erusian](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8287676) writes:
 
 > I think you missed a key dynamic. As the opportunities to break new grounddry up and it becomes harder to advance and there's more money/momentum the feedback loops break down. People start to be rewarded for conforming to the expectations of the current movement consensus. That's when you get Loyalists. Loyalists are the opposite of Heresiarchs and their followers. They not only dogmatically follow a pro-movement ethos but they actively purge and purity-spiral people who are not sufficiently devoted or who smell too much like Heresiarchs.
 > 
@@ -67,7 +70,7 @@ _______________________
 > 
 > Some of the heretics want to burn everything down but most of them are reformers who just want to make their own ideas dominant. But Loyalists force them out of the movement and the movement itself into increasingly rigid forms of thinking. In the process of making the movement pure it destroys its immune system. And then the question becomes: did the movement amass enough money and power in its earlier stages to maintain itself as a mature organization, driven more by momentum than by innovation? Or does this ossified shell die?
 
- **4:**[Laura Creighton ](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8287699)writes:
+**4:**[Laura Creighton ](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8287699)writes:
 
 > Something not mentioned is that when the people who are doing this cool new thing because this is a cool thing that I want to do for its own sake (and, incidentally, I might get some status from it, even though I don't care about such things very much, because I don't see any way to stop this) begin to be approached in numbers in the group by the people who are doing this cool new thing because they can get status from it, and are precisely drawn to it because it will generate status for them, and status is what they care about more than anything or most anything in the world) -- Gresham's law kicks in.
 > 
@@ -81,7 +84,7 @@ I guess I should have been more respectful to [David Chapman’s model](https://
 
 _____________________
 
- **5:**[Anon](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8294319) writes:
+**5:**[Anon](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8294319) writes:
 
 > This post is very rediscovering-monarchy-from-first-principles, so I approve.
 > 
@@ -91,7 +94,7 @@ I had used the example of Planned Parenthood, which has a board of directors and
 
 ___________________
 
- **6:**[AvalancheGenesis](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8288777) writes:
+**6:**[AvalancheGenesis](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8288777) writes:
 
 > Considering how often I feel the need to say some version of “I’m not, like, one of __those__ members of the Rationalist movement, I just sort of think some of their ideas make sense sometimes.”, I'd suppose we're firmly in at least Stage 3 now.
 
@@ -114,7 +117,7 @@ By the way, in the past week, effective altruism has gotten long, glowing profil
 
 ___________________
 
- **7:**[MT ](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8293757)writes: ****
+**7:**[MT ](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8293757)writes:****
 
 > A lot of this sounds like truism, or selection bias. Thing isn't popular or exciting to most, then it catches on and grows, then it stops growing, fragments into new directions and isn't novel but becomes part of the mainstream. This HAS TO describe literally anything in the past that was ever popular/exciting, because it wasn't always that way (started small) and can't grow indefinitely without becoming either an institution (stable leadership/direction), fragmented (new leadership/direction), or just falling apart.
 
@@ -139,7 +142,7 @@ Does anyone else know groups in this phase now?
 
 _____________________________________
 
- **8:** Nate [writes](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8375554):
+**8:** Nate [writes](https://astralcodexten.substack.com/p/a-cyclic-theory-of-subcultures/comment/8375554):
 
 > What was the original movement for which the emergence and fragmentation of the intellectual dark web was the involution?
 
@@ -153,7 +156,7 @@ There’s also another thing I didn’t get to in the original post about someth
 
 ____________________________
 
- **9:**[FarTheThrow ](https://www.reddit.com/r/slatestarcodex/comments/wko0i8/a_cyclic_theory_of_subcultures/ijpgq6f/)writes:
+**9:**[FarTheThrow ](https://www.reddit.com/r/slatestarcodex/comments/wko0i8/a_cyclic_theory_of_subcultures/ijpgq6f/)writes:
 
 > I'm always so confused when I read analysis like this that is built almost entirely around status. Maybe I'm just too much of a hermit to understand, but it all just seems like a very weird/alien way of viewing things that is pretty divorced from what I experience in my life. I'm trying to create a mental model of how this is supposed to work and the best I can come up with is something like "hey this cool movement I joined seemed great but I expected to have gained... 30 status... points and I've only gained 23! I better go start a fight with someone so I can take their status points!" Like, I'm confused how I'm supposed to map that to something I've ever experienced, let alone have it be the primary dominating factor in all these various social dynamics.
 > 

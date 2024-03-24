@@ -2,7 +2,10 @@
 title: "In The Long Run, We're All Dad"
 subtitle: "..."
 date: 2023-12-22
-likes: 1,032
+likes: 1,034
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/138980068/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/2044dfb1-656e-48d9-82ee-5d1464297433_929x629.png
 original-url: https://www.astralcodexten.com/p/in-the-long-run-were-all-dad
 ---
 **I.**
@@ -31,7 +34,7 @@ There’s an old Jewish joke. How do you make God laugh? Tell Him your plans. 1/
 
 This time God chose to frustrate my calculations even faster and more decisively than usual: He blessed me with twins.
 
- **II.**
+**II.**
 
 Natural selection didn’t design the female body to carry two children. It barely, grudgingly, designed it to carry one. Two is a cruel joke.
 
@@ -69,7 +72,7 @@ No, seriously, I’m not comfortable telling the Internet my kids’ names. I’
 
 But I need some way to refer to them online, so their nicknames are Kai and Lyra.
 
- **III.**
+**III.**
 
 On December 13, 2023, two surprisal-minimization engines registered an unpredecented spike in surprisal. They were thrust from a sunless sea into a blooming buzzing confusion, flooded with inexplicable data through input channels they didn’t even know they had. The engines heroically tested hyperprior after hyperprior to compress the data into something predictable. Certain patterns quickly emerged. Probability distributions resolved into solid objects. The highest-resolution input channel snapped into place as a two-dimensional surface being projected onto by a three dimensional space. But - a blur of calculations - the three-dimensional nature of space implies that it must be intractably large! And if there are n solid objects in the world, that implies the number of object-object interactions increases as n(n-1)/2, which would quickly become impossible to track. Their hearts sinking, the engines started to worry it might take _hours_ before they were fully able to predict every aspect of this new environment. A panic reflex they didn’t know they had kicked in, and they began to cry.
 
@@ -95,7 +98,7 @@ I was thinking about this recently, because - well, I feel kind of bad. I instan
 
 But if I have any excuse at all, it’s excessive enthusiasm for this grand project of world-scale surprise minimization and active inference. You are here to benefit from it, to enjoy sensual and intellectual pleasures that our ancestors could never know. And also, if you choose, to continue it, push it forward into a new era. You have already contributed in a tiny way - as guinea pigs - to the conquest of tooth decay. But there are so many other worse sources of prediction error out there. What else might you conquer, my two little surprisal-minimization engines?
 
- **IV.**
+**IV.**
 
 There is a secret known only to parents of twins, medical residents, and [Alexey Guzey](https://guzey.com/theses-on-sleep/): the human body does not actually need sleep. After 31 hours awake, you get [an integer overflow](/p/sleep-is-the-mate-of-death) in God’s database and go back to being well-rested again. Also you gain the ability to see angels.
 

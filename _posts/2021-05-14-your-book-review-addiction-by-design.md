@@ -3,15 +3,18 @@ title: "Your Book Review: Addiction By Design"
 subtitle: "Finalist #10 of the Book Review Contest"
 date: 2021-05-14
 likes: 109
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/36429925/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7058e250-74f3-40ef-9c12-f91245bcb5d7_2263x1500.jpeg
 original-url: https://www.astralcodexten.com/p/your-book-review-addiction-by-design
 ---
-[ _This is the tenth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out[point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_] 
+[_This is the tenth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out[point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_] 
 
 I was scrolling through TikTok videos a few weeks ago when I came across [a TikTok-sponsored video](https://www.tiktok.com/@tiktoktips/video/6781608784990178566) telling me to stop scrolling and go outside. I was confused. Here I was, perfectly willing (nay, wanting) to spend hours watching dance routines and drawing tutorials I had no intention of copying, but TikTok wanted me to _stop_? Why? Shouldn’t they have been taking advantage of me to maximize “eyeballs,” “time per session,” and “user engagement”?
 
 One explanation is that TikTok is a good corporate citizen that helps its users maintain responsible screen time habits. Another explanation comes from Natasha Dow Schüll’s excellent book _[Addiction by Design: Machine Gambling in Las Vegas](https://amzn.to/3brTqhq)_ (2012). Schüll talks about gambling machines, people who use them, and the addictions that develop between the two. I think the conclusions she draws are applicable not only to the gambling industry, but also to other peddlers of vice like TikTok.
 
- **The Machine**
+**The Machine**
 
 > Sometimes employees at Netflix think, ‘Oh my god, we’re competing with FX, HBO, or Amazon’ … [W]e actually compete with sleep. 
 > 
@@ -64,9 +67,9 @@ But even LDWs are child’s play compared to the pièce de résistance of realit
 
 Reel mapping enables weighting, which means certain reel symbols are more likely to show up than others. The standard reel has 22 symbols, and in an ideal world, each symbol would show up with a probability of 1/22. However, with weighting, certain reel symbols are given a much higher probability of appearing. Losing symbols show up much more often than winning symbols. Reel mapping also enables clustering, where losing symbols directly above or below a winning symbol are weighted more heavily than others. This allows winning symbols to show up above or below the main lines, thus creating a near miss.
 
-Reel mapping cuts any connection the game has to reality. A mechanical slot machine will produce a jackpot about once every 10,000 (22* _22*_ 22) spins. A digital slot machine can lengthen those odds to once every 20,000,000 spins, or more. If a digital slot machine paid out as often as its reel implies it should, without reel mapping magic, it would pay out [185%](http://stoppredatorygambling.org/wp-content/uploads/2012/12/Harrigan-presentation-to-the-2010-NH-Gambling-Commission.pdf) of the time.
+Reel mapping cuts any connection the game has to reality. A mechanical slot machine will produce a jackpot about once every 10,000 (22*_22*_ 22) spins. A digital slot machine can lengthen those odds to once every 20,000,000 spins, or more. If a digital slot machine paid out as often as its reel implies it should, without reel mapping magic, it would pay out [185%](http://stoppredatorygambling.org/wp-content/uploads/2012/12/Harrigan-presentation-to-the-2010-NH-Gambling-Commission.pdf) of the time.
 
- **The Player**
+**The Player**
 
 > Who has never killed an hour? Not casually or without thought, but carefully: a premeditated murder of minutes. The violence comes from a combination of giving up, not caring, and a resignation that getting past it is all you can hope to accomplish. So you kill the hour. You do not work, you do not read, you do not daydream. If you sleep it is not because you need to sleep. And when at last it is over, there is no evidence: no weapon, no blood, and no body. The only clue might be the shadows beneath your eyes or a terribly thin line near the corner of your mouth indicating something has been suffered, that in the privacy of your life you have lost something and the loss is too empty to share. Mark Z. Danielewski, House of Leaves 
 
@@ -88,7 +91,7 @@ The book is full of heartbreaking stories about what gamblers endure on their pa
 
 The book’s description of machine gambling addiction forced me to rethink two stereotypes I had about gambling addicts. First, I used to think gambling addicts were bad with money. After all, why else would they waste so much money on a destructive habit? However, the addicts described in the book are not profligate spenders. Many of them economize in order to save up money they can gamble with. They are not reckless spenders in all areas of their life, just this one. Second, I used to think that gambling addicts “lost control” when they gambled excessively. But the addicts in the book use machines as a way to gain control in their lives. In front of a machine, the world is simple: they place bets and lose a little bit of money on each turn. The gamblers are in control of this machine world. It is the world away from machines where the prospect of losing control in frightening ways looms. Away from the machines, life is long and full of terrors.
 
- **The Addiction**
+**The Addiction**
 
 > Guns don’t kill people, people kill people 
 > 
@@ -110,7 +113,7 @@ What would it be like if we talked about substance addictions the way we talk ab
 
 I think addiction probably lies in the least exciting place: somewhere in the middle. Substance addictions are not caused entirely by the substances, and behavioral addictions are not caused entirely by personal failings. Both kinds of addictions are caused by some mix of personal susceptibility, substance addictiveness, and environmental factors.
 
- **II.**
+**II.**
 
 This is what Schüll argues for in this book. She tries to move the responsibility for gambling addictions from “personal failing” to “interaction between the person and the machine.”
 
@@ -130,7 +133,7 @@ On one hand, TikTok engineers have created a supremely bingable app. It caters t
 
 I cannot help but think that TikTok, and other similar companies, are creating screen time tools as a first step in their journey down the path of arguing that “addictions are personal failings and overcoming them is a personal responsibility.” Screen time tools place the burden of managing addiction squarely on users, not on the companies that provide infinite addictive content. I’ll freely admit addictions are partly personal failings. It’s why I’ve deleted all addictive apps on my phone, why I’ve silenced all notifications, why I’ve been on a social media fast the last two weeks, why I monitor my screen time, and why I maintain constant vigilance against signs of increasing app usage. And yet, I wouldn’t need to fight so hard if my tormentors weren’t so strong, and getting stronger every day.
 
- **III.**
+**III.**
 
 I buy Schüll’s argument that gambling machines are addictive by design. But I am left with a lot of questions about why gambling machines are so much more addictive than other, more virtuous, technology.
 
@@ -142,7 +145,7 @@ I think this is the biggest gap in Schüll’s theory. If designers optimized ga
 
 I have a few hypotheses. First, maybe virtuous apps do create addictions, but the addicted population just isn’t getting noticed or counted yet. Second, maybe vices are just inherently more addictive than virtues. Third, maybe all designers worth their salt work for casinos, and virtuous apps are scraping the bottom of the barrel when they hire designers. The incompetent designers who work for virtuous apps just aren’t smart enough to create addictive products. I’m not sure which one of these hypotheses is correct, but I am glad to know that Schüll’s next book is about the rise of fitness trackers and other self-monitoring technology. I hope she will address this topic there.
 
- **IV.**
+**IV.**
 
 The weakest parts of the book stem from the fact that the seed of this book was an academic thesis.
 
@@ -150,7 +153,7 @@ Because of that, the writing occasionally collapses into sleep inducing jargon: 
 
 Also because of that, the book takes for granted that capitalism is synonymous with evil. While I agree with the book that one of capitalism’s failure modes is to give people too much of a good thing, I needed more persuasion to be convinced of other things the book blames capitalism for. Take, for example, its assertion that, to the extent that personal failings are responsible for excessive gambling, those personal failings are caused by late capitalism. Capitalism exploits and damages workers so much that they seek out the comfort of machines. But this theory doesn’t explain why the propensity to gamble is present in humans across space and time. Macau is a huge gambling destination, and all types of ancient myths talk about gods and people gambling to excess. Neither modern day China nor ancient Greece or India are hotbeds of late capitalism.
 
- **V.**
+**V.**
 
 Machine gambling game designers have created games that induce the exact combination of regret and hope that makes gamblers play again. To do so, they have transformed slot machines, stuffing them with near misses and ever-lengthening odds. Gamblers are transfixed by these machines. More and more of them seek out the trance that the machines put them in. The lure of the machines is so strong that gamblers only stop when their money runs out. Supercharged machines and hypnotized gamblers together form gambling addictions. The gambling industry would like to absolve itself of responsibility for these addictions, but these addictions cannot be blamed solely on gamblers’ personal failings.
 

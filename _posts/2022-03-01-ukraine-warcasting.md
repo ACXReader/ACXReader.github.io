@@ -3,6 +3,9 @@ title: "Ukraine Warcasting"
 subtitle: "Predictions, market accountability, pundit accountability"
 date: 2022-03-01
 likes: 113
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/49526673/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/abe54fa9-d868-4d8a-912b-f6ce1dfcf1f2_275x183.png
 original-url: https://www.astralcodexten.com/p/ukraine-warcasting
 ---
 Yeah, I know you’re saturated with Ukraine content. Yeah, I know everyone wants to relate their hobbyhorse to Ukraine. But I think it’s genuinely useful to talk about prediction markets right now. 
@@ -15,37 +18,37 @@ The first part of this post looks at various markets’ predictions of how the w
 
 Starting with Metaculus:
 
- _— Will Kyiv fall to Russian forces by April 1 2022? **69% chance** _
+_— Will Kyiv fall to Russian forces by April 1 2022?**69% chance** _
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F00d483fb-82f3-40cf-95a1-fcc1d5840a0a_763x254.png)](https://www.metaculus.com/questions/9939/kyiv-to-fall-to-russian-forces-by-april-2022/)
 
 This is the most-predicted relevant question on Metaculus right now. The first day of the war, the market predicted as high as 90%; as people realized the strength of Ukrainian resistance, it fell to 80. Mid-Saturday there was a sudden drop from 78% to 72%, after some combination of a defiant Zelenskyy speech and a report that Russian paratroopers had been repelled. Since then it’s barely budged.
 
- _— Will at least three of six big Ukrainian cities fall to Russian forces by June 1? **71% chance**_
+_— Will at least three of six big Ukrainian cities fall to Russian forces by June 1?**71% chance**_
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F62ec7fa8-6016-4574-ae27-daa359d46c81_757x218.png)](https://www.metaculus.com/questions/9941/russia-takeover-of-ukrainian-cities-by-june/)
 
 The six cities are Kyiv, Odesa, Lviv, Mariupol, Kharkiv, and Kherson. This question gives the Russians two more months than the last one, so it’s surprising that they’re at about the same probability. Maybe everyone expects Russia to go for Kyiv first and take longer for anything else? Or maybe they’re assuming everything stands or falls together.
 
- _— Will WWIII happen before 2050? **20% chance**_
+_— Will WWIII happen before 2050?**20% chance**_
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4e12378a-90a8-4072-b9ab-0efbb6ca926b_768x265.png)](https://www.metaculus.com/questions/2534/will-there-be-a-world-war-three-before-2050/)
 
 This question defines “World War III” as any war whose combatants have 30% of world GDP or 50% of world population, and in which 10 million people die. Over the past two years, the question has bounced between about 7 and 19 percent. Today it’s at 20%, its highest value ever - but still only a single-digit percent above its baseline.
 
-— _Will Russia invade any country other than Ukraine in 2022? **12% chance**_
+— _Will Russia invade any country other than Ukraine in 2022?**12% chance**_
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b1f545f-5587-4302-b2d3-152b06cd75d7_763x222.png)](https://www.metaculus.com/questions/9930/russian-invasion-of-another-country-in-2022/)
 
 Commenters bring up Belarus (if they start seeming less loyal), Moldova (if part of Russia’s plan was to create a corridor to Transdnistria), or Georgia (Russia likes invading Georgia). Relatively few people think a Russia-NATO war is likely to be a big part of this. [Zvi thinks](https://thezvi.substack.com/p/ukraine-post-1-prediction-markets?utm_source=url) this should be 20%.
 
- _— Will Putin still be president of Russia next February? **71% chance**_
+_— Will Putin still be president of Russia next February?**71% chance**_
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf457322-5088-4092-96bf-17aaadef11c3_762x264.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf457322-5088-4092-96bf-17aaadef11c3_762x264.png)
 
 This started at 85% and has been getting gradually lower, but it suffers for lack of pre-war data to compare it to. Here’s [a related question](https://www.metaculus.com/questions/4799/when-will-vladimir-putin-cease-to-hold-the-office-of-president-of-russia/) asking forecasters to predict when Putin will leave power. Through most of last year, it averaged 2027 - 2029; now it’s at 2024. I imagine this is too weird a mixture of early and late guesses to interpret clearly, but the downward trend sure is obvious. 
 
-_— Will 50,000 civilians die in any single Ukrainian city? **8% chance**_
+_— Will 50,000 civilians die in any single Ukrainian city?**8% chance**_
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0657dd54-68fb-4826-b94b-756b183f72c8_766x220.png)](https://www.metaculus.com/questions/10001/civilian-deaths-in-ukrainian-cities-in-2022/)
 
@@ -53,13 +56,13 @@ Forecasters are optimistic this will not happen. A commenter mentions that only 
 
 Other sites have fewer or less trustworthy markets, but here’s a selection:
 
- _— Will Zelensky still be President of Ukraine on 4/22/22? **42% chance**_
+_— Will Zelensky still be President of Ukraine on 4/22/22?**42% chance**_
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1631b40-6600-4d3d-9aac-cef61ac24595_1008x686.png)](https://polymarket.com/market/will-volodymyr-zelenskyy-be-ukraines-president-on-april-22-2022)
 
 Polymarket seems hesitant to go into actual war predictions, but this market at least acts as a proxy for whether there will _be_ a Ukraine on 4/22/22 - though with a side of “will Zelensky be killed or captured?”. “Yes” dropped as low as 12% during the early parts of the invasion, but is doing a little better now.
 
- _— Will Russia control Kyiv on 4/2/22? **54% chance**_
+_— Will Russia control Kyiv on 4/2/22?**54% chance**_
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf1ea122-5683-48cf-a8a6-d04982c16fbf_837x588.png)](https://manifold.markets/Duncan/will-russia-control-kyiv-as-of-apri)
 

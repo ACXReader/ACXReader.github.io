@@ -3,11 +3,14 @@ title: "Highlights From The Comments On Unpredictable Reward"
 subtitle: "..."
 date: 2022-09-30
 likes: 65
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/73764265/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e1d963a8-579c-4aa8-94e1-bb10c6f46b86_680x428.jpeg
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-unpredictable
 ---
 _[Original post:[Unpredictable Reward, Predictable Happiness](https://astralcodexten.substack.com/p/unpredictable-reward-predictable)]_
 
- **1:** Okay, I mostly wanted to highlight this one by [Grognoscente](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9048358):
+**1:** Okay, I mostly wanted to highlight this one by [Grognoscente](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9048358):
 
 > I think really digging into the neural nitty gritty may prove illuminative here. Dopamine release in nucleus accumbens (which is what drives reward learning and thus the updating of our predictions) is influenced by at least three independent factors:
 > 
@@ -43,7 +46,7 @@ Is the paper making the case for the opposite of Grognoscente’s comment, where
 
 * * *
 
- **2:** Andres of Qualia Research Institute (via email):
+**2:** Andres of Qualia Research Institute (via email):
 
 > Getting the "right fit" for what various serotonin, dopamine, opioid, gaba and NMDA receptors do is challenging - I don't have the final answer or anything close, but I think STV does provide some hints. Your nervous system is constantly creating, maintaining, and retiring internal representations. At QRI we think that the various concentrations of neurotransmitters can change in subtle ways what tools you have available to edit your internal representations. In a super cartoonish way, essentially dopamine reduces the threshold needed to activate a high-frequency consonant state, 5HT2A serotonin activates "pattern breaker" metronomes (as exemplified by the Tracer Tool) and kick-starting an annealing process, and opioids work by activating a generic low-frequency consonance. But the story, of course, is more complex, and the ideal for us is for that complexity to also be explained in terms of STV. Here's an example: dopaminergics have various plateaus - the high-valence ones require both sparse use as well as threshold doses (as you describe). I'd say that to a first approximation, and very schematically, we can divide the state caused by dopaminergics during the come-up as having four plateaus:
 > 
@@ -73,7 +76,7 @@ Related: [Steven Byrnes’ objections to the symmetry theory of valence](https:/
 
 * * *
 
- **3:** Excavationist [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable):
+**3:** Excavationist [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable):
 
 > One neuroscientific perspective on this is that in order for dopamine to track reward prediction *error* (RPE), it is logically necessary that some other piece of neural circuitry track reward prediction *per se*, often called "value." Those of us who think that dopamine is computing RPE on a moment-by-moment basis (the first derivative of value; see Kim, Malik et al., Cell, 2020) therefore generally also believe that some other part of the brain, especially the ventral striatum (aka nucleus accumbens) and perhaps also the prefrontal cortex, maintains an estimate of value that gets updated by dopamine. And indeed, there are dozens of papers reporting that neural firing in these brain regions correlate with value over and above RPE.
 > 
@@ -95,9 +98,9 @@ This is a weird theory, because (IIUC) it’s sort of suggesting that there are 
 
 * * *
 
- **4:** Demost_ [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9047980):
+**4:** Demost_ [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9047980):
 
->  _"Any neuroscience article will tell you that the “reward center” of the brain - the nucleus accumbens - monitors actual reward minus predicted reward."_
+> _"Any neuroscience article will tell you that the “reward center” of the brain - the nucleus accumbens - monitors actual reward minus predicted reward."_
 > 
 > This claim is way too strong.
 > 
@@ -127,7 +130,7 @@ I apologize for implying anything in neuroscience was ever settled, straightforw
 
 * * *
 
- **5:** Scott [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9047160):
+**5:** Scott [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9047160):
 
 > When I was in graduate school, I was a facilitator for domestic violence batterers intervention psychoeducation groups. (A mouthful, I know). It was the California-mandated program for DV offenders. I did this for about 3 years, and had nearly 4000 clinical contact hours with this cohort.
 > 
@@ -143,7 +146,7 @@ This isn’t exactly saying anything new, but I am filled with a desire to hear 
 
 * * *
 
- **6:** Pope Spurdo [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9054513):
+**6:** Pope Spurdo [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9054513):
 
 > "Poly people talk about 'new relationship energy' - if you start a relationship with a new person, you will be passionately into them for a few months, usually at the expense of all your other relationships, before settling back down again. Most poly advice books will give you tips for managing it, which mostly boil down to for God’s sake, don’t take your feelings seriously and deprioritize all your other relationships because this new one is so much better."
 > 
@@ -157,7 +160,7 @@ I guess this happens to monogamous people too when they have affairs, but it’s
 
 They also write:
 
->  _> "In contrast, on February 1 you have $1 billion more than on January 31, but because you predicted it would happen, it’s not that big a mood boost."_
+> _> "In contrast, on February 1 you have $1 billion more than on January 31, but because you predicted it would happen, it’s not that big a mood boost."_
 > 
 > From personal experience, I disagree. Here's what I recall about selling a property a few years ago:
 > 
@@ -165,7 +168,7 @@ They also write:
 > 
 > (2) When the money actually hit my bank account and I saw a six-figure deposit, I was _ecstatic_ to the point that I kept logging in to online bank all day just to stare a balance that was at least ten times greater than it had ever been before. Felt freaking awesome.
 
- **7:** Other commenters see it more my way, eg [Gary Waldo](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9050408):
+**7:** Other commenters see it more my way, eg [Gary Waldo](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9050408):
 
 > Last year I was lucky in that I earned around 5M USD in selling a start up.
 > 
@@ -177,7 +180,7 @@ They also write:
 
 * * *
 
- **8:** Designer-Shift-7442 [writes](https://www.reddit.com/r/slatestarcodex/comments/xdjuoq/unpredictable_reward_predictable_happiness/ioc3umt/):
+**8:** Designer-Shift-7442 [writes](https://www.reddit.com/r/slatestarcodex/comments/xdjuoq/unpredictable_reward_predictable_happiness/ioc3umt/):
 
 > "how come predicting you would get the money mostly cancels out the goodness of getting the money, but predicting you would get the Ferrari/dinner doesn’t cancel out the goodness of the Ferrari/dinner?"
 > 
@@ -192,7 +195,7 @@ I like this idea of money as already being a prediction, and predicting money ju
 
 * * *
 
- **9:** Steve Byrnes [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9047104):
+**9:** Steve Byrnes [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9047104):
 
 > One thing that might help in certain parts of this post is to split up the concept "prediction" into two different concepts, "visceral expectations" versus "intellectual predictions". "Visceral expectations" are related to valence, aversion, desire, sweating, goosebumps, all that stuff, whereas "intellectual predictions" are the things that you consciously believe.
 > 
@@ -204,7 +207,7 @@ Agreed. This is also why I stressed how weird it is that eg you still “predict
 
 * * *
 
- **10:** Vorkosigan1 [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9042603):
+**10:** Vorkosigan1 [writes](https://astralcodexten.substack.com/p/unpredictable-reward-predictable/comment/9042603):
 
 > Maybe rich people are happier than poor people because they don't have to deal with sh!t all the time. You know, that stuff about the cognitive burden of poverty, etc.
 

@@ -3,13 +3,16 @@ title: "Highlights From The Comments On IRBs"
 subtitle: "..."
 date: 2023-04-17
 likes: 57
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/115295290/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/802c1d98-a3fc-494a-956c-18955d357864_309x226.png
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-irbs
 ---
 [Original post: [Book Review - From Oversight To Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)]
 
 ### Table of Contents
 
- **1: Comments From The Author Of The Book  
+**1: Comments From The Author Of The Book  
 2: Stories From People In The Trenches  
 3: Stories From People In Other Industries  
 4: Stories From People Who Use Mechanical Turk  
@@ -34,7 +37,7 @@ Simon Whitney (author of the book!) [writes](https://astralcodexten.substack.com
 > 
 > Of course, the smaller budgets of the scientists in my book don’t mean that their findings will be trivial. It has always been true that when myriad scientists work to better understand human health and disease, each in their own way, that the vast majority will make, at most, tiny steps, and that a very few will be on the track of something transformative. A system that makes their work more difficult means that we, the public who struggle with disease and death in our daily lives, are the ones who suffer.
 
-I did accidentally mess up the conclusion of the Lasagna and Epstein study[1](/p/highlights-from-the-comments-on-irbs#footnote-1-115295290) \- the short consent forms were better, not worse. Most of you caught this from context, but sorry.
+I did accidentally mess up the conclusion of the Lasagna and Epstein study[^1] \- the short consent forms were better, not worse. Most of you caught this from context, but sorry.
 
 ### 2\. Stories From People In The Trenches
 
@@ -316,6 +319,4 @@ And [DannyK ](https://astralcodexten.substack.com/p/book-review-from-oversight-t
 
 I’d never heard of this before and would be interested in more information.
 
-[1](/p/highlights-from-the-comments-on-irbs#footnote-anchor-1-115295290)
-
-Thank you to everyone who pointed out that this study had a funny name.
+[^1]: Thank you to everyone who pointed out that this study had a funny name.

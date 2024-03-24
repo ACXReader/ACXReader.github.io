@@ -3,18 +3,21 @@ title: "Highlights From The Comments On Long COVID And Bisexuality"
 subtitle: "..."
 date: 2023-05-11
 likes: 59
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/120384485/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/cbb39126-8dc4-44c4-a870-c8b7bf2a97e8_320x179.webp
 original-url: https://www.astralcodexten.com/p/highlights-from-the-comments-on-long
 ---
 _Original post:[Replication Attempt - Bisexuality And Long COVID](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and)_
 
- **Table of Contents**
+**Table of Contents**
 
- **1.** Summary Of Best Comments And Overall Updates  
- **2.** Comments Proposing Explanations Based On Response Patterns  
- **3.** Comments Proposing Explanations Based On Biology  
- **4.** Comments By Jim Coyne  
- **5.** Comments Expressing Concerns About The Dangers Of Calling Things Psychosomatic  
- **6.** Other Comments
+**1.** Summary Of Best Comments And Overall Updates  
+**2.** Comments Proposing Explanations Based On Response Patterns  
+**3.** Comments Proposing Explanations Based On Biology  
+**4.** Comments By Jim Coyne  
+**5.** Comments Expressing Concerns About The Dangers Of Calling Things Psychosomatic  
+**6.** Other Comments
 
 ## 1\. Summary Of Best Comments And Overall Updates
 
@@ -41,7 +44,7 @@ So: bisexuals get many different well-established health conditions more often t
 
 ## 2\. Comments Proposing Explanations Based On Response Patterns
 
- **Peter Gerdes[asks](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15536637):**
+**Peter Gerdes[asks](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15536637):**
 
 > I'm wondering if it's explained by something like how likely you are to hear symptoms and think "that's something that describes me" rather than just kinda going with the default answer unless you are forced into picking the other.
 > 
@@ -61,7 +64,7 @@ There were a few exceptions - polyamorous people, rationalists, and (to a much l
 
 Limiting the analysis to left-of-center women only didn’t significantly change the results. Also, gays are probably just as left-as-center as bisexuals and the result was much weaker there. There was a significant association between politics and risk of Long COVID, but it was only about half as strong as sexuality.
 
- **Toggle[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15536832):**
+**Toggle[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15536832):**
 
 > Feels like you’re neglecting a possible arrow of causality in the other direction!
 > 
@@ -79,11 +82,11 @@ In order to distinguish these hypotheses, we’d have to find a group of people 
 
 Separately in both men and women, weird-but-not-woke political groups (libertarians, Marxists, alt-right, neoreactionary) were less likely than the average person to report Long COVID, _and_ less likely than mainstream conservatives. I find libertarians and Marxists, who I would expect to be less interested in the right-wing project of minimizing COVID than conservatives, sort of interesting. But I won’t claim to have fully debunked this concern.
 
- **Chris Buck** **(author of[Why Viruses Must Die](https://cbuck.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15542277):**
+**Chris Buck** **(author of[Why Viruses Must Die](https://cbuck.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15542277):**
 
 > A simpler explanation might be that bisexual people are more likely to be virtuous followers of what I call the 15th Commandment: Thou shall not self-deceive. In other words, the actual rate of long Covid could be identical across all sexual orientations but bisexuals are somewhat more likely to correctly perceive it and acknowledge it.
 
- **Mike[phrases this more aggressively](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15547922):**
+**Mike[phrases this more aggressively](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15547922):**
 
 > Alternative hypothesis: monosexuality is a culture-bound mental illness, and long COVID is more prevalent than people think.
 > 
@@ -101,13 +104,13 @@ If this were true, you might expect bisexual people to (on average) report weake
 
 ## 3\. Comments Proposing Explanations Based On Biology
 
- **Evan Þ (author of[Papyrus Rampant](https://papyrusrampant.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15536520):**
+**Evan Þ (author of[Papyrus Rampant](https://papyrusrampant.substack.com/?utm_source=substack&utm_medium=web&utm_content=comment_metadata)) [writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15536520):**
 
 > Here's a potential alternate interpretation of the data that occurred to me: Perhaps bisexual people are more likely to have more sex, which means they're more likely to contract STD's, which means that on average they are immunologically different to some degree and might legitimately get different physiological consequences from COVID. I don't actually believe this - I think your theory is at least as likely - but I'd be very interested in any analysis that tries to look into this.
 
 Some commenters responded that (on average) gays have more sexual partners than bisexuals (at least in men; in women they’re about the same), but didn’t show the same elevated Long COVID effect. Also, if sexual contact caused immune problems down the line, this would be a big deal and we would already know.
 
- **Theophylline[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15542251):**
+**Theophylline[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15542251):**
 
 > My immediate thought upon reading this was that, contrary to Scott's expectation, I would bet that bisexuals are quite likely to be immunologically different. Specifically, both the immune system and sexuality are potentially influenced by or correlated with levels of testosterone and estrogen.
 > 
@@ -115,7 +118,7 @@ Some commenters responded that (on average) gays have more sexual partners than 
 > 
 > Unfortunately for my theory, I haven't been able to find any studies on the average hormone profiles of bisexual men, and at least based on this this meta-analysis: <https://link.springer.com/article/10.1007/s10508-020-01717-8> bisexual women have at best slightly higher testosterone than average, though the abstract itself says that most studies on the topic have been "small, biased, and heterogenous" and that little confidence should be placed in their findings.
 
- **LadyJane[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15561491):**
+**LadyJane[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15561491):**
 
 > A lot of the bisexual people I know, particularly bisexual women, seem to have chronic pain and/or autoimmune disorders of some sort. (A few weeks back I noted a similar pattern among trans people I know.) Cisgender homosexuals, on the other hand, seem to be just as healthy as cisgender heterosexuals. Possibly even more so, since both gay men and lesbians tend to be more athletic and physically fit than the average straight person - which might explain why homosexuals tend to have even lower rates of Long COVID than heterosexuals. I've long thought that gender dysphoria in trans people might be tied to more general "body mapping" issues that would strongly correlate to various health problems; the same could be true, to a lesser degree, of bisexual people.
 > 
@@ -125,7 +128,7 @@ I find something like this plausible; I wouldn’t describe it as “chimerism�
 
 Related: I just checked and, although left- and right- handed people have similar amounts of Long COVID, ambidextrous people have 2-3x as much, maybe an even stronger amount than bisexuals. This could also fit the response bias hypotheses above.
 
- **Michelle Taylor[writes](https://astralcodexten.substack.com/p/raise-your-threshold-for-accusing/comment/15580075):**
+**Michelle Taylor[writes](https://astralcodexten.substack.com/p/raise-your-threshold-for-accusing/comment/15580075):**
 
 > Neurodiversity also correlates to a bunch of other physical disorders like EDS and digestive system problems, likely because of underlying pervasive development disorders - I'm not sure why that makes it 'more likely to be psychosomatic' rather than 'body that went slightly wrong in development is more susceptible to cumulative damage'.
 > 
@@ -211,7 +214,7 @@ Please see the section immediately below for a more thorough response to this co
 
 ## 5\. Comments Expressing Concerns About The Dangers Of Calling Things Psychosomatic
 
- **After bringing up some of the alternative explanations discussed above, Michelle Taylor[wrote](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15536682):**
+**After bringing up some of the alternative explanations discussed above, Michelle Taylor[wrote](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15536682):**
 
 > I am somewhat biased on this because I believe the world is currently making a dreadful mistake ignoring long covid which will become increasingly apparent as people with it age and can no longer ignore the minor symptoms, and things which are psychosomatic tend to be ignored or dismissed by society as something you can somehow just stop experiencing
 
@@ -225,7 +228,7 @@ If there were no organic cases of Long COVID, it would make COVID one of the onl
 
 I had [previously written about](https://astralcodexten.substack.com/p/long-covid-much-more-than-you-wanted) why I thought the vast majority of cases were organic with only a very small psychosomatic shadow. So I would feel dishonest if I didn’t also write about it when I made an update towards thinking the size of the psychosomatic shadow was larger. If people are jerks about it, I’ll try to correct them; if they keep being jerks, I’ll ban them.
 
- **Siebe Rozendal[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15553095):**
+**Siebe Rozendal[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15553095):**
 
 > The science behind psychosomatic medicine is often extremely poor, using bad definitions and wrong tests. The field is driven by highly dogmatic people with uncomfortably close ties to the insurance industry (if it's psychological, there's somehow no need to pay social security)
 > 
@@ -249,7 +252,7 @@ Does this make it irresponsible/trollish to mention that some cases might be psy
 
 ## 6\. Other Comments
 
- **JDK[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15541868):**
+**JDK[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15541868):**
 
 > Didn't a pretty well done Norwegian study show that there wasn't even link between "long Covid" and actually having contracted Covid among adolescents?
 > 
@@ -267,7 +270,7 @@ I’m pretty skeptical of this. As mentioned above, I think it’s very unlikely
 
 Here’s [a claim that COVID antibodies are a pretty bad test for whether someone’s really had COVID](https://twitter.com/AnnMauseth/status/1647798349867745281). I don’t know how that interacts with whatever statistics are being used in that study, but its results are surprising enough either way that something seems off.
 
- **Shasha[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15667471):**
+**Shasha[writes](https://astralcodexten.substack.com/p/replication-attempt-bisexuality-and/comment/15667471):**
 
 > I am very curious what people here make of long COVID biomarker findings. Multiple groups have found multiple sets of blood biomarkers, some with very good predictive value; see Table 2 in this review article <https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00117-2/fulltext>.
 

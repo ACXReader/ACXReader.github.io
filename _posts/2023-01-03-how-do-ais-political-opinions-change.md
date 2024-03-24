@@ -3,6 +3,9 @@ title: "How Do AIs' Political Opinions Change As They Get Smarter And Better-Tra
 subtitle: "Future Matrioshka brains will be pro-immigration Buddhist gun nuts."
 date: 2023-01-03
 likes: 183
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/93065437/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4a006a02-49a9-48cf-8ffa-adbc18e56887_511x328.png
 original-url: https://www.astralcodexten.com/p/how-do-ais-political-opinions-change
 ---
 ## I. Technology Has Finally Reached The Point Where We Can Literally Invent A Type Of Guy And Get Mad At Him
@@ -153,7 +156,7 @@ Maybe this is because ChatGPT got the full “helpful, harmless, honest” train
 
 The title of this post was, kind of, bait. It wasn’t a false promise - hopefully this essay did teach you things about how AIs’ political opinions change as they get smarter and better-trained - but that’s the least interesting part of this research. 
 
-I think there’s a more important takeaway. _You can’t train AIs to want X_. You can only train AIs to want things correlated with X, under certain conditions, until [the tails come apart](https://slatestarcodex.com/2018/09/25/the-tails-coming-apart-as-metaphor-for-life/). In [a past post](https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers), I used the example of: 
+I think there’s a more important takeaway._You can’t train AIs to want X_. You can only train AIs to want things correlated with X, under certain conditions, until [the tails come apart](https://slatestarcodex.com/2018/09/25/the-tails-coming-apart-as-metaphor-for-life/). In [a past post](https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers), I used the example of: 
 
 > Suppose we train a robot to pick strawberries. We let it flail around in a strawberry patch, and reinforce it whenever strawberries end up in a bucket. Eventually it learns to pick strawberries very well indeed.
 > 

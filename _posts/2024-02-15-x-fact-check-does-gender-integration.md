@@ -2,7 +2,10 @@
 title: "X Fact Check: Does Gender Integration Moderate Politics?"
 subtitle: "..."
 date: 2024-02-15
-likes: 138
+likes: 139
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/141266255/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/8d4808c2-97e3-4b10-944f-8dde66ad2425_248x136.png
 original-url: https://www.astralcodexten.com/p/x-fact-check-does-gender-integration
 ---
 John Burn-Murdoch (that’s his surname, not a suggestion) argues that a political gap is forming between men and women:
@@ -46,4 +49,4 @@ Is it bad to test this in the ACX survey data? Might ACX already be selecting a 
 
 Marginal Revolution discusses other potential explanations for an increasing ideological gender gap [here](https://marginalrevolution.com/marginalrevolution/2024/02/religion-and-the-ideological-gender-gap.html), but also [the finding doesn’t replicate and might not be real at all](https://twitter.com/ryanburge/status/1751615375408521623).
 
- _[As always, you can download the ACX survey data[here](/p/acx-survey-results-2022) and try to replicate my results. Some subjects are excluded from the publicly downloadable dataset for privacy reasons, so you might not get exactly the same numbers I did.]_
+_[As always, you can download the ACX survey data[here](/p/acx-survey-results-2022) and try to replicate my results. Some subjects are excluded from the publicly downloadable dataset for privacy reasons, so you might not get exactly the same numbers I did.]_

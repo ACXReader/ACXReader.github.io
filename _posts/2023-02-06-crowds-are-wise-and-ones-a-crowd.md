@@ -3,6 +3,9 @@ title: "Crowds Are Wise (And One's A Crowd)"
 subtitle: "The long road to Moscow"
 date: 2023-02-06
 likes: 122
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/99315978/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/52b09478-ea82-4d66-bbdb-4461e8e93c12_600x399.jpeg
 original-url: https://www.astralcodexten.com/p/crowds-are-wise-and-ones-a-crowd
 ---
 The “[wisdom of crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds)” hypothesis claims that the average of many guesses is better than a single guess. Ask one person to guess how much a cow weighs, and they’ll be off by some amount. Ask a hundred people and take the average of their answers, and you’ll be off by less.

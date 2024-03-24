@@ -3,6 +3,9 @@ title: "Mantic Monday: Dogs In Wizard Hats"
 subtitle: "Also: free money, Chaotic Evil markets, Ukraine invasion"
 date: 2021-12-27
 likes: 41
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/46084477/comments?&all_comments=true
+image: https://substackcdn.com/image/youtube/w_728,c_limit/xA27x7GRMZQ
 original-url: https://www.astralcodexten.com/p/mantic-monday-dogs-in-wizard-hats
 ---
 I found this YouTube explainer about prediction markets on the subreddit. It’s pretty good! My small nitpicks are that it overestimates their accuracy relative to traditional forecasters (it focuses on markets beating forecasters in 2008, but I don’t think this is consistent) and underestimates their resilience against bad actors trying to skew the probabilities. Still, this will be my go-to source when someone wants a short explanation of what these are and why I’m so excited.
@@ -121,9 +124,9 @@ I don’t think this is people being very foolish and failing to update. I think
 
 ### Shorts
 
- **1:** A “fortified essay” on [foot voting coordination efforts](https://www.metaculus.com/notebooks/8338/foot-voting-coordination-efforts/), eg the Free State Project. “I believe that there's a 60% chance that the question, ‘Will a coordinated foot voting effort intentionally move 10,000+ residents to a single American state by 2030?’ will resolve positively.”
+**1:** A “fortified essay” on [foot voting coordination efforts](https://www.metaculus.com/notebooks/8338/foot-voting-coordination-efforts/), eg the Free State Project. “I believe that there's a 60% chance that the question, ‘Will a coordinated foot voting effort intentionally move 10,000+ residents to a single American state by 2030?’ will resolve positively.”
 
- **2:** Balaji Srinivasan suggests using prediction markets to judge the winner of college debates:
+**2:** Balaji Srinivasan suggests using prediction markets to judge the winner of college debates:
 
 [![Twitter avatar for @balajis](https://substackcdn.com/image/twitter_name/w_96/balajis.jpg)Balaji Srinivasan @balajis@pairagraph You might run formal debates. Have people sign in with ENS for proof of identity. And try a prediction market like @PolymarketHQ to see who won the debate, with Oxford-style scoring. ](https://twitter.com/balajis/status/1470470285807984640)[![](https://substackcdn.com/image/fetch/w_600,h_314,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3fb6907-a076-48c3-935a-0c835eda9ee3_1500x844.jpeg)intelligencesquaredus.orgWhat Is the Oxford-Style Debate Format?The Oxford-style debate format involves a debate on a predetermined statement – also called a “motion” – from two opposing perspectives. The two sides either argue “for” or “against” the motion within a formalized structure. The Intelligence Squared U.S. debate series favors the Oxford-style format …](https://www.intelligencesquaredus.org/news/blog/what-oxford-style-debate-format)[7:06 PM ∙ Dec 13, 2021
 
@@ -133,4 +136,4 @@ I don’t think this is people being very foolish and failing to update. I think
 
 I’m not sure I understand this very well yet but maybe someone else can explain it to me.
 
- **3:** Congratulations to Google’s new prediction market team for making [the front page of Hacker News ](https://news.ycombinator.com/item?id=29629665)[twice](https://news.ycombinator.com/item?id=29642210) last week! A good demonstration that there’s a lot of interest in this field.
+**3:** Congratulations to Google’s new prediction market team for making [the front page of Hacker News ](https://news.ycombinator.com/item?id=29629665)[twice](https://news.ycombinator.com/item?id=29642210) last week! A good demonstration that there’s a lot of interest in this field.

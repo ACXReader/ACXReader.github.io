@@ -3,6 +3,9 @@ title: "Model City Monday 11/8/21"
 subtitle: "Liberty! Prosperity! Giant gold golf balls!"
 date: 2021-11-08
 likes: 51
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/43340291/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6498f90d-9cdf-41d2-ae2b-304062ac58cc_1200x900.webp
 original-url: https://www.astralcodexten.com/p/model-city-monday-11821
 ---
 ### Telosa, USA
@@ -73,7 +76,7 @@ The latest from Prospera is some kind of drama with the neighboring community of
 
 Devon Zuegel, a friend of the blog who was on the ground at Prospera at the time, gives the ZEDE’s version:
 
->  **Unwanted competition with the water monopoly:** The leading family of Crawfish Rock used to be the sole provider of water in the town, and they control the patronato (the town council which claims to speak for the town, sort of like a homeowners' association). Many people in the village didn’t have access to running water, so Próspera built pipes connecting from the well on their property to the town.
+> **Unwanted competition with the water monopoly:** The leading family of Crawfish Rock used to be the sole provider of water in the town, and they control the patronato (the town council which claims to speak for the town, sort of like a homeowners' association). Many people in the village didn’t have access to running water, so Próspera built pipes connecting from the well on their property to the town.
 > 
 > Próspera said that the patronato didn’t like this because it threatened their water monopoly, so they forced Próspera to shut off the water. Several people who live in Crawfish Rock confirmed that “it’s mostly just the patronato that’s opposed to Próspera, the rest of us are positive or neutral”.
 

@@ -3,9 +3,12 @@ title: "Your Book Review: Order Without Law"
 subtitle: "Finalist #1 of the book review contest"
 date: 2021-04-08
 likes: 33
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/34926692/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b7a7b9f5-51af-4210-a0be-134db6c46cb7_1200x718.png
 original-url: https://www.astralcodexten.com/p/your-book-review-order-without-law
 ---
-[ _This is the first of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for the next few months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. The broken footnotes in this one are either my fault or Substack’s, so please don’t hold it against this entry. Oh, and I promise not all of them are this long. - SA_ ]
+[_This is the first of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for the next few months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. The broken footnotes in this one are either my fault or Substack’s, so please don’t hold it against this entry. Oh, and I promise not all of them are this long. - SA_]
 
 ### Shasta County
 
@@ -39,7 +42,7 @@ What’s up with this? Why do the cattlemen continue to be so wrong in the face 
 
 ### What’s up with this?
 
- _Order Without Law: How Neighbors Settle Disputes_ is a study of, well, its subtitle. The author, Robert Ellickson, is a professor and legal scholar. He comes across as a low-key anarchist, and I’ve seen him quoted at length on some anarchist websites, and I wouldn’t be surprised to learn that he’s just a full-blown anarchist. He doesn’t identify as one explicitly, at least not here, and he does respect what states bring to the table. He just wishes people would remember that they’re not the only game in town. Part of the thesis of the book could be summed up (in my words, not his) as: _we credit the government with creating public order, but if you look, it turns out that people create plenty of public order that has basically nothing to do with the legal system. Sometimes there is no relevant law, sometimes the order predates the law, and sometimes the order ignores the law._ More on this later.
+_Order Without Law: How Neighbors Settle Disputes_ is a study of, well, its subtitle. The author, Robert Ellickson, is a professor and legal scholar. He comes across as a low-key anarchist, and I’ve seen him quoted at length on some anarchist websites, and I wouldn’t be surprised to learn that he’s just a full-blown anarchist. He doesn’t identify as one explicitly, at least not here, and he does respect what states bring to the table. He just wishes people would remember that they’re not the only game in town. Part of the thesis of the book could be summed up (in my words, not his) as: _we credit the government with creating public order, but if you look, it turns out that people create plenty of public order that has basically nothing to do with the legal system. Sometimes there is no relevant law, sometimes the order predates the law, and sometimes the order ignores the law._ More on this later.
 
 Part one is an in-depth exploration of Shasta County that I found fascinating, and that I’ve only given in very brief summary. He goes into much more detail about basically everything.[4](https://astralcodexten.substack.com/p/your-book-review-order-without-law#fn:part-one-teaser)
 
@@ -93,7 +96,7 @@ The other camp is law-and-society, emphasizing that the law exists as just one p
 
 Ellickson has his own theory of norms, which he formed after studying Shasta County. The main thrust of part two is to elaborate and defend it:
 
->  _Members of a close-knit group develop and maintain norms whose content serves to maximize the aggregate welfare that members obtain in their workaday affairs with one another._ … Stated more simply, the hypothesis predicts that members of tight social groups will informally encourage each other to engage in cooperative behavior. [Emphasis original; footnotes removed.]
+> _Members of a close-knit group develop and maintain norms whose content serves to maximize the aggregate welfare that members obtain in their workaday affairs with one another._ … Stated more simply, the hypothesis predicts that members of tight social groups will informally encourage each other to engage in cooperative behavior. [Emphasis original; footnotes removed.]
 
 (He doesn’t name this theory, calling it simply “the hypothesis”. I admire that restraint, but I kind of wish I had a name to refer to it by.)
 
@@ -123,7 +126,7 @@ Notably, a close-knit group need not be small or exclusive. Someone can be a mem
 
 A little more hackily, it also doesn’t apply to “purely distributive” norms, like norms of charity. If you take wealth from one person and give it to another, the transfer process consumes resources and creates none, reducing aggregate welfare. (This is assuming Ellickson’s strict definition of welfare, which he’s explained by now but I haven’t. Sorry.) But clearly norms of charity do exist. There are theories under which they do enhance welfare (through social insurance, or reciprocity). But those might be too simplistic, so Ellickson thinks it prudent to just exclude charity from the hypothesis.
 
-Actually, he goes further than that. He cites Mitch Polinsky ( _An Introduction to Law and Economics_ ) arguing that for a legal system, the cheapest way to redistribute wealth is (typically) through tax and welfare programs. And so, Polinsky argues, most legal doctrine should be shaped by efficiency concerns, not redistribution. That is, areas like tort and contract law should focus on maximizing aggregate welfare. In a dispute between a rich and a poor person, we shouldn’t consider questions like “okay, but the poor person has much more use for the money”. In such disputes we should assume the same amount of wealth has equal value whoever’s hands it’s in, and the point is just to maximize total wealth. Then, if we end up with people having too little wealth, we have a separate welfare system set up to solve that problem.
+Actually, he goes further than that. He cites Mitch Polinsky (_An Introduction to Law and Economics_) arguing that for a legal system, the cheapest way to redistribute wealth is (typically) through tax and welfare programs. And so, Polinsky argues, most legal doctrine should be shaped by efficiency concerns, not redistribution. That is, areas like tort and contract law should focus on maximizing aggregate welfare. In a dispute between a rich and a poor person, we shouldn’t consider questions like “okay, but the poor person has much more use for the money”. In such disputes we should assume the same amount of wealth has equal value whoever’s hands it’s in, and the point is just to maximize total wealth. Then, if we end up with people having too little wealth, we have a separate welfare system set up to solve that problem.
 
 I can buy that. Ellickson doesn’t actually present the argument himself, just says that Polinsky’s explained it lucidly, but sure. Stipulated.
 

@@ -3,6 +3,9 @@ title: "ACX Reader Research Survey: Call For Submissions"
 subtitle: "Too stingy to pay for MTurk? We can help!"
 date: 2021-06-25
 likes: 39
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/38049781/comments?&all_comments=true
+image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5f085f4e-cc0c-4ee0-a828-65eba1bc1488_2250x1500.jpeg
 original-url: https://www.astralcodexten.com/p/acx-reader-research-survey-call-for
 ---
 Now that the book review contest is winding down, I want to start another big project: the ACX Reader Research Survey.
