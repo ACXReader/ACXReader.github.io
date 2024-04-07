@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 <article
@@ -12,26 +12,27 @@ layout: default
       {{ page.title | escape }}
     </h1>
     <p class="post-meta">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
+      -%}
       <time
         class="dt-published"
         datetime="{{ page.date | date_to_xmlschema }}"
         itemprop="datePublished"
       >
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
-        -%} {{ page.date | date: date_format }}
+        {{ page.date | date: date_format }}
       </time>
-      <br />
-      By:
+      {%- if page.modified_date -%} ~ {%- assign mdate = page.modified_date |
+      date_to_xmlschema -%}
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+        {{ mdate | date: date_format }}
+      </time>
+      {%- endif -%} {%- if page.author -%} • {% for author in page.author %}
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span class="p-author h-card" itemprop="name"> Scott Alexander </span>
-      </span>
-      <br />
-      Original url:
-      <a href="{{ page.original-url }}"> {{ page.original-url }} </a>
+        <span class="p-author h-card" itemprop="name">{{ author }}</span></span
+      >
+      {%- if forloop.last == false %}, {% endif -%} {% endfor %} {%- endif -%}
     </p>
   </header>
-
-  {% include footnote.html %}
 
   <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 

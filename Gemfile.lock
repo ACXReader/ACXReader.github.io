@@ -215,7 +215,6 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    maruku (0.7.3)
     mercenary (0.3.6)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -268,7 +267,7 @@ DEPENDENCIES
   faraday-retry
   github-pages
   jekyll-redirect-from
-  maruku
+  jekyll-remote-theme
   minima
   webrick
 

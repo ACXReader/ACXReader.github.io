@@ -8,10 +8,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
 permalink: /p/:title
 
-theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: classic
 header_pages:
   - about.md
   - acx.md
@@ -26,3 +29,4 @@ kramdown:
   footnote_backlink:
 
 future: true
+timezone: Etc/GMT-14

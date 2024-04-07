@@ -10,3 +10,4 @@ end
 gem "webrick"
 gem "faraday-retry"
 gem "minima"
+gem "jekyll-remote-theme"
