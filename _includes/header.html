@@ -31,11 +31,13 @@
             }
           </style>
           <script>
-            if (localStorage.getItem("isDark") == null) {
-              localStorage.setItem("isDark", false);
+            if (window.localStorage.getItem("theme") == null) {
+              window.localStorage.setItem("theme", "light");
             }
-            var isDark = localStorage.getItem("isDark");
+            var isDark = window.localStorage.getItem("theme") == "dark" ? true : false;
             if (isDark) {
+              // prevents switching from dark to light
+              isDark = false;
               switchSkin()
             }
             
@@ -44,11 +46,12 @@
               if (isDark) {
                 metaTag.href = "/assets/css/style.css";
                 isDark = false;
+                window.localStorage.setItem("theme", "light");
               } else {
                 metaTag.href = "/assets/css/dark.css";
                 isDark = true;
+                window.localStorage.setItem("theme", "dark");
               }
-              localStorage.setItem("isDark", isDark);
             }
             document.getElementById("light-dark").addEventListener("click", switchSkin);
           </script>
