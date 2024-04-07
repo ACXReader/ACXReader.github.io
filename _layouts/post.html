@@ -30,6 +30,9 @@ layout: base
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
         <span class="p-author h-card" itemprop="name">{{ author }}</span></span
       >
+      <br />
+      Original url:
+      <a href="{{ page.original-url }}"> {{ page.original-url }} </a>
       {%- if forloop.last == false %}, {% endif -%} {% endfor %} {%- endif -%}
     </p>
   </header>

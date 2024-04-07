@@ -24,12 +24,34 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-          <img id="light_dark" width="20rem" src="/assets/light_dark.png">
+          <img id="light-dark" width="20rem" src="/assets/light_dark.png">
           <style>
-            #light_dark {
+            #light-dark {
               padding-right: 0.5rem;
             }
           </style>
+          <script>
+            if (localStorage.getItem("isDark") == null) {
+              localStorage.setItem("isDark", false);
+            }
+            var isDark = localStorage.getItem("isDark");
+            if (isDark) {
+              switchSkin()
+            }
+            
+            function switchSkin() {
+              var metaTag = document.getElementById("stylesheet");
+              if (isDark) {
+                metaTag.href = "/assets/css/style.css";
+                isDark = false;
+              } else {
+                metaTag.href = "/assets/css/dark.css";
+                isDark = true;
+              }
+              localStorage.setItem("isDark", isDark);
+            }
+            document.getElementById("light-dark").addEventListener("click", switchSkin);
+          </script>
         </div>
       </nav>
     {%- endif -%}
