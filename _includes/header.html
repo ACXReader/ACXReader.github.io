@@ -24,6 +24,8 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <!-- bookmarklet abuse -->
+          <a class="page-link" href="javascript:(function()%7Bvar%20page%20%3D%20window.location.href.split(%22acxreader.github.io%2F%22)%5B1%5D%3B%0Aif%20(page%20%3D%3D%3D%20undefined)%20page%20%3D%20%22%22%3B%0Awindow.location.href%20%3D%20%22https%3A%2F%2Fastralcodexten.com%2F%22%20%2B%20page%3B%7D)()%3B">Astral Codex Ten</a>
           <img id="light-dark" width="20rem" src="/assets/light_dark.png">
           <style>
             #light-dark {

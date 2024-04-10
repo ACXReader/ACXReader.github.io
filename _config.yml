@@ -7,7 +7,6 @@ twitter:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-redirect-from
   - jekyll-remote-theme
 
 permalink: /p/:title
@@ -17,14 +16,7 @@ minima:
   skin: classic
 header_pages:
   - about.md
-  - acx.md
 
-# try to destroy feed
-feed:
-  posts_limit: 0
-  path: /
-
-# remove backlinks with U+200B
 kramdown:
   footnote_backlink:
 
