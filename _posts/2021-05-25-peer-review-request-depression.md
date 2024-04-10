@@ -2,7 +2,6 @@
 title: "Peer Review Request: Depression"
 subtitle: "Give me feedback on my take on fighting depression"
 date: 2021-05-25
-likes: 97
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36839261/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1d3759eb-9f93-49f7-8298-eadc2e1b2a97_448x242.png

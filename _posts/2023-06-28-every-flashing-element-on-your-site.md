@@ -2,7 +2,6 @@
 title: "Every Flashing Element On Your Site Alienates And Enrages Users"
 subtitle: "Warning: This post might give vulnerable people new sensory sensitivities"
 date: 2023-06-28
-likes: 274
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/103977425/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/0a6a52eb-ff16-4bcb-98a3-8d855b1dad39_612x612.jpeg

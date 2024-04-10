@@ -2,7 +2,6 @@
 title: "Your Book Review: The Mind Of A Bee"
 subtitle: "Finalist #14 In The Book Review Contest (cw: insect pics)"
 date: 2023-08-18
-likes: 187
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136207231/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/afc09471-155f-480b-81d2-4578c2ed6689_1920x1080.webp

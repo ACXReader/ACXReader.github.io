@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Nerds And Hipsters"
 subtitle: "..."
 date: 2023-04-27
-likes: 105
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/115987441/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/ca6879fd-a8a8-497f-8436-e4234c0e8608_640x360.webp

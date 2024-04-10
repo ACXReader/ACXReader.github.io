@@ -2,7 +2,6 @@
 title: "Two Unexpected Multiple Hypothesis Testing Problems"
 subtitle: "That's what people want out of a Substack, right? Multiple hypothesis testing problems?"
 date: 2021-04-06
-likes: 67
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34839701/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf8d10c0-05ed-4325-94ac-65065816e9a0_705x1024.png

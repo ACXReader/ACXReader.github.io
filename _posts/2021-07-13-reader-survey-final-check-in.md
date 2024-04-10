@@ -2,7 +2,6 @@
 title: "Reader Survey Final Check-In"
 subtitle: "..."
 date: 2021-07-13
-likes: 25
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38684663/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e03df3b5-337a-4222-84ac-85366ddf943b_2250x1500.jpeg

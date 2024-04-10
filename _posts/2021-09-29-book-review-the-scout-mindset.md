@@ -2,7 +2,6 @@
 title: "Book Review: The Scout Mindset"
 subtitle: "..."
 date: 2021-09-29
-likes: 151
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/41163009/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/49c78244-2b3b-49d5-ab52-47c5413369f7_644x486.png

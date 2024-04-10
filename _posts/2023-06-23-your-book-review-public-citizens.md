@@ -2,7 +2,6 @@
 title: "Your Book Review: Public Citizens"
 subtitle: "Finalist #6 in the Book Review Contest"
 date: 2023-06-23
-likes: 140
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123352603/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/17194545-5230-4d01-920a-e08e38044289_976x549.jpeg

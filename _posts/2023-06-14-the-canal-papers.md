@@ -2,7 +2,6 @@
 title: "The Canal Papers"
 subtitle: "..."
 date: 2023-06-14
-likes: 207
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123664324/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/7f4b75e3-ea54-407e-805d-da12a56385a8_1080x605.jpeg

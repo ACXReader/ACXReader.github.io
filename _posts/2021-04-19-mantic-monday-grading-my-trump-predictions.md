@@ -2,7 +2,6 @@
 title: "Mantic Monday: Grading My Trump Predictions"
 subtitle: "..."
 date: 2021-04-19
-likes: 96
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35312631/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ccbf57a2-0384-4e4a-892c-1b8634005216_732x549.jpeg

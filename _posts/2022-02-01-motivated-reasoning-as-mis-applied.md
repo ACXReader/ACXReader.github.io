@@ -2,7 +2,6 @@
 title: "Motivated Reasoning As Mis-applied Reinforcement Learning"
 subtitle: "..."
 date: 2022-02-01
-likes: 121
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/46504475/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2d53ef57-5500-4d5d-9b12-d54668f3057b_1280x960.jpeg

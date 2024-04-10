@@ -2,7 +2,6 @@
 title: "Contra Kavanagh On Fideism"
 subtitle: "..."
 date: 2023-02-14
-likes: 382
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/102885079/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/9dbc8c56-6fa5-4a77-81ff-f34527c81dc9_1080x608.png

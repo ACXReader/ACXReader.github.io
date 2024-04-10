@@ -2,7 +2,6 @@
 title: "Justice Creep"
 subtitle: "..."
 date: 2022-03-16
-likes: 248
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/49709750/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d60b325e-a232-4287-9c83-4ede42362623_1024x683.jpeg

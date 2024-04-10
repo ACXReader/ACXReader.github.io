@@ -2,7 +2,6 @@
 title: "Vote In The 2023 Book Review Contest"
 subtitle: "..."
 date: 2023-09-08
-likes: 59
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136858574/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/519e5650-3969-41e3-a4d4-d210a77395d1_2560x1587.jpeg

@@ -2,7 +2,6 @@
 title: "Apply For An ACX Grant (2024)"
 subtitle: "..."
 date: 2023-12-08
-likes: 86
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/138846316/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/31c38237-08af-407b-baa7-16d74bf398e5_1388x896.jpeg

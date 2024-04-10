@@ -2,7 +2,6 @@
 title: "Fact Check: Do All Healthy People Have Mystical Experiences?"
 subtitle: "..."
 date: 2022-12-23
-likes: 184
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/92235108/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/86d60bc4-3aec-4085-bda0-d0a0605342dd_1200x900.webp

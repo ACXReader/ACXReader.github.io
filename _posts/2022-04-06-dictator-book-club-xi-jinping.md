@@ -2,7 +2,6 @@
 title: "Dictator Book Club: Xi Jinping"
 subtitle: "..."
 date: 2022-04-06
-likes: 165
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/51342215/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ea93fb47-1a32-4bbd-bfe5-7550898f457b_531x408.png

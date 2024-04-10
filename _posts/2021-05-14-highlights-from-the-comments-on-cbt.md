@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On CBT-i Apps"
 subtitle: "Including some CBT-i apps that cost less than $899"
 date: 2021-05-14
-likes: 34
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36399568/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ec6a36ce-4e12-4251-99bc-5d083e434af9_2250x1500.webp

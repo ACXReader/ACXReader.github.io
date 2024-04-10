@@ -2,7 +2,6 @@
 title: "Your Book Review: The Outlier"
 subtitle: "Finalist #9 in the Book Review Contest"
 date: 2022-07-08
-likes: 147
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/63203109/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F430675e6-6678-4617-b7e7-844321d20035_930x1280.png

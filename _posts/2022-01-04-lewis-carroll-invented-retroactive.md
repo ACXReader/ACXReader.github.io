@@ -2,7 +2,6 @@
 title: "Lewis Carroll Invented Retroactive Public Goods Funding In 1894"
 subtitle: "..."
 date: 2022-01-04
-likes: 89
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45744238/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0b59e2d2-f2f4-4e35-8236-6cd20d610151_629x430.png

@@ -2,7 +2,6 @@
 title: "2023 Prediction Contest"
 subtitle: "..."
 date: 2022-12-16
-likes: 88
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/91004605/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7d66d6f3-380e-4375-9ee3-b2fbb85de628_1024x1024.png

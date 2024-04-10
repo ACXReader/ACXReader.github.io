@@ -2,7 +2,6 @@
 title: "Raise Your Threshold For Accusing People Of Faking Bisexuality"
 subtitle: "..."
 date: 2023-05-04
-likes: 187
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/118987051/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9912f0d9-cde4-490e-9644-5b844cb506f9_919x577.png

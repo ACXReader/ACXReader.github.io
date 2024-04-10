@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Geography Of Madness"
 subtitle: "Plus: A case for culture-bound mental disorder skepticism"
 date: 2023-02-27
-likes: 99
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/104578961/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/15d7a106-c1d5-4967-906a-35b6423868e5_378x260.webp

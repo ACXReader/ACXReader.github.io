@@ -2,7 +2,6 @@
 title: "Book Review: The Alexander Romance"
 subtitle: "..."
 date: 2023-09-19
-likes: 138
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/116796405/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/054b2dfb-f8a2-45de-ac4c-5c6fcd1f7ff6_635x477.jpeg

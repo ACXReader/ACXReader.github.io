@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Kidney Donation"
 subtitle: "..."
 date: 2023-11-07
-likes: 106
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/138473259/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/2dbddc7e-5335-49fc-addf-294ad9395836_1397x913.png

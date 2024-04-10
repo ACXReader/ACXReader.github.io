@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On \"Don't Look Up\""
 subtitle: "..."
 date: 2022-01-07
-likes: 81
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/46674069/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/087a1ca9-998a-4c16-b92f-ea9973349818_391x259.png

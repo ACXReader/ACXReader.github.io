@@ -2,7 +2,6 @@
 title: "Your Book Review: Are We Smart Enough To Know How Smart Animals Are?"
 subtitle: "Finalist #4 of the book review contest"
 date: 2021-04-22
-likes: 51
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35452135/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/21199549-a476-4387-851b-d4765d0aec17_1200x680.webp

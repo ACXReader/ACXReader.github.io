@@ -2,7 +2,6 @@
 title: "Book Review: The Cult Of Smart"
 subtitle: "Summary and commentary on The Cult Of Smart by Fredrik DeBoer"
 date: 2021-02-18
-likes: 382
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32657034/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/db037b76-eccd-41b0-a4a6-83e83dbe51a4_408x443.png

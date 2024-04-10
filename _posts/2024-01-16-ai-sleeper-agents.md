@@ -2,7 +2,6 @@
 title: "AI Sleeper Agents"
 subtitle: "Machine Alignment Monday 1/15/24"
 date: 2024-01-16
-likes: 170
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140669542/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/8512230a-8a76-4b93-817b-0af5a7f7d55b_1920x1080.jpeg

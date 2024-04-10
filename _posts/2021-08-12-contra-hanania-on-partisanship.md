@@ -2,7 +2,6 @@
 title: "Contra Hanania On Partisanship"
 subtitle: "My one regret is that I can no longer use the \"too many graphs\" tag"
 date: 2021-08-12
-likes: 99
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37799371/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F03152c46-c574-4c2f-8e28-bd810572b408_1069x1017.png

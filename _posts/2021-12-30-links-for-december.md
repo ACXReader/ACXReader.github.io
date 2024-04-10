@@ -2,7 +2,6 @@
 title: "Links For December"
 subtitle: "..."
 date: 2021-12-30
-likes: 63
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/46351268/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f083af1b-96fc-4435-a859-9602c0853ebd_800x533.jpeg

@@ -2,7 +2,6 @@
 title: "Some Unintuitive Properties Of Polygenic Disorders"
 subtitle: "..."
 date: 2024-01-24
-likes: 211
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140920583/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/cc5d5df8-1f8e-428f-a23c-eacae1bedc03_828x466.webp

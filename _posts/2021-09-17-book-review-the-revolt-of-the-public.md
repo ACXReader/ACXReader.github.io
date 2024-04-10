@@ -2,7 +2,6 @@
 title: "Book Review: The Revolt Of The Public"
 subtitle: "..."
 date: 2021-09-17
-likes: 92
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/41442728/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9d0e8a0b-720a-4654-bdcb-5a9b9bb72f9d_1280x908.jpeg

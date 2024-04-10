@@ -2,7 +2,6 @@
 title: "Logistics"
 subtitle: "Don't worry, there will be real posts next week."
 date: 2021-01-22
-likes: 211
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/31783158/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f85785af-a63c-4fa3-99c3-9ce59949584d_427x287.png

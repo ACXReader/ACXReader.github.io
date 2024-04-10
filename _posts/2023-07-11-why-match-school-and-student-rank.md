@@ -2,7 +2,6 @@
 title: "Why Match School And Student Rank?"
 subtitle: "..."
 date: 2023-07-11
-likes: 278
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/133991801/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/635f8c41-f718-49ba-9f48-e5dde607b24e_742x473.jpeg

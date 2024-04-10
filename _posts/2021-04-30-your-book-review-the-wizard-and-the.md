@@ -2,7 +2,6 @@
 title: "Your Book Review: The Wizard And The Prophet"
 subtitle: "Finalist #7 of the book review contest"
 date: 2021-04-30
-likes: 85
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35792583/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85654ac9-0bec-4de4-bd9f-278ee0a75342_1200x800.jpeg

@@ -2,7 +2,6 @@
 title: "Impact Markets: The Annoying Details"
 subtitle: "..."
 date: 2022-07-15
-likes: 54
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/63311485/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8c4f3122-f6e7-4e9a-be1b-06821d1e8977_1020x522.png

@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On The 2020 Homicide Spike"
 subtitle: "..."
 date: 2022-07-08
-likes: 105
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/61807332/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2d7e67a0-2ac8-45cf-9d19-c8209e658e9a_679x382.jpeg

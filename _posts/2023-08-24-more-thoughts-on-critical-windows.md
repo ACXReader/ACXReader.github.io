@@ -2,7 +2,6 @@
 title: "More Thoughts On Critical Windows"
 subtitle: "..."
 date: 2023-08-24
-likes: 126
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136056609/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/051c8b7c-fe93-440b-9c7a-8d8ba02442d9_1000x625.png

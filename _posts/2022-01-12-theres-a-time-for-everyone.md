@@ -2,7 +2,6 @@
 title: "There's A Time For Everyone"
 subtitle: "..."
 date: 2022-01-12
-likes: 590
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44918153/comments?&all_comments=true
 image: https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2201d07f-c04e-49b4-ad13-0fb90effee03_1296x641.jpeg

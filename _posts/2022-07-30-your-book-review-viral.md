@@ -2,7 +2,6 @@
 title: "Your Book Review: Viral"
 subtitle: "Finalist #12 in the Book Review Contest"
 date: 2022-07-30
-likes: 101
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/66306332/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a72ec211-56c2-4bcb-83c2-fbe7c3cdf597_919x792.jpeg

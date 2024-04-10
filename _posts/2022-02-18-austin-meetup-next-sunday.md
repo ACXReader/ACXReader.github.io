@@ -2,7 +2,6 @@
 title: "Austin Meetup Next Sunday"
 subtitle: "..."
 date: 2022-02-18
-likes: 29
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/48999766/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3f583e36-6477-41cb-9f1b-bdb498e210c3_2000x850.jpeg

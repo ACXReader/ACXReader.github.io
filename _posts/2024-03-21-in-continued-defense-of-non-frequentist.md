@@ -2,7 +2,6 @@
 title: "In Continued Defense Of Non-Frequentist Probabilities"
 subtitle: "..."
 date: 2024-03-21
-likes: 185
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140237071/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/d4d4678e-eb84-4169-a997-f760e57e8993_1200x675.jpeg

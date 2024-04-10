@@ -2,7 +2,6 @@
 title: "In Partial Grudging Defense Of Some Aspects Of Therapy Culture"
 subtitle: "..."
 date: 2024-03-15
-likes: 152
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/142438918/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/ab410796-4060-45e1-b7b7-561862dcbc0c_525x328.webp

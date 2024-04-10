@@ -1,7 +1,6 @@
 ---
 title: "Theses On The Current Moment"
 date: 2021-05-12
-likes: 136
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36227347/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/41de84ca-d514-42f2-9c94-eeebe5a9686e_1440x907.jpeg

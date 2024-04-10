@@ -2,7 +2,6 @@
 title: "Links For August"
 subtitle: "..."
 date: 2021-08-18
-likes: 50
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40034615/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7f5d06b8-6744-4a9c-b3b6-500d671276a8_800x533.jpeg

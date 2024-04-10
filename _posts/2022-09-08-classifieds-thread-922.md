@@ -2,7 +2,6 @@
 title: "Classifieds Thread 9/22"
 subtitle: "..."
 date: 2022-09-08
-likes: 43
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/72346723/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4e202cc0-682b-4103-8869-7fdd9df3702e_617x395.png

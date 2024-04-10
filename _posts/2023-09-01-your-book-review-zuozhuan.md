@@ -2,7 +2,6 @@
 title: "Your Book Review: Zuozhuan"
 subtitle: "Finalist #16 in the Book Review Contest"
 date: 2023-09-01
-likes: 122
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123531654/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/d90ae5b2-ede5-4280-b973-941bba1d5a23_635x450.png

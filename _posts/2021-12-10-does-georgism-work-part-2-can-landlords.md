@@ -2,7 +2,6 @@
 title: "Does Georgism Work? Part 2: Can Landlords Pass Land Value Tax on to Tenants?"
 subtitle: "A guest post on Georgism by Lars Doucet"
 date: 2021-12-10
-likes: 69
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45264126/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cf13d401-0c80-4c10-b2a5-6265299b7129_719x511.jpeg

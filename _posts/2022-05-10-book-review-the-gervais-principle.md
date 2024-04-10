@@ -2,7 +2,6 @@
 title: "Book Review: The Gervais Principle"
 subtitle: "..."
 date: 2022-05-10
-likes: 151
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/53275270/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/797a7d2d-0aa1-4c0e-8853-be392aaaeea0_1167x873.png

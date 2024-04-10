@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Billionaire Replaceability"
 subtitle: "..."
 date: 2022-09-22
-likes: 68
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/73290360/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c5a3aa73-8a83-4d1a-8d1b-12a956aa8f13_600x600.jpeg

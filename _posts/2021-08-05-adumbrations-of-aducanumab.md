@@ -2,7 +2,6 @@
 title: "Adumbrations Of Aducanumab"
 subtitle: "Is the FDA too lax? Do bears go to the bathroom in spotless marble-floored lavatories? Is the Pope an Anabaptist?"
 date: 2021-08-05
-likes: 256
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/39483408/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f1def55e-ef15-420b-b577-95f59f3fe281_400x214.png

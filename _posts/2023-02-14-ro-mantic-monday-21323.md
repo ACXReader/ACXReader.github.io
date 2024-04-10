@@ -2,7 +2,6 @@
 title: "Ro-mantic Monday 2/13/23"
 subtitle: "..."
 date: 2023-02-14
-likes: 95
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/102366207/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/90601627-3cbe-4e37-b1f1-a062be04e419_1022x675.png

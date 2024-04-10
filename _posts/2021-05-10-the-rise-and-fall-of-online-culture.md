@@ -2,7 +2,6 @@
 title: "The Rise And Fall Of Online Culture Wars"
 subtitle: "How do Internet atheism and Internet feminism help us understand the current cultural moment?"
 date: 2021-05-10
-likes: 244
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36009805/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1f9676a-9b25-432e-8900-390653e4058f_544x600.jpeg

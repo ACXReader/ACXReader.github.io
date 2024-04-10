@@ -2,7 +2,6 @@
 title: "Peer Review Request: Ketamine"
 subtitle: "Give me feedback on my take on using ketamine for depression"
 date: 2021-07-19
-likes: 40
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38951338/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/dd4853f7-aace-4cd8-b029-ab959248a9ca_448x242.png

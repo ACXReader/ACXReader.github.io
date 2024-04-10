@@ -2,7 +2,6 @@
 title: "ELK And The Problem Of Truthful AI"
 subtitle: "Machine Alignment Monday 7/25/22"
 date: 2022-07-26
-likes: 107
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/50046004/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F44f7c660-44b2-4f75-b881-bb86699f39fa_1024x1024.png

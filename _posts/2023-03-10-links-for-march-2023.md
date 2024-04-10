@@ -2,7 +2,6 @@
 title: "Links For March 2023"
 subtitle: "..."
 date: 2023-03-10
-likes: 123
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/106497294/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/0999da2b-b25d-4063-a80f-118ab9e0b00c_800x533.jpeg

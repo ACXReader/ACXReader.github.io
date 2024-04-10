@@ -2,7 +2,6 @@
 title: "Willpower, Human and Machine"
 subtitle: "..."
 date: 2022-05-23
-likes: 74
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/54933434/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b3c19715-af0e-4bee-86bb-1cd7444a7f4a_680x510.jpeg

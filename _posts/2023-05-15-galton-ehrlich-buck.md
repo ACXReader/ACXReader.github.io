@@ -2,7 +2,6 @@
 title: "Galton, Ehrlich, Buck"
 subtitle: "An exploding generational bomb"
 date: 2023-05-15
-likes: 290
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/98798276/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/f4893619-7694-475f-8ade-640aae923f04_191x153.jpeg

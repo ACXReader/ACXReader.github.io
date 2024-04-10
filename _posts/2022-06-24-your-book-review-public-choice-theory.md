@@ -2,7 +2,6 @@
 title: "Your Book Review: Public Choice Theory And The Illusion Of Grand Strategy"
 subtitle: "Finalist #7 In The Book Review Contest"
 date: 2022-06-24
-likes: 78
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/60978211/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8f73b339-5d1f-4c61-91e1-1e36195a4b30_405x286.png

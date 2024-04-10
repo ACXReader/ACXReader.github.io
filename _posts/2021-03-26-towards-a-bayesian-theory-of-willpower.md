@@ -2,7 +2,6 @@
 title: "Toward A Bayesian Theory Of Willpower"
 subtitle: "P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary."
 date: 2021-03-26
-likes: 134
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34351219/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7fae5227-235b-4da9-b67f-cf2b536d850a_650x437.jpeg

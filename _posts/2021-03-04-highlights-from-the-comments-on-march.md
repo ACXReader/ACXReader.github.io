@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On March Links"
 subtitle: "..."
 date: 2021-03-04
-likes: 55
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/33234230/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0e86e93f-9e10-41f2-a207-afcef5a02b82_433x259.png

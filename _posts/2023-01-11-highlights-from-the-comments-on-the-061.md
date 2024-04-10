@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On The Media Very Rarely Lying"
 subtitle: "..."
 date: 2023-01-11
-likes: 137
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/95389176/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/7d2e014b-b1fd-4730-b663-4b316a36bd68_336x189.webp

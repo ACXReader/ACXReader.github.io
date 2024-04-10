@@ -2,7 +2,6 @@
 title: "Book Review: Fussell On Class"
 subtitle: "Summary and commentary on Paul Fussell's \"Class: A Guide Through The American Status System\""
 date: 2021-02-24
-likes: 222
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32863465/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2f5f63a8-fd0b-4c99-be08-416ccb534a06_770x515.jpeg

@@ -2,7 +2,6 @@
 title: "Kids Can Recover From Missing Even Quite A Lot Of School"
 subtitle: "..."
 date: 2021-08-17
-likes: 102
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38612249/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8fb4691f-1005-4ab6-b508-eea2f148bc09_960x640.webp

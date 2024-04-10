@@ -2,7 +2,6 @@
 title: "Quests And Requests"
 subtitle: "Projects that need incubating"
 date: 2023-11-03
-likes: 125
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/138508657/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/00d1b4d4-b3e2-4895-9fbf-362a767da030_492x319.png

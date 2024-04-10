@@ -2,7 +2,6 @@
 title: "Links For April"
 subtitle: "..."
 date: 2022-04-14
-likes: 66
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/51761264/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/26530fb1-c3a0-48cd-a5f1-3b3f198f0533_800x533.jpeg

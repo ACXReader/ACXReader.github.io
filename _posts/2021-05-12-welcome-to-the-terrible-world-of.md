@@ -2,7 +2,6 @@
 title: "Welcome To The Terrible World Of Prescription-Only Apps"
 subtitle: "You can get GHB on the darknet for $20, but learning healthy sleep habits is $899 and by prescription only"
 date: 2021-05-12
-likes: 123
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36087892/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85301bcd-495f-4b60-b44e-f352d0f46515_2250x1500.webp

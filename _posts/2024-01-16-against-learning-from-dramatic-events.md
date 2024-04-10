@@ -2,7 +2,6 @@
 title: "Against Learning From Dramatic Events"
 subtitle: "..."
 date: 2024-01-16
-likes: 283
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140135906/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/bd76bceb-0771-4e60-bbe3-ae06c461ca4e_3000x1688.jpeg

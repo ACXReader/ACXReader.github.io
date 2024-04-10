@@ -2,7 +2,6 @@
 title: "The Extinction Tournament"
 subtitle: "..."
 date: 2023-07-20
-likes: 138
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/134996398/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/9a353b82-9f14-4076-85fd-2d40119152d3_3100x2325.jpeg

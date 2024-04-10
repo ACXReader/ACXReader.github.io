@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Motivated Reasoning And Reinforcement Learning"
 subtitle: "..."
 date: 2022-02-11
-likes: 34
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/48285380/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/83e12a5a-c404-4fe3-b039-13a428458942_680x510.jpeg

@@ -2,7 +2,6 @@
 title: "Why Do I Suck?"
 subtitle: "Speculations on a surprisingly popular question"
 date: 2022-02-02
-likes: 255
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/47927663/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/45e4f023-5af7-4bd7-bbf1-c2559ac4f77b_800x461.webp

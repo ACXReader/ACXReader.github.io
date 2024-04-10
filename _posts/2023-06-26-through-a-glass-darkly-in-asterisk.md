@@ -2,7 +2,6 @@
 title: "\"Through A Glass Darkly\" In Asterisk Magazine"
 subtitle: "..."
 date: 2023-06-26
-likes: 70
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/131243513/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/38c0804c-cba9-4346-b039-74848e921fcf_1350x788.png

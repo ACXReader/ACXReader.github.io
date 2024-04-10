@@ -2,7 +2,6 @@
 title: "Announcing Forecasting Impact Mini-Grants"
 subtitle: "..."
 date: 2023-02-24
-likes: 63
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/103936664/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/0fd62e2b-94e7-4a8f-ab72-613a07bafa97_674x505.png

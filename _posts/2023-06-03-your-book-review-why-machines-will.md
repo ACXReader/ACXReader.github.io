@@ -2,7 +2,6 @@
 title: "Your Book Review: Why Machines Will Never Rule the World"
 subtitle: "Finalist #3 in the Book Review Contest"
 date: 2023-06-03
-likes: 170
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123527301/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/0429f7b4-63dd-406d-84a7-eaa0cc8d21fd_1000x667.jpeg

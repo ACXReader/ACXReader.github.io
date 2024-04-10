@@ -2,7 +2,6 @@
 title: "Links For November 2023"
 subtitle: "..."
 date: 2023-12-01
-likes: 124
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/139159477/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/b0f8a467-1216-443d-99ba-c59351e373cb_800x533.jpeg

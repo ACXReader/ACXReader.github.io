@@ -2,7 +2,6 @@
 title: "Spring Meetups Everywhere 2024 - Call For Organizers"
 subtitle: "..."
 date: 2024-03-08
-likes: 39
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/142219185/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4993e289-9046-4088-94c0-90126b7c2ca1_1000x667.jpeg

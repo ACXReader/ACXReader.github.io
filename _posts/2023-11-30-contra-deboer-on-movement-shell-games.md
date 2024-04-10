@@ -2,7 +2,6 @@
 title: "Contra DeBoer On Movement Shell Games"
 subtitle: "\"Lots of alcoholics want to quit in principle, but only some join AA\""
 date: 2023-11-30
-likes: 213
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/139256021/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/88ed6b71-8b6a-4bcb-80b3-fee6b833ef4d_2048x1365.jpeg

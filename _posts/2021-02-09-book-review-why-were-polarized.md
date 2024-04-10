@@ -2,7 +2,6 @@
 title: "Book Review: Why We're Polarized"
 subtitle: "\"Why We're Polarized\", by Ezra Klein"
 date: 2021-02-09
-likes: 128
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32376959/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cb517171-60a9-49ae-b4ca-516e85cf3689_1024x503.jpeg

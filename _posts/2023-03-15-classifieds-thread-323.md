@@ -2,7 +2,6 @@
 title: "Classifieds Thread 3/23"
 subtitle: "..."
 date: 2023-03-15
-likes: 49
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/108507802/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/27e51059-95c8-4fc4-888d-278efbd87134_617x395.png

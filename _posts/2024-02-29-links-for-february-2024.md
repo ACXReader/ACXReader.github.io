@@ -2,7 +2,6 @@
 title: "Links For February 2024"
 subtitle: "..."
 date: 2024-02-29
-likes: 109
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/141921067/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/9e5c4a69-ce92-46b8-85f5-b7629151cfa0_686x386.jpeg

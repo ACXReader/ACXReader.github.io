@@ -2,7 +2,6 @@
 title: "Grading My 2021 Predictions"
 subtitle: "..."
 date: 2022-01-24
-likes: 86
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/47548732/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/34e5bc74-cd04-4bec-88b0-8c08cadb525f_1244x750.png

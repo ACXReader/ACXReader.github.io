@@ -2,7 +2,6 @@
 title: "How Do AIs' Political Opinions Change As They Get Smarter And Better-Trained?"
 subtitle: "Future Matrioshka brains will be pro-immigration Buddhist gun nuts."
 date: 2023-01-03
-likes: 183
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/93065437/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4a006a02-49a9-48cf-8ffa-adbc18e56887_511x328.png

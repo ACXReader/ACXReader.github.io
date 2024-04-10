@@ -2,7 +2,6 @@
 title: "Book Review: Elon Musk"
 subtitle: "Not the new one, sorry"
 date: 2023-09-13
-likes: 317
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136923606/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/77c48c83-0745-4451-90ec-ba80c73fa53b_1101x781.png

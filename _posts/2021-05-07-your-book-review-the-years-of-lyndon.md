@@ -2,7 +2,6 @@
 title: "Your Book Review: The Years Of Lyndon Johnson"
 subtitle: "Finalist #9 of the Book Review Contest"
 date: 2021-05-07
-likes: 61
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36173310/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ffe21fd1-a036-47ea-b161-a8884b3dbaa5_800x450.jpeg

@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On The Central Valley"
 subtitle: "..."
 date: 2022-10-13
-likes: 61
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/74680368/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d274736f-a638-4dd2-8f0d-3ab2b17e79ee_679x382.jpeg

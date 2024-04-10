@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Dating Preferences"
 subtitle: "..."
 date: 2023-08-24
-likes: 96
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136214417/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/1e101458-6952-4730-9da1-eb6be64cde0a_320x213.webp

@@ -2,7 +2,6 @@
 title: "ACX Grants Results 2024"
 subtitle: "..."
 date: 2024-02-10
-likes: 137
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/141192754/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/37daf73c-a572-465d-9b6e-6d19d4cfdc2d_1388x896.jpeg

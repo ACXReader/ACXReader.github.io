@@ -2,7 +2,6 @@
 title: "Please Don't Give Up On Having Kids Because Of Climate Change"
 subtitle: "It will probably make things worse, and there are better ways to contribute"
 date: 2021-10-11
-likes: 206
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/39944722/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85455845-d49e-46c7-9f78-a691895df5e9_768x432.jpeg

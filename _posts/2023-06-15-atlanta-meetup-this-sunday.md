@@ -2,7 +2,6 @@
 title: "Atlanta Meetup This Sunday"
 subtitle: "..."
 date: 2023-06-15
-likes: 17
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/128355407/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/595cd896-b289-4dfa-87cb-4eb002df3731_1400x933.jpeg

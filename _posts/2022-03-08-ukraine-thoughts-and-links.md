@@ -2,7 +2,6 @@
 title: "Ukraine Thoughts And Links"
 subtitle: "..."
 date: 2022-03-08
-likes: 67
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/49910542/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a08d7338-2213-42be-9250-acdc9f586327_1944x1358.jpeg

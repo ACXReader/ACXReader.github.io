@@ -2,7 +2,6 @@
 title: "SSC Survey Results On Schooling Types"
 subtitle: "..."
 date: 2023-01-18
-likes: 106
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/92247960/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/1c441f48-197c-4ceb-9342-75e399e9cff1_960x500.webp

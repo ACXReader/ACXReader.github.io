@@ -2,7 +2,6 @@
 title: "X Fact Check: Does Gender Integration Moderate Politics?"
 subtitle: "..."
 date: 2024-02-15
-likes: 139
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/141266255/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/8d4808c2-97e3-4b10-944f-8dde66ad2425_248x136.png

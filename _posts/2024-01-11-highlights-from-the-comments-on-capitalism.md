@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Capitalism & Charity"
 subtitle: "..."
 date: 2024-01-11
-likes: 98
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140570701/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/9b45d6b1-eebb-4217-9197-a36b2832f831_1792x1024.webp

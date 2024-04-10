@@ -2,7 +2,6 @@
 title: "Contra The xAI Alignment Plan"
 subtitle: "Machine Alignment Monday 7/17/23"
 date: 2023-07-17
-likes: 189
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135082971/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/2662686a-845b-4786-85d3-d826bc520f46_321x195.png

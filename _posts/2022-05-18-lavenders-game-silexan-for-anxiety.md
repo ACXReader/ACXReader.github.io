@@ -2,7 +2,6 @@
 title: "Lavender's Game: Silexan For Anxiety"
 subtitle: "..."
 date: 2022-05-18
-likes: 154
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/53352199/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/68d1dbfb-c939-41c8-a0f3-1e8dabd83a5f_2000x1417.webp

@@ -2,7 +2,6 @@
 title: "Still Alive"
 subtitle: "You just keep on trying till you run out of cake"
 date: 2021-01-21
-likes: 1,197
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/31751211/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c6711968-876b-4c79-ba53-5a6f9c60e338_920x720.jpeg

@@ -2,7 +2,6 @@
 title: "Yudkowsky Contra Christiano On AI Takeoff Speeds"
 subtitle: "..."
 date: 2022-04-04
-likes: 83
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/49755960/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b8ed3ac3-b76b-4b6b-947a-8161429e266f_2753x1590.jpeg

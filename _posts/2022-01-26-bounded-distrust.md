@@ -2,7 +2,6 @@
 title: "Bounded Distrust"
 subtitle: "..."
 date: 2022-01-26
-likes: 325
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44695804/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8b31ecc0-e55c-4656-9462-ee0d540de741_696x454.png

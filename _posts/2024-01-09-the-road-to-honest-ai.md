@@ -2,7 +2,6 @@
 title: "The Road To Honest AI"
 subtitle: "Can blob fish dance ballet under diagonally fried cucumbers made of dust storms?"
 date: 2024-01-09
-likes: 199
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140247041/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/2ec2dacc-bce2-4e2f-9d26-28d19435ba54_1000x1000.webp

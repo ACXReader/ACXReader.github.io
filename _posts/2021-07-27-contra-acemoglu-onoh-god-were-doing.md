@@ -2,7 +2,6 @@
 title: "Contra Acemoglu On...Oh God, We're Doing This Again, Aren't We?"
 subtitle: "Another popular article against AI concerns"
 date: 2021-07-27
-likes: 126
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/39168323/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9b519e58-91d3-4936-be63-6d7f380a2bb4_1200x673.webp

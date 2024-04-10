@@ -2,7 +2,6 @@
 title: "Does Georgism Work? Part 1: Is Land Really A Big Deal?"
 subtitle: "A guest post on Georgism by Lars Doucet"
 date: 2021-12-09
-likes: 122
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45001939/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6fa167d5-b397-4595-929e-8e133d5ebe9b_719x511.jpeg

@@ -2,7 +2,6 @@
 title: "Your Book Review: Consciousness And The Brain"
 subtitle: "Finalist #1 of the Book Review Contest"
 date: 2022-05-13
-likes: 126
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/54821121/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3258c9bf-27df-46e3-a1d1-451d0bcc5baa_630x435.png

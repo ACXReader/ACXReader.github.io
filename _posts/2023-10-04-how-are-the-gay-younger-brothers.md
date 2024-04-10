@@ -2,7 +2,6 @@
 title: "How Are The Gay Younger Brothers Doing?"
 subtitle: "..."
 date: 2023-10-04
-likes: 103
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136681323/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/f064c5b9-d1c6-46ed-848e-11811773fecb_1200x800.jpeg

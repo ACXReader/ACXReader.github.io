@@ -2,7 +2,6 @@
 title: "(Outdoor, Careful) Meetups Everywhere 2021 - Seeking Organizers"
 subtitle: "Please volunteer to host a meetup in your city later this summer"
 date: 2021-08-10
-likes: 40
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/39745502/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e7e7a15d-3633-493d-b181-db65491dcca0_1000x667.jpeg

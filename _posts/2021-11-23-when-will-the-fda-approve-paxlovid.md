@@ -2,7 +2,6 @@
 title: "When Will The FDA Approve Paxlovid?"
 subtitle: "..."
 date: 2021-11-23
-likes: 115
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44337674/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2112781e-3f32-43f0-a1c2-a3ca5a1c6729_919x792.jpeg

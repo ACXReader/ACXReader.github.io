@@ -2,7 +2,6 @@
 title: "Links For April 2023"
 subtitle: "..."
 date: 2023-04-20
-likes: 116
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/115497338/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4cb892e8-dddf-40c9-a53e-511fe147aab1_800x533.jpeg

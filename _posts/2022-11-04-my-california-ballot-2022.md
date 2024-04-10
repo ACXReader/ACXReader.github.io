@@ -2,7 +2,6 @@
 title: "My California Ballot 2022"
 subtitle: "..."
 date: 2022-11-04
-likes: 122
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/80091555/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/388827de-c913-4e88-a096-befd696f35cb_578x422.png

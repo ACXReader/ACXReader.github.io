@@ -2,7 +2,6 @@
 title: "OpenAI's \"Planning For AGI And Beyond\""
 subtitle: "..."
 date: 2023-03-01
-likes: 202
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/104927790/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/872388d1-f75c-4854-8ba2-13e6df232433_1400x772.jpeg

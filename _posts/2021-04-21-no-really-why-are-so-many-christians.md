@@ -2,7 +2,6 @@
 title: "No, Really, Why Are So Many Christians In Colombia Converting To Orthodox Judaism?"
 subtitle: "..."
 date: 2021-04-21
-likes: 147
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35275108/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7438841e-58b9-4c9a-a5ee-05132fbc273d_1200x967.jpeg

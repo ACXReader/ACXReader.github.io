@@ -2,7 +2,6 @@
 title: "Two Small Corrections And Updates"
 subtitle: "..."
 date: 2022-02-08
-likes: 15
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/48422514/comments?&all_comments=true
 image: None

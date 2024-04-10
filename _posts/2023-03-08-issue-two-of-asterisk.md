@@ -2,7 +2,6 @@
 title: "Issue Two Of Asterisk"
 subtitle: "..."
 date: 2023-03-08
-likes: 65
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/107096145/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/a46bf1f5-b4ed-465a-88e4-73b8a3cf0008_1346x775.png

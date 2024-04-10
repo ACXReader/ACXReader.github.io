@@ -2,7 +2,6 @@
 title: "Open Thread 193 + Berlin/Paris Meetups This Weekend"
 subtitle: "..."
 date: 2021-10-07
-likes: 18
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/42319358/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b5d16e6c-700f-4a01-9b88-e172854c41e1_1113x701.png

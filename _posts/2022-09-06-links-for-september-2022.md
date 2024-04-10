@@ -2,7 +2,6 @@
 title: "Links For September 2022"
 subtitle: "..."
 date: 2022-09-06
-likes: 79
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/70949776/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/43de0fc9-3f10-4928-acdd-310ff4c13562_800x533.jpeg

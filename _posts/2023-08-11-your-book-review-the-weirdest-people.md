@@ -2,7 +2,6 @@
 title: "Your Book Review: The Weirdest People in the World"
 subtitle: "Finalist #13 in the Book Review Contest"
 date: 2023-08-11
-likes: 136
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123524461/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/740d2fc3-a510-4375-b775-11d6e0366e6e_900x750.jpeg

@@ -2,7 +2,6 @@
 title: "Metaculus Monday 2/8/21"
 subtitle: "Two more prediction markets, plus AI"
 date: 2021-02-08
-likes: 62
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32257019/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/64c0705b-004a-4b01-861b-a00c1513fb5e_248x248.png

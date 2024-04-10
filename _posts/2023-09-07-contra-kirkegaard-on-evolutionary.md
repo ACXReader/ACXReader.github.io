@@ -2,7 +2,6 @@
 title: "Contra Kirkegaard On Evolutionary Definitions Of Mental Illness"
 subtitle: "..."
 date: 2023-09-07
-likes: 216
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136470301/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/357451db-10d4-4564-84d2-0e126c66d646_315x181.jpeg

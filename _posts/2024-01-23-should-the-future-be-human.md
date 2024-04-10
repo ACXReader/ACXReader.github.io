@@ -2,7 +2,6 @@
 title: "Should The Future Be Human?"
 subtitle: "Machine Alignment Monday 1/22/24"
 date: 2024-01-23
-likes: 230
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140915400/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/75ba6c5c-4d06-4958-b3bd-7177fc735f86_1792x1024.webp

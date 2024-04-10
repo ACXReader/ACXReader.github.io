@@ -2,7 +2,6 @@
 title: "Grading My 2018 Predictions For 2023"
 subtitle: "..."
 date: 2023-02-20
-likes: 141
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/103718826/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/756c01a1-eade-4a2a-b3dc-810dd5226399_800x600.jpeg

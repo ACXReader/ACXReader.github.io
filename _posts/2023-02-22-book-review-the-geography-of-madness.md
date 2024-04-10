@@ -2,7 +2,6 @@
 title: "Book Review: The Geography Of Madness"
 subtitle: "..."
 date: 2023-02-22
-likes: 354
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/102517490/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/76955b76-1b4a-4653-878f-d094e8358d91_378x260.png

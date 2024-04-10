@@ -2,7 +2,6 @@
 title: "Model City Monday 12/6/21"
 subtitle: "How sinister do you have to be before you get to call your volcano-based structure a \"volcano lair\"?"
 date: 2021-12-06
-likes: 38
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45047366/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23a32c5f-3a13-40d3-963c-09f664f6bab0_320x214.jpeg

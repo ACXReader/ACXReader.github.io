@@ -2,7 +2,6 @@
 title: "Updated Look At Long-Term AI Risks"
 subtitle: "..."
 date: 2021-07-30
-likes: 38
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/39391774/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d8d04f76-f10d-43c0-809e-707f83cf290a_1200x673.webp

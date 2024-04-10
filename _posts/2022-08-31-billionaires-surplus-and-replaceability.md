@@ -2,7 +2,6 @@
 title: "Billionaires, Surplus, And Replaceability"
 subtitle: "..."
 date: 2022-08-31
-likes: 198
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/68526927/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/616f8b93-2090-4d3b-b3fe-136fb2bff23e_1024x1024.png

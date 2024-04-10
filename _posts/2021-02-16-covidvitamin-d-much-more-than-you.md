@@ -2,7 +2,6 @@
 title: "COVID/Vitamin D: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2021-02-16
-likes: 161
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32614906/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/944b5064-3f42-4eec-b854-6a77256f0156_474x291.jpeg

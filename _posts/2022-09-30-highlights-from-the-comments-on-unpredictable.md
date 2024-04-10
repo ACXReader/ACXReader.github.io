@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Unpredictable Reward"
 subtitle: "..."
 date: 2022-09-30
-likes: 65
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/73764265/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e1d963a8-579c-4aa8-94e1-bb10c6f46b86_680x428.jpeg

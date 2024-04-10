@@ -2,7 +2,6 @@
 title: "Davidson On Takeoff Speeds"
 subtitle: "Machine Alignment Monday 6/19/23"
 date: 2023-06-20
-likes: 103
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/127386375/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/84ca7dbd-95ce-47bc-9f41-66727021ca8c_393x249.png

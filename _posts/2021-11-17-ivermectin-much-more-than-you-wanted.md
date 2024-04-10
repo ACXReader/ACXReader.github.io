@@ -2,7 +2,6 @@
 title: "Ivermectin: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2021-11-17
-likes: 400
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/43667275/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f2bf1ed1-cac8-43ee-8c41-ce46d99884a5_990x470.png

@@ -2,7 +2,6 @@
 title: "Stage 2 Of Prediction Contest"
 subtitle: "..."
 date: 2023-01-10
-likes: 40
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/95684776/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/5528f33e-fbed-429e-8219-9882bae65cc5_255x255.webp
@@ -18,19 +17,7 @@ Stage 2 (“Full Mode”) is now upon us! Your job is now to use any resources y
 
   * **Prediction markets and forecasting tournaments on these questions**. It’s not worth copying these verbatim - their management will be submitting their own entries, and if they win I’ll credit it to them and not you - but you can use them as resources or a place to start.
 
-  * **The 3295 blind mode answers**. You can get them as an XLSX at 
-
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fattachment_icon.svg)
-
-2023blindmode Predictions
-
-1.81MB ∙ XLSX file
-
-[Download](https://astralcodexten.substack.com/api/v1/file/023d3c3b-2e11-4bff-b59a-ebac46dc9f23.xlsx)
-
-[Download](https://astralcodexten.substack.com/api/v1/file/023d3c3b-2e11-4bff-b59a-ebac46dc9f23.xlsx)
-
-or [http://slatestarcodex.com/Stuff/2023blindmode_predictions.xlsx](https://slatestarcodex.com/Stuff/2023blindmode_predictions.xlsx) , or get them as a .csv at [http://slatestarcodex.com/Stuff/2023blindmode_predictions.csv](https://slatestarcodex.com/Stuff/2023blindmode_predictions.csv) . Feel free to take the average or otherwise run fancy aggregation algorithms on them. When respondents gave permission, I included their ACX Survey answers. If you want to double-weight people with PhDs, or exclude all Australians, or test whether forecasting accuracy is correlated with how vividly people dream, now you have the data you need.[ ](http://slatestarcodex.com/Stuff/2023blindmode_predictions.xlsx)
+  * **The 3295 blind mode answers**. Feel free to take the average or otherwise run fancy aggregation algorithms on them. When respondents gave permission, I included their ACX Survey answers. If you want to double-weight people with PhDs, or exclude all Australians, or test whether forecasting accuracy is correlated with how vividly people dream, now you have the data you need.[ ](http://slatestarcodex.com/Stuff/2023blindmode_predictions.xlsx)
 
 
 

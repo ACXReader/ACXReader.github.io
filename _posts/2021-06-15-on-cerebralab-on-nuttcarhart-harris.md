@@ -2,7 +2,6 @@
 title: "On Cerebralab On Nutt/Carhart-Harris On Serotonin"
 subtitle: "..."
 date: 2021-06-15
-likes: 61
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37603831/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/41b1a567-2911-4003-809b-8f97aec2fcfa_900x681.jpeg

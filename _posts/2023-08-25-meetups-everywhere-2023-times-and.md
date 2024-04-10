@@ -2,7 +2,6 @@
 title: "Meetups Everywhere 2023: Times & Places"
 subtitle: "..."
 date: 2023-08-25
-likes: 36
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136380189/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/f45955be-e7f7-4533-8a54-755aa49c7496_1000x667.jpeg

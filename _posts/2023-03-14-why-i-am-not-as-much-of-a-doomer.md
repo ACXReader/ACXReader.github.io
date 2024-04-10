@@ -2,7 +2,6 @@
 title: "Why I Am Not (As Much Of) A Doomer (As Some People)"
 subtitle: "Machine Alignment Monday 3/13/23"
 date: 2023-03-14
-likes: 207
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/107848270/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/ccd10d99-c3f3-4c7f-bde5-5467e0296c29_1600x900.jpeg

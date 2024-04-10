@@ -2,7 +2,6 @@
 title: "The Government Is Making Telemedicine Hard And Inconvenient Again"
 subtitle: "..."
 date: 2023-03-29
-likes: 251
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/111379839/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/afcd81bb-d26a-4a91-88d1-d44a69bb0c6a_3450x1946.webp

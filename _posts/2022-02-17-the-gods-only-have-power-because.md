@@ -2,7 +2,6 @@
 title: "The Gods Only Have Power Because We Believe In Them"
 subtitle: "..."
 date: 2022-02-17
-likes: 211
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/48716400/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/dcf7f198-4628-45e4-ba59-3b00b5bc9f2f_1096x805.jpeg

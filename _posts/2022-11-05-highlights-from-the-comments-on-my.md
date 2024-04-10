@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On My California Ballot"
 subtitle: "Plus: my Oakland ballot"
 date: 2022-11-05
-likes: 57
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/82674929/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5423df6c-f795-4b0e-9a6c-69a8c839c476_604x422.jpeg

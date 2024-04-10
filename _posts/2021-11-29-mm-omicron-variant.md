@@ -2,7 +2,6 @@
 title: "MM: Omicron Variant"
 subtitle: "..."
 date: 2021-11-29
-likes: 88
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44709115/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6ad35bcc-4f88-4637-9461-7f4acb0455e5_919x792.jpeg

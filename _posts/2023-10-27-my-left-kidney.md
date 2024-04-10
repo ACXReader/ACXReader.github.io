@@ -2,7 +2,6 @@
 title: "My Left Kidney"
 subtitle: "..."
 date: 2023-10-27
-likes: 514
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136660465/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/e6535d36-6786-4136-bbf5-3805a8f872ea_1397x913.png

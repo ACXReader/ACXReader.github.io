@@ -2,7 +2,6 @@
 title: "Carbon Costs Quantified"
 subtitle: "..."
 date: 2021-08-25
-likes: 56
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40347952/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ecf2e2db-a771-401e-b2a2-175fe794c73d_550x422.jpeg

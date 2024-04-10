@@ -2,7 +2,6 @@
 title: "ACX Classifieds 9/23"
 subtitle: "..."
 date: 2023-09-21
-likes: 56
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/137252614/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/b96f4703-1401-40bc-b365-d67c73868da4_617x395.png

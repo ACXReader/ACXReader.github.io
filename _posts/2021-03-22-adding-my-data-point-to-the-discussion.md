@@ -2,7 +2,6 @@
 title: "Adding My Data Point To The Discussion Of Substack Advances"
 subtitle: "..."
 date: 2021-03-22
-likes: 156
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34174081/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/007ca99c-b2f2-4c71-ab40-221c1e34a361_1000x1000.png

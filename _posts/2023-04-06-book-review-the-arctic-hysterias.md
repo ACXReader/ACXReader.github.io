@@ -2,7 +2,6 @@
 title: "Book Review: The Arctic Hysterias"
 subtitle: "..."
 date: 2023-04-06
-likes: 176
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/109325851/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4ec7b015-7c80-4020-951c-4f1980ffebc3_1067x800.webp

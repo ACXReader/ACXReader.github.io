@@ -2,7 +2,6 @@
 title: "Ukraine Warcasting"
 subtitle: "Predictions, market accountability, pundit accountability"
 date: 2022-03-01
-likes: 113
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/49526673/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/abe54fa9-d868-4d8a-912b-f6ce1dfcf1f2_275x183.png

@@ -2,7 +2,6 @@
 title: "Selection Bias Is A Fact Of Life, Not An Excuse For Rejecting Internet Surveys"
 subtitle: "..."
 date: 2022-12-27
-likes: 230
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/93247624/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/95ed4637-4ded-4e06-8cd8-fbf7ecd71867_284x177.jpeg

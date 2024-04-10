@@ -2,7 +2,6 @@
 title: "Why Do People Prefer My Old Blog's Layout To Substack's?"
 subtitle: "..."
 date: 2022-05-04
-likes: 98
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/49763926/comments?&all_comments=true
 image: https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F55dc064c-d777-4776-a806-01e762dc1212_1405x787.png

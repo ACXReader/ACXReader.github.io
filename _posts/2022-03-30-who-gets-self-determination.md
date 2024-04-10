@@ -2,7 +2,6 @@
 title: "Who Gets Self-Determination?"
 subtitle: "..."
 date: 2022-03-30
-likes: 171
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/51096603/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3fe4994f-f1e2-4691-92c5-44f8e8af33e8_1430x645.jpeg

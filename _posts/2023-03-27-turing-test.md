@@ -2,7 +2,6 @@
 title: "Turing Test"
 subtitle: "..."
 date: 2023-03-27
-likes: 537
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/105971999/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4669b515-dcf0-4851-8523-ad8ada07bde9_895x508.png

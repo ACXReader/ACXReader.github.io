@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Long COVID And Bisexuality"
 subtitle: "..."
 date: 2023-05-11
-likes: 59
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/120384485/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/cbb39126-8dc4-44c4-a870-c8b7bf2a97e8_320x179.webp

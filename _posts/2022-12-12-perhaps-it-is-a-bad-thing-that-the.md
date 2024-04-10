@@ -2,7 +2,6 @@
 title: "Perhaps It Is A Bad Thing That The World's Leading AI Companies Cannot Control Their AIs"
 subtitle: "..."
 date: 2022-12-12
-likes: 362
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/89872533/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0484a62e-4fb0-4bff-afae-9818b71a58fc_448x271.png

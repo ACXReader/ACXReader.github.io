@@ -2,7 +2,6 @@
 title: "On Hreha On Behavioral Economics"
 subtitle: "..."
 date: 2021-08-30
-likes: 107
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40639720/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7134c2c3-1b3c-439a-beea-d7cd1d96ae79_599x469.png

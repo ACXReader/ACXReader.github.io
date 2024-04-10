@@ -2,7 +2,6 @@
 title: "Your Book Review: Exhaustion"
 subtitle: "Finalist #13 in the Book Review Contest"
 date: 2022-08-05
-likes: 79
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/67331648/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e39e8bd0-1921-4962-8c2f-0f1cae4525b8_662x348.webp

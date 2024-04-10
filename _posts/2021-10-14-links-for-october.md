@@ -2,7 +2,6 @@
 title: "Links For October"
 subtitle: "..."
 date: 2021-10-14
-likes: 64
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/42248551/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a7dfc0e6-b3f7-43a6-b835-e6adce57d04c_800x533.jpeg

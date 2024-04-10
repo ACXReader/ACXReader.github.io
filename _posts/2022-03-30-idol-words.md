@@ -2,7 +2,6 @@
 title: "Idol Words"
 subtitle: "..."
 date: 2022-03-30
-likes: 375
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/50796763/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d7e1e092-f5e5-4d23-a7ba-47a763348a03_524x368.png

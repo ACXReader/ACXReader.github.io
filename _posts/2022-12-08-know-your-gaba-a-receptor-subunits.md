@@ -2,7 +2,6 @@
 title: "Know Your GABA-A Receptor Subunits"
 subtitle: "..."
 date: 2022-12-08
-likes: 85
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/75521744/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4b5db260-3c3d-4364-b48c-83b5273644da_490x282.png

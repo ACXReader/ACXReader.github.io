@@ -2,7 +2,6 @@
 title: "Spring Meetups Everywhere 2023"
 subtitle: "..."
 date: 2023-04-10
-likes: 37
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/113930946/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/da1e7e38-f78c-44aa-9f69-f19f27881c9b_1000x667.jpeg

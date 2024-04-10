@@ -2,7 +2,6 @@
 title: "ACX Grants ++: The Second Half"
 subtitle: "..."
 date: 2022-02-10
-likes: 24
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/48145304/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6f148fbe-a5ff-48e7-8018-8f552c435c0b_1344x828.jpeg

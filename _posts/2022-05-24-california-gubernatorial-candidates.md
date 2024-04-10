@@ -2,7 +2,6 @@
 title: "California Gubernatorial Candidates From Z to Z"
 subtitle: "..."
 date: 2022-05-24
-likes: 197
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/56015946/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7ab4b6f5-ea81-4100-8003-242d610f84a2_680x453.png

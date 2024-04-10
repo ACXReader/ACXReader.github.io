@@ -2,7 +2,6 @@
 title: "Your Book Review: The Society Of The Spectacle"
 subtitle: "Finalist #11 in the Book Review Contest"
 date: 2022-07-22
-likes: 104
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/65242740/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/51f96169-bf2b-4286-a3b6-66da001966ad_1024x1024.png

@@ -2,7 +2,6 @@
 title: "Book Review Contest 2023 Winners"
 subtitle: "..."
 date: 2023-09-15
-likes: 160
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/137077473/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/fdcf78ec-8f7c-4e37-8ea2-9eafa726ee33_2560x1587.jpeg

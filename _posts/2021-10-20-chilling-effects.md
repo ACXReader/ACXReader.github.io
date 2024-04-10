@@ -2,7 +2,6 @@
 title: "Chilling Effects"
 subtitle: "In what sense do 10% of people die of the cold? And why is heat-related death most common in Greenland?"
 date: 2021-10-20
-likes: 105
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/42609174/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a79a76-2fb9-4865-b0aa-9ce59b618f9c_501x341.jpeg

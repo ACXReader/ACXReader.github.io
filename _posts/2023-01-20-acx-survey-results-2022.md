@@ -2,7 +2,6 @@
 title: "ACX Survey Results 2022"
 subtitle: "..."
 date: 2023-01-20
-likes: 66
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/97947982/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/316d348c-9484-4480-9e64-26ece5f8a244_2250x1500.jpeg

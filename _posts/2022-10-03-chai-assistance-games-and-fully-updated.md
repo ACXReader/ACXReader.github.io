@@ -2,7 +2,6 @@
 title: "CHAI, Assistance Games, And Fully-Updated Deference"
 subtitle: "Machine Alignment Monday 10/3/22"
 date: 2022-10-03
-likes: 67
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/52847779/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e729f728-e502-49f6-a4e5-ed5f30346424_399x313.png

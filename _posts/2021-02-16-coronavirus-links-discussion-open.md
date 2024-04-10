@@ -2,7 +2,6 @@
 title: "Coronavirus: Links, Discussion, Open Thread"
 subtitle: "Will things get worse before they get better?"
 date: 2021-02-16
-likes: 154
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32586554/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fc0ae947-f404-489f-b1b5-2e0285d34177_919x792.jpeg

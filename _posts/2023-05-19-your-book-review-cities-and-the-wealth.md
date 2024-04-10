@@ -2,7 +2,6 @@
 title: "Your Book Review: Cities And The Wealth Of Nations/The Question Of Separatism"
 subtitle: "Finalist #1 in the Book Review Contest"
 date: 2023-05-19
-likes: 342
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/122567088/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/3fea9911-ece0-4cf0-8d03-b3a473d70fef_432x288.jpeg

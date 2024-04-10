@@ -2,7 +2,6 @@
 title: "Attempts To Put Statistics In Context, Put Into Context"
 subtitle: "..."
 date: 2023-06-08
-likes: 246
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/121236499/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4ef2fb15-850f-4fcd-baef-db146accbc06_594x329.png

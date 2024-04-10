@@ -2,7 +2,6 @@
 title: "Change My Mind: Density Increases Local But Decreases Global Prices"
 subtitle: "..."
 date: 2023-05-01
-likes: 159
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/106183108/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/d8e1af48-e724-4072-827b-413e4af70802.avif

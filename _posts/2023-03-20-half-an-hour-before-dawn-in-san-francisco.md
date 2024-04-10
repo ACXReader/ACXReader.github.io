@@ -2,7 +2,6 @@
 title: "Half An Hour Before Dawn In San Francisco"
 subtitle: "..."
 date: 2023-03-20
-likes: 502
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/109502867/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/b9aeeffa-6aa9-46b6-9241-7a7c72e4d567_275x183.jpeg

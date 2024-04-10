@@ -2,7 +2,6 @@
 title: "Assistant Dictator Book Club: America Against America"
 subtitle: "..."
 date: 2023-06-07
-likes: 101
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/121657179/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/ee0edbd3-51ab-4352-8fb4-cd8cafeae649_3515x2343.jpeg

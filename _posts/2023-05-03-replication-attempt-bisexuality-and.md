@@ -2,7 +2,6 @@
 title: "Replication Attempt: Bisexuality And Long COVID"
 subtitle: "..."
 date: 2023-05-03
-likes: 132
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/105543018/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4215537a-c86b-43e5-9e7e-d444d53a59d8_422x236.png

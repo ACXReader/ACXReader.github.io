@@ -2,7 +2,6 @@
 title: "From The Mailbag"
 subtitle: "Answers to the questions I get most often at meetup Q&As"
 date: 2022-10-25
-likes: 114
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/80049625/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/196919cd-7267-4f24-8774-e56ea0d75ec8_450x380.png

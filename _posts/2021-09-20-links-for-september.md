@@ -2,7 +2,6 @@
 title: "Links For September"
 subtitle: "..."
 date: 2021-09-20
-likes: 65
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/41085979/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f7266065-a15b-4098-bfb2-dca5fffa887c_800x533.jpeg

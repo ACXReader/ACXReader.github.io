@@ -2,7 +2,6 @@
 title: "Contra Weyl On Technocracy"
 subtitle: "Beyond Brasilia"
 date: 2021-01-29
-likes: 217
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/31976808/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e9fd16b9-48ca-4b94-b003-17700c180eb6_2836x768.png

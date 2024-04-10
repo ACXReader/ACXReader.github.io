@@ -2,7 +2,6 @@
 title: "Study: Ritalin Works, But School Isn't Worth Paying Attention To"
 subtitle: "..."
 date: 2022-07-06
-likes: 127
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/62255963/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4975e27a-ba6d-4d3b-a701-cfc4bb6dbfcd_960x500.webp

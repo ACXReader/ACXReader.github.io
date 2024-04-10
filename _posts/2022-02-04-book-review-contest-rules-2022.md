@@ -2,7 +2,6 @@
 title: "Book Review Contest Rules 2022"
 subtitle: "..."
 date: 2022-02-04
-likes: 47
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/48201926/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e53bf64f-5fa4-4b90-8402-32d52947aadf_2560x1587.jpeg

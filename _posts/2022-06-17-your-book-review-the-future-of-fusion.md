@@ -2,7 +2,6 @@
 title: "Your Book Review: The Future Of Fusion Energy"
 subtitle: "..."
 date: 2022-06-17
-likes: 137
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/59941059/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5652fd94-7748-4eb5-bb4c-aebc96984a9a_392x251.png

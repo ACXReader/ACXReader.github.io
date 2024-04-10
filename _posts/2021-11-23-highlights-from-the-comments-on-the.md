@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On The FDA And Paxlovid"
 subtitle: "..."
 date: 2021-11-23
-likes: 62
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44443644/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5bb97383-d75b-438f-a62a-efbb826e7974_919x792.jpeg

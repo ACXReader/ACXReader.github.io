@@ -1,7 +1,6 @@
 ---
 title: "Comments / Register Of Bans"
 date: 2021-06-01
-likes: 24
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37057093/comments?&all_comments=true
 image: None

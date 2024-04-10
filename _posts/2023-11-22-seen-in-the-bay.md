@@ -2,7 +2,6 @@
 title: "Seen In The Bay"
 subtitle: "~50 of the weirdest things spotted in the world's weirdest metro area"
 date: 2023-11-22
-likes: 78
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/138908632/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4a26a88f-c79c-4aa1-9051-6322078771a3_1312x869.png

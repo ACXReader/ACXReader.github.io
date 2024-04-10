@@ -2,7 +2,6 @@
 title: "Links For December 2022"
 subtitle: "..."
 date: 2022-12-28
-likes: 124
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/93088743/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/801db42a-d74b-4f2d-9ff1-29ceda86cc39_432x269.webp

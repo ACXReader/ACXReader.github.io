@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On San Fransicko"
 subtitle: "..."
 date: 2022-06-29
-likes: 64
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/61120327/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d6eea704-7eb8-49db-9fc5-503fd15e9fc5_680x382.jpeg

@@ -2,7 +2,6 @@
 title: "Seems Like Targeting"
 subtitle: "..."
 date: 2024-01-31
-likes: 324
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140437487/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/0793601c-d0a8-46b9-a336-32ca3b8e3092_1920x1080.webp

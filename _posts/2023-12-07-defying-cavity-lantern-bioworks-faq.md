@@ -2,7 +2,6 @@
 title: "Defying Cavity: Lantern Bioworks FAQ"
 subtitle: "\"A genetically modified bacterium that outcompetes the bacteria that cause tooth decay\""
 date: 2023-12-07
-likes: 202
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/139373544/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4b1307fd-84a5-4e9e-badd-5578663d7ac1_1062x676.png

@@ -2,7 +2,6 @@
 title: "Book Review: Which Country Has The World's Best Health Care?"
 subtitle: "..."
 date: 2022-01-19
-likes: 171
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/47284248/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/729bdc15-fbd7-4959-a7fc-83a47f3f4627_575x381.png

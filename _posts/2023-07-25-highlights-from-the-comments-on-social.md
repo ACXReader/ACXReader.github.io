@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Social Model Of Disability"
 subtitle: "..."
 date: 2023-07-25
-likes: 74
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135367481/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/29f2276f-aa75-42c1-b687-a5dd39dbb919_320x213.webp

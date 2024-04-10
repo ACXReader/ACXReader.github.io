@@ -2,7 +2,6 @@
 title: "Drug Users Use A Lot Of Drugs"
 subtitle: "..."
 date: 2021-06-09
-likes: 163
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37403450/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a1bc8403-47ad-41ae-af02-19e4fca7e206_2000x1334.jpeg

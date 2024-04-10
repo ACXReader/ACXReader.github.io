@@ -2,7 +2,6 @@
 title: "Hardball Questions For The Next Debate"
 subtitle: "..."
 date: 2023-11-07
-likes: 420
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/138648131/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/3058821c-37ee-40ed-a673-0e0a62c9f0b0_741x416.png

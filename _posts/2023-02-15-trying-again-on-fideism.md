@@ -2,7 +2,6 @@
 title: "Trying Again On Fideism"
 subtitle: "..."
 date: 2023-02-15
-likes: 188
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/103157081/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/8cc507f9-c94e-4183-8d62-e2e108b426c9_1080x608.png

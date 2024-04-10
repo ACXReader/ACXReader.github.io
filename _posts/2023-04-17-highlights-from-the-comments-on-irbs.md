@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On IRBs"
 subtitle: "..."
 date: 2023-04-17
-likes: 57
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/115295290/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/802c1d98-a3fc-494a-956c-18955d357864_309x226.png

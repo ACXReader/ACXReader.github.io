@@ -2,7 +2,6 @@
 title: "Austin Meetup Correction"
 subtitle: "..."
 date: 2022-02-25
-likes: 12
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/49371094/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d9425d3c-36c1-4207-8e88-b7de7921750c_1366x768.jpeg

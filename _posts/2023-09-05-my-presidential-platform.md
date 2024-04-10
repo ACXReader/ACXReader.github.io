@@ -2,7 +2,6 @@
 title: "My Presidential Platform"
 subtitle: "..."
 date: 2023-09-05
-likes: 668
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136287965/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/b68561e9-a6b3-4006-b1cc-6bfb602c3afe_995x667.png

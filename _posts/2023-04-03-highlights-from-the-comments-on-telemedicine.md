@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Telemedicine Regulations"
 subtitle: "..."
 date: 2023-04-03
-likes: 99
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/112094919/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/ce97126d-7e2c-4a59-9480-65b90bb5ab34_3450x1946.webp

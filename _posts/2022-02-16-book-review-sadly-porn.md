@@ -2,7 +2,6 @@
 title: "Book Review: Sadly, Porn"
 subtitle: "..."
 date: 2022-02-16
-likes: 195
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/48129594/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bd196f43-527a-45f3-acfc-210d8506f836_514x347.png

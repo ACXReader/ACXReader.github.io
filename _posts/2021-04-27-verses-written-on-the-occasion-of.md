@@ -2,7 +2,6 @@
 title: "Verses Written On The Occasion Of Getting The COVID Vaccine"
 subtitle: "To the tune of the prologue to Les Misérables"
 date: 2021-04-27
-likes: 152
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35659297/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c1792465-7446-4241-8e98-b869f5e721cb_625x417.jpeg

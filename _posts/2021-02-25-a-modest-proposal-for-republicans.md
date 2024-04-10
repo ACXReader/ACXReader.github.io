@@ -2,7 +2,6 @@
 title: "A Modest Proposal For Republicans: Use The Word \"Class\""
 subtitle: "Pivot from mindless populist rage to a thoughtful campaign to fight classism."
 date: 2021-02-25
-likes: 538
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32933298/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/99d33403-9263-4e80-8a91-ce59b4ac7f0f_1600x1200.png

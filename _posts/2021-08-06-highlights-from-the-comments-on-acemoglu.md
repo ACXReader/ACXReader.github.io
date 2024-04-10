@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Acemoglu And AI"
 subtitle: "And by \"highlights\", I mean \"arguments\""
 date: 2021-08-06
-likes: 57
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/39571910/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e605ea52-696e-4ca4-a55d-4066bea5bd48_800x467.png

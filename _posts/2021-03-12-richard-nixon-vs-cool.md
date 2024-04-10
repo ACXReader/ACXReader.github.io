@@ -2,7 +2,6 @@
 title: "Richard Nixon Vs. Cool"
 subtitle: "..."
 date: 2021-03-12
-likes: 137
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/33639623/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/38b10086-ebea-4d26-a534-f0dd16f4be33_480x360.jpeg

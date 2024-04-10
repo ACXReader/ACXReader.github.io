@@ -2,7 +2,6 @@
 title: "I Will Not Eat The Bugs"
 subtitle: "..."
 date: 2021-06-09
-likes: 99
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37367797/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/98a924cb-702f-475a-8f57-e9c47f1f53b8_1128x585.jpeg

@@ -2,7 +2,6 @@
 title: "In Partial, Grudging Defense Of The Hearing Voices Movement"
 subtitle: "..."
 date: 2022-05-25
-likes: 317
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/55407058/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5dcb9650-ccee-44c7-8f7c-1ef0ebb9b2bd_495x331.jpeg

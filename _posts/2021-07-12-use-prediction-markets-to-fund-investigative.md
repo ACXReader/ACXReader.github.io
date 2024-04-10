@@ -2,7 +2,6 @@
 title: "Use Prediction Markets To Fund Investigative Reporting"
 subtitle: "..."
 date: 2021-07-12
-likes: 87
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38682879/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9f347213-4b56-48b0-943b-bd7f5c058219_1600x900.jpeg

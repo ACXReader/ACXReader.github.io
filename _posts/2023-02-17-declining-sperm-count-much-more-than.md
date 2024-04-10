@@ -2,7 +2,6 @@
 title: "Declining Sperm Count: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2023-02-17
-likes: 149
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/103404975/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/acc3c846-5037-4a8b-a490-ffccbc48a78d_336x189.webp

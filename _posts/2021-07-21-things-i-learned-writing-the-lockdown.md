@@ -2,7 +2,6 @@
 title: "Things I Learned Writing The Lockdown Post"
 subtitle: "..."
 date: 2021-07-21
-likes: 123
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38883559/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5bbeb219-d98a-49c1-b378-c39cf820424d_919x792.jpeg

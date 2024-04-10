@@ -2,7 +2,6 @@
 title: "Sure, Whatever, Let's Try Another Contra Caplan On Mental Illness"
 subtitle: "..."
 date: 2023-06-29
-likes: 251
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/130568837/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/175aea08-12cc-466f-96c3-f9109f41f7e7_320x240.jpeg

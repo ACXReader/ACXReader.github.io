@@ -2,7 +2,6 @@
 title: "You Don't Want A Purely Biological, Apolitical Taxonomy Of Mental Disorders"
 subtitle: "..."
 date: 2023-01-25
-likes: 356
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/98262707/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/7a557b72-b21e-435f-8863-a8370652e52b_413x249.jpeg

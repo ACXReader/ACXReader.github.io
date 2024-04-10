@@ -2,7 +2,6 @@
 title: "Riddle Of The Sphinx II: Sustained Release Riddlin'"
 subtitle: "..."
 date: 2021-02-02
-likes: 254
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32130348/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/853d9067-4b40-40e3-bc93-70c3d707fcd2_512x394.jpeg

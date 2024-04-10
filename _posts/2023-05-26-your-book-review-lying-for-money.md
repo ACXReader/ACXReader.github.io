@@ -2,7 +2,6 @@
 title: "Your Book Review: Lying for Money"
 subtitle: "Finalist #2 in the ACX Book Review contest"
 date: 2023-05-26
-likes: 168
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123307142/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/226c98fa-2b08-4872-91f0-058597bb9cab_900x556.jpeg

@@ -2,7 +2,6 @@
 title: "Book Review: San Fransicko"
 subtitle: "..."
 date: 2022-06-23
-likes: 162
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/59053420/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/74bb4b11-df4e-42da-b931-2f36fdea2f0b_750x421.jpeg

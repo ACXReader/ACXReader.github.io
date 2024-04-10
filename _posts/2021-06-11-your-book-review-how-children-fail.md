@@ -2,7 +2,6 @@
 title: "Your Book Review: How Children Fail"
 subtitle: "Finalist #16 in the Book Review Contest"
 date: 2021-06-11
-likes: 143
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37502358/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6b1035f3-55b2-4552-aa2f-946ff465e3a0_500x333.webp

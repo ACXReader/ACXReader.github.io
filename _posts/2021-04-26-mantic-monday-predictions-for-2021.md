@@ -2,7 +2,6 @@
 title: "Mantic Monday: Predictions For 2021"
 subtitle: "..."
 date: 2021-04-26
-likes: 49
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35653847/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/da8ed496-bcaa-46ec-9ed4-50070671591d_1404x1053.jpeg

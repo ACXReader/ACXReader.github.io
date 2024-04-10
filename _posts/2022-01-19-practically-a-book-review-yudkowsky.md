@@ -2,7 +2,6 @@
 title: "Practically-A-Book Review: Yudkowsky Contra Ngo On Agents"
 subtitle: "..."
 date: 2022-01-19
-likes: 103
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/46108556/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b830584c-191c-47b7-adbc-63184d7753d6_920x640.png

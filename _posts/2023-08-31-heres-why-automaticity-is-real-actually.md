@@ -2,7 +2,6 @@
 title: "Here's Why Automaticity Is Real Actually"
 subtitle: "..."
 date: 2023-08-31
-likes: 273
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136441865/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/e5279c5c-1a40-4d6d-8eac-d6a2f8581d89_722x406.jpeg

@@ -2,7 +2,6 @@
 title: "Links For September 2023"
 subtitle: "..."
 date: 2023-09-28
-likes: 110
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/137210872/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/e2679bd6-3f15-4858-975d-34dcc2c3def2_800x533.jpeg

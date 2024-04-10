@@ -2,7 +2,6 @@
 title: "Book Review Contest 2022 Winners"
 subtitle: "..."
 date: 2022-09-02
-likes: 128
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/71457020/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ff9df590-c349-4163-ac2d-25f1744a4e45_2560x1587.jpeg

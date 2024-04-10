@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Bobos In Paradise"
 subtitle: "..."
 date: 2022-12-09
-likes: 60
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/88145404/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ca0a80bc-cbe5-4888-b842-a7c6dab26c3b_383x333.jpeg

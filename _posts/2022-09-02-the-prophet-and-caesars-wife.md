@@ -2,7 +2,6 @@
 title: "The Prophet And Caesar's Wife"
 subtitle: "..."
 date: 2022-09-02
-likes: 286
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/67986319/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a9fc8210-d0e9-494b-aab6-ba578db10814_1023x714.png

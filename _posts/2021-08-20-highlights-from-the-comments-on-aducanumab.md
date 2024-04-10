@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Aducanumab"
 subtitle: "..."
 date: 2021-08-20
-likes: 57
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40054518/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3dd88876-59a4-4c01-b9bb-0f836bc333a0_400x214.jpeg

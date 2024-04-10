@@ -2,7 +2,6 @@
 title: "A Guide To Asking Robots To Design Stained Glass Windows"
 subtitle: "..."
 date: 2022-05-30
-likes: 231
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/57243633/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c97677e3-9c88-4c6c-85b2-93fc66788b54_323x239.png

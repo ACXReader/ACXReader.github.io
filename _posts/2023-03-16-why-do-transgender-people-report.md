@@ -2,7 +2,6 @@
 title: "Why Do Transgender People Report Hypermobile Joints?"
 subtitle: "..."
 date: 2023-03-16
-likes: 143
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/102968563/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/973174a3-7682-43a1-8dd4-cf161ea7ae96_1200x798.jpeg

@@ -2,7 +2,6 @@
 title: "Statement on New York Times Article"
 subtitle: "..."
 date: 2021-02-14
-likes: 850
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32523333/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f79365ba-cfb1-4887-ba59-d167e4cf62f1_480x393.jpeg

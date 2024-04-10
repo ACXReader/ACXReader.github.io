@@ -2,7 +2,6 @@
 title: "Obscure Pregnancy Interventions: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2022-04-13
-likes: 94
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/52041324/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fbf26479-48ab-4812-a40c-4dbbe697b21a_765x666.png

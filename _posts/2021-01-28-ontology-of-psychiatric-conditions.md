@@ -2,7 +2,6 @@
 title: "Ontology Of Psychiatric Conditions: Taxometrics"
 subtitle: "Is mental illness a thing? What kind of thing is it?"
 date: 2021-01-28
-likes: 245
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/31949589/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5162a0ab-9ad1-44d6-975a-5c430daff7ef_467x294.png

@@ -2,7 +2,6 @@
 title: "Mantic Monday: Judging April COVID Predictions"
 subtitle: "..."
 date: 2021-02-23
-likes: 63
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32761479/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/05b85ab4-30b6-4187-9150-6d2bff8473ac_981x721.png

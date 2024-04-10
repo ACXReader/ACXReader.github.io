@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Ivermectin"
 subtitle: "..."
 date: 2021-11-23
-likes: 62
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44353755/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2662624d-fecb-42c0-bf02-ab78491023a0_680x323.jpeg

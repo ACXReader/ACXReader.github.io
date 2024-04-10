@@ -2,7 +2,6 @@
 title: "Impact Market Mini-Grants Update"
 subtitle: "..."
 date: 2023-03-03
-likes: 46
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/106267607/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/3ee3b006-2ce3-4b6c-8a63-e8fcefe21dd4_674x505.png

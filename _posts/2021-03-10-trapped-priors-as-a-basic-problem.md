@@ -1,7 +1,6 @@
 ---
 title: "Trapped Priors As A Basic Problem Of Rationality"
 date: 2021-03-10
-likes: 294
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32649286/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7507fb9c-07a2-4f03-bfe6-430357f8aa3c_433x240.png

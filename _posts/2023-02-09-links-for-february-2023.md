@@ -2,7 +2,6 @@
 title: "Links For February 2023"
 subtitle: "..."
 date: 2023-02-09
-likes: 146
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/93150752/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/23303155-a18d-4675-b854-ebd794ad8cdd_800x533.jpeg

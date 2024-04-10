@@ -2,7 +2,6 @@
 title: "Contra Kriss On Nerds And Hipsters"
 subtitle: "..."
 date: 2023-04-19
-likes: 268
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/115233868/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/9547b2b8-2758-4584-92cf-d40795991571_1920x1080.jpeg

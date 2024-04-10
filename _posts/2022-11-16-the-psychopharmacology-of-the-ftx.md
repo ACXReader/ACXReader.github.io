@@ -2,7 +2,6 @@
 title: "The Psychopharmacology Of The FTX Crash"
 subtitle: "Must not blog about FTX . . . must not blog about . . . ah, $#@% it"
 date: 2022-11-16
-likes: 217
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/84889532/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/690b13ad-daa0-4e64-8759-f6c7d422e7b4_654x444.png

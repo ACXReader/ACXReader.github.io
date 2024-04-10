@@ -2,7 +2,6 @@
 title: "Book Review Contest: Winners"
 subtitle: "..."
 date: 2021-07-10
-likes: 61
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38322815/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b94f2cbb-997a-445a-8105-5fd2d0dd3c41_2560x1587.jpeg

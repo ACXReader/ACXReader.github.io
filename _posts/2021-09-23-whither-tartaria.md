@@ -2,7 +2,6 @@
 title: "Whither Tartaria?"
 subtitle: "..."
 date: 2021-09-23
-likes: 243
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/41586693/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d11200a6-c7ed-4f97-a3a5-0621762e00d4.jpeg

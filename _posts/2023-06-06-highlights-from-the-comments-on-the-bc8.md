@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On The Academic Job Market"
 subtitle: "..."
 date: 2023-06-06
-likes: 74
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/125816085/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/0ce0fa88-d5fc-4566-ab09-b8155a21a944_320x213.webp

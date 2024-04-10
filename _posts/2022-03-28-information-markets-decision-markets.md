@@ -2,7 +2,6 @@
 title: "Information Markets, Decision Markets, Attention Markets, Action Markets"
 subtitle: "Mantic Monday 3/28/22"
 date: 2022-03-28
-likes: 74
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/51147776/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c04a7825-d8be-4c64-9748-7f27c777cd5f_1908x1146.jpeg

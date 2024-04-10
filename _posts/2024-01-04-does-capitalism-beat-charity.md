@@ -2,7 +2,6 @@
 title: "Does Capitalism Beat Charity?"
 subtitle: "\"You can't write a check to capitalism directly\""
 date: 2024-01-04
-likes: 185
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/139678287/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/8fa3f9de-01e4-40e0-9124-43bf02954acb_1200x900.webp

@@ -2,7 +2,6 @@
 title: "Washington DC Meetup This Saturday"
 subtitle: "..."
 date: 2021-09-10
-likes: 11
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/41174836/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6dbc4c21-8910-40db-a100-5508f49d62fe_650x330.jpeg

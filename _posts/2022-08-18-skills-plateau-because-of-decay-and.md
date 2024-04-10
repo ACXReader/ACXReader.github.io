@@ -2,7 +2,6 @@
 title: "Skills Plateau Because Of Decay And Interference"
 subtitle: "..."
 date: 2022-08-18
-likes: 167
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/67202524/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc56fa6fc-bfb7-4aaf-8c1a-1c6ec1b35a53_671x493.png

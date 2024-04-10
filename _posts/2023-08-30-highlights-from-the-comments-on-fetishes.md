@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Fetishes"
 subtitle: "..."
 date: 2023-08-30
-likes: 69
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136446464/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/7e7a5f2e-e48a-47b2-9229-5bbc1e187f0f_320x213.webp

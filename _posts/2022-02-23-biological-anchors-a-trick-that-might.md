@@ -2,7 +2,6 @@
 title: "Biological Anchors: A Trick That Might Or Might Not Work"
 subtitle: "..."
 date: 2022-02-23
-likes: 120
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/47594966/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2b41e01-7c92-466e-91bc-8c6fa356a5ef_982x645.png

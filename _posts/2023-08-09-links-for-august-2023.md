@@ -2,7 +2,6 @@
 title: "Links For August 2023"
 subtitle: "..."
 date: 2023-08-09
-likes: 136
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135850244/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/975991b5-7b79-4866-b3a8-a26828880999_800x533.jpeg

@@ -2,7 +2,6 @@
 title: "Please Take The Reader Survey [Update: Now It Is Closed And You Can Stop Taking It]"
 subtitle: "..."
 date: 2021-07-16
-likes: 46
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38850961/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/16a0473a-c8ce-490f-bc2c-4102a77fb35d_2250x1500.jpeg

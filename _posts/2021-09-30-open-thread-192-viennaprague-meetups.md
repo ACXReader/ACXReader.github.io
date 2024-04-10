@@ -2,7 +2,6 @@
 title: "Open Thread 192 + Vienna/Prague Meetups This Weekend"
 subtitle: "..."
 date: 2021-09-30
-likes: 17
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/42021519/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/892d4fef-2044-481c-a51b-8c5797246a53_800x555.jpeg

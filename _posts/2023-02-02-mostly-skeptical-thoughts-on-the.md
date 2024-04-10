@@ -2,7 +2,6 @@
 title: "Mostly Skeptical Thoughts On The Chatbot Propaganda Apocalypse"
 subtitle: "..."
 date: 2023-02-02
-likes: 173
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/99416850/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/3cbddcee-af35-4f1f-8c00-8bf6ec7935a1_2600x1500.png

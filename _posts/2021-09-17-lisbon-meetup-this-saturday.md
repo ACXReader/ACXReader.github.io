@@ -2,7 +2,6 @@
 title: "Lisbon Meetup This Saturday"
 subtitle: "..."
 date: 2021-09-17
-likes: 11
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/41453820/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b5267c5f-f301-40b0-89bb-72637543fa39_282x178.jpeg

@@ -2,7 +2,6 @@
 title: "List Of Fictional Cryptocurrencies Banned By The SEC"
 subtitle: "I said they were fictional! Stop trying to invest in them!"
 date: 2021-02-12
-likes: 183
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32464433/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/953cb9c9-1e82-4b20-8586-a5a1fbd31a71_1024x444.jpeg

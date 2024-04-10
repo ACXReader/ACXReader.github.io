@@ -2,7 +2,6 @@
 title: "Book Review: Arabian Nights"
 subtitle: "..."
 date: 2021-05-24
-likes: 243
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36790166/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/806d9a1b-d1d1-40a6-9462-1c02151893b5_650x345.jpeg

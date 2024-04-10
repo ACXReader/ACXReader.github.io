@@ -2,7 +2,6 @@
 title: "Which Party Has Gotten More Extreme Faster?"
 subtitle: "..."
 date: 2022-06-08
-likes: 162
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/56752004/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f59833ed-3e7a-458a-a8a0-56ef5b38049c_392x245.png

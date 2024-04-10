@@ -2,7 +2,6 @@
 title: "If You Can Be Bad, You Can Also Be Good"
 subtitle: "..."
 date: 2021-05-03
-likes: 183
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36008405/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8d9bb1c3-358a-4bbb-bde7-37a784174c5a_550x362.jpeg

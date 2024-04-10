@@ -2,7 +2,6 @@
 title: "Vote In The Book Review Contest!"
 subtitle: "(if you've read all the finalists)"
 date: 2021-06-18
-likes: 33
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37766844/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/711a7b93-402d-48f8-a42b-8d1cd3aaeb39_2560x1587.jpeg

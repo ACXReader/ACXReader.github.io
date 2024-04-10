@@ -2,7 +2,6 @@
 title: "Janus' GPT Wrangling"
 subtitle: "..."
 date: 2022-09-19
-likes: 109
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/74015977/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/64a40170-0f7e-448e-99f2-f53645b7fe07_1024x1024.png

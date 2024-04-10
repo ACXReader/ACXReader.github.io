@@ -2,7 +2,6 @@
 title: "Ontology Of Psychiatric Conditions: Tradeoffs And Failures"
 subtitle: "To what degree are psychiatric conditions more like diseases (always bad) vs. diverse neurotypes (potentially good)?"
 date: 2021-02-11
-likes: 155
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32420505/comments?&all_comments=true
 image: https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61743c6b-5f33-4264-a722-cfb527351950_673x551.png

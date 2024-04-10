@@ -2,7 +2,6 @@
 title: "Book Review: From Oversight To Overkill"
 subtitle: "..."
 date: 2023-04-12
-likes: 247
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/112300241/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/544362ea-3c7c-4b9e-af7f-cb5f9644c04d_513x377.png

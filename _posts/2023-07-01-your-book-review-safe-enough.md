@@ -2,7 +2,6 @@
 title: "Your Book Review: Safe Enough?"
 subtitle: "Finalist #7 in the Book Review Contest"
 date: 2023-07-01
-likes: 106
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123357258/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/f0141dbc-4a82-49aa-be14-b50858feeceb_800x450.webp

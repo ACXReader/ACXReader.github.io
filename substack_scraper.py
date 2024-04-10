@@ -1,4 +1,5 @@
 import argparse
+from datetime import date
 import json
 import os
 import sys
@@ -55,12 +56,12 @@ class BaseSubstackScraper(ABC):
         self.save_dir: str = save_dir
         self.keywords: List[str] = [
             "about", "archive", "podcast"]
-        self.existing_data: List[str] = []
+        self.existing_data: dict[str: str] = {}
         self.premium_articles: List[str] = []
-        self.post_urls: List[str] = self.get_new_post_urls()
+        self.post_urls: dict[str: str] = self.get_new_post_urls()
         atexit.register(self.save)
 
-    def get_new_post_urls(self) -> List[str]:
+    def get_new_post_urls(self) -> dict[str, str]:
         """
         This method reads the sitemap.xml file and returns a list of all new URLs in the file
         """
@@ -69,28 +70,40 @@ class BaseSubstackScraper(ABC):
 
         if response.ok:
             root = ET.fromstring(response.content)
-            urls = [element.text for element in root.iter(
-                '{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
+            urls = {}
+            prefix = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
+            for element in root.findall(prefix + "url"):
+                if element.find(prefix + "lastmod") is not None:
+                    urls[element.findtext(
+                        prefix + "loc")] = element.findtext(prefix + "lastmod")
             urls = self.filter_urls(urls, self.keywords)
             if os.path.exists("./posts_list.json"):
                 with open("./posts_list.json", 'r', encoding='utf-8') as file:
-                    self.existing_data += json.load(file)
-                urls = [data for data in urls if data not in self.existing_data]
+                    self.existing_data = json.load(file)
+                cleaned = {}
+                for url, lastmod in urls.items():
+                    if url not in self.existing_data:
+                        cleaned[url] = lastmod
+                    elif lastmod > self.existing_data[url]:
+                        del self.existing_data[url]
+                        cleaned[url] = lastmod
+                urls = cleaned
             if not self.premium and os.path.exists("./premium_list.json"):
                 with open("./premium_list.json", 'r', encoding='utf-8') as file:
                     self.premium_articles += json.load(file)
-                urls = [data for data in urls if data not in self.premium_articles]
+                urls = {url: lastmod for url,
+                        lastmod in urls.items() if url not in self.premium_articles}
             return urls
         else:
             print(f'Error fetching sitemap: {response.status_code}')
             return []
 
     @staticmethod
-    def filter_urls(urls: List[str], keywords: List[str]) -> List[str]:
+    def filter_urls(urls: dict[str: str], keywords: List[str]) -> dict[str: str]:
         """
         This method filters out URLs that contain certain keywords
         """
-        return [url for url in urls if all(keyword not in url for keyword in keywords)]
+        return {url: lastmod for url, lastmod in urls.items() if all(keyword not in url for keyword in keywords)}
 
     @staticmethod
     def html_to_md(html_content: str) -> str:
@@ -209,10 +222,10 @@ class BaseSubstackScraper(ABC):
         count = 0
         total = num_posts_to_scrape if num_posts_to_scrape != 0 else len(
             self.post_urls)
-        for url in tqdm(self.post_urls, total=total):
+        for url in tqdm(self.post_urls.keys(), total=total):
             success = self.process_post(url)
             if success:
-                self.existing_data.append(url)
+                self.existing_data[url] = self.post_urls[url]
                 count += 1
                 if num_posts_to_scrape != 0 and count == num_posts_to_scrape:
                     break

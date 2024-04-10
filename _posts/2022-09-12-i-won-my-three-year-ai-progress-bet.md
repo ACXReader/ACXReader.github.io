@@ -2,7 +2,6 @@
 title: "I Won My Three Year AI Progress Bet In Three Months"
 subtitle: "..."
 date: 2022-09-12
-likes: 159
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/72941626/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4ec549b1-9789-45ca-b81f-620fdb44269d_166x166.png

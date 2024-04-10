@@ -2,7 +2,6 @@
 title: "It's Fair To Describe Schizophrenia As Probably Mostly Genetic"
 subtitle: "..."
 date: 2024-02-01
-likes: 195
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/141000175/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/8c79a32a-2255-4f69-864c-ab84b90c2e85_4496x3000.jpeg

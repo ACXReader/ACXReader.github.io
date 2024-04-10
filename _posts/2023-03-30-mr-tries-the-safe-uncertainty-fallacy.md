@@ -2,7 +2,6 @@
 title: "MR Tries The Safe Uncertainty Fallacy"
 subtitle: "..."
 date: 2023-03-30
-likes: 276
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/111062243/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/f8bfc08e-9864-419f-8649-3a2a5a292445_860x721.png

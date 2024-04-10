@@ -2,7 +2,6 @@
 title: "More Antifragile, Diversity Libertarianism, And Corporate Censorship"
 subtitle: "..."
 date: 2021-03-25
-likes: 141
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34302450/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/251d88ec-ad28-4e44-a0ac-3f49ed289f21_3500x2248.jpeg

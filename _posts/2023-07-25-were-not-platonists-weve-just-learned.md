@@ -2,7 +2,6 @@
 title: "We're Not Platonists, We've Just Learned The Bitter Lesson"
 subtitle: "Machine Alignment Monday, 7/24/23"
 date: 2023-07-25
-likes: 221
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135293928/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/dde1dfe8-2a24-4d49-baae-df2ee10c76ec_500x346.png

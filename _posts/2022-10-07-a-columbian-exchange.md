@@ -2,7 +2,6 @@
 title: "A Columbian Exchange"
 subtitle: "CHARACTER VIEWS ARE NOT NECESSARILY AUTHOR VIEWS"
 date: 2022-10-07
-likes: 330
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/75976106/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0d669256-55c0-4c98-8a43-050faf0aeee1_504x331.webp

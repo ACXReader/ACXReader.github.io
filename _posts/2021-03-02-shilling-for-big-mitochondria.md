@@ -2,7 +2,6 @@
 title: "Shilling For Big Mitochondria"
 subtitle: "The tragic history of the only diet pill that really worked"
 date: 2021-03-02
-likes: 132
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/33086248/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d159ada4-5ab7-470a-82ad-946d671859fd_618x496.jpeg

@@ -2,7 +2,6 @@
 title: "Most Technologies Aren't Races"
 subtitle: "..."
 date: 2023-04-05
-likes: 255
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/108490927/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/1e9c03f2-ca4d-4183-9b36-771934f45961_768x432.jpeg

@@ -2,7 +2,6 @@
 title: "What Do Treatments For Accelerated Aging Tell Us About Normal Aging?"
 subtitle: "We can prevent young people from being old, but preventing old people from being old sounds also sounds useful."
 date: 2021-06-01
-likes: 55
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37057161/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/19911f4c-d6cc-45f4-9735-98f1ab38e23a_736x490.jpeg

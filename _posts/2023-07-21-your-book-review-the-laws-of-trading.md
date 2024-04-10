@@ -2,7 +2,6 @@
 title: "Your Book Review: The Laws of Trading"
 subtitle: "Finalist #10 in the Book Review Contest"
 date: 2023-07-21
-likes: 167
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123360445/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/fe4ead65-63af-4df0-9a2a-a44d6efd5067_3200x1800.jpeg

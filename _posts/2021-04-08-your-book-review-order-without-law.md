@@ -2,7 +2,6 @@
 title: "Your Book Review: Order Without Law"
 subtitle: "Finalist #1 of the book review contest"
 date: 2021-04-08
-likes: 33
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34926692/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b7a7b9f5-51af-4210-a0be-134db6c46cb7_1200x718.png

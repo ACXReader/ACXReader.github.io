@@ -2,7 +2,6 @@
 title: "Hypergamy: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2023-05-24
-likes: 211
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123444805/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/fbcc0e9f-450c-4bab-895c-5d743f76744e_320x213.webp

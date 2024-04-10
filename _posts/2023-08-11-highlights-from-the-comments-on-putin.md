@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Putin"
 subtitle: "..."
 date: 2023-08-11
-likes: 81
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135882179/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/0f8bb1b2-2e7a-4b41-bccb-5a5720a16664_320x213.webp

@@ -2,7 +2,6 @@
 title: "Irvine Meetup This Monday"
 subtitle: "..."
 date: 2022-04-16
-likes: 16
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/52303947/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8a8a215b-0a9f-44f6-a3ac-bd433ca005bc_720x410.webp

@@ -2,7 +2,6 @@
 title: "LA and San Diego Meetups This Weekend"
 subtitle: "Also Austin, Seattle, Tokyo, Rome, Mumbai, etc."
 date: 2022-10-06
-likes: 21
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/76770738/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6b7069f1-971b-4e70-a60c-feee72c8f187_1920x1080.webp

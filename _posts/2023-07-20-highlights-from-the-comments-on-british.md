@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On British Economic Decline"
 subtitle: "..."
 date: 2023-07-20
-likes: 104
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/134953448/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/1ee77d86-12a4-4241-ae6b-0a04e9629c1a_867x650.jpeg

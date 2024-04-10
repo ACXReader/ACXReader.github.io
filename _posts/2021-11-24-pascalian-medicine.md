@@ -2,7 +2,6 @@
 title: "Pascalian Medicine"
 subtitle: "THIS IS NOT MEDICAL ADVICE"
 date: 2021-11-24
-likes: 109
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44375324/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/456a07fa-a544-4519-953c-a21e665e04fc_928x486.jpeg

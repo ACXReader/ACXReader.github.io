@@ -2,7 +2,6 @@
 title: "Contra Resident Contrarian On Unfalsifiable Internal States"
 subtitle: "..."
 date: 2022-11-11
-likes: 169
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/82765003/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a4e87a79-f72c-49e0-b958-cf2141e29fe0_994x541.png

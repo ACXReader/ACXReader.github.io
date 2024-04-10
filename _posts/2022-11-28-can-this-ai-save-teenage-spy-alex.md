@@ -2,7 +2,6 @@
 title: "Can This AI Save Teenage Spy Alex Rider From A Terrible Fate?"
 subtitle: "We’re showcasing a hot new totally bopping, popping musical track called “bromancer era? bromancer era?? bromancer era???“ His subtle sublime thoughts raced, making his eyes literally explode."
 date: 2022-11-28
-likes: 106
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/82863495/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2c6659c-81ab-4b7a-a01d-5480792e286b_693x531.png

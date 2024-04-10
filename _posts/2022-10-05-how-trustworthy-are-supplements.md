@@ -2,7 +2,6 @@
 title: "How Trustworthy Are Supplements?"
 subtitle: "..."
 date: 2022-10-05
-likes: 178
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/74356513/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/21b98887-5b8d-4791-9308-ccb31f4ee44e_1024x1024.png

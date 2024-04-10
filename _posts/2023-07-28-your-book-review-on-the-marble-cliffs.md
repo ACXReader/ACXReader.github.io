@@ -2,7 +2,6 @@
 title: "Your Book Review: On the Marble Cliffs"
 subtitle: "Finalist #11 in the Book Review Contest"
 date: 2023-07-28
-likes: 211
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123317400/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/cb0b07d9-03ed-4a47-a428-10c27726ee5f_1086x700.jpeg

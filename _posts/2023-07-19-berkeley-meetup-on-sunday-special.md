@@ -2,7 +2,6 @@
 title: "Berkeley Meetup On Sunday, Special Guest Philip Tetlock"
 subtitle: "..."
 date: 2023-07-19
-likes: 35
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135264469/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/9176d597-9759-461e-82f3-27eba160257e_1024x676.jpeg

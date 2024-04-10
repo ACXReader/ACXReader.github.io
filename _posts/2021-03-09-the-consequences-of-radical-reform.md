@@ -2,7 +2,6 @@
 title: "The Consequences Of Radical Reform"
 subtitle: "..."
 date: 2021-03-09
-likes: 188
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/33433645/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/775d3f55-1f87-4f98-bb33-a803620fb763_666x432.jpeg

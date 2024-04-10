@@ -2,7 +2,6 @@
 title: "Book Review: Modi - A Political Biography"
 subtitle: "..."
 date: 2021-09-14
-likes: 159
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/41204726/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/188d9610-a735-467a-81b4-e1b04a816997_419x241.png

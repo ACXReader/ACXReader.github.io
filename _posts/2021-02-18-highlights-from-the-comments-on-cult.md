@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Cult Of Smart"
 subtitle: "..."
 date: 2021-02-18
-likes: 73
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32688685/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e28698a8-ebb7-40fe-987e-859212c8065d_433x259.png

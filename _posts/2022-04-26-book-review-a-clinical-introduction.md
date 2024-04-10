@@ -2,7 +2,6 @@
 title: "Book Review: A Clinical Introduction To Lacanian Psychoanalysis"
 subtitle: "..."
 date: 2022-04-26
-likes: 183
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/52650620/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3164b2c8-d7a8-4f2f-bb37-49cc2226a07c_363x242.png

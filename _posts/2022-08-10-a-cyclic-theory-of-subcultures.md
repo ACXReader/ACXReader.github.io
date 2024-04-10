@@ -2,7 +2,6 @@
 title: "A Cyclic Theory Of Subcultures"
 subtitle: "..."
 date: 2022-08-10
-likes: 308
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/67112750/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/84ec8576-024b-4df2-a619-e32d1fc10bbe_584x350.png

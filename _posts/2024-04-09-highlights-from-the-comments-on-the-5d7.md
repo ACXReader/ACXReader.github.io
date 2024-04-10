@@ -98,7 +98,7 @@ I agree this is an important point. During the debate, Peter said that if we had
 
 Xiao (2021) Table 1 only says that some raccoon dogs in Wuhan had wounds, suggesting they were wild-caught. It makes no claims that all raccoon-dogs were wild-caught. There are dozens of raccoon-dog farms in the same province as Wuhan.
 
-IIUC Wang (2022) says that 38 raccoon dogs were sold in Wuhan _per month_ , not 38 during the whole two-year study period, so the claim that the traders in Wang represent the whole supply fails.
+IIUC Wang (2022) says that 38 raccoon dogs were sold in Wuhan _per month_ , not 38 during the whole two-year study period, so the claim that the traders in Wang represent the whole supply fails. [EDIT: Possibly I misunderstood this, see [here](/p/highlights-from-the-comments-on-the-5d7/comment/53522877)]
 
 The raccoon dogs were tested for active infection, not serology, so you would have had to catch a raccoon-dog in the act of having COVID to see anything. Remember, during SARS, scientists kept testing the farms that supplied the wet markets where it was spilling over, and most farms were negative.
 
@@ -318,7 +318,7 @@ Once again, I cannot stress enough how much better a take you might have on this
 
   * “Genetic analyses put the realistic start date around Sept/Oct” - see the section on Brazil above for the many reasons this is impossible. Pekar, the most-cited genetic analysis, puts the origin in November. Dr. Chou doesn’t cite his sources, so I don’t know what he’s referring to, but it certainly hasn’t entered the knowledge of the reality-based community.
 
-  * “The wet market cases were concentrated around a mahjong room”. CTRL+F “mahjong room in the original post”. The mahjong room itself tested negative, and the “epicenter” mechanism isn’t fine-grained enough to be useful (CTRL+F “Central Park” in the original post for a discussion of why this is).
+  * “The wet market cases were concentrated around a mahjong room”. CTRL+F “mahjong room” in the original post. The mahjong room itself tested negative, and the “epicenter” mechanism isn’t fine-grained enough to be useful (CTRL+F “Central Park” in the original post for a discussion of why this is).
 
   * “No animals at the market (or in Wuhan) tested positive.” No raccoon-dogs were tested. In SARS1, which we know was zoonotic, they also never get positive animal tests at several wet markets where they knew spillovers had occurred. Again, imagine the alien, coming to Earth and taking a dozen randomly selected cats (not even humans this time!) and finding none of them had COVID.
 
@@ -735,7 +735,7 @@ Trying to piece things together, I think a reasonable summary would be:
 
   * On his site, he properly adjusted for human fallibility.
 
-  * Peter, very reasonably responding to the numbers Saar gave during the debate and not the numbers he had elsewhere, trolled him by giving a set of numbers that came out to 10^25-to-one in favor of lab leak.
+  * Peter, very reasonably responding to the numbers Saar gave during the debate and not the numbers he had elsewhere, trolled him by giving a set of numbers that came out to 10^25-to-one against lab leak.
 
   * I put the numbers everyone had actually given into my spreadsheet.
 
@@ -812,7 +812,7 @@ The most glaring is the constant focus on “as of one minute ago, the case for 
 
 Once you collect, I don’t know, ten of these, you can spam a bunch of opposing discourse with “This didn’t even consider these ten new papers, all converging upon the fact that this case has now been debunked”. The very prestigious researchers who wrote the original paper probably won’t respond, because they don’t have time to respond to pre-prints by agricultural scientists. So it does kind of look, to an outsider, like all of the top papers of the side with more institutional support are debunked. Even if you spend hours and hours talking to the scientists involved and trying to figure out the flaws, it doesn’t matter, because there will be a new set of papers like that a few weeks later. 
 
-Some of this is inevitable - and it’s also what correct people have to do when arguing against incorrect papers. When people were still treating eg stereotype threat as state-of-the-art, I would respond to people talking about it by listing some of the papers that had debunked it, and probably that was annoying to supporters who didn’t want to have to defend it. So I don’t want to claim it’s all inexcusable bad behavior. Still, it’s something I’m more sensitive to now.
+Some of this is inevitable - and it’s also what correct people have to do when arguing against incorrect papers. When people were still treating eg stereotype threat as state-of-the-art, I would respond to people talking about it by listing some of the papers that had debunked it, and probably that was annoying to supporters who didn’t want to have to defend it. So I don’t want to claim it’s all inexcusable bad behavior. And one insulting person in the middle of ten thoughtful people with good responses still poisons the barrel and makes things feel hostile. Still, this is something I’m more sensitive to now.
 
 A lot of these problems center on a failure mode of hyperfocusing on little details. What if the exact set of cases Worobey et al uses is contaminated by ascertainment bias? Then we have to throw it out, right? Compare Worobey’s analysis in the supplementary text, where he shows robustness to up to half of the cases being totally false. Or consider his search for alternative uncontaminated datasets and then showing how those demonstrate the same pattern. Or consider that the first five cases ever detected were all from the market, and even that’s enough to prove at least a pared-down version of Worobey’s thesis. It’s fine to also want to make sure the official argument is exactly right and not biased. But _just_ doing that seems like a failure of focus.
 

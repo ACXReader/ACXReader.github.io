@@ -2,7 +2,6 @@
 title: "2023 Subscription Drive + Free Unlocked Posts"
 subtitle: "..."
 date: 2023-01-13
-likes: 113
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/95308207/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/77ef5f78-5a42-483c-86fe-9f3a0fddeb76_1187x676.png

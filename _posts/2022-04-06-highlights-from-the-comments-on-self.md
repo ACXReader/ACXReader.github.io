@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Self-Determination"
 subtitle: "..."
 date: 2022-04-06
-likes: 42
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/51617215/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/de599500-6916-4ef5-83ae-f77d6cf37c4b_635x349.png

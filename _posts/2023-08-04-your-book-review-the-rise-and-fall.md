@@ -2,7 +2,6 @@
 title: "Your Book Review: The Rise and Fall of the Third Reich"
 subtitle: "Finalist #12 in the Book Review Contest"
 date: 2023-08-04
-likes: 174
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123518057/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/39e3b145-dcab-4dd3-b505-517f90044e1b_2405x1642.webp

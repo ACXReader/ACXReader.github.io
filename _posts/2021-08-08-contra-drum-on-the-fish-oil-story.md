@@ -2,7 +2,6 @@
 title: "Contra Drum On The Fish Oil Story"
 subtitle: "..."
 date: 2021-08-08
-likes: 112
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/39760335/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/73493201-a2b3-43e6-b9fc-c2ef93c907a8_1950x1280.png

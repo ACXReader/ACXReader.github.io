@@ -2,7 +2,6 @@
 title: "Your Book Review: The Educated Mind"
 subtitle: "Finalist #9 in the Book Review Contest"
 date: 2023-07-14
-likes: 301
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123360040/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/0c003650-7e2b-4100-904d-f53ee461d4b7_736x522.png

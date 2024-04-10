@@ -2,7 +2,6 @@
 title: "Subscrive Drive 2024 + Free Unlocked Posts"
 subtitle: "..."
 date: 2024-01-18
-likes: 104
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140612121/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/df8c6522-64c9-4da1-9e8c-8a8169c12e99_632x415.png

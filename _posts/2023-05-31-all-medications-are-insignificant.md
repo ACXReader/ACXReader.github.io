@@ -2,7 +2,6 @@
 title: "All Medications Are Insignificant In The Eyes Of God And Traditional Effect Size Criteria"
 subtitle: "..."
 date: 2023-05-31
-likes: 260
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/124313293/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/1d5af9df-01c0-46f3-87cc-f56ef1bf9a80_3450x1946.webp

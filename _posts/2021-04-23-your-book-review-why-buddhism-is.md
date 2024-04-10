@@ -2,7 +2,6 @@
 title: "Your Book Review: Why Buddhism Is True"
 subtitle: "Finalist #5 of the book review contest"
 date: 2021-04-23
-likes: 52
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35452414/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a5795c71-caa6-4c55-b547-110ecac8bee2_1200x900.webp

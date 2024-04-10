@@ -2,7 +2,6 @@
 title: "Contra Hoffman On Vitamin D Dosing"
 subtitle: "..."
 date: 2022-04-22
-likes: 83
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/51821259/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0be5c188-47c8-44e9-9ceb-e006d19f936f_474x291.jpeg

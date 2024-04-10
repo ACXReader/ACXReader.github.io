@@ -2,7 +2,6 @@
 title: "Will Nonbelievers Really Believe Anything?"
 subtitle: "..."
 date: 2022-08-11
-likes: 172
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/64396629/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/957aa822-3db1-4021-89dd-9072ecf46052_940x529.webp

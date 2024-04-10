@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Last Week's Model Cities Post"
 subtitle: "..."
 date: 2023-09-11
-likes: 48
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136809933/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/a2ac7558-fd2a-4ab4-a539-ce3f038c4712_642x408.png

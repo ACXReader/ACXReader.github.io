@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On \"Crazy Like Us\""
 subtitle: "..."
 date: 2021-07-21
-likes: 45
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38884480/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ad21e43e-8a35-418a-a2e1-3a8208c50199_680x383.jpeg

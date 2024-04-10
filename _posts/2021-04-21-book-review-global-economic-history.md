@@ -2,7 +2,6 @@
 title: "Book Review: Global Economic History"
 subtitle: "Review and commentary on Robert Allen's \"Global Economic History: A Very Short Introduction\""
 date: 2021-04-21
-likes: 74
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35451493/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e117aca0-9ac5-477d-b27f-d91d347139e2_429x223.png

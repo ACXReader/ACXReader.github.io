@@ -2,7 +2,6 @@
 title: "Your Book Review: The Dawn Of Everything"
 subtitle: "..."
 date: 2022-06-10
-likes: 300
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/58900472/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ad56f9ae-c1c3-4f49-858c-cb63b598e08d_866x494.webp

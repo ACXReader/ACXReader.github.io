@@ -2,7 +2,6 @@
 title: "You Don't Hate Polyamory, You Hate People Who Write Books"
 subtitle: "..."
 date: 2024-02-07
-likes: 383
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/141358165/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/525bbd7f-844c-402e-b363-1458475892db_291x173.jpeg

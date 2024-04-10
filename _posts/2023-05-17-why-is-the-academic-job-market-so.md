@@ -2,7 +2,6 @@
 title: "Why Is The Academic Job Market So Weird?"
 subtitle: "..."
 date: 2023-05-17
-likes: 201
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/121221132/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/3733a7e4-c543-43eb-a3a0-715f98152c6b_10000x4332.jpeg

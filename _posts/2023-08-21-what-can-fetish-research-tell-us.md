@@ -2,7 +2,6 @@
 title: "What Can Fetish Research Tell Us About AI?"
 subtitle: "Epistemic status: Ha ha, only serious"
 date: 2023-08-21
-likes: 187
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135362263/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/79749b70-6143-42e5-9b7f-b9604a80bd7b_1200x967.png

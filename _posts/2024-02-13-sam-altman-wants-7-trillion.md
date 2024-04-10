@@ -2,7 +2,6 @@
 title: "Sam Altman Wants $7 Trillion"
 subtitle: "Machine Alignment Monday 2/12/24"
 date: 2024-02-13
-likes: 242
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/141569076/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/7eb2039d-4e6a-445d-99f5-571657ea85e1_2000x1423.jpeg

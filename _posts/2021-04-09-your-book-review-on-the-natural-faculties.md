@@ -2,7 +2,6 @@
 title: "Your Book Review: On The Natural Faculties"
 subtitle: "Finalist #2 of the book review contest"
 date: 2021-04-09
-likes: 148
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34926767/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/41c63a80-46db-4de7-b739-dbca470e2c10_960x600.jpeg

@@ -2,7 +2,6 @@
 title: "Contra The Social Model Of Disability"
 subtitle: "..."
 date: 2023-07-14
-likes: 259
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/132516929/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/0bbb6d8f-8950-44fe-b703-1c12b29359bf_1600x1112.webp

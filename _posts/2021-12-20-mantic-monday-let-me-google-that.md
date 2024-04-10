@@ -2,7 +2,6 @@
 title: "Mantic Monday: Let Me Google That For You"
 subtitle: "Plus options, prisons, obesity, and human sacrifice"
 date: 2021-12-20
-likes: 41
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45727338/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e3348fda-07f3-4795-8841-0cfc419cc068_408x218.png

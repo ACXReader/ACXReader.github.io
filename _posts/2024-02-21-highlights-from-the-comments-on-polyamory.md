@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Polyamory"
 subtitle: "..."
 date: 2024-02-21
-likes: 82
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/141726468/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/1d3239b3-3339-4d4c-8401-56aefbd7a8a8_950x496.jpeg

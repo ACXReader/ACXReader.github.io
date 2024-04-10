@@ -2,7 +2,6 @@
 title: "Your Book Review: 1587, A Year Of No Significance"
 subtitle: "Finalist #15 in the Book Review Contest"
 date: 2022-08-19
-likes: 165
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/69435385/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/119b3521-e041-4012-96a4-143a747f2219_1193x863.jpeg

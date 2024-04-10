@@ -2,7 +2,6 @@
 title: "Contra Dynomight On Sexy In-Laws"
 subtitle: "..."
 date: 2022-05-16
-likes: 94
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/53770706/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2ac167ea-d923-46b6-af28-537079e7cc44_640x465.png

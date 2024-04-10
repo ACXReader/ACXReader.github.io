@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Elon Musk"
 subtitle: "..."
 date: 2023-09-18
-likes: 101
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/137106694/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/263e3bd8-09b6-4583-9256-70f6c4893861_680x371.jpeg

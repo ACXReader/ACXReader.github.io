@@ -2,7 +2,6 @@
 title: "Contra Smith On Jewish Selective Immigration"
 subtitle: "..."
 date: 2021-06-14
-likes: 196
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37145417/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/745b2968-a512-4b5b-910e-005eaecc73a0_1145x963.jpeg

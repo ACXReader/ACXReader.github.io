@@ -2,7 +2,6 @@
 title: "Lockdown Effectiveness: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2021-07-07
-likes: 103
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37964932/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1130c083-6dcc-4d2f-97d1-095278d8a1f5_919x792.jpeg

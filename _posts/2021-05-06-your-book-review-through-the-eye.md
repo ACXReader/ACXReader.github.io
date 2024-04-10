@@ -2,7 +2,6 @@
 title: "Your Book Review: Through The Eye Of A Needle"
 subtitle: "Finalist #8 of the Book Review Contest"
 date: 2021-05-06
-likes: 45
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36126612/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c4024e34-4619-4034-8e73-ea0b1833b188_736x432.jpeg

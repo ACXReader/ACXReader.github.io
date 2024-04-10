@@ -2,7 +2,6 @@
 title: "Prospectus On Próspera"
 subtitle: "A look at Próspera, the charter city taking shape in Honduras"
 date: 2021-04-14
-likes: 222
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34436669/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ffb82f5f-5495-46a6-ac11-a9252ef549d8_1631x908.png

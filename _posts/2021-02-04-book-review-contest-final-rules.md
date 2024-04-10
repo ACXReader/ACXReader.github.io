@@ -2,7 +2,6 @@
 title: "Book Review Contest Final Rules"
 subtitle: "..."
 date: 2021-02-04
-likes: 36
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32207983/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/430241cb-ade5-4316-b1c9-6e3fe6e63e5e_256x256.png

@@ -2,7 +2,6 @@
 title: "Eight Hundred Slightly Poisoned Word Games"
 subtitle: "Do CO2 levels really affect cognition?"
 date: 2021-08-09
-likes: 95
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38917186/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8b64b7ce-5795-405f-8cc7-c3307a3bf4db_568x299.png

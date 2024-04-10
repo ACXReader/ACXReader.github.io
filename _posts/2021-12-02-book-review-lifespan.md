@@ -2,7 +2,6 @@
 title: "Book Review: Lifespan"
 subtitle: "..."
 date: 2021-12-02
-likes: 158
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44050250/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/dbc8879b-4c67-4a27-956e-89c41145cec4_536x394.png

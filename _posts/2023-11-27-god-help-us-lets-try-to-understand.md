@@ -2,7 +2,6 @@
 title: "God Help Us, Let's Try To Understand AI Monosemanticity"
 subtitle: "Inside every AI is a bigger AI, trying to get out"
 date: 2023-11-27
-likes: 279
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/138968567/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/e3a2a957-0d98-4d59-8d41-b461c421c9d7_210x136.png

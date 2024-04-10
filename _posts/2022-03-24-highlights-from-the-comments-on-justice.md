@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Justice Creep"
 subtitle: "..."
 date: 2022-03-24
-likes: 76
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/50861569/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/45f5cdcb-8dd8-44ad-92ef-aa0bfb948a41_1024x683.jpeg

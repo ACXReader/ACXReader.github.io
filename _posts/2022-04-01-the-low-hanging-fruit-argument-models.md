@@ -2,7 +2,6 @@
 title: "The Low-Hanging Fruit Argument: Models And Predictions"
 subtitle: "..."
 date: 2022-04-01
-likes: 101
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/51086762/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f8edb3bf-dbfc-4bdd-b82e-8e9174adbe07_345x226.png

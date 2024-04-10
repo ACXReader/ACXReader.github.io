@@ -2,7 +2,6 @@
 title: "Bay Area Plant-Based Meat Reviews"
 subtitle: "Eight vegan/vegetarian restaurant options."
 date: 2021-02-26
-likes: 71
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32963867/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9e3d1e68-5a67-4750-af29-191df493f31d_1000x750.jpeg

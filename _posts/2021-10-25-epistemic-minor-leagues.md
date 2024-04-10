@@ -2,7 +2,6 @@
 title: "Epistemic Minor Leagues"
 subtitle: "..."
 date: 2021-10-25
-likes: 177
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/43040292/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/61cbcfcc-a20c-497f-b9a1-81700f723010_280x184.jpeg

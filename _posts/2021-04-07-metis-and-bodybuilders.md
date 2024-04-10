@@ -2,7 +2,6 @@
 title: "Metis And Bodybuilders"
 subtitle: "Who'd win in a fight - a community of practitioners with skin in the game, or academic scientists with peer-reviewed studies?"
 date: 2021-04-07
-likes: 115
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34880927/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a04c1a6d-3d7b-4a10-b3ae-83f6cffb4809_1076x879.png

@@ -2,7 +2,6 @@
 title: "Take The 2022 ACX Survey!"
 subtitle: "..."
 date: 2022-12-30
-likes: 75
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/93705158/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8361f00d-3031-43a3-920e-506d687c33fa_2250x1500.jpeg

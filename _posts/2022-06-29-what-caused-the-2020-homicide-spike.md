@@ -2,7 +2,6 @@
 title: "What Caused The 2020 Homicide Spike?"
 subtitle: "..."
 date: 2022-06-29
-likes: 324
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/61103156/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5995aff8-6cb1-4164-95d7-2b9931bf22ae_1920x1080.webp

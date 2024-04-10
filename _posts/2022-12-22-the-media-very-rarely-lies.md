@@ -2,7 +2,6 @@
 title: "The Media Very Rarely Lies"
 subtitle: "\"With a title like that, obviously I will be making a nitpicky technical point.\""
 date: 2022-12-22
-likes: 515
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/81312519/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cf1c36f4-4f19-419a-9825-5e2b423e5b6a_976x549.jpeg

@@ -2,7 +2,6 @@
 title: "Links For July"
 subtitle: "..."
 date: 2021-07-23
-likes: 68
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38889391/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0fc51471-4883-4ebb-9806-11756dc03127_800x533.jpeg

@@ -2,7 +2,6 @@
 title: "Book Review: The Man From The Future"
 subtitle: "..."
 date: 2022-07-13
-likes: 246
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/62533781/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/81b62d4c-2bbc-46c9-898d-ff2a029ac874_800x500.jpeg

@@ -2,7 +2,6 @@
 title: "2020 Predictions: Calibration Results"
 subtitle: "My project of predicting years meets its hardest challenge yet"
 date: 2021-04-05
-likes: 61
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34773443/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F373991e5-c7de-4b1f-bc24-0f6d8bb816dc_462x337.png

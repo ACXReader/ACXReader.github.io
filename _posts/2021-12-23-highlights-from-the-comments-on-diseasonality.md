@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Diseasonality"
 subtitle: "..."
 date: 2021-12-23
-likes: 44
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45706834/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cb0b7c7c-fa85-4d26-b76c-7d2e89b78359_750x511.png

@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Subcultures"
 subtitle: "..."
 date: 2022-08-19
-likes: 63
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/68682708/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c75c2da-b210-4dc9-a2cc-14944879b608_584x350.jpeg

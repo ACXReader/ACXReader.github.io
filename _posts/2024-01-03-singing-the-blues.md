@@ -2,7 +2,6 @@
 title: "Singing The Blues"
 subtitle: "..."
 date: 2024-01-03
-likes: 339
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/140279341/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/dfa07e16-fcff-4d9a-af9a-960bbfbc19e8_745x564.png

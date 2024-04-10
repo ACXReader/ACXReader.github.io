@@ -2,7 +2,6 @@
 title: "Meetups Everywhere 2021: Times And Places"
 subtitle: "..."
 date: 2021-08-23
-likes: 30
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40351354/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a6daeafa-e0b7-4e0f-813a-c73f87081fc0_1000x667.jpeg

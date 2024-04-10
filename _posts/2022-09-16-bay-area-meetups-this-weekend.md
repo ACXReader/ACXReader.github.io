@@ -2,7 +2,6 @@
 title: "Bay Area Meetups This Weekend"
 subtitle: "..."
 date: 2022-09-16
-likes: 17
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/73660351/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a9a4a438-5dff-49a2-9cdb-5ecee76a0600_1008x758.webp

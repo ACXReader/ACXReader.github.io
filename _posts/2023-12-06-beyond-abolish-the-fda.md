@@ -2,7 +2,6 @@
 title: "Beyond \"Abolish The FDA\""
 subtitle: "..."
 date: 2023-12-06
-likes: 193
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/139224674/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/f01c1aff-9a23-4831-9777-807289d77cda_300x168.jpeg

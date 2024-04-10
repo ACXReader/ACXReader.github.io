@@ -2,7 +2,6 @@
 title: "Open Thread 194 + London/Oxford Meetups This Weekend"
 subtitle: "..."
 date: 2021-10-15
-likes: 12
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/42617554/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d8cdb15f-b1df-42e5-a34b-56381dfeff61_2153x1313.png

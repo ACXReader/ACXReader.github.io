@@ -2,7 +2,6 @@
 title: "In Defense Of Describable Dating Preferences"
 subtitle: "..."
 date: 2023-08-16
-likes: 204
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135883963/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/f5e17f5c-8fcc-4e9a-b8fb-1d736cde8000_3200x2133.webp

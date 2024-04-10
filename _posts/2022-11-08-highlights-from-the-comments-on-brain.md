@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Brain Waves"
 subtitle: "..."
 date: 2022-11-08
-likes: 52
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/83156610/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2e93b9f7-17c8-42f5-a0a1-ccbb93ed4f2e_255x255.webp

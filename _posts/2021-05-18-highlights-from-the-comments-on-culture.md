@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Culture Wars"
 subtitle: "..."
 date: 2021-05-18
-likes: 77
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36464513/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f0d5b13b-5392-45f4-bfdb-acc1c6826884_544x600.jpeg

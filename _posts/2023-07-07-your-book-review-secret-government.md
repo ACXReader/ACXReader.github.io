@@ -2,7 +2,6 @@
 title: "Your Book Review: Secret Government"
 subtitle: "Finalist #8 in the Book Review Contest"
 date: 2023-07-07
-likes: 132
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123358545/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/e41a5d83-a3ff-4b20-8077-5fc08ca6fbf8_612x407.jpeg

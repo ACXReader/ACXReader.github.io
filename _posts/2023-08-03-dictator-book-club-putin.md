@@ -2,7 +2,6 @@
 title: "Dictator Book Club: Putin"
 subtitle: "Review of Masha Gessen's \"The Man Without A Face\""
 date: 2023-08-03
-likes: 174
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/134180409/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/b424cc20-0234-4207-8d0b-bbd2cddf6d3a_650x350.png

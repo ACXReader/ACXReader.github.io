@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Housing Density And Prices"
 subtitle: "..."
 date: 2023-05-10
-likes: 72
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/119545176/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d6a6159-a16f-45e3-b15a-e62cb2c73336_1200x900.jpeg

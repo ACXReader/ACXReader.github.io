@@ -2,7 +2,6 @@
 title: "Your Book Review: The Internationalists"
 subtitle: "Finalist #8 in the Book Review Contest"
 date: 2022-07-01
-likes: 72
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/62111294/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c8b04ed9-f14a-43bb-994b-f90368f68d48_1024x1024.png

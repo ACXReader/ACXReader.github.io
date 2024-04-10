@@ -2,7 +2,6 @@
 title: "ACX Grants: Project Updates"
 subtitle: "How are grantees doing after one year?"
 date: 2022-11-04
-likes: 64
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/81846625/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a1bdcda0-193e-4e47-a239-1c499a8c7901_1388x896.jpeg

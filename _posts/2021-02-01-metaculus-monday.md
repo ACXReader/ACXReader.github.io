@@ -2,7 +2,6 @@
 title: "Metaculus Monday"
 subtitle: "What do prediction markets think of the coronavirus?"
 date: 2021-02-01
-likes: 88
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32042050/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e5722078-e6b5-4d7a-8d9d-7d0f70a7fcb2_248x248.png

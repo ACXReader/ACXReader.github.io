@@ -2,7 +2,6 @@
 title: "Book Review: The New Sultan"
 subtitle: "Summary and commentary on Soner Cagaptay's \"The New Sultan: Erdogan And The Crisis Of Modern Turkey\""
 date: 2021-03-18
-likes: 202
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/33889879/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b845f5ab-342c-45d2-b525-1fbaeea3cd4f_822x617.jpeg

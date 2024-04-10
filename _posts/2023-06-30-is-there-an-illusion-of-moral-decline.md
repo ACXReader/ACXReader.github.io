@@ -2,7 +2,6 @@
 title: "Is There An Illusion Of Moral Decline?"
 subtitle: "..."
 date: 2023-06-30
-likes: 273
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/131849352/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/6abc494b-1756-47ca-9741-8dced3cf14de_362x229.jpeg

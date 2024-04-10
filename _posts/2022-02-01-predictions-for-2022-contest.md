@@ -2,7 +2,6 @@
 title: "Predictions For 2022"
 subtitle: "Plus a contest where you try to beat me"
 date: 2022-02-01
-likes: 42
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/47551031/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4f24ecb7-36d0-4c6b-b0c9-c748c6de499d_1244x750.png

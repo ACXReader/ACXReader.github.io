@@ -2,7 +2,6 @@
 title: "Instead Of Pledging To Change The World, Pledge To Change Prediction Markets"
 subtitle: "..."
 date: 2021-06-07
-likes: 114
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37312588/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1f3330f5-1e46-4f7e-8d32-6ad475055490_800x533.jpeg

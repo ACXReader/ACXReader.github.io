@@ -2,7 +2,6 @@
 title: "Movie Review: Don't Look Up"
 subtitle: "Warning: contains spoilers"
 date: 2022-01-04
-likes: 275
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/46274448/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0d8a6c2e-2d55-4c4d-980b-669839b97920_1280x720.jpeg

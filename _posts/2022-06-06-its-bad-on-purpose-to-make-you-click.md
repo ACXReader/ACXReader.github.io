@@ -2,7 +2,6 @@
 title: "It's Bad On Purpose To Make You Click"
 subtitle: "..."
 date: 2022-06-06
-likes: 281
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/58296564/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/40c60ac6-e5b2-49e8-bfa3-4527fdfe9daf_891x565.png

@@ -2,7 +2,6 @@
 title: "In Continued Defense Of Effective Altruism"
 subtitle: "\"All you do is cause boardroom drama, and maybe some other things I’m forgetting...\""
 date: 2023-11-28
-likes: 381
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/86909076/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/bb8a88c6-16f9-4801-a4bb-f085c03b8098_696x650.png

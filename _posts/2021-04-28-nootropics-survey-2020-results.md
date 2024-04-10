@@ -2,7 +2,6 @@
 title: "Nootropics Survey 2020 Results"
 subtitle: "852 people put weird chemicals in their bodies and tell me what happened"
 date: 2021-04-28
-likes: 90
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35699087/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/408d8337-f7e8-4034-b6aa-969d49c3f141_3450x1946.webp

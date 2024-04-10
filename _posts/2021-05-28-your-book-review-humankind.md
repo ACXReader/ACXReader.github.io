@@ -2,7 +2,6 @@
 title: "Your Book Review: Humankind"
 subtitle: "Finalist #12 of the Book Review Contest"
 date: 2021-05-28
-likes: 58
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36894227/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e55464fc-6bf7-4d11-bdcf-401ebb89e5f6_1200x800.jpeg

@@ -2,7 +2,6 @@
 title: "The Passage Of Polymarket"
 subtitle: "Mantic Monday 2/7/22"
 date: 2022-02-07
-likes: 101
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/48322340/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/637bc38e-62f4-49ea-ba43-e86c0e9370ba_640x360.jpeg

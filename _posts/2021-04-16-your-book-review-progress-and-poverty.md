@@ -2,7 +2,6 @@
 title: "Your Book Review: Progress And Poverty"
 subtitle: "Finalist #3 of the book review contest"
 date: 2021-04-16
-likes: 157
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35215568/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/616a5110-fc76-44c8-86b8-70517a591786_739x457.jpeg

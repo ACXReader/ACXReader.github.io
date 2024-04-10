@@ -2,7 +2,6 @@
 title: "Addendum To \"No Evidence\" Post"
 subtitle: "..."
 date: 2021-12-23
-likes: 87
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45744837/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/34c327ae-7749-4f7e-bb2a-a3a8ccf1edf6_680x439.jpeg

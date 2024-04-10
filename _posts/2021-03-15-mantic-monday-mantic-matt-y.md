@@ -2,7 +2,6 @@
 title: "Mantic Monday: Mantic Matt Y"
 subtitle: "..."
 date: 2021-03-15
-likes: 109
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/33710409/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/152fd5f4-dcb2-4c70-847f-2c7a1376c55e_800x640.jpeg

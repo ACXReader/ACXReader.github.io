@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On The Repugnant Conclusion And WWOTF"
 subtitle: "..."
 date: 2022-08-25
-likes: 55
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/70086027/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9dfa8353-fdd9-47fb-9dc9-493d3e66665d_535x382.jpeg

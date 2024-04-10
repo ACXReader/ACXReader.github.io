@@ -2,7 +2,6 @@
 title: "Contra Hoel On Aristocratic Tutoring"
 subtitle: "..."
 date: 2022-03-22
-likes: 149
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/50658926/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0c59e248-b4ab-48e1-a706-27fe0a8f7167_345x226.png

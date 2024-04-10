@@ -2,7 +2,6 @@
 title: "Ezra Klein On Vetocracy"
 subtitle: "What's the government's E/I balance? What should it be?"
 date: 2021-02-20
-likes: 94
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32489185/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b12f4a19-908f-4652-ba99-fa1c980da2f6_928x483.jpeg

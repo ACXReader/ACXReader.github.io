@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Modern Architecture"
 subtitle: "..."
 date: 2021-10-04
-likes: 77
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/42030368/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2de2665a-20fe-4de6-a9c2-e7c1df2f1dd8_680x471.jpeg

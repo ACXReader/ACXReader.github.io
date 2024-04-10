@@ -2,7 +2,6 @@
 title: "Too Good To Check: A Play In Three Acts"
 subtitle: "..."
 date: 2021-09-06
-likes: 323
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40966737/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/324424c5-a4de-4449-829f-a35b96e8bdec_755x458.jpeg

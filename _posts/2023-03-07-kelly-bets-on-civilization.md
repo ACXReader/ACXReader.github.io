@@ -2,7 +2,6 @@
 title: "Kelly Bets On Civilization"
 subtitle: "..."
 date: 2023-03-07
-likes: 177
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/104605044/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/ff1613e4-4aa2-42ec-a2e8-105653103f1a_1172x942.png

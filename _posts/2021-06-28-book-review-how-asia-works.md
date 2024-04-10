@@ -2,7 +2,6 @@
 title: "Book Review: How Asia Works"
 subtitle: "..."
 date: 2021-06-28
-likes: 154
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36736777/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/11ce83c5-e924-4891-8de9-f93af468534a_733x413.jpeg

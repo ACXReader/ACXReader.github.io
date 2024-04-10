@@ -2,7 +2,6 @@
 title: "Open Thread 195 + Cambridge/Edinburgh Meetups This Weekend"
 subtitle: "..."
 date: 2021-10-22
-likes: 16
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/42977392/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fd66938b-f99a-4c57-9601-2456d3d8355b_251x201.jpeg

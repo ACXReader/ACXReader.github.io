@@ -2,7 +2,6 @@
 title: "The Mystery Of Internet Survey IQs"
 subtitle: "..."
 date: 2024-03-20
-likes: 110
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/136151229/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2cfc82a-1d04-4b3a-9e6b-0ac0f213a00d_674x558.png

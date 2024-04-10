@@ -2,7 +2,6 @@
 title: "Followup: Quests And Requests"
 subtitle: "..."
 date: 2023-11-10
-likes: 32
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/138719190/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/bc87bf10-79c4-4efb-adb3-c8e5bd9fc278_800x525.png

@@ -2,7 +2,6 @@
 title: "ACX Grants Followup Impact Market"
 subtitle: "..."
 date: 2024-03-07
-likes: 27
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/142350630/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/9928e619-654c-4acc-b84a-183f339fb135_674x505.png

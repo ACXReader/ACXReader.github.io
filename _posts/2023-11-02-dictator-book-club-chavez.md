@@ -2,7 +2,6 @@
 title: "Dictator Book Club: Chavez"
 subtitle: "Review of Rory Carroll's \"Comandante\""
 date: 2023-11-02
-likes: 218
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/137684508/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/6b84dcb8-ba1a-4222-af7d-28c3864f5723_852x479.jpeg

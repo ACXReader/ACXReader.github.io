@@ -2,7 +2,6 @@
 title: "Book Review: First Sixth Of Bobos In Paradise"
 subtitle: "..."
 date: 2022-12-01
-likes: 159
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/86889708/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1c874fbd-02ca-4833-964a-19a443782b7f_383x333.webp

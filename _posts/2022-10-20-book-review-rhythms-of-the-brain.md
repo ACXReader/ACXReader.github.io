@@ -2,7 +2,6 @@
 title: "Book Review: Rhythms Of The Brain"
 subtitle: "..."
 date: 2022-10-20
-likes: 150
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/76187439/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/59b9a274-72d0-46fe-ac7e-dad3271526b3_1024x1024.png

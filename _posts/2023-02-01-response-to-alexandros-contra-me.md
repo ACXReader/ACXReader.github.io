@@ -2,7 +2,6 @@
 title: "Response To Alexandros Contra Me On Ivermectin"
 subtitle: "..."
 date: 2023-02-01
-likes: 103
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/96979578/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/eeb8c233-a719-453b-b015-bdd789b13b3f_843x600.png

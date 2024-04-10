@@ -2,7 +2,6 @@
 title: "\"Is Wine Fake?\" In Asterisk Magazine"
 subtitle: "..."
 date: 2022-11-21
-likes: 113
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/85968820/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e81814ca-680d-4cbd-bdba-451ac6942516_1519x789.png

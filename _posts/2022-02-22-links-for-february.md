@@ -2,7 +2,6 @@
 title: "Links For February"
 subtitle: "..."
 date: 2022-02-22
-likes: 65
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/49041403/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a23e7166-a9e2-43d7-96b0-79348eede5d1_800x533.jpeg

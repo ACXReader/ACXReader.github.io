@@ -2,7 +2,6 @@
 title: "WebMD, And The Tragedy Of Legible Expertise"
 subtitle: "What does running a medical database teach you about why everything sucks?"
 date: 2021-02-05
-likes: 315
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32242316/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c164b79f-835d-4010-a364-91591a857eaf_417x436.png

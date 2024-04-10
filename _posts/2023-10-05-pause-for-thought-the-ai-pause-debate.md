@@ -2,7 +2,6 @@
 title: "Pause For Thought: The AI Pause Debate"
 subtitle: "..."
 date: 2023-10-05
-likes: 93
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/137504176/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/60b0c7c2-b832-4ef6-854b-5e03ec2acc45_640x360.jpeg

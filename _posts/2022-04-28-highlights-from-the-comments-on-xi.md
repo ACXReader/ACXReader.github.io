@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Xi Jinping"
 subtitle: "..."
 date: 2022-04-28
-likes: 74
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/52748890/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8effdbe8-c61d-45c0-b35d-786fccc72b1a_332x255.webp

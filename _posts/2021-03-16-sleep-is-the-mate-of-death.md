@@ -2,7 +2,6 @@
 title: "Sleep Is The Mate Of Death"
 subtitle: "How is depression like sleep, and why does sleep deprivation treat depression?"
 date: 2021-03-16
-likes: 157
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/33799765/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f55b07c7-fb6f-4e75-8588-25517308908b_900x717.jpeg

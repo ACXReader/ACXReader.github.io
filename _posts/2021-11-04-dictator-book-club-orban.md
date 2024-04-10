@@ -2,7 +2,6 @@
 title: "Dictator Book Club: Orban"
 subtitle: "..."
 date: 2021-11-04
-likes: 149
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/42566685/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7685941b-8447-409c-8ef8-92c774271fd2_1320x880.jpeg

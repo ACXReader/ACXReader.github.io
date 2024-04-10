@@ -2,7 +2,6 @@
 title: "Somewhat Contra Marcus On AI Scaling"
 subtitle: "..."
 date: 2022-06-10
-likes: 106
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/58486941/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c1d452e2-03fa-40a4-aaad-ad4a844ea364_600x600.jpeg

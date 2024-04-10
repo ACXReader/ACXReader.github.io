@@ -2,7 +2,6 @@
 title: "Links For May"
 subtitle: "..."
 date: 2021-05-20
-likes: 52
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36430852/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/60b81452-9b5f-4b1e-a211-39061a03ab20_800x533.jpeg

@@ -2,7 +2,6 @@
 title: "Model City Monday 11/8/21"
 subtitle: "Liberty! Prosperity! Giant gold golf balls!"
 date: 2021-11-08
-likes: 51
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/43340291/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6498f90d-9cdf-41d2-ae2b-304062ac58cc_1200x900.webp

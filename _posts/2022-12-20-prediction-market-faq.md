@@ -2,7 +2,6 @@
 title: "Prediction Market FAQ"
 subtitle: "..."
 date: 2022-12-20
-likes: 146
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/91718311/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d74325ed-7b88-446e-bc07-294dc4c2c00f_613x430.png

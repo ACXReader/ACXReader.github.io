@@ -2,7 +2,6 @@
 title: "Men Will Literally Have Completely Different Mental Processes Instead Of Going To Therapy"
 subtitle: "..."
 date: 2022-03-23
-likes: 185
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/50666668/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b4f69a7a-a5a8-4759-9132-d3a0982ca691_862x663.png

@@ -2,7 +2,6 @@
 title: "Your Book Review: Addiction By Design"
 subtitle: "Finalist #10 of the Book Review Contest"
 date: 2021-05-14
-likes: 109
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36429925/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7058e250-74f3-40ef-9c12-f91245bcb5d7_2263x1500.jpeg

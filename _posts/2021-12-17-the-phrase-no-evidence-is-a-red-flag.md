@@ -2,7 +2,6 @@
 title: "The Phrase \"No Evidence\" Is A Red Flag For Bad Science Communication"
 subtitle: "..."
 date: 2021-12-17
-likes: 330
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45503590/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe23c3be8-57fd-4c89-b959-488469a72f80_1861x1200.png

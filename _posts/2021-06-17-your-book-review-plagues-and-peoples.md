@@ -2,7 +2,6 @@
 title: "Your Book Review: Plagues And Peoples"
 subtitle: "Finalist #17 in the Book Review Contest"
 date: 2021-06-17
-likes: 44
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37699359/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ce4b7b71-7a65-4c3d-b6c3-1bc131cc8bb4_2405x1495.jpeg

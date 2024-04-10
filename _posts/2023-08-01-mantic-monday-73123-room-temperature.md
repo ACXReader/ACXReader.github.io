@@ -2,7 +2,6 @@
 title: "Mantic Monday 7/31/23: Room Temperature Superforecaster"
 subtitle: "Plus more CFTC, X, and UFOs"
 date: 2023-08-01
-likes: 91
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135425310/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/9fdbe6da-4544-41a9-aa0d-f6e5bd7e3c40_1280x1158.jpeg

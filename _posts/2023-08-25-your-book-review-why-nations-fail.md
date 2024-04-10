@@ -2,7 +2,6 @@
 title: "Your Book Review: Why Nations Fail"
 subtitle: "Finalist #15 in the Book Review Contest"
 date: 2023-08-25
-likes: 125
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123527886/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/1b28f506-dfb1-4021-874b-1cea00f3d529_800x600.jpeg

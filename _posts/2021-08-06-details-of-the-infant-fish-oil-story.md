@@ -2,7 +2,6 @@
 title: "Details Of The Infant Fish Oil Story"
 subtitle: "..."
 date: 2021-08-06
-likes: 127
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/39676895/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/afe9a03e-da4a-4507-99c6-f54f1a709f72_600x324.jpeg

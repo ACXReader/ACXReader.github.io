@@ -2,7 +2,6 @@
 title: "Another Bay Area House Party"
 subtitle: "..."
 date: 2022-10-19
-likes: 326
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/74852396/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fb1f71b3-98b5-4853-b693-264926a24f36_1024x1024.png

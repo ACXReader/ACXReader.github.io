@@ -2,7 +2,6 @@
 title: "Verses On Five People Being Killed By A Falling Package Of Foreign Aid"
 subtitle: "..."
 date: 2024-03-14
-likes: 404
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/142447491/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/a5ccd66f-60b0-41d6-89d8-56951154458e_238x171.png

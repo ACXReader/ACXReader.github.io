@@ -2,7 +2,6 @@
 title: "Your Book Review: Kora In Hell"
 subtitle: "Finalist #16 in the Book Review Contest"
 date: 2022-08-26
-likes: 44
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/70509069/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3896c106-5f55-4b7e-bf52-e97a7ee39fb7_942x623.png

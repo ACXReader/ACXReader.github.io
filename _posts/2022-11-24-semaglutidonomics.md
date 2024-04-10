@@ -2,7 +2,6 @@
 title: "Semaglutidonomics"
 subtitle: "140 million obese Americans x $15,000/year for obesity drugs = . . . uh oh, that can't be right."
 date: 2022-11-24
-likes: 214
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/79110254/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7b732498-0673-4405-a365-0d049705fadc_900x555.png

@@ -2,7 +2,6 @@
 title: "Diseasonality"
 subtitle: "Why is winter flu season? Why do diseases even have a season?"
 date: 2021-12-08
-likes: 92
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44275659/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0cc33ea4-4688-4d17-bbd6-a7c679674118_750x511.png

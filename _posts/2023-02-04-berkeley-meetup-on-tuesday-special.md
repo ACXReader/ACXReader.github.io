@@ -2,7 +2,6 @@
 title: "Berkeley Meetup On Tuesday, Special Guest Daniel Ingram"
 subtitle: "..."
 date: 2023-02-04
-likes: 30
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/100714200/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4ddd5c51-26ce-4d92-98cb-d71a0e584283_1024x676.jpeg

@@ -2,7 +2,6 @@
 title: "Your Book Review: The Righteous Mind"
 subtitle: "Finalist #10 in the Book Review Contest"
 date: 2022-07-15
-likes: 125
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/64253212/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c8606c9d-bb36-4028-873a-1ed4d719e84e_1010x674.png

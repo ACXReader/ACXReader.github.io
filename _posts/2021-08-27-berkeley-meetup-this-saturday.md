@@ -2,7 +2,6 @@
 title: "Berkeley Meetup This Saturday"
 subtitle: "..."
 date: 2021-08-27
-likes: 17
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40543215/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/131983c1-bf63-46e4-bc36-b14deeecc876_975x650.jpeg

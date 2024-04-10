@@ -2,7 +2,6 @@
 title: "New York Meetup On Sunday"
 subtitle: "..."
 date: 2023-07-26
-likes: 40
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135446658/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/bce75e77-3d90-4c64-87f6-706bfae7dcf6_2190x1369.jpeg

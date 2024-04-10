@@ -2,7 +2,6 @@
 title: "Effective Altruism As A Tower Of Assumptions"
 subtitle: "..."
 date: 2022-08-24
-likes: 261
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/69906838/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/50904f0a-4daf-4436-9fd3-a36671530f79_640x468.jpeg

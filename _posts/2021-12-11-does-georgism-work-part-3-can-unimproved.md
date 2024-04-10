@@ -2,7 +2,6 @@
 title: "Does Georgism Work, Part 3: Can Unimproved Land Value be Accurately Assessed Separately From Buildings?"
 subtitle: "A guest post on Georgism by Lars Doucet"
 date: 2021-12-11
-likes: 52
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45309834/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/be6ab4f8-1185-44d3-9922-ce42f82c9594_719x511.jpeg

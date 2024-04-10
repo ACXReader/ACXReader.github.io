@@ -2,7 +2,6 @@
 title: "Your Book Review: The Collapse Of Complex Societies"
 subtitle: "Finalist #13 in the Book Review Contest"
 date: 2021-06-03
-likes: 50
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37177325/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6265a9ea-3f93-4ee4-b465-85e49419c5c4_730x485.jpeg

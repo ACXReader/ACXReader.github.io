@@ -2,7 +2,6 @@
 title: "Book Review Contest Rules 2024"
 subtitle: "..."
 date: 2024-03-02
-likes: 69
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/142228689/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/79bb900e-5f11-4a7f-b8e3-b746693787a9_2560x1587.jpeg

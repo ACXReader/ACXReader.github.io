@@ -2,7 +2,6 @@
 title: "Why Is The Central Valley So Bad?"
 subtitle: "..."
 date: 2022-09-21
-likes: 176
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/73111127/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c613382-ec3d-421a-b13b-5fee75594959_1280x720.jpeg

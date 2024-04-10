@@ -2,7 +2,6 @@
 title: "The Buying Things From A Store FAQ"
 subtitle: "..."
 date: 2022-12-21
-likes: 131
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/91780926/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f33a5871-2bd0-40fb-90c8-abe283770699_500x375.jpeg

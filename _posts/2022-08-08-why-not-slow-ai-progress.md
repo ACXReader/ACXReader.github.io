@@ -2,7 +2,6 @@
 title: "Why Not Slow AI Progress?"
 subtitle: "Machine Alignment Monday 8/8/22"
 date: 2022-08-08
-likes: 175
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/64440194/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5f4127cf-642f-4acf-aa1a-8fbf610e3418_540x360.jpeg

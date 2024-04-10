@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Zulresso"
 subtitle: "..."
 date: 2022-03-16
-likes: 37
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/50266343/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/974cbaa1-29db-4ee3-8d48-cd0c49c5ffa0_341x246.png

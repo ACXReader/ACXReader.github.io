@@ -2,7 +2,6 @@
 title: "Your Book Review: Double Fold"
 subtitle: "Finalist #6 of the book review contest"
 date: 2021-04-30
-likes: 56
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/35789659/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0b2c56d4-1c42-4933-9124-050c40ce2ee6_409x269.jpeg

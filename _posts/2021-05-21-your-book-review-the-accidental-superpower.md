@@ -2,7 +2,6 @@
 title: "Your Book Review: The Accidental Superpower"
 subtitle: "Finalist #11 of the Book Review Contest"
 date: 2021-05-21
-likes: 47
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36701278/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c239fc22-d643-488c-8c6a-b9103da8be49_1600x1244.jpeg

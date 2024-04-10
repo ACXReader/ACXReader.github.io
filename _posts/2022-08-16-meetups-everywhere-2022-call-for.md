@@ -2,7 +2,6 @@
 title: "Meetups Everywhere 2022 - Call For Organizers"
 subtitle: "Please volunteer to host a meetup in your city!"
 date: 2022-08-16
-likes: 39
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/68757115/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/296c0900-1f71-46b4-99c2-33702e3e061d_1000x667.jpeg

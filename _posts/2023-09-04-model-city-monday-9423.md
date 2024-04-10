@@ -2,7 +2,6 @@
 title: "Model City Monday 9/4/23: California Dreamin'"
 subtitle: "Tech moguls plan new city in Solano County"
 date: 2023-09-04
-likes: 119
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135420060/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89c660db-739a-4d46-9048-10cf7c398cef_640x624.webp

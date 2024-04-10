@@ -2,7 +2,6 @@
 title: "Peer Review: Nightmares"
 subtitle: "..."
 date: 2022-06-16
-likes: 76
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/56582901/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/edc65f51-a398-4489-903f-51fe5b579772_3013x2442.jpeg

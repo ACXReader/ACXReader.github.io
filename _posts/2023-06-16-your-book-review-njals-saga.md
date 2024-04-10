@@ -2,7 +2,6 @@
 title: "Your Book Review: Njal’s Saga"
 subtitle: "Finalist #5 in the Book Review Contest"
 date: 2023-06-16
-likes: 243
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123313560/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/991ff950-9c79-47aa-b420-d0082727a940_562x375.jpeg

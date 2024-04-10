@@ -2,7 +2,6 @@
 title: "Conspiracies of Cognition, Conspiracies Of Emotion"
 subtitle: "..."
 date: 2023-01-13
-likes: 262
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/95486802/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/af07042d-5ba2-47a1-a7d4-7eea549fe5fc_500x334.jpeg

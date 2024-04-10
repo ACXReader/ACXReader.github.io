@@ -2,7 +2,6 @@
 title: "In The Long Run, We're All Dad"
 subtitle: "..."
 date: 2023-12-22
-likes: 1,034
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/138980068/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/2044dfb1-656e-48d9-82ee-5d1464297433_929x629.png

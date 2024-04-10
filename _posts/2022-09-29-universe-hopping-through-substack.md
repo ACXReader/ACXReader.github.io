@@ -2,7 +2,6 @@
 title: "Universe-Hopping Through Substack"
 subtitle: "..."
 date: 2022-09-29
-likes: 310
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/73791957/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/042267c0-9ecf-4931-acee-0de3edc5ae23_1024x1024.png

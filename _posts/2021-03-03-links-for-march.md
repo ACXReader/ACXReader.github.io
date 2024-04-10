@@ -2,7 +2,6 @@
 title: "Links For March"
 subtitle: "..."
 date: 2021-03-03
-likes: 97
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32134985/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/49d5d3b5-1896-4f0f-bd83-f1427e95ad12_800x533.jpeg

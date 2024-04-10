@@ -2,7 +2,6 @@
 title: "Book Review: Crazy Like Us"
 subtitle: "Summary and commentary on Ethan Watters' \"Crazy Like Us: The Globalization Of The American Psyche\""
 date: 2021-07-15
-likes: 144
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/38622262/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/da8ce1db-c070-4ed9-b830-e4e87de16461_1280x720.jpeg

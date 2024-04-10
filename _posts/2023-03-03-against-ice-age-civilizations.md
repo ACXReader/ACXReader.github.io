@@ -2,7 +2,6 @@
 title: "Against Ice Age Civilizations"
 subtitle: "..."
 date: 2023-03-03
-likes: 167
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/105276825/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/c8eb8521-5b2e-410f-9947-fb46bf7961b4_367x252.png

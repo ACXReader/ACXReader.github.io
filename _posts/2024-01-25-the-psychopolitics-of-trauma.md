@@ -2,7 +2,6 @@
 title: "The Psychopolitics Of Trauma"
 subtitle: "..."
 date: 2024-01-25
-likes: 478
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/125990073/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/c972ff1d-8fef-405b-9a57-8989db36225c_904x640.gif

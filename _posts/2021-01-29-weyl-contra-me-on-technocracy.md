@@ -2,7 +2,6 @@
 title: "Weyl Contra Me On Technocracy"
 subtitle: "Glen Weyl's response to my critique of his technocracy essay"
 date: 2021-01-29
-likes: 110
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32011219/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b28e66ca-727f-4b92-a62d-38726ce928ff_2034x766.png

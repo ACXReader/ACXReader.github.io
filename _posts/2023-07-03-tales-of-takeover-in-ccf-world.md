@@ -2,7 +2,6 @@
 title: "Tales Of Takeover In CCF-World"
 subtitle: "Machine Alignment Monday, 7/3/2023"
 date: 2023-07-03
-likes: 130
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/127647897/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/36680f43-9767-4ae4-be1d-3dfd0eaca263_661x439.png

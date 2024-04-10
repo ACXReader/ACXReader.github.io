@@ -2,7 +2,6 @@
 title: "If You're So Smart, Why Aren't You Governor Of California?"
 subtitle: "..."
 date: 2021-08-25
-likes: 122
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40430745/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8174c060-0b21-4f0c-b4d0-ef33a09701ed_2500x1744.jpeg

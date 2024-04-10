@@ -2,7 +2,6 @@
 title: "Why I'm Less Than Infinitely Hostile To Cryptocurrency"
 subtitle: "..."
 date: 2022-12-08
-likes: 316
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/85488768/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a2dc04f4-44c5-4713-bdea-4b5e7e677d88_697x282.png

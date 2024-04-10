@@ -2,7 +2,6 @@
 title: "Jhanas and the Dark Room Problem"
 subtitle: "..."
 date: 2021-10-29
-likes: 108
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40744814/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/789af51d-9c1d-47f9-9882-fa6c88e76649_403x364.png

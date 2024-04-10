@@ -2,7 +2,6 @@
 title: "More Memorable Passages From \"The Man Without A Face\""
 subtitle: "..."
 date: 2023-08-04
-likes: 112
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135677698/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/5340308e-4689-43a7-b0b5-23e60010995b_650x350.png

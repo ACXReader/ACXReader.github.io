@@ -2,7 +2,6 @@
 title: "Why Is It Hard To Acknowledge Preferences?"
 subtitle: "..."
 date: 2021-05-05
-likes: 176
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/36085289/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5b7d0396-398c-4640-8a12-c6a7bb6ec3bc_3500x2625.jpeg

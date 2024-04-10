@@ -9,7 +9,7 @@ original-url: https://www.astralcodexten.com/p/spring-meetups-everywhere-2024
 ---
 Many cities have regular Astral Codex Ten meetup groups. Twice a year, I try to advertise their upcoming meetups and make a bigger deal of it than usual so that irregular attendees can attend. This is one of those times.
 
-This year we have spring meetups planned in over eighty cities, from Tokyo, Japan to Seminyak, Bali. Thanks to all the organizers who responded to my request for details, and to Meetups Czar Skyler and the Less Wrong team for making this happen.
+This year we have spring meetups planned in over eighty cities, from Tokyo, Japan to Seminyak, Indonesia. Thanks to all the organizers who responded to my request for details, and to Meetups Czar Skyler and the Less Wrong team for making this happen.
 
 You can find the list below, in the following order:
 
@@ -57,7 +57,7 @@ If you need to change a meetup date or you have any other questions, please emai
 Contact: Shai  
 Contact Info: dizinteria[at]walla[dot]com  
 Time: Tuesday, April 9th, 6:00 PM  
-Location: We'll be in the zikaron garden next to the city hall, in a picnic blanket on the grass and I will be wearing a red shirt and carrying a sign with ACX MEETUP on it.  
+Location: We'll be in the zikaron garden next to the city hall, in a picnic blanket on the grass and I will be wearing a red shirt and carrying a sign with ACX MEETUP on it.If it rains we will meet up in a bookstore called 'goldmund' which is located at ekron street 6.  
 Coordinates: <https://plus.codes/8G4PRX7X+CQ>
 
 **JERUSALEM, ISRAEL**  
@@ -97,6 +97,23 @@ Location: Truth Coffee Roasting, 36 Buitenkant St, Cape Town City Centre - we'll
 Coordinates: https://plus.codes/4FRW3CCF+P3  
 Additional Notes: Please RSVP on LessWrong or email or WhatsApp +27 79 813 5144, so I know how big a table to book.
 
+## **Turkey**
+
+**ANTALYA, TURKEY**  
+Contact: Annalise  
+Contact Info: annalisetarhan[at]gmail[dot]com  
+Time: Saturday, May 11th, 3:00 PM  
+Location: Beach Park, Shakespeare, on the patio  
+Coordinates: <https://plus.codes/8G8GVMMC+4VR>
+
+**ISTANBUL, TURKEY**  
+Contact: Ozge  
+Contact Info: ozgeco[at]yahoo[dot]com  
+Time: Saturday, May 4th, 12:00 PM  
+Location: We meet in Kadıkoy at Kahve Dunyası at Yeni Iskele. Yeni Iskele is the seaport where we take ferry to get to Eminonu/Karakoy from Kadıkoy ( not to Besiktas). Please go upstairs, walk through the bookstore Istanbul Kitapcisi to meet me at the terrace. I will have a ACX MEETUP sign. If it rains, we meet inside the cafe, or under large cafe umbrellas.  
+Coordinates: <https://plus.codes/8GGFX2VC+4R>  
+Notes: I hope we chat with coffee.
+
 # Asia-Pacific
 
 ## Australia
@@ -133,16 +150,6 @@ Time: Thursday, April 18th, 6:00 PM
 Location: Club Sydney (RSL Sydney) 565 George St, Sydney NSW 2000 Instructions: entry needs photo ID. We meet on Level 2, the Chinese restaurant, in the glassed-off section.   
 Coordinates: <https://plus.codes/4RRH46F4+98>  
 Group Link: <https://www.meetup.com/rationalists_of_sydney/>
-
-## Bali
-
-**SEMINYAK**  
-Contact: Maciej  
-Contact Info: maciej[dot]acx[at]gmail[dot]com  
-Time: Saturday, April 20th, 1:00 PM  
-Location: Ingka Petitenget  
-Coordinates: <https://plus.codes/6P3Q85G5+XW>  
-Notes: Try to drop me an email if you might be coming, so I can estimate if anybody is / how many people are coming
 
 ## China
 
@@ -188,10 +195,29 @@ Contact Info: e2y94n1nv[at]relay[dot]firefox[dot]com
 Time: Sunday, April 14th, 10:15 AM  
 Location: Versova Social, Juhu Versova Link Rd, Gharkul Society, Bharat Nagar, Versova, Andheri West, Mumbai, Maharashtra 400061, India  
 Coordinates: <https://plus.codes/7JFJ4RGC+H5>  
-Event Link: <https://www.lesswrong.com/groups/MsTdZ4KpJmHFmLrt4>  
+Event Link: <https://www.lesswrong.com/events/4aAkHFJikMrtyhHZn/spring-meetups-everywhere-2024>  
 Group Link: LessWrong: <https://www.lesswrong.com/groups/MsTdZ4KpJmHFmLrt4>  
 Email List:[https://groups.google.com/g/acx-mumbai/about ](https://groups.google.com/g/acx-mumbai/about)  
 Notes: Please RSVP on LessWrong and join our google group: [https://groups.google.com/g/acx-mumbai/about ](https://groups.google.com/g/acx-mumbai/about)
+
+## Indonesia
+
+**JAKARTA, INDONESIA**  
+Contact: Jati (twitter @samsarigged)  
+Contact Info: Martius[dot]surya[at]gmail[dot]com  
+Time: Sunday, April 21, 02:00 PM  
+Location: Crematology X Senopati (South Jakarta)  
+Coordinates: <https://plus.codes/6P58QR77+RG>  
+Group Link: There used to be one but it is now inactive.  
+Additional Notes: Please email me at martius.surya[at]gmail[dot]com, but it is also fine if you come unannounced!
+
+**SEMINYAK, BALI, INDONESIA**  
+Contact: Maciej  
+Contact Info: maciej[dot]acx[at]gmail[dot]com  
+Time: Saturday, April 20, 01:00 PM  
+Location: Ingka Petitenget  
+Coordinates: <https://plus.codes/6P3Q85G5+XW>  
+Additional Notes: Try to drop me an email if you might be coming, so I can estimate if anybody is / how many people are coming
 
 ## Japan
 
@@ -240,16 +266,16 @@ Location: Daan Park - northeast field next to the basketball courts (backup: Lea
 Coordinates: <https://plus.codes/7QQ32GJP+PG3>  
 Notes: Backup location coordinates: <https://plus.codes/7QQ32GMJ+GHR>
 
-## Veitnam
+## Vietnam
 
-**HANOI, VEITNAM**  
+**HANOI, VIETNAM**  
 Contact: Jord Nguyen  
 Contact Info: jordnguyen43[at]gmail[dot]com  
 Time: Sunday, May 5th, 10:00 AM  
 Location: The Keep Cafe & Board Game, 76 P. Kim Mã Thượng, Cống Vị, Ba Đình, Hà Nội, Vietnam.   
 Coordinates: <https://plus.codes/7PH72RP6+GG>
 
-**HO CHI MINH, VEITNAM**  
+**HO CHI MINH, VIETNAM**  
 Contact: Hiep  
 Contact Info: hiepbq14408[at]gmail[dot]com  
 Time: Sunday, April 14th, 9:00 AM  
@@ -297,10 +323,10 @@ Location: probably Skautský institut Brno, see FB event before the meetup, for 
 Coordinates: <https://plus.codes/8FXR5JX4+W7>  
 Additional Notes: For further details see: [https://www.facebook.com/events/420155810598847 ](https://www.facebook.com/events/420155810598847)
 
-**PRAGUE**  
+**PRAGUE, CZECHIA**  
 Contact: Daniel Hnyk  
 Contact Info: betualphu[at]gmail[dot]com  
-Time: Tuesday, April 16th, 6:00 PM  
+Time: Tuesday, April 22nd, 6:00 PM  
 Location: Fixed Point. Koperníkova 6, 120 00 Praha, Česká Republika  
 Coordinates: <https://plus.codes/9F2P3CCR+3C>  
 Group Link: <https://fb.me/e/28OXui8Zy>  
@@ -395,6 +421,7 @@ Contact: Dmitrii
 Contact Info: overfull_jailbird656[at]simplelogin[dot]com  
 Time: Saturday, April 6th, 12:00 PM  
 Location: <https://f0rth.space>  
+Event Link: <https://t.me/f0rthsp4ce/347>  
 Coordinates: <https://plus.codes/8HH6PQ4J+MJ>
 
 ## Germany
@@ -420,6 +447,7 @@ Contact Info: acx-meetups[at]martinmilbradt[dot]de
 Time: Sunday, May 26th, 2:00 PM  
 Location: Big lawn at the center of Humboldthain  
 Coordinates: <https://plus.codes/9F4MG9WP+36>  
+Event Link: <https://www.lesswrong.com/events/A4ZYjHFnvMkifTxzf/berlin-acx-meetups-everywhere-spring-2024>  
 Group Link: <https://www.lesswrong.com/groups/MGAtkuYmX3hZ6eeaw>
 
 **BREMEN, GERMANY**  
@@ -469,8 +497,15 @@ Group Link: <https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R>
 Contact: Niko  
 Contact Info: hamburger_blues[at]disroot[dot]org   
 Time: Saturday, April 6th, 7:30 PM  
-Location: Lille Brauerei & Schankraum | I'll carry ACX MEETUP sign  
-Coordinates: <https://plus.codes/9F6G84M6+29>
+Location: TraumGmbH | I'll carry ACX MEETUP sign  
+Coordinates: <https://plus.codes/9F6G84M8+XQ>
+
+**LEIPZIG, GERMANY**  
+Contact: Daniel Böttger  
+Contact Info: daniel[dot]boettger[at]gmail[dot]com  
+Time: Wednesday, April 17, 05:00 PM  
+Location: We'll meet at the Pavillon in the East corner of Johannapark, and will have a big sign with the ACX logo.  
+Coordinates: <https://plus.codes/9F3J89M8+XQ>
 
 **MANNHEIM, GERMANY**  
 Contact: Simon  
@@ -602,7 +637,8 @@ Contact: Frank
 Contact Info: phraneck[at]gmail[dot]com  
 Time: Saturday, April 6th, 3:00 PM  
 Location: Rynek Dębnicki 3  
-Coordinates: <https://plus.codes/9F2X3W2G+VQ>
+Coordinates: <https://plus.codes/9F2X3W2G+VQ>  
+Notes: The event is at an apartment. If you're coming please email me so I can tell you how to get in
 
 **WARSAW, POLAND**  
 Contact: Jan Rzymkowski  
@@ -684,13 +720,14 @@ Notes: Please RSVP on LessWrong if possible, it helps with logistics to estimate
 
 ## Spain
 
-**ALICANTE, SPAIN**  
+**~~ALICANTE, SPAIN~~**~~  
 Contact: Will  
 Contact Info: will[dot]worth[at]gmail[dot]com  
 Time: Saturday, April 20th, 1:00 PM  
 Location: Parque Canalejas(park next to the esplanada and port, central Alicante)  
-Coordinates: <https://plus.codes/8CCX8GR7+C6>  
-Notes: Hispanohablantes, sois bienvenidos/English speakers welcome
+Coordinates: ~~[~~https://plus.codes/8CCX8GR7+C6~~](https://plus.codes/8CCX8GR7+C6)~~  
+Notes: Hispanohablantes, sois bienvenidos/English speakers welcome~~  
+EDIT: The organizer needed to cancel. If anyone else wants to pick this up, let Skyler know, but no organizer is there.
 
 **BARCELONA, SPAIN**  
 Contact: Melanie Brennan  
@@ -735,23 +772,6 @@ Location: Blatterwiese in front of the chinese garden. If it rains we will be un
 Coordinates: <https://plus.codes/8FVC9H32+V8>  
 Notes: Please drop me a line at the email address given to be added to the mailing list.
 
-## **Turkey**
-
-**ANTALYA, TURKEY**  
-Contact: Annalise  
-Contact Info: annalisetarhan[at]gmail[dot]com  
-Time: Saturday, May 11th, 3:00 PM  
-Location: Beach Park, Shakespeare, on the patio  
-Coordinates: <https://plus.codes/8G8GVMMC+4VR>
-
-**ISTANBUL, TURKEY**  
-Contact: Ozge  
-Contact Info: ozgeco[at]yahoo[dot]com  
-Time: Saturday, May 4th, 12:00 PM  
-Location: We meet in Kadıkoy at Kahve Dunyası at Yeni Iskele. Yeni Iskele is the seaport where we take ferry to get to Eminonu/Karakoy from Kadıkoy ( not to Besiktas). Please go upstairs, walk through the bookstore Istanbul Kitapcisi to meet me at the terrace. I will have a ACX MEETUP sign. If it rains, we meet inside the cafe, or under large cafe umbrellas.  
-Coordinates: <https://plus.codes/8GGFX2VC+4R>  
-Notes: I hope we chat with coffee.
-
 ## UK
 
 **CAMBRIDGE, ENGLAND, UK**  
@@ -777,7 +797,7 @@ Contact Info: acxedinburgh[at]gmail[dot]com
 Time: Saturday, May 4th, 2:00 PM  
 Location: Braid room, 2nd floor, Pleasance (turn right when you go under an archway into the courtyard)  
 Coordinates: <https://plus.codes/9C7RWRW9+W7>  
-Group Link: We run ~monthly meetups; email acxedinburgh@gmail.com to join the mailing list and whatsapp group  
+Group Link: We run ~monthly meetups; email acxedinburgh[at]gmail[dot]com to join the mailing list and whatsapp group  
 Notes: We generally 'assign' 3 essays to lightly guide the discussion, so make sure you join the mailing list to find out what they'll be for this meetup (I haven't decided yet)
 
 **LONDON, ENGLAND, UK**  
@@ -802,7 +822,7 @@ Notes: Please RSVP by email so I can book a sufficiently sized table/know if we'
 Contact: Chris Goodall  
 Contact Info: wardle[at]live[dot]fr  
 Time: Sunday, April 28th, 12:00 PM  
-Location: "The Food Pit" in the centre of Riverwalk mall, Framwelgate, next to the river. I will wear the Hawaiian shirt and hold the Astral Codex10 sign. Hopefully we'll make it up the steps to the cathedral but this is a step-free place to start.  
+Location: "The Food Pit" in the centre of Riverwalk mall, Framwelgate, Durham, next to the river. I will wear the Hawaiian shirt and hold the Astral Codex10 sign. Hopefully we'll make it up the steps to the cathedral but this is a step-free place to start.  
 Coordinates: <https://plus.codes/9C6WQCGC+VH>  
 Notes: If you're coming a long way by East Coast Main Line, be sure to check if breaking the journey saves you money.
 
@@ -815,19 +835,19 @@ Coordinates: <https://plus.codes/9C3WPQX6+QM>
 Event Link: <https://www.lesswrong.com/events/vnuaj5rCGnfXvaLac/oxrat-acx-meetups-everywhere-spring-2024>  
 Group Link: <https://www.facebook.com/groups/oxfordrationalish> <https://www.lesswrong.com/groups/wQA8BE5e8mETeWb8A>
 
-**SHEFFIELD, ENGLAND, UK**  
-Contact: Colin Z. Robertson  
-Contact Info: czr[at]rtnl[dot]org[dot]uk  
-Time: Saturday, April 27th, 3:00 PM  
-Location: 200 Degrees, 25 Division St, Sheffield S1 4GE. I'll have a piece of paper on the table with ACX written on it.  
-Coordinates: <https://plus.codes/9C5W9GJG+2M>
-
 **READING, ENGLAND, UK**  
 Contact: Chris  
 Contact Info: ReadingACX[at]gmail[dot]com  
 Time: Saturday, April 13th, 1:00 PM  
 Location: Double-Barrelled Brewery  
 Coordinates: <https://plus.codes/9C3WFX7Q+7W>
+
+**SHEFFIELD, ENGLAND, UK**  
+Contact: Colin Z. Robertson  
+Contact Info: czr[at]rtnl[dot]org[dot]uk  
+Time: Saturday, April 27th, 3:00 PM  
+Location: 200 Degrees, 25 Division St, Sheffield S1 4GE. I'll have a piece of paper on the table with ACX written on it.  
+Coordinates: <https://plus.codes/9C5W9GJG+2M>
 
 ## Ukraine
 
@@ -889,7 +909,7 @@ Time: Saturday, May 11th, 4:00 PM
 Location: 70 Gloucester St (The LOOP apartment building), 28th floor rooftop patio! Buzzer is 2103 for entry to the building, and then come on up to the top floor. If rain happens to move us indoors on the 11th, we'll be meeting one floor down from the patio, in the Sky Lounge of 70 Gloucester. We should be the only group meeting in either of these places but we will still have "ACX" signs, and I will be identifiable as the one with the big orange scarf.  
 Coordinates: <https://plus.codes/87Q6C894+P2>  
 Group Link: <https://www.lesswrong.com/groups/PB4YL2K54CzmQDtC4>, <https://www.facebook.com/groups/rationalottawa>, Attend a meetup to receive an invite to our discord!  
-Notes: Dinner will be provided in the evening, but feel free to bring snacks to share earlier on! Kids welcome. Please RSVP to help make planning smoother for me- by email to rationalottawa@gmail.com, on Lesswrong, or on Facebook. Thank you!
+Notes: Dinner will be provided in the evening, but feel free to bring snacks to share earlier on! Kids welcome. Please RSVP to help make planning smoother for me- by email to rationalottawa[at]gmail[dot]com, on Lesswrong, or on Facebook. Thank you!
 
 **SAINT JOHN, NEW BRUNSWICK, CANADA**  
 Contact: Sergey  
@@ -924,6 +944,16 @@ Event Link: <https://www.lesswrong.com/events/vwZsrqkp84YyfzRaR/2024-acx-spring-
 Group Link: <https://www.lesswrong.com/groups/NiM9cQJ5qXqhdmP5p>  
 Notes: We run weekly meetups! Check out [kwrationality.ca](http://kwrationality.ca) for more info.
 
+## Costa Rica
+
+**TAMARINDO**  
+Contact: Timeless  
+Contact Info: pvspam-acxorganiser[at]hacklab[dot]net  
+Time: Sunday, April 7th, 1:00 PM  
+Location: El Mercadito Food Court  
+Coordinates: <https://plus.codes/762P75X5+QMR>  
+Notes: Feel free to bring kids/dogs. I will wear a nerdy t-shirt and stay close to Asian Fusion Sushi section of the court.
+
 ## Mexico
 
 **MÉRIDA, MEXICO**  
@@ -942,16 +972,6 @@ Time: Saturday, April 13th, 5:00 PM
 Location: Cafebreria El Pendulo  
 Coordinates: <https://plus.codes/76F2CR6G+6R>  
 Group Link: <https://www.lesswrong.com/groups/uzTxYaFupgz9ZnCT5>
-
-## Costa Rica
-
-**TAMARINDO**  
-Contact: Timeless  
-Contact Info: pvspam-acxorganiser[at]hacklab[dot]net  
-Time: Sunday, April 7th, 1:00 PM  
-Location: El Mercadito Food Court  
-Coordinates: <https://plus.codes/762P75X5+QMR>  
-Notes: Feel free to bring kids/dogs. I will wear a nerdy t-shirt and stay close to Asian Fusion Sushi section of the court.
 
 ## USA
 
@@ -1064,7 +1084,7 @@ Contact Info: ddfr[at]daviddfriedman[dot]com
 Time: Saturday, April 13th, 2:00 PM  
 Location: 3806 Williams Rd, San Jose, CA  
 Coordinates: https://plus.codes/849W825J+7Q  
-Group Link: [http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html](https://www.lesswrong.com/events/ziyNTuMGquENeYyaN/los-angeles-ca-acx-spring-meetups-everywhere-2024-lw-acx)  
+Group Link: <http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html>  
 Notes: Kids welcome. Let me know if you plan to come: ddfr[at]daviddfriedman[dot]com. We feed dinner to those still here at dinner time.
 
 **SAN LUIS OBISPO, CALIFORNIA, USA**  
@@ -1144,7 +1164,7 @@ Contact: Chris
 Contact Info: Chriswarr45[at]gmail[dot]com  
 Time: Saturday, April 27th, 3:00 PM  
 Location: Hook Hall, 3400 Georgia Ave NW, Washington, DC 20010, I'll be wearing a blue hat   
-Coordinates: https://plus.codes/87C4WXJG+WC  
+Coordinates: <https://plus.codes/87C4WXJG+WC>  
 Group Link: There exist two facebook groups for DC: <https://www.facebook.com/groups/605023464809227/> and <https://www.facebook.com/groups/433668130485595>
 
 ### Florida
@@ -1156,7 +1176,7 @@ Time: Saturday, May 4th, 12:01 PM
 Location: 929 SW 54th Ln, Cape Coral, FL 33914  
 Coordinates: <https://plus.codes/76RWH224+44>
 
-**GAINSEVILLE, FLORIDA, USA**  
+**GAINESVILLE, FLORIDA, USA**  
 Contact: Russell  
 Contact Info: rchestnut1520[at]gmail[dot]com  
 Time: Monday, April 22nd, 6:00 PM  
@@ -1184,7 +1204,7 @@ Notes: I might be there earlier to watch the sunrise and then having the morning
 Contact: Eric  
 Contact Info: eric135033[at]gmail[dot]com  
 Time: Sunday, April 14th, 5:00 PM  
-Location: 111 Brickell Ave, Miami, FL 33131. If lobby doors are locked, enter through the Carrot Express.  
+Location: 1111 Brickell Ave, Miami, FL 33131. If lobby doors are locked, enter through the Carrot Express.  
 Coordinates: <https://plus.codes/76QXQR75+3C>  
 Group Link: <https://discord.gg/k2pzWUb9ss>
 
@@ -1303,17 +1323,19 @@ Notes: Please feel free to bring kids or pets! I'll be the one in the tall green
 **NEWTON, MASSACHUSETTS, USA**  
 Contact: duck_master  
 Contact Info: duckmaster0[at]protonmail[dot]com  
-Time: Sunday, April 7th, 12:00 PM  
-Location: Farlow Park/Chaffin Park (Centre St & Church St, Newton, MA, USA 02458; near Interstate 90/the Mass Pike)  
-Coordinates: <https://plus.codes/87JC9R38+J3>  
+Time: Sunday, April 07, 12:00 PM  
+Location: Upper Falls Greenway (Easy St, Newton, MA, USA 02461; just off Needham St, near the intersection with Dedham St and Winchester St)  
+Coordinates: <https://plus.codes/87JC8Q8Q+QH>  
 Group Link: <https://www.lesswrong.com/groups/HnrqwPvpX7TFtMwR9>  
-Notes: I will ask every attendee to introduce their name (and/or wear a nametag); otherwise this will mostly be general small talk
+Event Link: <https://www.lesswrong.com/events/j7xvKMy96W6Lcy77j/newton-acx-meetups-everywhere-spring-2024>  
+Additional Notes: Mostly unstructured talking. Anywhere along the Upper Falls Greenway (between Easy St and the Charles River, paralleling Needham St) works, since I expect we'll be walking to and fro. However, newbies should show up **at the Easy St end** so we don't get lost. If there's demand for it we can also migrate to the footpath on the Needham side of the river as well (between Highland Ave and 2nd Ave). I plan on bringing my plush duck. I may or may not bring nametags. If I don't bring nametags, I'll ask everyone to introduce their names (internet names are ok for this meetup). Other types of people beyond rationalists (eg postrats, alignment researchers, predictors, EAs, etc.) are welcome!  
+
 
 **NORTHAMPTON, MASSACHUSETTS, USA**  
 Contact: Alex Liebowitz  
 Contact Info: alex[at]alexliebowitz[dot]com  
 Time: Saturday, April 13th, 6:00 PM  
-Location: Common house at 100 Black Birch Trail, Northampton, MA 01062. The common house is the first building you see when coming into the community (but after the event parking, which lines the road leading in on the right).   
+Location: Common house at 100 Black Birch Trail, Northampton, MA 01062. The common house is the first building you see when coming into the community (but after the event parking, which lines the road leading in on the right). Facebook and Apple Maps show it as being in Florence, but Google Maps, Bing Maps and the official site show it as being in Northampton. (Florence is a village within Northampton, but both addresses are the same place.)  
 Coordinates: <https://plus.codes/87J9884H+VF>  
 Event Link: <https://www.lesswrong.com/events/78BKdkLerGaBwGTx6/northampton-ma-acx-meetup-spring-2024-meetups-everywhere>  
 Group Link: There's a mailing list, but you just email me at alex[at]alexliebowitz[dot]com to get on.  
@@ -1353,7 +1375,7 @@ Group Link: https://discord.gg/RnkfQW9dVK
 **KANSAS CITY, MISSOURI, USA**  
 Contact: Alex Hedtke  
 Contact Info: alex[dot]hedtke[at]gmail[dot]com  
-Time: Friday, May 10th, 5:00 AM  
+Time: Friday, May 10th, 5:00 PM  
 Location: 5200 Wornall Rd, Kansas City, MO 64112 (Jacob L. Loose Park) - We will be at the grill and the stone tables to the right of the entrance, between the entrance and the playground.  
 Coordinates: <https://plus.codes/86F72CM4+QH>  
 Group Link: <https://www.meetup.com/kc_rat_ea/>  
@@ -1411,13 +1433,6 @@ Notes: Please RSVP on LessWrong or by email (gabeaweil[at]gmail[dot]com) so I kn
 
 ### North Carolina
 
-**GREENSBORO, NORTH CAROLINA, USA**  
-Contact: Randall Hayes  
-Contact Info: vsi[dot]beacon[at]gmail[dot]com  
-Time: Saturday, April 6th, 5:00 PM  
-Location: Old Town Draught House, 1205 Spring Garden St, Greensboro, NC 27403 Coordinates: <https://plus.codes/8782358Q+7P>  
-Notes: This is a place of business, so no outside food or drink. Sorry. https://oldtowndraught.com/ If you're interested in Sci-Fi, there's a con going on down the block!
-
 **ASHEVILLE, NORTH CAROLINA, USA**  
 Contact: Vicki Williams  
 Contact Info: Vickirwilliams[at]gmail[dot]com  
@@ -1425,6 +1440,13 @@ Time: Saturday, April 27th, 6:00 PM
 Location: Biltmore Lake Fire Pit, 80 Lake Dr. Candler, NC. Parking in front of the basketball court, then walk along the lake to the fire pit behind the tennis court.  
 Coordinates: <https://plus.codes/867VG8MW+9G>  
 Notes: Please RSVP so I can get in touch in case of change in plans.
+
+**GREENSBORO, NORTH CAROLINA, USA**  
+Contact: Randall Hayes  
+Contact Info: vsi[dot]beacon[at]gmail[dot]com  
+Time: Saturday, April 6th, 5:00 PM  
+Location: Old Town Draught House, 1205 Spring Garden St, Greensboro, NC 27403 Coordinates: <https://plus.codes/8782358Q+7P>  
+Notes: This is a place of business, so no outside food or drink. Sorry. https://oldtowndraught.com/ If you're interested in Sci-Fi, there's a con going on down the block!
 
 **RALEIGH-DURHAM, NORTH CAROLINA, USA**  
 Contact: Logan  
@@ -1499,7 +1521,7 @@ Location: DEFAULT OUTDOOR LOCATION: CMU Campus, Jared L Cohon University Center,
 Coordinates: <https://plus.codes/87G2C3V5+6C>  
 Notes: The Pittsburgh ACX group meets around once a month, with most meetups taking place around Shady or East Liberty. If you'd like to be notified about future meetups, email pghacx[at]gmail[dot]com to be added to the mailing list.
 
-### Providence
+### Rhode Island
 
 **PROVIDENCE, RHODE ISLAND**  
 Contact: Freya  
@@ -1519,9 +1541,9 @@ Location: Picnic shelter at McKennan Park, or tables south of it if it's occupie
 Coordinates: <https://plus.codes/86M5G7JH+W5V>  
 Notes: Please RSVP on LW
 
-### Tenessee
+### Tennessee
 
-**MEMPHIS, TENESSEE, USA**  
+**MEMPHIS, TENNESSEE, USA**  
 Contact: Michael  
 Contact Info: michael[at]postlibertarian[dot]com  
 Time: Saturday, April 6th, 1:00 PM  
@@ -1646,7 +1668,7 @@ Coordinates: <https://plus.codes/84WVQG45+XQF>
 Group Link: <https://www.meetup.com/bellingham-rationalish-community/>  
 Notes: Please RSVP on Meetup or LessWrong (preferably Meetup) Event link: <https://www.meetup.com/bellingham-rationalish-community/events/299992021/>
 
-**SEATTLE, SEATTLE, USA**  
+**SEATTLE, WASHINGTON, USA**  
 Contact: Nikita Sokolsky  
 Contact Info: Sokolx[at]gmail[dot]com  
 Time: Sunday, April 28th, 5:00 PM  
@@ -1679,7 +1701,7 @@ Coordinates: <https://plus.codes/86QCRFW6+5J6>
 **BUENOS AIRES**  
 Contact: David Rivadeneira  
 Contact Info: david[dot]f[dot]rivadeneira[at]gmail[dot]com  
-Time: Thursday, April 4th, 7:00 PM  
+Time: Thursday, April 11th, 7:00 PM  
 Location: Gorriti 5996, C1414 BKL, Buenos Aires  
 Coordinates: <https://plus.codes/48Q3CH95+5C>  
 Group Link: <https://chat.whatsapp.com/LhvhRq8wyLILlyMoL1IJ4J>

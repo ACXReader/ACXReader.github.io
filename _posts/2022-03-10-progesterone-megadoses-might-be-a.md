@@ -2,7 +2,6 @@
 title: "Progesterone Megadoses Might Be A Cheap Zulresso Substitute"
 subtitle: "..."
 date: 2022-03-10
-likes: 52
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/49659230/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/594a59d7-054a-43df-a0cc-d7055a875295_341x246.png

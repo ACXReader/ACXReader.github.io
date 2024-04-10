@@ -2,7 +2,6 @@
 title: "Oh, The Places You'll Go When Trying To Figure Out The Right Dose Of Escitalopram"
 subtitle: "How high can you dose Lexapro before you stop getting extra benefit? And why is this such a hard question?"
 date: 2021-03-31
-likes: 74
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34574897/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4cf54939-1c3c-4fda-87ee-d3cf64464b76_997x639.jpeg

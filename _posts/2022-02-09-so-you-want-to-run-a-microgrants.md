@@ -2,7 +2,6 @@
 title: "So You Want To Run A Microgrants Program"
 subtitle: "..."
 date: 2022-02-09
-likes: 133
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/47831268/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85cb0cbd-d87c-4265-aa58-9f795e5f913e_1388x896.jpeg

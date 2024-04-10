@@ -2,7 +2,6 @@
 title: "Less Utilitarian Than Thou"
 subtitle: "..."
 date: 2024-02-28
-likes: 212
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/142053656/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/e9a0de27-de7c-436b-857a-7c21fc0f6a30_300x168.jpeg

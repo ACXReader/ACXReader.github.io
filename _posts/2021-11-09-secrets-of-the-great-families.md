@@ -2,7 +2,6 @@
 title: "Secrets Of The Great Families"
 subtitle: "..."
 date: 2021-11-09
-likes: 211
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/43579557/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6c6a35f9-8633-4fc7-b6f8-a45676bcc3db_1000x563.jpeg

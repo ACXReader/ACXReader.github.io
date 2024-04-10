@@ -2,7 +2,6 @@
 title: "Open Thread 191 + Madrid/Zurich Meetups This Weekend"
 subtitle: "..."
 date: 2021-09-24
-likes: 12
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/41734737/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6d193bfa-2dcb-40e7-9671-278d810a934d_1920x1440.jpeg

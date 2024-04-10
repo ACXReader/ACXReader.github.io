@@ -2,7 +2,6 @@
 title: "Crowds Are Wise (And One's A Crowd)"
 subtitle: "The long road to Moscow"
 date: 2023-02-06
-likes: 122
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/99315978/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/52b09478-ea82-4d66-bbdb-4461e8e93c12_600x399.jpeg

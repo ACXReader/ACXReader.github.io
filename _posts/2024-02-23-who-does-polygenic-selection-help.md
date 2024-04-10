@@ -2,7 +2,6 @@
 title: "Who Does Polygenic Selection Help?"
 subtitle: "..."
 date: 2024-02-23
-likes: 169
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/141267301/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/26e7774d-e64b-4ad4-ada2-c7624fe96921_1200x500.jpeg

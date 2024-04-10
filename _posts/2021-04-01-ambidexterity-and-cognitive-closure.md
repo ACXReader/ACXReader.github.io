@@ -2,7 +2,6 @@
 title: "Ambidexterity And Cognitive Closure"
 subtitle: "Are ambidextrous people really less authoritarian? Or just less conformist?"
 date: 2021-04-01
-likes: 71
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34657039/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ce497a53-1c49-4521-90fc-7f37e504ca65_630x472.png

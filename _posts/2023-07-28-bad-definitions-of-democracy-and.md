@@ -2,7 +2,6 @@
 title: "Bad Definitions Of \"Democracy\" And \"Accountability\" Shade Into Totalitarianism"
 subtitle: "..."
 date: 2023-07-28
-likes: 289
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/118492562/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/415bd3df-b63d-4548-a66f-b9ce6bc227bd_2107x1156.png

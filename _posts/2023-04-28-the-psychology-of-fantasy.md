@@ -2,7 +2,6 @@
 title: "The Psychology Of Fantasy"
 subtitle: "..."
 date: 2023-04-28
-likes: 142
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/116456698/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/5e6a2d74-934e-4173-85a1-34393eedd741_259x194.jpeg

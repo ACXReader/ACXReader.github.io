@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Supplement Labeling"
 subtitle: "..."
 date: 2022-10-26
-likes: 33
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/78648565/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3e903a1c-db1a-4627-addd-87be6bee1de9_255x255.webp

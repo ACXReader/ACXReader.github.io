@@ -2,7 +2,6 @@
 title: "Heuristics That Almost Always Work"
 subtitle: "..."
 date: 2022-02-08
-likes: 338
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/45269466/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5adbf108-fe67-4cd8-97a9-7c434c9a715b_736x526.jpeg

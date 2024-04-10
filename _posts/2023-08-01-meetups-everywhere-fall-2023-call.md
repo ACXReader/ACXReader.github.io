@@ -2,7 +2,6 @@
 title: "Meetups Everywhere Fall 2023 - Call For Organizers"
 subtitle: "..."
 date: 2023-08-01
-likes: 34
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135600514/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/049dcb0b-9407-44fe-a306-988b28926165_1000x667.jpeg

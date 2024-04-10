@@ -2,7 +2,6 @@
 title: "Your Book Review: The Castrato"
 subtitle: "..."
 date: 2022-06-03
-likes: 71
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/57854634/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F35e661d1-bb8e-4586-ab89-a8ccc302db8d_683x1024.jpeg

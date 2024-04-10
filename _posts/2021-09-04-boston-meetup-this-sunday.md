@@ -2,7 +2,6 @@
 title: "Boston Meetup This Sunday"
 subtitle: "..."
 date: 2021-09-04
-likes: 11
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40895891/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7f135982-158b-455d-81ce-db41b4533514_1180x740.jpeg

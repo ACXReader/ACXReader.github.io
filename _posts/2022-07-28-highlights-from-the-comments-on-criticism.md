@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Criticism Of Criticism Of Criticism"
 subtitle: "..."
 date: 2022-07-28
-likes: 66
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/65879375/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ba7f68b6-644c-438a-9048-5deabf5c6546_600x600.jpeg

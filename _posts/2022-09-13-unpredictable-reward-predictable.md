@@ -2,7 +2,6 @@
 title: "Unpredictable Reward, Predictable Happiness"
 subtitle: "..."
 date: 2022-09-13
-likes: 147
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/70797304/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3d3554c1-79d9-4549-bbcc-437cb5a16e43_840x529.jpeg

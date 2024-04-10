@@ -2,7 +2,6 @@
 title: "Even More Bay Area House Party"
 subtitle: "..."
 date: 2023-01-04
-likes: 470
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/93979932/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e26aab22-f34d-44c3-a923-c207fff6bd2e_512x512.png

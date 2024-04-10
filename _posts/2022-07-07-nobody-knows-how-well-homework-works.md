@@ -2,7 +2,6 @@
 title: "Nobody Knows How Well Homework Works"
 subtitle: "..."
 date: 2022-07-07
-likes: 139
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/62290136/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2275a12b-9190-447b-9008-bd23f2b38478_839x523.png

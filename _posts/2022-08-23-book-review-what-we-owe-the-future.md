@@ -2,7 +2,6 @@
 title: "Book Review: What We Owe The Future"
 subtitle: "..."
 date: 2022-08-23
-likes: 182
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/69594204/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/051d8840-77a5-4dfa-8a7c-fe6cd0c626da_535x382.png

@@ -2,7 +2,6 @@
 title: "Advice For Unwoke Academic?"
 subtitle: "..."
 date: 2022-03-10
-likes: 173
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/48318122/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cdae1a9b-31de-4f2a-adf5-a68f54f55c79_779x433.png

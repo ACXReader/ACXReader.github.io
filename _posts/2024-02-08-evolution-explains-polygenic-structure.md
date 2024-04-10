@@ -2,7 +2,6 @@
 title: "Evolution Explains Polygenic Structure"
 subtitle: "..."
 date: 2024-02-08
-likes: 127
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/141142911/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/4a026531-fc51-449b-8d18-579e359a53c4_1240x697.webp

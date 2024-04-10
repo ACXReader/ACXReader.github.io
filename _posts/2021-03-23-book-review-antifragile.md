@@ -2,7 +2,6 @@
 title: "Book Review: Antifragile"
 subtitle: "Summary and commentary on Nassim Taleb's \"Antifragile\""
 date: 2021-03-23
-likes: 140
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/34238824/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/db7e9c46-36a2-4610-8a13-8aec1f4c9a93_589x372.png

@@ -2,7 +2,6 @@
 title: "Constitutional AI: RLHF On Steroids"
 subtitle: "A Machine Alignment Monday post, 5/8/23"
 date: 2023-05-08
-likes: 180
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/118178440/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/5b976fdc-48b5-4105-95de-490489e6fe15_275x183.jpeg

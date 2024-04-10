@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Great Families"
 subtitle: "..."
 date: 2021-11-18
-likes: 47
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/44155533/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3b2a335b-e137-48d7-8800-81cb4bb46381_680x383.jpeg

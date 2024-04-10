@@ -2,7 +2,6 @@
 title: "Your Book Review: Down And Out In Paris And London"
 subtitle: "Finalist #15 in the Book Review Contest"
 date: 2021-06-10
-likes: 77
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37453757/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd824994c-1e24-4efd-a015-c86e9472c0ac_1014x1428.png

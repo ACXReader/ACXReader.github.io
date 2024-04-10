@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Health Care Systems"
 subtitle: "..."
 date: 2022-01-27
-likes: 51
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/47644805/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/02b6eecc-c27b-4af4-af12-7f2936a226c4_575x381.jpeg

@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Kids And Climate Change"
 subtitle: "..."
 date: 2021-10-13
-likes: 91
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/42503142/comments?&all_comments=true
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb86922b-b202-4ae5-b6f2-6a89ff98ba66_768x432.jpeg

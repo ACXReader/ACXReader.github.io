@@ -2,7 +2,6 @@
 title: "Model City Monday 8/2/21"
 subtitle: "I do not necessarily endorse any project mentioned here as reasonable, ethical, relevant, or sane"
 date: 2021-08-02
-likes: 50
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/39453583/comments?&all_comments=true
 image: https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28b65acc-14c0-4ce7-a059-af6061f63ac5_960x960.jpeg

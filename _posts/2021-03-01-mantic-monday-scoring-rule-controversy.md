@@ -2,7 +2,6 @@
 title: "Mantic Monday: Scoring Rule Controversy"
 subtitle: "..."
 date: 2021-03-01
-likes: 46
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/33060649/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/972ae339-67db-462b-a4af-508e937e5dbd_1280x1158.jpeg

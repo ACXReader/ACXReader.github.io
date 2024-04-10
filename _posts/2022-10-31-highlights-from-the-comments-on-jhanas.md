@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Jhanas"
 subtitle: "\"I think it’s the first time half the commenters accused the other half of lying\""
 date: 2022-10-31
-likes: 89
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/81472681/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1593a2fb-c4d9-494c-b37e-51b592057f52_680x563.jpeg

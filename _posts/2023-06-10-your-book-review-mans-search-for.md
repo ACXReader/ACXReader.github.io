@@ -2,7 +2,6 @@
 title: "Your Book Review: Man’s Search for Meaning"
 subtitle: "Finalist #4 in the Book Review Contest"
 date: 2023-06-10
-likes: 323
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123311883/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/f7b0b8d2-5d60-4cc8-9c2c-b108b66d764b_650x340.webp

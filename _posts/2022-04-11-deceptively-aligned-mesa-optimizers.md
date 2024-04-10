@@ -2,7 +2,6 @@
 title: "Deceptively Aligned Mesa-Optimizers: It's Not Funny If I Have To Explain It"
 subtitle: "A Machine Alignment Monday post, 4/11/22"
 date: 2022-04-11
-likes: 101
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/51970484/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7a265dd5-2703-450d-9c81-64810adfdfd3_1920x1440.jpeg

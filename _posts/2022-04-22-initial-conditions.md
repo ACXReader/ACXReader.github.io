@@ -2,7 +2,6 @@
 title: "Initial Conditions"
 subtitle: "..."
 date: 2022-04-22
-likes: 95
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/52660073/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b8d69795-3c95-4a3a-8c91-c2b825618681_1000x600.jpeg

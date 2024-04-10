@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Missing School"
 subtitle: "..."
 date: 2021-08-26
-likes: 77
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40487327/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e9bd87a1-64ae-40c8-8804-9e316eda2063_931x424.png

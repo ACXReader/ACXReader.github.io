@@ -2,7 +2,6 @@
 title: "Ontology Of Psychiatric Conditions: Dynamical Systems"
 subtitle: "How do mental illnesses change over time?"
 date: 2021-02-03
-likes: 155
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32170113/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2f4f2ab5-301d-46d2-bdb7-83fd61adb004_447x351.png

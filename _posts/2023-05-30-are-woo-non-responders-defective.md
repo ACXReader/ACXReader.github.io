@@ -2,7 +2,6 @@
 title: "Are Woo Non-Responders Defective?"
 subtitle: "..."
 date: 2023-05-30
-likes: 184
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/123450942/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/5f3068b2-a3d5-432e-8ace-b2dd69a32bc8_1068x597.jpeg

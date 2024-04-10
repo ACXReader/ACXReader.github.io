@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Columbus Day"
 subtitle: "..."
 date: 2022-10-10
-likes: 60
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/77117609/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/313fef30-9124-41fa-9bba-fb4613c4c374_504x331.jpeg

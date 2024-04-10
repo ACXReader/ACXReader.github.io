@@ -2,7 +2,6 @@
 title: "Bride Of Bay Area House Party"
 subtitle: "..."
 date: 2023-08-17
-likes: 356
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/135314872/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/815d2b61-355a-4064-afc4-d4e35d4318d5_1024x754.png

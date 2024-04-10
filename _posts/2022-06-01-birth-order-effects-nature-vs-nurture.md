@@ -2,7 +2,6 @@
 title: "Birth Order Effects: Nature vs. Nurture"
 subtitle: "..."
 date: 2022-06-01
-likes: 109
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/56983266/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/92f7e4b6-4f9f-4fdc-93d5-89aa0946883c_1040x600.jpeg

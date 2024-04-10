@@ -2,7 +2,6 @@
 title: "Know Your Amphetamines"
 subtitle: "In the 1950s, a shady outfit called Obetrol Pharmaceuticals made a popular over-the-counter diet pill called Obetrol..."
 date: 2021-01-25
-likes: 223
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/31845554/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9a9d910f-913a-43f6-bd94-f8cdd777ab0a_297x220.png

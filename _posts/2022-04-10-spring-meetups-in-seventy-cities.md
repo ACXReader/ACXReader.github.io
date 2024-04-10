@@ -2,7 +2,6 @@
 title: "Spring Meetups In Seventy Cities"
 subtitle: "..."
 date: 2022-04-10
-likes: 19
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/51957287/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b11e0324-536b-458b-bd4a-b6db03ee11ba_1600x1067.webp

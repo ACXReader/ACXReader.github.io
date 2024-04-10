@@ -2,7 +2,6 @@
 title: "Your Book Review: Where's My Flying Car?"
 subtitle: "Finalist #14 in the Book Review Contest"
 date: 2021-06-04
-likes: 66
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/37220265/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3754d8a0-8e22-4336-9819-e4a7d8df541e_291x177.jpeg

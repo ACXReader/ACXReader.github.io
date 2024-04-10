@@ -2,7 +2,6 @@
 title: "Moderation Is Different From Censorship"
 subtitle: "..."
 date: 2022-11-03
-likes: 353
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/54920087/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/838bf4e5-5e37-4648-936b-ba3b2ec28b2d_1132x684.png

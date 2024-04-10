@@ -2,7 +2,6 @@
 title: "Your Book Review: God Emperor Of Dune"
 subtitle: "Finalist #14 in the Book Review Contest"
 date: 2022-08-13
-likes: 119
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/68422934/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a621dc83-7e87-4745-8ceb-c6ba1acaf1de_498x344.png

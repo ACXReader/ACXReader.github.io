@@ -2,7 +2,6 @@
 title: "Meetups Everywhere 2022: Times & Places"
 subtitle: "..."
 date: 2022-08-26
-likes: 35
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/70177923/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bfb51497-ee23-42be-87c1-243de697f016_1000x667.jpeg

@@ -2,7 +2,6 @@
 title: "Your Incentives Are Not The Same As Media Companies'"
 subtitle: "..."
 date: 2023-06-15
-likes: 385
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/124524094/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/9f9eae75-c217-4928-bc5c-4b111bfcfbef_776x651.png

@@ -2,7 +2,6 @@
 title: "From Nostradamus To Fukuyama"
 subtitle: "..."
 date: 2022-09-28
-likes: 267
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/50427121/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/864ac707-dd2b-471b-ada9-7c66d97e23b4_1200x675.jpeg

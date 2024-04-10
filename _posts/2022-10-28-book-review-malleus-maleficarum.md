@@ -2,7 +2,6 @@
 title: "Book Review: Malleus Maleficarum"
 subtitle: "Witches get stitches"
 date: 2022-10-28
-likes: 220
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/67354050/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ad78dd67-664c-47ba-ab24-5772d6a1e0c1_395x259.png

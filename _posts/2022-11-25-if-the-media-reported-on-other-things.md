@@ -2,7 +2,6 @@
 title: "If The Media Reported On Other Things Like It Does Effective Altruism"
 subtitle: "..."
 date: 2022-11-25
-likes: 132
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/86461622/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5abe6a04-d7a4-48a4-a537-06d7ee6c75c2_1059x548.png

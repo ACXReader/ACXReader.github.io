@@ -2,7 +2,6 @@
 title: "Janus' Simulators"
 subtitle: "This post isn't exactly about AI, but bear with me"
 date: 2023-01-26
-likes: 313
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/97825611/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/f64967b5-1b58-44d1-ac1b-749abc89cf42_318x259.png

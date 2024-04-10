@@ -2,7 +2,6 @@
 title: "Highlights From The Comments On Semaglutide"
 subtitle: "..."
 date: 2022-11-30
-likes: 62
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/87486911/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/68f9eddd-af76-4e33-9f7a-132d3dfb41a7_336x207.webp

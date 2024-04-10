@@ -2,7 +2,6 @@
 title: "Long COVID: Much More Than You Wanted To Know"
 subtitle: "..."
 date: 2021-09-02
-likes: 97
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40790820/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/88fa87cb-fdd5-46cb-8c88-0920762085a2_919x792.jpeg

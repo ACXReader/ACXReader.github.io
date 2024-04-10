@@ -2,7 +2,6 @@
 title: "A Look Down Track B"
 subtitle: "Do antidepressants bind to TrkB receptors directly?"
 date: 2021-02-22
-likes: 60
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/32783193/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3b96ca59-4b3c-4690-806d-ba7014128ba1_1761x1065.jpeg

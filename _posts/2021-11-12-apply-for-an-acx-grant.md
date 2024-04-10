@@ -2,7 +2,6 @@
 title: "Apply For An ACX Grant"
 subtitle: "..."
 date: 2021-11-12
-likes: 112
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/40213067/comments?&all_comments=true
 image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9054ad15-6bed-4165-942d-653c40aaa268_1344x828.jpeg

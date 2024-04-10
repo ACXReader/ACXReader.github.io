@@ -2,7 +2,6 @@
 title: "Mantic Monday: Dogs In Wizard Hats"
 subtitle: "Also: free money, Chaotic Evil markets, Ukraine invasion"
 date: 2021-12-27
-likes: 41
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/46084477/comments?&all_comments=true
 image: https://substackcdn.com/image/youtube/w_728,c_limit/xA27x7GRMZQ

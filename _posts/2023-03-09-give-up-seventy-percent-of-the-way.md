@@ -2,7 +2,6 @@
 title: "Give Up Seventy Percent Of The Way Through The Hyperstitious Slur Cascade"
 subtitle: "..."
 date: 2023-03-09
-likes: 545
 author: Scott Alexander
 comments: https://www.astralcodexten.com/api/v1/post/100598200/comments?&all_comments=true
 image: https://substack-post-media.s3.amazonaws.com/public/images/5582d281-3e9b-48b6-bcce-7087032484dc_800x450.jpeg
