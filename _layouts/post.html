@@ -37,6 +37,8 @@ layout: base
     </p>
   </header>
 
+  {% include footnote.html %}
+
   <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 
   {%- if site.disqus.shortname -%} {%- include disqus_comments.html -%} {%-
