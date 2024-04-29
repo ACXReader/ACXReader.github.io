@@ -1,7 +1,7 @@
 bs4==0.0.2
 html2text==2024.2.26
 requests==2.31.0
-selenium==4.19.0
+selenium==4.20.0
 tqdm==4.66.2
 webdriver_manager==4.0.1
 dateparser==1.2.0
