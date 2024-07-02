@@ -1,0 +1,153 @@
+---
+title: "Prediction Markets Suggest Replacing Biden"
+subtitle: "..."
+date: 2024-07-02
+author: Scott Alexander
+comments: https://www.astralcodexten.com/api/v1/post/146153982/comments?&all_comments=true
+image: https://substack-post-media.s3.amazonaws.com/public/images/e92bc90b-a11b-47eb-80e5-d59b75372aaa_678x400.png
+original-url: https://www.astralcodexten.com/p/prediction-markets-suggest-replacing
+---
+The last week hasn’t been great for the Democratic Party. First Biden bombed the debate. But the subsequent decision about whether/how to replace Biden has also been embarrassing. Biden has refused to step aside gracefully, and party elites don’t seem to have any contingency plan. Worse, they don’t even seem united on the need to figure anything out, with many deflecting the conversation to irrelevant points like “Trump is also bad” or pretending that nothing is really wrong.
+
+Some of the party’s problems are hard and have no shortcuts. But the big one - figuring out whether replacing Biden would even help the Democrats’ electoral chances - is a good match for prediction markets. Set up markets to find the probability of Democrats winning they nominate Biden, vs. the probability of Democrats winning if they replace him with someone else.
+
+(see my [Prediction Market FAQ](/p/prediction-market-faq) for why I think they are good for cases like these)
+
+Before we go into specifics, the summary result: **Replacing Biden with Harris is neutral to slightly positive; replacing Biden with Newsom or a generic Democrat increases their odds of winning by 10 - 15 percentage points.** There are some potential technical objections to this claim, but they mostly suggest reasons why the markets might overestimate Biden’s chances rather than underestimate them.
+
+The rest of this post is mostly sources and technical discussion trying to establish that this is true. You can skip it if you don’t care. But in case you do:
+
+John Stossel and Maxim Lott have a site called [Election Betting Odds](https://electionbettingodds.com/ElectabilityDEM.html) which tries to aggregate information from many different betting markets to answer questions like these. Here are their claimed headline results - this is probability conditional on being nominated:
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48de7ee1-a6b7-428a-84ce-3ab4adb82884_1068x560.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48de7ee1-a6b7-428a-84ce-3ab4adb82884_1068x560.png)I assume they chose these three because they’re the only ones discussed enough to have enough data. I am following their lead.
+
+I appreciate John and Maxim’s work, but I’m not completely comfortable trusting it. Their model is based on results from Betfair, Smarkets, PredictIt, and Polymarket. But I don’t know much about the first two (as an American, I’m banned from even reading Betfair), and the latter two are notoriously bad at partisan political questions. They usually overestimate Republicans’ chances, partly because Democrats’ opposition to online political betting has turned the pool of online political bettors disproportionately red. While a fluid and easily-accessible prediction market should be able to avoid biases like these, neither PredictIt nor Polymarket really qualifies. The CFTC, which regulates prediction markets, has crippled both - PredictIt has very low maximum investments per market, and Polymarket is crypto-only and banned for US citizens. These have prevented their biases from being corrected and made both of them perform relatively weakly in head-to-head contests.
+
+And Stossel/Lott’s focus on betting sites automatically excludes two of the biggest and most historically accurate forecasting engines from their calculation - Metaculus and Manifold. 
+
+In order to get numbers I trusted more than theirs, I looked at Metaculus, Manifold, PredictIt, and Polymarket, weighting each by how much I trusted it. Here’s what I found:
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f292b7e-751d-4093-943a-9c938d930d59_824x303.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f292b7e-751d-4093-943a-9c938d930d59_824x303.png)As a quick sanity check, this model’s prediction for Biden (31%) exactly matches [Nate Silver’s model’s prediction](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model) (31%) as of today.
+
+You can find my sources at the bottom of the post. “Explicit” odds are based on questions like “What are the chances of Biden winning if he is the nominee?” “Implied” odds were generated by combining the questions “What is the chance of Biden being the nominee?” and “What is the chance of Biden winning?”; this is safe enough with Biden, but with unlikely nominees like Newsom, some of the percentages can get small enough that they start running into small-number-biases and become less trustworthy. I’ve weighted each market’s explicit calculation higher than their implicit one to compensate.
+
+A possible objection to these results: conditional probabilities don’t exactly reflect the intuitive concept of decision-making. That is, we’re not asking “We want to know whether or not to keep Biden, so what are the chances that he’ll win if we do?”, we’re asking the market for the chance that he’ll win, _in the set of worlds where people decide to keep him for other reasons_. We should expect this to overestimate his performance. That is, imagine that tomorrow, Biden has completely recovered, he easily wins his next debate with Trump, and everyone agrees the most recent debate was just a fluke - in that world, he is both more likely to be nominated _and_ more likely to win. Alternatively, if tomorrow he gets much worse and can’t even speak in full sentences, he’s much less likely to be nominated _and_ much more likely to lose. Since the real world includes both those possibilities, restricting ourselves to the set of worlds where he gets nominated means we’re overestimating the chance that he wins. There are similar-albeit-less-severe problems with other candidates - if we choose Newsom, that might be because he won some kind of debate or process versus Harris and all the other potential replacements. Overall I expect this to be mostly correct, but probably overestimate Biden’s chances by a percent or two relative to others.
+
+Along with these three candidates, Metaculus had an explicit “should the Democrats replace Biden?” question:
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7933bcc-fc24-4043-9064-47a958e24497_787x306.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7933bcc-fc24-4043-9064-47a958e24497_787x306.png)
+
+These results are a bit weird - the YES bucket corresponds nicely to my 31% odds of Biden winning, but the NO bucket is higher than the odds for either Harris or Newsom, the two most plausible Biden replacements. Maybe this is because they are adding in some long tail of other possible replacements - or maybe they’re just wrong.
+
+Manifold also asks how Democrats will do if they replace Biden (without specifying a particular replacement):
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe14e0adc-d663-4161-bace-c4506031ad9d_734x599.png)](https://manifold.markets/HamishTodd/conditional-upon-the-democratic-par)
+
+We can compare this to their Biden market…
+
+…and find that once again, they expect replacing Biden to go better (though I think 51% is just cope).
+
+At the Manifest prediction market conference in early June, I interviewed Nate Silver:
+
+…and asked him for his probability that the Democrats would win this election, versus his probability that the Democrats would win conditional on Biden not being the nominee (specifically “drops dead tomorrow of natural causes”). He said 40-45% chance normally, 50% chance without Biden. This was before the debate, but I think it matches the markets’ opinion that switching candidates would help the Democrats’ chances - and this has only become more true since the debate.
+
+On the other hand, polls asking people how they would vote in possible matchups don’t show any advantage of alternate candidates over Biden. [Here’s](https://www.dataforprogress.org/blog/2024/6/29/in-post-debate-poll-voters-think-biden-is-too-old-to-be-president-yet-alternative-candidates-perform-similarly-against-trump) the only post-debate poll I could find:
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff99e148f-4051-40f9-b0c6-22eb10289854_1500x1091.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff99e148f-4051-40f9-b0c6-22eb10289854_1500x1091.png)
+
+And if Biden does need to be replaced, Democrats mostly support Harris, who the prediction markets find least promising:
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d694e0c-d306-4578-a55d-5314ca965a83_1500x1246.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d694e0c-d306-4578-a55d-5314ca965a83_1500x1246.png)
+
+Maybe Democrats are the wrong people to ask - they’re already going to vote Biden, so you want someone who’s more attractive to independents. Of course, in a normal primary it would be Democrats making the decision. But if elites are going to do something behind closed doors, maybe they should take advantage and choose the candidate most likely to win, for once.
+
+I think these polls are the strongest objection to the prediction markets’ verdict. You could make an argument where prediction market users are mostly educated liberal white males, and even though they’re incentivized to honestly determine what ordinary people think, they’re too out-of-touch with ordinary people to do so effectively. Or they might be over-fixating on “voters don’t like Biden’s senility” without considering that, even if voters didn’t know Biden was currently senile before Thursday, they probably guessed that he would become senile sometime in his four-year term, and had basically accepted that his aides would do the hard work. Maybe they prefer a well-known likeable incumbent over an unknown quantity (and the unknown quantity’s potential new/weird aides), even if the well-known likeable incumbent is senile. Maybe elites know more than we do about how hard it is to inject a new candidate at the last moment, how dangerous it is to have someone who hasn’t been thoroughly vetted for scandals, et cetera.
+
+Still, for now I trust the prediction markets. I think replacing Biden would add ~10 prcentage points to the Democrats’ chance of victory. 
+
+At the end of this post, I’ll list the prediction markets I’m using as sources. But before then, a brief interlude of:
+
+### Fuzzy Subjective Human Factors I Am Not Really Qualified To Talk About
+
+Many people on Twitter are asking “how could anyone possibly have been stupid enough to not realize that Biden was senile?”
+
+ _I_ was that stupid. I didn’t say it openly, because I’m at least smart enough to have a high threshold for giving my opinion on political things I don’t know much about. But I thought it in my heart. So in case the people asking “how could anyone have been that stupid?” actually want an explanation, here’s my former reasoning.
+
+Republicans have been accusing Biden of being senile (and the Democrats of hiding it) for at least five years now. Before the 2020 debates, they were excited that this was when they could finally prove once and for all that Biden was senile. Then Biden did fine, and they retreated to “well he’s senile but they have some secret drug they’re giving him, just during debates, that makes him look fine”.
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa11d1a27-cfc2-4708-9db1-e344b391ac9a_1288x758.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa11d1a27-cfc2-4708-9db1-e344b391ac9a_1288x758.png)Notice this is from 2020; according to polls, he did win the debate that year ([source](https://www.vanityfair.com/news/2020/09/donald-trump-joe-biden-debate-drugs))
+
+I [think a lot about experimental cognitive enhancement drugs](/p/nootropics-survey-2020-results), and I can say with confidence that nothing like that exists. Stimulants can help people with mild dementia be more active and motivated, but they don’t really improve cognition directly, and they can’t make a demented person temporarily lucid.
+
+Still, for the past four years, every time Biden was going to do something - a press conference, a State of the Union, whatever - the Republicans would say “ha, this time is going to be the proof that he’s senile!” And then he would always do fine, and they would retreat back to “I guess he used the secret drug this time too”. The satire site _Babylon Bee_ had some funny articles about this:
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92d67bb2-5940-44ba-ad21-df822276280a_781x829.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92d67bb2-5940-44ba-ad21-df822276280a_781x829.png)[Babylon Bee](https://babylonbee.com/news/dc-area-pharmacies-all-out-of-stimulants), after Biden gave a good State of the Union speech earlier this year.
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa986c7ac-16c2-4987-b520-8f6ddf9ad13d_757x690.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa986c7ac-16c2-4987-b520-8f6ddf9ad13d_757x690.png)
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6068601f-0eef-4a1c-b885-19f5712decf1_751x668.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6068601f-0eef-4a1c-b885-19f5712decf1_751x668.png)
+
+Meanwhile, the _Democrats_ were spreading the alternate narrative that _Trump_ was senile. This one has gotten less press, because I don’t know how many people really believed it. But it came up occasionally, along with out-of-context video snippets where Trump said or did something dumb or meandering. Of course, anybody with a presidential candidate’s level of public exposure will have a few gaffes. Even if they don’t, you can always deceptively crop something so it looks like they did.
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb26c689-1e81-422b-9493-ae44cac59125_858x814.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb26c689-1e81-422b-9493-ae44cac59125_858x814.png)Wait, why is a psychoanalyst getting quoted as a top expert in dementia? ([source](https://www.newsweek.com/donald-trump-dementia-evidence-overwhelming-top-psychiatrist-1881247))
+
+[![Change.org petition saying "Our Diagnostic Impression Of Trump Is Dementia - For Licensed Professionals Only"](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F760276bb-2f91-4545-bbf5-d3f9fe911de7_975x654.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F760276bb-2f91-4545-bbf5-d3f9fe911de7_975x654.png)I didn’t know you could diagnose someone via [Change.org petition](https://www.change.org/p/our-diagnostic-impression-of-trump-is-probable-dementia-for-licensed-professionals-only), but 2544 people who claim to be licensed professionals can’t be wrong!
+
+So with the constant attempts to prove that both candidates were senile, the constant demonstration by both candidates that they weren’t, and the constant retreat into conspiracy theories of “I guess he used the magic drug again but we’ll get him next time!”, I just tuned out this entire category of thing. And I guess I kept it tuned out longer than I should have, whoops.
+
+[Reversed stupidity is not intelligence](https://www.lesswrong.com/posts/qNZM3EGoE5ZeMdCRt/reversed-stupidity-is-not-intelligence). Even if liars are saying something for their usual liar reasons, it can still be true. For twenty years, people spread false rumors that Castro was on his deathbed, but this didn’t make Castro immortal. In the same way, I should have figured out that even if I couldn’t trust any particular claim that Biden was senile, the prior for an 81 year old becoming senile was still high.
+
+But I guess I assumed that if he was becoming senile, some Democratic elites would have secret knowledge about it, and they couldn’t possibly be so stupid as to deny it while also scheduling him for a debate where it would inevitably come out. So I figured the Democratic elites who were closest to him thought he was doing well, and I trusted them more than the people who had been wrong every time for the past five years.
+
+I’m still confused what those elites were thinking. Reading the news coverage for the past few days (including some video clips from a post-debate rally where he seemed noticeably better) it seems like some combination of:
+
+  * He has good days and bad days, and they were hoping this would be a good day.
+
+  * He’s better in the daytime than at night (this is a classic dementia symptom called “sundowning”), his aides mostly only saw him during the day, but this debate was at night (9 - 11 PM in his time zone).
+
+  * He’s still good at simple tasks like reading from a teleprompter, and they hoped this would extend to harder tasks like a debate.
+
+
+
+
+I think the most likely story is that his aides noticed he had good days and bad days, thought that most days were good, and figured they’d roll the dice, schedule him for two debates, and hopefully they’d be good days and this would defuse questions about his health. But their luck ran out, they got a bad day, and also they were caught unprepared for how bad he was during the evening.
+
+If this is true, they were probably telling themselves something like “well, he’s an incumbent, the party is united around him, it would be a disaster if we had to replace him, and we can probably make it through the election before this blows up. Since he’s _often_ _mostly_ lucid, we’ll say he’s _always completely_ lucid. It’s just a few white lies, and it will save our party a lot of trouble”. 
+
+If that was their thought process, then I think it’s a good lesson in how bad what seem like “a few white lies” can be. 
+
+I support the Principle of Charity. Nobody ever thinks in their own head “Haha, I am an evil person who is deceiving my friends and the world”. They think “I’m telling little white lies that don’t matter, [for the greater good](/p/less-utilitarian-than-thou)”. But the flip side of that is that every horrible giant deception was perpetrated by people saying “I’m telling little white lies that don’t matter, for the greater good”. And so if _you_ are ever tempted to tell what seem like little white lies that don’t matter for the greater good, you should consider the possibility that actually, you’re being about as mendacious as anybody ever gets, and you have a decent chance of causing a disaster. And if you do cause a disaster, the fact that you didn’t go into it smirking “muahaha, now I shall be an evil person and cause a disaster” won’t be exculpatory.
+
+My quick scan of the law suggests that although DNC delegates can vote their conscience, they were selected for being hardcore Biden supporters, and there’s no way to convince them to ditch him unless he bows out gracefully. I think he should bow out gracefully - not just for pragmatic reasons about helping his party win the election, but because it seems like his administration lied to the American people every time they said he was lucid and things were fine. 
+
+In normal times, I wouldn’t blame him for this. _Every_ early-stage dementia patient (and their family and friends) always tells themselves (and everyone else) that they’re fine. It’s an easy thing to think, there’s never a clear bright-line where things obviously stop being fine, and the charade saves them from having to confront horrifying questions about their own mortality. When I start getting demented, I plan to also insist I’m fine, and you guys will just have to cope with whatever incomprehensible garbage ends up on this blog. But Joe Biden and his family have the future of the country in the balance. They need to step up and do the hard thing.
+
+So I think he should decline the nomination and endorse some likeable purple-state governor. If Kamala Harris gets angry, he should just say “sorry, I’m a demented old man, you can’t blame me for my actions”. If she gets angry at the other Democrats, they should just say “sorry, it’s an old man’s dying wish, it would be cruel not to honor it”. If Biden endorses Newsom, fine, whatever. I don’t like Newsom because he’s all style and no substance, but maybe that’s what we need for a time like this. He’s the closest we can come in the real world to literally putting Generic Democrat on the ballot. Cometh the hour, cometh the man.
+
+But the markets say there’s only a ~25% any of this will happen. So maybe it’s too late to fix things. I think the proper Rationalist response is - okay, we screwed this one up. Now that we’ve learned our lesson, what’s the next upcoming thing like this - the one where we really _are_ still in the window where we can affect it? 
+
+I think it’s Sonia Sotomayor. Nate Silver, who was right on Biden very early, [has been pushing this really hard](https://www.natesilver.net/p/sonia-sotomayors-retirement-is-a). Sotomayor is getting old and unhealthy, and might die within the next four years. If she dies, and Republicans win the Presidency and Senate, Trump will get to nominate her replacement, making the Supreme Court 7-2 conservative. This is the same thing that happened with RBG. Most Democrats wish RBG would have retired when she had the chance. Now Sotomayor has the chance, so she should do it. If we’re going to have a national moment where we worry about aging government officials staying on longer than is good for their party or their country, she should be the next target. Elites can sublimate whatever emotions they’re having about Biden onto Sotomayor, and maybe it’ll do some good.
+
+(I hate saying “elites should” as if I’m just lodging a complaint into the ether. But I genuinely don’t know who I would pressure, or how, to make this happen. I don’t think calling my representative is appropriate here. If someone knows what _is_ appropriate, let me know.)
+
+Speaking of elites - one other update I’ve had from this situation is that I’m less confident that some group fairly called “Democratic elites” is in control in any meaningful way. I always knew that the party had different factions and nobody had obvious, trivial control. But I thought if the party was threatened, some important people could meet in a room and talk things out. Wasn’t this what happened when Obama endorsed Biden over Bernie, everyone pivoted in lockstep, and Bernie’s campaign imploded? I mean sure, maybe this was bad, but didn’t it at least demonstrate “state capacity” that the party could use in more important situations? I don’t know, maybe that was just a fluke and the party has no state capacity at all. I’m not even sure _Biden’s aides_ have state capacity. Maybe the answer to “why didn’t his aides come up with a better plan for this debate?” is just “it wasn’t any particular aide’s job to do that, and they didn’t coordinate”.
+
+This is getting depressing, so here are my prediction market sources for the summary above. Some of these are embeds, which mean they auto-update, which means by the time you read this they might not say what I said they said - all of my numbers are correct as of 1 AM on July 1.
+
+### Prediction Market Sources
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87b53d6f-4d8e-41f1-8353-6160bf69d174_1062x503.png)](https://polymarket.com/event/democratic-nominee-2024?tid=1719815273572)
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04db62e9-4792-4d46-9ccf-0b5a0d04664e_749x602.png)](https://polymarket.com/event/presidential-election-winner-2024?tid=1719815225845)
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9acbbb21-535e-401a-b680-9cfe6626bf3c_1020x626.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9acbbb21-535e-401a-b680-9cfe6626bf3c_1020x626.png)
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89817bdf-c064-4fbe-9304-834e8bbc6746_1036x732.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89817bdf-c064-4fbe-9304-834e8bbc6746_1036x732.png)
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd639f818-0073-4f97-ab00-c01c51bdd1bf_763x900.png)](https://www.metaculus.com/questions/11379/2024-democrat-nominee-for-us-prez/)
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F598ab22f-dedf-49ae-b052-15b1ab1b4e39_786x777.png)](https://www.metaculus.com/questions/11245/winner-of-2024-us-presidential-election/)
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefdaa4bf-e38e-442f-b628-780a35cc2168_797x593.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefdaa4bf-e38e-442f-b628-780a35cc2168_797x593.png)
+
+[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b70b592-9d5d-4adf-9927-09fd850977cd_782x980.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b70b592-9d5d-4adf-9927-09fd850977cd_782x980.png)
