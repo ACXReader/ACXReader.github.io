@@ -1,5 +1,4 @@
 import argparse
-from datetime import date
 import json
 import os
 import sys
@@ -28,7 +27,7 @@ from config import EMAIL, PASSWORD
 USE_PREMIUM: bool = False
 # Substack you want to convert to markdown
 BASE_SUBSTACK_URL: str = "https://map.simonsarris.com/"
-BASE_DIR_NAME: str = "_posts"  # Name of the directory we'll save the files to
+BASE_DIR_NAME: str = "_posts"  # jekyll posts dir
 JSON_DATA_DIR: str = "."
 NUM_POSTS_TO_SCRAPE: int = 0  # Set to 0 if you want all posts
 TIMES_TO_RETRY: int = 5
@@ -47,9 +46,9 @@ class BaseSubstackScraper(ABC):
     def __init__(self, base_substack_url: str, save_dir: str):
         if not base_substack_url.endswith("/"):
             base_substack_url += "/"
+        # some class-wide vars
         self.base_substack_url: str = base_substack_url
         self.writer_name: str = extract_main_part(base_substack_url)
-
         if not os.path.exists(save_dir):
             os.makedirs(save_dir)
             print(f"Created directory {save_dir}")
@@ -59,6 +58,7 @@ class BaseSubstackScraper(ABC):
         self.existing_data: dict[str: str] = {}
         self.premium_articles: List[str] = []
         self.post_urls: dict[str: str] = self.get_new_post_urls()
+        # save post list to file if this script crashes for some reason
         atexit.register(self.save)
 
     def get_new_post_urls(self) -> dict[str, str]:
@@ -72,15 +72,18 @@ class BaseSubstackScraper(ABC):
             root = ET.fromstring(response.content)
             urls = {}
             prefix = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
+            # scrape sitemap xml and save it as {url: last modification time}
             for element in root.findall(prefix + "url"):
                 if element.find(prefix + "lastmod") is not None:
                     urls[element.findtext(
                         prefix + "loc")] = element.findtext(prefix + "lastmod")
             urls = self.filter_urls(urls, self.keywords)
+            # open list of posts
             if os.path.exists("./posts_list.json"):
                 with open("./posts_list.json", 'r', encoding='utf-8') as file:
                     self.existing_data = json.load(file)
                 cleaned = {}
+                # ignore saved posts that have not been modified
                 for url, lastmod in urls.items():
                     if url not in self.existing_data:
                         cleaned[url] = lastmod
@@ -88,6 +91,7 @@ class BaseSubstackScraper(ABC):
                         del self.existing_data[url]
                         cleaned[url] = lastmod
                 urls = cleaned
+            # if premium mode is not enabled, save premium articles and ignore on future runs
             if not self.premium and os.path.exists("./premium_list.json"):
                 with open("./premium_list.json", 'r', encoding='utf-8') as file:
                     self.premium_articles += json.load(file)
@@ -164,10 +168,12 @@ class BaseSubstackScraper(ABC):
         return metadata + content
 
     def get_id_and_img(self, html: str) -> Tuple[str, str]:
+        # there's a line in the post html containing json metadata
+        # that metadata then contains the id and image locations
         start = "<script>window._preloads        = JSON.parse(\""
         end = "\")</script>"
         line = ""
-
+        # find that line by sequential search
         for item in html.split("\n"):
             if item.startswith(start):
                 line = item
@@ -175,6 +181,7 @@ class BaseSubstackScraper(ABC):
         if line == "":
             print("error getting cover image and id!")
             return
+        # clean and read json code
         line = line[len(start):-len(end)]
         line = line.replace("\\\"", "\"").replace("\\\\", "\\")
         parsed = json.loads(line)
@@ -242,6 +249,8 @@ class BaseSubstackScraper(ABC):
         with open("./premium_list.json", 'w', encoding='utf-8') as f:
             json.dump(self.premium_articles, f, ensure_ascii=False, indent=4)
 
+    # replaces html footnotes with md footnotes
+    # there should be a better way of doing this
     def replace_footnotes(self, md: str, match: str, anchor: bool, index: int):
         md2 = ""
         while True:
